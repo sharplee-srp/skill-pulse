@@ -1,0 +1,134 @@
+{
+  "martian-engineering/lossless-claw": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "teng-lin/notebooklm-py": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "en/copilot": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "himself65/finance-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "phuryn/pm-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "imbad0202/academic-research-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "mgechev/skillgrade": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "vercel-labs/agent-browser": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "raphaelsalaja/userinterface-wiki": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "mattpocock/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "leonxlnx/claw-dev": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "sundial-org/awesome-openclaw-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "vercel-labs/emulate": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "oaker-io/wewrite": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "slowmist/slowmist-agent-security": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "nashsu/opencli-rs-skill": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "voltagent/awesome-openclaw-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "superdesigndev/superdesign-skill": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "rookie-ricardo/erduo-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "jimliu/baoyu-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "hkuds/openspace": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "coreyhaines31/marketingskills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "squirrelscan/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "joeseesun/opencli-skill": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "brikerman/skilless.ai": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "obra/superpowers": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "railwayapp/railway-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "dontbesilent2025/dbskill": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
+  "xcrawl-api/xcrawl-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "nowledge-co/community": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "anthropics/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "glincker/thesvg": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  }
+}
