@@ -1,0 +1,42 @@
+name: Track Hot Skills on X
+
+on:
+  schedule:
+    # Run daily at 09:00 UTC (17:00 GMT+8)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install bird CLI
+        run: npm install -g @steipete/bird
+
+      - name: Run tracking script
+        env:
+          BIRD_AUTH_TOKEN: ${{ secrets.BIRD_AUTH_TOKEN }}
+          BIRD_CT0: ${{ secrets.BIRD_CT0 }}
+        run: ./track.sh
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "track: $(date +%Y-%m-%d) skill trends update"
+            git push
+          fi
