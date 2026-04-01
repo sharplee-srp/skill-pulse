@@ -130,5 +130,61 @@
   "glincker/thesvg": {
     "first_seen": "2026-04-01",
     "tier": 0
+  },
+  "shadcn/ui": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "x402agent/solana-claude": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "skillcreatorai/reverse-claude": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "vercel-labs/portless": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "huangserva/servasyy_skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "gmgnai/gmgn-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "cliai21/clawing": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "sandwichlab-ai/lanbow-claw-skill": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "dontbesilent2025/claude-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "superlaomiao/openskills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "browser-act/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "shanoriel/agent-dm": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "runwayml/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "vibetokens/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 3
   }
 }
