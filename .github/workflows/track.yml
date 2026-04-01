@@ -2,8 +2,8 @@ name: Track Hot Skills on X
 
 on:
   schedule:
-    # Run daily at 00:00 UTC (08:00 GMT+8)
-    - cron: '0 0 * * *'
+    # Run daily at 09:00 UTC (17:00 GMT+8)
+    - cron: '0 9 * * *'
   workflow_dispatch: # manual trigger
 
 permissions:
