@@ -1,438 +1,994 @@
 {
+  "2036195789601374705": {
+    "first_seen": "2026-04-01",
+    "author": "claudeai"
+  },
+  "2038663014098899416": {
+    "first_seen": "2026-04-01",
+    "author": "claudeai"
+  },
+  "2036434766661296602": {
+    "first_seen": "2026-04-01",
+    "author": "figma"
+  },
+  "2037554389817213004": {
+    "first_seen": "2026-04-01",
+    "author": "thekitze"
+  },
+  "2021980761210134808": {
+    "first_seen": "2026-04-01",
+    "author": "MiniMax_AI"
+  },
+  "2033558672152854712": {
+    "first_seen": "2026-04-01",
+    "author": "ManusAI"
+  },
+  "2020704611640705485": {
+    "first_seen": "2026-04-01",
+    "author": "steipete"
+  },
+  "2036043904949330407": {
+    "first_seen": "2026-04-01",
+    "author": "openclaw"
+  },
+  "2029620984853188738": {
+    "first_seen": "2026-04-01",
+    "author": "OpenAIDevs"
+  },
+  "2023495040258261460": {
+    "first_seen": "2026-04-01",
+    "author": "nicopreme"
+  },
+  "2031212769694068775": {
+    "first_seen": "2026-04-01",
+    "author": "AlchainHust"
+  },
+  "2038950761522978950": {
+    "first_seen": "2026-04-01",
+    "author": "zodchiii"
+  },
+  "2038677236304245087": {
+    "first_seen": "2026-04-01",
+    "author": "romainhuet"
+  },
+  "2023961490970026163": {
+    "first_seen": "2026-04-01",
+    "author": "openclaw"
+  },
+  "2038248237329682937": {
+    "first_seen": "2026-04-01",
+    "author": "shipper_now"
+  },
+  "2015998216517583211": {
+    "first_seen": "2026-04-01",
+    "author": "jiayuan_jy"
+  },
+  "2038671858862583967": {
+    "first_seen": "2026-04-01",
+    "author": "reach_vb"
+  },
+  "2028128730132922760": {
+    "first_seen": "2026-04-01",
+    "author": "ctatedev"
+  },
+  "1898787053179224289": {
+    "first_seen": "2026-04-01",
+    "author": "deedydas"
+  },
+  "2034337963820327017": {
+    "first_seen": "2026-04-01",
+    "author": "lydiahallie"
+  },
+  "2032044423413182827": {
+    "first_seen": "2026-04-01",
+    "author": "canghe"
+  },
+  "2026900950410215475": {
+    "first_seen": "2026-04-01",
+    "author": "qkl2058"
+  },
+  "2034437193456906440": {
+    "first_seen": "2026-04-01",
+    "author": "zacxbt"
+  },
+  "2001727543377039647": {
+    "first_seen": "2026-04-01",
+    "author": "code"
+  },
+  "2026801420872093708": {
+    "first_seen": "2026-04-01",
+    "author": "Hesamation"
+  },
+  "2031766939698376870": {
+    "first_seen": "2026-04-01",
+    "author": "hooeem"
+  },
+  "2010690881397940340": {
+    "first_seen": "2026-04-01",
+    "author": "yanhua1010"
+  },
+  "2037145631987556748": {
+    "first_seen": "2026-04-01",
+    "author": "heyrimsha"
+  },
+  "2014753596223770841": {
+    "first_seen": "2026-04-01",
+    "author": "cursor_ai"
+  },
+  "2033945823973671283": {
+    "first_seen": "2026-04-01",
+    "author": "raphaelsalaja"
+  },
+  "2031401902207049914": {
+    "first_seen": "2026-04-01",
+    "author": "vivoplt"
+  },
+  "2013325586945691933": {
+    "first_seen": "2026-04-01",
+    "author": "antigravity"
+  },
+  "2036857428273487903": {
+    "first_seen": "2026-04-01",
+    "author": "openclaw"
+  },
+  "2026484741692875101": {
+    "first_seen": "2026-04-01",
+    "author": "IndieDevHailey"
+  },
+  "2031927362712117380": {
+    "first_seen": "2026-04-01",
+    "author": "Alfredxia"
+  },
+  "2027809304116342846": {
+    "first_seen": "2026-04-01",
+    "author": "ctatedev"
+  },
+  "2032074102656418113": {
+    "first_seen": "2026-04-01",
+    "author": "WiseInvest513"
+  },
+  "2013752422058074518": {
+    "first_seen": "2026-04-01",
+    "author": "stitchbygoogle"
+  },
+  "2019471840171946356": {
+    "first_seen": "2026-04-01",
+    "author": "aakashgupta"
+  },
+  "2034196862794961299": {
+    "first_seen": "2026-04-01",
+    "author": "KKaWSB"
+  },
+  "2038067740741910949": {
+    "first_seen": "2026-04-01",
+    "author": "yihui_indie"
+  },
+  "1996394525804433638": {
+    "first_seen": "2026-04-01",
+    "author": "AlexFinn"
+  },
+  "1973093532282851837": {
+    "first_seen": "2026-04-01",
+    "author": "cursor_ai"
+  },
+  "2035747751221490052": {
+    "first_seen": "2026-04-01",
+    "author": "NainsiDwiv50980"
+  },
+  "2031604167106834778": {
+    "first_seen": "2026-04-01",
+    "author": "aakashgupta"
+  },
+  "2018919744590754029": {
+    "first_seen": "2026-04-01",
+    "author": "yuyy614893671"
+  },
+  "2037573384674930715": {
+    "first_seen": "2026-04-01",
+    "author": "chongdashu"
+  },
+  "2025892950396534790": {
+    "first_seen": "2026-04-01",
+    "author": "chenchengpro"
+  },
+  "2036778035299667999": {
+    "first_seen": "2026-04-01",
+    "author": "mattiapomelli"
+  },
+  "2031488299240415642": {
+    "first_seen": "2026-04-01",
+    "author": "minchoi"
+  },
+  "2033855423623925869": {
+    "first_seen": "2026-04-01",
+    "author": "chenchengpro"
+  },
+  "2035602169618223309": {
+    "first_seen": "2026-04-01",
+    "author": "jasonzhou1993"
+  },
   "2038706332119797894": {
     "first_seen": "2026-04-01",
     "author": "gregisenberg"
   },
-  "2038872366743502989": {
+  "2031463696849940840": {
     "first_seen": "2026-04-01",
-    "author": "SuguruKun_ai"
+    "author": "antigravity"
   },
-  "2034913646724153764": {
+  "2031070907712811455": {
     "first_seen": "2026-04-01",
-    "author": "chribjel"
+    "author": "lennysan"
   },
-  "2038988527103566264": {
+  "2027336259040133499": {
     "first_seen": "2026-04-01",
-    "author": "minara"
+    "author": "_vmlops"
   },
-  "2038708720453173749": {
+  "2019699551578607659": {
+    "first_seen": "2026-04-01",
+    "author": "binghe"
+  },
+  "2033739950102073569": {
+    "first_seen": "2026-04-01",
+    "author": "ring_hyacinth"
+  },
+  "2036439431352041911": {
+    "first_seen": "2026-04-01",
+    "author": "github"
+  },
+  "1912161239465177205": {
+    "first_seen": "2026-04-01",
+    "author": "aidenybai"
+  },
+  "1920414725218685226": {
+    "first_seen": "2026-04-01",
+    "author": "filiksyos"
+  },
+  "2038469585540944249": {
+    "first_seen": "2026-04-01",
+    "author": "Khazix0918"
+  },
+  "2034374282504015964": {
+    "first_seen": "2026-04-01",
+    "author": "googledevs"
+  },
+  "2038758029940654507": {
+    "first_seen": "2026-04-01",
+    "author": "Hesamation"
+  },
+  "2031887459085377887": {
+    "first_seen": "2026-04-01",
+    "author": "enesakar"
+  },
+  "2036114136245969025": {
+    "first_seen": "2026-04-01",
+    "author": "dotey"
+  },
+  "1897676596506411044": {
+    "first_seen": "2026-04-01",
+    "author": "cjzafir"
+  },
+  "2035756810179670376": {
+    "first_seen": "2026-04-01",
+    "author": "ctatedev"
+  },
+  "2037174549603881000": {
+    "first_seen": "2026-04-01",
+    "author": "wangray"
+  },
+  "2038707700226466121": {
     "first_seen": "2026-04-01",
     "author": "startupideaspod"
   },
-  "2023878187374309699": {
+  "2037993380966432875": {
     "first_seen": "2026-04-01",
-    "author": "ryolu_"
+    "author": "jesselaunz"
   },
-  "2027952556606165442": {
+  "2036992971355414911": {
     "first_seen": "2026-04-01",
-    "author": "ShonerStyle"
+    "author": "bozhou_ai"
   },
-  "2030863730947612867": {
+  "2026505988702867485": {
     "first_seen": "2026-04-01",
-    "author": "aakashgupta"
+    "author": "openclaw"
   },
-  "2039111726139150825": {
+  "2037331698548195579": {
     "first_seen": "2026-04-01",
-    "author": "googleaidevs"
+    "author": "nickbakeddesign"
   },
-  "2038996157850964411": {
+  "2033272582296752138": {
     "first_seen": "2026-04-01",
-    "author": "nadoHQ"
+    "author": "milesdeutscher"
   },
-  "2039027090100769271": {
+  "2030885614502183367": {
     "first_seen": "2026-04-01",
-    "author": "eshanbuilds"
+    "author": "RhysSullivan"
   },
-  "2032038996243538134": {
+  "2036745165612921145": {
     "first_seen": "2026-04-01",
-    "author": "OscarFalmer"
+    "author": "nash_su"
   },
-  "2032045687844544665": {
+  "2000228121467904054": {
     "first_seen": "2026-04-01",
-    "author": "PatrickAlphaC"
+    "author": "Pluvio9yte"
   },
-  "2030121964552212837": {
+  "2013680417233346927": {
     "first_seen": "2026-04-01",
-    "author": "Jayant818x"
+    "author": "startupideaspod"
   },
-  "2032401329738727873": {
+  "2037942996243529730": {
     "first_seen": "2026-04-01",
-    "author": "Drawmarket_"
+    "author": "twannl"
   },
-  "2039036400968912925": {
+  "2014270488391164012": {
     "first_seen": "2026-04-01",
-    "author": "ConejoCapital"
+    "author": "jasonzhou1993"
   },
-  "2032923364424057007": {
+  "2032360853773947193": {
     "first_seen": "2026-04-01",
-    "author": "cathrynlavery"
+    "author": "lukfan"
   },
-  "2039191283273465937": {
+  "2003712630582612066": {
     "first_seen": "2026-04-01",
-    "author": "freeCodeCamp"
+    "author": "dotey"
   },
-  "2029592709791395845": {
+  "2028320139368714644": {
     "first_seen": "2026-04-01",
-    "author": "AISecHub"
+    "author": "lxfater"
   },
-  "2039002277269438829": {
+  "2038441251037434192": {
     "first_seen": "2026-04-01",
-    "author": "SamiBizConsult"
+    "author": "dotey"
   },
-  "2039053620310659254": {
+  "1947715601159622841": {
     "first_seen": "2026-04-01",
-    "author": "jamesqquick"
+    "author": "dr_cintas"
+  },
+  "2033704870587383815": {
+    "first_seen": "2026-04-01",
+    "author": "RookieRicardoR"
+  },
+  "2018869290179674407": {
+    "first_seen": "2026-04-01",
+    "author": "songguoxiansen"
+  },
+  "2014374962325323893": {
+    "first_seen": "2026-04-01",
+    "author": "PaulSolt"
+  },
+  "2015858244929900562": {
+    "first_seen": "2026-04-01",
+    "author": "andresmatte"
+  },
+  "2032817426979860936": {
+    "first_seen": "2026-04-01",
+    "author": "vikingmute"
+  },
+  "2026725771738268135": {
+    "first_seen": "2026-04-01",
+    "author": "dr_cintas"
+  },
+  "2034553044487282754": {
+    "first_seen": "2026-04-01",
+    "author": "FuSheng_0306"
+  },
+  "1950117243246821770": {
+    "first_seen": "2026-04-01",
+    "author": "hot_town"
+  },
+  "2027734178696204707": {
+    "first_seen": "2026-04-01",
+    "author": "ClawiAi"
+  },
+  "2026279233279136117": {
+    "first_seen": "2026-04-01",
+    "author": "0xCygaar"
+  },
+  "2029836063808655480": {
+    "first_seen": "2026-04-01",
+    "author": "dotey"
+  },
+  "2031522059696951733": {
+    "first_seen": "2026-04-01",
+    "author": "HanPaoao"
+  },
+  "2037707528642199907": {
+    "first_seen": "2026-04-01",
+    "author": "yihui_indie"
+  },
+  "1895467975853179078": {
+    "first_seen": "2026-04-01",
+    "author": "tom_doerr"
+  },
+  "2022792999676100879": {
+    "first_seen": "2026-04-01",
+    "author": "github"
+  },
+  "2037462300299526230": {
+    "first_seen": "2026-04-01",
+    "author": "gm365"
+  },
+  "2014012445468090745": {
+    "first_seen": "2026-04-01",
+    "author": "dotey"
+  },
+  "2035694697553740034": {
+    "first_seen": "2026-04-01",
+    "author": "EHuanglu"
+  },
+  "2034207007151153280": {
+    "first_seen": "2026-04-01",
+    "author": "xiaohu"
+  },
+  "2037503331539538294": {
+    "first_seen": "2026-04-01",
+    "author": "vikingmute"
+  },
+  "2036864953786008056": {
+    "first_seen": "2026-04-01",
+    "author": "aiedge_"
+  },
+  "2037004192620204459": {
+    "first_seen": "2026-04-01",
+    "author": "evilcos"
+  },
+  "1804932544263012793": {
+    "first_seen": "2026-04-01",
+    "author": "rohanpaul_ai"
+  },
+  "2036722451548090758": {
+    "first_seen": "2026-04-01",
+    "author": "Saccc_c"
+  },
+  "1920456132566356277": {
+    "first_seen": "2026-04-01",
+    "author": "PrajwalTomar_"
+  },
+  "2035684681463869856": {
+    "first_seen": "2026-04-01",
+    "author": "vikingmute"
+  },
+  "2036140512718078238": {
+    "first_seen": "2026-04-01",
+    "author": "findatasets"
+  },
+  "2038426296993399195": {
+    "first_seen": "2026-04-01",
+    "author": "shao__meng"
+  },
+  "1972299856351010862": {
+    "first_seen": "2026-04-01",
+    "author": "Meer_AIIT"
+  },
+  "2037525041265647655": {
+    "first_seen": "2026-04-01",
+    "author": "geekbb"
+  },
+  "2014792919283335645": {
+    "first_seen": "2026-04-01",
+    "author": "stitchbygoogle"
+  },
+  "2028674883346112747": {
+    "first_seen": "2026-04-01",
+    "author": "AYi_AInotes"
+  },
+  "2035394887961731189": {
+    "first_seen": "2026-04-01",
+    "author": "simplifyinAI"
+  },
+  "1932516093333266538": {
+    "first_seen": "2026-04-01",
+    "author": "kevinhou22"
+  },
+  "2035347878936273142": {
+    "first_seen": "2026-04-01",
+    "author": "axiaisacat"
+  },
+  "2032788846581031362": {
+    "first_seen": "2026-04-01",
+    "author": "Voxyz_ai"
+  },
+  "2038786130267771003": {
+    "first_seen": "2026-04-01",
+    "author": "LufzzLiz"
+  },
+  "2035005253230502341": {
+    "first_seen": "2026-04-01",
+    "author": "unixzii"
+  },
+  "2028366524201705794": {
+    "first_seen": "2026-04-01",
+    "author": "NFTCPS"
+  },
+  "2037364143070785696": {
+    "first_seen": "2026-04-01",
+    "author": "jiroucaigou"
+  },
+  "2029272199073354105": {
+    "first_seen": "2026-04-01",
+    "author": "LangChain"
+  },
+  "2006357638028947706": {
+    "first_seen": "2026-04-01",
+    "author": "axtrur"
+  },
+  "2033211622647341196": {
+    "first_seen": "2026-04-01",
+    "author": "GoogleCloudTech"
+  },
+  "2030003329456296325": {
+    "first_seen": "2026-04-01",
+    "author": "browser_use"
+  },
+  "2033426419523756147": {
+    "first_seen": "2026-04-01",
+    "author": "vista8"
+  },
+  "1893746108406349826": {
+    "first_seen": "2026-04-01",
+    "author": "windsurf"
+  },
+  "1940179526710935908": {
+    "first_seen": "2026-04-01",
+    "author": "tuturetom"
+  },
+  "2020142267210625212": {
+    "first_seen": "2026-04-01",
+    "author": "huangyun_122"
+  },
+  "2038097883627459067": {
+    "first_seen": "2026-04-01",
+    "author": "AI_jacksaku"
+  },
+  "1962670879357444163": {
+    "first_seen": "2026-04-01",
+    "author": "rileybrown"
+  },
+  "2038217021670768790": {
+    "first_seen": "2026-04-01",
+    "author": "onevcat"
+  },
+  "2034818161942642835": {
+    "first_seen": "2026-04-01",
+    "author": "Zh_Crypto517"
+  },
+  "2032319460586213485": {
+    "first_seen": "2026-04-01",
+    "author": "safaricheung"
+  },
+  "1991054615933337994": {
+    "first_seen": "2026-04-01",
+    "author": "shai_wininger"
+  },
+  "2034433169672610017": {
+    "first_seen": "2026-04-01",
+    "author": "cnyzgkc"
+  },
+  "2013116868761149644": {
+    "first_seen": "2026-04-01",
+    "author": "app_sail"
+  },
+  "2028575626190279130": {
+    "first_seen": "2026-04-01",
+    "author": "OpenHandsDev"
+  },
+  "2029618086374944771": {
+    "first_seen": "2026-04-01",
+    "author": "LangChain"
+  },
+  "2031077511661342799": {
+    "first_seen": "2026-04-01",
+    "author": "jerryjliu0"
+  },
+  "2036975150500057570": {
+    "first_seen": "2026-04-01",
+    "author": "shao__meng"
+  },
+  "1976815774087184618": {
+    "first_seen": "2026-04-01",
+    "author": "howie_serious"
+  },
+  "2035527386842927260": {
+    "first_seen": "2026-04-01",
+    "author": "servasyy_ai"
+  },
+  "1976110581926224143": {
+    "first_seen": "2026-04-01",
+    "author": "yihui_indie"
+  },
+  "2017795802253652106": {
+    "first_seen": "2026-04-01",
+    "author": "0xluffy_eth"
+  },
+  "2035170526755475479": {
+    "first_seen": "2026-04-01",
+    "author": "shao__meng"
+  },
+  "2037545387393773656": {
+    "first_seen": "2026-04-01",
+    "author": "kavi_deniz"
+  },
+  "2037146070875320394": {
+    "first_seen": "2026-04-01",
+    "author": "lianyanshe"
+  },
+  "2032858336325218362": {
+    "first_seen": "2026-04-01",
+    "author": "MaiMaiTi778"
+  },
+  "1915712326604583174": {
+    "first_seen": "2026-04-01",
+    "author": "yihui_indie"
+  },
+  "2038427720473039222": {
+    "first_seen": "2026-04-01",
+    "author": "jarodise"
+  },
+  "1896214709814112534": {
+    "first_seen": "2026-04-01",
+    "author": "jackfriks"
+  },
+  "1993511875989098512": {
+    "first_seen": "2026-04-01",
+    "author": "yan5xu"
+  },
+  "1943295167491871112": {
+    "first_seen": "2026-04-01",
+    "author": "ryancarson"
+  },
+  "2003401058664743234": {
+    "first_seen": "2026-04-01",
+    "author": "yihui_indie"
+  },
+  "2037867725591044114": {
+    "first_seen": "2026-04-01",
+    "author": "Hesamation"
+  },
+  "1917317173380538679": {
+    "first_seen": "2026-04-01",
+    "author": "dongxi_nlp"
+  },
+  "2038778485699997864": {
+    "first_seen": "2026-04-01",
+    "author": "0xcherry"
+  },
+  "2037743705734664363": {
+    "first_seen": "2026-04-01",
+    "author": "imaxichuhai"
+  },
+  "2038132970855571460": {
+    "first_seen": "2026-04-01",
+    "author": "sukh_saroy"
+  },
+  "2033894109040283824": {
+    "first_seen": "2026-04-01",
+    "author": "howie_serious"
+  },
+  "1876052201518625131": {
+    "first_seen": "2026-04-01",
+    "author": "hunterhammonds"
+  },
+  "2038673614426484996": {
+    "first_seen": "2026-04-01",
+    "author": "amritwt"
+  },
+  "2037440270544040116": {
+    "first_seen": "2026-04-01",
+    "author": "DtDt666"
+  },
+  "2035932053536227339": {
+    "first_seen": "2026-04-01",
+    "author": "NFTCPS"
+  },
+  "2010663294542176522": {
+    "first_seen": "2026-04-01",
+    "author": "rohanpaul_ai"
+  },
+  "2032475208398086543": {
+    "first_seen": "2026-04-01",
+    "author": "sukh_saroy"
+  },
+  "2036636722398990483": {
+    "first_seen": "2026-04-01",
+    "author": "yaohui12138"
+  },
+  "2037095346095202318": {
+    "first_seen": "2026-04-01",
+    "author": "mattiapomelli"
+  },
+  "1953794784952562116": {
+    "first_seen": "2026-04-01",
+    "author": "EHuanglu"
+  },
+  "1897692376077852687": {
+    "first_seen": "2026-04-01",
+    "author": "DanHollick"
+  },
+  "2038935412220059716": {
+    "first_seen": "2026-04-01",
+    "author": "LukeberryPi"
+  },
+  "2034786527096848864": {
+    "first_seen": "2026-04-01",
+    "author": "0xshawnpang"
   },
   "2038766350273859880": {
     "first_seen": "2026-04-01",
     "author": "NoahEpstein_"
   },
-  "2034955628922175982": {
+  "2031907707427701152": {
     "first_seen": "2026-04-01",
-    "author": "Hartdrawss"
+    "author": "DeFiTeddy2020"
   },
-  "2031797042461409438": {
+  "2034279190607052831": {
     "first_seen": "2026-04-01",
-    "author": "kinopee_ai"
+    "author": "AlchainHust"
   },
-  "2039150115235971450": {
+  "1913246213979423031": {
     "first_seen": "2026-04-01",
-    "author": "iruletheworldmo"
+    "author": "kieranklaassen"
   },
-  "2034272568807661885": {
+  "1971458001556079050": {
     "first_seen": "2026-04-01",
-    "author": "pontusab"
+    "author": "harshitagu72595"
   },
-  "2038629832649478288": {
+  "2030102481309450588": {
     "first_seen": "2026-04-01",
-    "author": "AzureDevOps"
+    "author": "AI_jacksaku"
   },
-  "2039138933305700782": {
+  "2037691388658143654": {
     "first_seen": "2026-04-01",
-    "author": "stacy_muur"
+    "author": "QingQ77"
   },
-  "2039021654547067229": {
+  "2038004681579090220": {
     "first_seen": "2026-04-01",
-    "author": "shivst3r"
+    "author": "sukh_saroy"
   },
-  "2034634538761032107": {
+  "2038468126845632997": {
     "first_seen": "2026-04-01",
-    "author": "CodelyTV"
+    "author": "xxxjzuo"
   },
-  "2039080667447726202": {
+  "2035928823347437661": {
     "first_seen": "2026-04-01",
-    "author": "tom_doerr"
+    "author": "abhijitwt"
   },
-  "2038786904565633052": {
+  "2035024635738431986": {
+    "first_seen": "2026-04-01",
+    "author": "llama_index"
+  },
+  "1925930039838695600": {
+    "first_seen": "2026-04-01",
+    "author": "_philschmid"
+  },
+  "2038139506843632105": {
+    "first_seen": "2026-04-01",
+    "author": "yanhua1010"
+  },
+  "2013614892754915391": {
+    "first_seen": "2026-04-01",
+    "author": "nishimiya"
+  },
+  "2027392193825304855": {
+    "first_seen": "2026-04-01",
+    "author": "QingQ77"
+  },
+  "2017238736908751084": {
     "first_seen": "2026-04-01",
     "author": "shao__meng"
   },
-  "2038979630938325156": {
+  "2038915820487856287": {
     "first_seen": "2026-04-01",
-    "author": "DuskFoundation"
+    "author": "chenchengpro"
   },
-  "2039178790329536717": {
+  "1945918293199687701": {
     "first_seen": "2026-04-01",
-    "author": "aakashgupta"
+    "author": "windsurf"
   },
-  "2038933318289465601": {
+  "2038791588000739394": {
     "first_seen": "2026-04-01",
-    "author": "nichxbt"
+    "author": "gkxspace"
   },
-  "2038697167854907515": {
+  "2022511936693506259": {
     "first_seen": "2026-04-01",
-    "author": "kevinkern"
+    "author": "howie_serious"
   },
-  "2039062790720327704": {
+  "1913284022178086948": {
     "first_seen": "2026-04-01",
-    "author": "svpino"
+    "author": "buildonbase"
   },
-  "2039194799782363463": {
+  "2034792529259110872": {
     "first_seen": "2026-04-01",
-    "author": "protonnz"
+    "author": "AYi_AInotes"
   },
-  "2039057153504215352": {
+  "2037938626408190447": {
     "first_seen": "2026-04-01",
-    "author": "shadcn"
+    "author": "SciTechera"
   },
-  "2039206010141716931": {
+  "2038463140799689080": {
     "first_seen": "2026-04-01",
-    "author": "trikcode"
+    "author": "dotey"
   },
-  "2028913752960319540": {
+  "2025846118542901436": {
     "first_seen": "2026-04-01",
-    "author": "1_missthesun"
+    "author": "0xAA_Science"
   },
-  "2038994740142559642": {
+  "2039141022333030904": {
     "first_seen": "2026-04-01",
-    "author": "codyschneiderxx"
+    "author": "iamzhihui"
   },
-  "2039107231388725275": {
+  "2038239999993209271": {
     "first_seen": "2026-04-01",
-    "author": "coreyhainesco"
+    "author": "ClickHouseDB"
   },
-  "2039161761295663135": {
+  "2038237739154325947": {
     "first_seen": "2026-04-01",
-    "author": "dani_avila7"
+    "author": "QingQ77"
   },
-  "2039059924467302863": {
+  "1942373212911984729": {
     "first_seen": "2026-04-01",
-    "author": "eveporcello"
+    "author": "windsurf"
   },
-  "2039122140210028894": {
+  "2038865089101746305": {
     "first_seen": "2026-04-01",
-    "author": "AlexReibman"
+    "author": "1Umairshaikh"
   },
-  "2039061754647293980": {
+  "2039049316212621537": {
     "first_seen": "2026-04-01",
-    "author": "m_ashcroft"
+    "author": "tuhin"
   },
-  "2039050234492235826": {
+  "2037824388876124526": {
     "first_seen": "2026-04-01",
-    "author": "0rdlibrary"
+    "author": "AlchainHust"
   },
-  "2039098310737240474": {
+  "2038876275222393152": {
     "first_seen": "2026-04-01",
-    "author": "grok"
+    "author": "aehyok"
   },
-  "2039119354869268855": {
+  "2038128727570489751": {
     "first_seen": "2026-04-01",
-    "author": "OnurES_"
+    "author": "runes_leo"
   },
-  "2039198632482852965": {
+  "2035282491649728967": {
     "first_seen": "2026-04-01",
-    "author": "NGWT_FE"
+    "author": "Anitahityou"
   },
-  "2039074246492557364": {
+  "2036133301979848803": {
     "first_seen": "2026-04-01",
-    "author": "SolanaClaudeOS"
+    "author": "wey_gu"
   },
-  "2039041520557605298": {
+  "2037265000927007214": {
     "first_seen": "2026-04-01",
-    "author": "sergeykarayev"
+    "author": "demos_network"
   },
-  "2039202444853518484": {
+  "2038151939494756493": {
     "first_seen": "2026-04-01",
-    "author": "MayankBohra06"
+    "author": "krishdotdev"
   },
-  "2039053877673128248": {
+  "2036835477672829309": {
     "first_seen": "2026-04-01",
-    "author": "samrags_"
+    "author": "mrmagan_"
   },
-  "2039051463045861535": {
+  "2018176978541858902": {
     "first_seen": "2026-04-01",
-    "author": "ctatedev"
+    "author": "FuSheng_0306"
   },
-  "2039050276233957492": {
+  "2038584234491969694": {
     "first_seen": "2026-04-01",
-    "author": "0rdlibrary"
+    "author": "NFTCPS"
   },
-  "2039212607878385740": {
+  "2038785137115316250": {
     "first_seen": "2026-04-01",
-    "author": "LordThiouk"
+    "author": "berryxia"
   },
-  "2039197653192630723": {
+  "2038791095514235359": {
     "first_seen": "2026-04-01",
-    "author": "moriyorihayash1"
+    "author": "yanhua1010"
   },
-  "2039229563985936521": {
+  "1945171895344644476": {
     "first_seen": "2026-04-01",
-    "author": "0xallen69"
+    "author": "parsluci"
   },
-  "2039204838408610028": {
+  "1942373207186825606": {
     "first_seen": "2026-04-01",
-    "author": "Yitong478921Li"
+    "author": "windsurf"
   },
-  "2039228897917903192": {
+  "2033231789481930873": {
     "first_seen": "2026-04-01",
-    "author": "bash0C7"
+    "author": "kamranbekirovyz"
   },
-  "2039226561463824824": {
+  "2039147454294290851": {
     "first_seen": "2026-04-01",
-    "author": "garyo"
+    "author": "berryxia"
   },
-  "2039209217693974792": {
+  "2038825917364216277": {
     "first_seen": "2026-04-01",
-    "author": "qloog"
+    "author": "yanhua1010"
   },
-  "2039201843490807848": {
+  "1932841731738767405": {
     "first_seen": "2026-04-01",
-    "author": "Sabrina_Ramonov"
+    "author": "benjaminsehl"
   },
-  "2039194269693399198": {
+  "2038528597636633067": {
     "first_seen": "2026-04-01",
-    "author": "X9STEW"
+    "author": "wquguru"
   },
-  "2039148286334919091": {
+  "2038454371260957093": {
     "first_seen": "2026-04-01",
-    "author": "peter_io"
+    "author": "timyangnet"
   },
-  "2039084948611592426": {
+  "2038874333079359801": {
     "first_seen": "2026-04-01",
-    "author": "grok"
+    "author": "billtheinvestor"
   },
-  "2039205594012467661": {
+  "1940441422856933868": {
     "first_seen": "2026-04-01",
-    "author": "threadbroda"
+    "author": "julianharris"
   },
-  "2039230144246620524": {
+  "2037183524781093106": {
     "first_seen": "2026-04-01",
-    "author": "YaseWings"
+    "author": "yashagw"
   },
-  "2039225400971211230": {
+  "2038990284059451661": {
     "first_seen": "2026-04-01",
-    "author": "ModernGrindTech"
+    "author": "dragonfluss"
   },
-  "2039225104283078830": {
+  "2038808690619207712": {
     "first_seen": "2026-04-01",
-    "author": "AiwithRayyan"
+    "author": "axiaisacat"
   },
-  "2039221689054318892": {
+  "2037983928485638200": {
     "first_seen": "2026-04-01",
-    "author": "garrytan"
+    "author": "Cheetah_x0"
   },
-  "2039220806807396693": {
+  "1957194866796241230": {
     "first_seen": "2026-04-01",
-    "author": "Kvothe_Web3"
+    "author": "itsandrewgao"
   },
-  "2039219760232276070": {
+  "2039002251096703192": {
     "first_seen": "2026-04-01",
-    "author": "frendriadi4386"
+    "author": "wild_reptilians"
   },
-  "2039211623186087970": {
+  "2038622020376969216": {
     "first_seen": "2026-04-01",
-    "author": "ShadabLoveAi"
+    "author": "ZooClawAI"
   },
-  "2039211535919399255": {
+  "2039198570289435071": {
     "first_seen": "2026-04-01",
-    "author": "kiyoyo0128"
+    "author": "guangGitHub"
   },
-  "2039207432451465410": {
+  "2038621816147890297": {
     "first_seen": "2026-04-01",
-    "author": "trentct"
+    "author": "ZooClawAI"
   },
-  "2039204604332642388": {
+  "2038980174746984841": {
     "first_seen": "2026-04-01",
-    "author": "TimeToBuildBob"
+    "author": "ZooClawAI"
   },
-  "2039231159385948331": {
+  "2039227343554892069": {
     "first_seen": "2026-04-01",
-    "author": "AnandGupta1202"
+    "author": "fankaishuoai"
   },
-  "2039221462662623388": {
+  "2038875334834352159": {
     "first_seen": "2026-04-01",
-    "author": "imrishabsharma"
+    "author": "linxiaobei888"
   },
-  "2039204142959280225": {
+  "2031564207498404340": {
     "first_seen": "2026-04-01",
-    "author": "stillmovingx"
+    "author": "MuKamal10"
   },
-  "2039179250998374504": {
+  "2024788916684148811": {
     "first_seen": "2026-04-01",
-    "author": "shitcoinmaster_"
+    "author": "wey_gu"
   },
-  "2039167341544849730": {
+  "2038836182860091790": {
     "first_seen": "2026-04-01",
-    "author": "DBirker78883"
+    "author": "guangGitHub"
   },
-  "2039138604480438360": {
+  "2039231971096994149": {
     "first_seen": "2026-04-01",
-    "author": "TomilolaNa53446"
+    "author": "0xLogicrw"
   },
-  "2039124977568645368": {
+  "2038998040481341751": {
     "first_seen": "2026-04-01",
-    "author": "tun2049"
-  },
-  "2039106064273060339": {
-    "first_seen": "2026-04-01",
-    "author": "Classicayo09"
-  },
-  "2039095103600345523": {
-    "first_seen": "2026-04-01",
-    "author": "ai_rdj"
-  },
-  "2039070172082843874": {
-    "first_seen": "2026-04-01",
-    "author": "assaflavie"
-  },
-  "2039199517351002308": {
-    "first_seen": "2026-04-01",
-    "author": "superlaomiao"
-  },
-  "2039167180139327876": {
-    "first_seen": "2026-04-01",
-    "author": "browseract"
-  },
-  "2039156812914536615": {
-    "first_seen": "2026-04-01",
-    "author": "JasonHall_pro"
-  },
-  "2039085142136828345": {
-    "first_seen": "2026-04-01",
-    "author": "kamilsindi"
-  },
-  "2039067173830697152": {
-    "first_seen": "2026-04-01",
-    "author": "vibetokens"
-  },
-  "2039062986640293943": {
-    "first_seen": "2026-04-01",
-    "author": "AI_Boilerplate"
-  },
-  "2039028451211120962": {
-    "first_seen": "2026-04-01",
-    "author": "nardibraho"
-  },
-  "2039233004418031849": {
-    "first_seen": "2026-04-01",
-    "author": "santanamexido"
-  },
-  "2039226018230423966": {
-    "first_seen": "2026-04-01",
-    "author": "hammadtariq"
-  },
-  "2039224986947432483": {
-    "first_seen": "2026-04-01",
-    "author": "tomohi_ro"
-  },
-  "2039223713183502509": {
-    "first_seen": "2026-04-01",
-    "author": "LukeDiebold"
-  },
-  "2039221457595809926": {
-    "first_seen": "2026-04-01",
-    "author": "S_orza"
-  },
-  "2039205029643722816": {
-    "first_seen": "2026-04-01",
-    "author": "ybalexdp"
-  },
-  "2039204551971278904": {
-    "first_seen": "2026-04-01",
-    "author": "aktwits"
-  },
-  "2039194663496896595": {
-    "first_seen": "2026-04-01",
-    "author": "kuroko_xh"
-  },
-  "2039228832188699055": {
-    "first_seen": "2026-04-01",
-    "author": "AlexandreBoyerX"
-  },
-  "2039227863841313036": {
-    "first_seen": "2026-04-01",
-    "author": "MidtSail"
-  },
-  "2039217881909706752": {
-    "first_seen": "2026-04-01",
-    "author": "yijiezuimei"
-  },
-  "2039215275162140968": {
-    "first_seen": "2026-04-01",
-    "author": "yokatsuki"
-  },
-  "2039214283666657407": {
-    "first_seen": "2026-04-01",
-    "author": "souravghosh"
+    "author": "ninghu"
   }
 }

@@ -27,14 +27,26 @@ fi
 # --- Search keywords ---
 # Each query targets a different angle of the "skill" ecosystem
 QUERIES=(
+  # Core product & ecosystem
+  "openclaw"
+  "open claw"
+  "claw skill"
+  "zooclaw"
+  # Claude ecosystem
   "claude code skill"
-  "claude skill min_faves:20"
-  "MCP server min_faves:50"
-  "cursor rules min_faves:30"
-  "AI coding skill"
-  "npx skills add"
+  "claude skill min_faves:10"
   "claude code plugin"
+  "npx skills add"
   ".claude skill"
+  # Agent skills broad
+  "AI agent skill"
+  "coding agent skill"
+  "agent skill min_faves:20"
+  # MCP ecosystem
+  "MCP server min_faves:30"
+  "MCP tool min_faves:20"
+  # Adjacent skill ecosystems
+  "codex skill"
 )
 
 LIMIT=15  # per query
