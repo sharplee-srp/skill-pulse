@@ -31,7 +31,7 @@ QUERIES=(
   "openclaw"
   "open claw"
   "claw skill"
-  "zooclaw"
+  # "zooclaw"  # our own product, skip
   # Claude ecosystem
   "claude code skill"
   "claude skill min_faves:10"
@@ -167,6 +167,42 @@ for t in all_tweets:
         continue  # keep first occurrence
     unique[tid] = t
 
+# --- Content relevance filter ---
+# Must contain at least one skill-related keyword in text
+SKILL_KEYWORDS = [
+    "skill", "skills", "mcp", "plugin", "plugins",
+    "rule", "rules", ".claude", "claude.md",
+    "npx skills", "slash command",
+    "openclaw", "open claw", "zooclaw", "claw",
+    "agent tool", "coding tool", "dev tool",
+    "extension", "server",  # in context of MCP
+]
+
+# Exclude: our own accounts (no self-promotion), pure memes, no-text tweets
+OWN_ACCOUNTS = {"sharp_lee1485", "ZooClawAI", "openclaw"}
+
+def is_relevant(t):
+    text = t.get("text", "").lower()
+    author = t.get("author", "")
+
+    # Skip our own tweets
+    if author in OWN_ACCOUNTS:
+        return False
+
+    # Skip tweets with very short text (likely just a link or image)
+    if len(text.strip()) < 30:
+        return False
+
+    # Must match at least one skill keyword
+    if any(kw in text for kw in SKILL_KEYWORDS):
+        return True
+
+    return False
+
+before_filter = len(unique)
+unique = {tid: t for tid, t in unique.items() if is_relevant(t)}
+filtered_out = before_filter - len(unique)
+
 # Separate new vs previously seen
 new_tweets = []
 old_tweets = []
@@ -197,7 +233,9 @@ for t in new_tweets:
 result = {
     "date": today,
     "total_fetched": len(all_tweets),
-    "unique": len(unique),
+    "unique_after_dedup": before_filter,
+    "filtered_out": filtered_out,
+    "relevant": len(unique),
     "new": len(new_tweets),
     "previously_seen": len(old_tweets),
     "new_tweets": [],
@@ -238,7 +276,7 @@ with open(seen_file, "w") as f:
 # Summary
 print(f"\n{'='*60}")
 print(f"  Date: {today}")
-print(f"  Fetched: {result['total_fetched']} | Unique: {result['unique']} | New: {result['new']} | Seen before: {result['previously_seen']}")
+print(f"  Fetched: {result['total_fetched']} | Deduped: {result['unique_after_dedup']} | Filtered: -{result['filtered_out']} | Relevant: {result['relevant']} | New: {result['new']} | Seen: {result['previously_seen']}")
 print(f"{'='*60}")
 if new_tweets:
     print(f"\n  Top 5 NEW hot skills tweets:")
