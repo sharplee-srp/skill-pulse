@@ -1,14 +1,724 @@
 {
   "date": "2026-04-02",
   "stats": {
-    "total_fetched": 0,
-    "unique_tweets": 0,
-    "tweets_with_repos": 0,
-    "unique_repos": 0,
-    "new_repos": 0,
+    "total_fetched": 1144,
+    "unique_tweets": 468,
+    "tweets_with_repos": 28,
+    "unique_repos": 25,
+    "new_repos": 25,
     "previously_seen_repos": 0
   },
-  "new_repos": [],
+  "new_repos": [
+    {
+      "repo": "joeseesun/info-card-designer",
+      "github_url": "https://github.com/joeseesun/info-card-designer",
+      "tier": 2,
+      "is_new": true,
+      "score": 1070.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 210,
+      "total_retweets": 48,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-designer\n\n注意：用了仓耳今楷字体，请勿商用，个人用没问题。\n\n开源仓库地址：\nhttps://t.co/bep2zWn8Ye",
+        "likes": 205,
+        "url": "https://x.com/i/status/2039357542263038424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039358343186403354",
+        "https://x.com/i/status/2039357542263038424"
+      ]
+    },
+    {
+      "repo": "flowith-ai/canvas-cowork",
+      "github_url": "https://github.com/flowith-ai/canvas-cowork",
+      "tier": 3,
+      "is_new": true,
+      "score": 328.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flowith",
+        "text": "we said Flowith Canvas is “native to the agent mind.” \nhere's what that actually looks like.\n\nintroducing the canvas cowork skill: give one command to your agents (claude code, codex, etc.) → watch them collaborate across the canvas to batch-generate dozens of images and videos. ",
+        "likes": 66,
+        "url": "https://x.com/i/status/2039396845617889683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039396845617889683"
+      ]
+    },
+    {
+      "repo": "togethercomputer/skills",
+      "github_url": "https://github.com/togethercomputer/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 291.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "togethercompute",
+        "text": "We just open-sourced 12 agent skills that teach Claude Code and Codex how to use Together AI.\n\nInstall them and your coding agent just knows the right SDK patterns, model IDs, and API calls, no more copy-pasting from docs!\n\nnpx skills add togethercomputer/skills https://t.co/uMCC",
+        "likes": 52,
+        "url": "https://x.com/i/status/2039392682553094239"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039392682553094239"
+      ]
+    },
+    {
+      "repo": "motdotla/dotenv",
+      "github_url": "https://github.com/motdotla/dotenv",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "motdotla",
+        "text": "Just added skills to the dotenv repo and it was kind of absurdly easy.\n\nInstall is basically one line:\n\n$ npx skills add motdotla/dotenv\n\nThat’s it. That’s the post. 😌",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039447297160106429"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039447297160106429",
+        "https://x.com/i/status/2039446885954654631"
+      ]
+    },
+    {
+      "repo": "broomva/founder-mode-oncology",
+      "github_url": "https://github.com/broomva/founder-mode-oncology",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "broomva_tech",
+        "text": "Everything is open source:\n\nSkill: npx skills add broomva/founder-mode-oncology\nPipeline + results: https://t.co/o8bC2JZOLt\nData (25TB): https://t.co/appnoaKwBE\n\nThe future of personalized medicine runs on commodity hardware.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039378685782896916"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039378685782896916",
+        "https://x.com/i/status/2039378348044947640"
+      ]
+    },
+    {
+      "repo": "krea-ai/skills",
+      "github_url": "https://github.com/krea-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 176.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krea_ai",
+        "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
+        "likes": 22,
+        "url": "https://x.com/i/status/2039715727733866848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039715727733866848"
+      ]
+    },
+    {
+      "repo": "getsentry/sentry-for-ai",
+      "github_url": "https://github.com/getsentry/sentry-for-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sentry",
+        "text": "🚨 You can now generate Sentry bug reports in one prompt!\n\nGenerate Sentry bug reports in these 3 steps:\n\n1. Install the skill: npx skills add getsentry/sentry-for-ai --skill generate-bug-report\n2. Spin up Claude Code in your project\n3. Ask Claude: \"Generate a bug report for me\" \n",
+        "likes": 15,
+        "url": "https://x.com/i/status/2039364750774059507"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039364750774059507"
+      ]
+    },
+    {
+      "repo": "dontbesilent2025/claude-skills",
+      "github_url": "https://github.com/dontbesilent2025/claude-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 145.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dontbesilent",
+        "text": "一键安装雨姐：npx skills add dontbesilent2025/claude-skills/skills/yujie",
+        "likes": 15,
+        "url": "https://x.com/i/status/2039284739832676548"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039284739832676548"
+      ]
+    },
+    {
+      "repo": "openserv-labs/skills",
+      "github_url": "https://github.com/openserv-labs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 144.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openservai",
+        "text": "How to add OpenServ skills: \n\nStep 1: Visit https://t.co/y7xbqnVPi4 and browse the available skills\n\nStep 2: Run this command in your terminal:\n\nnpx skills add openserv-labs/skills\n\nThat's it. Your Claude Code client now has access to the full OpenServ skill library.",
+        "likes": 13,
+        "url": "https://x.com/i/status/2039379247739879865"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039379247739879865"
+      ]
+    },
+    {
+      "repo": "samuelclay/newsblur-cli-skill",
+      "github_url": "https://github.com/samuelclay/newsblur-cli-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NewsBlur",
+        "text": "Three new ways to use NewsBlur:\n\nCLI tool:\nuv pip install newsblur-cli\n\nCLI skill:\nnpx skills add samuelclay/newsblur-cli-skill\n\nMCP server:\nclaude mcp add newsblur https://t.co/JzLh4ySZ0m https://t.co/yQXh4g9y3F",
+        "likes": 7,
+        "url": "https://x.com/i/status/2039474454431154645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039474454431154645"
+      ]
+    },
+    {
+      "repo": "okx/plugin-store",
+      "github_url": "https://github.com/okx/plugin-store",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OKXWallet_CN",
+        "text": "在 AI 的下一阶段，能留下的不是给现有产品加 AI 功能的平台，而是那些为 Agent 重新构建基础设施的。\n\nSkill 从各处装了一堆，哪些安全、哪些能用，没人说得清。\n\nOnchain OS Plugin Store 即将上线。任何人可以提交链上 Skill，经过 AI+人工安全审核后，一处安装。\n\n提前体验👇\nnpx skills add okx/plugin-store",
+        "likes": 8,
+        "url": "https://x.com/i/status/2039630456262644045"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039630456262644045"
+      ]
+    },
+    {
+      "repo": "meshy-dev/meshy-3d-agent",
+      "github_url": "https://github.com/meshy-dev/meshy-3d-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MeshyAI",
+        "text": "📷 Level up your AI Agent with 3D superpowers today!\nnpx skills add meshy-dev/meshy-3d-agent",
+        "likes": 5,
+        "url": "https://x.com/i/status/2039544561249530264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039544561249530264"
+      ]
+    },
+    {
+      "repo": "aibtcdev/skills",
+      "github_url": "https://github.com/aibtcdev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "reubs_btc",
+        "text": "To add the Tenero skill copy \"npx skills add aibtcdev/skills/tenero\" \n\nGive your agent access to real @tenero_io market data today https://t.co/TGMLmebkeE",
+        "likes": 3,
+        "url": "https://x.com/i/status/2039338835423678606"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039338835423678606"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Join the revolution with just one command to your @Openclaw agent:\n\n\"npx skills add byreal-git/byreal-agent-skills \"",
+        "likes": 1,
+        "url": "https://x.com/i/status/2039360387435712855"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039360387435712855"
+      ]
+    },
+    {
+      "repo": "terabox-storage/skills",
+      "github_url": "https://github.com/terabox-storage/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TeraBox1024GB",
+        "text": "🚨 Big news! Terabox-storage Skill has landed on @openclaw!\n\nThe Terabox-storage Skill is now live on #ClawHub, ready to supercharge your AI workflows with features like document upload, download, sharing, and management, etc\n\nTypical use cases and highlights:\n✅ Easy sharing and p",
+        "likes": 2,
+        "url": "https://x.com/i/status/2039686001308909888"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039686001308909888"
+      ]
+    },
+    {
+      "repo": "gmgnai/gmgn-skills",
+      "github_url": "https://github.com/gmgnai/gmgn-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xKaroshi",
+        "text": "Actionable steps if you want to build this:\n\n1.Get API key: https://t.co/W524ujBAuU\n2.Install: npm install -g gmgn-cli@1.0.1\n3.Add skills: npx skills add GMGNAI/gmgn-skills\n4.Test: gmgn-cli market trending –chain sol –interval 1h –platform https://t.co/VljX2avwn2 –limit 10\n5.Pipe",
+        "likes": 1,
+        "url": "https://x.com/i/status/2039251211858448653"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039251211858448653"
+      ]
+    },
+    {
+      "repo": "cliai21/clawing",
+      "github_url": "https://github.com/cliai21/clawing",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "minewithclaw",
+        "text": "$CLAW Skill v1.0.3 is live.\n\nMIT-0 license — the most permissive open source license. You can use it, fork it, modify it, commercialize it. No attribution required.\n\nWe don't gatekeep mining. We open-source it.\n\nclawhub install claw-mining\n\nhttps://t.co/cNP4nLRa0h\n\n$CLAW #PoAIW #",
+        "likes": 1,
+        "url": "https://x.com/i/status/2038285643315573179"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2038285643315573179"
+      ]
+    },
+    {
+      "repo": "sandwichlab-ai/lanbow-claw-skill",
+      "github_url": "https://github.com/sandwichlab-ai/lanbow-claw-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LanbowAI",
+        "text": "🚀 We just open-sourced $10M worth of Meta Ad execution experience!\n\nMeet Lanbow Claw Skill —— a callable capability unit in the OpenClaw agent framework that packages Meta ad execution logic into an inspectable, reusable decision loop.\n\n✅ 4-stage loop: Insight, Creative, Launch, ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2037106606282846424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2037106606282846424"
+      ]
+    },
+    {
+      "repo": "alondai/alon-skills",
+      "github_url": "https://github.com/alondai/alon-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alondotsh",
+        "text": "发布新 skill：alon-search-skill-plus\n\n基于search skill 修改，增加了ClawHub 和 GitHub 找 agent skills，可以当成是skill的聚合搜索。Github上如果原始的不是skill也会列出来，因为简单改改其实都可以改成skill\n\n安装：npx skills add alondai/alon-skills --skill alon-search-skill-plus",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039602123940507887"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039602123940507887"
+      ]
+    },
+    {
+      "repo": "jiangding1990/claude-tools",
+      "github_url": "https://github.com/jiangding1990/claude-tools",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jiangding01",
+        "text": "写了个微信公众号文章下载的skill，叫weixin-article-fetcher，支持批量下载为markdown文件存储在指定文件夹下，支持历史数据汇总记录为result.json格式，可以避免重复下载。感兴趣的小伙伴可以试用看看。可以使用以下命令安装：\nnpx skills add JiangDing1990/claude-tools --skill weixin-article-fetcher\nGithub 仓库地址见评论区。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039546061971501162"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039546061971501162"
+      ]
+    },
+    {
+      "repo": "superlaomiao/openskills",
+      "github_url": "https://github.com/superlaomiao/openskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "superlaomiao",
+        "text": "📋 Best Practices: TypeScript, error handling\n\nInstall:\nnpx skills add SuperLaomiao/OpenSkills --skill claude-quality-analyzer\n\nGitHub: https://t.co/2wzbwjGFDj\n\n#OpenCode #ClaudeCode #CodeQuality #TypeScript",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039199517351002308"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039199517351002308"
+      ]
+    },
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "browseract",
+        "text": "npx skills add browser-act/skills --skill browser-act",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039167180139327876"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039167180139327876"
+      ]
+    },
+    {
+      "repo": "leilei926524-tech/anti-distill",
+      "github_url": "https://github.com/leilei926524-tech/anti-distill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "charlie88931442",
+        "text": "Introducing my newly built anti-distill skill: a tool designed to protect your professional core when companies demand you turn your work experience into AI skills.\n\nMajor tech firms now universally require employees to proactively contribute skills, extracting the hard-won lesso",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039670418781655361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039670418781655361"
+      ]
+    },
+    {
+      "repo": "zai-org/glm-skills",
+      "github_url": "https://github.com/zai-org/glm-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LunchangG7603",
+        "text": "Works seamlessly with Claude Code &amp; OpenClaw/AutoClaw; official Skills available on ClawHub.\n\nClawHub：https://t.co/UPP1g76PEt\nGitHub:  https://t.co/cNMBcv7PT2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039639681076478407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039639681076478407"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-04-01\n\nToday’s picks lean into operational flow: OpenClaw just added a chat-native task board, and the most useful companion skills are the ones that keep repo work and task tracking close to the agent instead of scattered across tabs.\n\nRelease o",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039618453863383056"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039618453863383056"
+      ]
+    }
+  ],
   "previously_seen_repos": [],
-  "no_repo_tweets": []
+  "no_repo_tweets": [
+    {
+      "id": "2039346008992186666",
+      "author": "googleanalytics",
+      "text": "Did you know you can now connect your GA data directly to LLMs like Gemini? ✨📊\n\nBy setting up the new Model Context Protocol (MCP) server, you move from manual reporting to strategic, AI-powered analysis. \n\n▶️ Hit play to see the complete setup process → https://t.co/XTqQkcpQAr",
+      "likes": 1934,
+      "views": 0,
+      "url": "https://x.com/i/status/2039346008992186666",
+      "is_kol": false,
+      "score": 7252.0
+    },
+    {
+      "id": "2038872366743502989",
+      "author": "SuguruKun_ai",
+      "text": "Claude CodeやCodexで使える\n「日本特化のMCPサーバー」がかなり便利なのでまとめてみた！\nㅤ\n① 法令検索MCP（hourei-mcp-server）\n→ e-Gov法令APIに接続\n→ 「〇〇法の第△条は？」と聞くだけで条文が返ってくる\n→ 法令名検索、条文取得、改正履歴の3ツール\n→ 導入: npx hourei-mcp-server\nㅤ\n② 税法MCP（tax-law-mcp）\n→ e-Gov + 国税庁の通達・裁決事例に対応\n→ 24の主要税法 + 17の行政通達 + 1,950の裁決事例\n→ 「この経費は損金算入できる？」→ 根",
+      "likes": 1457,
+      "views": 0,
+      "url": "https://x.com/i/status/2038872366743502989",
+      "is_kol": false,
+      "score": 5296.0
+    },
+    {
+      "id": "2038707700226466121",
+      "author": "startupideaspod",
+      "text": "how to actually get customers for your vibe coded app:\n\n- let AI sell for you (MCP servers) \n- build 10,000 SEO pages once (programmatic SEO)\n- vibe code a free tool by lunch (it markets itself) \n- get cited by ChatGPT (answer engine optimization)\n- allow your users to create con",
+      "likes": 1009,
+      "views": 0,
+      "url": "https://x.com/i/status/2038707700226466121",
+      "is_kol": false,
+      "score": 3347.0
+    },
+    {
+      "id": "2037331698548195579",
+      "author": "nickbakeddesign",
+      "text": "There's a free bookmarklet that pastes any website into Figma as editable layers. It replaced a paid tool! ($18/m) \n\nit has zero dependency on AI, it runs in your browser and copies any webpage straight to your clipboard as Figma layers using figma mcp. https://t.co/TEYilAS33A",
+      "likes": 866,
+      "views": 0,
+      "url": "https://x.com/i/status/2037331698548195579",
+      "is_kol": false,
+      "score": 2768.0
+    },
+    {
+      "id": "2039501073438970066",
+      "author": "sinseijuice",
+      "text": "Imagine if Hiyuki is a Glacio Res Skill dps just so kuro keeps the tradition of a res skill dps stealing Jinhsi's supports. https://t.co/v1xNVCG1Fb",
+      "likes": 742,
+      "views": 0,
+      "url": "https://x.com/i/status/2039501073438970066",
+      "is_kol": false,
+      "score": 2331.0
+    },
+    {
+      "id": "2039358115318243352",
+      "author": "DrJimFan",
+      "text": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. They incarnate as robot arms and humanoids with a rich set of perception APIs, actuation APIs, and auto synthesize skill libraries ",
+      "likes": 595,
+      "views": 0,
+      "url": "https://x.com/i/status/2039358115318243352",
+      "is_kol": false,
+      "score": 2285.0
+    },
+    {
+      "id": "2039519918291611656",
+      "author": "wquguru",
+      "text": "Harness工程最佳实践的学习姿势：\n\n- 一边剖析Claude Code源码\n- 一边比对Claude Code和Codex工程实践差异\n\n书籍源码（含PDF生成逻辑、最佳实践Skill）完全开放在https://t.co/qVWdzLJP72中，在线阅读可以看https://t.co/G3YL4ldO06\n\n搭配 @blackanger 张汉东老师的大作阅读更佳🫱 https://t.co/2Ks2YQG7cI",
+      "likes": 439,
+      "views": 0,
+      "url": "https://x.com/i/status/2039519918291611656",
+      "is_kol": false,
+      "score": 1932.0
+    },
+    {
+      "id": "2039401923267477695",
+      "author": "EXM7777",
+      "text": "n8n shipped native MCP support and nobody's connecting what this actually means...\n\nyour AI agents can now CREATE and MODIFY n8n automations programmatically\n\nthe setup:\n\n> install the n8n-mcp server\n> add it to your Claude Code config\n> Claude now has access to all 1,396 n8n nod",
+      "likes": 502,
+      "views": 0,
+      "url": "https://x.com/i/status/2039401923267477695",
+      "is_kol": false,
+      "score": 1666.0
+    },
+    {
+      "id": "2039111726139150825",
+      "author": "googleaidevs",
+      "text": "Connect your coding agent to the latest Gemini API docs with our new MCP server and developer skills. Run a single command to unlock your agent's highest potential with less tokens. https://t.co/m50dzsk6sj",
+      "likes": 427,
+      "views": 0,
+      "url": "https://x.com/i/status/2039111726139150825",
+      "is_kol": false,
+      "score": 1571.0
+    },
+    {
+      "id": "2038677447269568757",
+      "author": "EXM7777",
+      "text": "something is happening in agent infrastructure that's bigger than any single tool release...\n\nin the last 7 days:\n\n> n8n shipped native MCP - agents can now build their own automations\n> Stripe Projects launched - agents can provision databases, auth, hosting from CLI\n> Open WebU",
+      "likes": 386,
+      "views": 0,
+      "url": "https://x.com/i/status/2038677447269568757",
+      "is_kol": false,
+      "score": 1363.0
+    },
+    {
+      "id": "2038707432382246915",
+      "author": "DarkPancakes",
+      "text": "Nobody will see this, but if you're burning tokens with your AI agent (@OpenClaw, @NousResearch's Hermes, or any MCP-compatible tool) check this\n\nStop feeding entire codebases\nGive your AI a scalpel\n\nmassive token reduction\nfaster queries\ncleaner context\n\nhttps://t.co/upuowhGgwm ",
+      "likes": 376,
+      "views": 0,
+      "url": "https://x.com/i/status/2038707432382246915",
+      "is_kol": false,
+      "score": 1348.0
+    },
+    {
+      "id": "2039585910313156859",
+      "author": "rubenhassid",
+      "text": "The only Claude skills guide you need:\n\n(Save this. Send it to your team. Thank me later)\n\n1. Get the paid plan + the desktop app (Cowork).\n2. Once done, select Opus 4.6 + Extended Thinking.\n3. Then type: \"Use the skill-creator to help me build a skill for [your task].\"\n4. Answer",
+      "likes": 379,
+      "views": 0,
+      "url": "https://x.com/i/status/2039585910313156859",
+      "is_kol": false,
+      "score": 1342.0
+    },
+    {
+      "id": "2038708720453173749",
+      "author": "startupideaspod",
+      "text": "Most people are sleeping on MCP servers as a sales channel.\n\nHere's how it works:\n\nA user asks an AI a question. \n\nThe AI discovers your MCP server. \n\nYour product gets returned as the answer.\n\nZero ad spend. Zero cold outreach. \n\nThe AI sells for you 24/7.\n\nOne founder hit 150+ ",
+      "likes": 381,
+      "views": 0,
+      "url": "https://x.com/i/status/2038708720453173749",
+      "is_kol": false,
+      "score": 1288.0
+    },
+    {
+      "id": "2038442629117964706",
+      "author": "Yerocode0",
+      "text": "Chrome lanzó silenciosamente una función que permite a los agentes de IA usar un navegador en el que ya ha iniciado sesión\n\n- Omitir CAPTCHA y volver a iniciar sesión por completo\n- Los agentes prueban con su propia autenticación.\n- Funciona mejor con Chrome Dev Tool MCP\n\nSe acab",
+      "likes": 279,
+      "views": 0,
+      "url": "https://x.com/i/status/2038442629117964706",
+      "is_kol": false,
+      "score": 1027.0
+    },
+    {
+      "id": "2038996157850964411",
+      "author": "nadoHQ",
+      "text": "1/ Introducing the Nado CLI and MCP Server.\n\nAI agents can now trade directly on the protocol. \n\nPerps, spot and NLP\n~40 terminal commands\n~50 AI tools\n\nTell your agent \"go 5x long BTC with a stop at 70k\", it builds the order, shows you what it'll do, and asks you to confirm. htt",
+      "likes": 268,
+      "views": 0,
+      "url": "https://x.com/i/status/2038996157850964411",
+      "is_kol": false,
+      "score": 979.0
+    },
+    {
+      "id": "2039389744967111153",
+      "author": "AppKaskad",
+      "text": "💥Breaking news!\n\nWe're officially exposing our public Kaskad MCP server. \n\nEffective today, any AI agent can connect to our Testnet dApp, read live markets and execute real testnet lending strategies: supply, borrow, repay, rebalance...all this fully autonomously.\n\nA thread 👇",
+      "likes": 229,
+      "views": 0,
+      "url": "https://x.com/i/status/2039389744967111153",
+      "is_kol": false,
+      "score": 977.0
+    },
+    {
+      "id": "2039564176981639651",
+      "author": "robinebers",
+      "text": "skill issue\n\nplan mode in some harnesses (like cursor) does significantly more work before it comes to conclusions\n\ndon't believe anyone that claims things just because it works for them\n\npeter is cool and he does a lot for this industry\n\nbut he also famously said he doesn't do P",
+      "likes": 315,
+      "views": 0,
+      "url": "https://x.com/i/status/2039564176981639651",
+      "is_kol": false,
+      "score": 975.0
+    },
+    {
+      "id": "2039503605540213117",
+      "author": "masuda220",
+      "text": "これは興味深い取り組み。\n\n“コトに注目して業務知識を整理しながらドメインモデルを発見するアプローチをSkill化しました。”\n\n書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～｜えださん https://t.co/oIC73idux7 #zenn",
+      "likes": 263,
+      "views": 0,
+      "url": "https://x.com/i/status/2039503605540213117",
+      "is_kol": false,
+      "score": 974.0
+    }
+  ]
 }

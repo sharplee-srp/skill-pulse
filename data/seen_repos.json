@@ -134,5 +134,105 @@
   "hkuds/openharness": {
     "first_seen": "2026-04-02",
     "tier": 0
+  },
+  "joeseesun/info-card-designer": {
+    "first_seen": "2026-04-02",
+    "tier": 2
+  },
+  "flowith-ai/canvas-cowork": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "togethercomputer/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "motdotla/dotenv": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "broomva/founder-mode-oncology": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "krea-ai/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "getsentry/sentry-for-ai": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "dontbesilent2025/claude-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "openserv-labs/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "samuelclay/newsblur-cli-skill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "okx/plugin-store": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "meshy-dev/meshy-3d-agent": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "aibtcdev/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "byreal-git/byreal-agent-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "terabox-storage/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "gmgnai/gmgn-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "cliai21/clawing": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "sandwichlab-ai/lanbow-claw-skill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "alondai/alon-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "jiangding1990/claude-tools": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "superlaomiao/openskills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "browser-act/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "leilei926524-tech/anti-distill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "zai-org/glm-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "openclaw/openclaw": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }

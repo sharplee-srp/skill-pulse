@@ -2,8 +2,8 @@
   "date": "2026-04-02",
   "window": "24h",
   "stats": {
-    "total_fetched": 0,
-    "after_dedup": 0,
+    "total_fetched": 247,
+    "after_dedup": 237,
     "after_noise_filter": 0,
     "skipped_seen": 0,
     "resurfaced": 0,
