@@ -282,5 +282,17 @@
   "wjz-p/gemini-skill": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "sicks3c/hackerone-mcp-server": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "sunbigfly/ppt-agent-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "nousresearch/hermes-agent-self-evolution": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
