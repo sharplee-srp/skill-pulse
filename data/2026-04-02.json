@@ -1,51 +1,29 @@
 {
   "date": "2026-04-02",
   "stats": {
-    "total_fetched": 563,
-    "unique_tweets": 351,
+    "total_fetched": 562,
+    "unique_tweets": 348,
     "tweets_with_repos": 25,
-    "unique_repos": 22,
-    "new_repos": 22,
+    "unique_repos": 23,
+    "new_repos": 23,
     "previously_seen_repos": 0
   },
   "new_repos": [
     {
-      "repo": "joeseesun/info-card-designer",
-      "github_url": "https://github.com/joeseesun/info-card-designer",
-      "tier": 2,
-      "is_new": true,
-      "score": 1073.0,
-      "mention_count": 2,
-      "kol_mentions": [],
-      "total_likes": 211,
-      "total_retweets": 48,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "vista8",
-        "text": "身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-designer\n\n注意：用了仓耳今楷字体，请勿商用，个人用没问题。\n\n开源仓库地址：\nhttps://t.co/bep2zWn8Ye",
-        "likes": 206,
-        "url": "https://x.com/i/status/2039357542263038424"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039358343186403354",
-        "https://x.com/i/status/2039357542263038424"
-      ]
-    },
-    {
       "repo": "jackwener/opencli",
       "github_url": "https://github.com/jackwener/opencli",
-      "tier": 3,
+      "tier": 2,
       "is_new": true,
-      "score": 395.0,
+      "score": 666.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 85,
-      "total_retweets": 8,
+      "total_likes": 157,
+      "total_retweets": 19,
       "total_views": 0,
       "best_tweet": {
         "author": "jakevin7",
         "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
-        "likes": 85,
+        "likes": 157,
         "url": "https://x.com/i/status/2039707706370806084"
       },
       "all_tweet_urls": [
@@ -53,62 +31,20 @@
       ]
     },
     {
-      "repo": "libtv-labs/libtv-skills",
-      "github_url": "https://github.com/libtv-labs/libtv-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 367.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 69,
-      "total_retweets": 12,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "liyue_ai",
-        "text": "LibTV上线Seedance 2.0，国内用户无需在即梦排队。\n\n地址：https://t.co/m7mm2PEInF\n\n此外还支持AI Agent直接调用Seedance 2.0，安装这个Skills即可。\n\nGithub：\nhttps://t.co/jlQIYDQYwM\n\nClawHub：\nhttps://t.co/kWTZE7w7B1",
-        "likes": 69,
-        "url": "https://x.com/i/status/2039560730928902192"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039560730928902192"
-      ]
-    },
-    {
-      "repo": "flowith-ai/canvas-cowork",
-      "github_url": "https://github.com/flowith-ai/canvas-cowork",
-      "tier": 3,
-      "is_new": true,
-      "score": 328.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 66,
-      "total_retweets": 6,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "flowith",
-        "text": "we said Flowith Canvas is “native to the agent mind.” \nhere's what that actually looks like.\n\nintroducing the canvas cowork skill: give one command to your agents (claude code, codex, etc.) → watch them collaborate across the canvas to batch-generate dozens of images and videos. ",
-        "likes": 66,
-        "url": "https://x.com/i/status/2039396845617889683"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039396845617889683"
-      ]
-    },
-    {
       "repo": "krea-ai/skills",
       "github_url": "https://github.com/krea-ai/skills",
-      "tier": 3,
+      "tier": 2,
       "is_new": true,
-      "score": 306.0,
+      "score": 551.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 62,
-      "total_retweets": 4,
+      "total_likes": 132,
+      "total_retweets": 11,
       "total_views": 0,
       "best_tweet": {
         "author": "krea_ai",
         "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 62,
+        "likes": 132,
         "url": "https://x.com/i/status/2039715727733866848"
       },
       "all_tweet_urls": [
@@ -116,24 +52,129 @@
       ]
     },
     {
+      "repo": "libtv-labs/libtv-skills",
+      "github_url": "https://github.com/libtv-labs/libtv-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 394.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liyue_ai",
+        "text": "LibTV上线Seedance 2.0，国内用户无需在即梦排队。\n\n地址：https://t.co/m7mm2PEInF\n\n此外还支持AI Agent直接调用Seedance 2.0，安装这个Skills即可。\n\nGithub：\nhttps://t.co/jlQIYDQYwM\n\nClawHub：\nhttps://t.co/kWTZE7w7B1",
+        "likes": 78,
+        "url": "https://x.com/i/status/2039560730928902192"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039560730928902192"
+      ]
+    },
+    {
+      "repo": "repowise-dev/repowise",
+      "github_url": "https://github.com/repowise-dev/repowise",
+      "tier": 3,
+      "is_new": true,
+      "score": 373.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NitinthisSide_",
+        "text": "This free open-source 𝗠𝗖𝗣 𝘀𝗲𝗿𝘃𝗲𝗿 cuts Claude Code's token usage by 60%. Instead of grepping 30 files to understand your codebase, it makes 5 calls. It knows who owns every file, what breaks if you touch it, which code is dead, and why anything was built that way.\n\nReal comparison",
+        "likes": 61,
+        "url": "https://x.com/i/status/2039586192304611631"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039586192304611631"
+      ]
+    },
+    {
+      "repo": "moonpay/skills",
+      "github_url": "https://github.com/moonpay/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 310.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "farokh",
+        "text": "The Myriad Skill is live for MoonPay Agents, let your agent predict on Myriad using USD1!\n\nhttps://t.co/XVvMlle3Pu",
+        "likes": 50,
+        "url": "https://x.com/i/status/2039449209028358643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039449209028358643"
+      ]
+    },
+    {
       "repo": "togethercomputer/skills",
       "github_url": "https://github.com/togethercomputer/skills",
       "tier": 3,
       "is_new": true,
-      "score": 291.0,
+      "score": 294.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 52,
+      "total_likes": 53,
       "total_retweets": 7,
       "total_views": 0,
       "best_tweet": {
         "author": "togethercompute",
         "text": "We just open-sourced 12 agent skills that teach Claude Code and Codex how to use Together AI.\n\nInstall them and your coding agent just knows the right SDK patterns, model IDs, and API calls, no more copy-pasting from docs!\n\nnpx skills add togethercomputer/skills https://t.co/uMCC",
-        "likes": 52,
+        "likes": 53,
         "url": "https://x.com/i/status/2039392682553094239"
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039392682553094239"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 246.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shuding",
+        "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
+        "likes": 47,
+        "url": "https://x.com/i/status/2039731525353431073"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039731525353431073"
+      ]
+    },
+    {
+      "repo": "bvisible/mcp-ssh-manager",
+      "github_url": "https://github.com/bvisible/mcp-ssh-manager",
+      "tier": 3,
+      "is_new": true,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "MCP SSH server for AI assistants\n\nhttps://t.co/Z8EjGYpaun https://t.co/w4LClc92LV",
+        "likes": 33,
+        "url": "https://x.com/i/status/2039546258826637488"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039546258826637488"
       ]
     },
     {
@@ -178,27 +219,6 @@
       "all_tweet_urls": [
         "https://x.com/i/status/2039378685782896916",
         "https://x.com/i/status/2039378348044947640"
-      ]
-    },
-    {
-      "repo": "getsentry/sentry-for-ai",
-      "github_url": "https://github.com/getsentry/sentry-for-ai",
-      "tier": 3,
-      "is_new": true,
-      "score": 165.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 15,
-      "total_retweets": 4,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "sentry",
-        "text": "🚨 You can now generate Sentry bug reports in one prompt!\n\nGenerate Sentry bug reports in these 3 steps:\n\n1. Install the skill: npx skills add getsentry/sentry-for-ai --skill generate-bug-report\n2. Spin up Claude Code in your project\n3. Ask Claude: \"Generate a bug report for me\" \n",
-        "likes": 15,
-        "url": "https://x.com/i/status/2039364750774059507"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039364750774059507"
       ]
     },
     {
@@ -286,27 +306,6 @@
       ]
     },
     {
-      "repo": "byreal-git/byreal-agent-skills",
-      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 108.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 1,
-      "total_retweets": 1,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "byreal_io",
-        "text": "Join the revolution with just one command to your @Openclaw agent:\n\n\"npx skills add byreal-git/byreal-agent-skills \"",
-        "likes": 1,
-        "url": "https://x.com/i/status/2039360387435712855"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039360387435712855"
-      ]
-    },
-    {
       "repo": "terabox-storage/skills",
       "github_url": "https://github.com/terabox-storage/skills",
       "tier": 3,
@@ -325,6 +324,27 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039686001308909888"
+      ]
+    },
+    {
+      "repo": "10xchengtu/harness-engineering",
+      "github_url": "https://github.com/10xchengtu/harness-engineering",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Justin1024go",
+        "text": "无需复杂学习 Harness 工程，小白直接一句话用这个 Skill 就可以 创建/优化/持续迭代 你的项目的 Harness 工程！\n\n直接开始写产品吧😋\n\n推荐全局安装，它会根据你遇到的问题持续解决更新可复用能力～\n\n> npx skills add 10xChengTu/harness-engineering\n\nhttps://t.co/IEo7Ekladk",
+        "likes": 1,
+        "url": "https://x.com/i/status/2039733828076593354"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039733828076593354"
       ]
     },
     {
@@ -370,6 +390,27 @@
       ]
     },
     {
+      "repo": "khanshaheb34/menubar",
+      "github_url": "https://github.com/khanshaheb34/menubar",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shakirul",
+        "text": "So I packaged that knowledge into a Claude Code skill.\n\nInstall:\nnpx skills add KhanShaheb34/menubar\n\nThen describe what you want. CPU monitor. Docker status. API health. Git activity.\n\nSingle prompt → compiled native macOS app.\n\nClaudeBar was the proof of concept. The skill is t",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039727681366036886"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039727681366036886"
+      ]
+    },
+    {
       "repo": "alondai/alon-skills",
       "github_url": "https://github.com/alondai/alon-skills",
       "tier": 3,
@@ -412,8 +453,8 @@
       ]
     },
     {
-      "repo": "huxiuhan/civ-finish-quotes",
-      "github_url": "https://github.com/huxiuhan/civ-finish-quotes",
+      "repo": "wjz-p/gemini-skill",
+      "github_url": "https://github.com/wjz-p/gemini-skill",
       "tier": 3,
       "is_new": true,
       "score": 100.0,
@@ -423,13 +464,13 @@
       "total_retweets": 0,
       "total_views": 0,
       "best_tweet": {
-        "author": "0xstory_xhu",
-        "text": "When an agent finishes something genuinely extraordinary, the ceremony always feels a little incomplete.\n\nSo I vibed civ-finish-quotes: a skill that adds Civilization-style finishing quotes to real completed work.\n\nhttps://t.co/OUJKXoRoWF",
+        "author": "pinhan1053279",
+        "text": "Gemini Skill 用 CDP 操控 Gemini 网页版实现 AI 生图，不需要 API key，有 Chrome 就能跑。skillshare 一条命令同步 skill 到 50+ AI agent，内置安全审计。\nhttps://t.co/qNPDTUQMDK\nhttps://t.co/zgJgdKVBxF",
         "likes": 0,
-        "url": "https://x.com/i/status/2039726032224452764"
+        "url": "https://x.com/i/status/2039736618324738180"
       },
       "all_tweet_urls": [
-        "https://x.com/i/status/2039726032224452764"
+        "https://x.com/i/status/2039736618324738180"
       ]
     },
     {
@@ -452,29 +493,29 @@
       "all_tweet_urls": [
         "https://x.com/i/status/2039670418781655361"
       ]
-    },
-    {
-      "repo": "zai-org/glm-skills",
-      "github_url": "https://github.com/zai-org/glm-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "LunchangG7603",
-        "text": "Works seamlessly with Claude Code &amp; OpenClaw/AutoClaw; official Skills available on ClawHub.\n\nClawHub：https://t.co/UPP1g76PEt\nGitHub:  https://t.co/cNMBcv7PT2",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039639681076478407"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039639681076478407"
-      ]
     }
   ],
   "previously_seen_repos": [],
-  "no_repo_tweets": []
+  "no_repo_tweets": [
+    {
+      "id": "2037177396315488627",
+      "author": "steipete",
+      "text": "Testing a new feature for Microsoft Foundry support in @openclaw. Their website is a jungle, I used to make screenshots so codex can guide me through it, but now Chrome has an MCP so codex can simply connect and drive my browser session and do all of that for me.\n\nThe human is no",
+      "likes": 1671,
+      "views": 0,
+      "url": "https://x.com/i/status/2037177396315488627",
+      "is_kol": true,
+      "score": 5558.0
+    },
+    {
+      "id": "2039724900722589835",
+      "author": "NEARProtocol",
+      "text": "IronClaw takes a security first approach.\n\nRather than giving an agent free rein over your machine IronClaw uses a structured, skill-based architecture for more controlled execution.\n\nIronClaw is open source, auditable and designed for trust.\n\nGet started: https://t.co/50HhkZudds",
+      "likes": 217,
+      "views": 0,
+      "url": "https://x.com/i/status/2039724900722589835",
+      "is_kol": false,
+      "score": 811.0
+    }
+  ]
 }

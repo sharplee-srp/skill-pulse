@@ -254,5 +254,33 @@
   "huxiuhan/civ-finish-quotes": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "repowise-dev/repowise": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "moonpay/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "vercel-labs/agent-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "bvisible/mcp-ssh-manager": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "10xchengtu/harness-engineering": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "khanshaheb34/menubar": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "wjz-p/gemini-skill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
