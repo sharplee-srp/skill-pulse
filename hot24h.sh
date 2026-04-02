@@ -302,7 +302,7 @@ print(f"  After relevance filter: {len(unique)} (removed {before - len(unique)} 
 # ══════════════════════════════════════════════════════════════
 # Cross-day dedup
 # ══════════════════════════════════════════════════════════════
-MIN_VIEWS = 500
+MIN_VIEWS = 100
 
 def hot_score(t):
     return t["views"] + t["likes"] * 100 + t["retweets"] * 50
