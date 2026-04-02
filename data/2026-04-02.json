@@ -2,28 +2,51 @@
   "date": "2026-04-02",
   "stats": {
     "total_fetched": 562,
-    "unique_tweets": 348,
+    "unique_tweets": 345,
     "tweets_with_repos": 25,
-    "unique_repos": 23,
-    "new_repos": 23,
+    "unique_repos": 22,
+    "new_repos": 22,
     "previously_seen_repos": 0
   },
   "new_repos": [
+    {
+      "repo": "motdotla/dotenv",
+      "github_url": "https://github.com/motdotla/dotenv",
+      "tier": 1,
+      "is_new": true,
+      "score": 300.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "motdotla",
+        "text": "I released dotenv@17.4.0 yesterday.\n\nIt adds skill files for dotenv and dotenvx.\n\nTry it now!\n\n❯ npx skills add motdotla/dotenv https://t.co/yYAfbA87fN",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039742654523814103"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039742654523814103",
+        "https://x.com/i/status/2039447297160106429",
+        "https://x.com/i/status/2039446885954654631"
+      ]
+    },
     {
       "repo": "jackwener/opencli",
       "github_url": "https://github.com/jackwener/opencli",
       "tier": 2,
       "is_new": true,
-      "score": 666.0,
+      "score": 820.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 157,
-      "total_retweets": 19,
+      "total_likes": 200,
+      "total_retweets": 24,
       "total_views": 0,
       "best_tweet": {
         "author": "jakevin7",
         "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
-        "likes": 157,
+        "likes": 200,
         "url": "https://x.com/i/status/2039707706370806084"
       },
       "all_tweet_urls": [
@@ -35,16 +58,16 @@
       "github_url": "https://github.com/krea-ai/skills",
       "tier": 2,
       "is_new": true,
-      "score": 551.0,
+      "score": 674.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 132,
+      "total_likes": 173,
       "total_retweets": 11,
       "total_views": 0,
       "best_tweet": {
         "author": "krea_ai",
         "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 132,
+        "likes": 173,
         "url": "https://x.com/i/status/2039715727733866848"
       },
       "all_tweet_urls": [
@@ -52,20 +75,41 @@
       ]
     },
     {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 462.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 114,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shuding",
+        "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
+        "likes": 114,
+        "url": "https://x.com/i/status/2039731525353431073"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039731525353431073"
+      ]
+    },
+    {
       "repo": "libtv-labs/libtv-skills",
       "github_url": "https://github.com/libtv-labs/libtv-skills",
       "tier": 3,
       "is_new": true,
-      "score": 394.0,
+      "score": 443.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 78,
-      "total_retweets": 12,
+      "total_likes": 91,
+      "total_retweets": 14,
       "total_views": 0,
       "best_tweet": {
         "author": "liyue_ai",
         "text": "LibTV上线Seedance 2.0，国内用户无需在即梦排队。\n\n地址：https://t.co/m7mm2PEInF\n\n此外还支持AI Agent直接调用Seedance 2.0，安装这个Skills即可。\n\nGithub：\nhttps://t.co/jlQIYDQYwM\n\nClawHub：\nhttps://t.co/kWTZE7w7B1",
-        "likes": 78,
+        "likes": 91,
         "url": "https://x.com/i/status/2039560730928902192"
       },
       "all_tweet_urls": [
@@ -77,16 +121,16 @@
       "github_url": "https://github.com/repowise-dev/repowise",
       "tier": 3,
       "is_new": true,
-      "score": 373.0,
+      "score": 386.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 61,
-      "total_retweets": 18,
+      "total_likes": 62,
+      "total_retweets": 20,
       "total_views": 0,
       "best_tweet": {
         "author": "NitinthisSide_",
         "text": "This free open-source 𝗠𝗖𝗣 𝘀𝗲𝗿𝘃𝗲𝗿 cuts Claude Code's token usage by 60%. Instead of grepping 30 files to understand your codebase, it makes 5 calls. It knows who owns every file, what breaks if you touch it, which code is dead, and why anything was built that way.\n\nReal comparison",
-        "likes": 61,
+        "likes": 62,
         "url": "https://x.com/i/status/2039586192304611631"
       },
       "all_tweet_urls": [
@@ -119,16 +163,16 @@
       "github_url": "https://github.com/togethercomputer/skills",
       "tier": 3,
       "is_new": true,
-      "score": 294.0,
+      "score": 297.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 53,
+      "total_likes": 54,
       "total_retweets": 7,
       "total_views": 0,
       "best_tweet": {
         "author": "togethercompute",
         "text": "We just open-sourced 12 agent skills that teach Claude Code and Codex how to use Together AI.\n\nInstall them and your coding agent just knows the right SDK patterns, model IDs, and API calls, no more copy-pasting from docs!\n\nnpx skills add togethercomputer/skills https://t.co/uMCC",
-        "likes": 53,
+        "likes": 54,
         "url": "https://x.com/i/status/2039392682553094239"
       },
       "all_tweet_urls": [
@@ -136,67 +180,24 @@
       ]
     },
     {
-      "repo": "vercel-labs/agent-skills",
-      "github_url": "https://github.com/vercel-labs/agent-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 246.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 47,
-      "total_retweets": 1,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "shuding",
-        "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
-        "likes": 47,
-        "url": "https://x.com/i/status/2039731525353431073"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039731525353431073"
-      ]
-    },
-    {
       "repo": "bvisible/mcp-ssh-manager",
       "github_url": "https://github.com/bvisible/mcp-ssh-manager",
       "tier": 3,
       "is_new": true,
-      "score": 219.0,
+      "score": 225.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 33,
+      "total_likes": 35,
       "total_retweets": 4,
       "total_views": 0,
       "best_tweet": {
         "author": "tom_doerr",
         "text": "MCP SSH server for AI assistants\n\nhttps://t.co/Z8EjGYpaun https://t.co/w4LClc92LV",
-        "likes": 33,
+        "likes": 35,
         "url": "https://x.com/i/status/2039546258826637488"
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039546258826637488"
-      ]
-    },
-    {
-      "repo": "motdotla/dotenv",
-      "github_url": "https://github.com/motdotla/dotenv",
-      "tier": 3,
-      "is_new": true,
-      "score": 200.0,
-      "mention_count": 2,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "motdotla",
-        "text": "Just added skills to the dotenv repo and it was kind of absurdly easy.\n\nInstall is basically one line:\n\n$ npx skills add motdotla/dotenv\n\nThat’s it. That’s the post. 😌",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039447297160106429"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039447297160106429",
-        "https://x.com/i/status/2039446885954654631"
       ]
     },
     {
@@ -247,16 +248,16 @@
       "github_url": "https://github.com/samuelclay/newsblur-cli-skill",
       "tier": 3,
       "is_new": true,
-      "score": 126.0,
+      "score": 129.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 7,
+      "total_likes": 8,
       "total_retweets": 1,
       "total_views": 0,
       "best_tweet": {
         "author": "NewsBlur",
         "text": "Three new ways to use NewsBlur:\n\nCLI tool:\nuv pip install newsblur-cli\n\nCLI skill:\nnpx skills add samuelclay/newsblur-cli-skill\n\nMCP server:\nclaude mcp add newsblur https://t.co/JzLh4ySZ0m https://t.co/yQXh4g9y3F",
-        "likes": 7,
+        "likes": 8,
         "url": "https://x.com/i/status/2039474454431154645"
       },
       "all_tweet_urls": [
@@ -472,50 +473,8 @@
       "all_tweet_urls": [
         "https://x.com/i/status/2039736618324738180"
       ]
-    },
-    {
-      "repo": "leilei926524-tech/anti-distill",
-      "github_url": "https://github.com/leilei926524-tech/anti-distill",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "charlie88931442",
-        "text": "Introducing my newly built anti-distill skill: a tool designed to protect your professional core when companies demand you turn your work experience into AI skills.\n\nMajor tech firms now universally require employees to proactively contribute skills, extracting the hard-won lesso",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039670418781655361"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039670418781655361"
-      ]
     }
   ],
   "previously_seen_repos": [],
-  "no_repo_tweets": [
-    {
-      "id": "2037177396315488627",
-      "author": "steipete",
-      "text": "Testing a new feature for Microsoft Foundry support in @openclaw. Their website is a jungle, I used to make screenshots so codex can guide me through it, but now Chrome has an MCP so codex can simply connect and drive my browser session and do all of that for me.\n\nThe human is no",
-      "likes": 1671,
-      "views": 0,
-      "url": "https://x.com/i/status/2037177396315488627",
-      "is_kol": true,
-      "score": 5558.0
-    },
-    {
-      "id": "2039724900722589835",
-      "author": "NEARProtocol",
-      "text": "IronClaw takes a security first approach.\n\nRather than giving an agent free rein over your machine IronClaw uses a structured, skill-based architecture for more controlled execution.\n\nIronClaw is open source, auditable and designed for trust.\n\nGet started: https://t.co/50HhkZudds",
-      "likes": 217,
-      "views": 0,
-      "url": "https://x.com/i/status/2039724900722589835",
-      "is_kol": false,
-      "score": 811.0
-    }
-  ]
+  "no_repo_tweets": []
 }
