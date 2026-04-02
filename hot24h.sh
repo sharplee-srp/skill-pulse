@@ -302,15 +302,15 @@ print(f"  After relevance filter: {len(unique)} (removed {before - len(unique)} 
 # ══════════════════════════════════════════════════════════════
 # Cross-day dedup
 # ══════════════════════════════════════════════════════════════
-MIN_VIEWS = 500
-
 def hot_score(t):
     return t["views"] + t["likes"] * 100 + t["retweets"] * 50
 
-# ── Min views filter ──
-before_views = len(unique)
-unique = {tid: t for tid, t in unique.items() if t["views"] >= MIN_VIEWS}
-print(f"  After min views ({MIN_VIEWS}): {len(unique)} (removed {before_views - len(unique)})")
+# ── Min engagement filter ──
+# bird CLI doesn't return view counts, so filter on likes instead
+MIN_LIKES = 2
+before_engage = len(unique)
+unique = {tid: t for tid, t in unique.items() if t["likes"] >= MIN_LIKES or t["views"] >= 500}
+print(f"  After min engagement (likes>={MIN_LIKES} or views>=500): {len(unique)} (removed {before_engage - len(unique)})")
 
 # ── Same-author same-content dedup ──
 # Group by author, cluster by text similarity + URL overlap, keep best per cluster
