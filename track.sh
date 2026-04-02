@@ -90,7 +90,7 @@ search_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "$query" \
       --count "$limit" \
-      --all --max-pages 5 \
+      \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
@@ -119,7 +119,7 @@ fetch_kol_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "from:${username} skill OR mcp OR plugin OR tool OR agent" \
       --count 10 \
-      --all --max-pages 5 \
+      \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \

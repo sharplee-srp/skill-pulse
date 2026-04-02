@@ -60,7 +60,7 @@ search_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "$query" \
       --count "$limit" \
-      --all --max-pages 5 \
+      \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
@@ -302,7 +302,7 @@ print(f"  After relevance filter: {len(unique)} (removed {before - len(unique)} 
 # ══════════════════════════════════════════════════════════════
 # Cross-day dedup
 # ══════════════════════════════════════════════════════════════
-MIN_VIEWS = 100
+MIN_VIEWS = 500
 
 def hot_score(t):
     return t["views"] + t["likes"] * 100 + t["retweets"] * 50
