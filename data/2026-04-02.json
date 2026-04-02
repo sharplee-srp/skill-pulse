@@ -2,10 +2,10 @@
   "date": "2026-04-02",
   "stats": {
     "total_fetched": 563,
-    "unique_tweets": 352,
-    "tweets_with_repos": 24,
-    "unique_repos": 21,
-    "new_repos": 21,
+    "unique_tweets": 351,
+    "tweets_with_repos": 25,
+    "unique_repos": 22,
+    "new_repos": 22,
     "previously_seen_repos": 0
   },
   "new_repos": [
@@ -32,15 +32,36 @@
       ]
     },
     {
+      "repo": "jackwener/opencli",
+      "github_url": "https://github.com/jackwener/opencli",
+      "tier": 3,
+      "is_new": true,
+      "score": 395.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 85,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakevin7",
+        "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
+        "likes": 85,
+        "url": "https://x.com/i/status/2039707706370806084"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039707706370806084"
+      ]
+    },
+    {
       "repo": "libtv-labs/libtv-skills",
       "github_url": "https://github.com/libtv-labs/libtv-skills",
       "tier": 3,
       "is_new": true,
-      "score": 362.0,
+      "score": 367.0,
       "mention_count": 1,
       "kol_mentions": [],
       "total_likes": 69,
-      "total_retweets": 11,
+      "total_retweets": 12,
       "total_views": 0,
       "best_tweet": {
         "author": "liyue_ai",
@@ -50,27 +71,6 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039560730928902192"
-      ]
-    },
-    {
-      "repo": "jackwener/opencli",
-      "github_url": "https://github.com/jackwener/opencli",
-      "tier": 3,
-      "is_new": true,
-      "score": 358.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 76,
-      "total_retweets": 6,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "jakevin7",
-        "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
-        "likes": 76,
-        "url": "https://x.com/i/status/2039707706370806084"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039707706370806084"
       ]
     },
     {
@@ -95,6 +95,27 @@
       ]
     },
     {
+      "repo": "krea-ai/skills",
+      "github_url": "https://github.com/krea-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 306.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krea_ai",
+        "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
+        "likes": 62,
+        "url": "https://x.com/i/status/2039715727733866848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039715727733866848"
+      ]
+    },
+    {
       "repo": "togethercomputer/skills",
       "github_url": "https://github.com/togethercomputer/skills",
       "tier": 3,
@@ -113,27 +134,6 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039392682553094239"
-      ]
-    },
-    {
-      "repo": "krea-ai/skills",
-      "github_url": "https://github.com/krea-ai/skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 238.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 41,
-      "total_retweets": 3,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "krea_ai",
-        "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 41,
-        "url": "https://x.com/i/status/2039715727733866848"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039715727733866848"
       ]
     },
     {
@@ -409,6 +409,27 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039546061971501162"
+      ]
+    },
+    {
+      "repo": "huxiuhan/civ-finish-quotes",
+      "github_url": "https://github.com/huxiuhan/civ-finish-quotes",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xstory_xhu",
+        "text": "When an agent finishes something genuinely extraordinary, the ceremony always feels a little incomplete.\n\nSo I vibed civ-finish-quotes: a skill that adds Civilization-style finishing quotes to real completed work.\n\nhttps://t.co/OUJKXoRoWF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039726032224452764"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039726032224452764"
       ]
     },
     {
