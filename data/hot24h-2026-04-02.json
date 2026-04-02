@@ -2,21 +2,21 @@
   "date": "2026-04-02",
   "window": "24h",
   "stats": {
-    "total_fetched": 250,
-    "after_dedup": 238,
-    "after_noise_filter": 47,
+    "total_fetched": 251,
+    "after_dedup": 239,
+    "after_noise_filter": 45,
     "skipped_seen": 0,
     "resurfaced": 0,
-    "final": 47,
+    "final": 45,
     "with_repos": 10
   },
   "tweets": [
     {
       "rank": 1,
-      "score": 80050,
+      "score": 91000,
       "views": 0,
-      "likes": 774,
-      "retweets": 53,
+      "likes": 880,
+      "retweets": 60,
       "author": "nextjs",
       "text": "New agent skill: 𝚛𝚎𝚊𝚌𝚝-𝚟𝚒𝚎𝚠-𝚝𝚛𝚊𝚗𝚜𝚒𝚝𝚒𝚘𝚗𝚜\n\nAdd React <𝚅𝚒𝚎𝚠𝚃𝚛𝚊𝚗𝚜𝚒𝚝𝚒𝚘𝚗> animations to any React app. Also covers how Next.js can natively integrate them.\n\n• Animate elements across navigations\n• Slide pages forward and back\n• Smooth loading transitions\n• Composition and accessibility handled",
       "url": "https://x.com/i/status/2039740163979698413",
@@ -25,9 +25,9 @@
     },
     {
       "rank": 2,
-      "score": 35850,
+      "score": 36450,
       "views": 0,
-      "likes": 355,
+      "likes": 361,
       "retweets": 7,
       "author": "robinebers",
       "text": "skill issue\n\nplan mode in some harnesses (like cursor) does significantly more work before it comes to conclusions\n\ndon't believe anyone that claims things just because it works for them\n\npeter is cool and he does a lot for this industry\n\nbut he also famously said he doesn't do PRs and code reviews\n\ntake everything everyone says with a huge grain of salt\n\nespecially when it's written in such an aggressive way",
@@ -37,10 +37,10 @@
     },
     {
       "rank": 3,
-      "score": 25350,
+      "score": 26500,
       "views": 0,
-      "likes": 240,
-      "retweets": 27,
+      "likes": 250,
+      "retweets": 30,
       "author": "jakevin7",
       "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQAO",
       "url": "https://x.com/i/status/2039707706370806084",
@@ -49,9 +49,23 @@
     },
     {
       "rank": 4,
-      "score": 24450,
+      "score": 25250,
       "views": 0,
-      "likes": 220,
+      "likes": 247,
+      "retweets": 11,
+      "author": "shuding",
+      "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
+      "url": "https://x.com/i/status/2039731525353431073",
+      "repos": [
+        "vercel-labs/agent-skills"
+      ],
+      "created_at": "Thu Apr 02 15:47:46 +0000 2026"
+    },
+    {
+      "rank": 5,
+      "score": 24750,
+      "views": 0,
+      "likes": 223,
       "retweets": 49,
       "author": "vista8",
       "text": "身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-designer\n\n注意：用了仓耳今楷字体，请勿商用，个人用没问题。\n\n开源仓库地址：\nhttps://t.co/bep2zWn8Ye",
@@ -62,25 +76,11 @@
       "created_at": "Wed Apr 01 15:01:42 +0000 2026"
     },
     {
-      "rank": 5,
-      "score": 23200,
-      "views": 0,
-      "likes": 227,
-      "retweets": 10,
-      "author": "shuding",
-      "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
-      "url": "https://x.com/i/status/2039731525353431073",
-      "repos": [
-        "vercel-labs/agent-skills"
-      ],
-      "created_at": "Thu Apr 02 15:47:46 +0000 2026"
-    },
-    {
       "rank": 6,
-      "score": 22350,
+      "score": 23800,
       "views": 0,
-      "likes": 216,
-      "retweets": 15,
+      "likes": 230,
+      "retweets": 16,
       "author": "krea_ai",
       "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
       "url": "https://x.com/i/status/2039715727733866848",
@@ -91,10 +91,10 @@
     },
     {
       "rank": 7,
-      "score": 17800,
+      "score": 18100,
       "views": 0,
-      "likes": 150,
-      "retweets": 56,
+      "likes": 152,
+      "retweets": 58,
       "author": "WURKDOTFUN",
       "text": "Happy 402 Day! 🎉\n\nAs an agent, you don't have to celebrate this alone, you can hire humans.\n\nNeed feedback, testing, or engagement? Post a task. Pay instantly.\n\n🤖➡️Agent skill: https://t.co/Hhhe2EIZlr",
       "url": "https://x.com/i/status/2039694514265244000",
@@ -103,10 +103,22 @@
     },
     {
       "rank": 8,
-      "score": 14950,
+      "score": 16750,
       "views": 0,
-      "likes": 138,
-      "retweets": 23,
+      "likes": 164,
+      "retweets": 7,
+      "author": "Rigario",
+      "text": "Many are running @NousResearch Hermes Agent now.\nHere are some practical tips that help a lot, especially if you're coming from OpenClaw:\n\n1. Nightly skill evolution is worth setting up. Link: https://t.co/qPs3QPIYgW\nPro tip: Add a second cronjob to evaluate the changes so you don't have to. Make sure it stops anything that tries to game the optimization loop.\n\n2. Install Honcho if you're hitting memory issues. It gives proper cross-session recall, memory synthesis, and better long-term storage.",
+      "url": "https://x.com/i/status/2039763698584314311",
+      "repos": [],
+      "created_at": "Thu Apr 02 17:55:37 +0000 2026"
+    },
+    {
+      "rank": 9,
+      "score": 16600,
+      "views": 0,
+      "likes": 153,
+      "retweets": 26,
       "author": "hasantoxr",
       "text": "Another blow to OpenAI!\n\nDevs built a free and better Codex CLI that:\n\n→ runs 30 specialized agents\n→ works with any workflow skill\n→ beats it on multi-agent tasks\n→ has autopilot-like capabilities\n→ connects to MCP memory servers\n→ orchestrates up to 6 concurrent agents\n\n100% Opensource (10k+ stars).",
       "url": "https://x.com/i/status/2039665692207911348",
@@ -114,11 +126,11 @@
       "created_at": "Thu Apr 02 11:26:10 +0000 2026"
     },
     {
-      "rank": 9,
-      "score": 6750,
+      "rank": 10,
+      "score": 6900,
       "views": 0,
-      "likes": 59,
-      "retweets": 17,
+      "likes": 60,
+      "retweets": 18,
       "author": "charliejhills",
       "text": "BREAKING: Someone built the ultimate Claude Code cheat sheet and it’s trending on GitHub\n\n→ Command → Agent → Skill architecture, with working examples\n→ Stop hooks that nudge Claude to keep going or double-check its work\n→ Use Opus for planning, Sonnet for coding best of both\n→ /ultrathink keyword for max-effort reasoning\n→ Agentic search (glob + grep) beats RAG for codebases\n→ Multi-agent PR review with /code-review before every merge\n→ 60+ settings and 170+ env vars documented in one place\n\nP",
       "url": "https://x.com/i/status/2039602879728947400",
@@ -126,24 +138,10 @@
       "created_at": "Thu Apr 02 07:16:35 +0000 2026"
     },
     {
-      "rank": 10,
-      "score": 5850,
-      "views": 0,
-      "likes": 55,
-      "retweets": 7,
-      "author": "togethercompute",
-      "text": "We just open-sourced 12 agent skills that teach Claude Code and Codex how to use Together AI.\n\nInstall them and your coding agent just knows the right SDK patterns, model IDs, and API calls, no more copy-pasting from docs!\n\nnpx skills add togethercomputer/skills https://t.co/uMCCIiJCLX",
-      "url": "https://x.com/i/status/2039392682553094239",
-      "repos": [
-        "togethercomputer/skills"
-      ],
-      "created_at": "Wed Apr 01 17:21:20 +0000 2026"
-    },
-    {
       "rank": 11,
-      "score": 5350,
+      "score": 6450,
       "views": 0,
-      "likes": 52,
+      "likes": 63,
       "retweets": 3,
       "author": "ctatedev",
       "text": "New: Next.js adapter for emulate\n\nEmbed GitHub, Google, Slack, Apple, Microsoft, AWS, other emulators directly in your Next.js app\n\nOne catch-all route, same origin, no CORS headaches. Every preview deployment just works.\n\nnpx skills add vercel-labs/emulate --skill next https://t.co/yrNSGY30LP",
@@ -155,15 +153,17 @@
     },
     {
       "rank": 12,
-      "score": 5350,
+      "score": 5950,
       "views": 0,
-      "likes": 53,
-      "retweets": 1,
-      "author": "Rigario",
-      "text": "Many are running @NousResearch Hermes Agent now.\nHere are some practical tips that help a lot, especially if you're coming from OpenClaw:\n\n1. Nightly skill evolution is worth setting up. Link: https://t.co/qPs3QPIYgW\nPro tip: Add a second cronjob to evaluate the changes so you don't have to. Make sure it stops anything that tries to game the optimization loop.\n\n2. Install Honcho if you're hitting memory issues. It gives proper cross-session recall, memory synthesis, and better long-term storage.",
-      "url": "https://x.com/i/status/2039763698584314311",
-      "repos": [],
-      "created_at": "Thu Apr 02 17:55:37 +0000 2026"
+      "likes": 56,
+      "retweets": 7,
+      "author": "togethercompute",
+      "text": "We just open-sourced 12 agent skills that teach Claude Code and Codex how to use Together AI.\n\nInstall them and your coding agent just knows the right SDK patterns, model IDs, and API calls, no more copy-pasting from docs!\n\nnpx skills add togethercomputer/skills https://t.co/uMCCIiJCLX",
+      "url": "https://x.com/i/status/2039392682553094239",
+      "repos": [
+        "togethercomputer/skills"
+      ],
+      "created_at": "Wed Apr 01 17:21:20 +0000 2026"
     },
     {
       "rank": 13,
@@ -191,21 +191,9 @@
     },
     {
       "rank": 15,
-      "score": 3100,
+      "score": 3250,
       "views": 0,
-      "likes": 31,
-      "retweets": 0,
-      "author": "nityeshaga",
-      "text": "A couple weeks ago I learned that Claude Code plugins can store data — persistent data that survives across sessions and even skill upgrades.\n\nWhen I read that, my brain immediately went: this changes everything. \n\nA plugin now has intelligence (the LLM + instructions) + the ability to run code (tools, scripts), and persistent storage. That's not a plugin anymore. That's a freakin app!\n\nSo I built one to prove it. It's called Chief of Staff.\n\nWhat it does\n\nIt turns Claude into an actual executiv",
-      "url": "https://x.com/i/status/2039716830789718088",
-      "repos": [],
-      "created_at": "Thu Apr 02 14:49:23 +0000 2026"
-    },
-    {
-      "rank": 16,
-      "score": 3050,
-      "views": 0,
-      "likes": 30,
+      "likes": 32,
       "retweets": 1,
       "author": "VisualconAI",
       "text": "🚨 ULTIMA HORA: Este diseñador creó un skill de diseño Nothing para Claude Code.\n\nSolo dile \"nothing style\" y genera automáticamente tokens, componentes y modo oscuro y claro completos sin configurar nada.\n→ https://t.co/bFA8KkLHdt\n\nGratis y Open source.\nhttps://t.co/H16ro0Oika",
@@ -214,10 +202,10 @@
       "created_at": "Thu Apr 02 14:56:05 +0000 2026"
     },
     {
-      "rank": 17,
-      "score": 2650,
+      "rank": 16,
+      "score": 2950,
       "views": 0,
-      "likes": 26,
+      "likes": 29,
       "retweets": 1,
       "author": "mintlify",
       "text": "The Mintlify skill is now available as a Claude Code plugin.\n\nSearch your docs, debug build issues, and manage your content without leaving your terminal.\n\nInstall it today: https://t.co/87DHeI26ii https://t.co/GCcQ7Ge3ls",
@@ -226,16 +214,28 @@
       "created_at": "Thu Apr 02 15:37:20 +0000 2026"
     },
     {
-      "rank": 18,
-      "score": 2650,
+      "rank": 17,
+      "score": 2850,
       "views": 0,
-      "likes": 25,
+      "likes": 27,
       "retweets": 3,
       "author": "kevinkern",
       "text": "Made an update for my codex \"hard-cut\" skill.\n\nIt helps with\n- old &amp; new versions of the same code\n- avoiding fallback and compact code\n- avoiding shims and dual support\n- removing legacy checks and tests\n- removing dead old-path code https://t.co/dD1Wfl6mOd",
       "url": "https://x.com/i/status/2039677521369628765",
       "repos": [],
       "created_at": "Thu Apr 02 12:13:11 +0000 2026"
+    },
+    {
+      "rank": 18,
+      "score": 1850,
+      "views": 0,
+      "likes": 17,
+      "retweets": 3,
+      "author": "avthar",
+      "text": "Claude Code can self-improve over time. Here's how to set it up.\n\nI built a custom /retro Agent Skill that runs after every feature is built:\n-  It reviews git history, test results, and conversation context\n- It suggests improvements to my CLAUDE.md, skills, slash commands, and other customizations.\n- It also interviews me for my input to capture my own learnings in addition to Claude's.\n\nI also recommend the Compound Engineering plugin from @every and the Claudeception skill from @blader for s",
+      "url": "https://x.com/i/status/2039756675507167655",
+      "repos": [],
+      "created_at": "Thu Apr 02 17:27:42 +0000 2026"
     },
     {
       "rank": 19,
@@ -267,15 +267,15 @@
     },
     {
       "rank": 21,
-      "score": 1150,
+      "score": 1000,
       "views": 0,
-      "likes": 10,
-      "retweets": 3,
-      "author": "avthar",
-      "text": "Claude Code can self-improve over time. Here's how to set it up.\n\nI built a custom /retro Agent Skill that runs after every feature is built:\n-  It reviews git history, test results, and conversation context\n- It suggests improvements to my CLAUDE.md, skills, slash commands, and other customizations.\n- It also interviews me for my input to capture my own learnings in addition to Claude's.\n\nI also recommend the Compound Engineering plugin from @every and the Claudeception skill from @blader for s",
-      "url": "https://x.com/i/status/2039756675507167655",
+      "likes": 9,
+      "retweets": 2,
+      "author": "weareshiphero",
+      "text": "Giving your AI agent full read/write access to your ShipHero account is a bad idea. We just made the safe alternative dead simple.\n\nShipHero’s Public API Agents Skill gives Claude, Codex, or any MCP agent read-only access to your live warehouse data.\n\nWhen your agent session ends, the skill includes an explicit revoke command to invalidate the token. This is important, so don’t skip this step. Short-lived tokens reduce the blast radius if a session log or context window is ever exposed.\n\nSetup t",
+      "url": "https://x.com/i/status/2039768933817852030",
       "repos": [],
-      "created_at": "Thu Apr 02 17:27:42 +0000 2026"
+      "created_at": "Thu Apr 02 18:16:25 +0000 2026"
     },
     {
       "rank": 22,
@@ -331,18 +331,42 @@
     },
     {
       "rank": 26,
-      "score": 800,
+      "score": 750,
       "views": 0,
       "likes": 7,
-      "retweets": 2,
-      "author": "weareshiphero",
-      "text": "Giving your AI agent full read/write access to your ShipHero account is a bad idea. We just made the safe alternative dead simple.\n\nShipHero’s Public API Agents Skill gives Claude, Codex, or any MCP agent read-only access to your live warehouse data.\n\nWhen your agent session ends, the skill includes an explicit revoke command to invalidate the token. This is important, so don’t skip this step. Short-lived tokens reduce the blast radius if a session log or context window is ever exposed.\n\nSetup t",
-      "url": "https://x.com/i/status/2039768933817852030",
+      "retweets": 1,
+      "author": "jchibbard",
+      "text": "🛠️ An open source Claude Code skill that includes a battle-tested Rails upgrade methodology with dual booting, strict test enforcement, and sequential version upgrades. #Rails https://t.co/um0eIVPPjR",
+      "url": "https://x.com/i/status/2039755847601938528",
       "repos": [],
-      "created_at": "Thu Apr 02 18:16:25 +0000 2026"
+      "created_at": "Thu Apr 02 17:24:25 +0000 2026"
     },
     {
       "rank": 27,
+      "score": 600,
+      "views": 0,
+      "likes": 6,
+      "retweets": 0,
+      "author": "MSdorf9980",
+      "text": "We kept running into the same problem:\nthere are too many Claw / agent / skill projects, but no good way to find or compare them.\nSo we mapped the OpenClaw ecosystem.\n90+ projects\n2200+ skills\n30+ categories\nNot just a list, but a structured view of how things are organized and where different skills sit.\n\nWe also built a simple search interface:\n https://t.co/lufAvq3buK\nAnd wrote up the dataset + analysis here:\nhttps://t.co/LN0zAzz2zx\nCurious what we’re missing and how people are actually using",
+      "url": "https://x.com/i/status/2039699650727358676",
+      "repos": [],
+      "created_at": "Thu Apr 02 13:41:07 +0000 2026"
+    },
+    {
+      "rank": 28,
+      "score": 600,
+      "views": 0,
+      "likes": 4,
+      "retweets": 4,
+      "author": "TechByArti",
+      "text": "Best GitHub repos for Claude code that will 10x your next project in 2026:\n\n1. Claude Mem\nhttps://t.co/5OCSetQnSw\n\n2. UI UX Pro Max\nhttps://t.co/wznAC4ue8j\n\n3. n8n-MCP\nhttps://t.co/PSfNtJl1RE\n\n4. Obsidian Skills\nhttps://t.co/MZLfruEFoM\n\n5. LightRAG\nhttps://t.co/NNmzUZz02r\n\n6. Everything Claude Code\nhttps://t.co/ItSXlxdPax\n\n7. Superpowers\nhttps://t.co/JcHRh0o9Bl\n\n8. Awesome Claude Code\nhttps://t.co/CXmZWOOgpd\n\n9. GSD (Get Shit Done)\nhttps://t.co/KTj0jAm73H",
+      "url": "https://x.com/i/status/2039792918769320063",
+      "repos": [],
+      "created_at": "Thu Apr 02 19:51:44 +0000 2026"
+    },
+    {
+      "rank": 29,
       "score": 600,
       "views": 0,
       "likes": 6,
@@ -352,30 +376,6 @@
       "url": "https://x.com/i/status/2039719039187013670",
       "repos": [],
       "created_at": "Thu Apr 02 14:58:09 +0000 2026"
-    },
-    {
-      "rank": 28,
-      "score": 550,
-      "views": 0,
-      "likes": 5,
-      "retweets": 1,
-      "author": "jchibbard",
-      "text": "🛠️ An open source Claude Code skill that includes a battle-tested Rails upgrade methodology with dual booting, strict test enforcement, and sequential version upgrades. #Rails https://t.co/um0eIVPPjR",
-      "url": "https://x.com/i/status/2039755847601938528",
-      "repos": [],
-      "created_at": "Thu Apr 02 17:24:25 +0000 2026"
-    },
-    {
-      "rank": 29,
-      "score": 500,
-      "views": 0,
-      "likes": 5,
-      "retweets": 0,
-      "author": "MSdorf9980",
-      "text": "We kept running into the same problem:\nthere are too many Claw / agent / skill projects, but no good way to find or compare them.\nSo we mapped the OpenClaw ecosystem.\n90+ projects\n2200+ skills\n30+ categories\nNot just a list, but a structured view of how things are organized and where different skills sit.\n\nWe also built a simple search interface:\n https://t.co/lufAvq3buK\nAnd wrote up the dataset + analysis here:\nhttps://t.co/LN0zAzz2zx\nCurious what we’re missing and how people are actually using",
-      "url": "https://x.com/i/status/2039699650727358676",
-      "repos": [],
-      "created_at": "Thu Apr 02 13:41:07 +0000 2026"
     },
     {
       "rank": 30,
@@ -393,6 +393,18 @@
       "rank": 31,
       "score": 500,
       "views": 0,
+      "likes": 5,
+      "retweets": 0,
+      "author": "r0bThePirate",
+      "text": "Here is the skill I created: an App Store review checker that tests all Apple guidelines to pass the review. It is for Claude code. Please feel free to send your honest opinion and suggestions. \n\nPlease test it and feel free to send me your opinion. https://t.co/blOmcLY8U4",
+      "url": "https://x.com/i/status/2039786356038127879",
+      "repos": [],
+      "created_at": "Thu Apr 02 19:25:39 +0000 2026"
+    },
+    {
+      "rank": 32,
+      "score": 500,
+      "views": 0,
       "likes": 4,
       "retweets": 2,
       "author": "ranjan3118",
@@ -402,7 +414,7 @@
       "created_at": "Thu Apr 02 18:20:58 +0000 2026"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "score": 500,
       "views": 0,
       "likes": 5,
@@ -414,18 +426,6 @@
         "meshy-dev/meshy-3d-agent"
       ],
       "created_at": "Thu Apr 02 03:24:50 +0000 2026"
-    },
-    {
-      "rank": 33,
-      "score": 450,
-      "views": 0,
-      "likes": 4,
-      "retweets": 1,
-      "author": "hh_todd",
-      "text": "AI Agent Skill 这个概念，医学研究那边已经做了 450 个了\n\nAIPOCH 是个开源库\n专门帮医学研究人员做这件事：\n发现假设 → 验证假设 → 用自己的数据跑\n\n有人已经在认真用 OpenClaw 的 Skill 架构搭医学研究工具了\n\n以前说给 AI 装技能感觉是黑客玩具\n现在医学领域的人正在认真搭积木\n\n这不是玩具了",
-      "url": "https://x.com/i/status/2039549392378843247",
-      "repos": [],
-      "created_at": "Thu Apr 02 03:44:02 +0000 2026"
     },
     {
       "rank": 34,
@@ -453,18 +453,6 @@
     },
     {
       "rank": 36,
-      "score": 350,
-      "views": 0,
-      "likes": 3,
-      "retweets": 1,
-      "author": "aiwarts",
-      "text": "而且她可以加载我本地所有Skill，我把我那wins当linux用，不用浏览器心里只有命令行，平时不说话单写代码嘎嘎嘎嘎厉害的前同事复刻了出来。\n\n他去帮我分析Claude Code项目代码去了🏃\n\n（2/4） https://t.co/KGr6zgMP3n",
-      "url": "https://x.com/i/status/2039718231280128505",
-      "repos": [],
-      "created_at": "Thu Apr 02 14:54:57 +0000 2026"
-    },
-    {
-      "rank": 37,
       "score": 300,
       "views": 0,
       "likes": 3,
@@ -476,7 +464,7 @@
       "created_at": "Thu Apr 02 17:27:18 +0000 2026"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "score": 300,
       "views": 0,
       "likes": 3,
@@ -488,7 +476,7 @@
       "created_at": "Thu Apr 02 16:12:41 +0000 2026"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "score": 300,
       "views": 0,
       "likes": 3,
@@ -500,7 +488,7 @@
       "created_at": "Thu Apr 02 01:54:57 +0000 2026"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "score": 300,
       "views": 0,
       "likes": 3,
@@ -512,7 +500,7 @@
       "created_at": "Thu Apr 02 17:02:48 +0000 2026"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "score": 200,
       "views": 0,
       "likes": 2,
@@ -524,7 +512,7 @@
       "created_at": "Thu Apr 02 13:22:50 +0000 2026"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "score": 200,
       "views": 0,
       "likes": 2,
@@ -536,7 +524,7 @@
       "created_at": "Thu Apr 02 12:18:23 +0000 2026"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "score": 200,
       "views": 0,
       "likes": 2,
@@ -548,19 +536,7 @@
       "created_at": "Thu Apr 02 19:11:42 +0000 2026"
     },
     {
-      "rank": 44,
-      "score": 200,
-      "views": 0,
-      "likes": 2,
-      "retweets": 0,
-      "author": "hreg15",
-      "text": "@nicklaunches free open source claude code skill if anyone is interested, having great on page required if you're boosting DR",
-      "url": "https://x.com/i/status/2039705556823273849",
-      "repos": [],
-      "created_at": "Thu Apr 02 14:04:35 +0000 2026"
-    },
-    {
-      "rank": 45,
+      "rank": 43,
       "score": 200,
       "views": 0,
       "likes": 2,
@@ -572,7 +548,7 @@
       "created_at": "Thu Apr 02 16:17:33 +0000 2026"
     },
     {
-      "rank": 46,
+      "rank": 44,
       "score": 200,
       "views": 0,
       "likes": 2,
@@ -584,7 +560,7 @@
       "created_at": "Thu Apr 02 14:45:00 +0000 2026"
     },
     {
-      "rank": 47,
+      "rank": 45,
       "score": 200,
       "views": 0,
       "likes": 2,
