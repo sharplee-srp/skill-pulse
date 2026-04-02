@@ -60,7 +60,7 @@ search_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "$query" \
       --count "$limit" \
-      --max-pages 5 \
+      --all --max-pages 5 \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
