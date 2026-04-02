@@ -1,55 +1,64 @@
-# skill-pulse
+# x-skill-track
 
-Daily tracker for hot AI coding skills trending on X/Twitter. Discovers skill repos via KOL monitoring and keyword search, extracts GitHub links, deduplicates at the repo level, and ranks by tiered engagement signals.
+Twitter/X skill trend tracker and agent skills for discovering hot content.
 
-## How it works
+## Install Skills
 
-```
-KOL tweets (15 accounts)  ──┐
-                             ├─→ normalize → dedup → filter → extract repos → tier & rank
-Keyword search (14 queries) ─┘
+```bash
+npx skills add sharp/x-skill-track
 ```
 
-**Tiered ranking:**
-- **T0** — KOL-recommended repos (highest priority)
-- **T1** — Repos mentioned by 3+ independent tweets
-- **T2** — Single mention with high engagement (100+ likes)
+### Available Skills
+
+| Skill | Description |
+|-------|-------------|
+| `twitter-hot-topics` | Find the hottest tweets on any topic from the past 24h, ranked by engagement |
+| `hot24h` | Quick hot tweet scanner with Haiku-powered query expansion |
+
+## Automated Tracking (GitHub Actions)
+
+Runs twice daily via cron to cover both Asia and US peak hours:
+- **09:00 UTC** (17:00 GMT+8) — Asia peak
+- **18:00 UTC** (02:00 GMT+8) — US peak
+
+Each run executes two scripts:
+
+### track.sh — Repo Discovery
+
+Monitors 15 KOL accounts + 14 keyword searches, extracts GitHub repos, and ranks by tiered engagement:
+
+- **T0** — KOL-recommended repos
+- **T1** — 3+ independent mentions
+- **T2** — High engagement single mention (100+ likes)
 - **T3** — Low signal
 
-## Output
+Output: `data/YYYY-MM-DD.json`
 
-Daily JSON in `data/YYYY-MM-DD.json`:
+### hot24h.sh — Hot Tweet Ranking
 
-```json
-{
-  "date": "2026-04-01",
-  "stats": { "total_fetched": 360, "unique_repos": 30, "new_repos": 30 },
-  "new_repos": [
-    {
-      "repo": "user/repo",
-      "github_url": "https://github.com/user/repo",
-      "tier": 0,
-      "score": 17608,
-      "mention_count": 1,
-      "kol_mentions": ["steipete"],
-      "best_tweet": { "author": "...", "text": "...", "url": "..." }
-    }
-  ]
-}
-```
+Broad search with local relevance filtering, RT aggregation, and cross-day dedup.
 
-## Usage
+- Scoring: `views + likes × 100 + retweets × 50`
+- Min views: 500
+- Same-author dedup for duplicate promotions
+- Cross-day intelligence: seen tweets only resurface if score jumps 3x
+
+Output: `data/hot24h-YYYY-MM-DD.json`
+
+## Local Usage
 
 ```bash
 # Local (uses opencli browser bridge)
 ./track.sh
+./hot24h.sh
 
-# CI (uses bird CLI with auth tokens)
+# CI mode (uses bird CLI with auth tokens)
 BIRD_AUTH_TOKEN=xxx BIRD_CT0=yyy ./track.sh
+BIRD_AUTH_TOKEN=xxx BIRD_CT0=yyy ./hot24h.sh
 ```
 
-## GitHub Actions
+## GitHub Actions Setup
 
-Runs daily at 17:00 GMT+8 via cron. Requires two repo secrets:
+Requires two repo secrets:
 - `BIRD_AUTH_TOKEN` — Twitter auth_token cookie
 - `BIRD_CT0` — Twitter ct0 cookie

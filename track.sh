@@ -15,7 +15,8 @@ DATA_DIR="$SCRIPT_DIR/data"
 RAW_DIR="$DATA_DIR/raw"
 mkdir -p "$DATA_DIR" "$RAW_DIR"
 
-TODAY=$(date +%Y-%m-%d)
+TODAY=$(date -u +%Y-%m-%d)
+RUN_ID=$(date -u +%H%M)
 OUTPUT="$DATA_DIR/$TODAY.json"
 SEEN_REPOS="$DATA_DIR/seen_repos.json"
 SEEN_TWEETS="$DATA_DIR/seen_tweets.json"
@@ -69,7 +70,7 @@ QUERIES=(
   "codex skill"
 )
 
-LIMIT=15  # per query
+LIMIT=30  # per query
 
 # --- Detect backend ---
 if [[ -n "${BIRD_AUTH_TOKEN:-}" && -n "${BIRD_CT0:-}" ]]; then
@@ -89,6 +90,7 @@ search_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "$query" \
       --count "$limit" \
+      --max-pages 5 \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
@@ -110,6 +112,7 @@ fetch_kol_tweets() {
   if [[ "$BACKEND" == "bird" ]]; then
     bird search "from:${username} skill OR mcp OR plugin OR tool OR agent" \
       --count 10 \
+      --max-pages 5 \
       --json \
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
@@ -129,7 +132,7 @@ fetch_kol_tweets() {
 echo "[info] Phase 1: Fetching KOL tweets (${#KOLS[@]} accounts)..."
 for i in "${!KOLS[@]}"; do
   kol="${KOLS[$i]}"
-  tmpfile="$RAW_DIR/$TODAY-kol-${kol}.json"
+  tmpfile="$RAW_DIR/$TODAY-${RUN_ID}-kol-${kol}.json"
   echo "  [$((i+1))/${#KOLS[@]}] @$kol"
   fetch_kol_tweets "$kol" "$tmpfile"
   sleep 1
@@ -141,7 +144,7 @@ done
 echo "[info] Phase 2: Searching ${#QUERIES[@]} queries..."
 for i in "${!QUERIES[@]}"; do
   q="${QUERIES[$i]}"
-  tmpfile="$RAW_DIR/$TODAY-q${i}.json"
+  tmpfile="$RAW_DIR/$TODAY-${RUN_ID}-q${i}.json"
   echo "  [$((i+1))/${#QUERIES[@]}] \"$q\""
   search_tweets "$q" "$LIMIT" "$tmpfile"
   sleep 1
@@ -211,7 +214,7 @@ def normalize(t, source="search"):
 # ── Load all tweets ──
 all_tweets = []
 # KOL tweets
-for fpath in sorted(glob.glob(os.path.join(raw_dir, f"{today}-kol-*.json"))):
+for fpath in sorted(glob.glob(os.path.join(raw_dir, f"{today}-*-kol-*.json"))):
     try:
         with open(fpath) as f:
             data = json.load(f)
@@ -220,7 +223,7 @@ for fpath in sorted(glob.glob(os.path.join(raw_dir, f"{today}-kol-*.json"))):
     except (json.JSONDecodeError, IOError):
         continue
 # Search tweets
-for fpath in sorted(glob.glob(os.path.join(raw_dir, f"{today}-q*.json"))):
+for fpath in sorted(glob.glob(os.path.join(raw_dir, f"{today}-*-q*.json"))):
     try:
         with open(fpath) as f:
             data = json.load(f)
@@ -479,7 +482,7 @@ if top_no_repo:
 print(f"\n  Output: {output_file}")
 PYEOF
 
-# Cleanup raw files
-rm -f "$RAW_DIR/$TODAY"-*.json
+# Clean up previous days' raw files (keep today's for cross-run merging)
+find "$RAW_DIR" -name "*.json" ! -name "${TODAY}-*" -delete 2>/dev/null || true
 
 echo "[done] Tracking complete."
