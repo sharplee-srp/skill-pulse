@@ -2,8 +2,9 @@ name: Track Hot Skills on X
 
 on:
   schedule:
-    # Run daily at 09:00 UTC (17:00 GMT+8)
-    - cron: '0 9 * * *'
+    # Run twice daily to cover both Asia and US peak hours
+    - cron: '0 9 * * *'   # 09:00 UTC (17:00 GMT+8) — Asia peak
+    - cron: '0 18 * * *'  # 18:00 UTC (02:00 GMT+8) — US peak
   workflow_dispatch: # manual trigger
 
 permissions:
@@ -27,7 +28,9 @@ jobs:
         env:
           BIRD_AUTH_TOKEN: ${{ secrets.BIRD_AUTH_TOKEN }}
           BIRD_CT0: ${{ secrets.BIRD_CT0 }}
-        run: ./track.sh
+        run: |
+          ./track.sh
+          ./hot24h.sh
 
       - name: Commit results
         run: |
@@ -37,6 +40,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "track: $(date +%Y-%m-%d) skill trends update"
+            git commit -m "track: $(date -u +%Y-%m-%dT%H:%M)Z skill trends update"
             git push
           fi
