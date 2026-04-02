@@ -306,35 +306,60 @@ unique = {tid: t for tid, t in unique.items() if t["views"] >= MIN_VIEWS}
 print(f"  After min views ({MIN_VIEWS}): {len(unique)} (removed {before_views - len(unique)})")
 
 # ── Same-author same-content dedup ──
-# When same author posts multiple tweets promoting same content, keep highest-scoring only
-author_best = {}
-for tid, t in unique.items():
-    author = t["author"]
-    score = hot_score(t)
-    if author not in author_best:
-        author_best[author] = (tid, score, t)
-    else:
-        _, old_score, _ = author_best[author]
-        # Check text similarity (>50% overlap = same content)
-        old_text = author_best[author][2]["text"][:200].lower()
-        new_text = t["text"][:200].lower()
-        old_words = set(old_text.split())
-        new_words = set(new_text.split())
-        overlap = len(old_words & new_words) / max(len(old_words | new_words), 1)
-        if overlap > 0.5:
-            # Same author, similar content — keep higher score
-            if score > old_score:
-                author_best[author] = (tid, score, t)
-        else:
-            # Different content from same author — keep both (use tid as unique key)
-            author_best[f"{author}_{tid}"] = (tid, score, t)
+# Group by author, cluster by text similarity + URL overlap, keep best per cluster
+import urllib.parse
 
-# Rebuild unique from author_best
-keep_tids = {v[0] for v in author_best.values()}
+TCO_RE_HOT = re.compile(r'https://t\.co/\S+')
+
+def extract_urls(text):
+    return set(TCO_RE_HOT.findall(text))
+
+def text_similarity(a, b):
+    wa = set(a[:200].lower().split())
+    wb = set(b[:200].lower().split())
+    union = wa | wb
+    return len(wa & wb) / len(union) if union else 0
+
+author_groups = defaultdict(list)
+for tid, t in unique.items():
+    author_groups[t["author"]].append((tid, t))
+
+keep_tids = set()
+dedup_removed = 0
+for author, tweets in author_groups.items():
+    # Cluster: each tweet either joins an existing cluster or starts a new one
+    clusters = []  # list of (best_tid, best_score, best_tweet, urls)
+    for tid, t in tweets:
+        score = hot_score(t)
+        urls = extract_urls(t["text"])
+        merged = False
+        for i, (c_tid, c_score, c_tweet, c_urls) in enumerate(clusters):
+            # Same URL = same content (strongest signal)
+            if urls and c_urls and (urls & c_urls):
+                if score > c_score:
+                    clusters[i] = (tid, score, t, urls | c_urls)
+                else:
+                    clusters[i] = (c_tid, c_score, c_tweet, urls | c_urls)
+                merged = True
+                break
+            # Text similarity > 50% = same content
+            if text_similarity(t["text"], c_tweet["text"]) > 0.5:
+                if score > c_score:
+                    clusters[i] = (tid, score, t, urls | c_urls)
+                else:
+                    clusters[i] = (c_tid, c_score, c_tweet, urls | c_urls)
+                merged = True
+                break
+        if not merged:
+            clusters.append((tid, score, t, urls))
+    for c_tid, _, _, _ in clusters:
+        keep_tids.add(c_tid)
+    dedup_removed += len(tweets) - len(clusters)
+
 before_author = len(unique)
 unique = {tid: t for tid, t in unique.items() if tid in keep_tids}
-if before_author != len(unique):
-    print(f"  After same-author dedup: {len(unique)} (removed {before_author - len(unique)})")
+if dedup_removed:
+    print(f"  After same-author dedup: {len(unique)} (removed {dedup_removed})")
 
 new_tweets = {}
 resurfaced = {}

@@ -70,7 +70,7 @@ QUERIES=(
   "codex skill"
 )
 
-LIMIT=15  # per query
+LIMIT=30  # per query
 
 # --- Detect backend ---
 if [[ -n "${BIRD_AUTH_TOKEN:-}" && -n "${BIRD_CT0:-}" ]]; then
