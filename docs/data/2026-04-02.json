@@ -57,16 +57,16 @@
       "github_url": "https://github.com/jackwener/opencli",
       "tier": 3,
       "is_new": true,
-      "score": 346.0,
+      "score": 358.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 72,
+      "total_likes": 76,
       "total_retweets": 6,
       "total_views": 0,
       "best_tweet": {
         "author": "jakevin7",
         "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
-        "likes": 72,
+        "likes": 76,
         "url": "https://x.com/i/status/2039707706370806084"
       },
       "all_tweet_urls": [
@@ -120,16 +120,16 @@
       "github_url": "https://github.com/krea-ai/skills",
       "tier": 3,
       "is_new": true,
-      "score": 209.0,
+      "score": 238.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 33,
-      "total_retweets": 2,
+      "total_likes": 41,
+      "total_retweets": 3,
       "total_views": 0,
       "best_tweet": {
         "author": "krea_ai",
         "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 33,
+        "likes": 41,
         "url": "https://x.com/i/status/2039715727733866848"
       },
       "all_tweet_urls": [
