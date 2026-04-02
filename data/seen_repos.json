@@ -294,5 +294,21 @@
   "nousresearch/hermes-agent-self-evolution": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "thedotmack/claude-mem": {
+    "first_seen": "2026-04-02",
+    "tier": 0
+  },
+  "pika-labs/pika-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "belazy167/deliberate-coder": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "youmind-openlab/nano-banana-pro-prompts-recommend-skill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
