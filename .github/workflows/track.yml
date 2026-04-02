@@ -30,15 +30,17 @@ jobs:
           BIRD_AUTH_TOKEN: ${{ secrets.BIRD_AUTH_TOKEN }}
           BIRD_CT0: ${{ secrets.BIRD_CT0 }}
         run: |
-          # Quick search to verify credentials still work
-          RESULT=$(bird search "test" --count 1 --json --plain \
+          # Quick search to verify credentials — check result count, not just error text
+          # bird silently returns [] on auth failure instead of an error message
+          RESULT=$(bird search "twitter" --count 5 --json --plain \
             --auth-token "$BIRD_AUTH_TOKEN" --ct0 "$BIRD_CT0" 2>&1) || true
-          if echo "$RESULT" | grep -qi "credentials\|unauthorized\|forbidden\|Missing.*auth\|Missing.*ct0\|login"; then
-            echo "::error::Twitter credentials expired or invalid"
-            echo "AUTH_FAILED=true" >> "$GITHUB_ENV"
-          else
-            echo "Auth OK"
+          COUNT=$(echo "$RESULT" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d))" 2>/dev/null || echo "0")
+          if [ "$COUNT" -gt "0" ]; then
+            echo "Auth OK — test search returned $COUNT results"
             echo "AUTH_FAILED=false" >> "$GITHUB_ENV"
+          else
+            echo "::error::Twitter auth failed — test search returned 0 results"
+            echo "AUTH_FAILED=true" >> "$GITHUB_ENV"
           fi
 
       - name: Alert on auth failure
