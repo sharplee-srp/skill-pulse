@@ -1,11 +1,11 @@
 {
   "date": "2026-04-02",
   "stats": {
-    "total_fetched": 563,
-    "unique_tweets": 340,
-    "tweets_with_repos": 29,
-    "unique_repos": 25,
-    "new_repos": 24,
+    "total_fetched": 533,
+    "unique_tweets": 331,
+    "tweets_with_repos": 31,
+    "unique_repos": 27,
+    "new_repos": 26,
     "previously_seen_repos": 1
   },
   "new_repos": [
@@ -14,8 +14,8 @@
       "github_url": "https://github.com/motdotla/dotenv",
       "tier": 1,
       "is_new": true,
-      "score": 403.0,
-      "mention_count": 4,
+      "score": 303.0,
+      "mention_count": 3,
       "kol_mentions": [],
       "total_likes": 1,
       "total_retweets": 0,
@@ -29,8 +29,28 @@
       "all_tweet_urls": [
         "https://x.com/i/status/2039785825052082187",
         "https://x.com/i/status/2039742654523814103",
-        "https://x.com/i/status/2039447297160106429",
-        "https://x.com/i/status/2039446885954654631"
+        "https://x.com/i/status/2039447297160106429"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent-self-evolution",
+      "github_url": "https://github.com/nousresearch/hermes-agent-self-evolution",
+      "tier": 2,
+      "is_new": true,
+      "score": 1250.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 355,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Rigario",
+        "text": "Many are running @NousResearch Hermes Agent now.\nHere are some practical tips that help a lot, especially if you're coming from OpenClaw:\n\n1. Nightly skill evolution is worth setting up. Link: https://t.co/qPs3QPIYgW\nPro tip: Add a second cronjob to evaluate the changes so you do",
+        "likes": 355,
+        "url": "https://x.com/i/status/2039763698584314311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039763698584314311"
       ]
     },
     {
@@ -38,16 +58,16 @@
       "github_url": "https://github.com/jackwener/opencli",
       "tier": 2,
       "is_new": true,
-      "score": 1146.0,
+      "score": 1198.0,
       "mention_count": 2,
       "kol_mentions": [],
-      "total_likes": 262,
-      "total_retweets": 32,
+      "total_likes": 276,
+      "total_retweets": 34,
       "total_views": 0,
       "best_tweet": {
         "author": "jakevin7",
         "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
-        "likes": 262,
+        "likes": 276,
         "url": "https://x.com/i/status/2039707706370806084"
       },
       "all_tweet_urls": [
@@ -60,16 +80,16 @@
       "github_url": "https://github.com/vercel-labs/agent-skills",
       "tier": 2,
       "is_new": true,
-      "score": 988.0,
+      "score": 1081.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 276,
-      "total_retweets": 12,
+      "total_likes": 302,
+      "total_retweets": 15,
       "total_views": 0,
       "best_tweet": {
         "author": "shuding",
         "text": "8 new rules added to the React Best Practices skill:\n\nnpx skills add vercel-labs/agent-skills --skill vercel-react-best-practices\n\nSome of these patterns are a fun read for humans too. https://t.co/wuF95P6Xqi",
-        "likes": 276,
+        "likes": 302,
         "url": "https://x.com/i/status/2039731525353431073"
       },
       "all_tweet_urls": [
@@ -77,41 +97,20 @@
       ]
     },
     {
-      "repo": "nousresearch/hermes-agent-self-evolution",
-      "github_url": "https://github.com/nousresearch/hermes-agent-self-evolution",
-      "tier": 2,
-      "is_new": true,
-      "score": 960.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 265,
-      "total_retweets": 13,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "Rigario",
-        "text": "Many are running @NousResearch Hermes Agent now.\nHere are some practical tips that help a lot, especially if you're coming from OpenClaw:\n\n1. Nightly skill evolution is worth setting up. Link: https://t.co/qPs3QPIYgW\nPro tip: Add a second cronjob to evaluate the changes so you do",
-        "likes": 265,
-        "url": "https://x.com/i/status/2039763698584314311"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039763698584314311"
-      ]
-    },
-    {
       "repo": "krea-ai/skills",
       "github_url": "https://github.com/krea-ai/skills",
       "tier": 2,
       "is_new": true,
-      "score": 902.0,
+      "score": 946.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 239,
-      "total_retweets": 17,
+      "total_likes": 252,
+      "total_retweets": 18,
       "total_views": 0,
       "best_tweet": {
         "author": "krea_ai",
         "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 239,
+        "likes": 252,
         "url": "https://x.com/i/status/2039715727733866848"
       },
       "all_tweet_urls": [
@@ -140,20 +139,41 @@
       ]
     },
     {
+      "repo": "jgraph/drawio-mcp",
+      "github_url": "https://github.com/jgraph/drawio-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 478.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 106,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "drawio",
+        "text": "New in our https://t.co/AngZk3kiDe MCP app server: search_shapes lets your LLM search 10,000+ specialized shapes — AWS, Azure, GCP, Kubernetes, Cisco, P&amp;ID, electrical, BPMN and more — and use them directly when generating diagrams. Source at https://t.co/VF5sNTp7gX 🚀 https:/",
+        "likes": 106,
+        "url": "https://x.com/i/status/2039807042865504621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039807042865504621"
+      ]
+    },
+    {
       "repo": "sicks3c/hackerone-mcp-server",
       "github_url": "https://github.com/sicks3c/hackerone-mcp-server",
       "tier": 3,
       "is_new": true,
-      "score": 432.0,
+      "score": 438.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 89,
+      "total_likes": 91,
       "total_retweets": 13,
       "total_views": 0,
       "best_tweet": {
         "author": "0xacb",
         "text": "Hackerone MCP Server (unofficial).\n\nAn MCP server that gives you quick access to your HackerOne reports, programs, earnings, and scope data.\n\nVery useful tool by @OriginalSicksec for anyone that's automating but bounty hunting.\n\nGitHub repo 👇\nhttps://t.co/2as8qVc2FP",
-        "likes": 89,
+        "likes": 91,
         "url": "https://x.com/i/status/2039301886906405011"
       },
       "all_tweet_urls": [
@@ -165,16 +185,16 @@
       "github_url": "https://github.com/repowise-dev/repowise",
       "tier": 3,
       "is_new": true,
-      "score": 413.0,
+      "score": 422.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 71,
+      "total_likes": 74,
       "total_retweets": 20,
       "total_views": 0,
       "best_tweet": {
         "author": "NitinthisSide_",
         "text": "This free open-source 𝗠𝗖𝗣 𝘀𝗲𝗿𝘃𝗲𝗿 cuts Claude Code's token usage by 60%. Instead of grepping 30 files to understand your codebase, it makes 5 calls. It knows who owns every file, what breaks if you touch it, which code is dead, and why anything was built that way.\n\nReal comparison",
-        "likes": 71,
+        "likes": 74,
         "url": "https://x.com/i/status/2039586192304611631"
       },
       "all_tweet_urls": [
@@ -186,16 +206,16 @@
       "github_url": "https://github.com/sunbigfly/ppt-agent-skills",
       "tier": 3,
       "is_new": true,
-      "score": 292.0,
+      "score": 341.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 49,
-      "total_retweets": 9,
+      "total_likes": 62,
+      "total_retweets": 11,
       "total_views": 0,
       "best_tweet": {
         "author": "FFEE_2025",
         "text": "几个生成PPT的Skill\n\n比一键生成PPT质量要高很多，其中一个甚至支持交互式生成，很好用～\n\nhttps://t.co/cWQI8HNhPu\n\nhttps://t.co/frJWyz1MjX\n\nhttps://t.co/Cr3q61n4vE",
-        "likes": 49,
+        "likes": 62,
         "url": "https://x.com/i/status/2039715658641052063"
       },
       "all_tweet_urls": [
@@ -207,20 +227,42 @@
       "github_url": "https://github.com/bvisible/mcp-ssh-manager",
       "tier": 3,
       "is_new": true,
-      "score": 243.0,
+      "score": 258.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 41,
+      "total_likes": 46,
       "total_retweets": 4,
       "total_views": 0,
       "best_tweet": {
         "author": "tom_doerr",
         "text": "MCP SSH server for AI assistants\n\nhttps://t.co/Z8EjGYpaun https://t.co/w4LClc92LV",
-        "likes": 41,
+        "likes": 46,
         "url": "https://x.com/i/status/2039546258826637488"
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039546258826637488"
+      ]
+    },
+    {
+      "repo": "pika-labs/pika-skills",
+      "github_url": "https://github.com/pika-labs/pika-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 230.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thetripathi58",
+        "text": "Typing back and forth with an AI is one thing, but talking face-to-face in a Google Meet is a whole different experience.\n\n@pika_labs just released a real-time video chat skill that works for any agent, not just their own. You can bring in Claude or OpenClaw and they actually kee",
+        "likes": 8,
+        "url": "https://x.com/i/status/2039814230506152107"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039814230506152107",
+        "https://x.com/i/status/2039782847393710276"
       ]
     },
     {
@@ -266,6 +308,27 @@
       ]
     },
     {
+      "repo": "letsfg/letsfg",
+      "github_url": "https://github.com/letsfg/letsfg",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "amjaworsky",
+        "text": "People keep asking me, what's your use case for OpenClaw? Flight search. Trust me. I NEVER ever want to check 10 websites, skyscanner, google flights, just to find ONE single flight coz I need the cheapest deal!\nSo? Got a flight search skill for my OpenClaw, and here we go :D\nhtt",
+        "likes": 5,
+        "url": "https://x.com/i/status/2039810156989477312"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039810156989477312"
+      ]
+    },
+    {
       "repo": "meshy-dev/meshy-3d-agent",
       "github_url": "https://github.com/meshy-dev/meshy-3d-agent",
       "tier": 3,
@@ -287,50 +350,29 @@
       ]
     },
     {
-      "repo": "letsfg/letsfg",
-      "github_url": "https://github.com/letsfg/letsfg",
+      "repo": "10xchengtu/harness-engineering",
+      "github_url": "https://github.com/10xchengtu/harness-engineering",
       "tier": 3,
       "is_new": true,
-      "score": 109.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 3,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "amjaworsky",
-        "text": "People keep asking me, what's your use case for OpenClaw? Flight search. Trust me. I NEVER ever want to check 10 websites, skyscanner, google flights, just to find ONE single flight coz I need the cheapest deal!\nSo? Got a flight search skill for my OpenClaw, and here we go :D\nhtt",
-        "likes": 3,
-        "url": "https://x.com/i/status/2039810156989477312"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039810156989477312"
-      ]
-    },
-    {
-      "repo": "pika-labs/pika-skills",
-      "github_url": "https://github.com/pika-labs/pika-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 106.0,
+      "score": 111.0,
       "mention_count": 1,
       "kol_mentions": [],
       "total_likes": 2,
-      "total_retweets": 0,
+      "total_retweets": 1,
       "total_views": 0,
       "best_tweet": {
-        "author": "KiiSatou",
-        "text": "Pika just open-sourced their skills library for AI coding agents.\n\nSelf-contained modules that drop into Claude Code, OpenClaw, and other agents via a single SKILL.md file.\n\nFirst skill live: join a Google Meet as a real-time AI avatar with voice cloning.\n\nhttps://t.co/0qfL7cnGHe",
+        "author": "Justin1024go",
+        "text": "无需复杂学习 Harness 工程，小白直接一句话用这个 Skill 就可以 创建/优化/持续迭代 你的项目的 Harness 工程！\n\n直接开始写产品吧😋\n\n推荐全局安装，它会根据你遇到的问题持续解决更新可复用能力～\n\n> npx skills add 10xChengTu/harness-engineering\n\nhttps://t.co/IEo7Ekladk",
         "likes": 2,
-        "url": "https://x.com/i/status/2039782847393710276"
+        "url": "https://x.com/i/status/2039733828076593354"
       },
       "all_tweet_urls": [
-        "https://x.com/i/status/2039782847393710276"
+        "https://x.com/i/status/2039733828076593354"
       ]
     },
     {
-      "repo": "10xchengtu/harness-engineering",
-      "github_url": "https://github.com/10xchengtu/harness-engineering",
+      "repo": "hewliyang/headless-word",
+      "github_url": "https://github.com/hewliyang/headless-word",
       "tier": 3,
       "is_new": true,
       "score": 103.0,
@@ -340,13 +382,13 @@
       "total_retweets": 0,
       "total_views": 0,
       "best_tweet": {
-        "author": "Justin1024go",
-        "text": "无需复杂学习 Harness 工程，小白直接一句话用这个 Skill 就可以 创建/优化/持续迭代 你的项目的 Harness 工程！\n\n直接开始写产品吧😋\n\n推荐全局安装，它会根据你遇到的问题持续解决更新可复用能力～\n\n> npx skills add 10xChengTu/harness-engineering\n\nhttps://t.co/IEo7Ekladk",
+        "author": "hewliyang",
+        "text": "ported over the office-agents/word toolset into a CLI\n\nuv tool install headless-word\nnpx skills add hewliyang/headless-word\nheadless-word --help\n\ngives any coding agent full fidelity DOCX editing including comments, track changes. \n\nuses LibreOffice's UNO backend https://t.co/c8j",
         "likes": 1,
-        "url": "https://x.com/i/status/2039733828076593354"
+        "url": "https://x.com/i/status/2039809591278747975"
       },
       "all_tweet_urls": [
-        "https://x.com/i/status/2039733828076593354"
+        "https://x.com/i/status/2039809591278747975"
       ]
     },
     {
@@ -392,8 +434,8 @@
       ]
     },
     {
-      "repo": "hewliyang/headless-word",
-      "github_url": "https://github.com/hewliyang/headless-word",
+      "repo": "superinterface-labs/superpaper",
+      "github_url": "https://github.com/superinterface-labs/superpaper",
       "tier": 3,
       "is_new": true,
       "score": 100.0,
@@ -403,13 +445,13 @@
       "total_retweets": 0,
       "total_views": 0,
       "best_tweet": {
-        "author": "hewliyang",
-        "text": "ported over the office-agents/word toolset into a CLI\n\nuv tool install headless-word\nnpx skills add hewliyang/headless-word\nheadless-word --help\n\ngives any coding agent full fidelity DOCX editing including comments, track changes. \n\nuses LibreOffice's UNO backend https://t.co/c8j",
+        "author": "dvrshil",
+        "text": "@karpathy i made a makrdown package to help ppl become poweruser of obsidian x ai where i operationalized some of what you describe: https://t.co/WZXu4K6UcX\n\nthere's a also a skill for superpaper you can install using `npx skills add superinterface-labs/superpaper`",
         "likes": 0,
-        "url": "https://x.com/i/status/2039809591278747975"
+        "url": "https://x.com/i/status/2039819026810257873"
       },
       "all_tweet_urls": [
-        "https://x.com/i/status/2039809591278747975"
+        "https://x.com/i/status/2039819026810257873"
       ]
     },
     {
@@ -524,16 +566,16 @@
       "github_url": "https://github.com/vercel-labs/emulate",
       "tier": 3,
       "is_new": false,
-      "score": 319.0,
+      "score": 331.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 68,
+      "total_likes": 72,
       "total_retweets": 3,
       "total_views": 0,
       "best_tweet": {
         "author": "ctatedev",
         "text": "New: Next.js adapter for emulate\n\nEmbed GitHub, Google, Slack, Apple, Microsoft, AWS, other emulators directly in your Next.js app\n\nOne catch-all route, same origin, no CORS headaches. Every preview deployment just works.\n\nnpx skills add vercel-labs/emulate --skill next https://t",
-        "likes": 68,
+        "likes": 72,
         "url": "https://x.com/i/status/2039763256663777287"
       },
       "all_tweet_urls": [

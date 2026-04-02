@@ -318,5 +318,13 @@
   "hewliyang/headless-word": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "jgraph/drawio-mcp": {
+    "first_seen": "2026-04-02",
+    "tier": 2
+  },
+  "superinterface-labs/superpaper": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
