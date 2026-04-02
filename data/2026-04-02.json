@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-02",
+  "stats": {
+    "total_fetched": 30,
+    "unique_tweets": 14,
+    "tweets_with_repos": 3,
+    "unique_repos": 3,
+    "new_repos": 3,
+    "previously_seen_repos": 0
+  },
+  "new_repos": [
+    {
+      "repo": "teng-lin/notebooklm-py",
+      "github_url": "https://github.com/teng-lin/notebooklm-py",
+      "tier": 0,
+      "is_new": true,
+      "score": 4317.6,
+      "mention_count": 1,
+      "kol_mentions": [
+        "bozhou_ai"
+      ],
+      "total_likes": 918,
+      "total_retweets": 0,
+      "total_views": 96362,
+      "best_tweet": {
+        "author": "bozhou_ai",
+        "text": "强烈推荐这个NotebookLm和claude组合\n\n将youtube视频导入NotebookLM，然后让claude进行提问，产出有价值的信息，这样做远比把视频提取字幕，然后让AI来提取重点，效果好的多\n\n使用方法很简单，只需要安装这个skills\n\nnpx skills add https://t.co/u840lUVRlw --skill notebooklm https://t.co/RKBgaH4vMq",
+        "likes": 918,
+        "url": "https://x.com/i/status/2036992971355414911"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2036992971355414911"
+      ]
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "github_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "tier": 0,
+      "is_new": true,
+      "score": 3464.8,
+      "mention_count": 1,
+      "kol_mentions": [
+        "songguoxiansen"
+      ],
+      "total_likes": 758,
+      "total_retweets": 0,
+      "total_views": 59078,
+      "best_tweet": {
+        "author": "songguoxiansen",
+        "text": "分享一个为多平台专业UI/UX设计的Skill\n\n目前已26.4K星星⭐️\n\n支持：Claude Code、Cursor、Windsurf、Antigravity、Codex CLI、Continue、Gemini CLI、OpenCode、Qoder、CodeBuddy等\n\n67种UI风格：玻璃化、黏土化、极简主义、粗犷主义、拟物化、Bento 网格、暗黑模式、AI原生UI等等\n96种颜色方案：针对SaaS、电子商务、医疗保健、金融科技、美容等行业的特定颜色方案。\n57种字体搭配：精选的字体组合，并导入了Google Fonts字体\n25种图表类型：仪",
+        "likes": 758,
+        "url": "https://x.com/i/status/2018869290179674407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2018869290179674407"
+      ]
+    },
+    {
+      "repo": "hkuds/openharness",
+      "github_url": "https://github.com/hkuds/openharness",
+      "tier": 0,
+      "is_new": true,
+      "score": 792.3,
+      "mention_count": 1,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 46,
+      "total_retweets": 0,
+      "total_views": 5426,
+      "best_tweet": {
+        "author": "shao__meng",
+        "text": "Claude Code「源代码开源」后，HKUDS 推出超轻量级 Claude Code 替代方案 ~ OpenHarness\n\nPython 实现的 AI Agent Harness，核心目标是：\n· 用 2.3% 的代码量（11,733 行 vs Claude Code 的 512,664 行）实现 80% 的核心功能\n· 提供 44 倍更轻量 的代码库（163 文件 vs 1,884 文件）\n· 保持 98% 的工具兼容度（43 个工具）和 61% 的命令覆盖（54 个命令）\n\n团队对 Harness 的定义：\nHarness = Tools + ",
+        "likes": 46,
+        "url": "https://x.com/i/status/2039509008147710200"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039509008147710200"
+      ]
+    }
+  ],
+  "previously_seen_repos": [],
+  "no_repo_tweets": [
+    {
+      "id": "2039376880814412163",
+      "author": "sharbel",
+      "text": "&gt; paid for Claude Pro for 6 months\n&gt; kept hitting rate limits\n&gt; switched to Max\n&gt; still hitting rate limits\n&gt; found Projects last week\n&gt; my context problem was never the plan\n&gt; it was me not using the tool properly\n&gt; skill issue discovered https://t.co/wev",
+      "likes": 2133,
+      "views": 837017,
+      "url": "https://x.com/i/status/2039376880814412163",
+      "is_kol": false,
+      "score": 14769.2
+    },
+    {
+      "id": "2039375273758490691",
+      "author": "dok2001",
+      "text": "Announcing: EmDash, the WordPress spiritual successor built for the modern web.\n\nTypeScript. Serverless. MIT licensed. x402 for agent-era monetization. MCP server built in. Deploy to Cloudflare or anywhere Node.js runs.\n\nImports your existing WordPress site in minutes.\n\nnpm creat",
+      "likes": 2347,
+      "views": 313677,
+      "url": "https://x.com/i/status/2039375273758490691",
+      "is_kol": false,
+      "score": 10177.8
+    },
+    {
+      "id": "2034018315543486807",
+      "author": "rohanpaul_ai",
+      "text": "Anthropic's own study proves Vibe-Coding and AI coding assistants harm skill building.\n\n\"AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average\"\n\nDevelopers learning 1 new Python library scored 17",
+      "likes": 1168,
+      "views": 102462,
+      "url": "https://x.com/i/status/2034018315543486807",
+      "is_kol": true,
+      "score": 4528.6
+    },
+    {
+      "id": "2039401205311398027",
+      "author": "shl",
+      "text": "Gumroad has a new CEO!\n\nEffective today, I’m appointing a new CEO of Gumroad. The new CEO is @Gumclaw, an AI agent.\n\nWhat Gumclaw does: Everything a CEO does, and more. Keep the site up and fast. Fix bugs. Answer support tickets — today alone it closed 251 through our Helper syst",
+      "likes": 453,
+      "views": 73982,
+      "url": "https://x.com/i/status/2039401205311398027",
+      "is_kol": false,
+      "score": 2098.8
+    },
+    {
+      "id": "2021918709573652649",
+      "author": "songguoxiansen",
+      "text": "用Seedance Skill生成了3个版本的提示词\n\n这个视频是用版本三的提示词生成的。\n\n视频提示词\n主题：年轻漂亮男女经典对打·现代短剧\n时长：15秒\n比例：16:9\n---\n版本一：霸总虐恋·误会分手（狗血拉扯）\n\nSeedance 2.0 提示词\n\n15秒现代短剧，豪华总裁办公室场景，冷色调高级感。0-3秒：中景镜头，一名身着高定西装的年轻男子坐在真皮老板椅上，面容冷峻眼神淡漠，他面前站着一身白裙的漂亮女孩，女孩眼眶通红泪水在眼里打转，男子开口\"我给过\n机会\"，声音低沉冷漠；4-8秒：女孩声音颤抖\"你给过我什么机会？是你从一开始就没信任过我！\"",
+      "likes": 130,
+      "views": 40586,
+      "url": "https://x.com/i/status/2021918709573652649",
+      "is_kol": true,
+      "score": 795.9
+    },
+    {
+      "id": "2037494792004026378",
+      "author": "rohanpaul_ai",
+      "text": "OpenAI just pushed Codex past the editor by rolling out plugins that connect it to tools like Slack, Figma, Notion, Gmail, and Google Drive, so the agent can work across the mess around code instead of only the code itself.\n\nbundles apps, skills, and optional MCP servers into one",
+      "likes": 107,
+      "views": 13573,
+      "url": "https://x.com/i/status/2037494792004026378",
+      "is_kol": true,
+      "score": 456.7
+    },
+    {
+      "id": "2033842432924893619",
+      "author": "rohanpaul_ai",
+      "text": "MIT’s latest research just just gave Robots a great new skill to grip delicate yet heavy objects without breaking them.\n\nThe big problem is robots often cannot pick up heavy but fragile things because gripping hard enough usually means crushing or slipping.\n\nA single gripper shap",
+      "likes": 70,
+      "views": 20447,
+      "url": "https://x.com/i/status/2033842432924893619",
+      "is_kol": true,
+      "score": 414.5
+    },
+    {
+      "id": "2038560297762648351",
+      "author": "bozhou_ai",
+      "text": "我的配图skills感觉也还可以了，哈哈哈 是基于baoyu老师的配图skills进行二次开发的，更改点就是让AI做更多的决策，只需要按照baoyu老师的提示词规范进行生成，风格啥的自由发挥 https://t.co/vzKwywXSHJ",
+      "likes": 23,
+      "views": 10452,
+      "url": "https://x.com/i/status/2038560297762648351",
+      "is_kol": true,
+      "score": 173.5
+    },
+    {
+      "id": "2039533409949954513",
+      "author": "qinbafrank",
+      "text": "看到Getclaw交易功能正式上线，就第一时间去体验下了。可以在Bitget账户里为GetClaw开设专属子账户，Agent将以该账户身份，根据指令自主完成交易。\n\n让Getclaw做一个“BGB现在价格如何，是否可以建仓的详细分析”就给我了一份非常详细的技术、走势分析，也给出了详细的操作建议。然后就让你Getclaw依据它给出的操作策略，开始执行、很快就返回结果。而且还设置了监控策略、止盈止损位。\n\nGetClaw真正做到了7*24帮我们盯盘交易，并在信号出现时快速捕捉机会、触发相应交易动作。\n\n其实可以去体验下AI辅助交易是什么样子，现阶段还是完全免",
+      "likes": 8,
+      "views": 7369,
+      "url": "https://x.com/i/status/2039533409949954513",
+      "is_kol": false,
+      "score": 97.7
+    },
+    {
+      "id": "2038323916268273668",
+      "author": "rohanpaul_ai",
+      "text": "🧵 3. The Genspark Chrome Extension stays in the sidebar of your browser and understands the page you are reading.\n\nOpen any article, ask the sidebar to summarize it, and it is done in 5 seconds. No copying and pasting, no new tab.\n\nIt is not some separate tool you need to visit. ",
+      "likes": 2,
+      "views": 377,
+      "url": "https://x.com/i/status/2038323916268273668",
+      "is_kol": true,
+      "score": 9.8
+    }
+  ]
+}

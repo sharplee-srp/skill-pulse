@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skill Pulse — X/Twitter Trend Tracker</title>
+<style>
+  :root {
+    --bg: #0d1117; --surface: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+    --green: #3fb950; --orange: #d29922; --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; padding: 24px; max-width: 1200px; margin: 0 auto; }
+  h1 { font-size: 24px; margin-bottom: 4px; }
+  .subtitle { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  .tab { padding: 6px 16px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); cursor: pointer; font-size: 13px; transition: all .15s; }
+  .tab:hover { border-color: var(--accent); color: var(--text); }
+  .tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .date-nav { display: flex; gap: 8px; align-items: center; margin-bottom: 16px; }
+  .date-nav button { padding: 4px 12px; border-radius: 4px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; font-size: 13px; }
+  .date-nav button:hover { border-color: var(--accent); }
+  .date-nav span { color: var(--muted); font-size: 14px; }
+  .stats { display: flex; gap: 16px; margin-bottom: 20px; flex-wrap: wrap; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 20px; min-width: 120px; }
+  .stat-value { font-size: 24px; font-weight: 600; }
+  .stat-label { font-size: 12px; color: var(--muted); }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; padding: 8px 12px; border-bottom: 2px solid var(--border); color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: .5px; position: sticky; top: 0; background: var(--bg); }
+  td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:hover td { background: var(--surface); }
+  .tweet-text { max-width: 400px; word-break: break-word; }
+  .author { color: var(--accent); font-weight: 500; white-space: nowrap; }
+  .score { font-weight: 600; font-variant-numeric: tabular-nums; }
+  .num { font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+  .tier { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; }
+  .tier-0 { background: #f8514920; color: var(--red); }
+  .tier-1 { background: #d2992220; color: var(--orange); }
+  .tier-2 { background: #3fb95020; color: var(--green); }
+  .tier-3 { background: #30363d; color: var(--muted); }
+  .repo-link { color: var(--accent); text-decoration: none; }
+  .repo-link:hover { text-decoration: underline; }
+  .badge { display: inline-block; padding: 1px 6px; border-radius: 4px; font-size: 11px; margin-left: 4px; }
+  .badge-new { background: #3fb95020; color: var(--green); }
+  .badge-kol { background: #f8514920; color: var(--red); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .empty { text-align: center; padding: 60px; color: var(--muted); }
+  .section { display: none; }
+  .section.active { display: block; }
+  #loading { text-align: center; padding: 60px; color: var(--muted); }
+  .repos-section { margin-top: 24px; }
+  .repos-section h3 { font-size: 15px; margin-bottom: 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<h1>Skill Pulse</h1>
+<p class="subtitle">X/Twitter AI skill trend tracker — updated hourly during peak hours</p>
+
+<div class="tabs">
+  <div class="tab active" data-section="hot">Hot Tweets (24h)</div>
+  <div class="tab" data-section="repos">Repo Tracker</div>
+</div>
+
+<div class="date-nav">
+  <button id="prev-date">&larr;</button>
+  <span id="current-date"></span>
+  <button id="next-date">&rarr;</button>
+</div>
+
+<div id="loading">Loading data...</div>
+
+<!-- Hot Tweets Section -->
+<div id="section-hot" class="section active">
+  <div class="stats" id="hot-stats"></div>
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Author</th>
+        <th>Tweet</th>
+        <th style="text-align:right">Likes</th>
+        <th style="text-align:right">Views</th>
+        <th style="text-align:right">Score</th>
+        <th>Repos</th>
+      </tr>
+    </thead>
+    <tbody id="hot-body"></tbody>
+  </table>
+</div>
+
+<!-- Repo Tracker Section -->
+<div id="section-repos" class="section">
+  <div class="stats" id="repo-stats"></div>
+  <div class="repos-section">
+    <h3>New Repos</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Repo</th>
+          <th>Tier</th>
+          <th style="text-align:right">Score</th>
+          <th style="text-align:right">Likes</th>
+          <th style="text-align:right">Views</th>
+          <th>Mentions</th>
+          <th>Best Tweet</th>
+        </tr>
+      </thead>
+      <tbody id="new-repos-body"></tbody>
+    </table>
+  </div>
+  <div class="repos-section">
+    <h3>Previously Seen</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Repo</th>
+          <th>Tier</th>
+          <th style="text-align:right">Score</th>
+          <th style="text-align:right">Likes</th>
+          <th style="text-align:right">Views</th>
+          <th>Mentions</th>
+          <th>Best Tweet</th>
+        </tr>
+      </thead>
+      <tbody id="old-repos-body"></tbody>
+    </table>
+  </div>
+  <div class="repos-section">
+    <h3>No Repo (Manual Review)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Author</th>
+          <th>Tweet</th>
+          <th style="text-align:right">Likes</th>
+          <th style="text-align:right">Views</th>
+          <th style="text-align:right">Score</th>
+        </tr>
+      </thead>
+      <tbody id="norep-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+const BASE = 'https://raw.githubusercontent.com/sharplee-srp/skill-pulse/skill-repo/data';
+
+// State
+let dates = [];
+let dateIdx = 0;
+
+function fmt(n) {
+  if (n >= 1e6) return (n/1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n/1e3).toFixed(1) + 'K';
+  return String(n);
+}
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function truncate(s, n) {
+  s = s.replace(/\n/g, ' ');
+  return s.length > n ? s.slice(0, n) + '...' : s;
+}
+
+const tierNames = { 0: 'T0 KOL', 1: 'T1 Multi', 2: 'T2 Hot', 3: 'T3 Low' };
+
+// ── Render hot tweets ──
+function renderHot(data) {
+  const statsEl = document.getElementById('hot-stats');
+  const bodyEl = document.getElementById('hot-body');
+
+  if (!data) {
+    statsEl.innerHTML = '';
+    bodyEl.innerHTML = '<tr><td colspan="7" class="empty">No hot tweet data for this date</td></tr>';
+    return;
+  }
+
+  const s = data.stats;
+  statsEl.innerHTML = `
+    <div class="stat"><div class="stat-value">${s.total_fetched}</div><div class="stat-label">Fetched</div></div>
+    <div class="stat"><div class="stat-value">${s.final}</div><div class="stat-label">After Filter</div></div>
+    <div class="stat"><div class="stat-value">${s.with_repos}</div><div class="stat-label">With Repos</div></div>
+    <div class="stat"><div class="stat-value">${s.skipped_seen}</div><div class="stat-label">Dedup Skipped</div></div>
+  `;
+
+  bodyEl.innerHTML = data.tweets.map(t => `
+    <tr>
+      <td class="num">${t.rank}</td>
+      <td><a class="author" href="https://x.com/${esc(t.author)}" target="_blank">@${esc(t.author)}</a></td>
+      <td class="tweet-text"><a href="${esc(t.url)}" target="_blank">${esc(truncate(t.text, 120))}</a></td>
+      <td class="num">${fmt(t.likes)}</td>
+      <td class="num">${fmt(t.views)}</td>
+      <td class="num score">${t.score.toLocaleString()}</td>
+      <td>${t.repos.map(r => `<a class="repo-link" href="https://github.com/${esc(r)}" target="_blank">${esc(r)}</a>`).join('<br>') || '<span style="color:var(--muted)">—</span>'}</td>
+    </tr>
+  `).join('');
+}
+
+// ── Render repos ──
+function renderRepos(data) {
+  const statsEl = document.getElementById('repo-stats');
+  const newBody = document.getElementById('new-repos-body');
+  const oldBody = document.getElementById('old-repos-body');
+  const norepBody = document.getElementById('norep-body');
+
+  if (!data) {
+    statsEl.innerHTML = '';
+    newBody.innerHTML = '<tr><td colspan="7" class="empty">No repo data for this date</td></tr>';
+    oldBody.innerHTML = '';
+    norepBody.innerHTML = '';
+    return;
+  }
+
+  const s = data.stats;
+  statsEl.innerHTML = `
+    <div class="stat"><div class="stat-value">${s.total_fetched}</div><div class="stat-label">Fetched</div></div>
+    <div class="stat"><div class="stat-value">${s.unique_tweets}</div><div class="stat-label">Unique Tweets</div></div>
+    <div class="stat"><div class="stat-value">${s.unique_repos}</div><div class="stat-label">Repos Found</div></div>
+    <div class="stat"><div class="stat-value">${s.new_repos}</div><div class="stat-label">New Repos</div></div>
+  `;
+
+  function repoRow(r) {
+    const kols = r.kol_mentions && r.kol_mentions.length
+      ? r.kol_mentions.map(k => `<span class="badge badge-kol">${esc(k)}</span>`).join(' ')
+      : '';
+    return `
+      <tr>
+        <td><a class="repo-link" href="${esc(r.github_url)}" target="_blank">${esc(r.repo)}</a>${r.is_new ? '<span class="badge badge-new">NEW</span>' : ''}</td>
+        <td><span class="tier tier-${r.tier}">${tierNames[r.tier]}</span></td>
+        <td class="num score">${r.score.toLocaleString()}</td>
+        <td class="num">${fmt(r.total_likes)}</td>
+        <td class="num">${fmt(r.total_views)}</td>
+        <td>${r.mention_count} ${kols}</td>
+        <td class="tweet-text"><a href="${esc(r.best_tweet.url)}" target="_blank">@${esc(r.best_tweet.author)}: ${esc(truncate(r.best_tweet.text, 80))}</a></td>
+      </tr>
+    `;
+  }
+
+  newBody.innerHTML = (data.new_repos || []).map(repoRow).join('') || '<tr><td colspan="7" class="empty">None</td></tr>';
+  oldBody.innerHTML = (data.previously_seen_repos || []).map(repoRow).join('') || '<tr><td colspan="7" class="empty">None</td></tr>';
+
+  norepBody.innerHTML = (data.no_repo_tweets || []).map(t => `
+    <tr>
+      <td><a class="author" href="https://x.com/${esc(t.author)}" target="_blank">@${esc(t.author)}</a>${t.is_kol ? '<span class="badge badge-kol">KOL</span>' : ''}</td>
+      <td class="tweet-text"><a href="${esc(t.url)}" target="_blank">${esc(truncate(t.text, 120))}</a></td>
+      <td class="num">${fmt(t.likes)}</td>
+      <td class="num">${fmt(t.views)}</td>
+      <td class="num score">${(t.score || 0).toLocaleString()}</td>
+    </tr>
+  `).join('') || '<tr><td colspan="5" class="empty">None</td></tr>';
+}
+
+// ── Data loading ──
+async function fetchJSON(url) {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
+}
+
+async function loadDate(date) {
+  document.getElementById('current-date').textContent = date;
+  document.getElementById('loading').style.display = 'block';
+
+  const [hot, repos] = await Promise.all([
+    fetchJSON(`${BASE}/hot24h-${date}.json`),
+    fetchJSON(`${BASE}/${date}.json`),
+  ]);
+
+  document.getElementById('loading').style.display = 'none';
+  renderHot(hot);
+  renderRepos(repos);
+}
+
+// ── Date navigation ──
+function genDates() {
+  const d = [];
+  const now = new Date();
+  for (let i = 0; i < 14; i++) {
+    const dt = new Date(now);
+    dt.setDate(dt.getDate() - i);
+    d.push(dt.toISOString().slice(0, 10));
+  }
+  return d;
+}
+
+document.getElementById('prev-date').onclick = () => {
+  if (dateIdx < dates.length - 1) { dateIdx++; loadDate(dates[dateIdx]); }
+};
+document.getElementById('next-date').onclick = () => {
+  if (dateIdx > 0) { dateIdx--; loadDate(dates[dateIdx]); }
+};
+
+// ── Tab switching ──
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.onclick = () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('section-' + tab.dataset.section).classList.add('active');
+  };
+});
+
+// ── Init ──
+dates = genDates();
+loadDate(dates[0]);
+</script>
+</body>
+</html>

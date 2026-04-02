@@ -3,11 +3,15 @@
     "first_seen": "2026-04-01",
     "tier": 0
   },
-  "teng-lin/notebooklm-py": {
+  "anthropics/skills": {
     "first_seen": "2026-04-01",
     "tier": 0
   },
   "en/copilot": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "dimillian/skills": {
     "first_seen": "2026-04-01",
     "tier": 0
   },
@@ -23,7 +27,15 @@
     "first_seen": "2026-04-01",
     "tier": 0
   },
-  "mgechev/skillgrade": {
+  "truongduy2611/app-store-preflight-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "kepano/obsidian-skills": {
+    "first_seen": "2026-04-01",
+    "tier": 0
+  },
+  "alvinreal/awesome-openclaw": {
     "first_seen": "2026-04-01",
     "tier": 0
   },
@@ -31,15 +43,11 @@
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "raphaelsalaja/userinterface-wiki": {
-    "first_seen": "2026-04-01",
-    "tier": 2
-  },
   "mattpocock/skills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "leonxlnx/claw-dev": {
+  "freedomintelligence/openclaw-medical-skills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
@@ -51,19 +59,7 @@
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "oaker-io/wewrite": {
-    "first_seen": "2026-04-01",
-    "tier": 2
-  },
-  "slowmist/slowmist-agent-security": {
-    "first_seen": "2026-04-01",
-    "tier": 2
-  },
   "nashsu/opencli-rs-skill": {
-    "first_seen": "2026-04-01",
-    "tier": 2
-  },
-  "voltagent/awesome-openclaw-skills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
@@ -79,15 +75,19 @@
     "first_seen": "2026-04-01",
     "tier": 2
   },
+  "remotion-dev/skills": {
+    "first_seen": "2026-04-01",
+    "tier": 2
+  },
   "hkuds/openspace": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "coreyhaines31/marketingskills": {
+  "squirrelscan/skills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "squirrelscan/skills": {
+  "coreyhaines31/marketingskills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
@@ -99,19 +99,23 @@
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "obra/superpowers": {
+  "run-llama/surreal-slides": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "railwayapp/railway-skills": {
+  "supabase/agent-skills": {
     "first_seen": "2026-04-01",
     "tier": 2
   },
-  "dontbesilent2025/dbskill": {
+  "okx/agent-skills": {
     "first_seen": "2026-04-01",
-    "tier": 2
+    "tier": 3
   },
-  "xcrawl-api/xcrawl-skills": {
+  "yammaku/cross-agent-skills-template": {
+    "first_seen": "2026-04-01",
+    "tier": 3
+  },
+  "tambo-ai/tambo": {
     "first_seen": "2026-04-01",
     "tier": 3
   },
@@ -119,72 +123,16 @@
     "first_seen": "2026-04-01",
     "tier": 3
   },
+  "teng-lin/notebooklm-py": {
+    "first_seen": "2026-04-02",
+    "tier": 0
+  },
   "nextlevelbuilder/ui-ux-pro-max-skill": {
-    "first_seen": "2026-04-01",
+    "first_seen": "2026-04-02",
     "tier": 0
   },
-  "anthropics/skills": {
-    "first_seen": "2026-04-01",
+  "hkuds/openharness": {
+    "first_seen": "2026-04-02",
     "tier": 0
-  },
-  "glincker/thesvg": {
-    "first_seen": "2026-04-01",
-    "tier": 0
-  },
-  "shadcn/ui": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "x402agent/solana-claude": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "skillcreatorai/reverse-claude": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "vercel-labs/portless": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "huangserva/servasyy_skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "gmgnai/gmgn-skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "cliai21/clawing": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "sandwichlab-ai/lanbow-claw-skill": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "dontbesilent2025/claude-skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "superlaomiao/openskills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "browser-act/skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "shanoriel/agent-dm": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "runwayml/skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
-  },
-  "vibetokens/skills": {
-    "first_seen": "2026-04-01",
-    "tier": 3
   }
 }

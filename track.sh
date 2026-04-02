@@ -378,7 +378,7 @@ ranked_repos = []
 for repo, rd in repo_data.items():
     tier = assign_tier(repo, rd)
     score = repo_score(repo, rd)
-    is_new = repo not in seen_repos
+    is_new = repo not in seen_repos or seen_repos[repo].get("first_seen") == today
 
     best_tweet = max(rd["tweets"], key=tweet_score)
     ranked_repos.append({
