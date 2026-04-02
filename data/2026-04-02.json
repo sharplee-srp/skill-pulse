@@ -1,0 +1,410 @@
+{
+  "date": "2026-04-02",
+  "stats": {
+    "total_fetched": 353,
+    "unique_tweets": 183,
+    "tweets_with_repos": 13,
+    "unique_repos": 12,
+    "new_repos": 10,
+    "previously_seen_repos": 2
+  },
+  "new_repos": [
+    {
+      "repo": "moonpay/skills",
+      "github_url": "https://github.com/moonpay/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 299.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "farokh",
+        "text": "The Myriad Skill is live for MoonPay Agents, let your agent predict on Myriad using USD1!\n\nhttps://t.co/XVvMlle3Pu",
+        "likes": 48,
+        "url": "https://x.com/i/status/2039449209028358643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039449209028358643"
+      ]
+    },
+    {
+      "repo": "flowith-ai/canvas-cowork",
+      "github_url": "https://github.com/flowith-ai/canvas-cowork",
+      "tier": 3,
+      "is_new": true,
+      "score": 287.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flowith",
+        "text": "we said Flowith Canvas is “native to the agent mind.” \nhere's what that actually looks like.\n\nintroducing the canvas cowork skill: give one command to your agents (claude code, codex, etc.) → watch them collaborate across the canvas to batch-generate dozens of images and videos. ",
+        "likes": 54,
+        "url": "https://x.com/i/status/2039396845617889683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039396845617889683"
+      ]
+    },
+    {
+      "repo": "motdotla/dotenv",
+      "github_url": "https://github.com/motdotla/dotenv",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "motdotla",
+        "text": "Just added skills to the dotenv repo and it was kind of absurdly easy.\n\nInstall is basically one line:\n\n$ npx skills add motdotla/dotenv\n\nThat’s it. That’s the post. 😌",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039447297160106429"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039447297160106429",
+        "https://x.com/i/status/2039446885954654631"
+      ]
+    },
+    {
+      "repo": "samuelclay/newsblur-cli-skill",
+      "github_url": "https://github.com/samuelclay/newsblur-cli-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NewsBlur",
+        "text": "Three new ways to use NewsBlur:\n\nCLI tool:\nuv pip install newsblur-cli\n\nCLI skill:\nnpx skills add samuelclay/newsblur-cli-skill\n\nMCP server:\nclaude mcp add newsblur https://t.co/JzLh4ySZ0m https://t.co/yQXh4g9y3F",
+        "likes": 6,
+        "url": "https://x.com/i/status/2039474454431154645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039474454431154645"
+      ]
+    },
+    {
+      "repo": "okx/plugin-store",
+      "github_url": "https://github.com/okx/plugin-store",
+      "tier": 3,
+      "is_new": true,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OKXWallet_CN",
+        "text": "在 AI 的下一阶段，能留下的不是给现有产品加 AI 功能的平台，而是那些为 Agent 重新构建基础设施的。\n\nSkill 从各处装了一堆，哪些安全、哪些能用，没人说得清。\n\nOnchain OS Plugin Store 即将上线。任何人可以提交链上 Skill，经过 AI+人工安全审核后，一处安装。\n\n提前体验👇\nnpx skills add okx/plugin-store",
+        "likes": 7,
+        "url": "https://x.com/i/status/2039630456262644045"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039630456262644045"
+      ]
+    },
+    {
+      "repo": "meshy-dev/meshy-3d-agent",
+      "github_url": "https://github.com/meshy-dev/meshy-3d-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MeshyAI",
+        "text": "📷 Level up your AI Agent with 3D superpowers today!\nnpx skills add meshy-dev/meshy-3d-agent",
+        "likes": 5,
+        "url": "https://x.com/i/status/2039544561249530264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039544561249530264"
+      ]
+    },
+    {
+      "repo": "alondai/alon-skills",
+      "github_url": "https://github.com/alondai/alon-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alondotsh",
+        "text": "发布新 skill：alon-search-skill-plus\n\n基于search skill 修改，增加了ClawHub 和 GitHub 找 agent skills，可以当成是skill的聚合搜索。Github上如果原始的不是skill也会列出来，因为简单改改其实都可以改成skill\n\n安装：npx skills add alondai/alon-skills --skill alon-search-skill-plus",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039602123940507887"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039602123940507887"
+      ]
+    },
+    {
+      "repo": "jiangding1990/claude-tools",
+      "github_url": "https://github.com/jiangding1990/claude-tools",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jiangding01",
+        "text": "写了个微信公众号文章下载的skill，叫weixin-article-fetcher，支持批量下载为markdown文件存储在指定文件夹下，支持历史数据汇总记录为result.json格式，可以避免重复下载。感兴趣的小伙伴可以试用看看。可以使用以下命令安装：\nnpx skills add JiangDing1990/claude-tools --skill weixin-article-fetcher\nGithub 仓库地址见评论区。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039546061971501162"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039546061971501162"
+      ]
+    },
+    {
+      "repo": "zai-org/glm-skills",
+      "github_url": "https://github.com/zai-org/glm-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LunchangG7603",
+        "text": "Works seamlessly with Claude Code &amp; OpenClaw/AutoClaw; official Skills available on ClawHub.\n\nClawHub：https://t.co/UPP1g76PEt\nGitHub:  https://t.co/cNMBcv7PT2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039639681076478407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039639681076478407"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-04-01\n\nToday’s picks lean into operational flow: OpenClaw just added a chat-native task board, and the most useful companion skills are the ones that keep repo work and task tracking close to the agent instead of scattered across tabs.\n\nRelease o",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039618453863383056"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039618453863383056"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "cliai21/clawing",
+      "github_url": "https://github.com/cliai21/clawing",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "minewithclaw",
+        "text": "$CLAW Skill v1.0.3 is live.\n\nMIT-0 license — the most permissive open source license. You can use it, fork it, modify it, commercialize it. No attribution required.\n\nWe don't gatekeep mining. We open-source it.\n\nclawhub install claw-mining\n\nhttps://t.co/cNP4nLRa0h\n\n$CLAW #PoAIW #",
+        "likes": 1,
+        "url": "https://x.com/i/status/2038285643315573179"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2038285643315573179"
+      ]
+    },
+    {
+      "repo": "sandwichlab-ai/lanbow-claw-skill",
+      "github_url": "https://github.com/sandwichlab-ai/lanbow-claw-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LanbowAI",
+        "text": "🚀 We just open-sourced $10M worth of Meta Ad execution experience!\n\nMeet Lanbow Claw Skill —— a callable capability unit in the OpenClaw agent framework that packages Meta ad execution logic into an inspectable, reusable decision loop.\n\n✅ 4-stage loop: Insight, Creative, Launch, ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2037106606282846424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2037106606282846424"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2039375273758490691",
+      "author": "dok2001",
+      "text": "Announcing: EmDash, the WordPress spiritual successor built for the modern web.\n\nTypeScript. Serverless. MIT licensed. x402 for agent-era monetization. MCP server built in. Deploy to Cloudflare or anywhere Node.js runs.\n\nImports your existing WordPress site in minutes.\n\nnpm creat",
+      "likes": 2535,
+      "views": 0,
+      "url": "https://x.com/i/status/2039375273758490691",
+      "is_kol": false,
+      "score": 9015.0
+    },
+    {
+      "id": "2039346008992186666",
+      "author": "googleanalytics",
+      "text": "Did you know you can now connect your GA data directly to LLMs like Gemini? ✨📊\n\nBy setting up the new Model Context Protocol (MCP) server, you move from manual reporting to strategic, AI-powered analysis. \n\n▶️ Hit play to see the complete setup process → https://t.co/XTqQkcpQAr",
+      "likes": 1521,
+      "views": 0,
+      "url": "https://x.com/i/status/2039346008992186666",
+      "is_kol": false,
+      "score": 5588.0
+    },
+    {
+      "id": "2039358115318243352",
+      "author": "DrJimFan",
+      "text": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. They incarnate as robot arms and humanoids with a rich set of perception APIs, actuation APIs, and auto synthesize skill libraries ",
+      "likes": 562,
+      "views": 0,
+      "url": "https://x.com/i/status/2039358115318243352",
+      "is_kol": false,
+      "score": 2141.0
+    },
+    {
+      "id": "2039501073438970066",
+      "author": "sinseijuice",
+      "text": "Imagine if Hiyuki is a Glacio Res Skill dps just so kuro keeps the tradition of a res skill dps stealing Jinhsi's supports. https://t.co/v1xNVCG1Fb",
+      "likes": 591,
+      "views": 0,
+      "url": "https://x.com/i/status/2039501073438970066",
+      "is_kol": false,
+      "score": 1858.0
+    },
+    {
+      "id": "2039401923267477695",
+      "author": "EXM7777",
+      "text": "n8n shipped native MCP support and nobody's connecting what this actually means...\n\nyour AI agents can now CREATE and MODIFY n8n automations programmatically\n\nthe setup:\n\n> install the n8n-mcp server\n> add it to your Claude Code config\n> Claude now has access to all 1,396 n8n nod",
+      "likes": 445,
+      "views": 0,
+      "url": "https://x.com/i/status/2039401923267477695",
+      "is_kol": false,
+      "score": 1495.0
+    },
+    {
+      "id": "2039519918291611656",
+      "author": "wquguru",
+      "text": "Harness工程最佳实践的学习姿势：\n\n- 一边剖析Claude Code源码\n- 一边比对Claude Code和Codex工程实践差异\n\n书籍源码（含PDF生成逻辑、最佳实践Skill）完全开放在https://t.co/qVWdzLJP72中，在线阅读可以看https://t.co/G3YL4ldO06\n\n搭配 @blackanger 张汉东老师的大作阅读更佳🫱 https://t.co/2Ks2YQG7cI",
+      "likes": 315,
+      "views": 0,
+      "url": "https://x.com/i/status/2039519918291611656",
+      "is_kol": false,
+      "score": 1335.0
+    },
+    {
+      "id": "2039389744967111153",
+      "author": "AppKaskad",
+      "text": "💥Breaking news!\n\nWe're officially exposing our public Kaskad MCP server. \n\nEffective today, any AI agent can connect to our Testnet dApp, read live markets and execute real testnet lending strategies: supply, borrow, repay, rebalance...all this fully autonomously.\n\nA thread 👇",
+      "likes": 214,
+      "views": 0,
+      "url": "https://x.com/i/status/2039389744967111153",
+      "is_kol": false,
+      "score": 892.0
+    },
+    {
+      "id": "2039503605540213117",
+      "author": "masuda220",
+      "text": "これは興味深い取り組み。\n\n“コトに注目して業務知識を整理しながらドメインモデルを発見するアプローチをSkill化しました。”\n\n書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～｜えださん https://t.co/oIC73idux7 #zenn",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2039503605540213117",
+      "is_kol": false,
+      "score": 575.0
+    },
+    {
+      "id": "2039585910313156859",
+      "author": "rubenhassid",
+      "text": "The only Claude skills guide you need:\n\n(Save this. Send it to your team. Thank me later)\n\n1. Get the paid plan + the desktop app (Cowork).\n2. Once done, select Opus 4.6 + Extended Thinking.\n3. Then type: \"Use the skill-creator to help me build a skill for [your task].\"\n4. Answer",
+      "likes": 137,
+      "views": 0,
+      "url": "https://x.com/i/status/2039585910313156859",
+      "is_kol": false,
+      "score": 501.0
+    },
+    {
+      "id": "2039401767163539865",
+      "author": "AndriaKimberly1",
+      "text": "Bifrost was cooking this March 🥞\n\n- SLPx Skill is now live. Your AI agent can stake ETH on your behalf\n- vDOT minting just got smarter. It now auto-compares mint vs swap and picks the best route\n- Locked in for Astar dApp Staking Period 007\n- Partnered with Faroo to bring SLPx-po",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2039401767163539865",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2039567640469836164",
+      "author": "injective",
+      "text": "One thing most \"AI trading\" products get wrong: key management\n\nInjective's MCP Server stores private keys locally with AES-256-GCM encryption and scrypt key derivation. The AI model only sees wallet addresses and transaction hashes. Keys never leave your machine.\n\nThat's the dif",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2039567640469836164",
+      "is_kol": false,
+      "score": 444.0
+    },
+    {
+      "id": "2039566270404894819",
+      "author": "SquintNeon",
+      "text": "Aur jab hamari job lagne ki baari aai toh company layoffs, Not hiring fresher, Mass hiring, Ai, Claude, extra skill mangne lagiii",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2039566270404894819",
+      "is_kol": false,
+      "score": 430.0
+    },
+    {
+      "id": "2039427973644714245",
+      "author": "thenanyu",
+      "text": "One of our sales people showed me this Linear Agent skill they made. \n\nThey felt bad about having to go to a PM or an engineer to explain technical issues and projects so they made this — Linear always tracks the context of what you're looking at, so it just works. https://t.co/N",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2039427973644714245",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2039564176981639651",
+      "author": "robinebers",
+      "text": "skill issue\n\nplan mode in some harnesses (like cursor) does significantly more work before it comes to conclusions\n\ndon't believe anyone that claims things just because it works for them\n\npeter is cool and he does a lot for this industry\n\nbut he also famously said he doesn't do P",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2039564176981639651",
+      "is_kol": false,
+      "score": 313.0
+    }
+  ]
+}

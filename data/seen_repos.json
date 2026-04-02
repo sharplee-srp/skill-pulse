@@ -186,5 +186,45 @@
   "vibetokens/skills": {
     "first_seen": "2026-04-01",
     "tier": 3
+  },
+  "moonpay/skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "flowith-ai/canvas-cowork": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "motdotla/dotenv": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "samuelclay/newsblur-cli-skill": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "okx/plugin-store": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "meshy-dev/meshy-3d-agent": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "alondai/alon-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "jiangding1990/claude-tools": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "zai-org/glm-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "openclaw/openclaw": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
