@@ -242,5 +242,13 @@
   "firecrawl/firecrawl-mcp-server": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "libtv-labs/libtv-skills": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "jackwener/opencli": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }

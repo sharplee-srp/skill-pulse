@@ -1,11 +1,11 @@
 {
   "date": "2026-04-02",
   "stats": {
-    "total_fetched": 1144,
-    "unique_tweets": 465,
-    "tweets_with_repos": 30,
-    "unique_repos": 27,
-    "new_repos": 27,
+    "total_fetched": 563,
+    "unique_tweets": 352,
+    "tweets_with_repos": 24,
+    "unique_repos": 21,
+    "new_repos": 21,
     "previously_seen_repos": 0
   },
   "new_repos": [
@@ -14,21 +14,63 @@
       "github_url": "https://github.com/joeseesun/info-card-designer",
       "tier": 2,
       "is_new": true,
-      "score": 1070.0,
+      "score": 1073.0,
       "mention_count": 2,
       "kol_mentions": [],
-      "total_likes": 210,
+      "total_likes": 211,
       "total_retweets": 48,
       "total_views": 0,
       "best_tweet": {
         "author": "vista8",
         "text": "身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-designer\n\n注意：用了仓耳今楷字体，请勿商用，个人用没问题。\n\n开源仓库地址：\nhttps://t.co/bep2zWn8Ye",
-        "likes": 205,
+        "likes": 206,
         "url": "https://x.com/i/status/2039357542263038424"
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039358343186403354",
         "https://x.com/i/status/2039357542263038424"
+      ]
+    },
+    {
+      "repo": "libtv-labs/libtv-skills",
+      "github_url": "https://github.com/libtv-labs/libtv-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 362.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liyue_ai",
+        "text": "LibTV上线Seedance 2.0，国内用户无需在即梦排队。\n\n地址：https://t.co/m7mm2PEInF\n\n此外还支持AI Agent直接调用Seedance 2.0，安装这个Skills即可。\n\nGithub：\nhttps://t.co/jlQIYDQYwM\n\nClawHub：\nhttps://t.co/kWTZE7w7B1",
+        "likes": 69,
+        "url": "https://x.com/i/status/2039560730928902192"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039560730928902192"
+      ]
+    },
+    {
+      "repo": "jackwener/opencli",
+      "github_url": "https://github.com/jackwener/opencli",
+      "tier": 3,
+      "is_new": true,
+      "score": 346.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakevin7",
+        "text": "opencli 最强更新来袭！！！实现了 operate 能力！🎉 以后可以prompt直接操作浏览器，并且 CLI 无痛生成！！！\nOpenCLI的目标是星辰大海！！！\n\n装上 SKILL 之后，就可以直接让 AI agent 操作我们的浏览器，然后沉淀为一个 CLI.\n下图是CC执行 “opencli 帮我打开  https://t.co/UlLvFllSg1 然后填写申请的效果”\n\n另外 OpenCLI 两周生日了，1w star + 100 contributor\n感谢大家！现在还在一直持续更新中！\n\nhttps://t.co/1EzkQtaQA",
+        "likes": 72,
+        "url": "https://x.com/i/status/2039707706370806084"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039707706370806084"
       ]
     },
     {
@@ -71,6 +113,27 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039392682553094239"
+      ]
+    },
+    {
+      "repo": "krea-ai/skills",
+      "github_url": "https://github.com/krea-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krea_ai",
+        "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
+        "likes": 33,
+        "url": "https://x.com/i/status/2039715727733866848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039715727733866848"
       ]
     },
     {
@@ -118,27 +181,6 @@
       ]
     },
     {
-      "repo": "krea-ai/skills",
-      "github_url": "https://github.com/krea-ai/skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 191.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 27,
-      "total_retweets": 2,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "krea_ai",
-        "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 27,
-        "url": "https://x.com/i/status/2039715727733866848"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039715727733866848"
-      ]
-    },
-    {
       "repo": "getsentry/sentry-for-ai",
       "github_url": "https://github.com/getsentry/sentry-for-ai",
       "tier": 3,
@@ -157,27 +199,6 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039364750774059507"
-      ]
-    },
-    {
-      "repo": "dontbesilent2025/claude-skills",
-      "github_url": "https://github.com/dontbesilent2025/claude-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 145.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 15,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "dontbesilent",
-        "text": "一键安装雨姐：npx skills add dontbesilent2025/claude-skills/skills/yujie",
-        "likes": 15,
-        "url": "https://x.com/i/status/2039284739832676548"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039284739832676548"
       ]
     },
     {
@@ -265,27 +286,6 @@
       ]
     },
     {
-      "repo": "aibtcdev/skills",
-      "github_url": "https://github.com/aibtcdev/skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 114.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 3,
-      "total_retweets": 1,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "reubs_btc",
-        "text": "To add the Tenero skill copy \"npx skills add aibtcdev/skills/tenero\" \n\nGive your agent access to real @tenero_io market data today https://t.co/TGMLmebkeE",
-        "likes": 3,
-        "url": "https://x.com/i/status/2039338835423678606"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039338835423678606"
-      ]
-    },
-    {
       "repo": "byreal-git/byreal-agent-skills",
       "github_url": "https://github.com/byreal-git/byreal-agent-skills",
       "tier": 3,
@@ -325,27 +325,6 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039686001308909888"
-      ]
-    },
-    {
-      "repo": "gmgnai/gmgn-skills",
-      "github_url": "https://github.com/gmgnai/gmgn-skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 103.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 1,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "0xKaroshi",
-        "text": "Actionable steps if you want to build this:\n\n1.Get API key: https://t.co/W524ujBAuU\n2.Install: npm install -g gmgn-cli@1.0.1\n3.Add skills: npx skills add GMGNAI/gmgn-skills\n4.Test: gmgn-cli market trending –chain sol –interval 1h –platform https://t.co/VljX2avwn2 –limit 10\n5.Pipe",
-        "likes": 1,
-        "url": "https://x.com/i/status/2039251211858448653"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039251211858448653"
       ]
     },
     {
@@ -433,90 +412,6 @@
       ]
     },
     {
-      "repo": "superlaomiao/openskills",
-      "github_url": "https://github.com/superlaomiao/openskills",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "superlaomiao",
-        "text": "📋 Best Practices: TypeScript, error handling\n\nInstall:\nnpx skills add SuperLaomiao/OpenSkills --skill claude-quality-analyzer\n\nGitHub: https://t.co/2wzbwjGFDj\n\n#OpenCode #ClaudeCode #CodeQuality #TypeScript",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039199517351002308"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039199517351002308"
-      ]
-    },
-    {
-      "repo": "browser-act/skills",
-      "github_url": "https://github.com/browser-act/skills",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "browseract",
-        "text": "npx skills add browser-act/skills --skill browser-act",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039167180139327876"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039167180139327876"
-      ]
-    },
-    {
-      "repo": "pgedge/pgedge-postgres-mcp",
-      "github_url": "https://github.com/pgedge/pgedge-postgres-mcp",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "pgEdgeInc",
-        "text": "The pgEdge MCP Server for Postgres is now GA. Built for production, not just demos.\n\nMost MCP servers work great on your laptop. Point them at a real database and the wheels come off.  \nThe pgEdge MCP Server is built for real security, availability, and compliance requirements --",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039721687227171251"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039721687227171251"
-      ]
-    },
-    {
-      "repo": "firecrawl/firecrawl-mcp-server",
-      "github_url": "https://github.com/firecrawl/firecrawl-mcp-server",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "memo_color",
-        "text": "【おすすめMCPサーバー 1/3】\n\nWebを丸ごとAIに食わせるMCP🔥\n\nfirecrawl/firecrawl-mcp-server\nWebサイトを広告やナビを除去してLLM向けクリーンデータに変換。スクレイピング・検索・構造化抽出まで全対応。競合調査やAPI仕様のリサーチが捗る。\n\nhttps://t.co/2f3J77OnGC\n\n#MCP #ClaudeCode",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039721661386379370"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039721661386379370"
-      ]
-    },
-    {
       "repo": "leilei926524-tech/anti-distill",
       "github_url": "https://github.com/leilei926524-tech/anti-distill",
       "tier": 3,
@@ -556,27 +451,6 @@
       },
       "all_tweet_urls": [
         "https://x.com/i/status/2039639681076478407"
-      ]
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "github_url": "https://github.com/openclaw/openclaw",
-      "tier": 3,
-      "is_new": true,
-      "score": 100.0,
-      "mention_count": 1,
-      "kol_mentions": [],
-      "total_likes": 0,
-      "total_retweets": 0,
-      "total_views": 0,
-      "best_tweet": {
-        "author": "regiep4",
-        "text": "Clawwire Daily Skill Radar — 2026-04-01\n\nToday’s picks lean into operational flow: OpenClaw just added a chat-native task board, and the most useful companion skills are the ones that keep repo work and task tracking close to the agent instead of scattered across tabs.\n\nRelease o",
-        "likes": 0,
-        "url": "https://x.com/i/status/2039618453863383056"
-      },
-      "all_tweet_urls": [
-        "https://x.com/i/status/2039618453863383056"
       ]
     }
   ],
