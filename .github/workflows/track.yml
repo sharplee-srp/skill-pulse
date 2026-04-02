@@ -23,7 +23,7 @@ jobs:
           node-version: '20'
 
       - name: Install bird CLI
-        run: npm install -g @steipete/bird
+        run: npm install -g @steipete/bird@0.8.0
 
       - name: Auth health check
         env:
