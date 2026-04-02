@@ -234,5 +234,13 @@
   "openclaw/openclaw": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "pgedge/pgedge-postgres-mcp": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "firecrawl/firecrawl-mcp-server": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }

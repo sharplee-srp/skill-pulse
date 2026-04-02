@@ -2,10 +2,10 @@
   "date": "2026-04-02",
   "stats": {
     "total_fetched": 1144,
-    "unique_tweets": 468,
-    "tweets_with_repos": 28,
-    "unique_repos": 25,
-    "new_repos": 25,
+    "unique_tweets": 465,
+    "tweets_with_repos": 30,
+    "unique_repos": 27,
+    "new_repos": 27,
     "previously_seen_repos": 0
   },
   "new_repos": [
@@ -122,16 +122,16 @@
       "github_url": "https://github.com/krea-ai/skills",
       "tier": 3,
       "is_new": true,
-      "score": 176.0,
+      "score": 191.0,
       "mention_count": 1,
       "kol_mentions": [],
-      "total_likes": 22,
+      "total_likes": 27,
       "total_retweets": 2,
       "total_views": 0,
       "best_tweet": {
         "author": "krea_ai",
         "text": "introducing Krea Skills. \n\nany agent can now use Krea with just one command. \n\nnpx skills add krea-ai/skills https://t.co/jI51b3JRFc",
-        "likes": 22,
+        "likes": 27,
         "url": "https://x.com/i/status/2039715727733866848"
       },
       "all_tweet_urls": [
@@ -475,6 +475,48 @@
       ]
     },
     {
+      "repo": "pgedge/pgedge-postgres-mcp",
+      "github_url": "https://github.com/pgedge/pgedge-postgres-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pgEdgeInc",
+        "text": "The pgEdge MCP Server for Postgres is now GA. Built for production, not just demos.\n\nMost MCP servers work great on your laptop. Point them at a real database and the wheels come off.  \nThe pgEdge MCP Server is built for real security, availability, and compliance requirements --",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039721687227171251"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039721687227171251"
+      ]
+    },
+    {
+      "repo": "firecrawl/firecrawl-mcp-server",
+      "github_url": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "memo_color",
+        "text": "【おすすめMCPサーバー 1/3】\n\nWebを丸ごとAIに食わせるMCP🔥\n\nfirecrawl/firecrawl-mcp-server\nWebサイトを広告やナビを除去してLLM向けクリーンデータに変換。スクレイピング・検索・構造化抽出まで全対応。競合調査やAPI仕様のリサーチが捗る。\n\nhttps://t.co/2f3J77OnGC\n\n#MCP #ClaudeCode",
+        "likes": 0,
+        "url": "https://x.com/i/status/2039721661386379370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039721661386379370"
+      ]
+    },
+    {
       "repo": "leilei926524-tech/anti-distill",
       "github_url": "https://github.com/leilei926524-tech/anti-distill",
       "tier": 3,
@@ -539,186 +581,5 @@
     }
   ],
   "previously_seen_repos": [],
-  "no_repo_tweets": [
-    {
-      "id": "2039346008992186666",
-      "author": "googleanalytics",
-      "text": "Did you know you can now connect your GA data directly to LLMs like Gemini? ✨📊\n\nBy setting up the new Model Context Protocol (MCP) server, you move from manual reporting to strategic, AI-powered analysis. \n\n▶️ Hit play to see the complete setup process → https://t.co/XTqQkcpQAr",
-      "likes": 1934,
-      "views": 0,
-      "url": "https://x.com/i/status/2039346008992186666",
-      "is_kol": false,
-      "score": 7252.0
-    },
-    {
-      "id": "2038872366743502989",
-      "author": "SuguruKun_ai",
-      "text": "Claude CodeやCodexで使える\n「日本特化のMCPサーバー」がかなり便利なのでまとめてみた！\nㅤ\n① 法令検索MCP（hourei-mcp-server）\n→ e-Gov法令APIに接続\n→ 「〇〇法の第△条は？」と聞くだけで条文が返ってくる\n→ 法令名検索、条文取得、改正履歴の3ツール\n→ 導入: npx hourei-mcp-server\nㅤ\n② 税法MCP（tax-law-mcp）\n→ e-Gov + 国税庁の通達・裁決事例に対応\n→ 24の主要税法 + 17の行政通達 + 1,950の裁決事例\n→ 「この経費は損金算入できる？」→ 根",
-      "likes": 1457,
-      "views": 0,
-      "url": "https://x.com/i/status/2038872366743502989",
-      "is_kol": false,
-      "score": 5296.0
-    },
-    {
-      "id": "2038707700226466121",
-      "author": "startupideaspod",
-      "text": "how to actually get customers for your vibe coded app:\n\n- let AI sell for you (MCP servers) \n- build 10,000 SEO pages once (programmatic SEO)\n- vibe code a free tool by lunch (it markets itself) \n- get cited by ChatGPT (answer engine optimization)\n- allow your users to create con",
-      "likes": 1009,
-      "views": 0,
-      "url": "https://x.com/i/status/2038707700226466121",
-      "is_kol": false,
-      "score": 3347.0
-    },
-    {
-      "id": "2037331698548195579",
-      "author": "nickbakeddesign",
-      "text": "There's a free bookmarklet that pastes any website into Figma as editable layers. It replaced a paid tool! ($18/m) \n\nit has zero dependency on AI, it runs in your browser and copies any webpage straight to your clipboard as Figma layers using figma mcp. https://t.co/TEYilAS33A",
-      "likes": 866,
-      "views": 0,
-      "url": "https://x.com/i/status/2037331698548195579",
-      "is_kol": false,
-      "score": 2768.0
-    },
-    {
-      "id": "2039501073438970066",
-      "author": "sinseijuice",
-      "text": "Imagine if Hiyuki is a Glacio Res Skill dps just so kuro keeps the tradition of a res skill dps stealing Jinhsi's supports. https://t.co/v1xNVCG1Fb",
-      "likes": 742,
-      "views": 0,
-      "url": "https://x.com/i/status/2039501073438970066",
-      "is_kol": false,
-      "score": 2331.0
-    },
-    {
-      "id": "2039358115318243352",
-      "author": "DrJimFan",
-      "text": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. They incarnate as robot arms and humanoids with a rich set of perception APIs, actuation APIs, and auto synthesize skill libraries ",
-      "likes": 595,
-      "views": 0,
-      "url": "https://x.com/i/status/2039358115318243352",
-      "is_kol": false,
-      "score": 2285.0
-    },
-    {
-      "id": "2039519918291611656",
-      "author": "wquguru",
-      "text": "Harness工程最佳实践的学习姿势：\n\n- 一边剖析Claude Code源码\n- 一边比对Claude Code和Codex工程实践差异\n\n书籍源码（含PDF生成逻辑、最佳实践Skill）完全开放在https://t.co/qVWdzLJP72中，在线阅读可以看https://t.co/G3YL4ldO06\n\n搭配 @blackanger 张汉东老师的大作阅读更佳🫱 https://t.co/2Ks2YQG7cI",
-      "likes": 439,
-      "views": 0,
-      "url": "https://x.com/i/status/2039519918291611656",
-      "is_kol": false,
-      "score": 1932.0
-    },
-    {
-      "id": "2039401923267477695",
-      "author": "EXM7777",
-      "text": "n8n shipped native MCP support and nobody's connecting what this actually means...\n\nyour AI agents can now CREATE and MODIFY n8n automations programmatically\n\nthe setup:\n\n> install the n8n-mcp server\n> add it to your Claude Code config\n> Claude now has access to all 1,396 n8n nod",
-      "likes": 502,
-      "views": 0,
-      "url": "https://x.com/i/status/2039401923267477695",
-      "is_kol": false,
-      "score": 1666.0
-    },
-    {
-      "id": "2039111726139150825",
-      "author": "googleaidevs",
-      "text": "Connect your coding agent to the latest Gemini API docs with our new MCP server and developer skills. Run a single command to unlock your agent's highest potential with less tokens. https://t.co/m50dzsk6sj",
-      "likes": 427,
-      "views": 0,
-      "url": "https://x.com/i/status/2039111726139150825",
-      "is_kol": false,
-      "score": 1571.0
-    },
-    {
-      "id": "2038677447269568757",
-      "author": "EXM7777",
-      "text": "something is happening in agent infrastructure that's bigger than any single tool release...\n\nin the last 7 days:\n\n> n8n shipped native MCP - agents can now build their own automations\n> Stripe Projects launched - agents can provision databases, auth, hosting from CLI\n> Open WebU",
-      "likes": 386,
-      "views": 0,
-      "url": "https://x.com/i/status/2038677447269568757",
-      "is_kol": false,
-      "score": 1363.0
-    },
-    {
-      "id": "2038707432382246915",
-      "author": "DarkPancakes",
-      "text": "Nobody will see this, but if you're burning tokens with your AI agent (@OpenClaw, @NousResearch's Hermes, or any MCP-compatible tool) check this\n\nStop feeding entire codebases\nGive your AI a scalpel\n\nmassive token reduction\nfaster queries\ncleaner context\n\nhttps://t.co/upuowhGgwm ",
-      "likes": 376,
-      "views": 0,
-      "url": "https://x.com/i/status/2038707432382246915",
-      "is_kol": false,
-      "score": 1348.0
-    },
-    {
-      "id": "2039585910313156859",
-      "author": "rubenhassid",
-      "text": "The only Claude skills guide you need:\n\n(Save this. Send it to your team. Thank me later)\n\n1. Get the paid plan + the desktop app (Cowork).\n2. Once done, select Opus 4.6 + Extended Thinking.\n3. Then type: \"Use the skill-creator to help me build a skill for [your task].\"\n4. Answer",
-      "likes": 379,
-      "views": 0,
-      "url": "https://x.com/i/status/2039585910313156859",
-      "is_kol": false,
-      "score": 1342.0
-    },
-    {
-      "id": "2038708720453173749",
-      "author": "startupideaspod",
-      "text": "Most people are sleeping on MCP servers as a sales channel.\n\nHere's how it works:\n\nA user asks an AI a question. \n\nThe AI discovers your MCP server. \n\nYour product gets returned as the answer.\n\nZero ad spend. Zero cold outreach. \n\nThe AI sells for you 24/7.\n\nOne founder hit 150+ ",
-      "likes": 381,
-      "views": 0,
-      "url": "https://x.com/i/status/2038708720453173749",
-      "is_kol": false,
-      "score": 1288.0
-    },
-    {
-      "id": "2038442629117964706",
-      "author": "Yerocode0",
-      "text": "Chrome lanzó silenciosamente una función que permite a los agentes de IA usar un navegador en el que ya ha iniciado sesión\n\n- Omitir CAPTCHA y volver a iniciar sesión por completo\n- Los agentes prueban con su propia autenticación.\n- Funciona mejor con Chrome Dev Tool MCP\n\nSe acab",
-      "likes": 279,
-      "views": 0,
-      "url": "https://x.com/i/status/2038442629117964706",
-      "is_kol": false,
-      "score": 1027.0
-    },
-    {
-      "id": "2038996157850964411",
-      "author": "nadoHQ",
-      "text": "1/ Introducing the Nado CLI and MCP Server.\n\nAI agents can now trade directly on the protocol. \n\nPerps, spot and NLP\n~40 terminal commands\n~50 AI tools\n\nTell your agent \"go 5x long BTC with a stop at 70k\", it builds the order, shows you what it'll do, and asks you to confirm. htt",
-      "likes": 268,
-      "views": 0,
-      "url": "https://x.com/i/status/2038996157850964411",
-      "is_kol": false,
-      "score": 979.0
-    },
-    {
-      "id": "2039389744967111153",
-      "author": "AppKaskad",
-      "text": "💥Breaking news!\n\nWe're officially exposing our public Kaskad MCP server. \n\nEffective today, any AI agent can connect to our Testnet dApp, read live markets and execute real testnet lending strategies: supply, borrow, repay, rebalance...all this fully autonomously.\n\nA thread 👇",
-      "likes": 229,
-      "views": 0,
-      "url": "https://x.com/i/status/2039389744967111153",
-      "is_kol": false,
-      "score": 977.0
-    },
-    {
-      "id": "2039564176981639651",
-      "author": "robinebers",
-      "text": "skill issue\n\nplan mode in some harnesses (like cursor) does significantly more work before it comes to conclusions\n\ndon't believe anyone that claims things just because it works for them\n\npeter is cool and he does a lot for this industry\n\nbut he also famously said he doesn't do P",
-      "likes": 315,
-      "views": 0,
-      "url": "https://x.com/i/status/2039564176981639651",
-      "is_kol": false,
-      "score": 975.0
-    },
-    {
-      "id": "2039503605540213117",
-      "author": "masuda220",
-      "text": "これは興味深い取り組み。\n\n“コトに注目して業務知識を整理しながらドメインモデルを発見するアプローチをSkill化しました。”\n\n書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～｜えださん https://t.co/oIC73idux7 #zenn",
-      "likes": 263,
-      "views": 0,
-      "url": "https://x.com/i/status/2039503605540213117",
-      "is_kol": false,
-      "score": 974.0
-    }
-  ]
+  "no_repo_tweets": []
 }
