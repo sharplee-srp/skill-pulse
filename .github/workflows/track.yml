@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   track:
@@ -24,7 +25,60 @@ jobs:
       - name: Install bird CLI
         run: npm install -g @steipete/bird
 
+      - name: Auth health check
+        env:
+          BIRD_AUTH_TOKEN: ${{ secrets.BIRD_AUTH_TOKEN }}
+          BIRD_CT0: ${{ secrets.BIRD_CT0 }}
+        run: |
+          # Quick search to verify credentials still work
+          RESULT=$(bird search "test" --count 1 --json --plain \
+            --auth-token "$BIRD_AUTH_TOKEN" --ct0 "$BIRD_CT0" 2>&1) || true
+          if echo "$RESULT" | grep -qi "credentials\|unauthorized\|forbidden\|Missing.*auth\|Missing.*ct0\|login"; then
+            echo "::error::Twitter credentials expired or invalid"
+            echo "AUTH_FAILED=true" >> "$GITHUB_ENV"
+          else
+            echo "Auth OK"
+            echo "AUTH_FAILED=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Alert on auth failure
+        if: env.AUTH_FAILED == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '🔑 Twitter credentials expired';
+            // Check if an open issue already exists to avoid spam
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'auth-expired',
+            });
+            if (issues.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: [
+                  'The `bird` CLI failed to authenticate with Twitter.',
+                  '',
+                  '**How to fix:**',
+                  '1. Open x.com in Chrome, make sure you are logged in',
+                  '2. DevTools → Application → Cookies → `https://x.com`',
+                  '3. Copy `auth_token` and `ct0` values',
+                  '4. Update repo secrets: Settings → Secrets → Actions',
+                  '   - `BIRD_AUTH_TOKEN` → paste auth_token',
+                  '   - `BIRD_CT0` → paste ct0',
+                  '5. Close this issue',
+                  '',
+                  `Failed at: ${new Date().toISOString()}`,
+                ].join('\n'),
+                labels: ['auth-expired'],
+              });
+            }
+
       - name: Run tracking script
+        if: env.AUTH_FAILED != 'true'
         env:
           BIRD_AUTH_TOKEN: ${{ secrets.BIRD_AUTH_TOKEN }}
           BIRD_CT0: ${{ secrets.BIRD_CT0 }}
@@ -33,6 +87,7 @@ jobs:
           ./hot24h.sh
 
       - name: Commit results
+        if: env.AUTH_FAILED != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
