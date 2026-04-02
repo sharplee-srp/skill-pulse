@@ -95,7 +95,14 @@ search_tweets() {
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
       --ct0 "$BIRD_CT0" \
-      2>/dev/null > "$outfile" || echo '[]' > "$outfile"
+      2>/dev/null | python3 -c "
+import json,sys
+try:
+  d=json.load(sys.stdin)
+  tweets=d.get('tweets',d) if isinstance(d,dict) else d
+  json.dump(tweets if isinstance(tweets,list) else [],sys.stdout)
+except: json.dump([],sys.stdout)
+" > "$outfile" || echo '[]' > "$outfile"
   else
     opencli twitter search "$query" \
       --limit "$limit" \
@@ -117,7 +124,14 @@ fetch_kol_tweets() {
       --plain \
       --auth-token "$BIRD_AUTH_TOKEN" \
       --ct0 "$BIRD_CT0" \
-      2>/dev/null > "$outfile" || echo '[]' > "$outfile"
+      2>/dev/null | python3 -c "
+import json,sys
+try:
+  d=json.load(sys.stdin)
+  tweets=d.get('tweets',d) if isinstance(d,dict) else d
+  json.dump(tweets if isinstance(tweets,list) else [],sys.stdout)
+except: json.dump([],sys.stdout)
+" > "$outfile" || echo '[]' > "$outfile"
   else
     opencli twitter search "from:${username} skill OR mcp OR plugin OR tool OR agent" \
       --limit 10 \
