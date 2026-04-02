@@ -86,12 +86,21 @@ jobs:
           ./track.sh
           ./hot24h.sh
 
+      - name: Sync data to Pages
+        if: env.AUTH_FAILED != 'true'
+        run: |
+          mkdir -p docs/data
+          # Copy displayable data files (exclude raw/ and state files)
+          for f in data/*-*.json; do
+            [ -f "$f" ] && cp "$f" docs/data/
+          done
+
       - name: Commit results
         if: env.AUTH_FAILED != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ docs/data/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

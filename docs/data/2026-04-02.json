@@ -1,0 +1,14 @@
+{
+  "date": "2026-04-02",
+  "stats": {
+    "total_fetched": 0,
+    "unique_tweets": 0,
+    "tweets_with_repos": 0,
+    "unique_repos": 0,
+    "new_repos": 0,
+    "previously_seen_repos": 0
+  },
+  "new_repos": [],
+  "previously_seen_repos": [],
+  "no_repo_tweets": []
+}

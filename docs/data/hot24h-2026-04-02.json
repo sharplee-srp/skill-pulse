@@ -1,0 +1,14 @@
+{
+  "date": "2026-04-02",
+  "window": "24h",
+  "stats": {
+    "total_fetched": 0,
+    "after_dedup": 0,
+    "after_noise_filter": 0,
+    "skipped_seen": 0,
+    "resurfaced": 0,
+    "final": 0,
+    "with_repos": 0
+  },
+  "tweets": []
+}
