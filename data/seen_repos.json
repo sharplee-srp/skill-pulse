@@ -310,5 +310,13 @@
   "youmind-openlab/nano-banana-pro-prompts-recommend-skill": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "letsfg/letsfg": {
+    "first_seen": "2026-04-02",
+    "tier": 3
+  },
+  "hewliyang/headless-word": {
+    "first_seen": "2026-04-02",
+    "tier": 3
   }
 }
