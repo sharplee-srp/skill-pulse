@@ -1,0 +1,227 @@
+{
+  "date": "2026-04-03",
+  "window": "24h",
+  "stats": {
+    "total_fetched": 235,
+    "after_dedup": 224,
+    "after_noise_filter": 53,
+    "skipped_seen": 36,
+    "resurfaced": 2,
+    "final": 17,
+    "with_repos": 2
+  },
+  "tweets": [
+    {
+      "rank": 1,
+      "score": 12400,
+      "views": 0,
+      "likes": 117,
+      "retweets": 14,
+      "author": "adamuchigabriel",
+      "text": "3 sistemas e o Claude Code vira um designer profissional:\n\nGoogle Stitch\nNano Banana 2 (skill)\n21st Dev\n\nResultado: sites, apps e interfaces nível agência.\n\nA IA está substituindo etapas inteiras da criação. https://t.co/lDKzL4tpa0",
+      "url": "https://x.com/i/status/2039808435701637526",
+      "repos": [],
+      "created_at": "Thu Apr 02 20:53:23 +0000 2026",
+      "resurfaced": true,
+      "previous_score": 2150
+    },
+    {
+      "rank": 2,
+      "score": 1500,
+      "views": 0,
+      "likes": 15,
+      "retweets": 0,
+      "author": "himself65",
+      "text": "vercel基本上把nodejs AI生态位抢完了，\n什么npx skills、npx plugins都是它的",
+      "url": "https://x.com/i/status/2039808719689748562",
+      "repos": [],
+      "created_at": "Thu Apr 02 20:54:31 +0000 2026",
+      "resurfaced": true,
+      "previous_score": 400
+    },
+    {
+      "rank": 3,
+      "score": 1100,
+      "views": 0,
+      "likes": 11,
+      "retweets": 0,
+      "author": "coreyhainesco",
+      "text": "I built a skill for Claude Code that designs high-converting popups — exit intent, scroll triggers, timed delays, slide-ins, and banners.\n\nYou tell it what you want to capture and it builds the full popup spec: trigger rules, headline, offer, form fields (email only — always email only), CTA copy, dismiss text, and frequency capping so you don't annoy repeat visitors. It knows that exit-intent on desktop and time-delay on mobile are different problems with different solutions.\n\nDone right, a sin",
+      "url": "https://x.com/i/status/2039833262349336785",
+      "repos": [],
+      "created_at": "Thu Apr 02 22:32:02 +0000 2026"
+    },
+    {
+      "rank": 4,
+      "score": 500,
+      "views": 0,
+      "likes": 5,
+      "retweets": 0,
+      "author": "Livid",
+      "text": "I use Planet, a native macOS app, as my LLM knowledge base. Just point Planet API docs to Claude Code or OpenClaw to create a skill, then you can read/write/search Planet from agents. https://t.co/jk1OM1DxCb",
+      "url": "https://x.com/i/status/2039864364736598363",
+      "repos": [],
+      "created_at": "Fri Apr 03 00:35:38 +0000 2026"
+    },
+    {
+      "rank": 5,
+      "score": 500,
+      "views": 0,
+      "likes": 4,
+      "retweets": 2,
+      "author": "itsoliviasco",
+      "text": "🚨 BREAKING: a Reddit user just shared the ULTIMATE AI SEO Skill.\n\nit hit 1k installs in 3 weeks.\n\nBookmark this RIGHT NOW !\n\n1/ What is it: \n> A Claude Code skill that automates GEO (Generative Engine Optimization) \n> Works across ChatGPT Search, Perplexity, Claude Search and more  \n\n2/ The Problem it solves: \n> Traditional SEO = rank on Google \n> AI Search = get cited in AI answers  \n\nIf your content isn't optimised for AI extraction, you're invisible to 250M+ users  \n\n3/ What it automates: \n> ",
+      "url": "https://x.com/i/status/2039827280646857126",
+      "repos": [],
+      "created_at": "Thu Apr 02 22:08:16 +0000 2026"
+    },
+    {
+      "rank": 6,
+      "score": 500,
+      "views": 0,
+      "likes": 5,
+      "retweets": 0,
+      "author": "ssskryl",
+      "text": "@beaversteever Skill issue, I’ve had codex write a new RTL and use it to build a from scratch RISC-V core that boots Linux 6.19… and runs at 0.5mhz in your browser https://t.co/3GMXr5mAQV",
+      "url": "https://x.com/i/status/2039838527710499056",
+      "repos": [],
+      "created_at": "Thu Apr 02 22:52:58 +0000 2026"
+    },
+    {
+      "rank": 7,
+      "score": 450,
+      "views": 0,
+      "likes": 4,
+      "retweets": 1,
+      "author": "ashmaurya",
+      "text": "Most people debug with Claude Code like this:\n\n\"Fix this error.\"\n\nClaude fixes the symptom. The bug comes back 2 days later in a different form.\n\nHere's what I do instead — borrowed from Toyota's production line, adapted for AI coding:\n\nThe 5 Whys Skill.\n\nRule 1: Tolerate a failure only once. First time it breaks, fine. Second time, stop everything.\n\nRule 2: Don't ask Claude to fix it. Ask Claude to run 5 Whys.\n\ni. Why did the page crash? → signed_id was called on an ActiveStorage blob that didn",
+      "url": "https://x.com/i/status/2039792921407377571",
+      "repos": [],
+      "created_at": "Thu Apr 02 19:51:44 +0000 2026"
+    },
+    {
+      "rank": 8,
+      "score": 400,
+      "views": 0,
+      "likes": 4,
+      "retweets": 0,
+      "author": "SurfAI",
+      "text": "npx skills add asksurf████-skills",
+      "url": "https://x.com/i/status/2039878550648676848",
+      "repos": [],
+      "created_at": "Fri Apr 03 01:32:00 +0000 2026"
+    },
+    {
+      "rank": 9,
+      "score": 350,
+      "views": 0,
+      "likes": 3,
+      "retweets": 1,
+      "author": "braydenjlangley",
+      "text": "I used the x402 skill in Claude Code from @x402agency to pay a Whisper agent to transcribe a 52-minute Metanet Meetup video. \nIt then formatted the transcript cleanly and uploaded it to UHRP for distribution, all using micropayments with no API keys or subscriptions.\n\nhttps://t.co/MAJQsR5eT6\n\nAlso, the MoonShot Chrome extension MVP has been submitted and is waiting for review. :)",
+      "url": "https://x.com/i/status/2039876590402982209",
+      "repos": [],
+      "created_at": "Fri Apr 03 01:24:12 +0000 2026"
+    },
+    {
+      "rank": 10,
+      "score": 350,
+      "views": 0,
+      "likes": 3,
+      "retweets": 1,
+      "author": "hewliyang",
+      "text": "ported over the office-agents/word toolset into a CLI\n\nuv tool install headless-word\nnpx skills add hewliyang/headless-word\nheadless-word --help\n\ngives any coding agent full fidelity DOCX editing including comments, track changes. \n\nuses LibreOffice's UNO backend https://t.co/c8jCQn942r",
+      "url": "https://x.com/i/status/2039809591278747975",
+      "repos": [
+        "hewliyang/headless-word"
+      ],
+      "created_at": "Thu Apr 02 20:57:59 +0000 2026"
+    },
+    {
+      "rank": 11,
+      "score": 300,
+      "views": 0,
+      "likes": 3,
+      "retweets": 0,
+      "author": "__mikareyes",
+      "text": ".@nickcruz26 and I constantly Airdrop .md skill files back and forth to keep our Claude Code skills in sync. So we built a lil something... https://t.co/WeJQcIo0Vf",
+      "url": "https://x.com/i/status/2039817896109437376",
+      "repos": [],
+      "created_at": "Thu Apr 02 21:30:59 +0000 2026"
+    },
+    {
+      "rank": 12,
+      "score": 300,
+      "views": 0,
+      "likes": 3,
+      "retweets": 0,
+      "author": "gregolsent",
+      "text": "Last year when our front-end experts were struggling to review AI-generated React PRs we built a first iteration of the agent – Claude Code Github action that reviewed the changes grounded in our React guidance coded in our react skill and posted as inline PR review comments https://t.co/I7CCOcSk2Y",
+      "url": "https://x.com/i/status/2039788738910285918",
+      "repos": [],
+      "created_at": "Thu Apr 02 19:35:07 +0000 2026"
+    },
+    {
+      "rank": 13,
+      "score": 300,
+      "views": 0,
+      "likes": 2,
+      "retweets": 2,
+      "author": "nsphin",
+      "text": ".@ZightApp  is probably one of the first screen recorders in the world that works with your AI agents.\n\n#Openclaw (or your agent of choice) can use the Zight skill to start a recording, and send you a video of their progress.\n\nif that's of interest to you, let's connect! https://t.co/ySbxoYLrn7",
+      "url": "https://x.com/i/status/2039804364303298861",
+      "repos": [],
+      "created_at": "Thu Apr 02 20:37:12 +0000 2026"
+    },
+    {
+      "rank": 14,
+      "score": 250,
+      "views": 0,
+      "likes": 2,
+      "retweets": 1,
+      "author": "babakarto",
+      "text": "I spent weeks testing every way to bypass Seedance 2.0 face detection.\nThe winner?  \nrealistic character sheet + 8x8 white grid overlay\n\nSo I built SeedForge  \na Claude Code skill that does the entire pipeline:\n\n  FORGE: \nUpload your photo → \nClaude analyzes every detail → \ngenerates the character sheet prompt to give to your Image Model (Nano banana etc)\n  \nSHIELD: \nUpload the sheet back → \n8x8 grid applied → \nfull Seedance prompt generated\n   → \nblocked? 6 alternative patterns offered automati",
+      "url": "https://x.com/i/status/2039855245581295731",
+      "repos": [],
+      "created_at": "Thu Apr 02 23:59:23 +0000 2026"
+    },
+    {
+      "rank": 15,
+      "score": 250,
+      "views": 0,
+      "likes": 2,
+      "retweets": 1,
+      "author": "iuditg",
+      "text": "@LLMJunky Every claude code user all of a sudden has skill issue! 😂\n\nWhat a way to gaslight",
+      "url": "https://x.com/i/status/2039825526895116778",
+      "repos": [],
+      "created_at": "Thu Apr 02 22:01:18 +0000 2026"
+    },
+    {
+      "rank": 16,
+      "score": 200,
+      "views": 0,
+      "likes": 2,
+      "retweets": 0,
+      "author": "Z_Bra0",
+      "text": "@ThePrimeagen Built an agent skill that helps AI read and speak Scratch blocks, making it useful for debugging projects and tutoring learners. Check it out: https://t.co/U5QW5UiPEH",
+      "url": "https://x.com/i/status/2039842964201943367",
+      "repos": [],
+      "created_at": "Thu Apr 02 23:10:35 +0000 2026"
+    },
+    {
+      "rank": 17,
+      "score": 200,
+      "views": 0,
+      "likes": 2,
+      "retweets": 0,
+      "author": "dvrshil",
+      "text": "@karpathy i made a makrdown package to help ppl become poweruser of obsidian x ai where i operationalized some of what you describe: https://t.co/WZXu4K6UcX\n\nthere's a also a skill for superpaper you can install using `npx skills add superinterface-labs/superpaper`",
+      "url": "https://x.com/i/status/2039819026810257873",
+      "repos": [
+        "superinterface-labs/superpaper"
+      ],
+      "created_at": "Thu Apr 02 21:35:28 +0000 2026"
+    }
+  ]
+}
