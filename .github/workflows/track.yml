@@ -109,3 +109,9 @@ jobs:
             git commit -m "track: $(date -u +%Y-%m-%dT%H:%M)Z skill trends update"
             git push
           fi
+
+      - name: Mirror to Pages repo
+        if: env.AUTH_FAILED != 'true' && secrets.SRP_PAT != ''
+        run: |
+          git remote add srp https://x-access-token:${{ secrets.SRP_PAT }}@github.com/sharplee-srp/skill-pulse.git 2>/dev/null || true
+          git push srp skill-repo || echo "::warning::Mirror push to srp failed"
