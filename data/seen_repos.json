@@ -226,5 +226,81 @@
   "openclaw/openclaw": {
     "first_seen": "2026-04-02",
     "tier": 3
+  },
+  "nousresearch/hermes-agent-self-evolution": {
+    "first_seen": "2026-04-03",
+    "tier": 2
+  },
+  "jgraph/drawio-mcp": {
+    "first_seen": "2026-04-03",
+    "tier": 2
+  },
+  "repowise-dev/repowise": {
+    "first_seen": "2026-04-03",
+    "tier": 2
+  },
+  "sicks3c/hackerone-mcp-server": {
+    "first_seen": "2026-04-03",
+    "tier": 2
+  },
+  "github/copilot-cli": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "tradesdontlie/tradingview-mcp": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "pika-labs/pika-skills": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "modelcontextprotocol/servers": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "bvisible/mcp-ssh-manager": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "shawnchee/preflight-skill": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "anthropics/claude-code": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "opusgamelabs/game-creator": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "superinterface-labs/superpaper": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "hewliyang/headless-word": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "minimax-ai/skills": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "joeseesun/info-card-designer": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "betterclever/kmf": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "arjunkshah/design-skill": {
+    "first_seen": "2026-04-03",
+    "tier": 3
+  },
+  "darshitpp/x-agent": {
+    "first_seen": "2026-04-03",
+    "tier": 3
   }
 }
