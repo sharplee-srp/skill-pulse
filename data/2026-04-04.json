@@ -1,0 +1,568 @@
+{
+  "date": "2026-04-04",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 178,
+    "tweets_with_repos": 22,
+    "unique_repos": 21,
+    "new_repos": 10,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "pmxt-dev/pmxt",
+      "github_url": "https://github.com/pmxt-dev/pmxt",
+      "tier": 2,
+      "is_new": true,
+      "score": 1476.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 387,
+      "total_retweets": 43,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "USE THESE GITHUB REPOS TO UPGRADE YOUR POLYMARKET TRADING GAME\n\n* PMXT\nhttps://t.co/LOVYIITKYM\n\n* POLYMARKET AGENTS\nhttps://t.co/8SQR0xJOa7\n\n* FAST MCP\nhttps://t.co/Dqc7YJsT6O\n\n* MCP\nhttps://t.co/euPIZPr6X3\n\n* POLYREC\nhttps://t.co/5tn8e3pP4L https://t.co/2bzaXG2nPP",
+        "likes": 387,
+        "url": "https://x.com/i/status/2040146063231951157"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040146063231951157"
+      ]
+    },
+    {
+      "repo": "lis186/ccxray",
+      "github_url": "https://github.com/lis186/ccxray",
+      "tier": 2,
+      "is_new": true,
+      "score": 627.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 129,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lis186",
+        "text": "用 Claude Code 接了一堆 MCP server、裝了各種 skill，但你知道哪些真的有在用嗎？\n你：「我裝了 GitHub MCP、裝了 5 個 skill⋯⋯」\nClaude Code：（黑盒子，什麼都看不到）\n你不知道：\n— 50 幾個 MCP tool 到底哪些被呼叫過\n— 每個 tool call 燒掉多少 token\n— system prompt 塞了多少你不知道的東西\n— 200K context window 到底被什麼吃掉\n一行指令，黑盒子變透明箱：\n\nnpx ccxray claude\n\nccxray 是一個透明 pro",
+        "likes": 129,
+        "url": "https://x.com/i/status/2039988456055869576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039988456055869576"
+      ]
+    },
+    {
+      "repo": "supabase/cli",
+      "github_url": "https://github.com/supabase/cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 327.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ravikiran_dev7",
+        "text": "Best GitHub repos for Claude Code that will 10x your next project:\n\n1. Supabase CLI  \nhttps://t.co/GPEcJtghdo  \n\n2. Skill Creator  \nhttps://t.co/oNp9lYwAMJ…  \n\n3. Get Sh*t Done  \nhttps://t.co/KT0c3ymmI1…  \n\n4. NotebookLM (Python)  \nhttps://t.co/UsTUKtCHIM…  \n\n5. Obsidian  \nhttps:",
+        "likes": 69,
+        "url": "https://x.com/i/status/2040272648232645046"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040272648232645046"
+      ]
+    },
+    {
+      "repo": "mrhakimov/vibe-code-security-audit",
+      "github_url": "https://github.com/mrhakimov/vibe-code-security-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "omtiness",
+        "text": "@Hartdrawss this was too good to just bookmark\n\nturned it into a claude skill that scans your codebase for all 20 issues:\nhttps://t.co/CnnIKaSmQg",
+        "likes": 36,
+        "url": "https://x.com/i/status/2040204973712035846"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040204973712035846"
+      ]
+    },
+    {
+      "repo": "shieldspprt/solhunt-skill",
+      "github_url": "https://github.com/shieldspprt/solhunt-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "solhuntapp",
+        "text": "Wallet recovery intelligence available to every AI agent\n\nAny agent can now find recoverable SOL, audit token approvals, and execute trustless recovery\n\nNo custody. No private keys. Just results.\n\n👇 Install: npx skills add shieldspprt/solhunt-skill\n\n— https://t.co/bJjvdB2WPz",
+        "likes": 4,
+        "url": "https://x.com/i/status/2040153786971488265"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040153786971488265",
+        "https://x.com/i/status/2040153679387660795"
+      ]
+    },
+    {
+      "repo": "genwavellc/svgmaker-mcp",
+      "github_url": "https://github.com/genwavellc/svgmaker-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "AI-powered SVG generation and editing server\n\nhttps://t.co/NnXG2Ee27p https://t.co/DTRnbuZEXb",
+        "likes": 29,
+        "url": "https://x.com/i/status/2039856606897139783"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856606897139783"
+      ]
+    },
+    {
+      "repo": "openbmb/edgeclaw",
+      "github_url": "https://github.com/openbmb/edgeclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 167.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIHighlight",
+        "text": "85% token reduction, that is what EdgeClaw's new skill system delivers compared to the standard Claude Code loading phase. \n\nOpen source teams are shipping faster than the labs right now.\n\nSee what they built:\nhttps://t.co/Covf8hLcPI",
+        "likes": 9,
+        "url": "https://x.com/i/status/2040351578041811003"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040351578041811003"
+      ]
+    },
+    {
+      "repo": "0xintuition/agent-skills",
+      "github_url": "https://github.com/0xintuition/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xIntuition",
+        "text": "Give your agent Intuition with one command:\n\nnpx skills add 0xintuition/agent-skills --skill intuition\n\nWorks with Claude Code, Codex, and compatible agents. Open source, MIT licensed. Your agent can now read from and write to the Knowledge Graph — and every contribution it makes",
+        "likes": 8,
+        "url": "https://x.com/i/status/2040081758528389477"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040081758528389477"
+      ]
+    },
+    {
+      "repo": "aureusarena/aureus",
+      "github_url": "https://github.com/aureusarena/aureus",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AureusArena",
+        "text": "One install and your agent speaks Aureus\n\nnpx skills add aureusarena/aureus",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040152691960385939"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040152691960385939"
+      ]
+    },
+    {
+      "repo": "akashp1712/skills",
+      "github_url": "https://github.com/akashp1712/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akashp1712",
+        "text": "Try it now: npx skills add akashp1712/skills --skill zero-to-hero\n\n#ClaudeCode #AI #DeveloperTools #Learning #Documentation #skills https://t.co/2qP8B8rt7o",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040364302843203896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040364302843203896"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "vercel-labs/agent-browser",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "tier": 2,
+      "is_new": false,
+      "score": 6384.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1878,
+      "total_retweets": 130,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xSero",
+        "text": "Agent-browser is the best CLI tool I have given to my agents.\n\nIt lets them control the my browser, and all my electron apps (discord, vscode, slack, etc..) \n\nIt barely consumes any tokens compared to things like playwright, has a great skill and the agents seem very comfortable ",
+        "likes": 1878,
+        "url": "https://x.com/i/status/2040067262124601358"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040067262124601358"
+      ]
+    },
+    {
+      "repo": "jgraph/drawio-mcp",
+      "github_url": "https://github.com/jgraph/drawio-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 3116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 832,
+      "total_retweets": 104,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "drawio",
+        "text": "New in our https://t.co/AngZk3kiDe MCP app server: search_shapes lets your LLM search 10,000+ specialized shapes — AWS, Azure, GCP, Kubernetes, Cisco, P&amp;ID, electrical, BPMN and more — and use them directly when generating diagrams. Source at https://t.co/VF5sNTp7gX 🚀 https:/",
+        "likes": 832,
+        "url": "https://x.com/i/status/2039807042865504621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039807042865504621"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "github_url": "https://github.com/modelcontextprotocol/servers",
+      "tier": 2,
+      "is_new": false,
+      "score": 1021.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 242,
+      "total_retweets": 39,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heynavtoor",
+        "text": "Best MCP Servers for Claude Code that will 10x your next project in 2026:\n\n1. MCP Servers (Official)\nhttps://t.co/GqUbVE5Nv7\n\n2. GitHub MCP Server\nhttps://t.co/hkJiSm4U6R\n\n3. Playwright MCP\nhttps://t.co/ACLD4boTs7\n\n4. Google Workspace CLI\nhttps://t.co/Ajb2n0we6D\n\n5. Figma Context",
+        "likes": 242,
+        "url": "https://x.com/i/status/2039957843751944467"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039957843751944467"
+      ]
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "github_url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 468.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 111,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "It's real. This is a legit open-source demo from Tradesdontlie using their tradingview-mcp GitHub tool. It connects Claude AI (via MCP protocol) to the TradingView desktop app, letting it run live charts, write/compile Pine Script, scan futures, draw levels, and replay trades—all",
+        "likes": 111,
+        "url": "https://x.com/i/status/2039732907372085738"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039732907372085738"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 362.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.16 released!\n\n8 features & enhancements in this release\n\nTop features:\n• MCP tool calls now display tool name and parameter summary in the timeline 🛠️\n• Added PermissionRequest hook to allow scripts to programmatically approve or deny tool permission requests\n",
+        "likes": 74,
+        "url": "https://x.com/i/status/2039749724882792871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039749724882792871"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 191.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.91 changelog:\n\nNew features:\n• Added MCP tool result persistence override via _meta[\"anthropic/maxResultSizeChars\"] annotation (up to 500K), allowing larger results like DB schemas to pass through without truncation\n• Added disableSkillShellExecution setting t",
+        "likes": 27,
+        "url": "https://x.com/i/status/2039856643156984042"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856643156984042"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 140.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "install:\nnpx skills add OpusGameLabs/game-creator\n\n12 playable demos: https://t.co/oxbHr7WPpY\n\nworks with claude code, cursor, antigravity, and 40+ agents.",
+        "likes": 10,
+        "url": "https://x.com/i/status/2040198833670377901"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040198833670377901"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DerrickShieldsX",
+        "text": "@om_patel5 npx skills add anthropics/skills --skill cavemanbro",
+        "likes": 2,
+        "url": "https://x.com/i/status/2040311239335723291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040311239335723291"
+      ]
+    },
+    {
+      "repo": "betterclever/kmf",
+      "github_url": "https://github.com/betterclever/kmf",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "betterclever",
+        "text": "OpenCode support is now live in kmf⚡   \n\ncontinue your work across agent harnesses. 🔁 \nyour subscription hits a limit.  the work must go on. ⏩   \n\nClaude Code · Codex · OpenCode \nnpx skills add betterclever/kmf https://t.co/idafk70fdY",
+        "likes": 2,
+        "url": "https://x.com/i/status/2040225212634120323"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040225212634120323"
+      ]
+    },
+    {
+      "repo": "cliai21/clawing",
+      "github_url": "https://github.com/cliai21/clawing",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "minewithclaw",
+        "text": "$CLAW Skill v1.0.3 is live.\n\nMIT-0 license — the most permissive open source license. You can use it, fork it, modify it, commercialize it. No attribution required.\n\nWe don't gatekeep mining. We open-source it.\n\nclawhub install claw-mining\n\nhttps://t.co/cNP4nLRa0h\n\n$CLAW #PoAIW #",
+        "likes": 1,
+        "url": "https://x.com/i/status/2038285643315573179"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2038285643315573179"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2040173733168468177",
+      "author": "businessbarista",
+      "text": "Stupid simple, but most powerful Claude skill I run. \n\nEvery Monday at 9am, Cowork scans my Linear, Notion, Slack, Gmail, and Cowork sessions to identify repeatable processes that should become skills.\n\nIt allows me to proactively become more AI-native without making it my full-t",
+      "likes": 1826,
+      "views": 0,
+      "url": "https://x.com/i/status/2040173733168468177",
+      "is_kol": false,
+      "score": 5818.0
+    },
+    {
+      "id": "2040142429308035479",
+      "author": "darshal_",
+      "text": "These Claude GitHub repos don't show up in trending.\n\nBut they're 10x better than the popular ones:\n\n1. Claude Mem\nhttps://t.co/t5vjYQAiTH\n\n2. UI UX Pro Max\nhttps://t.co/5PfvfzTiby\n\n3. n8n-MCP\nhttps://t.co/qUexAl0NBo\n\n4. Obsidian Skills\nhttps://t.co/hyKGdGpYh8\n\n5. LightRAG\nhttps:",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2040142429308035479",
+      "is_kol": false,
+      "score": 836.0
+    },
+    {
+      "id": "2040115208551907399",
+      "author": "siliconcarnesf",
+      "text": "On vit une époque formidable !\n\nPika vient de sortir le premier skill de vidéo chat pour agents IA. Concrètement : tu envoies une invitation Google Meet à Claude ou n'importe quel autre agent, il rejoint l'appel avec visage et voix générés en temps réel par PikaStream1.0.",
+      "likes": 185,
+      "views": 0,
+      "url": "https://x.com/i/status/2040115208551907399",
+      "is_kol": false,
+      "score": 710.0
+    },
+    {
+      "id": "2040092891427770862",
+      "author": "ai_for_success",
+      "text": "I built an agent skill that lets the Google new Gemma 4 E2B model call Lyria 3 and generate songs .\n\nIt works for:\n- Image to song\n- Text to song\n\nI’m using Google AI Edge Gallery.\n\nI’ve added the skill link below, you can use it directly. You’ll just need your own API key, which",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2040092891427770862",
+      "is_kol": false,
+      "score": 625.0
+    },
+    {
+      "id": "2040017717676462390",
+      "author": "RoundtableSpace",
+      "text": "This tool takes your Claude’s designing to the next level\n\nOne command to set up and it installs the MCP and skill files so Claude instantly knows how to use it\n\nhttps://t.co/QW9ze3frDZ",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2040017717676462390",
+      "is_kol": false,
+      "score": 586.0
+    },
+    {
+      "id": "2040301337049706879",
+      "author": "FinansowyUmysl",
+      "text": "Jak korzystacie z Claude Code to polecam plugin superpowers.\n\nŻre tokeny, ale jest genialny!\n\nNie tylko do programowania.\n\nChcecie zrobić burzę mózgu i poszukać ciekawych akcji z danego sektora? Proszę bardzo.\n\nZapiszcie sobie do zakładek ten wpis, aby Wam nie zginął.\n\nTutaj maci",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2040301337049706879",
+      "is_kol": false,
+      "score": 510.0
+    },
+    {
+      "id": "2040164599761396116",
+      "author": "DataChaz",
+      "text": "Rad.\n\nCopy-pasting context is officially dead.\n\n@Opera_Neon_ is the 1st major AI browser with an MCP server 💥\n\n→ Quick connection to Claude Code, n8n, Lovable &amp; more!\n→ AI natively reads logged-in tabs &amp; tests apps live\n→ Secure MCP system lets external AIs control Neon 👇",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2040164599761396116",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2040135039636427081",
+      "author": "Rigario",
+      "text": "Hermes Agent is taking over. \n\nHermes is clearly better and it’s really not close. Memory synthesis, cross-session recall, skill evolution, and long-term reasoning are all stronger.\n\nBut I’ve sunk hundreds of hours into OpenClaw since mid-Jan and even though I’ve now fully moved ",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2040135039636427081",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2040095522858447114",
+      "author": "twannl",
+      "text": "If you're not using this SwiftUI Agent Skill yet, you're missing out! \n\nReleases are stacking up nicely this week 🚀 https://t.co/hpCVTNKyip",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2040095522858447114",
+      "is_kol": false,
+      "score": 266.0
+    },
+    {
+      "id": "2040083906079199241",
+      "author": "0xfluxsec",
+      "text": "I've spent all day working on an LLM <---> MCP tool to perform automated vulnerability analysis on a directory of binaries, working as a state machine. Screenshot of some output attached. The idea is that it will analyse its own results and make recommendations to a vulnerability",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2040083906079199241",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2039946506376265979",
+      "author": "AlexanderTw33ts",
+      "text": "rentahuman is the greatest mcp server to ever exist\n\nit’s not even close https://t.co/mLSJYqhoc9",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2039946506376265979",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2040154697689071950",
+      "author": "andrewqu",
+      "text": "npx skills@1.4.8:  better perf \n\nInstead of cloning a full repo to install a skill - npx skills add will make minimal github API calls to figure out what skills are fresh, and then hit an API for a blob snapshot\n\nStarting with any vercel/ or vercel-labs/ skills, more to come http",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2040154697689071950",
+      "is_kol": false,
+      "score": 225.0
+    },
+    {
+      "id": "2040062949507707190",
+      "author": "dSebastien",
+      "text": "I've built an Obsidian plugin, CLI and MCP server to define note types in Obsidian. All metadata and tags documented, folder paths, templates, default values, required and optional fields etc.\n\nNow AI can perfectly understand my vault and notes. It puts them where they belong, us",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2040062949507707190",
+      "is_kol": false,
+      "score": 201.0
+    }
+  ]
+}

@@ -302,5 +302,45 @@
   "darshitpp/x-agent": {
     "first_seen": "2026-04-03",
     "tier": 3
+  },
+  "pmxt-dev/pmxt": {
+    "first_seen": "2026-04-04",
+    "tier": 2
+  },
+  "lis186/ccxray": {
+    "first_seen": "2026-04-04",
+    "tier": 2
+  },
+  "supabase/cli": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "mrhakimov/vibe-code-security-audit": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "shieldspprt/solhunt-skill": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "genwavellc/svgmaker-mcp": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "openbmb/edgeclaw": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "0xintuition/agent-skills": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "aureusarena/aureus": {
+    "first_seen": "2026-04-04",
+    "tier": 3
+  },
+  "akashp1712/skills": {
+    "first_seen": "2026-04-04",
+    "tier": 3
   }
 }
