@@ -342,5 +342,61 @@
   "akashp1712/skills": {
     "first_seen": "2026-04-04",
     "tier": 3
+  },
+  "jinchenma94/bazi-skill": {
+    "first_seen": "2026-04-05",
+    "tier": 2
+  },
+  "farzaa/c35ac0cfbeb957788650e36aabea836d": {
+    "first_seen": "2026-04-05",
+    "tier": 2
+  },
+  "rolottr/caveman-skill": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "hk-882355/mobile-screen-video-reader": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "sayantan94/toolbelt": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "sbrown70/bat_speed_temp_model": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "addyosmani/web-quality-skills": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "anthropic/frontend-design": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "yashdev9274/ydskills": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "moizibnyousaf/pr-snake": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "nic13gamer/better-upload": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "juliusbrussee/caveman": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "cosbort/agent-skills": {
+    "first_seen": "2026-04-05",
+    "tier": 3
+  },
+  "siddsachar/thoth": {
+    "first_seen": "2026-04-05",
+    "tier": 3
   }
 }

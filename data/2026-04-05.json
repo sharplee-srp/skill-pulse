@@ -1,0 +1,623 @@
+{
+  "date": "2026-04-05",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 188,
+    "tweets_with_repos": 26,
+    "unique_repos": 23,
+    "new_repos": 14,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "jinchenma94/bazi-skill",
+      "github_url": "https://github.com/jinchenma94/bazi-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 3399.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 798,
+      "total_retweets": 181,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jinchenma_ai",
+        "text": "没想到 AI 算命这么受欢迎😂\n\n来来来，为了大家算得更尽兴\n\n我把这个八字算命做成 Skill 开源了\n\n欢迎大家来赛博算命！\n\nhttps://t.co/q8fODBWjSS https://t.co/URRMtVYIB7",
+        "likes": 798,
+        "url": "https://x.com/i/status/2040501562402025567"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040501562402025567"
+      ]
+    },
+    {
+      "repo": "farzaa/c35ac0cfbeb957788650e36aabea836d",
+      "github_url": "https://github.com/farzaa/c35ac0cfbeb957788650e36aabea836d",
+      "tier": 2,
+      "is_new": true,
+      "score": 684.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 178,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FarzaTV",
+        "text": "@karpathy Also, I'll here's the skill I made for the wiki.\n\nIf you wanna try yourself + hack around with it load it up in your agent of choice. Should work for nearly any data source (Notion, iMessage, etc)\n\nhttps://t.co/Cj9Bi8yPi7",
+        "likes": 178,
+        "url": "https://x.com/i/status/2040591013648244963"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040591013648244963"
+      ]
+    },
+    {
+      "repo": "rolottr/caveman-skill",
+      "github_url": "https://github.com/rolottr/caveman-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rolottr",
+        "text": "@PawelHuryn a skill for it here!\n\n&gt; npx skills add rolottr/caveman-skill\n\nhttps://t.co/c7O7XAR2aS",
+        "likes": 2,
+        "url": "https://x.com/i/status/2040459250619605056"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040459250619605056",
+        "https://x.com/i/status/2040459132386357533"
+      ]
+    },
+    {
+      "repo": "hk-882355/mobile-screen-video-reader",
+      "github_url": "https://github.com/hk-882355/mobile-screen-video-reader",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "macho_engineer8",
+        "text": "Codex Skill『mobile-screen-video-reader 』\nリリースしました‼️\n\nUIを1枚1枚スクショして渡す必要なし。\n\nーーーーーーーーーーーーー\n画面録画（スマホ動画なら可） \n→このSkillに動画パス指定\n→ フレーム抽出 \n→ AIでUI確認\nーーーーーーーーーーーーー\n\nを短時間で回せるようにしました。\n\nCodexで使うには以下を読み込ませればOK🚀\nぜひ使ってみてください\n\n https://t.co/y0OCs23tNc\n\n#個人開発\n#codex",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040705532873572419"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040716699838870015",
+        "https://x.com/i/status/2040705532873572419"
+      ]
+    },
+    {
+      "repo": "sayantan94/toolbelt",
+      "github_url": "https://github.com/sayantan94/toolbelt",
+      "tier": 3,
+      "is_new": true,
+      "score": 145.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sayantan317",
+        "text": "@oliviscusAI or you  can add this skill - https://t.co/ibmLkXkDj6 and ask any agent ( e.g claude to download the videos",
+        "likes": 15,
+        "url": "https://x.com/i/status/2040539437772468660"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040539437772468660"
+      ]
+    },
+    {
+      "repo": "sbrown70/bat_speed_temp_model",
+      "github_url": "https://github.com/sbrown70/bat_speed_temp_model",
+      "tier": 3,
+      "is_new": true,
+      "score": 144.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "srbrown70",
+        "text": "Gave claude code a model spec and the bayesian-workflow skill, and this is what it came up with. Code is here. So very similar finding of around 0.16 mph per 10 degrees of temperature. \n@PastTheEyeTest \n\nhttps://t.co/9XDZM0MBSw https://t.co/tCVBtYtWKR",
+        "likes": 13,
+        "url": "https://x.com/i/status/2040583736710803598"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040583736710803598"
+      ]
+    },
+    {
+      "repo": "addyosmani/web-quality-skills",
+      "github_url": "https://github.com/addyosmani/web-quality-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "domini_code",
+        "text": "Addy Osmani acaba de publicar Agent Skills para Claude Code que aplican Lighthouse y Core Web Vitals en tu flujo de desarrollo.\n\nLCP ≤ 2.5s, INP ≤ 200ms, bundle < 300KB — los targets ya vienen configurados.\n\n`npx skills add addyosmani/web-quality-skills`\n\nThanks @addyosmani \n\nrep",
+        "likes": 5,
+        "url": "https://x.com/i/status/2040678792520188280"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040678792520188280"
+      ]
+    },
+    {
+      "repo": "anthropic/frontend-design",
+      "github_url": "https://github.com/anthropic/frontend-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MakeAI_CEO",
+        "text": "3つ目がDesign Skills。Anthropic公式の/frontend-designスキルはもう27.7万インストール超えてる。入れ方は「npx skills add anthropic/frontend-design --global」。\n\nこれ入れるだけでClaude Codeが出すUIの質が激変する。タイポグラフィ、配色、アニメーション全部プロレベルになる。\n\nコミュニティ製も含めると63スキル以上あって、自分のデザイン原則をSKILL.mdに書けば毎回それを読んでくれる。",
+        "likes": 3,
+        "url": "https://x.com/i/status/2040562003463577600"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040562003463577600"
+      ]
+    },
+    {
+      "repo": "yashdev9274/ydskills",
+      "github_url": "https://github.com/yashdev9274/ydskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dew_yashtwt",
+        "text": "built a tiny thing for coding agents:\n\nydskills – a set of skills to get better output and burn fewer tokens\n\nstuff like:\n• asking tighter prompts\n• incremental code instead of giant diffs\n• using file paths instead of pasting whole files\n\ninstall:\nnpx skills add yashdev9274/ydsk",
+        "likes": 3,
+        "url": "https://x.com/i/status/2040416027281133849"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040416027281133849"
+      ]
+    },
+    {
+      "repo": "moizibnyousaf/pr-snake",
+      "github_url": "https://github.com/moizibnyousaf/pr-snake",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NoahGreenSnow",
+        "text": "npx skills add MoizIbnYousaf/pr-snake\n\nhttps://t.co/FD9MfbiImc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040684248781222174"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040684248781222174"
+      ]
+    },
+    {
+      "repo": "nic13gamer/better-upload",
+      "github_url": "https://github.com/nic13gamer/better-upload",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IvanTsxx",
+        "text": "Hey @Nic13Gamer 👀 Enjoying better-upload, so I opened a new PR.\n\nAdds an Agent Skill installable via npx skills add Nic13Gamer/better-upload with examples, refs, and improved docs to help AI assistants integrate faster. Would love your feedback! \n\nhttps://t.co/ZeL5XQdXN0 https://",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040672946461479144"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040672946461479144"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xStayHungry",
+        "text": "@om_patel5 someone already shipped this as a one-line install. npx skills add JuliusBrussee/caveman. took less than a day",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040499308395720993"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040499308395720993"
+      ]
+    },
+    {
+      "repo": "cosbort/agent-skills",
+      "github_url": "https://github.com/cosbort/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cos_bor",
+        "text": "🚀 Ho pubblicato java-spring-best-practices v2.0 Una Agent Skill open source per Spring Boot che funziona con Copilot, Claude Code, Codex e 40+ agent. Records, Virtual Threads, ProblemDetail, Testcontainers, RestClient. npx skills add cosbort/agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040452022189670621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040452022189670621"
+      ]
+    },
+    {
+      "repo": "siddsachar/thoth",
+      "github_url": "https://github.com/siddsachar/thoth",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SydSachar",
+        "text": "What @karpathy said is extreme powerful. But the AI skill gap is widening. And its because of all the complexity of getting it up and running. Shell scripts, CLI, config files are not for normal folk.\nThoth solved that completely. Its the power of OpenClaw, without the hassle.\n@k",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040708754614718601"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040708754614718601"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jgraph/drawio-mcp",
+      "github_url": "https://github.com/jgraph/drawio-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 3131.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 837,
+      "total_retweets": 104,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "drawio",
+        "text": "New in our https://t.co/AngZk3kiDe MCP app server: search_shapes lets your LLM search 10,000+ specialized shapes — AWS, Azure, GCP, Kubernetes, Cisco, P&amp;ID, electrical, BPMN and more — and use them directly when generating diagrams. Source at https://t.co/VF5sNTp7gX 🚀 https:/",
+        "likes": 837,
+        "url": "https://x.com/i/status/2039807042865504621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039807042865504621"
+      ]
+    },
+    {
+      "repo": "pmxt-dev/pmxt",
+      "github_url": "https://github.com/pmxt-dev/pmxt",
+      "tier": 2,
+      "is_new": false,
+      "score": 2199.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 578,
+      "total_retweets": 73,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "USE THESE GITHUB REPOS TO UPGRADE YOUR POLYMARKET TRADING GAME\n\n* PMXT\nhttps://t.co/LOVYIITKYM\n\n* POLYMARKET AGENTS\nhttps://t.co/8SQR0xJOa7\n\n* FAST MCP\nhttps://t.co/Dqc7YJsT6O\n\n* MCP\nhttps://t.co/euPIZPr6X3\n\n* POLYREC\nhttps://t.co/5tn8e3pP4L https://t.co/2bzaXG2nPP",
+        "likes": 578,
+        "url": "https://x.com/i/status/2040146063231951157"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040146063231951157"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "github_url": "https://github.com/modelcontextprotocol/servers",
+      "tier": 2,
+      "is_new": false,
+      "score": 1054.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 253,
+      "total_retweets": 39,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heynavtoor",
+        "text": "Best MCP Servers for Claude Code that will 10x your next project in 2026:\n\n1. MCP Servers (Official)\nhttps://t.co/GqUbVE5Nv7\n\n2. GitHub MCP Server\nhttps://t.co/hkJiSm4U6R\n\n3. Playwright MCP\nhttps://t.co/ACLD4boTs7\n\n4. Google Workspace CLI\nhttps://t.co/Ajb2n0we6D\n\n5. Figma Context",
+        "likes": 253,
+        "url": "https://x.com/i/status/2039957843751944467"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039957843751944467"
+      ]
+    },
+    {
+      "repo": "lis186/ccxray",
+      "github_url": "https://github.com/lis186/ccxray",
+      "tier": 2,
+      "is_new": false,
+      "score": 708.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 151,
+      "total_retweets": 31,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lis186",
+        "text": "用 Claude Code 接了一堆 MCP server、裝了各種 skill，但你知道哪些真的有在用嗎？\n你：「我裝了 GitHub MCP、裝了 5 個 skill⋯⋯」\nClaude Code：（黑盒子，什麼都看不到）\n你不知道：\n— 50 幾個 MCP tool 到底哪些被呼叫過\n— 每個 tool call 燒掉多少 token\n— system prompt 塞了多少你不知道的東西\n— 200K context window 到底被什麼吃掉\n一行指令，黑盒子變透明箱：\n\nnpx ccxray claude\n\nccxray 是一個透明 pro",
+        "likes": 151,
+        "url": "https://x.com/i/status/2039988456055869576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039988456055869576"
+      ]
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "github_url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 477.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 114,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "It's real. This is a legit open-source demo from Tradesdontlie using their tradingview-mcp GitHub tool. It connects Claude AI (via MCP protocol) to the TradingView desktop app, letting it run live charts, write/compile Pine Script, scan futures, draw levels, and replay trades—all",
+        "likes": 114,
+        "url": "https://x.com/i/status/2039732907372085738"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039732907372085738"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 362.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.16 released!\n\n8 features & enhancements in this release\n\nTop features:\n• MCP tool calls now display tool name and parameter summary in the timeline 🛠️\n• Added PermissionRequest hook to allow scripts to programmatically approve or deny tool permission requests\n",
+        "likes": 74,
+        "url": "https://x.com/i/status/2039749724882792871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039749724882792871"
+      ]
+    },
+    {
+      "repo": "genwavellc/svgmaker-mcp",
+      "github_url": "https://github.com/genwavellc/svgmaker-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "AI-powered SVG generation and editing server\n\nhttps://t.co/NnXG2Ee27p https://t.co/DTRnbuZEXb",
+        "likes": 29,
+        "url": "https://x.com/i/status/2039856606897139783"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856606897139783"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "@phaser_ @threejs npx skills add OpusGameLabs/game-creator\n\nhttps://t.co/1aWdeKJZkK",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040560087698120782"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040560087698120782",
+        "https://x.com/i/status/2040483098513588251"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 197.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.91 changelog:\n\nNew features:\n• Added MCP tool result persistence override via _meta[\"anthropic/maxResultSizeChars\"] annotation (up to 500K), allowing larger results like DB schemas to pass through without truncation\n• Added disableSkillShellExecution setting t",
+        "likes": 29,
+        "url": "https://x.com/i/status/2039856643156984042"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856643156984042"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2040480642857828636",
+      "author": "hylarucoder",
+      "text": "真心建议每个程序员都去手搓一个自用的 Coding Agent。\n\n纯靠写 Prompt 糊文本做 Skill，观测性太差了，你根本摸不到 harness 模型的上限在哪。缺乏 Agent 的状态流转做约束，复杂任务根本控不住。\n\n最近用 AI 搓了个 mini 版的 Claude Code，对 Agent 的理解稍微升了点。\n\nPS: 我经常从 Gemini / GPT-5.4 蒸馏 SOP Skill，再下放给 @MiniMax_AI 模型来跑任务. 建议可以考虑试试.",
+      "likes": 657,
+      "views": 0,
+      "url": "https://x.com/i/status/2040480642857828636",
+      "is_kol": false,
+      "score": 2306.0
+    },
+    {
+      "id": "2040472398273589521",
+      "author": "simplifyinAI",
+      "text": "🚨 BREAKING: Someone just solved Claude Code's biggest problem.\n\nEveryone knows Claude Code is terrible at UI design.. So someone just built an MCP that gives Claude its own built-in AI design tool.\n\nInstead of going back and forth between a design platform and your code editor, i",
+      "likes": 660,
+      "views": 0,
+      "url": "https://x.com/i/status/2040472398273589521",
+      "is_kol": false,
+      "score": 2250.0
+    },
+    {
+      "id": "2040437179000766466",
+      "author": "withqwerty",
+      "text": "if you work with football data, or want to start: meet nutmeg.\n\nit's a set of AI skills and an MCP server that makes your coding agent aware of the world of football analytics. 10 skills across data acquisition, wrangling, analysis, and charting with one simple entry-point /nutme",
+      "likes": 405,
+      "views": 0,
+      "url": "https://x.com/i/status/2040437179000766466",
+      "is_kol": false,
+      "score": 1350.0
+    },
+    {
+      "id": "2040662476862394592",
+      "author": "aakashgupta",
+      "text": "The guy who literally wrote the most popular deep learning course in history just told you the most valuable skill of the next decade has nothing to do with code.\n\nKarpathy's framing here is precise: \"agent proficiency is a CORE SKILL of the 21st century.\" He's not saying learn t",
+      "likes": 271,
+      "views": 0,
+      "url": "https://x.com/i/status/2040662476862394592",
+      "is_kol": false,
+      "score": 968.0
+    },
+    {
+      "id": "2040687605600141619",
+      "author": "VadimStrizheus",
+      "text": "pov: you have been using Claude Code for 3 months and just discovered skill graphs. \n\nGive this to your agent. \n\nYou’ll thank me later. 👇",
+      "likes": 233,
+      "views": 0,
+      "url": "https://x.com/i/status/2040687605600141619",
+      "is_kol": false,
+      "score": 784.0
+    },
+    {
+      "id": "2040523551531250010",
+      "author": "RoundtableSpace",
+      "text": "MCP SOLVES CLAUDE CODE'S UI DESIGN PROBLEM\n\n- Built-in AI design tool for Claude Code that creates UIs and drops them directly into your codebase\n- Eliminates back-and-forth between design platforms and code editor\n\nhttps://t.co/Pldxh7lU8a",
+      "likes": 228,
+      "views": 0,
+      "url": "https://x.com/i/status/2040523551531250010",
+      "is_kol": false,
+      "score": 764.0
+    },
+    {
+      "id": "2040629352010846502",
+      "author": "cyrilXBT",
+      "text": "You're going to watch Netflix tonight anyway.\n\nBut if you give me 5 hours instead - I'll give you a skill that will still be rare in 2026.\n\nThis N8N full course teaches you to BUILD and AUTOMATE anything:\n\n→ No-code workflows\n→ AI agent pipelines\n→ Systems that run while you slee",
+      "likes": 173,
+      "views": 0,
+      "url": "https://x.com/i/status/2040629352010846502",
+      "is_kol": false,
+      "score": 744.0
+    },
+    {
+      "id": "2040391682777321922",
+      "author": "kipasangin90905",
+      "text": "@romiemocka @intinyadeh njirr dapet dapet aja ya netizen ini, emang skill nya setara agent FBI",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2040391682777321922",
+      "is_kol": false,
+      "score": 480.0
+    },
+    {
+      "id": "2040559953048740273",
+      "author": "playdotfun",
+      "text": "vibe coding games is addictive. so we made it a skill.\ninstall in your agent. prompt /make-game. describe a game. play it in minutes.\n\n→ @phaser_ for 2D games. @threejs for 3D.\n→ deploy instantly.\n→ many more tools to generate art, audio, engines, and assets baked in.\n\ntemplates:",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2040559953048740273",
+      "is_kol": false,
+      "score": 398.0
+    },
+    {
+      "id": "2040681342296588414",
+      "author": "lynxluna",
+      "text": "Menurut saya \n\n🙂‍↔️Butkem yang ngajarin cuma 𝚗𝚙𝚖 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 tiap kali nemu masalah, tidak layak dihargai satu rupiah pun. Kalo ada duit mending duitnya dipake buat sub AI agent. 15 jt bisa buat hampir setahun.\n\n☝️Di sisi lain, butkem yang ngajarin nge-patch skill issue webdev dengan",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2040681342296588414",
+      "is_kol": false,
+      "score": 377.0
+    },
+    {
+      "id": "2040502537166766103",
+      "author": "AlicanKiraz0",
+      "text": "Dostlar Selamlar, bugün açık kaynak projem SentinelXPrime’ı paylaştım. SentinelXPrime; Codex, Claude Code ve OpenCode için geliştirdiğim, Cursor ve Kilo için de uyumluluk rehberleri içeren, stage-aware security skill suite. Amaç; güvenliği geliştirme sürecinin dışına itilmiş bir ",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2040502537166766103",
+      "is_kol": false,
+      "score": 326.0
+    },
+    {
+      "id": "2040447592014762461",
+      "author": "official_taches",
+      "text": "Created the ultimate CLI tool and SKILL combo that makes your agents experts at using the @BagsApp API.\n\nLiterally EVERY operation they expose (launch token, claim fees, incorporate company) can be done in seconds your agent.\n\nLink in comments 👇🏻 https://t.co/U3VYYUIWdW",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2040447592014762461",
+      "is_kol": false,
+      "score": 260.0
+    }
+  ]
+}
