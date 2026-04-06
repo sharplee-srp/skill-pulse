@@ -398,5 +398,73 @@
   "siddsachar/thoth": {
     "first_seen": "2026-04-05",
     "tier": 3
+  },
+  "jieshuo-ai/narrator-ai-cli-skill": {
+    "first_seen": "2026-04-06",
+    "tier": 2
+  },
+  "nousresearch/hermes-agent": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "xdevplatform/playground": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "addyosmani/agent-skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "atmospherelabs-dev/zipher-app": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "fennq/diverg-auto": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "retlehs/gh-actions": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "janlay/huchenfeng-skill": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "olshansk/agent-skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "broomva/blog-post": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "hassanhabib/the-standard-skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "krea-ai/skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "huntharo/agent-skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "agent-wonderland/skill": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "athif23/skills": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "rryam/liquidglaskit": {
+    "first_seen": "2026-04-06",
+    "tier": 3
+  },
+  "yinchaochen/reel-summarizer": {
+    "first_seen": "2026-04-06",
+    "tier": 3
   }
 }

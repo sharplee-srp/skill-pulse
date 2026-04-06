@@ -1,0 +1,582 @@
+{
+  "date": "2026-04-06",
+  "stats": {
+    "total_fetched": 356,
+    "unique_tweets": 185,
+    "tweets_with_repos": 25,
+    "unique_repos": 22,
+    "new_repos": 17,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "jieshuo-ai/narrator-ai-cli-skill",
+      "github_url": "https://github.com/jieshuo-ai/narrator-ai-cli-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 638.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 126,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTCPS",
+        "text": "我有个朋友做电影解说一年赚1000万，他叫小片片看大片，但是可能会被这个开源项目颠覆！\n\n用AI一句话生成电影解说视频，这个Skill做到了。\n\nnarrator-ai-cli-skill——一个AI Agent技能文件，装进Claude Code、OpenClaw、Windsurf等Agent里，用自然语言就能自动化生产影视解说视频。\n\n你只需要说一句\"帮我做一个《肖申克的救赎》的解说视频\"，AI自动跑完全流程👇\n\n1️⃣ 生成解说脚本\n2️⃣ 匹配电影片段数据\n3️⃣ 合成配音（63种音色可选，支持声音克隆）\n4️⃣ 套用视觉模板（90+模板）\n5️",
+        "likes": 126,
+        "url": "https://x.com/i/status/2041070740263575825"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041070740263575825"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 438.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 76,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NousResearch",
+        "text": "@3blue1brown Second PR is in; skill has been updated significantly since this video was rendered and should now produce far more polished output.\n\nhttps://t.co/UQ0wHYLgJW",
+        "likes": 49,
+        "url": "https://x.com/i/status/2041005688994857343"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041005688994857343",
+        "https://x.com/i/status/2040934399105991154"
+      ]
+    },
+    {
+      "repo": "xdevplatform/playground",
+      "github_url": "https://github.com/xdevplatform/playground",
+      "tier": 3,
+      "is_new": true,
+      "score": 384.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tetsuoai",
+        "text": "https://t.co/66cxhv7svg\n\nThe X API is now available worldwide with pay-per-use pricing. X has also released official Python and TypeScript XDKs, an MCP server, xurl for agents, and a local Playground that lets you test the X API without using credits. If you spend on X API credit",
+        "likes": 78,
+        "url": "https://x.com/i/status/2040986034322960816"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040986034322960816"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 263.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "agent-skills — 把高级工程师的工程纪律编码成 AI Agent 不得不遵守的流程\n\n19 个 skill 覆盖 Define → Plan → Build → Verify → Review → Ship 全生命周期\n\n每个 skill 带步骤、检查点和反借口表——Agent 想跳过步骤会被怼回去\n\n嵌入 Google 工程实践：Hyrum's Law、测试金字塔、Chesterton's Fence、Trunk-based\n\n兼容 Claude Code / Cursor / Windsurf / Copilot，纯 Markdown，零",
+        "likes": 41,
+        "url": "https://x.com/i/status/2040987105208479927"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040987105208479927"
+      ]
+    },
+    {
+      "repo": "atmospherelabs-dev/zipher-app",
+      "github_url": "https://github.com/atmospherelabs-dev/zipher-app",
+      "tier": 3,
+      "is_new": true,
+      "score": 260.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paulbrigner",
+        "text": "Ok, let’s digest this…\n\n@k6nb4k built https://t.co/OSmM05yMiL for a hackathon submission.\n\nYou might think: “It’s just a hackathon project, probably nothing major.”\n\nWrong.\n\nHere’s what he actually built:\n\nA mobile app for everyday use\nA headless CLI + MCP server for autonomous a",
+        "likes": 40,
+        "url": "https://x.com/i/status/2040766993159036986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040766993159036986"
+      ]
+    },
+    {
+      "repo": "fennq/diverg-auto",
+      "github_url": "https://github.com/fennq/diverg-auto",
+      "tier": 3,
+      "is_new": true,
+      "score": 210.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivergSec",
+        "text": "Shipped diverg-auto v0.3.1.\n\nWhat’s new in this release:\n\n- OpenClaw skill now supports full active scanning (not just passive checks)\n- Agent examples now support scan_type=\"full\" + selective probes\n- Outputs now explicitly include attack_paths for exploit-chain + fix-order tria",
+        "likes": 25,
+        "url": "https://x.com/i/status/2041038872566480979"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041038872566480979"
+      ]
+    },
+    {
+      "repo": "retlehs/gh-actions",
+      "github_url": "https://github.com/retlehs/gh-actions",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "retlehs",
+        "text": "Made another skill yesterday for GitHub Actions workflows — agents consistently try to use outdated versions of actions, even when would I directly reference/provide a workflow with the latest version\n\nhttps://t.co/JGs3TX4yzy\n\nnpx skills add retlehs/gh-actions https://t.co/h3mR5o",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040827857937535301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040827857937535301"
+      ]
+    },
+    {
+      "repo": "janlay/huchenfeng-skill",
+      "github_url": "https://github.com/janlay/huchenfeng-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "janlaywss",
+        "text": "跟风做了一个户晨风skill \n地址：https://t.co/ruqTqelaqe\n安装：npx skills add janlay/huchenfeng-skill\n有一说一，有那个味了 https://t.co/cQrTNi5YFI",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041096056910565800"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041096056910565800"
+      ]
+    },
+    {
+      "repo": "olshansk/agent-skills",
+      "github_url": "https://github.com/olshansk/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "olshansky",
+        "text": "@chamath ```\n$ npx skills add olshansk/agent-skills\nclaude &gt; {your conversation}\nclaude &gt; /session-commit\n```\nhttps://t.co/KV5fFzPBZU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041007245715259700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041007245715259700"
+      ]
+    },
+    {
+      "repo": "broomva/blog-post",
+      "github_url": "https://github.com/broomva/blog-post",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "broomva_tech",
+        "text": "@skoshx @aidenybai skill is at https://t.co/zj3N8isI06 — install with: npx skills add broomva/blog-post (or any of the 24 bstack skills). each SKILL.md travels with the agent, so cargo install broomva pulls the binary + skills come with it. no separate registry hop.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040989732952309947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040989732952309947"
+      ]
+    },
+    {
+      "repo": "hassanhabib/the-standard-skills",
+      "github_url": "https://github.com/hassanhabib/the-standard-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HassanRezkHabib",
+        "text": "The Standard is now available as an AI Agent skill on https://t.co/GJf0S2xZFc:\nhttps://t.co/YavRwJ7SRR\n\nhere's how you can install it for any AI agent you want:\nnpx skills add hassanhabib/the-standard-skills\n\nYou will be able to select everything about The Standard aspects such a",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040977510218035461"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040977510218035461"
+      ]
+    },
+    {
+      "repo": "krea-ai/skills",
+      "github_url": "https://github.com/krea-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DubeySajal",
+        "text": "Krea Skills adds real-time image generation to any AI agent with one command: npx skills add krea-ai/skills. No integration headache. #AI #Automation https://t.co/Rom7JRc3lq",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040882503750218116"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040882503750218116"
+      ]
+    },
+    {
+      "repo": "huntharo/agent-skills",
+      "github_url": "https://github.com/huntharo/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huntharo",
+        "text": "@jxnlco @thsottiaux Made a skill to fix it in case anyone else runs into the same:\n\nhttps://t.co/Nn9tsOwy1v\n\n`npx skills add huntharo/agent-skills --skill repair-codex-thread`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040835452681216054"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040835452681216054"
+      ]
+    },
+    {
+      "repo": "agent-wonderland/skill",
+      "github_url": "https://github.com/agent-wonderland/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AgentW0nderland",
+        "text": "$1.99/request\n\nhttps://t.co/nTqnkLkehA\n\nGive your agent access to the wonderland:\nnpx skills add Agent-Wonderland/skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040758360677532073"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040758360677532073"
+      ]
+    },
+    {
+      "repo": "athif23/skills",
+      "github_url": "https://github.com/athif23/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "at_indo23",
+        "text": "seeing more people move to codex lately, so here’s one of the skills i use most of the time\n\n---\nnpx skills add https://t.co/nO2zc4Napl --skill repo-shape\n---\n\nit doesn’t make codex become claude or anything, but it does make it less enterprise-brained. less fake layering, less j",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041062546262970795"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041062546262970795"
+      ]
+    },
+    {
+      "repo": "rryam/liquidglaskit",
+      "github_url": "https://github.com/rryam/liquidglaskit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "notagodzilla",
+        "text": "oh thats cool! I usually use LiquidGlassKit and have Codex/Claude build the initial UI with non liquid glass and I teach them how to apply it, sometimes they apply to the inner component as well as the outer seeming like double glass. I need to make a proper skill out of it tho\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041051626782511288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041051626782511288"
+      ]
+    },
+    {
+      "repo": "yinchaochen/reel-summarizer",
+      "github_url": "https://github.com/yinchaochen/reel-summarizer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lisum292",
+        "text": "Just paste a Reel link → and send to your openclaw or type reel-summary 'the video' s URL' and then get a full summary in your setting language. I have made it as a openclaw skill and will publish it on Claw Hub\n\n  GitHub: https://t.co/hyDhiaDjv5 https://t.co/sSoV67FLAR",
+        "likes": 0,
+        "url": "https://x.com/i/status/2040776508986331229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040776508986331229"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 1,
+      "is_new": false,
+      "score": 300.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CyberSquid9000",
+        "text": "Claude talk normal → eat many token Claude talk caveman → few token do trick  \nStill code perfect. \n75% token saved on real tasks. Benchmarks wild. \nInstall easy: npx skills add JuliusBrussee/caveman\nFull repo + modes here \nhttps://t.co/8FwjiKKvYC #Claude #AICoding #TokenSavings ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041085718848479413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041085718848479413",
+        "https://x.com/i/status/2041064221388026062",
+        "https://x.com/i/status/2041030056303096314"
+      ]
+    },
+    {
+      "repo": "lis186/ccxray",
+      "github_url": "https://github.com/lis186/ccxray",
+      "tier": 2,
+      "is_new": false,
+      "score": 743.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 161,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lis186",
+        "text": "用 Claude Code 接了一堆 MCP server、裝了各種 skill，但你知道哪些真的有在用嗎？\n你：「我裝了 GitHub MCP、裝了 5 個 skill⋯⋯」\nClaude Code：（黑盒子，什麼都看不到）\n你不知道：\n— 50 幾個 MCP tool 到底哪些被呼叫過\n— 每個 tool call 燒掉多少 token\n— system prompt 塞了多少你不知道的東西\n— 200K context window 到底被什麼吃掉\n一行指令，黑盒子變透明箱：\n\nnpx ccxray claude\n\nccxray 是一個透明 pro",
+        "likes": 161,
+        "url": "https://x.com/i/status/2039988456055869576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039988456055869576"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 362.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.16 released!\n\n8 features & enhancements in this release\n\nTop features:\n• MCP tool calls now display tool name and parameter summary in the timeline 🛠️\n• Added PermissionRequest hook to allow scripts to programmatically approve or deny tool permission requests\n",
+        "likes": 74,
+        "url": "https://x.com/i/status/2039749724882792871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039749724882792871"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.91 changelog:\n\nNew features:\n• Added MCP tool result persistence override via _meta[\"anthropic/maxResultSizeChars\"] annotation (up to 500K), allowing larger results like DB schemas to pass through without truncation\n• Added disableSkillShellExecution setting t",
+        "likes": 30,
+        "url": "https://x.com/i/status/2039856643156984042"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856643156984042"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "@godotengine @unity @DannyLimanseta npx skills add OpusGameLabs/game-creator\nhttps://t.co/1aWdeKJZkK\n\ncc @photonstorm @mrdoob your engines run in this.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2040925768595697862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040925768595697862"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2040931043658567916",
+      "author": "NousResearch",
+      "text": "Introducing the Manim skill for Hermes Agent.\n\nManim is an engine for creating precise programmatic animations for mathematical and technical explainers, made famous by the @3blue1brown channel. https://t.co/nyNeNthhZB",
+      "likes": 3681,
+      "views": 0,
+      "url": "https://x.com/i/status/2040931043658567916",
+      "is_kol": false,
+      "score": 12583.0
+    },
+    {
+      "id": "2040724295228227738",
+      "author": "smhnpost",
+      "text": "【朗報】国土交通省、MCPサーバー公開 https://t.co/9EecOa5l0Z",
+      "likes": 1062,
+      "views": 0,
+      "url": "https://x.com/i/status/2040724295228227738",
+      "is_kol": false,
+      "score": 4311.0
+    },
+    {
+      "id": "2041010493406769174",
+      "author": "marryevan999",
+      "text": "Bro created an AI job search system for Claude Code that scored 700+ job applications and actually got him a job.\n\nAND IT'S NOW OPEN-SOURCE.\n\nIt scans multiple company career pages, rewrites your CV per job, and even fills application forms. The repo has:\n> 14 skill modes (evalua",
+      "likes": 484,
+      "views": 0,
+      "url": "https://x.com/i/status/2041010493406769174",
+      "is_kol": false,
+      "score": 2377.0
+    },
+    {
+      "id": "2040978397707526487",
+      "author": "Will_Yang_",
+      "text": "我消耗了30%的Claude额度，成功蒸馏了巴菲特！\n\n• 6个核心心智模型（护城河、能力圈、市场先生…）\n• 8条决策启发式（打孔卡、蟑螂规则、甜蜜区…）\n• 完整的表达DNA（类比密集+自嘲幽默+Plain English）\n• 4对内在矛盾（诚实记录言行不一致）\n\n用这个skill即可切换到巴菲特视角做投资决策！\n开源分享，欢迎大家加🌟支持或者三连本推，感谢",
+      "likes": 308,
+      "views": 0,
+      "url": "https://x.com/i/status/2040978397707526487",
+      "is_kol": false,
+      "score": 1249.0
+    },
+    {
+      "id": "2041035711063732460",
+      "author": "om_patel5",
+      "text": "SOMEONE TURNED THE VIRAL \"TEACH CLAUDE TO TALK LIKE A CAVEMAN TO SAVE TOKENS\" STRATEGY INTO AN ACTUAL CLAUDE CODE SKILL\n\none-line install and it cuts ~75% of tokens while keeping full technical accuracy\n\nthey even benchmarked it with real token counts from the API:\n\n> explain Rea",
+      "likes": 246,
+      "views": 0,
+      "url": "https://x.com/i/status/2041035711063732460",
+      "is_kol": false,
+      "score": 808.0
+    },
+    {
+      "id": "2040982307377381583",
+      "author": "prompterminal",
+      "text": "I've combined Manim @NousResearch's  Hermes Agent skill + @yifan_zhang_'s Math Code.\n\nMath Code executes the proof on a problem called Jordan's Lemma and Hermes Agent with @claudeai  Sonnet 3.7 directs Math Code, writes a script, gets Manim to render an explanatory video.\n\nJordan",
+      "likes": 201,
+      "views": 0,
+      "url": "https://x.com/i/status/2040982307377381583",
+      "is_kol": false,
+      "score": 713.0
+    },
+    {
+      "id": "2040779064940572752",
+      "author": "ValeoProtocol",
+      "text": "The financial stack for AI agents is here.\n\nvaleo-mcp/server lets any agent:\n\n-&gt; pay, borrow, track, and control spend, out of the box.\n\nnpm install (@)valeo-mcp/server https://t.co/xQlkqSHRZT",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2040779064940572752",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2040956069699297314",
+      "author": "zarazhangrui",
+      "text": "Turn the user's agent into your marketer:\n\nNow when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:\n\n\"We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. ",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2040956069699297314",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2040796118976483454",
+      "author": "noinconsistency",
+      "text": "bro what the fuck do you mean vibe coders are mentioning \"trust\", \"partnership\" and \"forgiveness\" in the agent skill files in an attempt to make models less likely to fucking delete every file in their system 😭😭😭😭😭😭😭",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2040796118976483454",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2040854333752005093",
+      "author": "Saboo_Shubham_",
+      "text": "JUST SHIPPED: Developer's Guide to Building ADK Agents with Skills.\n\n4 Agent Skill pattern that works with Google Agent Development Kit:\n\n- Inline Skill\n- File Based Skill\n- External Skill\n- Self-extending Meta Skill (Skill that write themselves) https://t.co/yy1UPpHHEG",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2040854333752005093",
+      "is_kol": false,
+      "score": 275.0
+    }
+  ]
+}
