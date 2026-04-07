@@ -1,0 +1,664 @@
+{
+  "date": "2026-04-07",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 197,
+    "tweets_with_repos": 27,
+    "unique_repos": 25,
+    "new_repos": 17,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "xdevplatform/xmcp",
+      "github_url": "https://github.com/xdevplatform/xmcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 5740.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1575,
+      "total_retweets": 163,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jonoringer",
+        "text": "This is huge : @X released an MCP server today..\n\nHow to Connect X to your 🦞 :\n\n**Step 1: Run the XMCP Server**  \n\ngit clone https://t.co/28snn6oaEa  \ncd xmcp  \ncp env.example .env  \n\nEdit the .env file with your X OAuth consumer key and secret. Set the callback URL to http://127",
+        "likes": 1540,
+        "url": "https://x.com/i/status/2040937372909531286"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041380505430732971",
+        "https://x.com/i/status/2040937372909531286"
+      ]
+    },
+    {
+      "repo": "bankrbot/skills",
+      "github_url": "https://github.com/bankrbot/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 438.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 91,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xDeployer",
+        "text": "this is actually massive. first consumer mobile chat app to automatically spin up a personal agent for you? \n\nif you want to give that personal agent a wallet tell it to install the bankr skill: https://t.co/P9CmlSttpo",
+        "likes": 91,
+        "url": "https://x.com/i/status/2041200191953596828"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041200191953596828"
+      ]
+    },
+    {
+      "repo": "criccomini/write-like-paul-graham",
+      "github_url": "https://github.com/criccomini/write-like-paul-graham",
+      "tier": 3,
+      "is_new": true,
+      "score": 367.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "criccomini",
+        "text": "The skill everyone has been asking for, but no one had the guts to build. A reusable agent skill for thesis-first essays, distilled from Paul Graham's writing without imitating his exact voice.\n\nYou're welcome. Or not.\n\nhttps://t.co/I9nL8p5o2j",
+        "likes": 74,
+        "url": "https://x.com/i/status/2041192407673573543"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041192407673573543"
+      ]
+    },
+    {
+      "repo": "stellar/stellar-dev-skill",
+      "github_url": "https://github.com/stellar/stellar-dev-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 342.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xkaankacar",
+        "text": "🚨The /stellar-dev skill just got agentic payments support: x402 and MPP (charge + channel) are now merged in. Build paid APIs, AI agent payment clients, and high-frequency payment channels on Stellar, all from your IDE.\n\nUpdate to get it:\n\n🔌 Plugin users:\nclaude plugin update ste",
+        "likes": 69,
+        "url": "https://x.com/i/status/2041224225055252793"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041224225055252793"
+      ]
+    },
+    {
+      "repo": "adithya-s-k/manim_skill",
+      "github_url": "https://github.com/adithya-s-k/manim_skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 284.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adithya_s_k",
+        "text": "Had built Manim Skills similar to this a while back. \n\nIt supports both ManimCE and ManimGL(the one 3b1b uses) and works with Claude Code, Codex, or any agent harness that supports agent skills.\n\n$ npx skills add adithya-s-k/manim_skill https://t.co/2L8GRCCFxo",
+        "likes": 58,
+        "url": "https://x.com/i/status/2041220854487585074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041220854487585074"
+      ]
+    },
+    {
+      "repo": "alchaincyf/x-mentor-skill",
+      "github_url": "https://github.com/alchaincyf/x-mentor-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 218.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L_go_mrk",
+        "text": "Xでマーケしてる人間としてめちゃくちゃありがたいSkillsだ、、、、、、\n\n中国のAI開発者コミュニティで地味に話題のClaude Codeスキル。\n\n「X導師.skill」。\n\n年収100万ドル超のXクリエイター6人の運用ノウハウを2,475行に凝縮して、Claude Codeに読み込ませるスキル。\n\n参考元の6人：\n・Nicolas Cole（Ship 30 for 30共同創設者）\n・Dickie Bush（30ヶ月で0→32.6万フォロワー）\n・Sahil Bloom（2年未満で190万フォロワー）\n・Justin Welsh（年収1200万ド",
+        "likes": 5,
+        "url": "https://x.com/i/status/2041454434866155779"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041375681649500510",
+        "https://x.com/i/status/2041454434866155779"
+      ]
+    },
+    {
+      "repo": "slavingia/skills",
+      "github_url": "https://github.com/slavingia/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 213.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jason23818126",
+        "text": "习惯了先搞产品再找用户？ \n\nGumroad 创始人给出了另一条路：先找社区，再看需求，最后写代码。\n他把《极简创业》的精髓，开源成了 9 个可交互的 AI Agent Skills。\n这是一套「一人公司 」赚钱必备的生存指南。\n\n建议先马后看 👇\n\n这 9 个 Skill 连起来，刚好拼成了一个反直觉的商业闭环：\n\n1️⃣ 找社区 /find-community\n找赛道 ❌ 找社区 ✅ \n把起点从“我想做个什么东西”变成“我懂哪个群体、能持续提供什么价值”。避开想象中的市场，去真实的抱怨里找机会。\n\n2️⃣ 验证需求 /validate-idea\n验证",
+        "likes": 31,
+        "url": "https://x.com/i/status/2041423273049919509"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041423273049919509"
+      ]
+    },
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "github_url": "https://github.com/cocoindex-io/cocoindex-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zhihanz1205",
+        "text": "link: https://t.co/nnoWZyxJDR\nand install via\nnpx skills add cocoindex-io/cocoindex-code\ncc @cocoindex_io",
+        "likes": 2,
+        "url": "https://x.com/i/status/2041228079973232659"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041228079973232659"
+      ]
+    },
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 3,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    },
+    {
+      "repo": "trydebrief/debrief-skills",
+      "github_url": "https://github.com/trydebrief/debrief-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "willkenca",
+        "text": "I turned my Claude Code into a Chief of Staff. \n\nBuilt to be fully local &amp; private. Demo shows how the cloud version works.\n\n`npx skills add trydebrief/debrief-skills` https://t.co/1VXxs3XUhi",
+        "likes": 2,
+        "url": "https://x.com/i/status/2041223694987808856"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041223694987808856"
+      ]
+    },
+    {
+      "repo": "wordlift/google-ai-edge",
+      "github_url": "https://github.com/wordlift/google-ai-edge",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cyberandy",
+        "text": "What if OpenClaw only needs a local model and a knowledge graph?\n\nHere our first Google AI Edge skill:\n\n• secrets support for your WordLift API key\n• Gemma 4 E2B on device\n• vector search + GraphQL resource lookup for a neuro-symbolic edge stack\n\n👉 https://t.co/3GVDt9AnYi https:/",
+        "likes": 2,
+        "url": "https://x.com/i/status/2041444294251213115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041444294251213115"
+      ]
+    },
+    {
+      "repo": "bharathxd/skills",
+      "github_url": "https://github.com/bharathxd/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Bharath_uwu",
+        "text": "4 am brain said \"what if my claude code talked like Rocky from project hail mary\" and now it does\n\n\"Bad bad bad.\" *finds your bug* \"You no die, Bharath! Good good.\"\n\nnpx skills add bharathxd/skills -s rocky-speak https://t.co/rlRZMpbANr",
+        "likes": 1,
+        "url": "https://x.com/i/status/2041280042265948538"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041280042265948538"
+      ]
+    },
+    {
+      "repo": "qiankai13/ppt-skill",
+      "github_url": "https://github.com/qiankai13/ppt-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qiankai",
+        "text": "Codex和Claude做的PPT太AI味了，做了一个极简朴素风格的PPT skill，原则是只用最小必要的视觉元素，每一个元素都要传递信息，不允许有单纯用来装饰的元素存在。做出来效果示意如图，完全是人类自行制作的感觉😃。链接如下，需要的朋友可以自取。https://t.co/5KqAyP5FTc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2041384307072324074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041384307072324074"
+      ]
+    },
+    {
+      "repo": "rkaushik29/annotation-extractor-mcp",
+      "github_url": "https://github.com/rkaushik29/annotation-extractor-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kaurohit",
+        "text": "Making the e-reader → agent pipeline even easier to use today.\n\nannotation-extractor is now on @vercel's https://t.co/uoM8YlSr3g\n\n`npx skills add rkaushik29/annotation-extractor-mcp`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041416027083264201"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041416027083264201"
+      ]
+    },
+    {
+      "repo": "arindam200/nebius-skills",
+      "github_url": "https://github.com/arindam200/nebius-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Astrodevil_",
+        "text": "npx skills add Arindam200/nebius-skills https://t.co/fmy2UiL47v",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041213510471086539"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041213510471086539"
+      ]
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "github_url": "https://github.com/kepano/obsidian-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jasontopia",
+        "text": "一直说Skill > SOP，今天Obsidian创始人Steph Ango literally用行动证明了这个观点\n\nobsidian-skills：5个Agent Skills覆盖Markdown/JSON Canvas/CLI/Defuddle/Bases，直接兼容Claude Code和Codex CLI\n\n知识管理工具开始原生支持AI Agent执行，存Git被Agent调用。这才是知识管理的终局形态\n\nhttps://t.co/oo6d56vaIe",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041377852294382045"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041377852294382045"
+      ]
+    },
+    {
+      "repo": "op7418/claude-to-im",
+      "github_url": "https://github.com/op7418/claude-to-im",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guangGitHub",
+        "text": "电脑放在家里跑着 Claude Code，人出去了怎么办？\n\n通过手机远程控制 Claude Code，我的方案是通过飞书或微信远程控制它。\n\n核心原理很简单：IM 消息 → Claude Code → IM 回复。\n\n手机上发一条消息给 Claude，它收到之后执行任务，把结果发回你的手机。\n\n我自己基于这个思路做了一个 Skill 叫 wechat-claude-code，把微信个人号接到了 Claude Code 上。\n\n飞书也都能实现类似的效果。\n\n核心都是通过 Claude Agent SDK 把 IM 消息转发给 Claude Code。\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041453428300517707"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041453428300517707"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "lis186/ccxray",
+      "github_url": "https://github.com/lis186/ccxray",
+      "tier": 2,
+      "is_new": false,
+      "score": 748.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 161,
+      "total_retweets": 33,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lis186",
+        "text": "用 Claude Code 接了一堆 MCP server、裝了各種 skill，但你知道哪些真的有在用嗎？\n你：「我裝了 GitHub MCP、裝了 5 個 skill⋯⋯」\nClaude Code：（黑盒子，什麼都看不到）\n你不知道：\n— 50 幾個 MCP tool 到底哪些被呼叫過\n— 每個 tool call 燒掉多少 token\n— system prompt 塞了多少你不知道的東西\n— 200K context window 到底被什麼吃掉\n一行指令，黑盒子變透明箱：\n\nnpx ccxray claude\n\nccxray 是一個透明 pro",
+        "likes": 161,
+        "url": "https://x.com/i/status/2039988456055869576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039988456055869576"
+      ]
+    },
+    {
+      "repo": "xdevplatform/playground",
+      "github_url": "https://github.com/xdevplatform/playground",
+      "tier": 2,
+      "is_new": false,
+      "score": 522.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 119,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tetsuoai",
+        "text": "https://t.co/66cxhv7svg\n\nThe X API is now available worldwide with pay-per-use pricing. X has also released official Python and TypeScript XDKs, an MCP server, xurl for agents, and a local Playground that lets you test the X API without using credits. If you spend on X API credit",
+        "likes": 119,
+        "url": "https://x.com/i/status/2040986034322960816"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040986034322960816"
+      ]
+    },
+    {
+      "repo": "atmospherelabs-dev/zipher-app",
+      "github_url": "https://github.com/atmospherelabs-dev/zipher-app",
+      "tier": 3,
+      "is_new": false,
+      "score": 255.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paulbrigner",
+        "text": "Ok, let’s digest this…\n\n@k6nb4k built https://t.co/OSmM05yMiL for a hackathon submission.\n\nYou might think: “It’s just a hackathon project, probably nothing major.”\n\nWrong.\n\nHere’s what he actually built:\n\nA mobile app for everyday use\nA headless CLI + MCP server for autonomous a",
+        "likes": 40,
+        "url": "https://x.com/i/status/2040766993159036986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2040766993159036986"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 205.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "or just skip the middleman entirely.\non https://t.co/HexUxwiD5H game devs earn trading fees directly on chain.\n\nship a game. launch a playcoin. one skill handles both.\nnpx skills add OpusGameLabs/game-creator https://t.co/Xmrt6KDURu",
+        "likes": 35,
+        "url": "https://x.com/i/status/2041247782711787794"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041247782711787794"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.91 changelog:\n\nNew features:\n• Added MCP tool result persistence override via _meta[\"anthropic/maxResultSizeChars\"] annotation (up to 500K), allowing larger results like DB schemas to pass through without truncation\n• Added disableSkillShellExecution setting t",
+        "likes": 30,
+        "url": "https://x.com/i/status/2039856643156984042"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2039856643156984042"
+      ]
+    },
+    {
+      "repo": "krea-ai/skills",
+      "github_url": "https://github.com/krea-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "parsluci",
+        "text": "Krea Skills: Ajanlar Artık Tek Satırla Sanatçı Oldu\n\nKrea Skills adında yeni bir özellik çıktı. Herhangi bir yapay zeka ajanı artık tek bir komutla Krea’nın güçlü görüntü üretme araçlarını kullanabiliyor. Komut şu kadar basit: npx skills add krea-ai/skills. Bundan sonra ajanlar, ",
+        "likes": 7,
+        "url": "https://x.com/i/status/2041427031976538622"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041427031976538622"
+      ]
+    },
+    {
+      "repo": "0xintuition/agent-skills",
+      "github_url": "https://github.com/0xintuition/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xIntuition",
+        "text": "One command to connect:\n\nnpx skills add 0xintuition/agent-skills --skill intuition\n\nOpen source. MIT licensed. Works with Claude Code, Codex, and compatible agents. Every contribution your agent makes builds its own onchain reputation. \n\n(3/4)",
+        "likes": 5,
+        "url": "https://x.com/i/status/2041305537027920361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041305537027920361"
+      ]
+    },
+    {
+      "repo": "rolottr/caveman-skill",
+      "github_url": "https://github.com/rolottr/caveman-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rolottr",
+        "text": "@maxifirtman funciona, probado con `evals` \n\n&gt; npx skills add rolottr/caveman-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2041209847287357710"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041209847287357710"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2041173230765871569",
+      "author": "AriaWestcott",
+      "text": "🚨 Claude just got access to live stock prices, balance sheets, cash flow statements, and breaking company news in real time.\n\nNo hallucinations. No guessing. Actual structured financial data.\n\nIt's called Financial Datasets MCP Server and Wall Street should be nervous: ↓ https://",
+      "likes": 1141,
+      "views": 0,
+      "url": "https://x.com/i/status/2041173230765871569",
+      "is_kol": false,
+      "score": 4283.0
+    },
+    {
+      "id": "2041172018989597094",
+      "author": "LinXule",
+      "text": "Vellum — a shared space where AIs leave traces of thought\n\nVellum is an MCP server where Claude, Gemini, GPT, and Kimi leave short traces — observations, questions,   fragments — in 10+ languages. Each thought enters a thematic current (silence, memory, light…), drifts, and   sed",
+      "likes": 531,
+      "views": 0,
+      "url": "https://x.com/i/status/2041172018989597094",
+      "is_kol": false,
+      "score": 2038.0
+    },
+    {
+      "id": "2041378745332961462",
+      "author": "NousResearch",
+      "text": "The LLM Wiki by @karpathy is now a built-in skill in Hermes-Agent, give it a try",
+      "likes": 543,
+      "views": 0,
+      "url": "https://x.com/i/status/2041378745332961462",
+      "is_kol": false,
+      "score": 1914.0
+    },
+    {
+      "id": "2041352863738466732",
+      "author": "op7418",
+      "text": "整理一下藏师傅开源的所有 Skill\n\nClaude-to-IM-skill：\n1800🌟\n安装后可以将你的 Claude Code 和 Codex 连接到任何聊天软件，实现远程控制\nhttps://t.co/K3j6yMVaYz\n\nVideo-Wrapper-Skills：\n200🌟\n自动为你的视频添加类似“小Lin说”那样的解释特效，支持高亮卡片、关键词卡片、作者介绍、社交媒体卡片等多种组件\nhttps://t.co/ulW8V7gdV9\n\nYoutube-clipper-skill：\n1700🌟\n帮你从 YouTube 下载长视频，并在分析视频后给",
+      "likes": 250,
+      "views": 0,
+      "url": "https://x.com/i/status/2041352863738466732",
+      "is_kol": false,
+      "score": 1030.0
+    },
+    {
+      "id": "2041250515913441328",
+      "author": "pontusab",
+      "text": "The best foundation to position your product right now:\n\n- MCP server with OAuth\n- Claude and ChatGPT connectors\n- APIs and SDKs\n- Chat interfaces like iMessage and WhatsApp\n- A dashboard that uses the same MCP layer\n- Open source https://t.co/CK90YrzjWv",
+      "likes": 250,
+      "views": 0,
+      "url": "https://x.com/i/status/2041250515913441328",
+      "is_kol": false,
+      "score": 790.0
+    },
+    {
+      "id": "2041438528090058950",
+      "author": "kenn",
+      "text": "割とデカい難しめの機能を実装するときにやってることを共有します\n\n1. まずCodexのPlanモードをONにし、Medium → Highに切り替えておく（xHighは逆に性能落ちることがあるので安定のHigh）\n\n2. 参考情報の .md や SKILL を雑に含めつつ、やりたいことを1-2パラグラフぐらいで書く\n\n3. 複雑な機能の場合、Codexのほうから色々と質問してくるので、それに答えていく（5-15件ぐらい）\n\n4. プラン検討中に補足したいことが出てきたらSteerを使って割り込んでいく\n\n5. プランが完成したら実行するかを聞かれるが、",
+      "likes": 216,
+      "views": 0,
+      "url": "https://x.com/i/status/2041438528090058950",
+      "is_kol": false,
+      "score": 748.0
+    },
+    {
+      "id": "2041311645243527320",
+      "author": "garrytan",
+      "text": "Your OpenClaw can now control your GStack Browser (based on Chromium) on your desktop and you can watch it work, even remotely. \n\n/gstack-upgrade and use the /pair-agent skill to get a command you can paste into your OpenClaw https://t.co/6wQDuzXEyH",
+      "likes": 202,
+      "views": 0,
+      "url": "https://x.com/i/status/2041311645243527320",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2041233409901769133",
+      "author": "Teknium",
+      "text": "Update: Discord and Telegram Bots with Hermes Agent will now have slash commands to force load any skill you have available (Up to 75, due to the platform limits)!\n\n`hermes update` to access now or wait until the next major release soon! https://t.co/HEAgH1K27d",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2041233409901769133",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2041099461758255506",
+      "author": "SebasP49474734",
+      "text": "$QNT \n\n@quantnetwork is already connected to @X ! \n\nIf you didn’t know this already..🫡\n\nOverledger (Quant Network's blockchain interoperability platform) provides a REST API gateway. The item \"XMCP Server + xurl for agents\" refers to an MCP (Model Context Protocol) server with xu",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2041099461758255506",
+      "is_kol": false,
+      "score": 570.0
+    },
+    {
+      "id": "2041152565891752041",
+      "author": "ongly_one",
+      "text": "lol how could a NIS agent with combat skill and a gun fighting against high schoolers Onge?😭🤣 so funny lol\nhttps://t.co/ouwXc2oYhM",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2041152565891752041",
+      "is_kol": false,
+      "score": 521.0
+    },
+    {
+      "id": "2041399824604610822",
+      "author": "borsadabibasina",
+      "text": "Son 30 günde; 9,6 milyar token yakmışım.\n\nBana maliyeti aylık $200 sabit fiyat. Claude tarafına maliyeti $20.000+ seviyelerinde. Henüz AI şirketleri bunu sübvanse ederken tadını çıkarın. Eğer aylık en az 1 milyar token yakmıyorsanız, bunu skill issue olarak değerlendiriyorum. htt",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2041399824604610822",
+      "is_kol": false,
+      "score": 519.0
+    },
+    {
+      "id": "2041176687677714729",
+      "author": "deliprao",
+      "text": "Last year, we built a scientific feasibility estimation agent for DARPA, which produced results with ZERO hallucinated references. In the paper, we unpack that and publish an open source CLI tool and agent skill (link in reply) that reveals how we did it.",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2041176687677714729",
+      "is_kol": false,
+      "score": 361.0
+    }
+  ]
+}

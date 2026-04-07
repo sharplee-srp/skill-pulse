@@ -466,5 +466,73 @@
   "yinchaochen/reel-summarizer": {
     "first_seen": "2026-04-06",
     "tier": 3
+  },
+  "xdevplatform/xmcp": {
+    "first_seen": "2026-04-07",
+    "tier": 2
+  },
+  "bankrbot/skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "criccomini/write-like-paul-graham": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "stellar/stellar-dev-skill": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "adithya-s-k/manim_skill": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "alchaincyf/x-mentor-skill": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "slavingia/skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "cocoindex-io/cocoindex-code": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "berthelol/skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "trydebrief/debrief-skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "wordlift/google-ai-edge": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "bharathxd/skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "qiankai13/ppt-skill": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "rkaushik29/annotation-extractor-mcp": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "arindam200/nebius-skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "kepano/obsidian-skills": {
+    "first_seen": "2026-04-07",
+    "tier": 3
+  },
+  "op7418/claude-to-im": {
+    "first_seen": "2026-04-07",
+    "tier": 3
   }
 }
