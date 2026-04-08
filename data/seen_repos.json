@@ -534,5 +534,77 @@
   "op7418/claude-to-im": {
     "first_seen": "2026-04-07",
     "tier": 3
+  },
+  "xdevplatform/xurl": {
+    "first_seen": "2026-04-08",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-epub-book-generator": {
+    "first_seen": "2026-04-08",
+    "tier": 2
+  },
+  "financial-datasets/mcp-server": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "okx/onchainos-skills": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "nicholasspisak/second-brain": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "wwbin2017/bailing": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "trajectoryrl/trajrl": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "okx/agent-skills": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "christinetyip/open-agent-traces": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "mliu98/awesome-human-distillation": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "neondatabase/agent-skills": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "vikxlp/rocky": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "marimo-team/marimo-pair": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "agentmantis/test-skills": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "m4cs/compressoor": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "corbits-infra/corbits-skill": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "barisatalay/performance": {
+    "first_seen": "2026-04-08",
+    "tier": 3
+  },
+  "voltagent/awesome-design-md": {
+    "first_seen": "2026-04-08",
+    "tier": 3
   }
 }
