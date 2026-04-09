@@ -1,0 +1,633 @@
+{
+  "date": "2026-04-09",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 188,
+    "tweets_with_repos": 26,
+    "unique_repos": 22,
+    "new_repos": 18,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 1277.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 284,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ryanli",
+        "text": "Your Claude Code just got fluent in crypto.\n\nToday, we released Surf Skill. The command line that replaces 60+ APIs.\nCompatible with any agentic environment.\n\nTry:\nnpx skills add asksurf-ai/surf-skills https://t.co/kRwW6Wxv3t",
+        "likes": 274,
+        "url": "https://x.com/i/status/2042067459570856303"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042067459570856303",
+        "https://x.com/i/status/2042076077695365267",
+        "https://x.com/i/status/2042068301728379120"
+      ]
+    },
+    {
+      "repo": "atilaahmettaner/tradingview-mcp",
+      "github_url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 676.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 142,
+      "total_retweets": 30,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlphaCartell",
+        "text": "Dear Traders, \n\nSomeone built a complete AI Trading Intelligence Framework.\n\nBacktesting + Live Sentiment + Yahoo Finance + 30+ Technical Analysis Tools, all in one MCP server.\n\nThis is insane! \nhttps://t.co/qkRX3gSroJ https://t.co/TItYi88jaJ",
+        "likes": 142,
+        "url": "https://x.com/i/status/2041840720017805690"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041840720017805690"
+      ]
+    },
+    {
+      "repo": "run-llama/liteparse_samples",
+      "github_url": "https://github.com/run-llama/liteparse_samples",
+      "tier": 2,
+      "is_new": true,
+      "score": 528.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 111,
+      "total_retweets": 19,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abogadoaboitiz",
+        "text": "El problema más serio de usar IA para analizar documentos jurídicos no es que alucine. \nEs que no podés verificar de dónde sacó lo que dice.\n\nHay un skill para Claude Code que resuelve eso.\n\nSe llama /research-docs. \nLe das una carpeta con los documentos del expediente, le hacés ",
+        "likes": 111,
+        "url": "https://x.com/i/status/2041976596425330955"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041976596425330955"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-design-advisor",
+      "github_url": "https://github.com/joeseesun/qiaomu-design-advisor",
+      "tier": 3,
+      "is_new": true,
+      "score": 455.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "从谷歌Stitch偷了58个优秀前端设计网站的Design文档，生成了一个前端网页设计Skill。\n\n安装指令：npx skills add joeseesun/qiaomu-design-advisor\n\n将设计分三阶段：\n\n1. 官方AskUserQuestion组件澄清需求，不用打字\n\n2. AI 推荐适合模仿的网站风格（如Claude、Notion、Apple、Cursor等），也可以指定。\n\n3. 画ASCII网页布局图，确认后开发。\n\n开源地址见评论",
+        "likes": 70,
+        "url": "https://x.com/i/status/2042106868559180033"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042107015590506924",
+        "https://x.com/i/status/2042106868559180033"
+      ]
+    },
+    {
+      "repo": "forloopcodes/contextplus",
+      "github_url": "https://github.com/forloopcodes/contextplus",
+      "tier": 3,
+      "is_new": true,
+      "score": 306.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiwithjainam",
+        "text": "I just discovered an MCP server that makes AI coding agents actually understand large codebases.\n\nIt's called Context+.\n\nInstead of reading files, it builds a full semantic feature graph AST parsing across 43 extensions, spectral clustering, Obsidian wikilinks, Ollama embeddings ",
+        "likes": 52,
+        "url": "https://x.com/i/status/2041841731638063229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041841731638063229"
+      ]
+    },
+    {
+      "repo": "last-emo-boy/rikune",
+      "github_url": "https://github.com/last-emo-boy/rikune",
+      "tier": 3,
+      "is_new": true,
+      "score": 276.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "secharvesterx",
+        "text": "[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM\nhttps://t.co/VJ77W1iPag https://t.co/y3eC5iBpLR",
+        "likes": 47,
+        "url": "https://x.com/i/status/2041848898352800139"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041848898352800139"
+      ]
+    },
+    {
+      "repo": "minimax-ai/cli",
+      "github_url": "https://github.com/minimax-ai/cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "genoooool",
+        "text": "安装就两条命令一条装skill的，一条装cli的\n\n# AI Agent 使用（OpenClaw、Cursor、Claude Code 等）：添加 Skill 到你的 Agent\nnpx skills add MiniMax-AI/cli -y -g\n\n# 或全局安装 CLI 在终端中使用\nnpm install -g mmx-cli\n\n装完以后认证一下apikey就可以了：\nmmx auth login --api-key sk-xxxxx\n\nhttps://t.co/63KbZUjp3z",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042145450866962627"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042145450866962627",
+        "https://x.com/i/status/2042083118145056775"
+      ]
+    },
+    {
+      "repo": "zjunlp/skillx",
+      "github_url": "https://github.com/zjunlp/skillx",
+      "tier": 3,
+      "is_new": true,
+      "score": 199.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zxlzr",
+        "text": "🚀 Excited to share SkillX: Automatically Constructing Skill Knowledge Bases for Agents!\n\nIt automatically converts agent trajectories into reusable, plug-and-play skills — making them transferable across agents and environments.\n\nWe are also planning to integrate SkillX into the ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2041875658616479847"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041875658616479847"
+      ]
+    },
+    {
+      "repo": "kucoin/kucoin-skills-hub",
+      "github_url": "https://github.com/kucoin/kucoin-skills-hub",
+      "tier": 3,
+      "is_new": true,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kucoincom",
+        "text": "The KuCoin Assets Skill lets your AI agent query account balances, ledgers, and trading fees in real-time.\n\nLet your Agent handle the data admin while you focus on the high-level strategy.\nVisit KuCoin Skills Hub: https://t.co/BzyurKTIPd https://t.co/cLsYB6WrQ0",
+        "likes": 26,
+        "url": "https://x.com/i/status/2042075097616310667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042075097616310667"
+      ]
+    },
+    {
+      "repo": "0xnyk/awesome-hermes-agent",
+      "github_url": "https://github.com/0xnyk/awesome-hermes-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Saccc_c",
+        "text": "Hermes Agent突然火了，还不知道怎么用？这个仓库整理了关于整个Hermes生态的一切。\n\n核心内容覆盖：\n1、安装入门和学习教程\n2、skill和插件整理：专为Hermes打造\n3、基于Hermes开发的应用工具\n\n赶紧上车体验起来，试过了才知道到底好不好用。\n\n仓库地址：https://t.co/UwPQg8pboA https://t.co/rbHLeEdbsG",
+        "likes": 20,
+        "url": "https://x.com/i/status/2042121617900253513"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042121617900253513"
+      ]
+    },
+    {
+      "repo": "ersinkoc/security-check",
+      "github_url": "https://github.com/ersinkoc/security-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 164.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ersinkoc",
+        "text": "npx skills add ersinkoc/security-check\n\nThat's it. \nOpen your AI assistant and say \"run security check\". https://t.co/eNITWMvAOi",
+        "likes": 18,
+        "url": "https://x.com/i/status/2042006590077710430"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042006590077710430"
+      ]
+    },
+    {
+      "repo": "serendipityoneinc/apiclaw-skills",
+      "github_url": "https://github.com/serendipityoneinc/apiclaw-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sandmagician",
+        "text": "无论是 @yan5xu bb-browser，还是 @XCrawl_API，胡总和 @jakevin7 的 opencli 都是很好的 skills。但是如果你要拿来大规模进行数据采集和分析都可能会不够用。\n\n所以决定把内部用来分析 amazon 数据的 skill 放出来给大家的 Agent 用啦。\n\n🔧 APIClaw Skills（MIT 开源，一行安装）\nnpx skills add SerendipityOneInc/APIClaw-Skills\n• 9 个 Skill 模块：选品、竞品监控、市场脉搏、Listing 审计、定价优化、评论分析\n",
+        "likes": 3,
+        "url": "https://x.com/i/status/2042127510994088115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042127510994088115"
+      ]
+    },
+    {
+      "repo": "ferrants/skill-codex",
+      "github_url": "https://github.com/ferrants/skill-codex",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ferrants",
+        "text": "Claude Code got lazy - probably\n\nYou know what helps keep it in check? Another model\n\nI bounce plans and reviews off codex all the time\n\nI made a skill to do that\n\n`$ npx skills add ferrants/skill-codex`\n\n`/codex-review the last commit'`\n\n`/codex-exec review that plan`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042119046339129725"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042119046339129725"
+      ]
+    },
+    {
+      "repo": "mingm6117-eng/fengewangming-skill",
+      "github_url": "https://github.com/mingm6117-eng/fengewangming-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaoMing02111",
+        "text": "家人们，终于可以和峰哥链接了！\n\n基于女娲skill蒸馏的峰哥：\nnpx skills add mingm6117-eng/fengewangming-skill https://t.co/vWME5CSqx8",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042176222936072564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042176222936072564"
+      ]
+    },
+    {
+      "repo": "andrewcongxyz/hugewave-skill",
+      "github_url": "https://github.com/andrewcongxyz/hugewave-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "andrewcongx",
+        "text": "🚀 在安装或者使用一个第三方 Skill 前，推荐使用 skill-flow 进行分析，最终产出一个可视化 HTML 报告。\n\n💻安装:\nnpx skills add andrewcongxyz/hugewave-skill\n或\nnpx skills add andrewcongxyz/hugewave-skill --skill skill-flow\n\n🩻用法：\n1. 分析 ./my-project/.claude/skills/deploy/SKILL.md 这个 Skill\n2. 审查这个 Skill：https://t.co/K3VlFfceqw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042150960324342009"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042150960324342009"
+      ]
+    },
+    {
+      "repo": "cerul-ai/cerul",
+      "github_url": "https://github.com/cerul-ai/cerul",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jiaxi_Cui",
+        "text": "@xds2000 一样的，给一句话让他安装skill就好\nnpx skills add cerul-ai/cerul",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042137006608892105"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042137006608892105"
+      ]
+    },
+    {
+      "repo": "safishamsi/graphify",
+      "github_url": "https://github.com/safishamsi/graphify",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sainathgupta",
+        "text": "graphify just crossed 14.6k stars — and COO should pay attention. AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph…\n\nhttps://t.co/j3mbuGVPFW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042158080285126971"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042158080285126971"
+      ]
+    },
+    {
+      "repo": "hybridaione/hybridclaw",
+      "github_url": "https://github.com/hybridaione/hybridclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "furukama",
+        "text": "Just set up a @karpathy-style llm-wiki in HybridClaw and started ingesting my documents in under a minute\n\nComes with templates and full OpenClaw-compatible skill/RAG/qmd support. Clean, version-controlled knowledge for your agents.\n\nRepo: https://t.co/VdbITR8EhG https://t.co/q68",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042146710965624889"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042146710965624889"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 173.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.94 changelog:\n\nNew features:\n• Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1\n• Added compact Slacked #channel header with a clickable channel link for Slack MCP send-message tool calls\n• Added keep-coding-instructions frontma",
+        "likes": 21,
+        "url": "https://x.com/i/status/2041633795627987406"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041633795627987406"
+      ]
+    },
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 7,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BruceBlue",
+        "text": "之前用 @openclaw 两个多月，从 Telegram 到 Lark，最后被 Lark 的限额卡死，感觉 Agent 真的太笨了。\n\n直到看到 @NousResearch （拿了 @paradigm 5500万美元投资）在推自己的 Hermes Agent，我直接决定从 VPS 上把 OpenClaw 的记忆/Skill/框架打包进 GitHub 一键迁移过去，并接入了 Slack。结果发现：这才是我的梦寐以求的 Agent。\n\n🐎Hermes 强在哪？🔥\n\n🧠记忆终于不丢了：跨会话语义搜索 + MEMORY.md 分层管理，昨天聊的事今天直接搜出来",
+        "likes": 4,
+        "url": "https://x.com/i/status/2042178414023729591"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042178414023729591"
+      ]
+    },
+    {
+      "repo": "dontbesilent2025/claude-skills",
+      "github_url": "https://github.com/dontbesilent2025/claude-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yiming_Falcon",
+        "text": "一直在寻找用顶级头脑风暴提供不同视角，targeted-chatroom真的很不错。\n\n安装：\nnpx skills add dontbesilent2025/claude-skills/skills/targeted-chatroom\n\n地址：\nhttps://t.co/zY8RHG0dRo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042130520461734159"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042130520461734159"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2041856590341677378",
+      "author": "akshay_pachaar",
+      "text": "Another blow to Anthropic!\n\nDevs built a free and better Claude Cowork alternative:\n\n- 100% local\n- voice-enabled\n- works with any LLM\n- MCP tool extensibility\n- obsidian-compatible vault\n- background agents &amp; web search\n- automatic knowledge graph creation\n\n100% open-source.",
+      "likes": 1988,
+      "views": 0,
+      "url": "https://x.com/i/status/2041856590341677378",
+      "is_kol": false,
+      "score": 7259.0
+    },
+    {
+      "id": "2041885304941109518",
+      "author": "0xcherry",
+      "text": "扒拉了一下 hermes agent 的代码，现在已经 35k stars 了。代码给我看力竭了。\n\n1. 有 3 个雷霆大文件，分别是 9400 行（run_agent.py）、8700 行（cli .py ）、7620 行（gateway/run.py），哥们你真不拆的吗。\n\n2. 核心的 tool loop 部分大概 5000 行。这个就是官方说的“把工作流固化成 skill” ，占比非常小。\n按理说招牌功能应该完善一点，但恰恰这个部分没啥规模。说明核心功能的实现其实很简单。\n至于核心功能有多大用处...实话说，看不出来。直接让 claude/ch",
+      "likes": 470,
+      "views": 0,
+      "url": "https://x.com/i/status/2041885304941109518",
+      "is_kol": false,
+      "score": 1550.0
+    },
+    {
+      "id": "2041836412950003780",
+      "author": "SunnyVStudio",
+      "text": "Here is how to use Claude Code with Unity 6! 🤝\n\nUnity has a native MCP server to let AI handle the boilerplate code while you focus on your game! 🤩\n\n➡️ Read more at: \nhttps://t.co/pUe78sqGFd\n\n#unitytips #gamedev #unity3d #unity6 #ai https://t.co/MslSiaK6Pm",
+      "likes": 422,
+      "views": 0,
+      "url": "https://x.com/i/status/2041836412950003780",
+      "is_kol": false,
+      "score": 1501.0
+    },
+    {
+      "id": "2042093115108901274",
+      "author": "om_patel5",
+      "text": "THIS GUY BUILT A TOOL THAT LETS AI AGENTS GENERATE ANIMATED PIXEL ART WHILE VIBE CODING GAMES\n\nthe biggest problem with vibe coding games: the code works but the sprites look like garbage. \n\nplaceholder squares everywhere.\n\nthis tool connects to Claude Code as an MCP. while your ",
+      "likes": 254,
+      "views": 0,
+      "url": "https://x.com/i/status/2042093115108901274",
+      "is_kol": false,
+      "score": 877.0
+    },
+    {
+      "id": "2041968795078832633",
+      "author": "msdev",
+      "text": "With GitHub Copilot CLI + Work IQ MCP server, your team can go from inheriting a long list of downstream work across multiple teams to actually moving on it immediately.\n\nGo from plan → tasks → alignment → execution in one flow. https://t.co/8wDSSzz9n0",
+      "likes": 224,
+      "views": 0,
+      "url": "https://x.com/i/status/2041968795078832633",
+      "is_kol": false,
+      "score": 832.0
+    },
+    {
+      "id": "2041941012965110142",
+      "author": "yugacohler",
+      "text": "Today, we're launching the @CoinbaseDev CLI and MCP server.\n\nThese tools give AI agents instant access to Coinbase's APIs for payments, trading, wallets, onchain data, and more.\n\nCoding agents like Claude and Codex can now trivially integrate crypto's most trusted APIs. (1/3) htt",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2041941012965110142",
+      "is_kol": false,
+      "score": 675.0
+    },
+    {
+      "id": "2042082516488876541",
+      "author": "0xtonixie",
+      "text": "小白如何用claude code花10分钟做出爆款AI漫剧？\n\n答案是我们直接把最优秀的导演蒸馏成skill替我们拍短剧！\n\n但是一个导演要蒸馏，需要大量的图片是视频信息，看起来这和蒸馏那些名人语录得到skill是完全不一样的任务，也是AI比较难理解的任务。\n\n首先说结论，这是我蒸馏出来新海诚的skill，github仓库地址如下，大家自取：\nhttps://t.co/uOzw5OJtQV\n\n然后下面的视频是我用我的skill结合小云雀仅用了一个prompt生成的短剧开头，全程花费时间不超过10分钟，全程免费(这么一个视频只需要花每日免费的积分即可生成)",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2042082516488876541",
+      "is_kol": false,
+      "score": 630.0
+    },
+    {
+      "id": "2042104196787531938",
+      "author": "evilcos",
+      "text": "Hermes Agent 在用了，目前感觉挺顺手：\n\n- 一键导入同服务器的 OpenClaw 配置及记忆（不过我没这样做）\n\n- 让其解决 Telegram 通信的 bug，解决好后，自动沉淀了个相关 Skill\n\n- GPT5.4 模型的体感在 Hermes 里居然比在 OpenClaw 里好…\n\n- 一些细节做的不错，比如 Token 燃烧进度，执行细则。赶紧超越 Claude Code 体验吧…\n\n我会好好折腾下，希望发现更多惊喜。",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2042104196787531938",
+      "is_kol": false,
+      "score": 414.0
+    },
+    {
+      "id": "2041940505228145129",
+      "author": "CoinbaseDev",
+      "text": "🚀We’re launching the Coinbase Developer Platform (CDP) CLI, along with an agent skill and MCP server enabling agentic access to CDP.\n\nOne tool for payments, trading, custody, wallets, and onchain workflows.\n\n→ npm install -g @​coinbase/cdp-cli\n\nDetails 👇 https://t.co/kQPqsv3tTx",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2041940505228145129",
+      "is_kol": false,
+      "score": 402.0
+    },
+    {
+      "id": "2042142800796692776",
+      "author": "AIExplorerTim",
+      "text": "🔥 2026 年，靠 AI 短剧轻松月入过万！\n\n我试了下 OpenClaw + Zopia Skill，\n没想到 AI 短剧已经卷到这种程度了。\n\n跑完发现，这是一条赚钱流水线：\n1️⃣ 选题 → 角色 → 剧情\n2️⃣ 配音 → 运镜 → 字幕 → 音乐\n\n这是我用 5 分钟自动生成一集 AI 短剧，\n\n节奏紧凑、运镜自然，吊打 99% 人工制作！\n流水线批量产出，自动赚钱！\n\n【逐步详细教程】👇",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2042142800796692776",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2041895447745458671",
+      "author": "austingriffith",
+      "text": "☎️ We are building a feedback system into https://t.co/PuigYL8FHV\n\n⚠️ When your agent runs into a problem building on @ethereum there will be an endpoint where it can report issues...\n\n🧍‍♂️We will make sure it prompts you first!\n\n🤔 But is this an okay thing to add to the skill?",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2041895447745458671",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2042125231469555859",
+      "author": "tomo1230",
+      "text": "🤖AIエージェントに\n 「FreeCADでこれ作って」\nと話しかけるだけで、\n3Dモデルができていく✨\nFreeCAD Addin &amp; MCP Serverを\n GitHubでOSS公開しました🔥\n\n⚙ リアルタイム自動モデリング\n🤖 AI連携\n🆓 無料で試せます\n\n詳細はこちら👇\nhttps://t.co/dP5U4H8xSL\n\n#FreeCAD #MCP #3DCAD #AI #モデリング",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2042125231469555859",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2042015907061301512",
+      "author": "meunomeebero",
+      "text": "A Anthropic simplesmente não quer que você saiba disso!\n\nEu economizei 75% de consumo de tokens graças a essa skill que faz o claude falar como um homem das cavernas 😱\n\nRecomendação do @danndevIH \n\nEai, já testou? https://t.co/loTCosNYMK",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2042015907061301512",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2042096555889717582",
+      "author": "GithubProjects",
+      "text": "Your AI-powered open-source job search system built on Claude Code.\n\n14 skill modes, Go dashboard, PDF generation, batch processing. https://t.co/KHdtw1ZRfM",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2042096555889717582",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2041720905156718790",
+      "author": "ZenMuxAI",
+      "text": "🚀 GLM-5.1 from @ZhipuAI is now on ZenMux!\n\n  Zhipu's flagship model built for long-horizon autonomy — top-tier agentic coding with real-world endurance:\n\n  ✅ 8-hour sustained autonomous execution\n  ✅ Native MCP tool integration & function calling\n  ✅ 200K context with 128K output",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2041720905156718790",
+      "is_kol": false,
+      "score": 245.0
+    }
+  ]
+}

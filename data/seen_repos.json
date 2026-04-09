@@ -606,5 +606,77 @@
   "voltagent/awesome-design-md": {
     "first_seen": "2026-04-08",
     "tier": 3
+  },
+  "asksurf-ai/surf-skills": {
+    "first_seen": "2026-04-09",
+    "tier": 1
+  },
+  "atilaahmettaner/tradingview-mcp": {
+    "first_seen": "2026-04-09",
+    "tier": 2
+  },
+  "run-llama/liteparse_samples": {
+    "first_seen": "2026-04-09",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-design-advisor": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "forloopcodes/contextplus": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "last-emo-boy/rikune": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "minimax-ai/cli": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "zjunlp/skillx": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "kucoin/kucoin-skills-hub": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "0xnyk/awesome-hermes-agent": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "ersinkoc/security-check": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "serendipityoneinc/apiclaw-skills": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "ferrants/skill-codex": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "mingm6117-eng/fengewangming-skill": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "andrewcongxyz/hugewave-skill": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "cerul-ai/cerul": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "safishamsi/graphify": {
+    "first_seen": "2026-04-09",
+    "tier": 3
+  },
+  "hybridaione/hybridclaw": {
+    "first_seen": "2026-04-09",
+    "tier": 3
   }
 }
