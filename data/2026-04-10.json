@@ -1,0 +1,612 @@
+{
+  "date": "2026-04-10",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 183,
+    "tweets_with_repos": 25,
+    "unique_repos": 22,
+    "new_repos": 19,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "shopify/shopify-ai-toolkit",
+      "github_url": "https://github.com/shopify/shopify-ai-toolkit",
+      "tier": 1,
+      "is_new": true,
+      "score": 378.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "andrewqu",
+        "text": "wow, a very comprehensive set of skills\n\n$ npx skills add Shopify/shopify-ai-toolkit",
+        "likes": 20,
+        "url": "https://x.com/i/status/2042354319555772466"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042417029756408249",
+        "https://x.com/i/status/2042416972856500378",
+        "https://x.com/i/status/2042354319555772466"
+      ]
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "tier": 2,
+      "is_new": true,
+      "score": 622.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 139,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "试了不少前端网页生成Skill，Impeccable是为数不多好用的。\n\n安装指令：\nnpx skills add pbakaus/impeccable\n\n装好后会提供一系列指令，比如onboard专门优化空状态、渐进披露，polish用于优化打磨网页细节（字体、配色等）等。\n\n文档也特别完善，甚至还提供CLI，处理任意文件夹中的网页，安装命令：npm i -g impeccable\n\n官网见评论区",
+        "likes": 139,
+        "url": "https://x.com/i/status/2042428714487779802"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042428714487779802"
+      ]
+    },
+    {
+      "repo": "liquidiction/liquidiction-mcp",
+      "github_url": "https://github.com/liquidiction/liquidiction-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 304.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LiquidictionHL",
+        "text": "Liquidiction now has a public MCP server for HIP-4 prediction markets on Hyperliquid\n\n10 tools giving any AI agent live access to odds, orderbooks, candles, trades, and positions\n\nNo API keys needed, connects directly to Hyperliquid L1\n\nClone it, plug it into Claude or any MCP cl",
+        "likes": 58,
+        "url": "https://x.com/i/status/2042263097499349063"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042263097499349063"
+      ]
+    },
+    {
+      "repo": "supabase/agent-skills",
+      "github_url": "https://github.com/supabase/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 272.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rodriguespn23",
+        "text": "AI agents know about Supabase. They just don't always use it right.\n\nToday, we're releasing Supabase Agent Skills — open-source instructions that teach your AI agent how to build on Supabase correctly.\n\n`$ npx skills add supabase/agent-skills --skill supabase`\n\nWe share the proce",
+        "likes": 44,
+        "url": "https://x.com/i/status/2042244991464960074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042244991464960074"
+      ]
+    },
+    {
+      "repo": "d4vinci/scrapling",
+      "github_url": "https://github.com/d4vinci/scrapling",
+      "tier": 3,
+      "is_new": true,
+      "score": 271.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "D4Vinci1",
+        "text": "I’m one of the very first contributors to Camoufox and I have to ask, have you tried Scrapling?\n\nhttps://t.co/iFTNbE2feq\n\nScrapling solves all types of Cloudflare’s captcha automatically and many other features. It has an agent skill too that gets updated with each new version.\n\n",
+        "likes": 57,
+        "url": "https://x.com/i/status/2042319382236266796"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042319382236266796"
+      ]
+    },
+    {
+      "repo": "realteamprinz/midas-skill",
+      "github_url": "https://github.com/realteamprinz/midas-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hermesbroski",
+        "text": "You said \"every vertical gets its own claw.\" Here's one for wealth extraction — Midas Skill. Feed it any person, it maps their money OS. Feed it your own daily data — chats, photos, meetings — it finds signals you missed. Self-learning, compounds like interest. One obsessed perso",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042235188004987252"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042235188004987252",
+        "https://x.com/i/status/2042233987326697865"
+      ]
+    },
+    {
+      "repo": "agricidaniel/claude-ads",
+      "github_url": "https://github.com/agricidaniel/claude-ads",
+      "tier": 3,
+      "is_new": true,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yangyi",
+        "text": "出海投放不行？直接牛马AI安装这个ads skill！\n这个 Claude skill估计能干掉一些广告代理公司了。\n\n它叫 Claude Ads，一个免费的 Claude Code skill，能跑 190 项审计检查，覆盖 Google、Meta、YouTube、LinkedIn、TikTok 和 Microsoft Ads，6 个并行子代理同时开火。\n\n一条命令，直接撕开你整个广告体系。\n\nGoogle 74 项检查。 Meta 46 项。\n\n所有结果汇总成一个广告健康评分，附带按收入影响排序的优先行动方案。\n\n他里面有一个 3 倍猎杀规则来帮你快",
+        "likes": 6,
+        "url": "https://x.com/i/status/2042542952262832480"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042542952262832480"
+      ]
+    },
+    {
+      "repo": "workersio/spec",
+      "github_url": "https://github.com/workersio/spec",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "skshadan_",
+        "text": "@m5rcode 👀try it on your own : npx skills add workersio/spec",
+        "likes": 6,
+        "url": "https://x.com/i/status/2042345208327913933"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042345208327913933"
+      ]
+    },
+    {
+      "repo": "enisbu/breakpoint-preview",
+      "github_url": "https://github.com/enisbu/breakpoint-preview",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "enisdev",
+        "text": "You can also install it as an AGENT SKILL:\n `npx skills add enisbu/breakpoint-preview`",
+        "likes": 1,
+        "url": "https://x.com/i/status/2042396040888828246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042396040888828246"
+      ]
+    },
+    {
+      "repo": "migetapp/agent-skills",
+      "github_url": "https://github.com/migetapp/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "miget_com",
+        "text": "Your AI editor can write code, but can't deploy it.\n\nUntil now.\n\nOne command teaches Claude Code, Cursor, or Windsurf the entire Miget API:\n\nnpx skills add migetapp/agent-skills\n\nNow you can say \"deploy my app to production\" and it just happens. https://t.co/hhXQZ3EWUh",
+        "likes": 1,
+        "url": "https://x.com/i/status/2042347444395000122"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042347444395000122"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "irshit0",
+        "text": "@shadcn I dont I use “npx skills add emilkowalski/skill” this skill and web inspirations enough",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042528525782323404"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042528525782323404"
+      ]
+    },
+    {
+      "repo": "joserfelix/react-native-zerostyles",
+      "github_url": "https://github.com/joserfelix/react-native-zerostyles",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jose_R_Felix",
+        "text": "Introducing react-native-zerostyles: zero-dependency theming for React Native.  \n\nComponents subscribe to theme slices and skip re-renders when unrelated values change.  \n\nAdd the AI skill to get started:  \n\nnpx skills add JoseRFelix/react-native-zerostyles https://t.co/sTvBQm4qw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042450609677254882"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042450609677254882"
+      ]
+    },
+    {
+      "repo": "tabbit-browser/tabbit-devtools-skill",
+      "github_url": "https://github.com/tabbit-browser/tabbit-devtools-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TabbitBrowser",
+        "text": "Step 2: Add the Skill\nRun this in your agent's working directory:\nnpx skills add Tabbit-Browser/Tabbit-Devtools-Skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042433740450963724"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042433740450963724"
+      ]
+    },
+    {
+      "repo": "coinbase/agentic-wallet-skills",
+      "github_url": "https://github.com/coinbase/agentic-wallet-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Must_be_Ash",
+        "text": "@0xEricBrown npx skills add coinbase/agentic-wallet-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042391582687838398"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042391582687838398"
+      ]
+    },
+    {
+      "repo": "hesoyam2221/skill-release-auditor",
+      "github_url": "https://github.com/hesoyam2221/skill-release-auditor",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MaximusDev1094",
+        "text": "Built an open-source tool to catch the most common OpenClaw skill security issues. Free: https://t.co/AyReuvo7IW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042520441332306229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042520441332306229"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guangGitHub",
+        "text": "last30days-skill一句话搜遍全网最近 30 天的讨论，这个 Skill 破 10K Star 的速度史上最快。\n\n输入任意主题，自动在 Reddit、X、YouTube、TikTok、Instagram、啥的等 10 个信息源里搜索过去 30 天的相关讨论。综合整理出一份带真实引用的研究报告。\n\n它有个比较模式很实用，输入 Claude Code vs Codex 会并行跑 3 次研究，输出优劣势对比表。\n\n这个工具能让你一句话就知道此刻社区里真实在讨论什么、在用什么。\n\n我试了一下，平均 70 秒完成一次研究。18000 Star，增长非",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042540591704137934"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042540591704137934"
+      ]
+    },
+    {
+      "repo": "michaelrochonnn/financialmodels",
+      "github_url": "https://github.com/michaelrochonnn/financialmodels",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FaneFan_FF",
+        "text": "用 AI 把金融建模能力做成 Skill，放在了 Github：https://t.co/wgUap59h7k\n\n你可以把这 12 个提示词做成的 Skill 安装到你的 Codex 或 Claude，随时调用提高工作效率。\n如果你还觉得财务模型是投行、PE、咨询圈的“专业壁垒”，那你可能低估 AI 了。\n现在，AI 已经可以帮你快速搭出一套非常像投行分析师工作流的模型框架：\n\nDCF 估值模型\n\n三张表财务模型\n并购增厚/摊薄分析\nLBO 杠杆收购模型\n可比公司分析\n可比交易分析\nIPO 定价分析\n债务承载能力模型\nSOTP 分部估值\n经营模型与单位经",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042464370513600848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042464370513600848"
+      ]
+    },
+    {
+      "repo": "yeachan-heo/oh-my-codex",
+      "github_url": "https://github.com/yeachan-heo/oh-my-codex",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guangGitHub",
+        "text": "oh-my-codex把类似的多 Agent 编排理念移植到了 OpenAI Codex CLI 上。\n\n两个月从零冲到 1.4 万的Star，增长速度在开源项目里相当少见。\n\n有 30 个专业 Agent 角色和 40 多个 Skill。\n\n支持在 tmux 里启动最多 20 个 Worker 并行干活。\n\n每个 Worker 在独立的 git worktree 里运行互不干扰。\n\n还支持混合 Codex 和 Claude 的 Worker，可以同时用两家的模型协作。\n\nnpm install -g oh-my-codex 之后 omx setup 就",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042460062330089675"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042460062330089675"
+      ]
+    },
+    {
+      "repo": "ystyleb/video-localization",
+      "github_url": "https://github.com/ystyleb/video-localization",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "winsonaibuilder",
+        "text": "已开源，内置 Claude Code agent skill——把 repo 丢给 Claude 就能自动跑起来。\nhttps://t.co/ntVoq0Gccv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2042539177250820591"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2042539177250820591"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "last-emo-boy/rikune",
+      "github_url": "https://github.com/last-emo-boy/rikune",
+      "tier": 3,
+      "is_new": false,
+      "score": 393.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 76,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "secharvesterx",
+        "text": "[Tool] Rikune: A reverse-engineering MCP server that turns PE triage, Ghidra analysis, runtime evidence, and source-like reconstruction into reusable tools for any LLM\nhttps://t.co/VJ77W1iPag https://t.co/y3eC5iBpLR",
+        "likes": 76,
+        "url": "https://x.com/i/status/2041848898352800139"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041848898352800139"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 173.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.94 changelog:\n\nNew features:\n• Added support for Amazon Bedrock powered by Mantle, set CLAUDE_CODE_USE_MANTLE=1\n• Added compact Slacked #channel header with a clickable channel link for Slack MCP send-message tool calls\n• Added keep-coding-instructions frontma",
+        "likes": 21,
+        "url": "https://x.com/i/status/2041633795627987406"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041633795627987406"
+      ]
+    },
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 7,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2042214825405661677",
+      "author": "steipete",
+      "text": "GUYS WE FOUND THE GUY WHO BUILT THE GITHUB MCP SERVER https://t.co/rFrPP8Dd00",
+      "likes": 2791,
+      "views": 0,
+      "url": "https://x.com/i/status/2042214825405661677",
+      "is_kol": true,
+      "score": 8603.0
+    },
+    {
+      "id": "2042312082193072422",
+      "author": "phantom",
+      "text": "Phantom Connect and our new MCP server are live for @colosseum Frontier builders.\n\nFaster auth, agent wallets, and access to 20M+ active community members. https://t.co/HBYMRq7Hb4",
+      "likes": 490,
+      "views": 0,
+      "url": "https://x.com/i/status/2042312082193072422",
+      "is_kol": false,
+      "score": 1800.0
+    },
+    {
+      "id": "2042339116894032157",
+      "author": "zarazhangrui",
+      "text": "Don't make PowerPoints. Make HTMLs.\n\nFrontend Slides (my popular skill with 13k+ stars on GitHub) is now a feature in AnyGen. Anyone can make stunning HTML slides easily in a web interface, even without a coding agent.\n\nIn AnyGen, HTML slides are automatically EDITABLE, sharable,",
+      "likes": 377,
+      "views": 0,
+      "url": "https://x.com/i/status/2042339116894032157",
+      "is_kol": false,
+      "score": 1331.0
+    },
+    {
+      "id": "2042241056360558961",
+      "author": "twostraws",
+      "text": "There's an open-source SwiftUI agent skill that catches the mistakes AI tools keep making: deprecated modifiers, accessibility gaps, performance pitfalls. One command to install, and your AI-generated SwiftUI gets a serious quality boost. https://t.co/tYDtKC4SSu",
+      "likes": 273,
+      "views": 0,
+      "url": "https://x.com/i/status/2042241056360558961",
+      "is_kol": false,
+      "score": 924.0
+    },
+    {
+      "id": "2042224957405483094",
+      "author": "googleaidevs",
+      "text": "Watch this ADK Agent powered by Gemma 4 31B use the Google Maps MCP Server to build a custom food tour in this demo 🍜📍\n\nSee the model in action with:\n-Multi-step reasoning (solving complex routes)\n-Multimodal logic (processing visuals and text)\n-Live data integration (direct conn",
+      "likes": 230,
+      "views": 0,
+      "url": "https://x.com/i/status/2042224957405483094",
+      "is_kol": false,
+      "score": 810.0
+    },
+    {
+      "id": "2042392207425225067",
+      "author": "ihtesham2005",
+      "text": "I'm going to fire my ads agency because of this Claude skill.\n\nIts called Claude Ads a free Claude Code skill that runs 190 audit checks across Google, Meta, YouTube, LinkedIn, TikTok, and Microsoft Ads with 6 parallel subagents firing simultaneously.\n\nOne command and it tears th",
+      "likes": 203,
+      "views": 0,
+      "url": "https://x.com/i/status/2042392207425225067",
+      "is_kol": false,
+      "score": 689.0
+    },
+    {
+      "id": "2042411444453392500",
+      "author": "ralfdewrich",
+      "text": "@tmppbr 1. Sempre mande as refs do que vc quer, gosto muito dessa coleção de libs/blocks feitos em cima do shadcn: https://t.co/Sq7p4PKXks\n2. Usa essa skill, mt boa! https://t.co/yhG9JMT4Rs\n3. No Claude funciona mt bem vc dizer a \"vibe\" do teu front, tipo \"startup based in SF\"",
+      "likes": 185,
+      "views": 0,
+      "url": "https://x.com/i/status/2042411444453392500",
+      "is_kol": false,
+      "score": 585.0
+    },
+    {
+      "id": "2042196952033513596",
+      "author": "Shelpid_WI3M",
+      "text": "🚨BREAKING: A Chinese student just gave Claude full access to options, equities, and prediction markets.\n\nHe built an MCP Server that plugs into any AI and streams live, structured market data on demand.\n\nBuild trading bots, smart money dashboards, screeners. Whatever you want.\n\nP",
+      "likes": 157,
+      "views": 0,
+      "url": "https://x.com/i/status/2042196952033513596",
+      "is_kol": false,
+      "score": 556.0
+    },
+    {
+      "id": "2042337200147140991",
+      "author": "ShopifyDevs",
+      "text": "The Dev MCP server got an upgrade",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2042337200147140991",
+      "is_kol": false,
+      "score": 529.0
+    },
+    {
+      "id": "2042263594373353832",
+      "author": "_ashleypeacock",
+      "text": "TIL you can create a stateless MCP server with Cloudflare's Agents SDK directly in a Worker, with a few lines of code, and no Durable Object required https://t.co/qfsEv1xXWF",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2042263594373353832",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2042495894722134174",
+      "author": "cyrilXBT",
+      "text": "MOST AI TOOLS FORGET EVERYTHING AFTER EVERY SESSION.\n\nYou start from scratch every single time.\n\nHERMES AGENT JUST CHANGED THAT.\n\nIt took Karpathy's entire LLM wiki and turned it into a BUILT IN SKILL.\n\nNot a reference you have to paste in manually.\n\nNot a document you have to up",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2042495894722134174",
+      "is_kol": false,
+      "score": 283.0
+    },
+    {
+      "id": "2042312280935747596",
+      "author": "elhackernet",
+      "text": "Microsoft presenta ➡️ SQL MCP Server\nhttps://t.co/2Whjg2q6W1",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2042312280935747596",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2042485030262616180",
+      "author": "RhysSullivan",
+      "text": "your MCP server should include skills in the resources part of it, and for clients that don't support resources ship a 'load_resources' tool as a fallback",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2042485030262616180",
+      "is_kol": false,
+      "score": 259.0
+    }
+  ]
+}

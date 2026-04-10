@@ -678,5 +678,81 @@
   "hybridaione/hybridclaw": {
     "first_seen": "2026-04-09",
     "tier": 3
+  },
+  "shopify/shopify-ai-toolkit": {
+    "first_seen": "2026-04-10",
+    "tier": 1
+  },
+  "pbakaus/impeccable": {
+    "first_seen": "2026-04-10",
+    "tier": 2
+  },
+  "liquidiction/liquidiction-mcp": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "supabase/agent-skills": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "d4vinci/scrapling": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "realteamprinz/midas-skill": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "agricidaniel/claude-ads": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "workersio/spec": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "enisbu/breakpoint-preview": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "migetapp/agent-skills": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "emilkowalski/skill": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "joserfelix/react-native-zerostyles": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "tabbit-browser/tabbit-devtools-skill": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "coinbase/agentic-wallet-skills": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "hesoyam2221/skill-release-auditor": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "mvanhorn/last30days-skill": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "michaelrochonnn/financialmodels": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "yeachan-heo/oh-my-codex": {
+    "first_seen": "2026-04-10",
+    "tier": 3
+  },
+  "ystyleb/video-localization": {
+    "first_seen": "2026-04-10",
+    "tier": 3
   }
 }
