@@ -754,5 +754,69 @@
   "ystyleb/video-localization": {
     "first_seen": "2026-04-10",
     "tier": 3
+  },
+  "googleapis/mcp-toolbox": {
+    "first_seen": "2026-04-11",
+    "tier": 2
+  },
+  "markdown-viewer/skills": {
+    "first_seen": "2026-04-11",
+    "tier": 2
+  },
+  "elevenlabs/skills": {
+    "first_seen": "2026-04-11",
+    "tier": 2
+  },
+  "mhaggis/security-detections-mcp": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "yoheinakajima/selfmcp": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "garrytan/gbrain": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "k-dense-ai/scientific-agent-skills": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "pamelafox/review-pr-comments": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "haizelabs/skills": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "vectorclawagent/vectorclaw": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "stvlynn/skills": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "alchaincyf/nuwa-skill": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "expo/skills": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "kucherenko/jscpd": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "yizhiyanhua-ai/fireworks-tech-graph": {
+    "first_seen": "2026-04-11",
+    "tier": 3
+  },
+  "social5h3ll/aapanel-openclaw-skill": {
+    "first_seen": "2026-04-11",
+    "tier": 3
   }
 }
