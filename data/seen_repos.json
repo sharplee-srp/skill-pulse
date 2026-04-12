@@ -818,5 +818,61 @@
   "social5h3ll/aapanel-openclaw-skill": {
     "first_seen": "2026-04-11",
     "tier": 3
+  },
+  "microsoft/mcp-interactiveui-samples": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "polymarket/agents": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "davis7dotsh/better-context": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "hatemhosny/diagrams-js": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "tw93/waza": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "calesthio/openmontage": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "botcoinmoney/botcoin-miner-skill": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "blinks-labs/superteam-copilot": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "netkr/mini-hids": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "ryjo/moshi-skill": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "hqhq1025/hermes-setup-skill": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "snjyor/code-distiller": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "iliaal/ai-skills": {
+    "first_seen": "2026-04-12",
+    "tier": 3
+  },
+  "iamjimthefish/get-better-frontends-from-codex": {
+    "first_seen": "2026-04-12",
+    "tier": 3
   }
 }
