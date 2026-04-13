@@ -874,5 +874,61 @@
   "iamjimthefish/get-better-frontends-from-codex": {
     "first_seen": "2026-04-12",
     "tier": 3
+  },
+  "n2kfchd42b-glitch/bug-repro-engine": {
+    "first_seen": "2026-04-13",
+    "tier": 1
+  },
+  "entropy-foundation/supra-dev-skills": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "alexknowshtml/claude-skills": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "shintarominami/mican": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "dominikmartn/nothing-design-skill": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "kyoya1123/instruments-profiler": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "jvogan/symphony-linear-starter": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "openai/codex-plugin-cc": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "nansen-ai/nansen-cli": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "skb2026/dragonborne": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "tanweai/pua": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "flntfnd/claude-skills": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "sensationheal/picturebook-skill": {
+    "first_seen": "2026-04-13",
+    "tier": 3
+  },
+  "proyecto26/notebooklm-ai-plugin": {
+    "first_seen": "2026-04-13",
+    "tier": 3
   }
 }
