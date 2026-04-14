@@ -930,5 +930,49 @@
   "proyecto26/notebooklm-ai-plugin": {
     "first_seen": "2026-04-13",
     "tier": 3
+  },
+  "github/gh-stack": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "williamwarlick/repo-skeptic": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "karad/seiro-mcp": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "meet-miyani/compose-skill": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "binance/binance-skills-hub": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "arcium-hq/agent-skills": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "trionlabs/stellar-8004": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "byreal-git/byreal-agent-skills": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "skystmm/ai-content-detector": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "lism-css/lism-css": {
+    "first_seen": "2026-04-14",
+    "tier": 3
+  },
+  "zubair-trabzada/geo-seo-claude": {
+    "first_seen": "2026-04-14",
+    "tier": 3
   }
 }

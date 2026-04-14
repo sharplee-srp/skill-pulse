@@ -1,0 +1,517 @@
+{
+  "date": "2026-04-14",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 186,
+    "tweets_with_repos": 30,
+    "unique_repos": 18,
+    "new_repos": 11,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "github/gh-stack",
+      "github_url": "https://github.com/github/gh-stack",
+      "tier": 3,
+      "is_new": true,
+      "score": 220.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vikingmute",
+        "text": "GitHub新推出的这个GitHub Stacked PRs 真的是太及时了 \n\nhttps://t.co/gzHukwSkKR\n\n现在有了AI以后 PR越来越大 经常有一万多行的PR \n现在可以拆分成多个独立的小PR 每个 PR 都可以独立运行 CI，不互相阻塞\n\nGitHub 提供了官方 CLI 扩展 gh stack来方便的管理 还有一个skill 让 AI agent可以更快的使用\n\nnpx skills add github/gh-stack\n\n目前是在private测试 很期待公开的那一天",
+        "likes": 5,
+        "url": "https://x.com/i/status/2043935792872001959"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043992855631290497",
+        "https://x.com/i/status/2043935792872001959"
+      ]
+    },
+    {
+      "repo": "williamwarlick/repo-skeptic",
+      "github_url": "https://github.com/williamwarlick/repo-skeptic",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DeafLem0n",
+        "text": "Useful post. I turned that checklist into repo-skeptic: a quick pre-trust audit for GitHub repos before you clone/install them.\n\nInstall via https://t.co/UwjM1uZ7Ww:\nnpx skills add williamwarlick/repo-skeptic --skill repo-skeptic\n\nhttps://t.co/hDsacdqKhj",
+        "likes": 1,
+        "url": "https://x.com/i/status/2043798226956902913"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043799406844027248",
+        "https://x.com/i/status/2043798226956902913"
+      ]
+    },
+    {
+      "repo": "karad/seiro-mcp",
+      "github_url": "https://github.com/karad/seiro-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kara_d",
+        "text": "Seiro MCP v0.4.0 をリリースしました。`.agents/skills` を Codex Skill のデフォルトにし、また GitHub 経由の `skill-installer` もサポートしました。CLI `seiro-mcp skill install` も引き続き使えます。\nhttps://t.co/VxbpfNPK9R\n#codex #visionos",
+        "likes": 1,
+        "url": "https://x.com/i/status/2043975678648037705"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043975678648037705",
+        "https://x.com/i/status/2043974802734719026"
+      ]
+    },
+    {
+      "repo": "meet-miyani/compose-skill",
+      "github_url": "https://github.com/meet-miyani/compose-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MeetMiyani2210",
+        "text": "@hamen Once you get score, try this to improve your code.\n\ncompose-skill — open-source agent skill with deep-dive references on MVI, Nav 3, Ktor, Room, DataStore, Paging 3, Koin/Hilt, Compose Multiplatform, and more.\n\nWorks with Codex, Cursor, Claude Code.\n\nhttps://t.co/kp9prxjzl",
+        "likes": 1,
+        "url": "https://x.com/i/status/2043921856001126518"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043968033178431792",
+        "https://x.com/i/status/2043921856001126518"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": true,
+      "score": 178.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EvaCmore",
+        "text": "前几天看到 lana大佬 用 Claude 写的 AI 交易脚本，8 天从 100U 做到 4.8W U，这个案例太牛了，也让我重新去重视 AI 交易这件事。\n\n说实话，我自己也装了一堆 Skill，但很多时候会有一种感觉：好像真正用起来的没几个。但另一方面，确实有人在用这些工具赚钱，而且这一个多月，交易所 Skill 的迭代速度是明显在加快的。\n\n现在 Binance Skills Hub 已经有二十多个 Skill，4 月初那波还一次性加了13个。不过大部分人，其实还停留在“看信息”这一步，真正用来做交易的还不多。\n\n我整理了一下目前比较真实的使用场",
+        "likes": 21,
+        "url": "https://x.com/i/status/2043972384143913039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043972384143913039"
+      ]
+    },
+    {
+      "repo": "arcium-hq/agent-skills",
+      "github_url": "https://github.com/arcium-hq/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 175.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rodionadov",
+        "text": "Arcium just shipped Agent Skills.\n\nOne command gives your AI agent full context for building encrypted apps on Solana with Arcium.\n\nAuto-installs to Claude Code, Codex, Cursor, and 40+ other agents.\n\nWhat the skill covers:\n- Circuit development\n- Anchor integration\n- Client SDK\n-",
+        "likes": 25,
+        "url": "https://x.com/i/status/2043743008575946809"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043743008575946809"
+      ]
+    },
+    {
+      "repo": "trionlabs/stellar-8004",
+      "github_url": "https://github.com/trionlabs/stellar-8004",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trionlabs",
+        "text": "One command:\n\n🤖 npx skills add trionlabs/stellar-8004 --skill 8004s\n\nYour coding agent can register agents, submit feedback, and query reputation from the terminal.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2043812161496236430"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043812161496236430"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "5 Invite Codes:\n\n52FYEV\n382NNW\nEARG9J\nWQY4HT\n77KP4U\n\nℹ️ ICYMI: If you have an agent, get it to install Byreal Agent Skills in 2 minutes.\nJust say, \"npx skills add byreal-git/byreal-agent-skills\"",
+        "likes": 1,
+        "url": "https://x.com/i/status/2043945582188806318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043945582188806318"
+      ]
+    },
+    {
+      "repo": "skystmm/ai-content-detector",
+      "github_url": "https://github.com/skystmm/ai-content-detector",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "skystmm1",
+        "text": "做了一个 AI 写作检测 Skill。\nOpenClaw/Hermes/Claude code 可以直接用，独立跑也行。\n纯统计分析，零成本。五个指标：句子变化性、词汇丰富度、标点模式、段落结构、句式模板。\n跑一次 node index.js article.txt，直接输出 AI 占比。\nGitHub：https://t.co/Agxktwk9sS",
+        "likes": 1,
+        "url": "https://x.com/i/status/2043944629905830001"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043944629905830001"
+      ]
+    },
+    {
+      "repo": "lism-css/lism-css",
+      "github_url": "https://github.com/lism-css/lism-css",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lismcss",
+        "text": "Please update your Skills (npx skills add lism-css/lism-css) and ask your AI agent to apply the fixes! 👍",
+        "likes": 0,
+        "url": "https://x.com/i/status/2043753623277187171"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043753623277187171"
+      ]
+    },
+    {
+      "repo": "zubair-trabzada/geo-seo-claude",
+      "github_url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RiverVanRain",
+        "text": "GEO-first #SEO skill for #Claude Code https://t.co/WTHjgHAXfB",
+        "likes": 0,
+        "url": "https://x.com/i/status/2043988793477214351"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043988793477214351"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 1668.0,
+      "mention_count": 9,
+      "kol_mentions": [],
+      "total_likes": 241,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xaurSkyo",
+        "text": "最近看推特上 @SurfAI  的 Surf Skill 特别火，我也没忍住，自己上手深度体验了一把。\n\n它的接入确实很丝滑，在 Claude Code 里跑下面这一行命令，基本就装好了：\nnpx skills add asksurf-ai/surf-skills -y -g\n\n简单方便。\n刚好我最近也在玩预测，就直接让它帮我查Polymarket、Kalshi 的全量数据，还有加密市场里的实时价格、市值排名、恐贪指数、技术指标（RSI/MACD）、ETF 资金流这些内容。\n\n整个过程给我的感觉就是：快，而且省事。\n你不需要自己到处切页面，也不用手动拼一",
+        "likes": 60,
+        "url": "https://x.com/i/status/2043856519838740769"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043950428224925895",
+        "https://x.com/i/status/2043905357618233564",
+        "https://x.com/i/status/2043735882382102583",
+        "https://x.com/i/status/2043980899151426041",
+        "https://x.com/i/status/2043996395200491794",
+        "https://x.com/i/status/2043902880445567077",
+        "https://x.com/i/status/2043856602168733716",
+        "https://x.com/i/status/2043856519838740769",
+        "https://x.com/i/status/2043818962589495754"
+      ]
+    },
+    {
+      "repo": "tw93/waza",
+      "github_url": "https://github.com/tw93/waza",
+      "tier": 3,
+      "is_new": false,
+      "score": 393.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HiTw93",
+        "text": "继续和大伙聊我在 Waza 里面设计 Skill 的一些技术想法实现，这次聊的是我是如何设计 /check 这个代码 Review 技能的。\n\n首先我们需要知道模型本身告诉你他做完了，不一定是做完了，很有可能会留下一些不存在或者有问题的东西，经常会藏些问题，在 Agent 设计中我的工程经验是会给模型一个checklist用来校验是否真的做完了，这样往往会比你让他去检查效果好太多了。\n\n/check 最开始做的时候设计就不是一个大而全的 reviewer，而是一个编排分工能力系统，其中 SKILLmd 是主审，负责审查的分级和流程控制，agents/ 下",
+        "likes": 86,
+        "url": "https://x.com/i/status/2043832353621983448"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043832353621983448"
+      ]
+    },
+    {
+      "repo": "nicholasspisak/second-brain",
+      "github_url": "https://github.com/nicholasspisak/second-brain",
+      "tier": 3,
+      "is_new": false,
+      "score": 355.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyganim",
+        "text": "Karpathy's LLM Wiki pattern went viral. 41K bookmarks on one post.\n\n@NickSpisak_ built a complete implementation you can install in 60 seconds. No code. Works with Claude Code, Codex, Cursor, or Gemini CLI.\n\nHere's what it does:\n\n→ One command setup. Run npx skills add NicholasSp",
+        "likes": 70,
+        "url": "https://x.com/i/status/2043777491886846275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043777491886846275"
+      ]
+    },
+    {
+      "repo": "himself65/finance-skills",
+      "github_url": "https://github.com/himself65/finance-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 192.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiwithjainam",
+        "text": "Someone built a Bloomberg Terminal skill for Claude and made it free.\n\nIt's called finance-skills and it runs directly inside Claude Code or https://t.co/x56Fq7zygA with one install command.\n\nMost people use Claude for writing and coding. The people who figure this out are going ",
+        "likes": 14,
+        "url": "https://x.com/i/status/2043972220834460080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043972220834460080"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "k_dense_ai",
+        "text": "We just released an updated skill for Parallel Web Systems (@p0) as part of our Scientific Agent Skills ecosystem. Now your agent scientist can use the Parallel CLI to perform search, deep search, webpage extraction and data enrichment. Also available in K-Dense BYOK and K-Dense ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2043880880863908267"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043880880863908267"
+      ]
+    },
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 8,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shreem_ai",
+        "text": "The Tech\n\nBuilt as a Claude Code plugin (one-line install)\nWorks with 10+ agents: Gemini, Cursor, Windsurf, Cline, Copilot, etc.\n\nPython-based, MIT licensed\n\nShips with evals—three-arm study proving the delta real (not vs baseline, but vs \"answer concisely\")\n\nInstall:\n\nclaude plu",
+        "likes": 0,
+        "url": "https://x.com/i/status/2043971075323883638"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043971075323883638"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2043809600546451738",
+      "author": "dinnaiii",
+      "text": "People of pi, meet pi-executor. \n\nuse any MCP, OpenAPI, or GraphQL API through a shared execution layer.\n\n - keeps giant API schemas out of your context.\n - gives pi a single tool to discover and call tools.\n - handles auth and interactive flows.\n\n2 tools + 1 skill, that's it.\n\nB",
+      "likes": 309,
+      "views": 0,
+      "url": "https://x.com/i/status/2043809600546451738",
+      "is_kol": false,
+      "score": 1032.0
+    },
+    {
+      "id": "2043872109592801728",
+      "author": "kylegeeks",
+      "text": "我分享下我的优化论文实战经验：\n\n1. 一定要用 Claude 模型，可以是 Claude Sonnet 4.6 但是最好是 Claude Opus 4.6\n\n2. 安装这个 skill： https://t.co/wCcffczCb7…\n  /paper-review 能帮你把文章用拒稿专家角色给出审核意见\n  /paper-writing 在给出审核意见之后，进行学术性文风修改\n\n3. 不要想着一次能修改完整篇论文，LLM 目前最大的短板是上下文长度问题。 一定要把你的文章先让 AI 从 word 转为 markdown，并按章节划分储存。\n\n4. ",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2043872109592801728",
+      "is_kol": false,
+      "score": 633.0
+    },
+    {
+      "id": "2043720872758837445",
+      "author": "GoogleCloudTech",
+      "text": "Improve the quality of your answers with the new Developer Knowledge API &amp; MCP server! Together, the tools provide a canonical, machine-readable gateway to our official developer docs.\n\nRead how we're delivering our docs corpus directly to your AI tools → https://t.co/pn0z7M2",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2043720872758837445",
+      "is_kol": false,
+      "score": 607.0
+    },
+    {
+      "id": "2043916417381073045",
+      "author": "ThePalmTreeNW",
+      "text": "1/8 A major step for #AI &amp; #Web3 just went live: \nMvX SC MCP🚀\n\nThis new tool connects AI agents directly with @MultiversX smart contracts.\n\nMore than a technical release, it signals something bigger: a future where software agents can interact with blockchain infra autonomous",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2043916417381073045",
+      "is_kol": false,
+      "score": 496.0
+    },
+    {
+      "id": "2043716728354660354",
+      "author": "RookieRicardoR",
+      "text": "烟花老师的画图 Skill 我亲测了一下，用 Claude Sonnet 画了一张 Agent Loop 示意图（Claude Official 风格），\n\n完善度非常好，但是颜色配比似乎有些问题，Claude 官方的颜色应该再比这个浅一些。\n\n图二是我自己写的提示词效果图，拿来做一个对比。 https://t.co/8svX2r839j",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2043716728354660354",
+      "is_kol": false,
+      "score": 393.0
+    },
+    {
+      "id": "2043705197030002904",
+      "author": "_philschmid",
+      "text": "Here are 8 practical tips for writing better agent skills.\n\nStarting from what kind of skills exist to knowing when to retire a skill. Read the full guide 👇🏻",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2043705197030002904",
+      "is_kol": false,
+      "score": 379.0
+    },
+    {
+      "id": "2043690803537809646",
+      "author": "coingecko",
+      "text": "Build and ship data-rich crypto apps in minutes! ⚡\n\nIntroducing the CoinGecko Agent Skill – give your AI coding assistant native knowledge of the CoinGecko API.\n\nSee how it works 👇🧵 https://t.co/ifyWhdJYPj",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2043690803537809646",
+      "is_kol": false,
+      "score": 272.0
+    },
+    {
+      "id": "2043618046896742910",
+      "author": "techNmak",
+      "text": "The ultimate backbone for AI web agents just hit 36.5k+ stars.\n\nOne framework. Handles everything. Works everywhere.\n→ Single HTTP requests \n→ Concurrent Spider crawls \n→ Cloudflare bypass \n→ CLI extraction \n→ MCP Server\n\nWhat is adaptive scraping?\nAI agents are smart but their w",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2043618046896742910",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2043694347225596022",
+      "author": "yyyole",
+      "text": "用了那么多AI，那么多agent，\n装了那么多Skill，\n可以用AI搞定几乎所有的事情。\n\n但为什么，坐在电脑前的时间反而更多了呢？",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2043694347225596022",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2043724399371538531",
+      "author": "DJohnstonEC",
+      "text": "Announcing: The Morpheus Skill.\n\nIts here to kill your Claude bill.\n\n- Add the Morpheus Skill to your Hermes Agent.\n- Add the Morpheus Skill to your Open Claw.\n- Add the Morpheus Skill to your Iron Claw.\n\n\"EverClaw\" is now the Morpheus Skill. https://t.co/7kZZdjLvnr",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2043724399371538531",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2043836600568651903",
+      "author": "RicardianBase",
+      "text": "Same. Here’s what we shipped on @base:\n\nLegal contracts + smart contracts, SHA-256 linked. USDC escrow with milestone release. MCP server so agents can transact directly. Oracle triggers off GitHub and HTTP. Full KYC/AML, audit trail, contract templates, API keys.\n\nContract infra",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2043836600568651903",
+      "is_kol": false,
+      "score": 198.0
+    }
+  ]
+}
