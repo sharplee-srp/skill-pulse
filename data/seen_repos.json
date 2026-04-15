@@ -974,5 +974,53 @@
   "zubair-trabzada/geo-seo-claude": {
     "first_seen": "2026-04-14",
     "tier": 3
+  },
+  "mukul975/cve-mcp-server": {
+    "first_seen": "2026-04-15",
+    "tier": 2
+  },
+  "kurtisvg/skillful-mcp": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "owenpawl/ghidra-re-skill": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "hey-stefan/portfolio-audit": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "callstackincubator/agent-react-devtools": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "forcedotcom/afv-livrary": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "praneybehl/llm-wiki-plugin": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "jasperdevs/slop-cleanup": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "terraphim/terraphim-skills": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "unclecheng-li/ai-animation-skill": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "openclaw/skills": {
+    "first_seen": "2026-04-15",
+    "tier": 3
+  },
+  "vercel/vercel-deploy-claude-code-plugin": {
+    "first_seen": "2026-04-15",
+    "tier": 3
   }
 }

@@ -1,0 +1,493 @@
+{
+  "date": "2026-04-15",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 192,
+    "tweets_with_repos": 16,
+    "unique_repos": 16,
+    "new_repos": 12,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "mukul975/cve-mcp-server",
+      "github_url": "https://github.com/mukul975/cve-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 1424.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 323,
+      "total_retweets": 71,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&amp;CK, Shodan, VirusTotal, and more. https://t.co/j9PtJbGo2M",
+        "likes": 323,
+        "url": "https://x.com/i/status/2044051617301885266"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044051617301885266"
+      ]
+    },
+    {
+      "repo": "kurtisvg/skillful-mcp",
+      "github_url": "https://github.com/kurtisvg/skillful-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pydantic",
+        "text": "skillful-mcp is MCP middleware that turns your servers into on-demand skills.\nGitHub's MCP server has 40+ tools. With skillful-mcp you split it into focused skills (issues, PRs, actions) and the agent only loads what it needs.\n\nBuilt using Monty: https://t.co/Ffyrm3uXqR",
+        "likes": 36,
+        "url": "https://x.com/i/status/2043973491053973692"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2043973491053973692"
+      ]
+    },
+    {
+      "repo": "owenpawl/ghidra-re-skill",
+      "github_url": "https://github.com/owenpawl/ghidra-re-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Claude Code / Codex Skill for Ghidra https://t.co/5U7IhEla3X",
+        "likes": 31,
+        "url": "https://x.com/i/status/2044302299200200990"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044302299200200990"
+      ]
+    },
+    {
+      "repo": "hey-stefan/portfolio-audit",
+      "github_url": "https://github.com/hey-stefan/portfolio-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 228.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "有人做了一款名为 portfolio-audit 的 skills，深度调研了知名设计社区 Dive Club 的所有节目，提取了关于作品集制作、招聘标准以及如何脱颖而出的核心观点，打包成了 skills，可以通过 npx skills add hey-stefan/portfolio-audit 安装。\n\n国内是不是也可以做这种类似的，把各大厂的招聘标准和话术做成 skills？\n\nhttps://t.co/iMrPeLByIb",
+        "likes": 36,
+        "url": "https://x.com/i/status/2044294914239037896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044294914239037896"
+      ]
+    },
+    {
+      "repo": "callstackincubator/agent-react-devtools",
+      "github_url": "https://github.com/callstackincubator/agent-react-devtools",
+      "tier": 3,
+      "is_new": true,
+      "score": 128.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kazutoyo",
+        "text": "agent-react-devtoolsが公開された！\n \"npx skills add callstackincubator/agent-react-devtools\" でスキルを追加することで、AIエージェントがReact/React Nativeのコンポーネントツリーやプロファイリングに直接アクセスして自律でデバッグできるようになる\nhttps://t.co/HyJ3uzs0AU",
+        "likes": 6,
+        "url": "https://x.com/i/status/2044217573420740881"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044217573420740881"
+      ]
+    },
+    {
+      "repo": "forcedotcom/afv-livrary",
+      "github_url": "https://github.com/forcedotcom/afv-livrary",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geeorgey",
+        "text": "npx skills add forcedotcom/afv-livrary",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044197648937431105"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044197648937431105"
+      ]
+    },
+    {
+      "repo": "praneybehl/llm-wiki-plugin",
+      "github_url": "https://github.com/praneybehl/llm-wiki-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "praneybehl",
+        "text": "Install in Claude Code:                                                                                                                                                \n  /plugin marketplace add praneybehl/llm-wiki-plugin                                                            ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044357296382513362"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044357296382513362"
+      ]
+    },
+    {
+      "repo": "jasperdevs/slop-cleanup",
+      "github_url": "https://github.com/jasperdevs/slop-cleanup",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jasperdevs",
+        "text": "the quality of my vibecoded slop was terrible until I found this prompt, and its worked amazingly\n\nso I made it into a skill and wow this is crazy how well it works\n\nnpx skills add jasperdevs/slop-cleanup\n\nobviously all credit to creator of this https://t.co/ShuwMooUfH",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044342774380535837"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044342774380535837"
+      ]
+    },
+    {
+      "repo": "terraphim/terraphim-skills",
+      "github_url": "https://github.com/terraphim/terraphim-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alex_mikhalev",
+        "text": "Install in 30 seconds:\n\nnpx skills add terraphim/terraphim-skills\n\nYour AI agent now follows:\n- disciplined-research\n- disciplined-design\n- disciplined-implementation\n- disciplined-verification\n- disciplined-validation",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044131879100555560"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044131879100555560"
+      ]
+    },
+    {
+      "repo": "unclecheng-li/ai-animation-skill",
+      "github_url": "https://github.com/unclecheng-li/ai-animation-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "AI-Animation.skill\n使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。\n\n基于整理好的 Prompt 模板集成的 Skill， 配合 OpenClaw、Workbuddy、QClaw 等 AI 使用， 三步自动完成「科普文本 → 炫酷动画」的转换。\n\nhttps://t.co/P1ynoYyyAv https://t.co/eeVBLBVyx0",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044327868314894421"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044327868314894421"
+      ]
+    },
+    {
+      "repo": "openclaw/skills",
+      "github_url": "https://github.com/openclaw/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-04-14\n\nToday’s picks are about making agents more dependable as OpenClaw leans harder into memory and safer execution: one gives you a deeper long-term memory architecture, and the other helps you audit whether a skill is actually ready to trust ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044249950947815665"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044249950947815665"
+      ]
+    },
+    {
+      "repo": "vercel/vercel-deploy-claude-code-plugin",
+      "github_url": "https://github.com/vercel/vercel-deploy-claude-code-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "michabbb",
+        "text": "Here’s a short tweet for you:\n🚨 Devs beware: a #Vercel plugin inside #Claude Code was found collecting telemetry — including full bash commands 😬\n\nHidden consent prompts + unclear data usage = ⚠️\n\n🔗 https://t.co/NGXYPmxi4Q\n🔗 https://t.co/qor3P6od3j\n\n#AI #Security #DevTools",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044351750988276112"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044351750988276112"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 8,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    },
+    {
+      "repo": "trionlabs/stellar-8004",
+      "github_url": "https://github.com/trionlabs/stellar-8004",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trionlabs",
+        "text": "Register your agents on https://t.co/CbKxGr7K56\n \n🤖 npx skills add trionlabs/stellar-8004 --skill 8004stellar",
+        "likes": 1,
+        "url": "https://x.com/i/status/2044173564668981475"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044173564668981475"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "isaaacdotdev",
+        "text": "just run:\n\nnpx skills add mattpocock/skills\n\nand pick the ones you want.\nhttps://t.co/2v5XRbxvsL",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044156369033375971"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044156369033375971"
+      ]
+    },
+    {
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sainathgupta",
+        "text": "fireworks-tech-graph just crossed 2.7k stars — and CEO should pay attention. Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent…\n\nhttps://t.co/qSPC0FS2Kw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044332462076010774"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044332462076010774"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2044190761609244986",
+      "author": "Teknium",
+      "text": "This skill is now built in to Hermes! \n\nUse \n\n/architecture-diagram &lt;prompt&gt; \n\nafter updating hermes, and you're good to go!\n\nThanks to the author of the skill making it MIT we were able to port it over directly into Hermes Agent as a built in skill! https://t.co/CVfMGpPQp6",
+      "likes": 1767,
+      "views": 0,
+      "url": "https://x.com/i/status/2044190761609244986",
+      "is_kol": false,
+      "score": 5916.0
+    },
+    {
+      "id": "2044289832688726376",
+      "author": "Teknium",
+      "text": "Tip of the day:\n\nIf you need help with configs, settings, setup, usage, exploration, tutorials, or development on Hermes Agent, just type /hermes-agent <prompt>\n\nBuilt in skill that gives your agent all the knowledge of every CLI command, config, resource links, best practices, a",
+      "likes": 241,
+      "views": 0,
+      "url": "https://x.com/i/status/2044289832688726376",
+      "is_kol": false,
+      "score": 838.0
+    },
+    {
+      "id": "2044085459845034484",
+      "author": "CoinbaseDev",
+      "text": "Imagine if your AI assistant could independently search for a new API tool, check the price, pay for it, and use it, all in seconds.\n\nToday we are launching Bazaar MCP: the first discovery marketplace for AI tools and APIs. 🛒🤖\n\nHere is why this matters 🧵👇 https://t.co/NNQOTz9hTc",
+      "likes": 159,
+      "views": 0,
+      "url": "https://x.com/i/status/2044085459845034484",
+      "is_kol": false,
+      "score": 622.0
+    },
+    {
+      "id": "2044039892569919868",
+      "author": "poezhao0605",
+      "text": "A 20-year-old Beijing dumpling restaurant built an MCP server Skill for OpenClaw. The owner, a BUPT CS grad who never worked in tech, finished it in a few hours. Customers query menus and grab Meituan queue numbers through natural language on any compatible agent platform.\n\nThree",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2044039892569919868",
+      "is_kol": false,
+      "score": 597.0
+    },
+    {
+      "id": "2044225130730270893",
+      "author": "ianneo_ai",
+      "text": "继续分享一个狠东西\n\ngithub 上有个开源的 Claude Skill，叫 architecture-diagram-generator\n\n你只要跟它说人话：前端 React，后端 Node，数据库 Postgres。。。它直接给你吐出一张能看的架构图\n\n就一个 HTML 文件，暗色底 + 语义化配色，前端青、后端绿、数据库紫、云服务琥珀\n\n纯 SVG，一行 js 都没有\n\n以前画架构图还得打开 excalidraw 拖半天，现在跟 Claude 说一句就完事了\n\nSkill 这个形态真的狠，装一次，后面所有场景都自动省事\n\n这才叫 AI 工作流嘛",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2044225130730270893",
+      "is_kol": false,
+      "score": 500.0
+    },
+    {
+      "id": "2044104050757775764",
+      "author": "edgarpavlovsky",
+      "text": "We're open sourcing agentchat - it's a skill that teaches agents to make group chats together.\n\nAny agent, any machine. Put your OpenClaw in a chat with all your friends' claws.\n\nAgent communication is #1 for us at @runpentagon - agentchat lets you DIY.\n\nSkill below 👇",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2044104050757775764",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2044306491654713691",
+      "author": "ZSkyX7",
+      "text": "This is essentially the design to /skill.md page for agent-friendly sites. \n\nThe agent first reads the skill, where there's guidance on how to navigate the site -- providing routes to skills and APIs. Then the API can reference more /skill.md and APIs. \n\nThe hardest part is on op",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2044306491654713691",
+      "is_kol": false,
+      "score": 484.0
+    },
+    {
+      "id": "2044088487595417918",
+      "author": "dfinity",
+      "text": "ckBTC is easy to get wrong without proper context: wrong canister ID, a forgotten 10 satoshi fee, or deposits that never arrive because nobody called update_balance.\n\nThe ckBTC skill teaches your agent:\n\n→ the full deposit flow: BTC → unique per-user address → update_balance → ck",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2044088487595417918",
+      "is_kol": false,
+      "score": 423.0
+    },
+    {
+      "id": "2044270748773257659",
+      "author": "onirenaud",
+      "text": "Just Implemented headless MCP server that gives Claude direct access to Metal GPU traces for any WebGPU app in seconds.\n\nThis could completely change web 3D workflows.\n\nThat report took under a minute. 💯😭🙌 https://t.co/tLE9fIX3OC",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2044270748773257659",
+      "is_kol": false,
+      "score": 395.0
+    },
+    {
+      "id": "2043997294329254229",
+      "author": "DataChaz",
+      "text": "🚨 Stop copy-pasting context into your AI.\n\nLet your browser do the work.\n\n@Opera_neon_ is the first major AI browser to build an MCP server natively into its core, and that changes everything:\n\n→ connect to @claudeai, @Lovable, @n8n_io, and others\n→ no manual logins needed to acc",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2043997294329254229",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2044113517943632072",
+      "author": "EXM7777",
+      "text": "i trained my Hermes agent to help me make better decisions...\n\n- loaded it with game theory principles and business strategy frameworks\n- injected my personal context and communication style\n- built a skill optimized for intelligent choices\n\ni usually work through problems alone,",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2044113517943632072",
+      "is_kol": false,
+      "score": 358.0
+    },
+    {
+      "id": "2044110021219553767",
+      "author": "Saboo_Shubham_",
+      "text": "Self-improving agent skills built with Google Agent Development Kit and Gemini 3.\n\nThis multi-agent system that takes any agent skill, runs it against test scenarios, diagnoses failures, and fixes itself.\n\n100% Opensource. https://t.co/7IZZNBUvfW",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2044110021219553767",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2044108899180040514",
+      "author": "TukiFromKL",
+      "text": "holy shit.. someone finally killed the design-to-code handoff..\n\nWonder is a design tool where everything on the canvas is real code.. not exported code.. not copied CSS.. the design IS the code.. 1:1..\n\ngenerate flows with AI.. connect your codebase via MCP.. what you design is ",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2044108899180040514",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2044158570196021596",
+      "author": "PiSquared",
+      "text": "we built skill-optimizer so anyone can ship good agent skills without wasting time on trial and error.\n\nnow we’re open sourcing it to make skills easier to evaluate, improve, and adapt effortlessly across multiple LLMs.\n\nrepo link ⬇️ https://t.co/YhZcHIoDEz",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2044158570196021596",
+      "is_kol": false,
+      "score": 286.0
+    }
+  ]
+}
