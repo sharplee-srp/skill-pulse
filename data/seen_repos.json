@@ -1022,5 +1022,49 @@
   "vercel/vercel-deploy-claude-code-plugin": {
     "first_seen": "2026-04-15",
     "tier": 3
+  },
+  "microsoft/markitdown": {
+    "first_seen": "2026-04-16",
+    "tier": 2
+  },
+  "skydoves/android-skills-mcp": {
+    "first_seen": "2026-04-16",
+    "tier": 2
+  },
+  "fotor-ai/fotor-skills": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "aosama/image-comprehension-ollama": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "pea-ai/skills-hub": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "vercel-labs/next-browser": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "x0u0an/v1.0.0-topic-cluster-architect": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "yansc153/twitter-binance-sync": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "jarvis-zhou/reading-notes-html": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "eugeniughelbur/obsidian-second-brain": {
+    "first_seen": "2026-04-16",
+    "tier": 3
+  },
+  "mfranzon/render": {
+    "first_seen": "2026-04-16",
+    "tier": 3
   }
 }

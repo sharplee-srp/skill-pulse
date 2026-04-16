@@ -1,0 +1,575 @@
+{
+  "date": "2026-04-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 186,
+    "tweets_with_repos": 28,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "microsoft/markitdown",
+      "github_url": "https://github.com/microsoft/markitdown",
+      "tier": 2,
+      "is_new": true,
+      "score": 828.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 181,
+      "total_retweets": 37,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chuhaiqu",
+        "text": "微软出的 markitdown（快 11w star 了） 很多人应该知道，印象中已经好多年了，可以把 PDF、PPT、Word、Excel、图片、音频全转成 Markdown。\n\n一行命令 markitdown file.pdf > out.md，最近还支持了 MCP server，能直接接 Claude Desktop。\n\nLLM 原生喜欢 Markdown，丢结构化文件进去比直接读更省 token 也更保信息。以及 OpenClaw 里用也很香！\n\n🔗 https://t.co/hqlE9AklYW",
+        "likes": 181,
+        "url": "https://x.com/i/status/2044339709183406539"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044339709183406539"
+      ]
+    },
+    {
+      "repo": "skydoves/android-skills-mcp",
+      "github_url": "https://github.com/skydoves/android-skills-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 480.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 105,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "github_skydoves",
+        "text": "I published an MCP server and CLI packager for the official Android skills.\n\nhttps://t.co/DJLMw2YLZc",
+        "likes": 105,
+        "url": "https://x.com/i/status/2044430227196260515"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044430227196260515"
+      ]
+    },
+    {
+      "repo": "fotor-ai/fotor-skills",
+      "github_url": "https://github.com/fotor-ai/fotor-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClipflyOfficial",
+        "text": "GitHub → https://t.co/U3FxJbS3w8 Explore Fotor Skill today.  \n#Fotor #FotorAI #AI #OpenClaw #AICreator #MarketingTools #AgenticMarketing",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044700212309241951"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044700212309241951",
+        "https://x.com/i/status/2044695004480983271"
+      ]
+    },
+    {
+      "repo": "aosama/image-comprehension-ollama",
+      "github_url": "https://github.com/aosama/image-comprehension-ollama",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AhmedHamdy29189",
+        "text": "🚀 Just open-sourced image-comprehension-ollama — give your coding agent eyes! 🔮\n\nAI agents can't see images. This skill fixes that. A local Ollama @ollama  vision model describes screenshots, charts, diagrams & photos\nback to your agent in text.\n\n🔒 Fully local, no API keys 🖥️ Wor",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044614123372040417"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044614123372040417"
+      ]
+    },
+    {
+      "repo": "pea-ai/skills-hub",
+      "github_url": "https://github.com/pea-ai/skills-hub",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ads3_ai",
+        "text": "Ads3 Advertiser Skill is now LIVE！\nWhether you're a seasoned pro or just getting started in Web3, your AI Agent can now handle advertising like an expert.\nWith the Ads3 Advertiser Skill, all you need to do is drop a GitHub link (like OpenClaw), and it installs automatically into ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2044697298194887163"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044697298194887163"
+      ]
+    },
+    {
+      "repo": "vercel-labs/next-browser",
+      "github_url": "https://github.com/vercel-labs/next-browser",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wachi_asp",
+        "text": "Next.jsのnext-browser、skills経由で入れてみました。\n\n今までAIにNext.jsアプリのデバッグ頼むとコード読むだけで詰まりがちだったのが、\n\nnpx skills add vercel-labs/next-browser\nでインストールして /next-browser 叩くと、\nChromium立ててDevTools相当のスクショ・ログ・コンポーネントツリー取れるように。\n\nExpoのWeb版UI直しで試したら、AIがnetworkの遅延原因即特定。\n実務のデバッグスキルが個人開発で活きる感じ、いいですね。試してみませんか。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2044687244158750896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044687244158750896"
+      ]
+    },
+    {
+      "repo": "x0u0an/v1.0.0-topic-cluster-architect",
+      "github_url": "https://github.com/x0u0an/v1.0.0-topic-cluster-architect",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Angie4135721308",
+        "text": "Built specifically for the @AnthropicAI Claude Code ecosystem.\n\nInstallation is dead simple:\nnpx skills add x0u0an/v1.0.0-topic-cluster-architect\n\nNo complex UI. Just pure CLI efficiency. https://t.co/jH58GRuWXp",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044671537870217564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044671537870217564"
+      ]
+    },
+    {
+      "repo": "yansc153/twitter-binance-sync",
+      "github_url": "https://github.com/yansc153/twitter-binance-sync",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jackyjeart1992",
+        "text": "最近一直在测试龙虾的各种币圈skill  目前我觉得最好用的几个skill  \n1. 律动的实事热点skill： https://t.co/SWMrI9GkuU \n2. OKX  的 行情分析Skill https://t.co/zHM0sKegco \n3. 花椒写的 x同步币安广场skill https://t.co/NIj7Dib8kH \n4. openclaw 的crypto交易员 https://t.co/Jii5xlP0F9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044699730949918890"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044699730949918890"
+      ]
+    },
+    {
+      "repo": "jarvis-zhou/reading-notes-html",
+      "github_url": "https://github.com/jarvis-zhou/reading-notes-html",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JarreyZ",
+        "text": "我开发了一个codex的skill。我发现我读完一本书后，之前的阅读笔记无法汇总。所以我开发了这个skill，可以导出之前的阅读笔记，并生成一个web网页，你可以清晰自己之前的想法并完成总结，也可以直接把他加入知识库。\n因为微信读书用的比较多，所以第一版只支持微信读书\n\nhttps://t.co/WS2c38KNeg",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044678100483805661"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044678100483805661"
+      ]
+    },
+    {
+      "repo": "eugeniughelbur/obsidian-second-brain",
+      "github_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eugeniu_ghelbur",
+        "text": "@heygurisingh Built exactly this. Obsidian + Claude Code skill that turns your vault into a self-maintaining second brain, your voice, your context, your decisions, auto-preserved.\n\nhttps://t.co/cpqcOxyVjM\n\nHaven't written a context dump since I shipped it. Claude just knows.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044718325180027197"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044718325180027197"
+      ]
+    },
+    {
+      "repo": "mfranzon/render",
+      "github_url": "https://github.com/mfranzon/render",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "packetrat_",
+        "text": "Claude Code skill for parametric 3D models with build123d\n\nhttps://t.co/xefyz7N8qZ https://t.co/kvnogAG6po",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044710243398001095"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044710243398001095"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "agent-wonderland/skill",
+      "github_url": "https://github.com/agent-wonderland/skill",
+      "tier": 1,
+      "is_new": false,
+      "score": 800.0,
+      "mention_count": 8,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AgentW0nderland",
+        "text": "$1.00/request\n\nhttps://t.co/FobSutq6PJ\n\nGive your agent access to the wonderland:\nnpx skills add Agent-Wonderland/skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044606166907372022"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044606166907372022",
+        "https://x.com/i/status/2044603924833780111",
+        "https://x.com/i/status/2044600598415266285",
+        "https://x.com/i/status/2044599918048731334",
+        "https://x.com/i/status/2044597746468811069",
+        "https://x.com/i/status/2044596383211016202",
+        "https://x.com/i/status/2044595154141503627",
+        "https://x.com/i/status/2044594062104170637"
+      ]
+    },
+    {
+      "repo": "slowmist/slowmist-agent-security",
+      "github_url": "https://github.com/slowmist/slowmist-agent-security",
+      "tier": 2,
+      "is_new": false,
+      "score": 558.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 131,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "evilcos",
+        "text": "之前我们 @SlowMist_Team 发布的安全 Skill 可以直接在 @NousResearch Hermes Agent 上使用，直接让你的 Agent 安装 https://t.co/ylhdKKCpt2 即可，如图。\n\n为了以后触发方便及稳定，你可以这样告诉你是 Agent：\n\n以后我提 smas 就指 slowmist-agent-security，这样方便我们后续操作。\n\n玩起来吧。",
+        "likes": 131,
+        "url": "https://x.com/i/status/2044574282014224773"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044574282014224773"
+      ]
+    },
+    {
+      "repo": "mhaggis/security-detections-mcp",
+      "github_url": "https://github.com/mhaggis/security-detections-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 339.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "M_haggis",
+        "text": "Is this the end of Security Detections MCP?\n\nNo.\n\nBut it is the point where it stops being \"just a tool\" and becomes something bigger.\n\nWith v3.2.2:\n\nYou now have a hosted detection intelligence system your AI can use instantly.\n\nWhat changed:\n\n• 🌐 Website is LIVE → https://t.co/",
+        "likes": 58,
+        "url": "https://x.com/i/status/2044454148771614844"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044454148771614844"
+      ]
+    },
+    {
+      "repo": "berthelol/skills",
+      "github_url": "https://github.com/berthelol/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LoicBerthelot",
+        "text": "I'm so tired of using the Framer MCP for my ai agents...\nForcing my browser to have an open tab is nonsense\n\nI've created a free public framer-crm skill that uses the headless API\n\nTo install it on claude code:\nnpx skills add berthelol/skills --skill framer-cms\n\nOr \nclaw skills i",
+        "likes": 8,
+        "url": "https://x.com/i/status/2041382208716632216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2041382208716632216"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "16 days left. $25K. if you haven't started yet get the cheat code below:\n\n/make-game\n\nnpx skills add OpusGameLabs/game-creator",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044619215353663778"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044619215353663778"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "All it takes is 1⃣ line to join the revolution:\nnpx skills add byreal-git/byreal-agent-skills\n\nLearn more on our GitHub 🔽\nhttps://t.co/1vFPOcFPPo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044714073678647740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044714073678647740"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ctatedev",
+        "text": "@dcb_147 It's still available! Now behind a single skill:\n\nnpx skills add vercel-labs/agent-browser\n\nAgents can use this skill to dynamically load other agent-browser skills without an additional install\n\nAnd they stay up-to-date with the version you're using\n\nhttps://t.co/DvFVxZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044606591652045280"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044606591652045280"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "weeklyfoo",
+        "text": "Caveman by Julius Brussee\n\nClaude Code skill and Codex plugin that compresses LLM communication by stripping filler words while maintaining technical accuracy — cuts token usage by an average of 65%\n\nhttps://t.co/qdfnRtx2B7",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044667623112167451"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044667623112167451"
+      ]
+    },
+    {
+      "repo": "dominikmartn/nothing-design-skill",
+      "github_url": "https://github.com/dominikmartn/nothing-design-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_thegb_",
+        "text": "🚀 Claude Code lança skill que gera UIs no estilo Nothing em segundos! 🔥 Teste agora e surpreenda seu design. #UX #Design #AI https://t.co/fyeh8vsbwT https://t.co/NUuGtYfqJs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2044717789072781315"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044717789072781315"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2044445649538809985",
+      "author": "ycombinator",
+      "text": "AI agents will pay you to chat with them.\n\nWhen AI agents hit a wall, Humwork's (@humworkai) MCP server connects them to a verified domain expert in 30 seconds. Their experts include senior engineers, marketers, designers, and more.\n\nCongrats on the launch, @theyashgoenka and @On",
+      "likes": 1558,
+      "views": 0,
+      "url": "https://x.com/i/status/2044445649538809985",
+      "is_kol": false,
+      "score": 5584.0
+    },
+    {
+      "id": "2044554557221675380",
+      "author": "gregpr07",
+      "text": "Introducing: Video Use. Edit videos with Claude Code. 🫡\n\nI got tired of paying for video editors, so I made a Claude Code skill that does it for me.\n\n> Talk to camera, get final.mp4\n> Auto cuts fillers, color grades, adds subtitles\n> Adds Manim and Remotion animations\n> Self eval",
+      "likes": 875,
+      "views": 0,
+      "url": "https://x.com/i/status/2044554557221675380",
+      "is_kol": false,
+      "score": 2965.0
+    },
+    {
+      "id": "2044533933115629787",
+      "author": "polydao",
+      "text": "Claude Code will grill you with 40+ questions before writing a single line of code\n\n> it's called /grill-me - 3 sentences long. most impactful skill I use\n\ninstead of jumping straight to code - it walks every branch of your design tree until there's zero ambiguity\n\n> every questi",
+      "likes": 595,
+      "views": 0,
+      "url": "https://x.com/i/status/2044533933115629787",
+      "is_kol": false,
+      "score": 2070.0
+    },
+    {
+      "id": "2044435938571358332",
+      "author": "cyrilXBT",
+      "text": "Most people using Claude right now are using it with one hand tied behind its back.\n\nNo MCP servers. No real tool connections. No persistent memory.\n\nJust a chat window.\n\nThe ones who wire Claude into their actual stack with MCP are operating on a completely different level.\n\nThi",
+      "likes": 374,
+      "views": 0,
+      "url": "https://x.com/i/status/2044435938571358332",
+      "is_kol": false,
+      "score": 1282.0
+    },
+    {
+      "id": "2044507824319868931",
+      "author": "NousResearch",
+      "text": "Just a Hermes Agent, a skill, and a dream",
+      "likes": 337,
+      "views": 0,
+      "url": "https://x.com/i/status/2044507824319868931",
+      "is_kol": false,
+      "score": 1106.0
+    },
+    {
+      "id": "2044517451350872533",
+      "author": "skshadan_",
+      "text": "CLAUDE CODE Found a bug in Google’s Brotli \n\nWe gave our AI agent a simple fuzzing skill and pointed it at Brotli (the compression lib in Chrome, Firefox, nginx… literally everywhere).\n\nIt audited the code → wrote the harness → found a signed integer overflow\n\nFuzzing + agents = ",
+      "likes": 224,
+      "views": 0,
+      "url": "https://x.com/i/status/2044517451350872533",
+      "is_kol": false,
+      "score": 857.0
+    },
+    {
+      "id": "2044487168068927930",
+      "author": "RoundtableSpace",
+      "text": "Someone was spending $200+ a day on Claude Code with no idea where the tokens were going.\n\nSo they built a terminal dashboard that classifies every session turn into 13 categories.\n\n* Cost broken down by task type, project, model, tool, and MCP server\n* Daily activity chart with ",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2044487168068927930",
+      "is_kol": false,
+      "score": 586.0
+    },
+    {
+      "id": "2044415286703796319",
+      "author": "publickey",
+      "text": "ブログ書きました： マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開\nhttps://t.co/35i5BPQe7r",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2044415286703796319",
+      "is_kol": false,
+      "score": 488.0
+    },
+    {
+      "id": "2044418622131437755",
+      "author": "MistralDevs",
+      "text": "Build once. Reuse everywhere.\n\nThe Connectors API is now in Public Preview. Register MCP connectors once and use them across Le Chat, AI Studio, and all programmatic tool calls. https://t.co/UdsbdWszSS",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2044418622131437755",
+      "is_kol": false,
+      "score": 458.0
+    },
+    {
+      "id": "2044486504261763081",
+      "author": "GenAI_is_real",
+      "text": "In the Age of Agents, an Engineer's Most Valuable Skill Is Saying \"No\"\n\nI gave a talk at Snowflake recently, sharing what I've learned about agent coding over the past two years of building SGLang's inference engine, Omni multimodal serving, and AI agent workflows. The response f",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2044486504261763081",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2044618590046031915",
+      "author": "KKaWSB",
+      "text": "🔥 Anthropic最新线下官方演讲：别再造Agent了，去造Skill。\n\n通用Agent确实聪明，但缺少领域知识，一碰真实世界就碎——难维护、不可靠，出了问题也不知道为什么。\n\n真正能落地的是Skill：装着代码、脚本、提示词和流程知识，用文件系统和bash做接口。不酷，但可组合、可控制、可分享，人人可造。 https://t.co/Lj7GgYBb5P",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2044618590046031915",
+      "is_kol": false,
+      "score": 389.0
+    },
+    {
+      "id": "2044626460137435578",
+      "author": "n__deborah",
+      "text": "Pick a skill. Fill preferences. Install. Your agent is already doing real work. This is how you make AI agents for normal humans.",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2044626460137435578",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2044625734468293068",
+      "author": "dylannknox",
+      "text": "Stop staring at blank agents for 10 minutes and ghosting them. Skill Hub gives you a ready-to-go agent in one click.",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2044625734468293068",
+      "is_kol": false,
+      "score": 374.0
+    }
+  ]
+}
