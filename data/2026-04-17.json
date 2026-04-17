@@ -1,0 +1,552 @@
+{
+  "date": "2026-04-17",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 188,
+    "tweets_with_repos": 24,
+    "unique_repos": 17,
+    "new_repos": 12,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 1,
+      "is_new": true,
+      "score": 1682.0,
+      "mention_count": 7,
+      "kol_mentions": [],
+      "total_likes": 264,
+      "total_retweets": 38,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yanhua1010",
+        "text": "卧槽，这个厉害了啊，真是万物皆可HTML\n\nHeyGen开源了HyperFrames框架，可以通过Claude Code 构建视频。\n\n开源、代理原生框架。HTML 到 MP4。\n\n如何安装👇\nnpx skills add heygen-com/hyperframes  https://t.co/cz3SV1lAjQ",
+        "likes": 156,
+        "url": "https://x.com/i/status/2045005746530816227"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045053754311921683",
+        "https://x.com/i/status/2045005746530816227",
+        "https://x.com/i/status/2044991683318911360",
+        "https://x.com/i/status/2044991215914144069",
+        "https://x.com/i/status/2044936885433188731",
+        "https://x.com/i/status/2044920361092092074",
+        "https://x.com/i/status/2044876836493304079"
+      ]
+    },
+    {
+      "repo": "gt-protocol/mcp",
+      "github_url": "https://github.com/gt-protocol/mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 3802.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1019,
+      "total_retweets": 109,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GT_Protocol",
+        "text": "⚡️ GT Protocol MCP: Next-Level AI Integration\n\nOur devs have been cooking! GT Protocol stays ahead of the curve with our new MCP Server. This tool connects your trading account to AI agents such as Claude, Cursor, and others.\n\nYou can now build and manage strategies or check bala",
+        "likes": 520,
+        "url": "https://x.com/i/status/2044800593915429189"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044800593915429189",
+        "https://x.com/i/status/2044766671022227702"
+      ]
+    },
+    {
+      "repo": "axsaucedo/kaos",
+      "github_url": "https://github.com/axsaucedo/kaos",
+      "tier": 3,
+      "is_new": true,
+      "score": 304.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "K8sArchitect",
+        "text": "KAOS is a Kubernetes-native framework for deploying and orchestrating AI agents with MCP tool integration, multi-agent coordination, hierarchical delegation, OpenAI-compatible endpoints, and a visual dashboard for monitoring and debugging\n\n➤ https://t.co/0XR9DZnXRf",
+        "likes": 53,
+        "url": "https://x.com/i/status/2044861147333922822"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044861147333922822"
+      ]
+    },
+    {
+      "repo": "buildsentinelhq/sentinel-skills",
+      "github_url": "https://github.com/buildsentinelhq/sentinel-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 178.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BuildSentinel",
+        "text": "Sentinel is now on the Agent Skills registry.\nIf you're using Claude Code, Cursor, or any Agent Skills-compatible coding agent, install the Sentinel dev skill and your coding agent will scaffold SDK integrations, generate policy configs, and debug security events automatically.\nC",
+        "likes": 26,
+        "url": "https://x.com/i/status/2044780149141549060"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044780149141549060"
+      ]
+    },
+    {
+      "repo": "nodeops-app/skills",
+      "github_url": "https://github.com/nodeops-app/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "saurra3h",
+        "text": "Add agentic deployments to any AI coding tool:\n\nWorks with any Agents Claude Code, Cursor, Codex, etc\n\nJust give them the skill and let your agent handle the rest\n\nnpx skills add NodeOps-app/skills --skill createos-deploy",
+        "likes": 6,
+        "url": "https://x.com/i/status/2044815646576537683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044815646576537683"
+      ]
+    },
+    {
+      "repo": "truenorth-lj/adaptive-agent-skill",
+      "github_url": "https://github.com/truenorth-lj/adaptive-agent-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liliangjya5",
+        "text": "Making Your AI Agent Get Stronger With Use: Adaptive Agent Skill\n\nLet Claude Code Memorize and Self-Improve Like Hermes Agent\n\nYour AI coding agent helps you write code, debug, and deploy every day — but it never learns from its mistakes.\n\nThat API change that broke your deploy l",
+        "likes": 1,
+        "url": "https://x.com/i/status/2044777969294737460"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044777969294737460"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 1,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "hybirdss/opus-mind",
+      "github_url": "https://github.com/hybirdss/opus-mind",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yunsu_dev",
+        "text": "Opus 4.7, Decoded — Anthropic did the prompt-engineering homework on a 1,408-line system prompt. You get the answer key.\n\nClaude runs on a 1,408-line system prompt Anthropic never published. I reverse-engineered the leaked version into a Claude Code skill with two products: LINT ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2045068961394631122"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045068961394631122"
+      ]
+    },
+    {
+      "repo": "username/repo",
+      "github_url": "https://github.com/username/repo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mauricekleine",
+        "text": "PSA prefix your skill names with your domain\n\n❌ `name: api`\n✅ `name: &lt;your-product&gt;-api`\n\n`npx skills add username/repo --skill api` will overwrite `npx skills add otheruser/repo --skill api` if both skills define `name: api` in their frontmatter!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045014391809036357"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045014391809036357"
+      ]
+    },
+    {
+      "repo": "otheruser/repo",
+      "github_url": "https://github.com/otheruser/repo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mauricekleine",
+        "text": "PSA prefix your skill names with your domain\n\n❌ `name: api`\n✅ `name: &lt;your-product&gt;-api`\n\n`npx skills add username/repo --skill api` will overwrite `npx skills add otheruser/repo --skill api` if both skills define `name: api` in their frontmatter!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045014391809036357"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045014391809036357"
+      ]
+    },
+    {
+      "repo": "rafalozan0/docflow-presentations-and-docs-skill",
+      "github_url": "https://github.com/rafalozan0/docflow-presentations-and-docs-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rafalozan0",
+        "text": "I just created and published DocFlow, my first local skill for Hermes & OpenClaw agents :) \n\nIt generates DOCX, PDF, and PPTX files locally, with a clean catalog of HTML templates for slides, invoices, reports, letters, and more.\n\nBuilt on the previous work by Tao Jin (@shynloc) ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045073744138260795"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045073744138260795"
+      ]
+    },
+    {
+      "repo": "sorawit-w/agent-skills",
+      "github_url": "https://github.com/sorawit-w/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sorawit_kiang",
+        "text": "Shipped my first Claude Code skill: skill-evaluator.\n\nIt audits other skills — checks whether the rules you wrote actually land when Claude runs them. Split-role eval (executor + blind grader). Outputs rule-text diffs, not vibes.\n\nhttps://t.co/GcOeu1F0y7",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045070875591049505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045070875591049505"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mhaggis/security-detections-mcp",
+      "github_url": "https://github.com/mhaggis/security-detections-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 379.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 68,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "M_haggis",
+        "text": "Is this the end of Security Detections MCP?\n\nNo.\n\nBut it is the point where it stops being \"just a tool\" and becomes something bigger.\n\nWith v3.2.2:\n\nYou now have a hosted detection intelligence system your AI can use instantly.\n\nWhat changed:\n\n• 🌐 Website is LIVE → https://t.co/",
+        "likes": 68,
+        "url": "https://x.com/i/status/2044454148771614844"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044454148771614844"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 281.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.29 released!\n\n7 features & enhancements in this release\n\nTop features:\n• Added support for Claude Opus 4.7 🧠\n• Remote MCP server config now allows omitting the type field, defaulting to http\n• Added --list-env flag to log loaded plugins, agents, skills, and MC",
+        "likes": 52,
+        "url": "https://x.com/i/status/2044796731439652950"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044796731439652950"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Join the RealClaw waitlist ↓\nhttps://t.co/xVf3JTr7CI\n\nIf you already have an agent, it can do the same - just install Byreal Agent Skills:\n\nnpx skills add byreal-git/byreal-agent-skills\n\nhttps://t.co/S5UMQU2UCU",
+        "likes": 2,
+        "url": "https://x.com/i/status/2045025501115297853"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045025501115297853",
+        "https://x.com/i/status/2045010301171687528"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cryptolaoxu",
+        "text": "@sol867928 如果你之前已经在运营Trade kit的情况下：直接跟Agent说让她帮你升级到1.3.1，然后把git链接一起扔给他\n\n如果第一次使用OKX Agent Trade Kit，那就直接配置安装就是最新版本了：npx skills add okx/agent-skills @okxchinese",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045080512273011072"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045080512273011072"
+      ]
+    },
+    {
+      "repo": "minimax-ai/cli",
+      "github_url": "https://github.com/minimax-ai/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "essjaykay755",
+        "text": "your agent just got 7 new senses.\n\nimage. video. voice. music. vision. search. conversation.\n\n2 lines. @MiniMax_AI MMX-CLI.\n\nnpx skills add MiniMax-AI/cli -y -g\nnpm i -g mmx-cli\n\ninfrastructure built for agents, not humans. finally.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045009023565766813"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045009023565766813"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2044872737672646716",
+      "author": "ClaudeDevs",
+      "text": "To make it easier to migrate your workflows, we've updated the claude-api skill in Claude Code with Opus 4.7 support.\n\nJust say \"migrate to Opus 4.7\" and it updates model names, prompts, and effort settings for you. https://t.co/8EQX8xtfIW",
+      "likes": 2593,
+      "views": 0,
+      "url": "https://x.com/i/status/2044872737672646716",
+      "is_kol": false,
+      "score": 8529.0
+    },
+    {
+      "id": "2044851791771144682",
+      "author": "pvncher",
+      "text": "Opus 4.7 is the first claude model I've seen make incorrect mcp tool calls.",
+      "likes": 729,
+      "views": 0,
+      "url": "https://x.com/i/status/2044851791771144682",
+      "is_kol": false,
+      "score": 2272.0
+    },
+    {
+      "id": "2044907532678816012",
+      "author": "KyleWillson",
+      "text": "Hermes dropped a bomb today.\n\nYou only need 1 subscription and literally have every model and skill you'll ever need. \n\nThe insane part is its only $10 bucks...\n\nClaude is cooked. Open Source wins the day.",
+      "likes": 507,
+      "views": 0,
+      "url": "https://x.com/i/status/2044907532678816012",
+      "is_kol": false,
+      "score": 1666.0
+    },
+    {
+      "id": "2044867504514924582",
+      "author": "kloss_xyz",
+      "text": "me: “this AI stuff is so easy bro, it’s a skill issue if you can’t keep up”\n\nalso me: 3 hrs of sleep, eyes twitching, 67 sessions open, and now somehow supposed to absorb Claude Opus 4.7 + OpenAI Codex super app + Perplexity Computer updates all in one day https://t.co/ULDOB9psc3",
+      "likes": 282,
+      "views": 0,
+      "url": "https://x.com/i/status/2044867504514924582",
+      "is_kol": false,
+      "score": 956.0
+    },
+    {
+      "id": "2044779406321725833",
+      "author": "sharbel",
+      "text": "I was wrong about Hermes Agent:\n\n0:00 - intro\n0:25 - openclaw vs hermes\n1:26 - hermes agent\n2:16 - the self-improving skill loop\n3:06 - openclaw\n3:45 - how to use both strengths\n4:56 - final verdict https://t.co/AdoUzhtCik",
+      "likes": 212,
+      "views": 0,
+      "url": "https://x.com/i/status/2044779406321725833",
+      "is_kol": false,
+      "score": 726.0
+    },
+    {
+      "id": "2044995697242783903",
+      "author": "BenMacLaurin",
+      "text": "Introducing Budge\n\nAn agent skill to tweak UI without going back-and-forth with AI\n\n- ↑↓ to fine-tune the value\n- ←→ to switch between properties\n- Enter to copy the prompt to clipboard\n\nWorks in Claude Code, Codex, Cursor. Fully open source https://t.co/w9YPwUykCX",
+      "likes": 203,
+      "views": 0,
+      "url": "https://x.com/i/status/2044995697242783903",
+      "is_kol": false,
+      "score": 654.0
+    },
+    {
+      "id": "2044792936614010885",
+      "author": "DecibelTrade",
+      "text": "The best traders don't trade.\n\nThey connect their agent to the Decibel MCP Server and go touch grass.\n\nAlready connected? What's your agent trading? https://t.co/XhlKgah8nH",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2044792936614010885",
+      "is_kol": false,
+      "score": 516.0
+    },
+    {
+      "id": "2044860610228416716",
+      "author": "garrytan",
+      "text": "Pro tip for the GFamily - if you use GStack with Claude Code, but also have a Claw/Hermes with GBrain... I like to do my GStack planning (autoplan skill) in Claw/Hermes since it's faster, and then drop the plan and do plan-eng-review \n\nHere I am working on a token compaction feat",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2044860610228416716",
+      "is_kol": false,
+      "score": 488.0
+    },
+    {
+      "id": "2044913269375414776",
+      "author": "Nick_Prince12",
+      "text": "the hardest problem in agentic commerce isn't payments. it's discovery. \n\nhow does an agent find the right service, evaluate it, and pay for it without human intervention?\n\nbazaar mcp solves this. search, evaluate, pay. one tool call. https://t.co/cmVfrX50J0",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2044913269375414776",
+      "is_kol": false,
+      "score": 469.0
+    },
+    {
+      "id": "2044736230630310242",
+      "author": "Ossybadman",
+      "text": "I built a SuiNS MCP tool for AI agents.\n\nIt gives native @SuiNSdapp capabilities.  \n\nNo SDK, no installation, just plug and play.\n\nSui agent scene is heating up.  \n\n@funkii @Texxas @iv_dev3 @MrBreadSmith are building some of the coolest agents on Sui.\n\nhttps://t.co/2ma3Xe5hU3",
+      "likes": 129,
+      "views": 0,
+      "url": "https://x.com/i/status/2044736230630310242",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2044834471527027143",
+      "author": "GHchangelog",
+      "text": "gh skill adds commands to GitHub CLI to discover, install, manage, and publish AI agent skills from GitHub repos.\n\n• Pin skills to tags or commits to control updates and ensure supply chain security\n\nhttps://t.co/5PcpazGnoz",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2044834471527027143",
+      "is_kol": false,
+      "score": 393.0
+    },
+    {
+      "id": "2044687243525189949",
+      "author": "jfversluis",
+      "text": ".NET 10 shipped dnx, basically npx for .NET.\n\ndnx NuGet.Mcp.Server --yes\n\nDownloads and runs a local MCP server. No install needed.\n\nWorks with NuGet, Azure, Bicep, Power Platform MCP servers. Add to your mcp.json and go.\n\nQuietly a big deal for AI tooling. https://t.co/fY9kbpZ0k",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2044687243525189949",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2044807311357812747",
+      "author": "ChainAware",
+      "text": "Gm Builders!\n\nWhat if your AI agent could access 14M+ wallet profiles without writing a single line of blockchain code?\n\nConnect to ChainAware’s MCP server. 12 specialist agents instantly available.\nFraud detection, AML screening, whale tracking, token analysis, reputation scorin",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2044807311357812747",
+      "is_kol": false,
+      "score": 350.0
+    },
+    {
+      "id": "2044720937036030069",
+      "author": "AngularUniv",
+      "text": "𝗧𝗵𝗲 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝗠𝗖𝗣 𝗦𝗲𝗿𝘃𝗲𝗿 𝗶𝘀 𝗮 𝗴𝗮𝗺𝗲 𝗰𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗔𝗜-𝗮𝘀𝘀𝗶𝘀𝘁𝗲𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 🚀\n\nIt’s a 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗲𝗱 𝗔𝗜 \"𝗽𝗹𝘂𝗴𝗶𝗻\" that gives tools like 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 direct access to Angular documentation, best practices, and real examples - matched to your project’s Angular version via angular.json.\n\n👉 No ",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2044720937036030069",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2044975851796893975",
+      "author": "nukonuko",
+      "text": "gh skill\n\nGitHub の gh コマンドに Agent Skills のインストール、管理、公開する skill が追加。GitHub Copilot はもちろん、Claude Code や Cursor、Codex などにも反映。gh skill install でインストール、--pin でバージョンを固定、gh skill update で変更を確認など。\nhttps://t.co/YydoYcLnc8",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2044975851796893975",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2044830683399598393",
+      "author": "Quant_Morales",
+      "text": "I just discovered a tool that is going to change how I do quant research.\n\nIt's called Paper Search MCP. An open-source Model Context Protocol that lets Claude search and download academic papers directly from arXiv, PubMed, bioRxiv and more. All from within your conversation.\n\nN",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2044830683399598393",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2044989289176658182",
+      "author": "GoSailGlobal",
+      "text": "这两个skill听起来有点牛逼，复制无敌\n\n1️⃣ hue：开源Claude Code Skill——学习任何品牌并转化为完整设计系统\nhttps://t.co/b5bY7HzM5G\n\n2️⃣ design-extract：只需一条命令即可逆向工程任何网站的完整设计系统。\nhttps://t.co/lTKIQA4RfB",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2044989289176658182",
+      "is_kol": false,
+      "score": 297.0
+    }
+  ]
+}

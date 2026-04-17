@@ -1066,5 +1066,53 @@
   "mfranzon/render": {
     "first_seen": "2026-04-16",
     "tier": 3
+  },
+  "heygen-com/hyperframes": {
+    "first_seen": "2026-04-17",
+    "tier": 1
+  },
+  "gt-protocol/mcp": {
+    "first_seen": "2026-04-17",
+    "tier": 2
+  },
+  "axsaucedo/kaos": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "buildsentinelhq/sentinel-skills": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "nodeops-app/skills": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "truenorth-lj/adaptive-agent-skill": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "enzoding/jobhunt-cli": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "hybirdss/opus-mind": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "username/repo": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "otheruser/repo": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "rafalozan0/docflow-presentations-and-docs-skill": {
+    "first_seen": "2026-04-17",
+    "tier": 3
+  },
+  "sorawit-w/agent-skills": {
+    "first_seen": "2026-04-17",
+    "tier": 3
   }
 }
