@@ -1114,5 +1114,61 @@
   "sorawit-w/agent-skills": {
     "first_seen": "2026-04-17",
     "tier": 3
+  },
+  "github/github-mcp-server": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "alpacahq/alpaca-mcp-server": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "gomarble-ai/facebook-ads-mcp-server": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "hyperledger-iroha/iroha": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "garrytan/gstack": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "ivorisnoob/agi-skill": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "pejmanjohn/openclaw-admin-skills": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "welivetoserve/gpu-skill-builder": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "pandelisz/skills": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "paragraph-xyz/skill": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "lloyd3126/chenchungnien-skills": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "jeffreyyvdb/dokploy-ghcr-deploy": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "marvinvista/agent-commits": {
+    "first_seen": "2026-04-18",
+    "tier": 3
+  },
+  "my-take-dev/myt-x": {
+    "first_seen": "2026-04-18",
+    "tier": 3
   }
 }
