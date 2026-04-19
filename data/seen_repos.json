@@ -1170,5 +1170,49 @@
   "my-take-dev/myt-x": {
     "first_seen": "2026-04-18",
     "tier": 3
+  },
+  "namedfarouk/arc-docs-mcp": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "langchain-ai/rag-from-scratch": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "gh05tcrew/pentestagent": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "purple-magic/tramway-skill": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "ortizjorge639/repoquest": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "bradagi/ultimate-gemini-skill": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "android/skills": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "illusions-lab/dazai-skill": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "leonxlnx/taste-skill": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "jpcaparas/skills": {
+    "first_seen": "2026-04-19",
+    "tier": 3
+  },
+  "anomalyarmor/agents": {
+    "first_seen": "2026-04-19",
+    "tier": 3
   }
 }
