@@ -1214,5 +1214,53 @@
   "anomalyarmor/agents": {
     "first_seen": "2026-04-19",
     "tier": 3
+  },
+  "jakubkrehel/make-interfaces-feel-better": {
+    "first_seen": "2026-04-20",
+    "tier": 2
+  },
+  "iosdevmax/mobile-ads-agent": {
+    "first_seen": "2026-04-20",
+    "tier": 2
+  },
+  "stevesolun/ctx": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "moizibnyousaf/vercel-breach-best-practices": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "anaisbetts/mcp-computer-use": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "tenelol/iniad-gdrive": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "infisical/ai-skills": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "dembrandt/dembrandt-skills": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "dsebastien/ai-skill-garmin": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "toqnlab/agent-skills": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "marius-bughiu/agents-anonymous": {
+    "first_seen": "2026-04-20",
+    "tier": 3
+  },
+  "saurabh-oss/skills": {
+    "first_seen": "2026-04-20",
+    "tier": 3
   }
 }

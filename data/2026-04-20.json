@@ -1,0 +1,593 @@
+{
+  "date": "2026-04-20",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 193,
+    "tweets_with_repos": 26,
+    "unique_repos": 22,
+    "new_repos": 12,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "jakubkrehel/make-interfaces-feel-better",
+      "github_url": "https://github.com/jakubkrehel/make-interfaces-feel-better",
+      "tier": 2,
+      "is_new": true,
+      "score": 4734.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1483,
+      "total_retweets": 37,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakubkrehel",
+        "text": "/make-interfaces-feel-better\n\nnpx skills add jakubkrehel/make-interfaces-feel-better https://t.co/RJw5RHwXpc",
+        "likes": 1483,
+        "url": "https://x.com/i/status/2045895877588361723"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045895877588361723"
+      ]
+    },
+    {
+      "repo": "iosdevmax/mobile-ads-agent",
+      "github_url": "https://github.com/iosdevmax/mobile-ads-agent",
+      "tier": 2,
+      "is_new": true,
+      "score": 601.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 157,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maks6361",
+        "text": "As promised here is my ads agent skill.\n\nHonestly, I'm super happy how it's working out so far.\nIt was able to break down my 2 current campaigns (US and UK-CA-AU-NZ) for an app and pointed into the right direction.\n\nAlso it gave me a few good suggestion about organic revenue for ",
+        "likes": 157,
+        "url": "https://x.com/i/status/2045921978092020008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045921978092020008"
+      ]
+    },
+    {
+      "repo": "stevesolun/ctx",
+      "github_url": "https://github.com/stevesolun/ctx",
+      "tier": 3,
+      "is_new": true,
+      "score": 341.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Contextual skill and agent recommendations for Claude Code\n\nhttps://t.co/55O4PvPstv https://t.co/CyGrWdt5QC",
+        "likes": 37,
+        "url": "https://x.com/i/status/2045893518858563668"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045893518858563668",
+        "https://x.com/i/status/2046154520065884454"
+      ]
+    },
+    {
+      "repo": "moizibnyousaf/vercel-breach-best-practices",
+      "github_url": "https://github.com/moizibnyousaf/vercel-breach-best-practices",
+      "tier": 3,
+      "is_new": true,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MoizIbnYousaf",
+        "text": "vercel just got breached. if you haven't yet, rotate all your env vars and regen your tokens.\n\n/vercel-breach-best-practices is a Claude Code skill that does it for you:\n\n- preserves audit evidence first\n- rotates upstream secrets in blast-radius order\n- empties vercel env vars w",
+        "likes": 28,
+        "url": "https://x.com/i/status/2045936053052420586"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045936053052420586"
+      ]
+    },
+    {
+      "repo": "anaisbetts/mcp-computer-use",
+      "github_url": "https://github.com/anaisbetts/mcp-computer-use",
+      "tier": 3,
+      "is_new": true,
+      "score": 184.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "anaisbetts",
+        "text": "Every other implementation seemed to be pretty Bad, so here we go - https://t.co/kImnbWRkqo\n\nThis is an MCP Server based on OpenAI's CUA tool design (though most models can figure it out), set up the server and drive your desktop around",
+        "likes": 28,
+        "url": "https://x.com/i/status/2045971723120517411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045971723120517411"
+      ]
+    },
+    {
+      "repo": "tenelol/iniad-gdrive",
+      "github_url": "https://github.com/tenelol/iniad-gdrive",
+      "tier": 3,
+      "is_new": true,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tener2525",
+        "text": "INIAD 生向けに iniad-gdriveを作りました！\n\n- 講義フォルダ単位で安全に検索\n- ローカル保存先を指定できる\n- Codex skill で agent にそのまま使わせられる\n\nDrive を開いて手で探す作業を減らせます。\nhttps://t.co/RkfUrHB5MH",
+        "likes": 15,
+        "url": "https://x.com/i/status/2046154024911773786"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046154024911773786"
+      ]
+    },
+    {
+      "repo": "infisical/ai-skills",
+      "github_url": "https://github.com/infisical/ai-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JakeHulberg",
+        "text": "Hey Gary!\n\nSkill files for Infisical including secret syncs are available with the following command:\n\nnpx skills add Infisical/ai-skills\n\nWorks across 45+ AI tools. We also expose our full docs as an MCP server if you prefer that route (this is our preferred method but either sh",
+        "likes": 3,
+        "url": "https://x.com/i/status/2045935424514806145"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045935424514806145"
+      ]
+    },
+    {
+      "repo": "dembrandt/dembrandt-skills",
+      "github_url": "https://github.com/dembrandt/dembrandt-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dembranded",
+        "text": "TIS just in: @dembrandtcom can now assist on creating great designs with agentic skills.\n\n$ npx skills add dembrandt/dembrandt-skills\n\n&gt; ..Installing 30 skills\n\n#AgenticDev #AI #Claude #Skills #AgentSkills #DesignSystems #UX #UIDesign https://t.co/ms6akUZCuW",
+        "likes": 1,
+        "url": "https://x.com/i/status/2045927449049940057"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045927449049940057"
+      ]
+    },
+    {
+      "repo": "dsebastien/ai-skill-garmin",
+      "github_url": "https://github.com/dsebastien/ai-skill-garmin",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dSebastien",
+        "text": "New open-source project: ai-skill-garmin.\n\nBring your Garmin Connect data into any AI agent that supports Agent Skills.\n\n➤ MIT license\n➤ Markdown output\n➤ Works with Claude Code\n➤ One-command install\n\nRepo: https://t.co/W0tSMviUqW",
+        "likes": 1,
+        "url": "https://x.com/i/status/2046167179557838873"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046167179557838873"
+      ]
+    },
+    {
+      "repo": "toqnlab/agent-skills",
+      "github_url": "https://github.com/toqnlab/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yus_erdo",
+        "text": "click any element on your landing page → drop hand-drawn arrows + handwritten labels next to it → coding agent writes the JSX for you, anchored to the element you picked\n\nnew agent skill:\nnpx skills add toqnlab/agent-skills\n\nshipped w/ 21 arrows from @imeronn's Handy Arrows 🙏\n\nht",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045983067991687385"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045983067991687385"
+      ]
+    },
+    {
+      "repo": "marius-bughiu/agents-anonymous",
+      "github_url": "https://github.com/marius-bughiu/agents-anonymous",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mariusbughiu",
+        "text": "\"Hi, I'm Claude, and I hallucinated a function that didn't exist.\"\n\nDid your coding agent hallucinate?\nAsk it to /confess.\n\nnpx skills add marius-bughiu/agents-anonymous\nhttps://t.co/6J5230SaXT",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045938424549453958"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045938424549453958"
+      ]
+    },
+    {
+      "repo": "saurabh-oss/skills",
+      "github_url": "https://github.com/saurabh-oss/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sauvast",
+        "text": "Just shipped: a Software Architecture Review skill for @AnthropicAI Claude Code 🏗️\n\nTired of architecture decisions being undocumented & unreviewed. This skill brings structured architectural critique into your AI workflow.\n\n→ Design pattern analysis\n→ Scalability & coupling chec",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046178987068838360"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046178987068838360"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 1,
+      "is_new": false,
+      "score": 412.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "Here's the step-by-step to use HeyGen's /website-to-hyperframes skill:\n\n1. Install once in terminal: \nnpx skills add heygen-com/hyperframes\n\n2. Open Claude Code, Cursor, or similar AI agent.\n\n3. Prompt like: \"Use the /website-to-hyperframes skill to create a 25-second product lau",
+        "likes": 2,
+        "url": "https://x.com/i/status/2046049323054498229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046121795447648689",
+        "https://x.com/i/status/2046050387258392700",
+        "https://x.com/i/status/2046050312495284373",
+        "https://x.com/i/status/2046049323054498229"
+      ]
+    },
+    {
+      "repo": "gh05tcrew/pentestagent",
+      "github_url": "https://github.com/gh05tcrew/pentestagent",
+      "tier": 2,
+      "is_new": false,
+      "score": 584.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 123,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "⚔️ PentestAgent — AI-Driven Penetration Testing Framework\n\nAutonomous execution. Real tools. No hand-holding.\n\n• Runs nmap, sqlmap, metasploit\n• Browser + terminal automation\n• Multi-agent (parallel recon)\n• MCP tool integration\n\nRecon → Exploit → Report\n\n🔗 https://t.co/lTGgcJc7Y",
+        "likes": 123,
+        "url": "https://x.com/i/status/2045666145756385338"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045666145756385338"
+      ]
+    },
+    {
+      "repo": "bankrbot/skills",
+      "github_url": "https://github.com/bankrbot/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 440.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xDeployer",
+        "text": "tell bankr to install the twitter agent skill and create an agent that can read/write to X. \n\nthe skill is customizable and editable so you can have your agent customize it to your liking. \n\nskill: https://t.co/0lvcDPOhLH\n\nagent: https://t.co/zqpAn3JbZy\n\nthe latest upgrade turned",
+        "likes": 90,
+        "url": "https://x.com/i/status/2045995425614934052"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045995425614934052"
+      ]
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "github_url": "https://github.com/langchain-ai/rag-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 274.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mimu_ai1",
+        "text": "5 AI projects that can help get you hired in 2026\n\nsave this for later and retweet ❤️\n\n1. RAG from Scratch\n\nGitHub: https://t.co/g6dbRDljcN\n\n2. Al Social Media Agent\n\nGitHub: https://t.co/bCswlmOPJi\n\n3. Medical Image Analysis\n\nGitHub: https://t.co/9Qe16hmzCv\n\n4. MCP Tool-Calling ",
+        "likes": 33,
+        "url": "https://x.com/i/status/2045752296299278451"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045752296299278451"
+      ]
+    },
+    {
+      "repo": "namedfarouk/arc-docs-mcp",
+      "github_url": "https://github.com/namedfarouk/arc-docs-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 269.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NamedFarouk",
+        "text": "I built an MCP server for @arc's docs.\n\nIt pulls all 85 sections from Arc's docs into any AI coding tool as an MCP server. \nCursor, Claude Code, ChatGPT, Codex, Gemini CLI.\n\nNow when you ask about CCTP forwarding, Paymaster gas sponsorship, ERC-8183 agent registration, or deployi",
+        "likes": 43,
+        "url": "https://x.com/i/status/2045432400071512077"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045432400071512077"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "game-creator: an agent skill to build and deploy games. \n\nprompt a game, ship a game:\n\nnpx skills add OpusGameLabs/game-creator\n\nthen /make-game [your idea]",
+        "likes": 1,
+        "url": "https://x.com/i/status/2045990849041821718"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045990849041821718"
+      ]
+    },
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "github_url": "https://github.com/cocoindex-io/cocoindex-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinghuaJ",
+        "text": "@rcmisk if you need fresh data for agents. killer example https://t.co/b5oDpOBweg\nnpx skills add cocoindex-io/cocoindex-code",
+        "likes": 1,
+        "url": "https://x.com/i/status/2045942310727479654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045942310727479654"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 1,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChrisLaubAI",
+        "text": "1. Caveman\n\nMakes Claude talk like a caveman. Drops articles, filler, pleasantries.\n\nCuts ~75% of output tokens. Technical accuracy stays intact.\n\n\"New object ref each render. Wrap in useMemo.\"\n\nInstall:\nnpx skills add JuliusBrussee/caveman\n\nhttps://t.co/1IfeqlhQT9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046175323608568165"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046175323608568165"
+      ]
+    },
+    {
+      "repo": "agent-wonderland/skill",
+      "github_url": "https://github.com/agent-wonderland/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AgentW0nderland",
+        "text": "$0.10/request\n\nhttps://t.co/syJV5kNKD8\n\nGive your agent access to the wonderland:\nnpx skills add Agent-Wonderland/skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045900114581946559"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045900114581946559"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2045874092230795544",
+      "author": "Polkadot",
+      "text": "Imagine having a Polkadot expert sitting next to you while you build.\n\nThat's what the official Polkadot Documentation MCP (Model Context Protocol) server feels like.\n\nAsk it anything:\n\nHow do XCM fees work?\nWhich OpenGov track does your proposal belong to?\nHow do I benchmark a c",
+      "likes": 393,
+      "views": 0,
+      "url": "https://x.com/i/status/2045874092230795544",
+      "is_kol": false,
+      "score": 1534.0
+    },
+    {
+      "id": "2045797310383468624",
+      "author": "PrajwalTomar_",
+      "text": "This guy just dropped the MCP server list I've been gatekeeping.\n\nI've been running Claude at my agency for months and watching people say \"Claude can't do X\" when they're just using it wrong.\n\nThis just saved someone 20 hours of setup.",
+      "likes": 432,
+      "views": 0,
+      "url": "https://x.com/i/status/2045797310383468624",
+      "is_kol": false,
+      "score": 1466.0
+    },
+    {
+      "id": "2045958374123081813",
+      "author": "georgeorch",
+      "text": "The highest-leverage skill for a one-person AI business will soon be agent orchestration.\n\nIf you want to build systems that actually ship, here are the resources that shaped how I think about it:\n\n1/ The Goal - Eliyahu G.\n2/ The Lean Startup - Eric R.\n3/ Obviously Awesome - Apri",
+      "likes": 226,
+      "views": 0,
+      "url": "https://x.com/i/status/2045958374123081813",
+      "is_kol": false,
+      "score": 723.0
+    },
+    {
+      "id": "2045927791875457209",
+      "author": "findatasets",
+      "text": "Earnings are live on our MCP server.\n\nClaude can now pull actuals vs estimates, revenue surprises, and EPS beats for any company.\n\nData is updated seconds after earnings drop. https://t.co/i9dITVDSgJ",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2045927791875457209",
+      "is_kol": false,
+      "score": 569.0
+    },
+    {
+      "id": "2046025980645609629",
+      "author": "liu8in",
+      "text": "making websites w Claude Design?  \n\nwell we built  hyperframes/website-to-hyperframes skill\n\ncuz websites are all just HTML + CSS + JS!\n\nand ofc, this launch video also made with hyperframes.  \n\ncomment \"hyperframes\" - i'll send you full codebase access for this video. https://t.",
+      "likes": 173,
+      "views": 0,
+      "url": "https://x.com/i/status/2046025980645609629",
+      "is_kol": false,
+      "score": 569.0
+    },
+    {
+      "id": "2046085317623713900",
+      "author": "yupaopao0",
+      "text": "昨天折腾一下午，终于把 Hermes 彻底安装好了！\nHermes + Surf Skill 的组合真的无敌。Surf Skill 上线没多久，就把链上数据、智能钱跟踪、币安实时扫描这些硬核能力全部塞进了 Agent，玩起来太顺手了\n今天我直接给它搭建了一个专属的「币安庄家吸筹 · 低位未启动」代币日报。\n核心作用：\n专门帮我筛选那些还在底部悄悄吸筹、还没启动的潜力币。每天自动推送一次，我再结合自己判断做决策，再也不用自己满世界刷推特、翻链上数据那么麻烦了。\n昨天给我推送了三个代币，话说这个准吗？\n感觉还需要给他喂一堆策略，调整下精准度，才行，这几天慢慢",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2046085317623713900",
+      "is_kol": false,
+      "score": 534.0
+    },
+    {
+      "id": "2046028322937983456",
+      "author": "kirillk_web3",
+      "text": "CANCEL your Monday morning plans.\n\nYou NEED to:\nWatch the Anthropic Guide — 14 minutes\nRead the 33-page Claude Skills guide — 1 sitting\nBuild your first Skill — 15 minutes\nTeach Claude your entire workflow — once. forever.\nCut your token usage in half — automatically\nNever explai",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2046028322937983456",
+      "is_kol": false,
+      "score": 533.0
+    },
+    {
+      "id": "2045961166086656099",
+      "author": "DODOREACH",
+      "text": "Thanks @teknium for merging my PR! 🙏\n\nHermes agent now turns any image into beautiful pixel art 🔥\nSNES for max detail, ARCADE for that chunky retro feel.\n\nhermes update to get the new built-in skill\n\npaired with Pollinations (free) = instant pixel art factory 🏭\n\n@NousResearch htt",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2045961166086656099",
+      "is_kol": false,
+      "score": 463.0
+    },
+    {
+      "id": "2045850287039037647",
+      "author": "WordPress",
+      "text": "WordPress Playground now has an official MCP server via the new @wp-playground/mcp package. One command connects Claude Code or Gemini CLI to a local Playground instance for file access, PHP execution, and site management. https://t.co/a19VfJpxZ7",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2045850287039037647",
+      "is_kol": false,
+      "score": 454.0
+    },
+    {
+      "id": "2046097059057651941",
+      "author": "garrytan",
+      "text": "When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, and then I release it open source\n\nThis is GStack v1.4 - with a new /make-pdf skill \n\nIt works great with OpenClaw/Hermes as a tool. https://t.co/XgPejzWpoS",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2046097059057651941",
+      "is_kol": false,
+      "score": 422.0
+    },
+    {
+      "id": "2046061247733653704",
+      "author": "jullerino",
+      "text": "call it a skill issue but it's so exhausting having the agent write backwards compatibility shims and regression tests for every fucking change it makes",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2046061247733653704",
+      "is_kol": false,
+      "score": 378.0
+    }
+  ]
+}
