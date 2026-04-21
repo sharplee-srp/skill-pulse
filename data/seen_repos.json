@@ -1262,5 +1262,53 @@
   "saurabh-oss/skills": {
     "first_seen": "2026-04-20",
     "tier": 3
+  },
+  "alchaincyf/huashu-design": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "kotlin/kotlin-agent-skills": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "orbisapi/agent-skills": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "dexhorthy/slopfiles": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "kimlawtech/korean-privacy-terms": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "soderlind/vmfa-ai-ability": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "alondotsh/alon-skills": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "ar9av/obsidian-wiki": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "mohtashammurshid/getdesign": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "kinggyusuh/harness-loom": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "sipeed/picoclaw": {
+    "first_seen": "2026-04-21",
+    "tier": 3
+  },
+  "vercel-labs/skills": {
+    "first_seen": "2026-04-21",
+    "tier": 3
   }
 }

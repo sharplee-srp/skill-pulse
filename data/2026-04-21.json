@@ -1,0 +1,571 @@
+{
+  "date": "2026-04-21",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 186,
+    "tweets_with_repos": 24,
+    "unique_repos": 21,
+    "new_repos": 12,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "alchaincyf/huashu-design",
+      "github_url": "https://github.com/alchaincyf/huashu-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 420.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlchainHust",
+        "text": "Huashu-Design现已正式发布：https://t.co/rMvLbPR98v\n\n这是让你的Agent设计能力领先一个时代的skill",
+        "likes": 90,
+        "url": "https://x.com/i/status/2046432900401566198"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046432900401566198"
+      ]
+    },
+    {
+      "repo": "kotlin/kotlin-agent-skills",
+      "github_url": "https://github.com/kotlin/kotlin-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 408.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotlin",
+        "text": "Migrating to Android Gradle plugin 9.0 in your Kotlin Multiplatform project?\n\nTry this Agent Skill that helps update projects for AGP 9.0 step by step 🤖👉 \nhttps://t.co/gi2Zo67yfO\n\nIt’s part of a growing collection of Kotlin Agent Skills – more coming soon 🚀 https://t.co/9ZGscQGzK",
+        "likes": 81,
+        "url": "https://x.com/i/status/2046277992268070955"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046277992268070955"
+      ]
+    },
+    {
+      "repo": "orbisapi/agent-skills",
+      "github_url": "https://github.com/orbisapi/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 196.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OrbisAPI",
+        "text": "Orbis API marketplace now has over 2200+ APIs and growing fast. \n\nAdd to your agent in one line: \nnpx skills add OrbisAPI/agent-skills\n\nhttps://t.co/lpbbuhYLob https://t.co/uMpM25UFAd",
+        "likes": 17,
+        "url": "https://x.com/i/status/2046307504452489449"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046307504452489449"
+      ]
+    },
+    {
+      "repo": "dexhorthy/slopfiles",
+      "github_url": "https://github.com/dexhorthy/slopfiles",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dexhorthy",
+        "text": "@ulidabess there is one oss in `npx skills add dexhorthy/slopfiles`",
+        "likes": 5,
+        "url": "https://x.com/i/status/2046323548361240893"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046323548361240893"
+      ]
+    },
+    {
+      "repo": "kimlawtech/korean-privacy-terms",
+      "github_url": "https://github.com/kimlawtech/korean-privacy-terms",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "这个项目把韩国隐私政策和服务条款的生成流程做成了 Claude Code Skill，能按服务类型、地区和语言要求自动分支，减少手工整理法条和模板的工作。\n\nhttps://t.co/7L4sdfvI72 https://t.co/lTxnUHXQxH",
+        "likes": 2,
+        "url": "https://x.com/i/status/2046516791607009583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046516791607009583"
+      ]
+    },
+    {
+      "repo": "soderlind/vmfa-ai-ability",
+      "github_url": "https://github.com/soderlind/vmfa-ai-ability",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "soderlind",
+        "text": "#WordPress Virtual Media Folders, skill available:\n\nnpx skills add soderlind/vmfa-ai-ability@add-photo-to-folder\n\nDoc/skill: https://t.co/pwVOkFQrYb https://t.co/qYERwkrgoE",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046488983903809618"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046488983903809618"
+      ]
+    },
+    {
+      "repo": "alondotsh/alon-skills",
+      "github_url": "https://github.com/alondotsh/alon-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alondotsh",
+        "text": "更新了alon-github-security-audit skill ，按照这个论文，增加了对md文件和Memory的审计\n\n审计github和本地目录必备\n\n安装方法：\nnpx skills add alondotsh/alon-skills --skill alon-github-security-audit\n\n或https://t.co/BGvD02Ifgz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046417061359075813"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046417061359075813"
+      ]
+    },
+    {
+      "repo": "ar9av/obsidian-wiki",
+      "github_url": "https://github.com/ar9av/obsidian-wiki",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "🔄 Still trending strong.\n\nobsidian-wiki: build an Obsidian wiki with AI agents using Karpathy's LLM Wiki pattern. Compile knowledge into linked markdown files, keep current. Any AI coding agent. npx skills add Ar9av/obsidian-wiki\n\n⭐ 494\n#Obsidian #Knowledge #AI https://t.co/8MucL",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046379847576949229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046379847576949229"
+      ]
+    },
+    {
+      "repo": "mohtashammurshid/getdesign",
+      "github_url": "https://github.com/mohtashammurshid/getdesign",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mohtashamdotdev",
+        "text": "@jakubkrehel pair it with npx skills add mohtashammurshid/getdesign",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046310265176961186"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046310265176961186"
+      ]
+    },
+    {
+      "repo": "kinggyusuh/harness-loom",
+      "github_url": "https://github.com/kinggyusuh/harness-loom",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kinggyusuh",
+        "text": "https://t.co/0bfAHBNNSO\n계속 반복되는 하네스 세팅을 조정하면서 오픈소스로 올리고 있습니다.\n\n하네스 엔지니어링 역시 재미있네요. 개인적으로 production 레벨의 제품은, \nclaude / codex + subagent, skill 튜닝이 여전히 hermess agent나 openclaw보다 좋은 것 같습니다.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046475591730467057"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046475591730467057"
+      ]
+    },
+    {
+      "repo": "sipeed/picoclaw",
+      "github_url": "https://github.com/sipeed/picoclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ApiEmotion",
+        "text": "Anyone wanting to try 'the claw' who is on a budget can now use the freeride skill on PicoClaw. No Mac mini needed an RPI will do. This contribution means it us possible to use PicoClaw with OpenRouter's free models so $0 to try it out: https://t.co/ke0NNbLunw https://t.co/epYiuU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046467665233850688"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046467665233850688"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "Bu Claude Code'un \"find-skills\" skill'i. Ne yapmak istediğini (örneğin YouTube otomasyonu) tarif edersen, yüzlerce skill arasından sana en uygun olanları otomatik öneriyor. Projen hızlanıyor, manuel araştırma azalıyor.\n\nNasıl kullanırsın: \nClaude Code terminalinde şunu çalıştır: ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046528358251421989"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046528358251421989"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coinbase/agentic-wallet-skills",
+      "github_url": "https://github.com/coinbase/agentic-wallet-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 7448.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 1986,
+      "total_retweets": 218,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "brian_armstrong",
+        "text": "For the agentic economy to overtake the human economy, agents need a way to discover services.\n\nWe launched Agentic(.)market to give agents a discovery layer to find and integrate x402 services seamlessly.\n\nAdd the skill to your agent. And list your services to start earning reve",
+        "likes": 1982,
+        "url": "https://x.com/i/status/2046270895795163635"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046270895795163635",
+        "https://x.com/i/status/2046513172333416751",
+        "https://x.com/i/status/2046450606370676746",
+        "https://x.com/i/status/2046298800147636479"
+      ]
+    },
+    {
+      "repo": "gh05tcrew/pentestagent",
+      "github_url": "https://github.com/gh05tcrew/pentestagent",
+      "tier": 2,
+      "is_new": false,
+      "score": 619.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 128,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "⚔️ PentestAgent — AI-Driven Penetration Testing Framework\n\nAutonomous execution. Real tools. No hand-holding.\n\n• Runs nmap, sqlmap, metasploit\n• Browser + terminal automation\n• Multi-agent (parallel recon)\n• MCP tool integration\n\nRecon → Exploit → Report\n\n🔗 https://t.co/lTGgcJc7Y",
+        "likes": 128,
+        "url": "https://x.com/i/status/2045666145756385338"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045666145756385338"
+      ]
+    },
+    {
+      "repo": "namedfarouk/arc-docs-mcp",
+      "github_url": "https://github.com/namedfarouk/arc-docs-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 272.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NamedFarouk",
+        "text": "I built an MCP server for @arc's docs.\n\nIt pulls all 85 sections from Arc's docs into any AI coding tool as an MCP server. \nCursor, Claude Code, ChatGPT, Codex, Gemini CLI.\n\nNow when you ask about CCTP forwarding, Paymaster gas sponsorship, ERC-8183 agent registration, or deployi",
+        "likes": 44,
+        "url": "https://x.com/i/status/2045432400071512077"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045432400071512077"
+      ]
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "github_url": "https://github.com/langchain-ai/rag-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 269.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mimu_ai1",
+        "text": "5 AI projects that can help get you hired in 2026\n\nsave this for later and retweet ❤️\n\n1. RAG from Scratch\n\nGitHub: https://t.co/g6dbRDljcN\n\n2. Al Social Media Agent\n\nGitHub: https://t.co/bCswlmOPJi\n\n3. Medical Image Analysis\n\nGitHub: https://t.co/9Qe16hmzCv\n\n4. MCP Tool-Calling ",
+        "likes": 33,
+        "url": "https://x.com/i/status/2045752296299278451"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045752296299278451"
+      ]
+    },
+    {
+      "repo": "anaisbetts/mcp-computer-use",
+      "github_url": "https://github.com/anaisbetts/mcp-computer-use",
+      "tier": 3,
+      "is_new": false,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "anaisbetts",
+        "text": "Every other implementation seemed to be pretty Bad, so here we go - https://t.co/kImnbWRkqo\n\nThis is an MCP Server based on OpenAI's CUA tool design (though most models can figure it out), set up the server and drive your desktop around",
+        "likes": 34,
+        "url": "https://x.com/i/status/2045971723120517411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045971723120517411"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vlasto_nft",
+        "text": "HeyGen just open-sourced HyperFrames.\n\nWrite HTML. Claude runs it. MP4 appears.\n\nNot a gimmick — LLMs already know HTML/CSS/JS cold. HeyGen just made that the primitive.\n\nnpx skills add heygen-com/hyperframes\n\nagent-native video is here https://t.co/vN9DfVjmpP",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046303506252894544"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046303506252894544"
+      ]
+    },
+    {
+      "repo": "toqnlab/agent-skills",
+      "github_url": "https://github.com/toqnlab/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yus_erdo",
+        "text": "click any element on your landing page → drop hand-drawn arrows + handwritten labels next to it → coding agent writes the JSX for you, anchored to the element you picked\n\nnew agent skill:\nnpx skills add toqnlab/agent-skills\n\nshipped w/ 21 arrows from @imeronn's Handy Arrows 🙏\n\nht",
+        "likes": 0,
+        "url": "https://x.com/i/status/2045983067991687385"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045983067991687385"
+      ]
+    },
+    {
+      "repo": "supabase/cli",
+      "github_url": "https://github.com/supabase/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Crypto_QianXun",
+        "text": "Claude Code 最佳 GitHub 仓库，让你的下一个项目效率提升 10 倍：\n\n1. Supabase CLI  \nhttps://t.co/GcQZzXmYeF  \n\n2. Skill Creator  \nhttps://t.co/fGURQSs502  \n\n3. Get Sh*t Done  \nhttps://t.co/YrLHcPCmrJ  \n\n4. NotebookLM (Python)  \nhttps://t.co/tK8FuwzpKQ  \n\n5. Obsidian  \nhttps://t.co/4jwn8OYv8H  \n\n6. Co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046532403989303654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046532403989303654"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2046226956740637156",
+      "author": "JamesAI",
+      "text": "拿网上已经泄露的 claude design 系统提示词，\n然后把这个提示词的链接丢给 claude code，同时输入：\n\n---\n请根据这个提示词，帮我生成一个设计 skill，并且命名为 /sydney-design\n---\n\n然后就可以用 /sydney-design 在 claude code 等 coding agent 里面用 skill 方式调用 claude design 了。\n\n同时你可以宣称你已经逆向了 claude design，并且“开源”来引流。\n\n应该还可以再发一篇公众号。",
+      "likes": 272,
+      "views": 0,
+      "url": "https://x.com/i/status/2046226956740637156",
+      "is_kol": false,
+      "score": 956.0
+    },
+    {
+      "id": "2046230422183407639",
+      "author": "Gsnchez",
+      "text": "Os presento la v2 del BQuant MCP server. \nEn esta versión he ampliado la convergencia de señales: calidad + momentum + insiders + congreso + noticias en una sola query:\n\n▶️\"Busca empresas con Piotroski ≥7, Altman ≥3, ROCE ≥25%, golden cross confirmado, y con algún superinvestor d",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2046230422183407639",
+      "is_kol": false,
+      "score": 565.0
+    },
+    {
+      "id": "2046480541608988833",
+      "author": "Unibase_AI",
+      "text": "2/ Build an ERC-8183 service with your Hermes agent in 5 minutes.\n\n1⃣Install the Unibase × BitAgent Skill\n2⃣Describe your ERC-8183 service idea\n3⃣Set up service details\n4⃣List it on the BitAgent Marketplace\n\nYour service is live.\nYour agent gets paid.\n\nBitAgent Marketplace Coming",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2046480541608988833",
+      "is_kol": false,
+      "score": 545.0
+    },
+    {
+      "id": "2046305856128491818",
+      "author": "masterprintr",
+      "text": "Builders, dont sleep on this. Printr's MCP server lets any agent deploy tokens autonomously across 8+ chains. plug it into Claude, Cursor, or your own stack in one line:\nnpx @printr/mcp@latest\nagent skills, bonding curves, Proof of Belief staking, all callable. ship something wil",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2046305856128491818",
+      "is_kol": false,
+      "score": 458.0
+    },
+    {
+      "id": "2046453042011374027",
+      "author": "CopyRebeldia",
+      "text": "un tío acaba de soltar un skill en github que hace que codex te genere UIs así de una sola pasada.\n\nya 10k estrellas. los devs frontend están acabados. https://t.co/tgpXIQOhAd",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2046453042011374027",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2046171441532448913",
+      "author": "JPodhorsky",
+      "text": "DOT just went full AI-native Docs now ship as llms.txt + focused JSON bundles (XCM, ink!, runtime, governance…) + official MCP server. My agent can now pull exact DOT knowledge on demand instead of hallucinating. RAG + MCP = dev superpowers.This is future-proof. $DOT #Polkadot",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2046171441532448913",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2046199818632995111",
+      "author": "jordymaui",
+      "text": "this matters more than most people realise.\n\nMCP is how OpenClaw agents actually talk to the outside world - your calendar, your browser, your APIs.\n\nMCPorter makes that layer easier to build and more reliable.\n\nper-server tool filtering alone is huge - instead of your agent havi",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2046199818632995111",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2046497026364318189",
+      "author": "billions_ntwk",
+      "text": "One of our solutions to non-human (AI) actors with no accountability is our \"Verified Agent Identity\" skill\n\nhttps://t.co/t2p1YHks2Y",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2046497026364318189",
+      "is_kol": false,
+      "score": 280.0
+    },
+    {
+      "id": "2046331070409306546",
+      "author": "Voxyz_ai",
+      "text": "been using gbrain for a while and never actually opened the soul-audit skill(for your openclaw/hermes). ran it today. came out better than i expected.\n\nit's a 6-phase interview that generates a fresh agent, every answer is from you:\n\n→ phase 1 identity: what is this agent to you ",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2046331070409306546",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2046436901821857890",
+      "author": "WEB3_furture",
+      "text": "Hermes Agent 赚钱/套利心得\n\n用过你才知道，Hermes Agent 到底有多强大，我用他内置的预测市场 Polymarket 的专属 Skill+ 新闻 Skill，撸点新闻交易小钱，追踪内幕地址以小博大....\n\n当然，任何进阶玩法都需要你主动喂入更多材料，让它越用越懂你\n\n但这只是它众多强大功能之一，要用起来不要“仅收藏”",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2046436901821857890",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2046040666522673382",
+      "author": "MR_0FFICIALL",
+      "text": "TRON just integrated deBridge Model Context Protocol (MCP) server…\n\nAnd this isn’t just another partnership.\n\nIt’s a shift in how applications and even AI agents interact across blockchains.\n\nCross-chain has always been one of the hardest parts of building in Web3.\n\nDifferent cha",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2046040666522673382",
+      "is_kol": false,
+      "score": 198.0
+    }
+  ]
+}
