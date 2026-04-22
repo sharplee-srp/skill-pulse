@@ -1,0 +1,538 @@
+{
+  "date": "2026-04-22",
+  "stats": {
+    "total_fetched": 345,
+    "unique_tweets": 174,
+    "tweets_with_repos": 21,
+    "unique_repos": 20,
+    "new_repos": 13,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "mksglu/context-mode",
+      "github_url": "https://github.com/mksglu/context-mode",
+      "tier": 2,
+      "is_new": true,
+      "score": 954.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 233,
+      "total_retweets": 31,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ihtesham2005",
+        "text": "Stop paying for Claude Max.\n\nBefore you upgrade your plan to get more context, install this first.\n\nContext Mode is a free MCP server that makes your existing context window last 6x longer by never letting raw tool output touch it in the first place.\n\n→ A full Playwright snapshot",
+        "likes": 233,
+        "url": "https://x.com/i/status/2046680428640354790"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046680428640354790"
+      ]
+    },
+    {
+      "repo": "jasonkneen/agent-simulator",
+      "github_url": "https://github.com/jasonkneen/agent-simulator",
+      "tier": 2,
+      "is_new": true,
+      "score": 803.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 206,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jasonkneen",
+        "text": "Introducing Agent-Simulator. \n\nAn open source MCP based tool that allows you to stream the iOS simulator into a browser, interact, inspect and jump to react / expo code. \n\nIt also allows highlighting of native controls in other apps, and working on adapting it for swift.\n\nMCP ena",
+        "likes": 206,
+        "url": "https://x.com/i/status/2046596093077536843"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046596093077536843"
+      ]
+    },
+    {
+      "repo": "code-with-beto/skills",
+      "github_url": "https://github.com/code-with-beto/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 624.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 158,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "betomoedano",
+        "text": "Claude made this icon in 1 min, here's how:\n\n1. Install the skill: \"npx skills add https://github[dot]com/code-with-beto/skills --skill app-icon\"\n\n2. prompt: \"/app-icon let's create a minimalistic icon\"\n\n3. done! (works on android as well)",
+        "likes": 158,
+        "url": "https://x.com/i/status/2046627203840897103"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046627203840897103"
+      ]
+    },
+    {
+      "repo": "agentmail-to/agentmail-skills",
+      "github_url": "https://github.com/agentmail-to/agentmail-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 416.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 92,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "agentmail",
+        "text": "Today, we’re announcing our official AgentMail Skills.\n\nWithout jumping through hoops, your agent can immediately learn how to use every service AgentMail has to offer.\n\nSimply with one command:\n\nnpx skills add agentmail-to/agentmail-skills",
+        "likes": 92,
+        "url": "https://x.com/i/status/2046635378166448198"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046635378166448198"
+      ]
+    },
+    {
+      "repo": "getagentseal/codeburn",
+      "github_url": "https://github.com/getagentseal/codeburn",
+      "tier": 3,
+      "is_new": true,
+      "score": 226.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sopersone",
+        "text": "YOU DON’T EVEN REALIZE WHERE YOUR TOKENS ARE GOING IN CLAUDE 🤯\n\nThe team built a tool that shows the real breakdown of token usage in Claude Opus 4.7\n\nNow you can see everything without any illusions:\n\n> how much each of your requests costs\n> how much MCP and tools consume\n> how ",
+        "likes": 42,
+        "url": "https://x.com/i/status/2046650953441456265"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046650953441456265"
+      ]
+    },
+    {
+      "repo": "tekkaadan/litcoin-skill",
+      "github_url": "https://github.com/tekkaadan/litcoin-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 197.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tekkaadan",
+        "text": "For some reason ClawHub removed the LITCOIN skill from their directory. So we rebuilt the whole thing on our own infrastructure.\n\n$LITCOIN now installs natively in every agent that speaks the open https://t.co/LnCWIW4Xdv standard. Each client has its own command, same source.\n\nHe",
+        "likes": 29,
+        "url": "https://x.com/i/status/2046578700389323157"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046578700389323157"
+      ]
+    },
+    {
+      "repo": "colosseumorg/collosseum-resources",
+      "github_url": "https://github.com/colosseumorg/collosseum-resources",
+      "tier": 3,
+      "is_new": true,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "edgarpavlovsky",
+        "text": "1) npx skills add ColosseumOrg/collosseum-resources\n\n2) ask your agent: \"How do I get started with Pentagon?\"\n\n3) show up to the @colosseum office anytime this week and i'll onboard you to @runpentagon personally https://t.co/kjfDUVJGPV",
+        "likes": 21,
+        "url": "https://x.com/i/status/2046714043554230477"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046714043554230477"
+      ]
+    },
+    {
+      "repo": "zeke/faster-chrome-devtools-skill",
+      "github_url": "https://github.com/zeke/faster-chrome-devtools-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 140.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zeke",
+        "text": "I made an agent skill to speed up Chrome DevTools MCP.\n\nnpx skills add zeke/faster-chrome-devtools-skill\n\nhttps://t.co/ivQgm13p1c https://t.co/nOPp7RDdnn",
+        "likes": 10,
+        "url": "https://x.com/i/status/2046812115793760566"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046812115793760566"
+      ]
+    },
+    {
+      "repo": "blaxel-ai/agent-skills",
+      "github_url": "https://github.com/blaxel-ai/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "blaxelAI",
+        "text": "Bootstrapping or troubleshooting your Blaxel deployment?\n\nAdd the Blaxel CLI skill to your coding agent and let it do the hard work: \n\nnpx skills add blaxel-ai/agent-skills\n\nPerfect for troubleshooting and getting new Blaxel projects off the ground.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2046625762812289224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046625762812289224"
+      ]
+    },
+    {
+      "repo": "ansmonjol/cve-doctor",
+      "github_url": "https://github.com/ansmonjol/cve-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlexMonjol",
+        "text": "Fix Dependabot CVEs without the effort.\n\ncve-doctor walks the dependency chain, identifies blocking parents, flags unmaintained packages, and only suggests a package-manager override as a last resort.\n\nnpx skills add ansmonjol/cve-doctor",
+        "likes": 1,
+        "url": "https://x.com/i/status/2046846467307110503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046846467307110503"
+      ]
+    },
+    {
+      "repo": "leoyeai/openclaw-master-skills",
+      "github_url": "https://github.com/leoyeai/openclaw-master-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "🧠 561+ AI Agent Skills — Open & Structured\n\nOpenClaw Master Skills: curated skill pack for AI agents (weekly updated)\n\n• 561+ skills\n• Multi-domain (AI, OSINT, Dev, Automation)\n• Plug-and-use via ClawHub\n• Fully inspectable\n\nhttps://t.co/uf4thWBJc6\n\n#CyberSecurity #OSINT #AIagent",
+        "likes": 1,
+        "url": "https://x.com/i/status/2046875260524605750"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046875260524605750"
+      ]
+    },
+    {
+      "repo": "adoptai/noui",
+      "github_url": "https://github.com/adoptai/noui",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SNeurgaonkar",
+        "text": "Works with any MCP client - claude, chatgpt, cursor, your own agent. ships installable skills for claude code / codex / opencode:\n\nnpx skills add adoptai/noui\n\nMIT. Runs locally. No vendor lock-in.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046775359686021547"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046775359686021547"
+      ]
+    },
+    {
+      "repo": "dpasca/littlecontrolroom",
+      "github_url": "https://github.com/dpasca/littlecontrolroom",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "109mae",
+        "text": "No special Skill or MCP involved.\nThis is Codex running under my \"IDE\" Little Control Room https://t.co/szCZTyTOxb",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046894251041345720"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046894251041345720"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jakubkrehel/make-interfaces-feel-better",
+      "github_url": "https://github.com/jakubkrehel/make-interfaces-feel-better",
+      "tier": 3,
+      "is_new": false,
+      "score": 567.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 99,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neil_xbt",
+        "text": "Claude Code has a single command that automatically fixes small UI details to make interfaces feel more premium!\n\nThe command is: npx skills add jakubkrehel/make-interfaces-feel-better\n\nCredit to @jakubkrehel for this! https://t.co/8zHOyierYh",
+        "likes": 47,
+        "url": "https://x.com/i/status/2046818278287278491"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046818278287278491",
+        "https://x.com/i/status/2046795994629550563"
+      ]
+    },
+    {
+      "repo": "anaisbetts/mcp-computer-use",
+      "github_url": "https://github.com/anaisbetts/mcp-computer-use",
+      "tier": 3,
+      "is_new": false,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "anaisbetts",
+        "text": "Every other implementation seemed to be pretty Bad, so here we go - https://t.co/kImnbWRkqo\n\nThis is an MCP Server based on OpenAI's CUA tool design (though most models can figure it out), set up the server and drive your desktop around",
+        "likes": 34,
+        "url": "https://x.com/i/status/2045971723120517411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2045971723120517411"
+      ]
+    },
+    {
+      "repo": "supabase/cli",
+      "github_url": "https://github.com/supabase/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 134.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shruti_0810",
+        "text": "🚨 BREAKING: 10x your dev workflow with these Claude Code repos👇\n\n1. Supabase CLI\nhttps://t.co/8FJUxxy7aJ\n\n2. Skill Creator (Anthropic)\nhttps://t.co/OS1LbeYj7D\n\n3. Get Sh*t Done\nhttps://t.co/yBp5mQw2Ry\n\n4. NotebookLM (Python)\nhttps://t.co/cflXIVZd5e\n\n5. Obsidian\nhttps://t.co/Gpzym",
+        "likes": 8,
+        "url": "https://x.com/i/status/2046855018926772407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046855018926772407"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "do it with one command:\n\nnpx skills add OpusGameLabs/game-creator\n/make-game [your idea]\n\nbuild &gt; deploy &gt; playcoin live.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2046795750319800375"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046795750319800375"
+      ]
+    },
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "feesyiam",
+        "text": "Claude Code + BrowserAct = an agent that can actually USE the internet\n\nmost agents can read websites\n\nthey can't click, login, or bypass Cloudflare\n\none command fixes that:\nnpx skills add browser-act/skills --skill browser-act\n\nyour agent now controls any website like a real hum",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046873483985252862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046873483985252862"
+      ]
+    },
+    {
+      "repo": "sipeed/picoclaw",
+      "github_url": "https://github.com/sipeed/picoclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ApiEmotion",
+        "text": "Anyone wanting to try 'the claw' who is on a budget can now use the freeride skill on PicoClaw. No Mac mini needed an RPI will do. This contribution means it us possible to use PicoClaw with OpenRouter's free models so $0 to try it out: https://t.co/ke0NNbLunw https://t.co/epYiuU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2046467665233850688"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046467665233850688"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2046628030777631000",
+      "author": "OfficialLoganK",
+      "text": "Introducing our biggest upgrades to the Deep Research API yet... including Deep Research Max (our SOTA system), MCP support, Native charts &amp; infographics, planning mode, full tool support (including Google tools), full multi-modal input support, &amp; real-time progress strea",
+      "likes": 1724,
+      "views": 0,
+      "url": "https://x.com/i/status/2046628030777631000",
+      "is_kol": false,
+      "score": 5847.0
+    },
+    {
+      "id": "2046612422752923961",
+      "author": "helloiamleonie",
+      "text": "What goes into the system prompt vs. what goes into an Agent Skill?\n\nAgent’s system prompt is for identity, constraints, and persistent context.\n• What the agent is and what it should always or never do\n• How it should generally approach problems (reasoning style)\n• Persistent co",
+      "likes": 220,
+      "views": 0,
+      "url": "https://x.com/i/status/2046612422752923961",
+      "is_kol": false,
+      "score": 825.0
+    },
+    {
+      "id": "2046641074513563863",
+      "author": "hyperbrowser",
+      "text": "Your AI agents can now learn from any website visually.\n\nMeet the new HyperSkill.\n\nGive it any URL. Opus 4.7 screenshots it and generates a skill your agent can use instantly. Dashboards, charts, layouts, diagrams.\n\n Open source. Powered by Hyperbrowser. https://t.co/D8SbmIAims",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2046641074513563863",
+      "is_kol": false,
+      "score": 513.0
+    },
+    {
+      "id": "2046679446288298056",
+      "author": "tetsuoai",
+      "text": "AgenC agents have my cpus absolutely pinned. all 64 cores are sitting at 100%, and the load average is 203 / 195 / 173.\n\nif every subagent spins up its own MCP server set, overhead scales like: subagents * servers per agent\n\nfor agentic systems this gets bad fast.\n\ninstead of:\n\ns",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2046679446288298056",
+      "is_kol": false,
+      "score": 458.0
+    },
+    {
+      "id": "2046651225341583833",
+      "author": "nyk_builderz",
+      "text": "Ecosystem update: just merged 9 new resources into the awesome-hermes-agent list + bumped Hermes to v0.10.0  \n\nHighlights: \n- SkillClaw - auto-evolves your skill library (705 stars) \n- rtk-hermes - 60-90% token reduction on shell output - microsoft-workspace - Outlook/365 integra",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2046651225341583833",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2046621999930245332",
+      "author": "graphprotocol",
+      "text": "DeFi has a data fragmentation problem. Every lending protocol speaks a different language. 40 protocols used to mean 40 custom adapters.\n\nA community builder @PaulBarba12 solved it by combining @MessariCrypto's standardized Subgraphs on The Graph network with an MCP server.\n\nThe ",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2046621999930245332",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2046689327955194079",
+      "author": "mxmnci",
+      "text": "Our developer resources now have a dedicated page on the @colosseum platform!\n\nWe also shipped a skill so you can work with an agent to find the best resources for your project. https://t.co/X5rFOKgMCL",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2046689327955194079",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2046573707112620156",
+      "author": "socialwithaayan",
+      "text": "🚨 BREAKING: AI coding agents can finally understand your entire codebase without exploding your token count.\n\nZilliz just dropped Claude Context an open-source MCP server that makes large projects instantly searchable and usable by any coding agent.\n\nNo more pasting random files.",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2046573707112620156",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2046525516442710521",
+      "author": "dfinity",
+      "text": "The vetKeys skill teaches your agent:\n\n→ the full key derivation flow: transport key → encrypted vetKey → local decryption\n\n→ vetkd_public_key vs vetkd_derive_key - what each does and when to use which\n\n→ Identity-Based Encryption (IBE) - encrypt to a principal without them being",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2046525516442710521",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2046658976922951792",
+      "author": "HeySorinAI",
+      "text": "Sorin doesn't box you into one workflow.\n\nUse any leading agent Skill like one of @Binance's new skills or create your own to extend what Sorin can do. Custom capabilities, new data sources, market reactions tailored to your strategy.\n\nBuilt for how you actually trade. https://t.",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2046658976922951792",
+      "is_kol": false,
+      "score": 286.0
+    }
+  ]
+}

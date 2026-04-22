@@ -1310,5 +1310,57 @@
   "vercel-labs/skills": {
     "first_seen": "2026-04-21",
     "tier": 3
+  },
+  "mksglu/context-mode": {
+    "first_seen": "2026-04-22",
+    "tier": 2
+  },
+  "jasonkneen/agent-simulator": {
+    "first_seen": "2026-04-22",
+    "tier": 2
+  },
+  "code-with-beto/skills": {
+    "first_seen": "2026-04-22",
+    "tier": 2
+  },
+  "agentmail-to/agentmail-skills": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "getagentseal/codeburn": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "tekkaadan/litcoin-skill": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "colosseumorg/collosseum-resources": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "zeke/faster-chrome-devtools-skill": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "blaxel-ai/agent-skills": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "ansmonjol/cve-doctor": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "leoyeai/openclaw-master-skills": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "adoptai/noui": {
+    "first_seen": "2026-04-22",
+    "tier": 3
+  },
+  "dpasca/littlecontrolroom": {
+    "first_seen": "2026-04-22",
+    "tier": 3
   }
 }
