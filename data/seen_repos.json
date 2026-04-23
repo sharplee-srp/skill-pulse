@@ -1362,5 +1362,37 @@
   "dpasca/littlecontrolroom": {
     "first_seen": "2026-04-22",
     "tier": 3
+  },
+  "google/agents-cli": {
+    "first_seen": "2026-04-23",
+    "tier": 2
+  },
+  "byreal-git/byreal-perps-cli": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "czlonkowski/n8n-skills": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "zeroz-lab/gm-skills": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "subhajitlucky/skillscan": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "21st-dev/agent-elements": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "giaphutran12/codex-gstack": {
+    "first_seen": "2026-04-23",
+    "tier": 3
+  },
+  "antifabill/prompt-brief": {
+    "first_seen": "2026-04-23",
+    "tier": 3
   }
 }
