@@ -1,0 +1,599 @@
+{
+  "date": "2026-04-24",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 188,
+    "tweets_with_repos": 22,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "sivaprasadreddy/learning-skill",
+      "github_url": "https://github.com/sivaprasadreddy/learning-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 356.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sivalabs",
+        "text": "The biggest problem for beginners to learn any technology is \"Tutorial Hell\".\n\nIf you don't have a clear plan on what topics you want to learn then it is easy to get lost while going from one blog/video to another.\n\nI have created an Agent Skill to prepare a study plan so that yo",
+        "likes": 62,
+        "url": "https://x.com/i/status/2047527934295253226"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047527934295253226"
+      ]
+    },
+    {
+      "repo": "lqwdtech/saturnzap",
+      "github_url": "https://github.com/lqwdtech/saturnzap",
+      "tier": 3,
+      "is_new": true,
+      "score": 257.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shoneanstey",
+        "text": "Introducing SaturnZap ⚡\n\nA lightweight, non-custodial Lightning wallet for AI agents.\n\n→ Self-sovereign — runs its own LDK node, keys stay local\n→ MCP server for Claude, Cursor, and VS Code\n→ L402 auto-pay — agents buy paid API calls themselves\n\nhttps://t.co/AhOZvHSz8F\n@LQWDTech",
+        "likes": 39,
+        "url": "https://x.com/i/status/2047328957545304462"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047328957545304462"
+      ]
+    },
+    {
+      "repo": "lsdefine/genericagent",
+      "github_url": "https://github.com/lsdefine/genericagent",
+      "tier": 3,
+      "is_new": true,
+      "score": 208.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PythonHub",
+        "text": "lsdefine / GenericAgent\n\nSelf-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption\n\nhttps://t.co/abDvjnM7uf",
+        "likes": 31,
+        "url": "https://x.com/i/status/2047348637265506424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047348637265506424"
+      ]
+    },
+    {
+      "repo": "vibeairforce/vibe-skills",
+      "github_url": "https://github.com/vibeairforce/vibe-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 205.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VIBEaiRforce",
+        "text": "Let your agent Feel the $VIBE \n\n3 free API calls/day to test trading, Twitter, wallet tools\n\nZero setup, no account creation. Just plug in and build\n\nnpx skills add vibeAIrFORCE/vibe-skills --skill vibe https://t.co/Ynus8uH7Wo",
+        "likes": 20,
+        "url": "https://x.com/i/status/2047348541610217756"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047348541610217756"
+      ]
+    },
+    {
+      "repo": "faviovazquez/clarity",
+      "github_url": "https://github.com/faviovazquez/clarity",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FavioVaz",
+        "text": "For anyone who wants the repo now:\nInstall: npx skills add FavioVazquez/clarity\nCode: https://t.co/SukVA2Fiaa\n(full breakdown continues in the thread 👇)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047583463243476998"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047583463243476998",
+        "https://x.com/i/status/2047583223308267613"
+      ]
+    },
+    {
+      "repo": "skalenetwork/skills",
+      "github_url": "https://github.com/skalenetwork/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheGreatAxios",
+        "text": "Follow these steps:\n\n1. npx skills add skalenetwork/skills\n2. Prompt: \"Build me something with programmable privacy that would not be possible on the EVM\"\n\n@SkaleNetwork https://t.co/tYIGOI836z",
+        "likes": 3,
+        "url": "https://x.com/i/status/2047453229550866925"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047453229550866925"
+      ]
+    },
+    {
+      "repo": "eric8810/i18n-skills",
+      "github_url": "https://github.com/eric8810/i18n-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ashfold",
+        "text": "最近在做i18n和多语言，然后形成了一个对翻译辅助的skills，他可以帮助模型在翻译的过程中更加精确和深入，而且符合ui的规范。\n不同的字符串在ui中的不同位置会需要不同的展示约束。\n\nnpx skills add eric8810/i18n-skills --list",
+        "likes": 1,
+        "url": "https://x.com/i/status/2047559093486059978"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047559093486059978"
+      ]
+    },
+    {
+      "repo": "op7418/guizang-ppt-skill",
+      "github_url": "https://github.com/op7418/guizang-ppt-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thedavidweng",
+        "text": "@op7418 你的 repo 叫 guizang-ppt-skill 但是安装命令里叫 magazine-web-ppt\n另外推荐换用 npx skills add op7418/guizang-ppt-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047513228771835973"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047513228771835973"
+      ]
+    },
+    {
+      "repo": "bpinhosilva/agents",
+      "github_url": "https://github.com/bpinhosilva/agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bpinhosilva",
+        "text": "Just released a tradeoff-analysis skill, check it out: \"npx skills add bpinhosilva/agents\"\n\nhttps://t.co/IdepTmLBRb\n\n#agents #skills #coding #ai",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047507761286594642"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047507761286594642"
+      ]
+    },
+    {
+      "repo": "javimosch/supercli",
+      "github_url": "https://github.com/javimosch/supercli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "javimosch",
+        "text": "Just added the onefetch plugin to supercli\n\nCommand-line Git information tool. ASCII art, language stats, commit history, and more.\n\nh/t @o2sh\n\nhttps://t.co/4WJ2kSk1vw\n\n#rust #cli #git #developer-tools",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047626961325838742"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047626961325838742"
+      ]
+    },
+    {
+      "repo": "cporter202/automate-faceless-content",
+      "github_url": "https://github.com/cporter202/automate-faceless-content",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "Yes! Your OpenClaw agent can absolutely learn the automate-faceless-content workflow as a custom skill.\n\nHere's how (super simple):\n\n1. In `~/.openclaw/workspace/skills/` create a new folder: `faceless-content`\n2. Inside it, add a `SKILL.md` file with the full pipeline from the r",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047596808805699708"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047596808805699708"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mksglu/context-mode",
+      "github_url": "https://github.com/mksglu/context-mode",
+      "tier": 2,
+      "is_new": false,
+      "score": 1740.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 450,
+      "total_retweets": 58,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ihtesham2005",
+        "text": "Stop paying for Claude Max.\n\nBefore you upgrade your plan to get more context, install this first.\n\nContext Mode is a free MCP server that makes your existing context window last 6x longer by never letting raw tool output touch it in the first place.\n\n→ A full Playwright snapshot",
+        "likes": 450,
+        "url": "https://x.com/i/status/2046680428640354790"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046680428640354790"
+      ]
+    },
+    {
+      "repo": "moonpay/skills",
+      "github_url": "https://github.com/moonpay/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1064.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 238,
+      "total_retweets": 30,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "moonpay",
+        "text": "does your Agent have skill issues? \n\nthere's a prompt to fix that \n\nnpx skills add moonpay/skills https://t.co/HhBylg7vQC",
+        "likes": 226,
+        "url": "https://x.com/i/status/2047401566307586541"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047401566307586541",
+        "https://x.com/i/status/2047470286942179589"
+      ]
+    },
+    {
+      "repo": "getagentseal/codeburn",
+      "github_url": "https://github.com/getagentseal/codeburn",
+      "tier": 3,
+      "is_new": false,
+      "score": 246.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sopersone",
+        "text": "YOU DON’T EVEN REALIZE WHERE YOUR TOKENS ARE GOING IN CLAUDE 🤯\n\nThe team built a tool that shows the real breakdown of token usage in Claude Opus 4.7\n\nNow you can see everything without any illusions:\n\n> how much each of your requests costs\n> how much MCP and tools consume\n> how ",
+        "likes": 47,
+        "url": "https://x.com/i/status/2046650953441456265"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046650953441456265"
+      ]
+    },
+    {
+      "repo": "dominikmartn/nothing-design-skill",
+      "github_url": "https://github.com/dominikmartn/nothing-design-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 243.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 46,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kiruwaaaaaa",
+        "text": "someone has created  a \"nothing design\" skill for Claude Code\n\njust call /nothing-design, and it generates the entire UI in a signature monochrome industrial style\n\nswiss typography, dot matrix patterns, and deep OLED black - its all hardcoded right into the agent\n\nlink: https://",
+        "likes": 46,
+        "url": "https://x.com/i/status/2047377636377371111"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047377636377371111"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "one week left. hundreds of games. \nmay 2 question: which ones keep going?\n\n#vibejam devs can launch a playcoin for their game.\n\nevery trade rewards players and dev. \n\nthe game pays for itself past the jam.\n\nagent skill: npx skills add OpusGameLabs/game-creator",
+        "likes": 3,
+        "url": "https://x.com/i/status/2047524934524576135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047524934524576135"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "@Alpha_Bybit Execute strategies automatically.\n\nUse RealClaw 🦞 or Byreal Agent Skills for onchain strategies 24/7:\n\nnpx skills add byreal-git/byreal-agent-skills\n\nhttps://t.co/S5UMQU3sss",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047617115646283915"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047617115646283915"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Benjieming1Q84",
+        "text": "【🧵-1】 安装Binance Skills Hub\n\n⭐️这个Binance Skills Hub即包含CEX的Skills，也包含Web3的Skills。\n⭐️安装完成，让小龙虾保存。\n\n1️⃣让小龙虾OpenClaw执行下面的命令(直接复制给它)\n「\nInstall Binance Skills for me. Please run the command: npx skills add binance/binance-skills-hub\n」\n它会一次性把CEX和Web3的全部Skills都装进来。\n2️⃣安装完成之后，让小龙虾确认8个Skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047546129630601581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047546129630601581"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-04-23\n\nToday’s strongest public operator signal is about making OpenClaw easier to run directly from the terminal while keeping setup and remote access less brittle: the latest release expands local embedded operation, smoother setup, and better ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2047518976713129988"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047518976713129988"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2047377692488601949",
+      "author": "GoogleCloudTech",
+      "text": "Our official Agent Skills repository on @github is here!\n\nSkills are a simple, open format for giving agents new capabilities and expertise. Think of a skill as compact, agent-first documentation for a specific tech or task.\n\nLearn more → https://t.co/7w887vz3lE #GoogleCloudNext ",
+      "likes": 3131,
+      "views": 0,
+      "url": "https://x.com/i/status/2047377692488601949",
+      "is_kol": false,
+      "score": 11503.0
+    },
+    {
+      "id": "2047359849038586030",
+      "author": "googledevs",
+      "text": "New GEAR learning paths are officially LIVE.\n\nMaster enterprise agent scaling and production deployment to earn exclusive new skill badges.\n\n✅ 35 monthly credits? Ready. \n✅ New paths? Launched.\n✅ Your AI career? Accelerated.\n\nGet started: https://t.co/e1SiSihvtE https://t.co/8A5O",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2047359849038586030",
+      "is_kol": false,
+      "score": 1325.0
+    },
+    {
+      "id": "2047397365091618921",
+      "author": "p0",
+      "text": "The best web search for agents is now free.\n\nUpgrade to Parallel's web search tools in any MCP-supported tool or agent, for free, in under 60 seconds.\n\nNo account. No API keys. Zero cost.\n\nhttps://t.co/DZkFGcWqQc https://t.co/JamdzPHIBJ",
+      "likes": 231,
+      "views": 0,
+      "url": "https://x.com/i/status/2047397365091618921",
+      "is_kol": false,
+      "score": 828.0
+    },
+    {
+      "id": "2047348678864540050",
+      "author": "tan_stack",
+      "text": "If @tanstack/intent has EVER missed a skill on you — this update is for you 🔥  \n\nWe flipped the model.  \n\nNo more pre-declaring every mapping in your agent config. \n\n`intent install` drops one instruction block: \n- `intent list` to discover, \n- `intent load <pkg>#<skill>` to fetc",
+      "likes": 199,
+      "views": 0,
+      "url": "https://x.com/i/status/2047348678864540050",
+      "is_kol": false,
+      "score": 632.0
+    },
+    {
+      "id": "2047419150448857407",
+      "author": "spect3ral",
+      "text": "These ads are going crazy, avg 4.2x ROAS\nBuilt a free claude skill to prompt these 👇\n\nThese cartoon style ads work great\nbecause they get the idea across easily\n\nEarlier ads like these used to take an entire studio\nand atleast 4 weeks\n\nNow, they can be done in <30 mins pop\n\nHere'",
+      "likes": 165,
+      "views": 0,
+      "url": "https://x.com/i/status/2047419150448857407",
+      "is_kol": false,
+      "score": 555.0
+    },
+    {
+      "id": "2047504667127799974",
+      "author": "garrytan",
+      "text": "Big drop for GBrain v0.19. \n\nSkillify is now at full strength as a skill that you can use with GBrain! \n\nIf you're already using GBrain with OpenClaw/Hermes just say \"Upgrade GBrain\" to take advantage of it. https://t.co/COjXqkHntE",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2047504667127799974",
+      "is_kol": false,
+      "score": 510.0
+    },
+    {
+      "id": "2047399128116703430",
+      "author": "nordin_eth",
+      "text": "Not many people are talking about this. @1inch just launched an MCP server.\n\nthat means AI agents can now execute swaps directly through 1inch. classic swaps, cross-chain, intent-based flows, all accessible through Cursor, Claude, VS Code and 7 other clients. one-click setup.\n\nth",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2047399128116703430",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2047264994895785988",
+      "author": "pontusab",
+      "text": "Introducing mcp-typegen.\n\nOne command turns any MCP server into a typed TS tree, one file per tool.\n\nnpx mcp-typegen --url &lt;your-mcp&gt; -o ./servers\n\nGithub ⬇️🧵 https://t.co/1e9bi3wrnA",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2047264994895785988",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2047331187828412451",
+      "author": "tuturetom",
+      "text": "Anthropic 总结了构建 MCP 服务器的几个关键模式：\n\n  1️⃣ 做 Remote Server，覆盖 web/移动/云端\n  2️⃣ 按意图聚合工具，别一比一映射 API\n  3️⃣ 接口大就暴露代码执行（Cloudflare 用 2 个工具覆盖 2500 个端点，仅需 1K tokens）\n  4️⃣ 用 MCP Apps 返回交互式 UI\n  5️⃣ 用标准化 OAuth + CIMD\n\n  客户端侧：Tool Search 省 85%+ token，Programmatic Tool Calling 再省 37%。\n\n  MCP × ",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2047331187828412451",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2047321349538894072",
+      "author": "findatasets",
+      "text": "We're moving into fixed income.\n\nInterest rates are now live on our MCP server.\n\nEvery major central bank, updated daily. https://t.co/YiWvTcokt7",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2047321349538894072",
+      "is_kol": false,
+      "score": 284.0
+    },
+    {
+      "id": "2047395547103846731",
+      "author": "MistralDevs",
+      "text": "🔌Your MCP Tools - available across every Mistral App\nEasily register an MCP server for instant availability in Le Chat, AI Studio, and our API. https://t.co/pbgm0TkleD",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2047395547103846731",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2047400257017839775",
+      "author": "GoogleCloudTech",
+      "text": "What’s new in Cloud Run:\n\n- Build &amp; deploy full-stack apps in Google AI Studio with Cloud Run, Firestore, and user authentication\n\n- Enable easy deployments from developers &amp; agents with Cloud Run's fully managed remote MCP server\n\n+ more ↓ https://t.co/GXiTyzVZwR",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2047400257017839775",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2047057952331481423",
+      "author": "ihtesham2005",
+      "text": "I just read Anthropic's engineering blog and figured out why I keep hitting context limits.\n\nIt's not my project. It's the plumbing.\n\nHere's what's actually happening every time your AI agent slows down or breaks:\n\nMost MCP clients load every single tool definition into context u",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2047057952331481423",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2047339921049084205",
+      "author": "akothari",
+      "text": "“I do a majority of my brainstorming, writing, and ideating with LLMs. When a draft is ready to share, I push it to Notion through their MCP server. I was a Google Docs loyalist for years; Notion's MCP flipped me.\n\nOne thing I appreciate as a Notion MCP user is how every time I a",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2047339921049084205",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2047569017641087068",
+      "author": "yasinaktimur",
+      "text": "🚨 son dakika : google - aslında cidden en zor olan dev ops ve claude için yapılması ve öğrenilmesi gereken zorlu görevleri direkt skill olarak yayınladı💰 https://t.co/cSmGNENYa0",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2047569017641087068",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2047599692897481110",
+      "author": "cyrilXBT",
+      "text": "Google just open-sourced the building block every AI agent was missing.\n\nAgent Skills.\n\nA simple open format that gives your agents new capabilities and expertise on demand.\n\nThink of it like this.\n\nRight now your AI agent is a brilliant employee with no tools.\n\nA Skill is handin",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2047599692897481110",
+      "is_kol": false,
+      "score": 233.0
+    }
+  ]
+}
