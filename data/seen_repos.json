@@ -1438,5 +1438,61 @@
   "cporter202/automate-faceless-content": {
     "first_seen": "2026-04-24",
     "tier": 3
+  },
+  "google/skills": {
+    "first_seen": "2026-04-25",
+    "tier": 1
+  },
+  "openai/codex": {
+    "first_seen": "2026-04-25",
+    "tier": 2
+  },
+  "bitget-wallet-ai-lab/bitget-wallet-skill": {
+    "first_seen": "2026-04-25",
+    "tier": 2
+  },
+  "sivaprasadreddy/gids-2026-spring-ai-mcp": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "asimons81/hermes-vault": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "christinminor459/onionclaw": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "prompt-security/clawsec": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "jnhflow21/wechat-multifix": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "chef-universe/skills": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "youssef-tharwat/lang-guidelines": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "delta-hq/cc-canary": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "clyeh/create-design-md": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "marcuppe/hyperliquid": {
+    "first_seen": "2026-04-25",
+    "tier": 3
+  },
+  "openai/skills": {
+    "first_seen": "2026-04-25",
+    "tier": 3
   }
 }
