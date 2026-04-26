@@ -1494,5 +1494,45 @@
   "openai/skills": {
     "first_seen": "2026-04-25",
     "tier": 3
+  },
+  "yz5e/agent-skills": {
+    "first_seen": "2026-04-26",
+    "tier": 2
+  },
+  "punkpeye/vitemcp": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "abhi152003/decksmith": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "nomanjack/distill": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "google-labs-code/design.md": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "ningzimu/codex-ppt-skill": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "madciapka/gemini-claude-plugin": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "tw93/kami": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "hec-ovi/research-skill": {
+    "first_seen": "2026-04-26",
+    "tier": 3
+  },
+  "beever-ai/beever-atlas": {
+    "first_seen": "2026-04-26",
+    "tier": 3
   }
 }

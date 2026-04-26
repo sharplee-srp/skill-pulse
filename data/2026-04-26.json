@@ -1,0 +1,538 @@
+{
+  "date": "2026-04-26",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 195,
+    "tweets_with_repos": 25,
+    "unique_repos": 24,
+    "new_repos": 10,
+    "previously_seen_repos": 14
+  },
+  "new_repos": [
+    {
+      "repo": "yz5e/agent-skills",
+      "github_url": "https://github.com/yz5e/agent-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 499.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 118,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ynkzlk",
+        "text": "i published my first agent-skill today: an opus 4.7 prompt writer for claude code and codex.\n\nit helps turn messy coding tasks into prompts with scope, constraints, tool plans, validation gates and clear stop conditions.\n\nwith opus 4.7 at max effort and sonnet 4.6 subagents, this",
+        "likes": 118,
+        "url": "https://x.com/i/status/2047985277172359445"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047985277172359445"
+      ]
+    },
+    {
+      "repo": "punkpeye/vitemcp",
+      "github_url": "https://github.com/punkpeye/vitemcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 300.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 55,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "🔥 今日新鲜 Skills 精选 Top 10（4月25日）\n由 https://t.co/x1VU8wWNj1 整理！发现 64,000+ AI Agent 工具，每日更新 🚀\n\nSkill 工业化加速：MCP 框架 + 演示流水线 + 跨平台同步全面铺开！！！\n\n1️⃣ punkpeye/vitemcp\n⭐ 3055 | +3055\nawesome-mcp-servers 维护者亲手出品 · TypeScript 写 MCP server 的极简框架\n🔗 https://t.co/RzyDO84nux\n🌐 https://t.co/vthU4M8PP",
+        "likes": 55,
+        "url": "https://x.com/i/status/2047940099506372701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047940099506372701"
+      ]
+    },
+    {
+      "repo": "abhi152003/decksmith",
+      "github_url": "https://github.com/abhi152003/decksmith",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abhip05",
+        "text": "inspired by @Remotion , I built Decksmith\n\nyou describe the talk, your agent asks a few questions, picks the structure, writes the slides and gives you an interactive deck\n\nbasically: describe. build. present. \n\ntry it with:\nnpx skills add abhi152003/decksmith\n\nsuggestions/contri",
+        "likes": 2,
+        "url": "https://x.com/i/status/2048331521271205923"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048331521271205923"
+      ]
+    },
+    {
+      "repo": "nomanjack/distill",
+      "github_url": "https://github.com/nomanjack/distill",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Nomandsign",
+        "text": "npx skills add nomanjack/distill\n\nTIL that Claude code saves every session you've had on your disk as plain JSON. \n\nSo I created a skill that reviews these sessions, finds the do's and don'ts you've told Claude over time and compiles them into one file. You can ask Claude to revi",
+        "likes": 2,
+        "url": "https://x.com/i/status/2048165955042246712"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048165955042246712"
+      ]
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "github_url": "https://github.com/google-labs-code/design.md",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LiveMatrixCode",
+        "text": "Actually, I found this skill and tweaked it for Codex and my repo/project actually works very well. It's originally from Google Stitch, so it's worth an honourable mention/recognition. I've been able to create a hybrid design skill for Codex to use with my projects: https://t.co/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048318370836029880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048318370836029880"
+      ]
+    },
+    {
+      "repo": "ningzimu/codex-ppt-skill",
+      "github_url": "https://github.com/ningzimu/codex-ppt-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ningzimu",
+        "text": "我一直觉得做分享 PPT 最痛苦的不是写内容, 而是排版\n\n最近把自己用 Codex 做 PPT 的流程整理成了一个 skill：给它一篇文章或者 Markdown，它会先出大纲，再让你选风格，确认一页样张后再生成整套 PPT\n\n项目放 GitHub 了：\nhttps://t.co/96Qf2qL3Jo",
+        "likes": 1,
+        "url": "https://x.com/i/status/2048321307599884588"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048321307599884588"
+      ]
+    },
+    {
+      "repo": "madciapka/gemini-claude-plugin",
+      "github_url": "https://github.com/madciapka/gemini-claude-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "madciapka",
+        "text": "@PawelHuryn And also subagent spawning - 4.7 tend to \"forget\"/ignore that from my experience :( but still push it that way, even further delegating to gemini  and codex - that helps a lot. Did a skill for that https://t.co/UTZu0cNgRm",
+        "likes": 1,
+        "url": "https://x.com/i/status/2048296847240769546"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048296847240769546"
+      ]
+    },
+    {
+      "repo": "tw93/kami",
+      "github_url": "https://github.com/tw93/kami",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rafael_select",
+        "text": "▶ 導入はこちら（完全無料）\nhttps://t.co/o0uMukUYKS\n\nnpx skills add tw93/kami -a claude-code -y\n\nClaude Codeスキルとして登録され、「履歴書を作って」「スライド作って」で自動起動します。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048193725214732682"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048193725214732682"
+      ]
+    },
+    {
+      "repo": "hec-ovi/research-skill",
+      "github_url": "https://github.com/hec-ovi/research-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hec_ovi",
+        "text": "NEW SKILL: research-skill for Claude Code: persistent research memory that survives /compact. Smart background agent with progressive disclosure.\nAvoids repeating deep dives every session.\nnpx skills add hec-ovi/research-skill\nhttps://t.co/XihFaXHWWr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048155162477240456"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048155162477240456"
+      ]
+    },
+    {
+      "repo": "beever-ai/beever-atlas",
+      "github_url": "https://github.com/beever-ai/beever-atlas",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nghoihin",
+        "text": "@theScottrHall @brackin shared context across agents needs typed structure, not just shared text. Beever Atlas (Apache 2.0): Neo4j-typed graph + native MCP. ⭐ https://t.co/5chtu3JtzO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048341445602336801"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048341445602336801"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "openai/codex",
+      "github_url": "https://github.com/openai/codex",
+      "tier": 2,
+      "is_new": false,
+      "score": 1803.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 521,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Codex_Changelog",
+        "text": "🚀 Codex CLI 0.125.0 is out!\n\n🔌 App-server Unix socket transport and resume/fork pagination\n🔐 Permission profiles round-trip across TUI, MCP, and app-server\n📦 Remote plugin install and marketplace upgrades\n\nChangelog: https://t.co/eAvi3cwlZk",
+        "likes": 521,
+        "url": "https://x.com/i/status/2047742124666626248"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047742124666626248"
+      ]
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "github_url": "https://github.com/mksglu/context-mode",
+      "tier": 2,
+      "is_new": false,
+      "score": 1759.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 453,
+      "total_retweets": 60,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ihtesham2005",
+        "text": "Stop paying for Claude Max.\n\nBefore you upgrade your plan to get more context, install this first.\n\nContext Mode is a free MCP server that makes your existing context window last 6x longer by never letting raw tool output touch it in the first place.\n\n→ A full Playwright snapshot",
+        "likes": 453,
+        "url": "https://x.com/i/status/2046680428640354790"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046680428640354790"
+      ]
+    },
+    {
+      "repo": "prompt-security/clawsec",
+      "github_url": "https://github.com/prompt-security/clawsec",
+      "tier": 2,
+      "is_new": false,
+      "score": 665.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 135,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "ClawSec: Secure AI Agents with a Full Security Skill Suite for OpenClaw, NanoClaw & Hermes 🛡️🤖\n\nPrompt injection defense, CVE threat intel, file integrity checks & agent self-audits\nReal-time advisory feed + checksum verification + drift detection\nBuilt to monitor, verify & harde",
+        "likes": 135,
+        "url": "https://x.com/i/status/2047903395516678502"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047903395516678502"
+      ]
+    },
+    {
+      "repo": "mukul975/cve-mcp-server",
+      "github_url": "https://github.com/mukul975/cve-mcp-server",
+      "tier": 3,
+      "is_new": false,
+      "score": 316.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&amp;CK, Shodan, VirusTotal, and more. https://t.co/j9PtJbGo2M",
+        "likes": 62,
+        "url": "https://x.com/i/status/2048240682263851233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048240682263851233"
+      ]
+    },
+    {
+      "repo": "leoyeai/openclaw-master-skills",
+      "github_url": "https://github.com/leoyeai/openclaw-master-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 288.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "561+ AI Agent Skills — Security-Driven AI Stack 🤖💀\n\nOpenClaw Master Skills: curated skill pack to harden and extend AI agents (weekly updated)\n\n• 561+ skills\n• Cybersecurity, OSINT, Dev, Automation coverage\n• Plug-and-use via ClawHub\n• Fully inspectable (no black-box risk)\n\nhttps",
+        "likes": 51,
+        "url": "https://x.com/i/status/2048029594717126951"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048029594717126951"
+      ]
+    },
+    {
+      "repo": "getagentseal/codeburn",
+      "github_url": "https://github.com/getagentseal/codeburn",
+      "tier": 3,
+      "is_new": false,
+      "score": 246.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sopersone",
+        "text": "YOU DON’T EVEN REALIZE WHERE YOUR TOKENS ARE GOING IN CLAUDE 🤯\n\nThe team built a tool that shows the real breakdown of token usage in Claude Opus 4.7\n\nNow you can see everything without any illusions:\n\n> how much each of your requests costs\n> how much MCP and tools consume\n> how ",
+        "likes": 47,
+        "url": "https://x.com/i/status/2046650953441456265"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2046650953441456265"
+      ]
+    },
+    {
+      "repo": "sivaprasadreddy/gids-2026-spring-ai-mcp",
+      "github_url": "https://github.com/sivaprasadreddy/gids-2026-spring-ai-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 242.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sivalabs",
+        "text": "My GIDS2026 session sample code is available at https://t.co/I8gpTXs9vK\n\n- Check spring-ai.md for brief Spring AI features\n- hotel-service is MCP Server\n- help-desk is MCP Client\n\nInstructions on how to run the applications is in README.md file.\n\nIf you want to learn more about S",
+        "likes": 39,
+        "url": "https://x.com/i/status/2047685587466162603"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047685587466162603"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "@Alpha_Bybit Automate your strategies with RealClaw 🦞 or Byreal Agent Skills.\n\nnpx skills add byreal-git/byreal-agent-skills\nhttps://t.co/0IusSg9YHQ",
+        "likes": 4,
+        "url": "https://x.com/i/status/2048062826095481206"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048085107085541456",
+        "https://x.com/i/status/2048062826095481206"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zakk_okx",
+        "text": "乔布斯推出苹果全家桶的时候，面对这场生产力革命，牛逼的人拥护他。也有人在多年后才能想明白。\n\nOKX 致力于推动行业向前，团结建设者，让更多 builder 凝聚在一起。感谢 @xincctnnq 分享。\n\n发给你的 agent 一键安装，先行者 先受益：npx skills add okx/onchainos-skills\n\n官网：https://t.co/puUFLbsrCT",
+        "likes": 21,
+        "url": "https://x.com/i/status/2048301842468389039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048301842468389039"
+      ]
+    },
+    {
+      "repo": "safishamsi/graphify",
+      "github_url": "https://github.com/safishamsi/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph https://t.co/o3VFXPTWQ5",
+        "likes": 7,
+        "url": "https://x.com/i/status/2048290869032169923"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048290869032169923"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2048147498514960763",
+      "author": "billions_ntwk",
+      "text": "How we designed the verifiable onchain identity system behind ClawHub's most downloaded agent identity skill\n\nExplained by our Solutions Engineer @0xpulkit https://t.co/7CEyjk3DIr",
+      "likes": 417,
+      "views": 0,
+      "url": "https://x.com/i/status/2048147498514960763",
+      "is_kol": false,
+      "score": 1631.0
+    },
+    {
+      "id": "2048237078148985237",
+      "author": "this_is_tasnim",
+      "text": "This feels like cheating, and I mean that seriously.\n\nA free Claude skill just dropped that writes the perfect prompt for any AI tool on the first try no re-prompts, no wasted credits, no fourth attempt.\n\nIt's called Prompt Master, and it works with Claude, ChatGPT, Cursor, Midjo",
+      "likes": 274,
+      "views": 0,
+      "url": "https://x.com/i/status/2048237078148985237",
+      "is_kol": false,
+      "score": 1137.0
+    },
+    {
+      "id": "2048047758553326050",
+      "author": "DeemosTech",
+      "text": "We build a Skill.md for it🔥\n\n@OpenAIDevs  #Codex + #GPT-5.5 + #Hyper3D Rodin: one-click animated game assets.\n\n(This track looks goofy 😂 \n\nTry our Skill in any Coding Agent, interactive #3D Asset from image/text ⬇️ https://t.co/EuveDZwxrB",
+      "likes": 193,
+      "views": 0,
+      "url": "https://x.com/i/status/2048047758553326050",
+      "is_kol": false,
+      "score": 689.0
+    },
+    {
+      "id": "2048026489707442360",
+      "author": "bankrbot",
+      "text": "Bankr\nLaunched Bankr Terminal v2, web-native agent runtime with a filesystem for memory and storage.\nSetup defi automations, use ENV variables, web-hooks, and tap into the largest onchain skills directory.\nUse twitter-agent skill built using all the knowledge @0xDeployer learned ",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2048026489707442360",
+      "is_kol": false,
+      "score": 685.0
+    },
+    {
+      "id": "2048278995121094868",
+      "author": "garrytan",
+      "text": "Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GStack Browser, you can https://t.co/dT0dUd3MhF",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2048278995121094868",
+      "is_kol": false,
+      "score": 633.0
+    },
+    {
+      "id": "2048035257274748938",
+      "author": "DraftExpress",
+      "text": "NEWS: Kansas State transfer Elias Rapieque has committed to Loyola Chicago, agent Milan Nikolic tells DraftExpress.\n\nThe 22-year-old German big man brings a high skill level and feel for the game to the Ramblers' frontcourt. https://t.co/sL0yShkkiI",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2048035257274748938",
+      "is_kol": false,
+      "score": 473.0
+    },
+    {
+      "id": "2048147503636205865",
+      "author": "billions_ntwk",
+      "text": "Our \"Verified Agent Identity\" skill is the most-downloaded agent identity skill on ClawHub \n\nSource: https://t.co/Vd84Or4HwK https://t.co/ReQlTkaIYn",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2048147503636205865",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2048067704351781325",
+      "author": "linear",
+      "text": "Linear Agent x @meetgranola\n\nConnect the Granola MCP server to turn meeting notes into project specs, sales calls into customer requests, and 1:1s into concrete issues. https://t.co/a9WuLSTsSB",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2048067704351781325",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2048191398814618085",
+      "author": "munzxsdv",
+      "text": "Creating motion graphics just got easier.\nHyperFrames now lives inside Claude Design.\nDrop in a skill file, generate visuals, export the project.\nOr run:\nnpx hyperframes render\nOne streamlined path from design to MP4.",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2048191398814618085",
+      "is_kol": false,
+      "score": 295.0
+    },
+    {
+      "id": "2048237571776676113",
+      "author": "Syumi_is_Benkyo",
+      "text": "「SalesforceがAIのインフラになる」という発表を、懐疑的に見ています。\n\nHosted MCP Serverを2本かけて検証した結果、見えてきたのは技術的な現実と組織的な現実、両方のギャップでした。\n\n今やるべきは新機能を追いかけることじゃない、という話を正直に書きました。https://t.co/9aQ2MV17fK",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2048237571776676113",
+      "is_kol": false,
+      "score": 259.0
+    }
+  ]
+}
