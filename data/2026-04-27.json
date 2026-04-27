@@ -1,0 +1,579 @@
+{
+  "date": "2026-04-27",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 182,
+    "tweets_with_repos": 22,
+    "unique_repos": 21,
+    "new_repos": 12,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "rhyssullivan/skills",
+      "github_url": "https://github.com/rhyssullivan/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 800.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 220,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RhysSullivan",
+        "text": "Turned the 'good code' section of my React Miami talk into an agent skill\n\nI don't think it'll actually make a difference when they're writing code since they ignore these things but got a few asks for it \n\nnpx skills add https://t.co/ly42zh5PQw https://t.co/k8YB4Q8vFU",
+        "likes": 220,
+        "url": "https://x.com/i/status/2048431538862461169"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048431538862461169"
+      ]
+    },
+    {
+      "repo": "securityclaw/securityclaw",
+      "github_url": "https://github.com/securityclaw/securityclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 473.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 96,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "A modular, skill-based autonomous Security Operations Center (SOC) agent that monitors OpenSearch/Elasticsearch data, builds RAG-based behavioral memory, and validates real-time anomalies using LLMs. https://t.co/dBmas04pgi",
+        "likes": 96,
+        "url": "https://x.com/i/status/2048338591240122500"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048338591240122500"
+      ]
+    },
+    {
+      "repo": "getagentseal/agentseal",
+      "github_url": "https://github.com/getagentseal/agentseal",
+      "tier": 3,
+      "is_new": true,
+      "score": 456.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 92,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning. https://t.co/fFBEMBipLO",
+        "likes": 92,
+        "url": "https://x.com/i/status/2048269413707546637"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048269413707546637"
+      ]
+    },
+    {
+      "repo": "codexstar69/bug-hunter",
+      "github_url": "https://github.com/codexstar69/bug-hunter",
+      "tier": 3,
+      "is_new": true,
+      "score": 291.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch",
+        "likes": 52,
+        "url": "https://x.com/i/status/2048266895808229491"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048266895808229491"
+      ]
+    },
+    {
+      "repo": "0xsteph/pentest-ai",
+      "github_url": "https://github.com/0xsteph/pentest-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 240.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "The most autonomous pentesting AI on the market. MCP server + Python agents with 150+ security tools, exploit chaining, and PoC validation. https://t.co/yVN4jBmuBl",
+        "likes": 40,
+        "url": "https://x.com/i/status/2048240920961622413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048240920961622413"
+      ]
+    },
+    {
+      "repo": "microsoft/playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 189.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seelffff",
+        "text": "claude can analyze any website in 30 seconds\n\ntech stack, content strategy, SEO structure, weak spots\nall of it. no manual work.\n\nthe tool is playwright-mcp - built by microsoft, 31K stars\nhttps://t.co/7uVMf5hw5N\n\nit gives claude control of a real browser.\nnot just HTML - it actu",
+        "likes": 23,
+        "url": "https://x.com/i/status/2048534671168823762"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048534671168823762"
+      ]
+    },
+    {
+      "repo": "rstackjs/agent-skills",
+      "github_url": "https://github.com/rstackjs/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rspack_dev",
+        "text": "🦀 Install any of Rstack Skills instantly:\n\n```\nnpx skills add rstackjs/agent-skills --skill &lt;skill-name&gt;\n```\n\n15+ Skills covering debugging, tracing, upgrading, and analyzing https://t.co/XyNye63Ac0",
+        "likes": 18,
+        "url": "https://x.com/i/status/2048671449444221154"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048671449444221154"
+      ]
+    },
+    {
+      "repo": "asamassekou10/ship-safe",
+      "github_url": "https://github.com/asamassekou10/ship-safe",
+      "tier": 3,
+      "is_new": true,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wilderko",
+        "text": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies. \nhttps://t.co/sIytmXcMlq\nhttps://t.co/niJA74NzlW",
+        "likes": 20,
+        "url": "https://x.com/i/status/2048132668793950704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048132668793950704"
+      ]
+    },
+    {
+      "repo": "geekjourneyx/openclaw-to-hermes-migration",
+      "github_url": "https://github.com/geekjourneyx/openclaw-to-hermes-migration",
+      "tier": 3,
+      "is_new": true,
+      "score": 139.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seekjourney",
+        "text": "终于把 Hermes Agent 连通到微信Bot，并成功打通随时随地发布文章 & 动态到 https://t.co/Ec6i5Xanq3。\n\n还在用 OpenClaw 的朋友，想迁移到 Hermes Agent 直接看 https://t.co/OsWtiTo5dk\n\n具体操作：\n\n1. 打开 Codex / Claude Code，说我要把 OpenClaw 迁移到 Hermes Agent ，使用我开发的 Skill \n\n2. 迁移完成后，配置微信Bot消息通道，直接发给他这篇文章 https://t.co/yzw0ShlWQM\n\n3. 扫码连接成",
+        "likes": 13,
+        "url": "https://x.com/i/status/2048603958034432405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048603958034432405"
+      ]
+    },
+    {
+      "repo": "chewieeeecodes/nainny",
+      "github_url": "https://github.com/chewieeeecodes/nainny",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joshaeeee",
+        "text": "This skill turns your @openclaw  into a Nanny. \n\nLet your agent monitor your baby so that you can focus on your 1 person billion $$ startup. \n\nHow to build? Get a camera, give this repo and RTSP of the camera to your OpenClaw and BAM! You have a n(AI)nny. \n\nDon't let a baby distr",
+        "likes": 4,
+        "url": "https://x.com/i/status/2048662953508143531"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048662953508143531"
+      ]
+    },
+    {
+      "repo": "dbgkinggg/tweetskill",
+      "github_url": "https://github.com/dbgkinggg/tweetskill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DbgKinggg",
+        "text": "1/3\n用法很简单，先在终端装上 skill：\n`npx skills add DbgKinggg/tweetskill`\n\n安装的时候选择安装到哪一个AI Agent（Hermes、OpenClaw、Claude Code等），然后在你喜欢的AI Agent里面直接问：\n\n`analyze @elonmusk`\n\n本skill默认用X 官方API获取推文，它会问你要 X Bearer Token——在 https://t.co/f7f4SX432S 申请一个，现在X APi是按需收费，充值个几块钱就好\n\n如果嫌贵等其他理由，让你的agent改一下ski",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048678612921200916"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048678612921200916"
+      ]
+    },
+    {
+      "repo": "jrbayguade/chrome-store-screenshots",
+      "github_url": "https://github.com/jrbayguade/chrome-store-screenshots",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jbosch_",
+        "text": "npx skills add jrbayguade/chrome-store-screenshots  https://t.co/RNmwtXM5ek",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048342780074745857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048342780074745857"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "openai/codex",
+      "github_url": "https://github.com/openai/codex",
+      "tier": 2,
+      "is_new": false,
+      "score": 1812.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 524,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Codex_Changelog",
+        "text": "🚀 Codex CLI 0.125.0 is out!\n\n🔌 App-server Unix socket transport and resume/fork pagination\n🔐 Permission profiles round-trip across TUI, MCP, and app-server\n📦 Remote plugin install and marketplace upgrades\n\nChangelog: https://t.co/eAvi3cwlZk",
+        "likes": 524,
+        "url": "https://x.com/i/status/2047742124666626248"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2047742124666626248"
+      ]
+    },
+    {
+      "repo": "mukul975/cve-mcp-server",
+      "github_url": "https://github.com/mukul975/cve-mcp-server",
+      "tier": 2,
+      "is_new": false,
+      "score": 709.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 163,
+      "total_retweets": 24,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&amp;CK, Shodan, VirusTotal, and more. https://t.co/j9PtJbGo2M",
+        "likes": 163,
+        "url": "https://x.com/i/status/2048240682263851233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048240682263851233"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 254.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Here's how you can trade perps on RealClaw 🦞\n\nGet started in 3 simple steps:\n\n1️⃣ Go to the RealClaw Console → hit Restart\n2️⃣ Run: npx skills add byreal-git/byreal-perps-cli\n3️⃣ Deposit USDC to your Solana wallet → ask RealClaw to initialize Perps\n\nWatch our video tutorial ↓ htt",
+        "likes": 12,
+        "url": "https://x.com/i/status/2048689237919506855"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048689237919506855",
+        "https://x.com/i/status/2048689240574464110"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "6 days left for #vibejam.\n\nif you haven't started, this is your sign:\n\nnpx skills add OpusGameLabs/game-creator\n\njust ask you agent: /make-game [your idea]",
+        "likes": 10,
+        "url": "https://x.com/i/status/2048535594288939048"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048535594288939048"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liu8in",
+        "text": "@AlemTuzlak npx skills add heygen-com/hyperframes\n\nComes with best practices by default",
+        "likes": 4,
+        "url": "https://x.com/i/status/2048455773693612078"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048455773693612078"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "LP smarter, automatically.\n\nGet started with RealClaw 🦞 or Byreal Agent Skills.\n\nnpx skills add byreal-git/byreal-agent-skills\n\nhttps://t.co/S5UMQU3sss",
+        "likes": 3,
+        "url": "https://x.com/i/status/2048668517873147918"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048668517873147918"
+      ]
+    },
+    {
+      "repo": "enzoding/jobhunt-cli",
+      "github_url": "https://github.com/enzoding/jobhunt-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shfra77229942",
+        "text": "发布我的第一个开源项目：Jobhunt-CLI\n\n一个帮你快速了解各家互联网大厂的岗位招聘信息，岗位描述，能力要求的小工具。\n\n安装这个CLI+Skill后，在你常用的Coding Agent或Open Claw龙虾里，即可通过自然语言检索各家大厂官网原生招聘信息。\n项目地址：https://t.co/QT8JsqGYWM https://t.co/qT2c7pc4md",
+        "likes": 2,
+        "url": "https://x.com/i/status/2044775066517242337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2044775066517242337"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "Olá! \"Isso\" é o **Taste Skill**, um framework open-source anti-slop para frontends feitos por IA (Cursor, Claude, etc.).\n\n**Como usar:**\n1. No terminal: `npx skills add Leonxlnx/taste-skill`\n2. Escolha a skill certa (ex: taste-skill para frontend premium).\n3. Cole o SKILL.md no s",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048700575861055505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048700575861055505"
+      ]
+    },
+    {
+      "repo": "prompt-security/clawsec",
+      "github_url": "https://github.com/prompt-security/clawsec",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-04-26\n\nToday’s clearest public operator signal is about making OpenClaw easier to extend and safer to run at scale: the latest release upgrades TTS, hardens install and update paths, and moves more plugin behavior onto a persistent registry, whic",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048598746565644521"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048598746565644521"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2048409709879935383",
+      "author": "AlchainHust",
+      "text": "女娲.skill半个多月，14k+ stars了。并且已经分别被腾讯、Kimi、智谱的Agent产品直接植入作为默认skill使用。\n\n如果你还不知道这是什么的话，这张图可以帮你建立起一个基本的认知。 https://t.co/pGufihXtgy",
+      "likes": 1043,
+      "views": 0,
+      "url": "https://x.com/i/status/2048409709879935383",
+      "is_kol": false,
+      "score": 3999.0
+    },
+    {
+      "id": "2048664963435352164",
+      "author": "claudecode_lab",
+      "text": "【全エンジニア入れるべき】\n「Graphify」というClaude Codeのコーディング援助の神skillができました。\n\nClaude Codeで /graphify を実行するだけでコードベース全体がナレッジグラフに変換される。\n\n✅トークン消費が71.5分の1\n✅セットアップ簡単・無料",
+      "likes": 400,
+      "views": 0,
+      "url": "https://x.com/i/status/2048664963435352164",
+      "is_kol": false,
+      "score": 1330.0
+    },
+    {
+      "id": "2048507670437756972",
+      "author": "OpenRouter",
+      "text": "New skill that some of you requested: \"create-headless-agent\"\n\nThis skill walks you through building a customizable, multi-model, headless CLI tool using @bunjavascript.\n\nBlog post about both skills here: https://t.co/tVCwiQ7zF0",
+      "likes": 277,
+      "views": 0,
+      "url": "https://x.com/i/status/2048507670437756972",
+      "is_kol": false,
+      "score": 971.0
+    },
+    {
+      "id": "2048586071512936665",
+      "author": "juliandeangeIis",
+      "text": "Siendo que estoy todo el tiempo probando tools de AI, solo tuve pocos momentos 'wow':\n- Cursor (Feb 25)\n- Claude Code (Ag 25)\n- Cloud Agents + SDD + Automations (Sep-Oct 25)\n\ny sin dudas de las últimas semanas tengo uno nuevo:\n- Hermes + Obsidian + LLM Wiki (skill de karpathy) ht",
+      "likes": 301,
+      "views": 0,
+      "url": "https://x.com/i/status/2048586071512936665",
+      "is_kol": false,
+      "score": 968.0
+    },
+    {
+      "id": "2048612263624659058",
+      "author": "ism_sol",
+      "text": "bayangin gua yang 0 skill coding aja bisa \nmodal @antigravity doang malah ini\n  \npas coding berat pake claude opus 4.6 pas benerin debug pake gemini 3.1 pro pas tanya ringan pake gemini flash  \n\nsekarang crypto agentnya udah jadi + running normal di demo   \n\nsekarang tinggal cari",
+      "likes": 185,
+      "views": 0,
+      "url": "https://x.com/i/status/2048612263624659058",
+      "is_kol": false,
+      "score": 600.0
+    },
+    {
+      "id": "2048596405250613322",
+      "author": "sentioxyz",
+      "text": "3/ Just say what you want:\n- \"Track USDC transfers on Ethereum\"\n- \"Alert when daily volume drops below 1M\"\n- \"Build a TVL + DAU dashboard\"\nThe agent picks the right skill, writes the code, runs the CLI, and shows you the result.",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2048596405250613322",
+      "is_kol": false,
+      "score": 532.0
+    },
+    {
+      "id": "2048359360422891628",
+      "author": "abskoop",
+      "text": "Huashu Design：一个 HTML-native 的设计 Skill\n\n专为 Claude Code、Cursor 等 AI 代码 Agent 打造\n\n一句话 Prompt → 几分钟出可交付的专业设计\n\n可以用于生成高保真 App/Web 原型、HTML 幻灯片、可编辑 PPTX、动画 MP4/GIF、信息图等等 https://t.co/Jog41i8j0n",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2048359360422891628",
+      "is_kol": false,
+      "score": 522.0
+    },
+    {
+      "id": "2048628785793425837",
+      "author": "BTCqzy1",
+      "text": "别再给 Claude Code 乱装 Skill 了，这 5 个才是真正值得必装的\n\n1. Repomix\n\n把整个仓库打包成一个文件丢给 Claude，一次性读懂项目结构。\n\n不然你还在一段一段喂代码，纯浪费时间。\n\nhttps://t.co/8NWibyk8C6\n\n2. ccusage\n\n实时显示 Token 消耗。\n\n装了之后你才会意识到：Prompt 写得烂 = 在烧钱。\n\nhttps://t.co/E3nLvcjjya\n\n3. frontend-design\n\n官方出的前端设计 Skill。\n\n一句话直接出有设计感的 UI，不是那种“工程味很重",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2048628785793425837",
+      "is_kol": false,
+      "score": 505.0
+    },
+    {
+      "id": "2048313788374438381",
+      "author": "Jenesyx",
+      "text": "پشمام!\nGPT 5.5 خیلی از Claude خفن تره\nسریع تر و بهتر بدون نیاز به هیچ Skill و Agent",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2048313788374438381",
+      "is_kol": false,
+      "score": 458.0
+    },
+    {
+      "id": "2048417925900685471",
+      "author": "VincentLogic",
+      "text": "【AI工作流】Claude Code 最强“外挂”：Agent Skills 🧠\n还没用过 Skills？你可能错过了 Claude Code 80% 的潜力。\n它不像 claude.md 那样死板，而是给 AI 塞进一本“可插拔的武功秘籍”。\n今天教你从零创建专属 Skill，一键复刻爆款写作流 👇\n1️⃣ 什么是 Agent Skills？\n核心是“渐进式加载架构”，极度省 Token 且精准：\n🔹 第一层：元数据（始终加载）- 让 AI 知道它手里有哪些技能包\n🔹 第二层：指令（条件触发）- 输入关键词才加载“目录索引”\n🔹 第三层：资源（按需加载",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2048417925900685471",
+      "is_kol": false,
+      "score": 428.0
+    },
+    {
+      "id": "2048659577294750138",
+      "author": "socialwithaayan",
+      "text": "If you prompt Claude the same way\nmore than twice, you need a Skill.\n\nClaude Skills = permanent instructions\nthat auto-load when triggered.\n\nYou write them once.\nClaude follows them forever.\n\nHere's the 10-minute setup:\n\nStep 1: Pick your task\n↳ What do you repeat most?\n↳ Posts? ",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2048659577294750138",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2048391394214211931",
+      "author": "chenchengpro",
+      "text": "用 MCP 接了 4 个 server，还没开口说话，光工具 schema 就吃掉 2 万 token——这是每一轮对话都在发生的事。\n\n社区管这叫「MCP Tax」。120 个工具、30 轮对话，用户还没说一个字，工具定义已经烧掉 142 万 token。更致命的是，当上下文利用率超过 70%，模型开始幻觉参数、搞混工具、丢失多步推理——这才是长 Agent 会话「中途漂移」的真正原因。\n\n刚出的一篇论文《Tool Attention Is All You Need》给了一个系统性解法。核心类比非常漂亮：MCP 全量注入 = RNN 的固定宽度瓶颈，每",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2048391394214211931",
+      "is_kol": false,
+      "score": 284.0
+    }
+  ]
+}

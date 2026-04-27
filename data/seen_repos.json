@@ -1534,5 +1534,53 @@
   "beever-ai/beever-atlas": {
     "first_seen": "2026-04-26",
     "tier": 3
+  },
+  "rhyssullivan/skills": {
+    "first_seen": "2026-04-27",
+    "tier": 2
+  },
+  "securityclaw/securityclaw": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "getagentseal/agentseal": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "codexstar69/bug-hunter": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "0xsteph/pentest-ai": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "microsoft/playwright-mcp": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "rstackjs/agent-skills": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "asamassekou10/ship-safe": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "geekjourneyx/openclaw-to-hermes-migration": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "chewieeeecodes/nainny": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "dbgkinggg/tweetskill": {
+    "first_seen": "2026-04-27",
+    "tier": 3
+  },
+  "jrbayguade/chrome-store-screenshots": {
+    "first_seen": "2026-04-27",
+    "tier": 3
   }
 }
