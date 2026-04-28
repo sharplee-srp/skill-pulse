@@ -1582,5 +1582,45 @@
   "jrbayguade/chrome-store-screenshots": {
     "first_seen": "2026-04-27",
     "tier": 3
+  },
+  "lewpgs/migros-mcp": {
+    "first_seen": "2026-04-28",
+    "tier": 2
+  },
+  "nicolargo/glances": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "oracle/skills": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "jakubantalik/transitions-dev": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "thenamespace/skills": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "celo-org/celopedia-skills": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "mlflow/skills": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "okooo5km/beautiful-mermaid-cli": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "an25235/plugin-store": {
+    "first_seen": "2026-04-28",
+    "tier": 3
+  },
+  "moria-fun/skill": {
+    "first_seen": "2026-04-28",
+    "tier": 3
   }
 }

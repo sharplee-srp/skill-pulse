@@ -1,0 +1,590 @@
+{
+  "date": "2026-04-28",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 193,
+    "tweets_with_repos": 23,
+    "unique_repos": 20,
+    "new_repos": 10,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "lewpgs/migros-mcp",
+      "github_url": "https://github.com/lewpgs/migros-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 1588.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 451,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lionelrudaz",
+        "text": "My life in Switzerland is going to the roof. I've just seen that someone has created an MCP server for Migros. 🤯\n\nhttps://t.co/Ylauh77ET8\n\nLet's keep it a secret folks 😉",
+        "likes": 451,
+        "url": "https://x.com/i/status/2048779164656795981"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048779164656795981"
+      ]
+    },
+    {
+      "repo": "nicolargo/glances",
+      "github_url": "https://github.com/nicolargo/glances",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Glances 💀🔥 — Real-Time System Monitoring Tool\n\nCross-platform tool to monitor CPU, RAM, disk, network & processes.\n\n• Terminal + Web UI dashboard\n• Remote monitoring (API / browser)\n• Docker & container support\n• Export to DBs (Prometheus, Influx, etc.)\n• MCP support for AI assis",
+        "likes": 34,
+        "url": "https://x.com/i/status/2048617361851461765"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048617361851461765"
+      ]
+    },
+    {
+      "repo": "oracle/skills",
+      "github_url": "https://github.com/oracle/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OracleExadata",
+        "text": "It's official, our Skills for Oracle AI Database have been posted to our skills repo -\n \n https://t.co/srXdoD7ZOL\n\nGet started, simply:\n npx skills add oracle/skills",
+        "likes": 6,
+        "url": "https://x.com/i/status/2048843086525038761"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048843086525038761"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions-dev",
+      "github_url": "https://github.com/jakubantalik/transitions-dev",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L_go_mrk",
+        "text": "即ブクマした。自分はデザインセンス皆無だから役立ちそう。\n\ntransitions-dev：\n現場で本当に必要なUIトランジションのコピペ集がAIエージェント用のSkills集。「npx skills add jakubantalik/transitions-dev 」の1コマンドで導入完了。\n\nWebアプリ作ってて「動きが安っぽい」「なんか野暮ったい」がなくなる。\nhttps://t.co/cGLnGxzgqR",
+        "likes": 4,
+        "url": "https://x.com/i/status/2049062815869382947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049062815869382947"
+      ]
+    },
+    {
+      "repo": "thenamespace/skills",
+      "github_url": "https://github.com/thenamespace/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HAPPYS1NGH",
+        "text": "Get the skill here:                                                                                          \n\nnpx skills add thenamespace/skills -s ens-components     \n                                                    \nhttps://t.co/iSnpgfQRkP",
+        "likes": 4,
+        "url": "https://x.com/i/status/2048893688231706747"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048893688231706747"
+      ]
+    },
+    {
+      "repo": "celo-org/celopedia-skills",
+      "github_url": "https://github.com/celo-org/celopedia-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SuperchainEco",
+        "text": "And to tie it all together, the Celopedia Skill is live.\n\nEverything devs need to build MiniApps, agentic tooling, stablecoin rails, or payments protocols on Celo, packaged into a single skill:\n\nnpx skills add celo-org/celopedia-skills\nhttps://t.co/KRZpgW8Y1j",
+        "likes": 2,
+        "url": "https://x.com/i/status/2049057426301735396"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049057426301735396"
+      ]
+    },
+    {
+      "repo": "mlflow/skills",
+      "github_url": "https://github.com/mlflow/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MLflow",
+        "text": "MLflow Skills close the measurement loop 👇\n🔹 npx skills add mlflow/skills + stack tracing\n🔹 Traces → analyze → judges → fix → verify\n🔹 Claude Code, Codex, Gemini CLI, OpenCode\n\n🔗 Learn more: https://t.co/7eFJYuYiOF\n\n#MLflow #LLMOps https://t.co/4ZLCIHZBJL",
+        "likes": 2,
+        "url": "https://x.com/i/status/2048936681756033141"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048936681756033141"
+      ]
+    },
+    {
+      "repo": "okooo5km/beautiful-mermaid-cli",
+      "github_url": "https://github.com/okooo5km/beautiful-mermaid-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okooo5km",
+        "text": "这个工具也是 AI Agent 友好的。\n\n仓库中内置了 Skill，一键安装：\n\nnpx skills add okooo5km/beautiful-mermaid-cli\n\nClaude Code / Cursor / Codex 等写完 mermaid 直接渲染成图替换到文档中。\n\n人和 AI 共用一个工具 — 这个时代该有的姿势 ✨",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049063638028452352"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049063638028452352"
+      ]
+    },
+    {
+      "repo": "an25235/plugin-store",
+      "github_url": "https://github.com/an25235/plugin-store",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ZCP45584",
+        "text": "自适应策略插件终于开单了，目前收益还阔以，前前后后大概打磨了一周吧也亏了不少😅，这个插件是基于 OKX Onchain OS 官方插件生态构建的 ，直接给你的AI把这段话甩过去就能用了：安装： npx skills add AN25235/plugin-store --skill hyperalpha-official-attribution-install --yes --global https://t.co/LKmgUYjPZU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2048983910344970649"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048983910344970649"
+      ]
+    },
+    {
+      "repo": "moria-fun/skill",
+      "github_url": "https://github.com/moria-fun/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "moriadotfun",
+        "text": "2️⃣ Use your own OpenClaw\n\n- Send the Skill to your OpenClaw\n\n  https://t.co/7RC7Ux3V0X\n\n- Follow the Skill guide to complete deposit and binding\n\n- Choose an active Mint on https://t.co/aSiU0KuZNP\n\n- Let your OpenClaw Mint for you\n\nEntry: https://t.co/aSiU0KuZNP\n\nCode: CLAW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049031450062926019"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049031450062926019"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "vercel-labs/portless",
+      "github_url": "https://github.com/vercel-labs/portless",
+      "tier": 2,
+      "is_new": false,
+      "score": 826.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 202,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ctatedev",
+        "text": "For humans:\nnpm install -g portless\n\nFor agents:\nnpx skills add vercel-labs/portless\n\nhttps://t.co/BMrnxDBh2d",
+        "likes": 200,
+        "url": "https://x.com/i/status/2048868170195144805"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048928770824777878",
+        "https://x.com/i/status/2048868170195144805"
+      ]
+    },
+    {
+      "repo": "microsoft/playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 736.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 142,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "MICROSOFT BUILT AN MCP SERVER FOR PLAYWRIGHT\n\nand it changes how ai agents interact with the web\n\nmost browser agents rely on screenshots + vision models to \"see\" the page\n\nplaywright-mcp skips all that\n\nit reads the accessibility tree instead structured, clean, zero ambiguity\n\ny",
+        "likes": 113,
+        "url": "https://x.com/i/status/2048971660561445288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048971660561445288",
+        "https://x.com/i/status/2048534671168823762"
+      ]
+    },
+    {
+      "repo": "getagentseal/agentseal",
+      "github_url": "https://github.com/getagentseal/agentseal",
+      "tier": 3,
+      "is_new": false,
+      "score": 473.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 96,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning. https://t.co/fFBEMBipLO",
+        "likes": 96,
+        "url": "https://x.com/i/status/2048269413707546637"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048269413707546637"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 372.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oikon48",
+        "text": "Claude Code 2.1.121 (抜粋)\n\n- MCPサーバー設定に `alwaysLoad` オプションを追加。`true` にするとそのサーバーの全ツールが tool-search deferral をスキップし常に利用可能になる\n\n- `claude plugin prune` を追加。不要になった自動インストール済みプラグイン依存関係を削除。`plugin uninstall --prune` でカスケード削除も可能\n\n- `/skills` にタイプ絞り込み検索ボックスを追加\n\n- フルスクリーンモード: スクロールアップして過去の出力",
+        "likes": 29,
+        "url": "https://x.com/i/status/2048992384508452964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048992384508452964",
+        "https://x.com/i/status/2048927553495162991"
+      ]
+    },
+    {
+      "repo": "0xsteph/pentest-ai",
+      "github_url": "https://github.com/0xsteph/pentest-ai",
+      "tier": 3,
+      "is_new": false,
+      "score": 240.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "The most autonomous pentesting AI on the market. MCP server + Python agents with 150+ security tools, exploit chaining, and PoC validation. https://t.co/yVN4jBmuBl",
+        "likes": 40,
+        "url": "https://x.com/i/status/2048240920961622413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048240920961622413"
+      ]
+    },
+    {
+      "repo": "asamassekou10/ship-safe",
+      "github_url": "https://github.com/asamassekou10/ship-safe",
+      "tier": 3,
+      "is_new": false,
+      "score": 163.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wilderko",
+        "text": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies. \nhttps://t.co/sIytmXcMlq\nhttps://t.co/niJA74NzlW",
+        "likes": 21,
+        "url": "https://x.com/i/status/2048132668793950704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048132668793950704"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "give your agent this mushroom skill, and let him cook:\n\nnpx skills add OpusGameLabs/game-creator\n\n/make-game [your idea]\n\nbuild &gt; deploy &gt; playcoin live. https://t.co/NL54VTdBtX",
+        "likes": 2,
+        "url": "https://x.com/i/status/2048940462963044676"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048940462963044676"
+      ]
+    },
+    {
+      "repo": "alondotsh/alon-skills",
+      "github_url": "https://github.com/alondotsh/alon-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alondotsh",
+        "text": "汇丰银行能买的纳指100或者标普500基金只有6个，目前都限购了，所以可以跟踪下，看什么时候放开限制。于是有了这个skill，当然，跟踪其他基金也是可以的  \n\n安装 npx skills add alondotsh/alon-skills --skill fund-tracker\n\nhttps://t.co/lnWv7WXfE3\n\nhttps://t.co/dTYN7mFbLv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049080294305906880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049080294305906880"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "ℹ️  Alternatively, if you already have an AI agent setup, install Byreal Agent Skills:\n\nnpx skills add byreal-git/byreal-agent-skills\n\nhttps://t.co/S5UMQU3sss",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049077877384347964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049077877384347964"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Automate it with Byreal Perps CLI\n\nnpx skills add byreal-git/byreal-perps-cli\n\nhttps://t.co/iihnzu3Syr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049008184313163962"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049008184313163962"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2048917794410897914",
+      "author": "NousResearch",
+      "text": "The most powerful real-time visual tool in creative coding also has the steepest learning curve\n\nNow your Hermes agent can just run TouchDesigner for you.\n\nVideo credit: made by @macbethAI, a talented AI artist and avid Hermes user, with the TouchDesigner skill https://t.co/s80hM",
+      "likes": 1597,
+      "views": 0,
+      "url": "https://x.com/i/status/2048917794410897914",
+      "is_kol": false,
+      "score": 5396.0
+    },
+    {
+      "id": "2048927542703280609",
+      "author": "ClaudeCodeLog",
+      "text": "Claude Code 2.1.121 is now available.\n\n39 CLI changes, 3 system prompt changes\n\nHighlights:\n• Added MCP server option alwaysLoad: when true, that server's tools skip search deferral and load immediately\n• Bash tool drops shell state between runs and adds rerun-footer tokens, so c",
+      "likes": 421,
+      "views": 0,
+      "url": "https://x.com/i/status/2048927542703280609",
+      "is_kol": false,
+      "score": 1383.0
+    },
+    {
+      "id": "2048889343402704972",
+      "author": "Artifexx",
+      "text": "Obsidian Bases are better than Notion databases.\n\nMost people never use them because they're too technical.\n\nThis Claude skill changes this:\n\nBases automatically aggregate notes from your vault into a structured table.\n\nI have dozens of bases; the one in the video replaces the re",
+      "likes": 311,
+      "views": 0,
+      "url": "https://x.com/i/status/2048889343402704972",
+      "is_kol": false,
+      "score": 1008.0
+    },
+    {
+      "id": "2048962735397056898",
+      "author": "Teknium",
+      "text": "Merged, Claude Design skill is in Hermes Agent now",
+      "likes": 282,
+      "views": 0,
+      "url": "https://x.com/i/status/2048962735397056898",
+      "is_kol": false,
+      "score": 901.0
+    },
+    {
+      "id": "2048872280952864780",
+      "author": "adamuchigabriel",
+      "text": "⚠️ O Claude agora integra com a Higgsfield e automatiza a criação de vídeos.\n\nVocê só precisa de:\n📸 uma imagem do produto\n✍️ um briefing simples\nEle seleciona a IA e gera tudo sozinho.\n\n👉 Comenta \"SKILL\" para receber pela DM. https://t.co/8dQ1OlP18V",
+      "likes": 221,
+      "views": 0,
+      "url": "https://x.com/i/status/2048872280952864780",
+      "is_kol": false,
+      "score": 728.0
+    },
+    {
+      "id": "2048764409107874059",
+      "author": "bitget",
+      "text": "Your agent is smart, but it can't trade on Bitget... yet.\n\nAgent Spring Camp is LIVE, a step-by-step trading school for your Agent.\n\n1. Copy the script\n2. Agent learns &amp; executes\n3. Quiz verifies the skill\n\nUpgrade your agent to a pro trader. No coding required. https://t.co/",
+      "likes": 149,
+      "views": 0,
+      "url": "https://x.com/i/status/2048764409107874059",
+      "is_kol": false,
+      "score": 632.0
+    },
+    {
+      "id": "2048801022731026791",
+      "author": "Trendtrack_io",
+      "text": "TrendTrack API & MCP are live\n\nConnect it to Claude, GPT, Gemini or any tool you already use.\n\nWhat you can pull :\n\nWinning ads before they saturate\nScaling stores before everyone spots them\nEmail campaigns from your competitors\nHooks that are converting right now\n\nEverything you",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2048801022731026791",
+      "is_kol": false,
+      "score": 577.0
+    },
+    {
+      "id": "2048857673819672613",
+      "author": "igoryuzo",
+      "text": "We’re past spam bots.\n\nYou can now run an X account that actually thinks, remembers, and has a personality people enjoy interacting with.\n\nWith @bankrbot Terminal v2 you can spin up your own agent in minutes:\n\n• Tell it to use the twitter-agent skill (battle tested from running B",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2048857673819672613",
+      "is_kol": false,
+      "score": 530.0
+    },
+    {
+      "id": "2049059060427952164",
+      "author": "garrytan",
+      "text": "Here's a fun skill you can teach your OpenClaw/Hermes, just paste it and find a book and it'll give you hours of fun\n\nBook Mirror — How It Works\n\nWhat it does: Takes any book + everything the AI knows about the reader → produces a personalized chapter-by-chapter analysis. Left co",
+      "likes": 137,
+      "views": 0,
+      "url": "https://x.com/i/status/2049059060427952164",
+      "is_kol": false,
+      "score": 431.0
+    },
+    {
+      "id": "2048738868615070091",
+      "author": "DavidOndrej1",
+      "text": "I'm building a Self-Improving AI Agent MCP Server Orchestration Harness E2E Locally-Runnable MoE Gemma 4 Uncensored CLAUDE.md\n\nfully open-source, open-weights, unrestricted, jailbreaked, self-funded, VC-backed, boostrapped, AGI-pilled\n\nmy DMs are open.",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2048738868615070091",
+      "is_kol": false,
+      "score": 411.0
+    },
+    {
+      "id": "2048790854437925023",
+      "author": "WuBlockchain",
+      "text": "Gemini Launches AI “Agentic Trading” for Automated Crypto Accounts  \n\nGemini has introduced “Agentic Trading,” allowing users to connect AI models such as ChatGPT and Claude directly to trading accounts via the MCP open standard. The tool enables AI to autonomously monitor market",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2048790854437925023",
+      "is_kol": false,
+      "score": 332.0
+    },
+    {
+      "id": "2048809765904540108",
+      "author": "ekinoks_26",
+      "text": "Vibe coding a confidential smart contract sounds like a joke until you realize @inconetwork shipped an MCP server in February and it actually works.\n\nHere's the real problem it's solving. If you ask a general-purpose model to write a contract using Inco's SDK without the MCP, you",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2048809765904540108",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2048964733194449221",
+      "author": "gengdaJ",
+      "text": "https://t.co/x4ehNqdwL0上次我开源的这个Skill，把微信聊天记录、朋友圈、收藏夹全部解密，已经冲到了100+star！​\n这次我又进行了史诗级别更新！融合了九种新的玩法！只需要安装一次Skill，之后全是复利！​\n​\n现在你第一次安装好skill的时候，Claude Code会提醒你去体验一下这些玩法！\n\n接下来我就结合目前免费的蚂蚁百灵的Ling-2.6-flash 和 Ling-2.6-1T给大家好好介绍一下这些实战玩法。（后面有cc-swich具体的模型配置方法）​\n​\n一、聊天记录​\n1）把每天的微信群聊日报沉淀到飞书或者",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2048964733194449221",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2048794079056519365",
+      "author": "ghumare64",
+      "text": "MCP is not dead.\n\nAlways-on MCP is the problem.\n\nMost agent setups fail because they treat MCP servers like plugins you enable once and forget.\n\nThat is how you end up with:\n\n1. 80 tools in context\n2. higher token cost\n3. worse tool selection\n4. slower responses\n5. agents calling",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2048794079056519365",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2048712184713359563",
+      "author": "YourAITools1",
+      "text": "DuckDuckGo MCP服务器0.3.0上线！\n专为AI模型打造，支持网页搜索及内容抓取解析。一键启动：uvx duckduckgo-mcp-server。\nAI工具爱好者快试试，节省调研时间，效率飙升！🔍✨",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2048712184713359563",
+      "is_kol": false,
+      "score": 216.0
+    }
+  ]
+}
