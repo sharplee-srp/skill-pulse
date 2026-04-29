@@ -1,0 +1,607 @@
+{
+  "date": "2026-04-29",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 194,
+    "tweets_with_repos": 30,
+    "unique_repos": 21,
+    "new_repos": 12,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "billionsnetwork/verified-agent-identity",
+      "github_url": "https://github.com/billionsnetwork/verified-agent-identity",
+      "tier": 1,
+      "is_new": true,
+      "score": 1943.0,
+      "mention_count": 6,
+      "kol_mentions": [],
+      "total_likes": 331,
+      "total_retweets": 70,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Crypto_Pranjal",
+        "text": "Billions Network: Do This to Qualify for FAIAR Rewards.\n\n@billions_ntwk is giving extra rewards to users who install the Verified Agent Identity skill on their agent.\n\nIf your agent is already verified, this takes less than a minute. If not, first verify your agent using this gui",
+        "likes": 330,
+        "url": "https://x.com/i/status/2049282032757588100"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049282032757588100",
+        "https://x.com/i/status/2049425461818871886",
+        "https://x.com/i/status/2049419681749254436",
+        "https://x.com/i/status/2049414595392237769",
+        "https://x.com/i/status/2049355937736167590",
+        "https://x.com/i/status/2049334040533033182"
+      ]
+    },
+    {
+      "repo": "unchartedgg/play-fishing-frenzy",
+      "github_url": "https://github.com/unchartedgg/play-fishing-frenzy",
+      "tier": 1,
+      "is_new": true,
+      "score": 436.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FishingFrenzyCo",
+        "text": "Agentic Fishing is here 🎣\n\nYour AI agent can now play Fishing Frenzy from the terminal.\n\nOne command. Fully autonomous.\n\n$ npx skills add unchartedgg/play-fishing-frenzy\n\nLet your agent fish. Instructions below https://t.co/Jqi1AQt7cR",
+        "likes": 28,
+        "url": "https://x.com/i/status/2049419764192424052"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049435665264418896",
+        "https://x.com/i/status/2049419791543541940",
+        "https://x.com/i/status/2049419764192424052"
+      ]
+    },
+    {
+      "repo": "harmonicsecurity/claudit-sec",
+      "github_url": "https://github.com/harmonicsecurity/claudit-sec",
+      "tier": 2,
+      "is_new": true,
+      "score": 922.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 209,
+      "total_retweets": 19,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jhaddix",
+        "text": "Our sponsor this week is @harmonicsec!\n\nWant to see every plugin, skill, MCP server, connector, extension, and scheduled task running in Claude Desktop?\n\nNow you can thanks to @harmonicsec’s free tool:\n\nclaudit-sec: https://t.co/NdbKhaktBT https://t.co/uoMADUhgYh",
+        "likes": 115,
+        "url": "https://x.com/i/status/2049214121762345209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049214121762345209",
+        "https://x.com/i/status/2049217654326690075"
+      ]
+    },
+    {
+      "repo": "zeke/swiss-design-skill",
+      "github_url": "https://github.com/zeke/swiss-design-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 616.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 162,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zeke",
+        "text": "I made a Swiss International Style design system as an agent skill.\n\nnpx skills add zeke/swiss-design-skill\n\nhttps://t.co/PQumuwjaEz https://t.co/j4vNl8oNxF",
+        "likes": 162,
+        "url": "https://x.com/i/status/2049348208489570771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049348208489570771"
+      ]
+    },
+    {
+      "repo": "skydoves/compose-performance-skills",
+      "github_url": "https://github.com/skydoves/compose-performance-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 255.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 45,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "github_skydoves",
+        "text": "Published a new open-source project, Compose Performance Skills.\n\n⚡️ This is a curated library of Agent Skills focused on Jetpack Compose performance. Every skill is grounded in primary sources.\n\nhttps://t.co/NZkTHZuRSA",
+        "likes": 45,
+        "url": "https://x.com/i/status/2049401974052057505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049401974052057505"
+      ]
+    },
+    {
+      "repo": "aurite-ai/agent-verifier",
+      "github_url": "https://github.com/aurite-ai/agent-verifier",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jitenoswal",
+        "text": "🚀 Quickstart (takes 2 min):\n\n`npx skills add aurite-ai/agent-verifier --all`\n\nThen say `verify agent` in Cursor, Claude Code, or any coding agent — 30+ supported out of the box.\n\nWorks with LangGraph, CrewAI, Claude Agent SDK & most major agent frameworks.\n\nYou'll get a structure",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049410119163638185"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049410119163638185"
+      ]
+    },
+    {
+      "repo": "aipoch/medical-research-skills",
+      "github_url": "https://github.com/aipoch/medical-research-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aipoch_ai",
+        "text": "Find preprints that match your research topic in 30 seconds!\n\n🏆 Final Ranking (for novelty/similarity check)\n1️⃣ Preprint Surveillance Finder (AIPOCH)\n2️⃣ arxiv-preprint-template\n3️⃣ biorxiv-openclaw-skill\n4️⃣ arxiv-search\nhttps://t.co/lbyUBwmp1f",
+        "likes": 2,
+        "url": "https://x.com/i/status/2049401662486556950"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049401662486556950"
+      ]
+    },
+    {
+      "repo": "amap-ml/skillclaw",
+      "github_url": "https://github.com/amap-ml/skillclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alibaba_AMAP",
+        "text": "Amap Skill Claw: Making AI skills persistent. Agents now evolve across sessions, devices &amp; users. Just chat—it auto-extracts &amp; verifies skills in the background. A seamless, self-evolving loop. 🔄✨\nhttps://t.co/19elOJI8mj\n#Amap #AI #agent #skill https://t.co/Bj0nbKncMJ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049368752425423238"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049368752425423238"
+      ]
+    },
+    {
+      "repo": "taohaowei/soul-guardian",
+      "github_url": "https://github.com/taohaowei/soul-guardian",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TTTT_up",
+        "text": "@dotey 感谢大佬分享！借楼安利一下自己做的 Claude Code skill——Soul Guardian，终端里的 AI 心理咨询师。核心是本地持久记忆，每次聊完自动更新心理档案，越聊越懂你。我自己用了几次，确实帮我理清了一个困扰很久的家庭问题。💁‍♂️数据全存本地，开源免费：npx skills add taohaowei/soul-guardian -g",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049398383396397232"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049398383396397232"
+      ]
+    },
+    {
+      "repo": "midnightdarling/collate",
+      "github_url": "https://github.com/midnightdarling/collate",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Raw_0xDEADBEEF",
+        "text": "做了一组给历史爱好者玩耍和分析论文的plugin。 我喜欢这个名字，collate。它原本是一个给历史研究或爱好者用的中文文献 pipeline，从扫描件一路到终稿，ocr、校对、排版、阅读分析，后来扩充了一些有趣的思想实验和好看的信息可视化viewer，一共15 个 skill。 原生支持 claude code、codex、gemini cli、cursor、hermes agent，可以丝滑接入所有国产agent，换个 runtime 就能跑。 虽然但是。opus-4.7做showcase的时候用\"改革开放的曙光\"来分析五四这种事还是太炸裂了。ht",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049405462823751860"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049405462823751860"
+      ]
+    },
+    {
+      "repo": "abhishek-genailytics/v0-prompting",
+      "github_url": "https://github.com/abhishek-genailytics/v0-prompting",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "___iamabhishek",
+        "text": "Install:\n\nnpx skills add abhishek-genailytics/v0-prompting\n\nOr upload the zip to https://t.co/aGzyP2TpLk → Settings → Capabilities → Skills.\n\nRepo: https://t.co/ZpsRkn9ewS\n\nIf you build with v0, try it and tell me where it breaks.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049336792307179654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049336792307179654"
+      ]
+    },
+    {
+      "repo": "kitepon-rgb/throughline",
+      "github_url": "https://github.com/kitepon-rgb/throughline",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QLyun35332",
+        "text": "Shipped three Claude Code augmentation tools on npm over the past month. Each solves a different problem via hooks.\n\n📦 Throughline\nA hook that takes over session context management. Tool I/O (file reads, grep output, Bash output) is done after use, but it sticks around in the con",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049443982959165877"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049443982959165877"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "microsoft/playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 4209.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1153,
+      "total_retweets": 130,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "MICROSOFT BUILT AN MCP SERVER FOR PLAYWRIGHT\n\nand it changes how ai agents interact with the web\n\nmost browser agents rely on screenshots + vision models to \"see\" the page\n\nplaywright-mcp skips all that\n\nit reads the accessibility tree instead structured, clean, zero ambiguity\n\ny",
+        "likes": 1153,
+        "url": "https://x.com/i/status/2048971660561445288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048971660561445288"
+      ]
+    },
+    {
+      "repo": "vercel-labs/emulate",
+      "github_url": "https://github.com/vercel-labs/emulate",
+      "tier": 2,
+      "is_new": false,
+      "score": 987.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 274,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ctatedev",
+        "text": "New Skill: Stripe Emulator\n\nWorks offline ✓\nNo account needed ✓\nStateful ✓\nHosted checkout page ✓\nWebhooks ✓\nEmbeds in your app ✓\nSeedable/deterministic ✓\nWorks in CI with no secrets ✓\n\nnpx skills add vercel-labs/emulate --skill stripe https://t.co/1T9ZDmmJrW",
+        "likes": 274,
+        "url": "https://x.com/i/status/2049350311106511178"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049350311106511178"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 456.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oikon48",
+        "text": "Claude Code 2.1.121 (抜粋)\n\n- MCPサーバー設定に `alwaysLoad` オプションを追加。`true` にするとそのサーバーの全ツールが tool-search deferral をスキップし常に利用可能になる\n\n- `claude plugin prune` を追加。不要になった自動インストール済みプラグイン依存関係を削除。`plugin uninstall --prune` でカスケード削除も可能\n\n- `/skills` にタイプ絞り込み検索ボックスを追加\n\n- フルスクリーンモード: スクロールアップして過去の出力",
+        "likes": 46,
+        "url": "https://x.com/i/status/2048992384508452964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048992384508452964",
+        "https://x.com/i/status/2048927553495162991"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions-dev",
+      "github_url": "https://github.com/jakubantalik/transitions-dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 227.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "这个动效设计 skills 真好！\n\nnpx skills add jakubantalik/transitions-dev",
+        "likes": 34,
+        "url": "https://x.com/i/status/2049423162933395583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049423162933395583"
+      ]
+    },
+    {
+      "repo": "nicolargo/glances",
+      "github_url": "https://github.com/nicolargo/glances",
+      "tier": 3,
+      "is_new": false,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Glances 💀🔥 — Real-Time System Monitoring Tool\n\nCross-platform tool to monitor CPU, RAM, disk, network & processes.\n\n• Terminal + Web UI dashboard\n• Remote monitoring (API / browser)\n• Docker & container support\n• Export to DBs (Prometheus, Influx, etc.)\n• MCP support for AI assis",
+        "likes": 34,
+        "url": "https://x.com/i/status/2048617361851461765"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2048617361851461765"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sammyo_official",
+        "text": "うちの法人名刺SaaS「Biz名刺」のHPリンクをClaude Codeに渡しただけで、50秒のサービス紹介動画ができた\n\n→ npx skills add heygen-com/hyperframes\n→ サイトのカラー・フォント・SVGを自動抽出\n→ HTML+GSAPでコンポ組み立て\n→ MP4書き出し\nダッシュボードの動き、LPのSVGコード読んで再構築してる。\n普段映像作ってる側として、正直まじで震えた。\n\nサイトのURLだけでこれができあがったので、更に細かく動画構成を指定してあげたらどうなるのやら・・・。\n\nAIに「どうやって作ったか詳細」",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049424814390309204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049424814390309204"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ElectricSheepIO",
+        "text": "@rodgui @steipete @openclaw @rodgui can you run this skill and send me a link to the issue  https://t.co/ZNcp1ffXEV",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049413309129244928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049413309129244928"
+      ]
+    },
+    {
+      "repo": "openclaw/skills",
+      "github_url": "https://github.com/openclaw/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aipoch_ai",
+        "text": "3️⃣ biorxiv-openclaw-skill\nhttps://t.co/1RmtGPYZsN\nPositioning\nA biomedical preprint ecosystem scanner\n\nWhat it does well\n- Searches bioRxiv-specific content\n- Captures biology / genomics / translational overlap\n\nLimitation\n- Domain-constrained (less relevant for AI/agent papers)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049401691431416310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049401691431416310"
+      ]
+    },
+    {
+      "repo": "moria-fun/skill",
+      "github_url": "https://github.com/moria-fun/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "moriadotfun",
+        "text": "2️⃣ Use your own OpenClaw\n\n- Send the Skill to your OpenClaw\n\n  https://t.co/7RC7Ux3V0X\n\n- Follow the Skill guide to complete deposit and binding\n\n- Choose an active Mint on https://t.co/aSiU0KuZNP\n\n- Let your OpenClaw Mint for you\n\nEntry: https://t.co/aSiU0KuZNP\n\nCode: CLAW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049031450062926019"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049031450062926019"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2049218109807198331",
+      "author": "derekmeegan",
+      "text": "Introducing the /browser-trace skill,\n\nGive your agent 100% observability into its browser: dump network requests, DOM content, screenshots, and CDP logs into a searchable filesystem.\n\nGreat for reverse engineering, autoresearch loops, and monitoring the situation ™️. https://t.c",
+      "likes": 1799,
+      "views": 0,
+      "url": "https://x.com/i/status/2049218109807198331",
+      "is_kol": false,
+      "score": 5922.0
+    },
+    {
+      "id": "2049168580064035026",
+      "author": "figma",
+      "text": "MCP updates in FigJam so you can visualize your systems (and not just read code)\n\n→ generate_diagram to create architecture diagrams & ERDs\n→ figma-use-figjam skill to add notes, code blocks, and annotations directly to your board\n→ get_figjam tool to read your board & map out ne",
+      "likes": 592,
+      "views": 0,
+      "url": "https://x.com/i/status/2049168580064035026",
+      "is_kol": true,
+      "score": 2011.0
+    },
+    {
+      "id": "2049153203950788906",
+      "author": "sagitz_",
+      "text": "How do you research GitHub? You start with GitHub Enterprise Server - it shares much of its codebase with https://t.co/b0b0IOqAdQ, and you can run it locally\n\nWe extracted its compiled binaries and used IDA MCP to reconstruct the internal protocols behind every git push 🤖",
+      "likes": 316,
+      "views": 0,
+      "url": "https://x.com/i/status/2049153203950788906",
+      "is_kol": false,
+      "score": 963.0
+    },
+    {
+      "id": "2049347295603228848",
+      "author": "UiSavior",
+      "text": "Just dropped: Claude Skill for Designers ⚡ https://t.co/6O0iSS5A9B",
+      "likes": 255,
+      "views": 0,
+      "url": "https://x.com/i/status/2049347295603228848",
+      "is_kol": false,
+      "score": 840.0
+    },
+    {
+      "id": "2049277483472887909",
+      "author": "WesRoth",
+      "text": "Nous Research introduced \"Creative Suite\" for its open-source Hermes Agent, featuring a specialized skill that allows the agent to natively operate TouchDesigner.\n\nThe new Hermes integration allows the agent to bridge this gap, autonomously generating complex node-based visual en",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2049277483472887909",
+      "is_kol": false,
+      "score": 560.0
+    },
+    {
+      "id": "2049329215062089872",
+      "author": "AiWithSaira",
+      "text": "CLAUDE CAN NOW TEACH YOU ANY COMPLEX SKILL AS IF HE WERE A STANFORD TENURED PROFESSOR OR A GOOGLE EXPERT. FREE.\n\nHERE ARE 8 PROMPTS TO MASTER ANY TOPIC IN LESS THAN 30 DAYS IN 2026:\n\n(Save this before it disappears)",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2049329215062089872",
+      "is_kol": false,
+      "score": 440.0
+    },
+    {
+      "id": "2049367420016672827",
+      "author": "VivekIntel",
+      "text": "Claude-OSINT — AI-Driven OSINT Framework 🔎\n\n• OSINT skills + methodology (Claude-based)\n• Structured recon workflows + scripts + examples\n• Focus: passive intel (no exploitation)\n• Includes automation, testing, skill modules\n• Clean methodology for real investigations\n\n⚠️ No real",
+      "likes": 114,
+      "views": 0,
+      "url": "https://x.com/i/status/2049367420016672827",
+      "is_kol": false,
+      "score": 432.0
+    },
+    {
+      "id": "2049308682756764144",
+      "author": "cryptopunk7213",
+      "text": "my god anthropic really going after the entire design industry:\n\n> Claude x Blender feature automates 3D modelling. \n\n> artists, engineers and architects who spend WEEKS creating 3d visuals can now automate the entire skill\n\n> anthropic also integrated 50+ adobe tools today. \n\nso",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2049308682756764144",
+      "is_kol": false,
+      "score": 403.0
+    },
+    {
+      "id": "2049303933294875063",
+      "author": "yyyole",
+      "text": "Pika新推出的Agent，简直炸裂！\n丢一个想法，它就开始干活。 \n不需要费尽心思的调提示词！\n\n尤其是生成视频，体感特别丝滑， \n只需要跟它对话，告诉它方向， \n全程不需要考虑该用什么skill，该用哪个模型，该用什么工作流。 \n不用管音乐，不用管分镜，连剪辑都不用管。 \n它会自动调用short ads skill，几分钟就可以给你30秒的视频！！\n\n而且，视频是有导演思维和剪辑思维的！ \n这个真的有点东西， 官方内置了很多旗舰模型和Skill， \nAgent在后台按最优路径调用，组织整个工作流， \n这是和其他Agent最不一样的地方！\n一个念头，一",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2049303933294875063",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2049396960533311877",
+      "author": "nichxbt",
+      "text": "https://t.co/fzWe3P5cfF is now listed on @AnthropicAI's official MCP Registry – the canonical directory for AI-to-tool integrations used by Claude, ChatGPT, Cursor & more.  \n\n🔗 Full MCP Server\n🔗 Complete documentation\n🔗 Agent monetization\n\nOnboarding the next billion developers a",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2049396960533311877",
+      "is_kol": false,
+      "score": 355.0
+    },
+    {
+      "id": "2049229107528073588",
+      "author": "omid_i_",
+      "text": "آشنایی با Claude Code: روز چهارم\n\nاین MCP چیه و چه طور میشه به سادگی با Claude از ویژگی های MCP استفاده کرد؟\n\nتو روزهای قبلی راجع به Skill و Sub-agent گفتیم. ولی یه چیز هست که اگه نباشه، همه‌ی این‌ها محدود می‌مونن: MCP!\n\nیه زمانی هر دستگاه برقی، پلاگ مخصوص خودش رو داشت. یه پلاگ ب",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2049229107528073588",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2049427405232836925",
+      "author": "0x0funky",
+      "text": "1小時多，用嘴巴開發做了一個類 Kingdom Rush 的塔防小遊戲。\n\n全程使用 Codex + agent-sprite-forge skill，從地圖、Props、塔、怪物動畫、Boss、飛行怪、HUD，到 Godot 裡的波次、難度、升級 / 賣塔流程，基本上都是跟 Codex 對話做出來的。\n\n比較有感的是，這次不只是生素材，也不是單純用 JS 做一個陽春版 Demo，而是一路把素材接進 Godot 專案裡，真的用遊戲引擎把地圖、角色、塔、防守波次和互動流程串起來。\n\n當然 Codex 目前還沒辦法非常精準地處理所有位置資訊，像是地圖偏移、物",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2049427405232836925",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2049350568163062151",
+      "author": "md66358",
+      "text": "🚨 Claude just became your personal $200/hr tutor — for free.\n\nMost people use it to chat. Smart people use it to learn FAST.\n\nHere are 5 prompts that turn Claude into a world-class teacher for any skill. Save this. 👇",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2049350568163062151",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2049254603246444953",
+      "author": "dr_cintas",
+      "text": "Woah.. Pika just launched Pika agents 🤯\n\nIt completely automates workflows and takes them to a whole other level by incorporating GPT Image, Seedance…and skills.\n\nWatch me teach my agent a full creative ads skill and get it done in one shot. https://t.co/7ec9tCOrg2",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2049254603246444953",
+      "is_kol": false,
+      "score": 247.0
+    }
+  ]
+}

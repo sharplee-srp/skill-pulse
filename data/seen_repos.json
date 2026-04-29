@@ -1622,5 +1622,53 @@
   "moria-fun/skill": {
     "first_seen": "2026-04-28",
     "tier": 3
+  },
+  "billionsnetwork/verified-agent-identity": {
+    "first_seen": "2026-04-29",
+    "tier": 1
+  },
+  "unchartedgg/play-fishing-frenzy": {
+    "first_seen": "2026-04-29",
+    "tier": 1
+  },
+  "harmonicsecurity/claudit-sec": {
+    "first_seen": "2026-04-29",
+    "tier": 2
+  },
+  "zeke/swiss-design-skill": {
+    "first_seen": "2026-04-29",
+    "tier": 2
+  },
+  "skydoves/compose-performance-skills": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "aurite-ai/agent-verifier": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "aipoch/medical-research-skills": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "amap-ml/skillclaw": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "taohaowei/soul-guardian": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "midnightdarling/collate": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "abhishek-genailytics/v0-prompting": {
+    "first_seen": "2026-04-29",
+    "tier": 3
+  },
+  "kitepon-rgb/throughline": {
+    "first_seen": "2026-04-29",
+    "tier": 3
   }
 }
