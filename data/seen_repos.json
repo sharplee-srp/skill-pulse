@@ -1670,5 +1670,45 @@
   "kitepon-rgb/throughline": {
     "first_seen": "2026-04-29",
     "tier": 3
+  },
+  "neo-d6n/lid-proof": {
+    "first_seen": "2026-04-30",
+    "tier": 1
+  },
+  "chaingpt-org/chaingpt-claude-skill": {
+    "first_seen": "2026-04-30",
+    "tier": 2
+  },
+  "oobe-protocol/synapse-sap-sdk": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "whale-io/lets-play-a-game": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "enzed/goblins": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "naxiaoduo/scammer.skill": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "akhileshrangani4/agent-peek": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "mukul975/anthropic-cybersecurity-skills": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "persimmonog/claude-skills": {
+    "first_seen": "2026-04-30",
+    "tier": 3
+  },
+  "aiwork4me/ernie-image-skill": {
+    "first_seen": "2026-04-30",
+    "tier": 3
   }
 }

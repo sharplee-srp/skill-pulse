@@ -1,0 +1,496 @@
+{
+  "date": "2026-04-30",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 198,
+    "tweets_with_repos": 19,
+    "unique_repos": 14,
+    "new_repos": 10,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "neo-d6n/lid-proof",
+      "github_url": "https://github.com/neo-d6n/lid-proof",
+      "tier": 1,
+      "is_new": true,
+      "score": 308.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neosphere_inc",
+        "text": "walk around freely with agents running on your mac!\n\nnpx skills add neo-d6n/lid-proof\n\nhttps://t.co/xalBUUsNU6",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049648297040904420"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049736885921349858",
+        "https://x.com/i/status/2049669286948655452",
+        "https://x.com/i/status/2049648297040904420"
+      ]
+    },
+    {
+      "repo": "chaingpt-org/chaingpt-claude-skill",
+      "github_url": "https://github.com/chaingpt-org/chaingpt-claude-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 1157.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 259,
+      "total_retweets": 56,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Chain_GPT",
+        "text": "The ChainGPT skill for Claude Code, by the numbers:\n\n→ 12 MCP tools (Claude calls our APIs directly)\n→ 45+ audited Solidity patterns\n→ 10 production templates\n→ 7 ChainGPT products covered\n→ Mock server for zero-credit dev\n\nInstall: https://t.co/ACsb4p9cLR",
+        "likes": 259,
+        "url": "https://x.com/i/status/2049448358658396458"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049448358658396458"
+      ]
+    },
+    {
+      "repo": "oobe-protocol/synapse-sap-sdk",
+      "github_url": "https://github.com/oobe-protocol/synapse-sap-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 236.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SteveTheHead_",
+        "text": "GM Builders! We uploaded 5 skills to help your agents improve their performance, understand SAP know-how, and stay up to date with the latest updates\n\nnpx skills add OOBE-PROTOCOL/synapse-sap-sdk",
+        "likes": 27,
+        "url": "https://x.com/i/status/2049729622934200551"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049729622934200551"
+      ]
+    },
+    {
+      "repo": "whale-io/lets-play-a-game",
+      "github_url": "https://github.com/whale-io/lets-play-a-game",
+      "tier": 3,
+      "is_new": true,
+      "score": 211.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WhaleGames_en",
+        "text": "AI Tournament is ON!🦾🤖\n\n$10,000 prize pool. 14 days. \n\nConnect any MCP-compatible AI (Claude, Codex, Cursor, etc.) to https://t.co/znpuYfchqg. Your agent handles the rest: picks games, builds strategies, places bets, manages bankroll.\n\nHow to start:\n🐳 Connect your AI tool \n🐳 Log ",
+        "likes": 22,
+        "url": "https://x.com/i/status/2049793856170819767"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049793856170819767"
+      ]
+    },
+    {
+      "repo": "enzed/goblins",
+      "github_url": "https://github.com/enzed/goblins",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NicolasZu",
+        "text": "Asked GPT-5.5 to make a /goblins skill in Codex. \n\nSo cute!\n\nnpx skills add enzed/goblins \n\nto install https://t.co/YilUP6Ghne",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049738631665823852"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049738631665823852"
+      ]
+    },
+    {
+      "repo": "naxiaoduo/scammer.skill",
+      "github_url": "https://github.com/naxiaoduo/scammer.skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QiangweiZ46156",
+        "text": "最近这个GltHib上面有一个:骗子.skill ：一个针对 Claude Code/OpenClaw 的 AI Agent Skill\n\n把诈骗话术套路蒸馏成 AI 知识库，用户粘贴一段可疑消息\n\n3秒返回骗局类型 + 当前处于第几阶段 + 骗子下一步会说什么 + 建议怎么应对\n\n👉https://t.co/d7DcPqeVwU",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049699967430746240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049699967430746240"
+      ]
+    },
+    {
+      "repo": "akhileshrangani4/agent-peek",
+      "github_url": "https://github.com/akhileshrangani4/agent-peek",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akhileshrangani",
+        "text": "also comes with MCP and its own skill\n\ndrop it in your agent config and now your agent has tools to inspect siblings. supervisors, reviewers, coordinators. agents watching agents.\n\nnpx skills add akhileshrangani4/agent-peek",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049625058566692968"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049625058566692968"
+      ]
+    },
+    {
+      "repo": "mukul975/anthropic-cybersecurity-skills",
+      "github_url": "https://github.com/mukul975/anthropic-cybersecurity-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OAnthropic",
+        "text": "API security testing, the way an OWASP expert would run it done by an AI agent.\n\nskill: conducting-api-security-testing\ncovers: REST · GraphQL · OWASP API Top 10 · WAF bypass\n\none of 754 structured skills in the only open-source library mapped to all 5 major security frameworks.\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049785611931009451"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049785611931009451"
+      ]
+    },
+    {
+      "repo": "persimmonog/claude-skills",
+      "github_url": "https://github.com/persimmonog/claude-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yh19910711",
+        "text": "为了欢度五一，做了一个同城文化活动skill\n\n它能帮里从大麦、豆瓣同城、活动行里找到符合地点和时间要求的活动，并分门别类整理好给你，同时还能生成一份导览地图。\n\n搭配hermes和openclaw使用更佳\n\nhttps://t.co/PdHMHpevbr https://t.co/Rh6cSuVCTz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049790927980671080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049790927980671080"
+      ]
+    },
+    {
+      "repo": "aiwork4me/ernie-image-skill",
+      "github_url": "https://github.com/aiwork4me/ernie-image-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alex_PPOV",
+        "text": "🚀 Want to add image generation to your workflow? Try the open-source 𝗘𝗥𝗡𝗜𝗘-𝗜𝗺𝗮𝗴𝗲 𝗦𝗸𝗶𝗹𝗹 in your Claude Code or OpenClaw to 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗡𝗮𝗻𝗼 𝗕𝗮𝗻𝗮𝗻𝗮–𝗹𝗲𝘃𝗲𝗹 𝗶𝗺𝗮𝗴𝗲𝘀 𝗳𝗼𝗿 𝗳𝗿𝗲𝗲: https://t.co/nPobg0INQl\n\n#ERNIEImage #ClaudeCode #OpenClaw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049766398084469081"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049766398084469081"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "billionsnetwork/verified-agent-identity",
+      "github_url": "https://github.com/billionsnetwork/verified-agent-identity",
+      "tier": 1,
+      "is_new": false,
+      "score": 428.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Victornguyen10x",
+        "text": "Cài ngay \"Verified Identity Skill\" để Mở khóa phần thưởng FAIAR từ @billions_ntwk nhé ae\n\nBên cạnh Power, @billions_ntwk vừa tung phần thưởng cho ai cài đặt Verified Agent Identity của mình,  tranh thủ húp \"kèo trong kèo\" nào. \n\nAgent của anh em phải được Verify trước đó. \n\nHướng",
+        "likes": 25,
+        "url": "https://x.com/i/status/2049631358050550222"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049631358050550222",
+        "https://x.com/i/status/2049799162955264043",
+        "https://x.com/i/status/2049737750010802455"
+      ]
+    },
+    {
+      "repo": "harmonicsecurity/claudit-sec",
+      "github_url": "https://github.com/harmonicsecurity/claudit-sec",
+      "tier": 2,
+      "is_new": false,
+      "score": 1447.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 339,
+      "total_retweets": 46,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jhaddix",
+        "text": "Our sponsor this week is @harmonicsec!\n\nWant to see every plugin, skill, MCP server, connector, extension, and scheduled task running in Claude Desktop?\n\nNow you can thanks to @harmonicsec’s free tool:\n\nclaudit-sec: https://t.co/NdbKhaktBT https://t.co/uoMADUhgYh",
+        "likes": 193,
+        "url": "https://x.com/i/status/2049214121762345209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049214121762345209",
+        "https://x.com/i/status/2049217654326690075"
+      ]
+    },
+    {
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Winrey_team9",
+        "text": "It’s a Claude Code skill. Install it with one single command: npx skills add yizhiyanhua-ai/fireworks-tech-graph\n\nOn macOS, you’ll also need to run brew install librsvg first to handle SVG-to-PNG conversion.Once installed, just tell Claude: “Draw me a RAG pipeline flowchart in da",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049742717413101709"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049742717413101709"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "meanwhile you can run this to deploy games non stop. \n\nlet this help your agent: \nnpx skills add OpusGameLabs/game-creator",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049684672183930962"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049684672183930962"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2049717907664581067",
+      "author": "Teknium",
+      "text": "Introducing Hermes Curator!   \n\nThe new system built in to Hermes Agent now helps you keep your skills that the self improvement loop creates in check, by consolidating and pruning automatically.\n\nThe curator does multiple things:\n\n- keeps track of how often you use each skill, w",
+      "likes": 1003,
+      "views": 0,
+      "url": "https://x.com/i/status/2049717907664581067",
+      "is_kol": false,
+      "score": 3404.0
+    },
+    {
+      "id": "2049546549781315964",
+      "author": "billions_ntwk",
+      "text": "On the Billions App (mobile, web) you can now quickly install our \"Verified Agent Identity\" skill to be eligible for the \"First AI Agent Rewards\" (FAIAR 🔥) https://t.co/4muG1XLwt8",
+      "likes": 860,
+      "views": 0,
+      "url": "https://x.com/i/status/2049546549781315964",
+      "is_kol": false,
+      "score": 3300.0
+    },
+    {
+      "id": "2049372652889116692",
+      "author": "HowToAI_",
+      "text": "Claude Code is terrible at UI design.. someone finally fixed it.\n\nThey built an MCP that gives Claude its own design tool. It reads your existing design system, generates components that actually match, and drops them straight into your codebase.\n\nNo more Inter + purple gradient ",
+      "likes": 511,
+      "views": 0,
+      "url": "https://x.com/i/status/2049372652889116692",
+      "is_kol": false,
+      "score": 1663.0
+    },
+    {
+      "id": "2049626355663581184",
+      "author": "ComfyUI",
+      "text": "ComfyUI is the most flexible open-source creation tool out there but the hard part has been finding and assembling the right pipeline for the job.\n\nWe are excited about the new ComfyUI skill in  @NousResearch  Hermes Agent - you can now install, launch, manage, and run sophistica",
+      "likes": 383,
+      "views": 0,
+      "url": "https://x.com/i/status/2049626355663581184",
+      "is_kol": false,
+      "score": 1299.0
+    },
+    {
+      "id": "2049598176982904886",
+      "author": "Teknium",
+      "text": "You can now control both local and cloud ComfyUI with Hermes Agent with ease with the new built in skill\n\n`hermes update` and run /comfyui to get started",
+      "likes": 253,
+      "views": 0,
+      "url": "https://x.com/i/status/2049598176982904886",
+      "is_kol": false,
+      "score": 884.0
+    },
+    {
+      "id": "2049497829354181034",
+      "author": "BearNotesApp",
+      "text": "#update Good news! Bear now has an official CLI, Claude Connector, and MCP Server. Build automations, connect your favorite AI tools, or just ask Claude what kind of person your notes say you are. The door is now open.\n\nRead the full story:\nhttps://t.co/LCftxRvQMV",
+      "likes": 227,
+      "views": 0,
+      "url": "https://x.com/i/status/2049497829354181034",
+      "is_kol": false,
+      "score": 766.0
+    },
+    {
+      "id": "2049737275014303777",
+      "author": "cyrilXBT",
+      "text": "THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.\n\nNot a plugin.\n\nNot an integration.\n\nA full agent skills system that teaches Claude Code, Codex, and OpenCode to READ, WRITE, and REASON inside your Obsidian vault like a power user.\n\n27,000 GitHub stars in day",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2049737275014303777",
+      "is_kol": false,
+      "score": 588.0
+    },
+    {
+      "id": "2049444949821960567",
+      "author": "sjsandeep_jain",
+      "text": "Most people confuse this:\n\n\"MCP vs Agent Skills\"\n\nThey’re not competitors.\n\nThey solve completely different problems 👇\n\n🧩 MCP (Model Context Protocol)\nThink: connecting your AI to the real world\n\n• Integrates APIs, databases, SaaS tools\n• Runs as a separate server (own runtime)\n•",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2049444949821960567",
+      "is_kol": false,
+      "score": 524.0
+    },
+    {
+      "id": "2049609671619592240",
+      "author": "GoogleCloudTech",
+      "text": "Our new Agent Registry in Gemini Enterprise Agent Platform provides a single source of truth for your enterprise.\n\nIt indexes every internal agent, tool, and skill—simplifying discovery and ensuring governed, approved assets are available to your users → https://t.co/5xcXkUmUCB h",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2049609671619592240",
+      "is_kol": false,
+      "score": 514.0
+    },
+    {
+      "id": "2049658241572102253",
+      "author": "Honcia13",
+      "text": "连中国传统的玄学算命行业，也要被AI彻底颠覆了！ \n \n有人已经开始拿这个赛博AI八字技能赚钱了。  \nbazi-skill 把传统四柱八字排盘做成了Claude Code的原生技能插件。 \n \n输入“算八字”三个字，AI就会对话式一步步问你信息，\n然后直接给你专业级分析：  \n1️⃣ 采集姓名、出生日期（农历/阳历都行）、出生时辰、性别、出生地\n2️⃣ 自动排四柱（年柱、月柱、日柱、时柱）+ 大运、流年\n3️⃣ 分析日主强弱、五行生克、格局判断\n4️⃣ 给出事业、感情、健康方向的建议\n\n不是随便瞎编，而是真正把老祖宗的命理知识喂给了AI。  \n安装极简",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2049658241572102253",
+      "is_kol": false,
+      "score": 507.0
+    },
+    {
+      "id": "2049600927917863065",
+      "author": "trueadm",
+      "text": "TSRX now supports Vue Vapor!\n\nPlus we've extended the runtimes support to include Preact. We will soon have an MCP server for TSRX so you can plug it into your favorite AI agent.\n\nTSRX is still alpha, so we're looking for early feedback from the Vue community as to how we can imp",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2049600927917863065",
+      "is_kol": false,
+      "score": 373.0
+    },
+    {
+      "id": "2049541361389490341",
+      "author": "LLMJunky",
+      "text": "small tip: after you run a skill, it's not a terrible idea to ask the agent if there's anything in the skill itself that can be updated to make it more efficient.\n\ni'm always updating and refining mine to not only be faster, but use fewer tokens. primarily applies to complexity.",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2049541361389490341",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2049540492908810559",
+      "author": "RhysSullivan",
+      "text": "this may be a skill issue on my part but coding agents don't push you enough towards reusability of feedback\n\njust gave notes to my agent about how it doing optimistic updates wrong, but there's not really a 'step 2' that's encouraged of codifying that knowledge for the future",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2049540492908810559",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2049542614782030114",
+      "author": "SurfAI",
+      "text": "APP by @okx solved how agents pay. Surf Skill solved what they see.\n\nTogether, agents have their first open standard for agentic commerce while scanning 12 crypto data categories before spending a dollar.\n\nAgent Payments Protocol is live, and @SurfAI is built alongside. https://t",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2049542614782030114",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2049643919810641974",
+      "author": "cherylnatsu",
+      "text": "4 月 29 日消息，华为官方今日宣布，鸿蒙“龙虾”小艺 Claw 迎来重磅更新，上线“自进化”能力。\n———\n华为：上线自进化能力！\n众：说人话！\n华为：不经过同意就记录MEMORY和SKILL。\n众：我就知道。",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2049643919810641974",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2049566538592850106",
+      "author": "mkristensen",
+      "text": "I'm building my first MCP Server with .NET 10. So far so good",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2049566538592850106",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2049742274557608100",
+      "author": "lucas_flatwhite",
+      "text": "👩🏻‍💻 디자이너를 위한 Claude Skill 6가지\n\nClaude Code에 디자인 특화 스킬을 추가할 수 있죠.\n\n코드 생성부터 Figma 변환, 브랜드 가이드라인 적용까지~~\n\n디자이너의 실무 흐름에 맞춘 6가지 스킬과 플러그인!\n\n1️⃣ Front-end Design\n코드를 짜기 전에 디자인 씽킹 프로세스를 먼저 거쳐요. 구조와 창의성이 개발을 이끄는 방식으로 작동합니다.\n\n> npx skills add https://t.co/AUdzmTlLYh --skill frontend-design",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2049742274557608100",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2049581924574752807",
+      "author": "benyuls",
+      "text": "la vida cuando Claude deja de darme la razón y empieza a decirme la verdad gracias a este skill https://t.co/j3lUGplpi3",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2049581924574752807",
+      "is_kol": false,
+      "score": 270.0
+    }
+  ]
+}
