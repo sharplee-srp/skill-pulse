@@ -1,0 +1,401 @@
+{
+  "date": "2026-05-01",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 197,
+    "tweets_with_repos": 14,
+    "unique_repos": 11,
+    "new_repos": 6,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "jakubkrehel/oklch-skill",
+      "github_url": "https://github.com/jakubkrehel/oklch-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 2158.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 636,
+      "total_retweets": 30,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakubkrehel",
+        "text": "/oklch-skill\n\nWork with colors as we see them. Convert, migrate, generate palettes, check contrast and more. \n\nnpx skills add jakubkrehel/oklch-skill https://t.co/3gc65THV76",
+        "likes": 636,
+        "url": "https://x.com/i/status/2049880078310351182"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049880078310351182"
+      ]
+    },
+    {
+      "repo": "bridge-mind/bridgeward",
+      "github_url": "https://github.com/bridge-mind/bridgeward",
+      "tier": 2,
+      "is_new": true,
+      "score": 630.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 150,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bridgemindai",
+        "text": "Every Hermes Agent and OpenClaw agent on the internet is vulnerable to prompt injection.\n\nSo I built BridgeWard.\n\nA defense skill that detects red flag patterns and audits inputs before execution.\n\nOpen source. MIT license. Free.\n\nYour agents are reading untrusted content. \n\nNow ",
+        "likes": 150,
+        "url": "https://x.com/i/status/2049865751939473809"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049865751939473809"
+      ]
+    },
+    {
+      "repo": "schemastore/schemastoremcpserver",
+      "github_url": "https://github.com/schemastore/schemastoremcpserver",
+      "tier": 3,
+      "is_new": true,
+      "score": 270.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mkristensen",
+        "text": "This is the MCP Server I built. It is now published and live, and discoverable using the \".well-known\" folder on https://t.co/yyNc3mP66v\n\nhttps://t.co/NVOCxOAMiu",
+        "likes": 50,
+        "url": "https://x.com/i/status/2049927507454091770"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049927507454091770"
+      ]
+    },
+    {
+      "repo": "stumason/coolify-mcp",
+      "github_url": "https://github.com/stumason/coolify-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 224.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heyandras",
+        "text": "🛠️ Integrated MCP server in Coolify v4.1 - basic, read-only tools for now.\n\nInspired by @stumasondev work on https://t.co/s8yQMdBd8g work. Thank you! 💜 https://t.co/fHCFGBhz7k",
+        "likes": 38,
+        "url": "https://x.com/i/status/2049832793962864791"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049832793962864791"
+      ]
+    },
+    {
+      "repo": "joaocarvalho1000/meta-ads-cli-skill",
+      "github_url": "https://github.com/joaocarvalho1000/meta-ads-cli-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 223.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joaopfc",
+        "text": "Ads CLI was just dropped by @Meta yesterday. \n\nI built a skill so you can actually use it with Claude Code (or any coding agent) to run your Facebook + Instagram ads.\n\n→ https://t.co/55wnraUEKM\n\nJust tell your agent the campaign. It sets it up, validates, and runs it.\n\nNo Ads Man",
+        "likes": 31,
+        "url": "https://x.com/i/status/2049849087466377422"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049849087466377422"
+      ]
+    },
+    {
+      "repo": "starc007/relay-cli",
+      "github_url": "https://github.com/starc007/relay-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "saurra3h",
+        "text": "install the skill or the cli directly\n\nnpx skills add starc007/relay-cli\n\nand ofc its open source\ngithub: https://t.co/V9oOkEKiga",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049879113972977831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049879113972977831"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "billionsnetwork/verified-agent-identity",
+      "github_url": "https://github.com/billionsnetwork/verified-agent-identity",
+      "tier": 1,
+      "is_new": false,
+      "score": 303.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "karlistoka",
+        "text": "🎁 @billions_ntwk is offering additional FAIAR rewards to users who install the Verified Agent Identity skill\n1️⃣ npx clawhub@latest install verified-agent-identity\n2️⃣ npx skills add BillionsNetwork/verified-agent-identity\n✔ Confirm with \"Y\"\n#BillionsNetwork #BillionsDOKDOPioneer",
+        "likes": 1,
+        "url": "https://x.com/i/status/2049857971643937118"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050101374084645143",
+        "https://x.com/i/status/2050047893235491077",
+        "https://x.com/i/status/2049857971643937118"
+      ]
+    },
+    {
+      "repo": "whale-io/lets-play-a-game",
+      "github_url": "https://github.com/whale-io/lets-play-a-game",
+      "tier": 3,
+      "is_new": false,
+      "score": 411.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WhaleGames_en",
+        "text": "AI Tournament is ON!🦾🤖\n\n$10,000 prize pool. 14 days. \n\nConnect any MCP-compatible AI (Claude, Codex, Cursor, etc.) to https://t.co/znpuYfchqg. Your agent handles the rest: picks games, builds strategies, places bets, manages bankroll.\n\nHow to start:\n🐳 Connect your AI tool \n🐳 Log ",
+        "likes": 62,
+        "url": "https://x.com/i/status/2049793856170819767"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049793856170819767"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/make-interfaces-feel-better",
+      "github_url": "https://github.com/jakubkrehel/make-interfaces-feel-better",
+      "tier": 3,
+      "is_new": false,
+      "score": 297.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vikingmute",
+        "text": "太棒的一篇文章 Details That Make Interfaces Feel Better，标题就说出了我的心声\nhttps://t.co/fYKPd6b2nB\n都是干货，都是细节，很受用，对于追求设计细节的人，真的太好了，作者最后总结了一个 skills \nnpx skills add jakubkrehel/make-interfaces-feel-better\n\n双层 border 的细节，动画的细节，文字的细节，每一条每一条都有示例，配有代码，都非常实用，当然作者也很值得关注。",
+        "likes": 49,
+        "url": "https://x.com/i/status/2050106457040052338"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050106457040052338"
+      ]
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mejba_92",
+        "text": "🔗 Full deep dive with test results:\nhttps://t.co/P8Tx211slB\n\n🛠️ Install:\nnpx skills add pbakaus/impeccable\n\n🌐 Portfolio: https://t.co/g3FYed59wX\n🛠️ Hire me: https://t.co/XZteJyR3Iq\n☕ Support: https://t.co/AwfEXJ0mmX",
+        "likes": 0,
+        "url": "https://x.com/i/status/2049884032796918080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049884032796918080",
+        "https://x.com/i/status/2049883996344164451"
+      ]
+    },
+    {
+      "repo": "alondotsh/alon-skills",
+      "github_url": "https://github.com/alondotsh/alon-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alondotsh",
+        "text": "@app_sail 顺带迭代了一版skill，增加了溯源的功能。\n\n安装： npx skills add alondotsh/alon-skills --skill alon-fact-check\n\nhttps://t.co/ltOoPRBqOB https://t.co/tqE4iFySc2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050052859472007611"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050052859472007611"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2049807486203638041",
+      "author": "yousukezan",
+      "text": "脆弱性対応の手間を劇的に削減する新ツール「CVE MCP Server」が登場した。複数サイトを横断して調査していた作業を自然言語1回で完結させ、AIが実務レベルの分析を行う点が注目されている。\n\nこのプロジェクトは開発者Mahipalが公開したもので、AnthropicのClaudeとModel Context Protocolを組み合わせ、27種類のセキュリティツールを統合する。NVDやEPSS、CISA KEV、GitHub、VirusTotal、Shodanなど21の外部APIに横断的にアクセスし、単一の自然言語クエリで情報を取得できる。\n最大の",
+      "likes": 530,
+      "views": 0,
+      "url": "https://x.com/i/status/2049807486203638041",
+      "is_kol": false,
+      "score": 2170.0
+    },
+    {
+      "id": "2049922312896450878",
+      "author": "billions_ntwk",
+      "text": "Thank you from our CEO Evin McMullen @provenauthority: our Korean community's early feedback directly shaped our \"Verified Agent Identity\" skill. \n\nAs Evin said in her keynote \"Every Bot Has a Boss\" at @shefiorg Seoul Summit 2026. https://t.co/ikEF5ZKXfh",
+      "likes": 496,
+      "views": 0,
+      "url": "https://x.com/i/status/2049922312896450878",
+      "is_kol": false,
+      "score": 2013.0
+    },
+    {
+      "id": "2049911163409125673",
+      "author": "Oluwaphilemon1",
+      "text": "BREAKING NEWS: Claude Code is terrible at UI design.. someone finally fixed it.\n\nThey built an MCP that gives Claude its own design tool.\n\nIt reads your existing design system, generates components that actually match, and drops them straight into your codebase.\n\nNo more Inter + ",
+      "likes": 221,
+      "views": 0,
+      "url": "https://x.com/i/status/2049911163409125673",
+      "is_kol": false,
+      "score": 788.0
+    },
+    {
+      "id": "2050012805064253720",
+      "author": "tong_ping_diary",
+      "text": "I made a Blender plugin that stores my custom anime nodes, \nso I can edit them directly from the plugin panel.\nCoding By Claude Code\n#blender初心者 #blender #b3d #3DCG https://t.co/NwzzsQbGXR",
+      "likes": 226,
+      "views": 0,
+      "url": "https://x.com/i/status/2050012805064253720",
+      "is_kol": false,
+      "score": 743.0
+    },
+    {
+      "id": "2049943622016024854",
+      "author": "The_Cyber_News",
+      "text": "👨‍💻 CVE MCP Server Turns Claude Into a Fully Capable Security Analyst With 27 Tools \n\nSource: https://t.co/0v6kzwzLyG\n\nA new open-source project called CVE MCP Server is redefining how security teams triage vulnerabilities, transforming Anthropic's Claude AI into a fully capable ",
+      "likes": 182,
+      "views": 0,
+      "url": "https://x.com/i/status/2049943622016024854",
+      "is_kol": false,
+      "score": 661.0
+    },
+    {
+      "id": "2050051331684225461",
+      "author": "RoundtableSpace",
+      "text": "PEOPLE ARE USING NOTEBOOKLM TO MASS PRODUCE SPECIALIZED CLAUDE SKILLS IN MINUTES.\n\nThe workflow turns curated sources into reusable skill(.)md files, helping Claude behave like a focused expert instead of relying on repeated prompting.\n\nhttps://t.co/8YqdSb55m2",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2050051331684225461",
+      "is_kol": false,
+      "score": 527.0
+    },
+    {
+      "id": "2049946668045369363",
+      "author": "warpdotdev",
+      "text": "Warp's agent now has the open-source /claude-api skill built-in. Just ask what you want to build. https://t.co/HhnFXqKKJq",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2049946668045369363",
+      "is_kol": false,
+      "score": 462.0
+    },
+    {
+      "id": "2050049013962133869",
+      "author": "NFTCPS",
+      "text": "连算命这门老祖宗的生意，都要被AI抢饭碗了？\n\n有人已经把传统四柱八字做成了Claude Code的原生技能插件——bazi-skill，而且已经有人拿这个在赚钱了。\n\n操作极其简单，你就输入\"算八字\"三个字，AI会一步步对话式问你信息，然后给你出一份专业级分析报告：\n\n1️⃣ 先采集姓名、出生日期（农历阳历都认）、出生时辰、性别、出生地\n2️⃣ 自动排四柱（年柱月柱日柱时柱）+ 大运流年全给你算出来\n3️⃣ 分析日主强弱、五行生克、格局判断，一个不落\n4️⃣ 最后给你事业、感情、健康三个方向的具体建议\n\n这不是让AI瞎编的那种，是真的把命理知识系统性喂",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2050049013962133869",
+      "is_kol": false,
+      "score": 433.0
+    },
+    {
+      "id": "2049855307787210976",
+      "author": "EchoShao8899",
+      "text": "AI agents are entering all kinds of work, not just software engineering. Which agent collaborates best with humans? How to handle inter-human variability and measure AI literacy?\n\n📣Introducing CollabSkill — bringing human-agent collaboration skill measurement into Co-Gym. https:/",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2049855307787210976",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2050068861127639159",
+      "author": "JoyJuliet_AI",
+      "text": "This is what MCP and tool-calling actually unlocks at the product layer. Granola handles transcription, HeyGen handles generation, Claude handles the logic. Modular. Composable. Unstoppable. Build accordingly.",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2050068861127639159",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2050051353310052501",
+      "author": "chenchengpro",
+      "text": "花了点时间把 Claude Code 的社区 Skills 生态摸了一遍，规模远超预期。整理一份信息密度拉满的盘点，建议收藏。\n\n先说规模：最大社区市场 ClawHub 已有 52,700+ 工具、18 万用户、1200 万次下载。Anthropic 把 Skill 格式推成了开放标准 Agent Skills（https://t.co/XrFuQjla3t），GitHub Copilot、Cursor、Gemini CLI、OpenAI Codex、JetBrains Junie 等 35+ 工具已采纳。写一个 SKILL.md，到处能跑。\n\n再说质量",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2050051353310052501",
+      "is_kol": false,
+      "score": 347.0
+    },
+    {
+      "id": "2049830219247173757",
+      "author": "Dghost_Ninja",
+      "text": "\"Drumm rolls 🥁\"  I just launched GraphQL Bookstore API for Security Engineers, Testers and DevOps to get familiar with GraphQL.\n\nPacked with OWASP  Security  vulnerabilities and MCP server for AI/LLM integration, including an interactive Playground 👇\nhttps://t.co/Ix5bVsUSXV https",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2049830219247173757",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2050009321602494491",
+      "author": "daweifs",
+      "text": "Claude 设计师专属Skill炸场！6大神技效率直接拉满⚡\n\nClaude设计师专属Skill神器上线！6大神技直接把AI变成你的专属设计搭子，前端、Figma转码、品牌规范、视觉物料一键通吃，设计效率原地起飞！\n\n1.  Figma to Code 一键转生产级代码\n 甩个Figma链接，1:1像素级还原成可直接上线的代码，设计师彻底解放双手。 \n安装：/skills add figma\n\n2.  Frontend Design 前端设计大师\n 先完整走设计思维流程，再输出严谨又有创意的代码，告别AI乱码。 \n安装：/skills add fron",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2050009321602494491",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2049873234623893722",
+      "author": "SunnyVStudio",
+      "text": "The official Blender MCP server is here 🚀 \n\nConnect Claude AI directly to Blender 5.1 to quickly prototype 3D assets for your game projects 🛠️✨\n➡️ https://t.co/crdlc9iBKl\n\n#blender3d #UnityTips #gamedev #unity3d #ai #ClaudeAI https://t.co/qeVfq0PmPt",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2049873234623893722",
+      "is_kol": false,
+      "score": 278.0
+    },
+    {
+      "id": "2049923053858267211",
+      "author": "dani_avila7",
+      "text": "Meta just shipped their CLI and MCP...\n\nUsing it in Claude is dead simple, just do this:\nOpen Claude, add a new Connector, then Manage Connectors, add custom connector\n\nThen add a new Connector:\nname: META MCP \nMCP Server URL: https://t.co/VMNSHQuisL\n\nThat's it, it'll ask you to ",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2049923053858267211",
+      "is_kol": false,
+      "score": 261.0
+    }
+  ]
+}

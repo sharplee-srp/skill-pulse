@@ -1710,5 +1710,29 @@
   "aiwork4me/ernie-image-skill": {
     "first_seen": "2026-04-30",
     "tier": 3
+  },
+  "jakubkrehel/oklch-skill": {
+    "first_seen": "2026-05-01",
+    "tier": 2
+  },
+  "bridge-mind/bridgeward": {
+    "first_seen": "2026-05-01",
+    "tier": 2
+  },
+  "schemastore/schemastoremcpserver": {
+    "first_seen": "2026-05-01",
+    "tier": 3
+  },
+  "stumason/coolify-mcp": {
+    "first_seen": "2026-05-01",
+    "tier": 3
+  },
+  "joaocarvalho1000/meta-ads-cli-skill": {
+    "first_seen": "2026-05-01",
+    "tier": 3
+  },
+  "starc007/relay-cli": {
+    "first_seen": "2026-05-01",
+    "tier": 3
   }
 }
