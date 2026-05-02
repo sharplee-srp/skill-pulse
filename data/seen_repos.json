@@ -1734,5 +1734,57 @@
   "starc007/relay-cli": {
     "first_seen": "2026-05-01",
     "tier": 3
+  },
+  "xianyu110/gpt-codex": {
+    "first_seen": "2026-05-02",
+    "tier": 2
+  },
+  "vercel-labs/ai-cli": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "uzairansaruzi/robinhood-agent-skill": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "thespawnio/skill": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "vibeforge1111/keep-codex-fast": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "ruoxiqin/website-operation-skill": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "aomi-labs/skills": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "0xsakura666/opus-style-output": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "karryviber/orb": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "sebastianelvis/hammer": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "zhengxuyu/zforge": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "vercel/chat": {
+    "first_seen": "2026-05-02",
+    "tier": 3
+  },
+  "ukkit/memcord": {
+    "first_seen": "2026-05-02",
+    "tier": 3
   }
 }

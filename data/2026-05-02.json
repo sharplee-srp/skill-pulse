@@ -1,0 +1,560 @@
+{
+  "date": "2026-05-02",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 196,
+    "tweets_with_repos": 23,
+    "unique_repos": 21,
+    "new_repos": 13,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "xianyu110/gpt-codex",
+      "github_url": "https://github.com/xianyu110/gpt-codex",
+      "tier": 2,
+      "is_new": true,
+      "score": 555.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 115,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jiroucaigou",
+        "text": "秒杀Openclaw+Hermes的Codex到底怎么用？\n\n今天菜狗整理了一份零基础教程，涵盖从安装到实战，再到官方的skill 合集\n\n1.Github上的最全中文教程\n涵盖从0到1的Codex指南，包括Codex是什么，安装教程、如何用Codex做任务，做项目做开发\nhttps://t.co/hTkquDHLXA\n\n2.Codex视频教程，实战案例，如何使用免费/低价模型\nhttps://t.co/fBejNB4Hc7\nhttps://t.co/rAPHNcFNB9\n\n3.Codex如何使用中转站API，降低成本的教程\nhttps://t.co/K",
+        "likes": 115,
+        "url": "https://x.com/i/status/2050412117329875020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050412117329875020"
+      ]
+    },
+    {
+      "repo": "vercel-labs/ai-cli",
+      "github_url": "https://github.com/vercel-labs/ai-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 328.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ctatedev",
+        "text": "A collab experiment with @nishimiya\n\nFor humans:\nnpm install -g ai-cli\n\nFor agents:\nnpx skills add vercel-labs/ai-cli\n\nhttps://t.co/O2CXwThNCq",
+        "likes": 61,
+        "url": "https://x.com/i/status/2050306804005875772"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050306804005875772"
+      ]
+    },
+    {
+      "repo": "uzairansaruzi/robinhood-agent-skill",
+      "github_url": "https://github.com/uzairansaruzi/robinhood-agent-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "uzairansar",
+        "text": "hooked up my Robinhood skill too. \n\ndaily position summaries, watchlist alerts, P&L tracking - all in chat. \n\nwhen i'm researching a buy or trim, Hermes already knows my full portfolio context so the answers are actually personalized. \n\nadd it to your own agent: https://t.co/VNeQ",
+        "likes": 38,
+        "url": "https://x.com/i/status/2050202797283414085"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050202797283414085"
+      ]
+    },
+    {
+      "repo": "thespawnio/skill",
+      "github_url": "https://github.com/thespawnio/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 211.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krutovoy",
+        "text": "made for Claude Code, Codex, Openclaw, Cursor agents. share the skill with agent:\n\nnpx skills add thespawnio/skill\n\nthen ask:\n\n“who can I hire with spawnr?”",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050246900801233257"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050450561590268049",
+        "https://x.com/i/status/2050246900801233257"
+      ]
+    },
+    {
+      "repo": "vibeforge1111/keep-codex-fast",
+      "github_url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "tier": 3,
+      "is_new": true,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "meta_alchemist",
+        "text": "this fix that keeps Codex fast was useful for a lot of people who had the same issue\n\nTibo from Codex/OpenAI team commented and asked to make it into a skill, so here it is:\nhttps://t.co/jvm9mmuCXC\n\nnote: this doesn't delete stuff, it archives better &amp; fixes what slows Codex ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2050509509542678744"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050509509542678744"
+      ]
+    },
+    {
+      "repo": "ruoxiqin/website-operation-skill",
+      "github_url": "https://github.com/ruoxiqin/website-operation-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "theRuoxiQin",
+        "text": "@openclaw missed a simple task: give me a daily brief of Anthropic’s blog posts from yesterday.\n\nSo we built a website operation skill.\n\nIt maps where relevant posts live across the website, so agents know where to look before answering.\n\nTry it out at https://t.co/RlrkmvTV2U htt",
+        "likes": 5,
+        "url": "https://x.com/i/status/2050294072280007135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050294072280007135"
+      ]
+    },
+    {
+      "repo": "aomi-labs/skills",
+      "github_url": "https://github.com/aomi-labs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aomi_labs",
+        "text": "Building an Aomi App is itself shipped as a skill.\n\n`npx skills add aomi-labs/skills` → your Claude Code or Codex can one-shot a full-stack agentic app today.\n\nTry the apps live → https://t.co/FfTXXE44sZ\n\nBring your agent to Aomi → https://t.co/HbcQygUUqU",
+        "likes": 5,
+        "url": "https://x.com/i/status/2050248726090846519"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050248726090846519"
+      ]
+    },
+    {
+      "repo": "0xsakura666/opus-style-output",
+      "github_url": "https://github.com/0xsakura666/opus-style-output",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xsakura666",
+        "text": "我给Codex做了个skill，让GPT模仿Opus的说话风格，专门治 GPT 不说人话的问题\nhttps://t.co/ZSOc9FlZkV\n这个skill的作用总结就是：\n（1）分析和总结带表格\n（2）说人话\n（3）说话带emoji\n（4）ui前端描述不带上开发思路，不要句子结构（这个贼恶心）\n\n再用上最新的GPT5.5模型，vibe coding的舒适度大大提升，不用再花2-5倍的成本去用Opus了，现在我的codex be like：",
+        "likes": 3,
+        "url": "https://x.com/i/status/2050473674101477870"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050473674101477870"
+      ]
+    },
+    {
+      "repo": "karryviber/orb",
+      "github_url": "https://github.com/karryviber/orb",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "karry_viber",
+        "text": "Orb 0.4.0 🔮\n\n🛠 worker × scheduler 边界 6 批稳定性硬修\n🧩 跨 profile 共享的 system-scope skill 层\n🧠 src/context.js 拆 provider 抽象\n🗂 顶层目录 13 收到 9，scripts/ tests/ 子分组\n🤖 codex launcher 默认 sandbox workspace-write\n\nMulti-profile messaging shell around Claude Code CLI.\n\nhttps://t.co/q9LTuRpJDe",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050503922142548074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050503922142548074"
+      ]
+    },
+    {
+      "repo": "sebastianelvis/hammer",
+      "github_url": "https://github.com/sebastianelvis/hammer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "runchao_han",
+        "text": "Shipped https://t.co/60ob0Vn2Kx, a skill that turns your AI agent sensei Socratic.\n\nProductive struggle is the core idea. Instead of answering questions, AI agent asks questions that you may answer after some digging.\n\nnpx skills add SebastianElvis/hammer",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050468983732916353"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050468983732916353"
+      ]
+    },
+    {
+      "repo": "zhengxuyu/zforge",
+      "github_url": "https://github.com/zhengxuyu/zforge",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yuzxfred",
+        "text": "Or you can try: npx skills add zhengxuyu/zforge",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050351231529292242"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050351231529292242"
+      ]
+    },
+    {
+      "repo": "vercel/chat",
+      "github_url": "https://github.com/vercel/chat",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nishimiya",
+        "text": "full docs at https://t.co/Z5aJACPAaM\n\nand if you use an AI coding agent, give it Chat SDK context:\n\nnpx skills add vercel/chat",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050284448432681449"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050284448432681449"
+      ]
+    },
+    {
+      "repo": "ukkit/memcord",
+      "github_url": "https://github.com/ukkit/memcord",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grok",
+        "text": "Sure! Adding sources:\n\nMemcord: Privacy-first self-hosted MCP server for chat organization, auto-summarization (multiple backends), project slots, directory binding & Claude/VSCode integration. \nhttps://t.co/ycltZBZVRu\n\nMemPalace: Local-first \"memory palace\" system (wings/rooms/h",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050517031158526430"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050517031158526430"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1799.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 463,
+      "total_retweets": 42,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ElevenLabsDevs",
+        "text": "Introducing the Voice Changer Skill\n\nGive your agent what it needs to build voice transformation into your app. Convert any voice into another while preserving the original performance, emotion, and timing.\n\nInstall with \n&gt; npx skills add elevenlabs/skills https://t.co/DfMZD9y",
+        "likes": 463,
+        "url": "https://x.com/i/status/2050244770140680405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050244770140680405",
+        "https://x.com/i/status/2050352069786419428"
+      ]
+    },
+    {
+      "repo": "whale-io/lets-play-a-game",
+      "github_url": "https://github.com/whale-io/lets-play-a-game",
+      "tier": 3,
+      "is_new": false,
+      "score": 423.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WhaleGames_en",
+        "text": "AI Tournament is ON!🦾🤖\n\n$10,000 prize pool. 14 days. \n\nConnect any MCP-compatible AI (Claude, Codex, Cursor, etc.) to https://t.co/znpuYfchqg. Your agent handles the rest: picks games, builds strategies, places bets, manages bankroll.\n\nHow to start:\n🐳 Connect your AI tool \n🐳 Log ",
+        "likes": 66,
+        "url": "https://x.com/i/status/2049793856170819767"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049793856170819767"
+      ]
+    },
+    {
+      "repo": "schemastore/schemastoremcpserver",
+      "github_url": "https://github.com/schemastore/schemastoremcpserver",
+      "tier": 3,
+      "is_new": false,
+      "score": 288.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mkristensen",
+        "text": "This is the MCP Server I built. It is now published and live, and discoverable using the \".well-known\" folder on https://t.co/yyNc3mP66v\n\nhttps://t.co/NVOCxOAMiu",
+        "likes": 56,
+        "url": "https://x.com/i/status/2049927507454091770"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2049927507454091770"
+      ]
+    },
+    {
+      "repo": "rstackjs/agent-skills",
+      "github_url": "https://github.com/rstackjs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 191.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jait_chen",
+        "text": "Rstest makes it easy to migrate from Jest, with built-in TypeScript support and faster test runs.\n\n\"npx skills add rstackjs/agent-skills --skill migrate-to-rstest\"",
+        "likes": 27,
+        "url": "https://x.com/i/status/2050213029095330074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050213029095330074"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HyperFrames_",
+        "text": "the open-sourced foundation layer for agents to make videos.   \n\n$ npx skills add heygen-com/hyperframes\n\n“anything a browser can render can be part of your video”\n\nagents writes HTML+CSS+JS, HyperFrames gives you preview, NLE tools and renders into MP4\n\nhttps://t.co/g6XJPgZZvt",
+        "likes": 2,
+        "url": "https://x.com/i/status/2050299685785698474"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050299685785698474"
+      ]
+    },
+    {
+      "repo": "dontbesilent2025/dbskill",
+      "github_url": "https://github.com/dontbesilent2025/dbskill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dontbesilent",
+        "text": "@Kelvin_cmt 一键安装：\nnpx skills add dontbesilent2025/dbskill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050241169783685589"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050241169783685589"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joerocker16",
+        "text": "🚀终于有人把「工程化用 AI 写代码」做成真·Skill 包公开了！\nGitHub 项目 mattpocock/skills 已狂揽 53.5k+ star \n\n这是 Matt Pocock（@mattpocockuk）把自己 .claude 目录里每天实战用的技能集全部开源了！\n\n里面全是干货：grill-with-docs / grill-me：\n\n· 疯狂 grilling 计划和文档，直到完全对齐\n· tdd：真正的红绿重构测试驱动开发\n· improve-codebase-architecture：系统性提升代码架构\n· triage / di",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050502467176317294"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050502467176317294"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-01\n\nTroubleshooting and run-forensics feel like the clearest public operator themes right now: recent OpenClaw discussion is clustering around broken routes, pairing friction, gateway recovery, and the need to inspect what actually happened wh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050410390446915710"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050410390446915710"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2050336291586187711",
+      "author": "NousResearch",
+      "text": "Shopify is the all-in-one commerce platform powering millions of businesses worldwide\n\nThank you to the @Shopify team for building their own official Hermes Agent skill enabling your agent to manage products, orders, inventory, and fulfillments from any channel. https://t.co/DIJH",
+      "likes": 1853,
+      "views": 0,
+      "url": "https://x.com/i/status/2050336291586187711",
+      "is_kol": false,
+      "score": 6239.0
+    },
+    {
+      "id": "2050328457989743001",
+      "author": "googlegemma",
+      "text": "Curious what Gemma 4 can do in a local agentic setup?\n\nThis notebook uses Haystack to walk through four practical demos:\n\n• A multimodal map/weather agent\n• Dynamic tool discovery via a GitHub MCP server\n• Visual Question Answering\n• RAG implementations https://t.co/A61baHhQFg",
+      "likes": 514,
+      "views": 0,
+      "url": "https://x.com/i/status/2050328457989743001",
+      "is_kol": false,
+      "score": 1732.0
+    },
+    {
+      "id": "2050327652511486261",
+      "author": "kirillk_web3",
+      "text": "CANCEL your parties and weekend plans.\n\nYou NEED to:\n> Install the Karpathy CLAUDE.md file — 2 minutes\n> Watch how Claude Code actually works after — 10 minutes\n> Read the 33-page Claude Skills guide — 1 sitting\n> Build your first Skill — 15 minutes\n> Teach Claude your entire wor",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2050327652511486261",
+      "is_kol": false,
+      "score": 459.0
+    },
+    {
+      "id": "2050392910018048228",
+      "author": "pika_labs",
+      "text": "Don’t just code a project in Claude, create materials to promote it.\n\nAlongside our MCP, we’re also releasing a Pika Plugin with three Skills to start: Podcast Video, Explainer, and UGC Ad.\n\nCheck out these example outputs from our team and community.\n\n1/6 - Input 👉 /explainer ma",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2050392910018048228",
+      "is_kol": false,
+      "score": 381.0
+    },
+    {
+      "id": "2050454146042798436",
+      "author": "cattodata",
+      "text": "เจอใน TL วันนี้ สำหรับสาย VS Code เริ่มมีเครื่องมือสำหรับ debug การคุยกับ AI / Agent แล้ว น่าสนใจมาก 🧑‍💻\n\nปกติเวลาเราใช้ Copilot / Agent ใน VS Code แล้วมันตอบแปลก ๆ เช่น\n- ไม่อ่านไฟล์\n- ไม่เรียก MCP tool\n- ไม่โหลด custom instruction\n- หรือใช้ token เยอะผิดปกติ\n\nเรามักไม่รู้ว่า “ข",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2050454146042798436",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2050241936301175262",
+      "author": "omid_i_",
+      "text": "آشنایی با Claude Code: روز ششم\n\nپلاگین‌ها چی هستن و چرا می‌تونن کل ابزار های ۵ روز قبل رو در یک ثانیه برای Claude فراهم کنن!\n\nالان ۵ روزه داریم در مورد مسائلی مثل CLAUDE.md، Skill Sub-agent ،MCP و Hook صحبت میکنیم. هر کدوم به تنهایی قدرتمندن، ولی باید جدا جدا بسازیمشون، تنظیمشون ",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2050241936301175262",
+      "is_kol": false,
+      "score": 340.0
+    },
+    {
+      "id": "2050022674643206609",
+      "author": "daiki15036604",
+      "text": "Microsoft 365 Copilot の Work IQ API が登場\n\nWork IQ = メモリ + セマンティックインデックスで M365・LOB・外部ソースを横断する permission-aware な intelligence runtime。生データではなく context / intent / signals / skills を API として公開する。\n\n対応プロトコル:\n・MCP local server (GA): Work IQ CLI 経由で GitHub Copilot から利用\n・A2A (今回の Public P",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2050022674643206609",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2050208502086238292",
+      "author": "RobotMoneyAgent",
+      "text": "The proof of concept is live.\n\nRobot Money Skill: one prompt deposits USDC into a yield vault + a basket of 6 agent tokens, executed from any MCP-compatible agent runtime.\n\nERC-4626 on Base. $ 100K TVL cap. Beta.\n\nhttps://t.co/mlpZNpy2oV https://t.co/824qIMKdZm",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2050208502086238292",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2050422026285011050",
+      "author": "DipanshuKu55175",
+      "text": "BREAKING: Claude can now teach you any skill in 30 days for free.\n\nUse these prompts to replace $20,000 courses and 4-year degrees: https://t.co/7ky58WFRii",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2050422026285011050",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2050259170197393749",
+      "author": "warpdotdev",
+      "text": "Have a bug report or feature you want to see in Warp?\n\nJust type /feedback in Warp. This skill lets you work with an agent to post a high-quality issue on our open-source repo.\n\nFrom there, we invite you to contribute a fix! https://t.co/Es26syf6za",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2050259170197393749",
+      "is_kol": false,
+      "score": 264.0
+    }
+  ]
+}
