@@ -1,0 +1,488 @@
+{
+  "date": "2026-05-03",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 190,
+    "tweets_with_repos": 21,
+    "unique_repos": 18,
+    "new_repos": 10,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "ethglobal-skills/repo",
+      "github_url": "https://github.com/ethglobal-skills/repo",
+      "tier": 2,
+      "is_new": true,
+      "score": 1149.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 308,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mattwong_ca",
+        "text": "Introducing @ETHGlobal Skills:\n\nnpx skills add ethglobal-skills/repo\n\nWith one command, your coding agents now have access to:\n> 17,180 hackathon projects from the past 6 years\n> sponsor docs + bounties for upcoming hacks\n> all Finalist + bounty winners\n\nCompatible with x402 via ",
+        "likes": 308,
+        "url": "https://x.com/i/status/2050611061707952594"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050611061707952594"
+      ]
+    },
+    {
+      "repo": "memohai/autofish",
+      "github_url": "https://github.com/memohai/autofish",
+      "tier": 2,
+      "is_new": true,
+      "score": 808.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 191,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AcboxLiu",
+        "text": "介绍一下我们的新项目AutoFish - 一个可以让你的Agent操作你的手机的cli工具\n你需要在你的手机上安装我们的app；安装skill后，你的agent会根据信息配置好连接信息，并通过rust cli与你的客户端建立HTTP通信；同时我们还针对手机环境做了工具记忆，现在你的Agent可以通过你的手机来点外卖，发消息，发邮件，就像豆包手机一样\n仓库地址：https://t.co/pDwgenQ9DM",
+        "likes": 191,
+        "url": "https://x.com/i/status/2050542408652480614"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050542408652480614"
+      ]
+    },
+    {
+      "repo": "brickspacelab/theme-skill",
+      "github_url": "https://github.com/brickspacelab/theme-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 593.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 151,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kimurathomas",
+        "text": "Claude x Shopify x Theme skill\n\nBuild any page in liquid using your agents \n\nnpx skills add BrickspaceLab/theme-skill",
+        "likes": 151,
+        "url": "https://x.com/i/status/2050604439883386885"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050604439883386885"
+      ]
+    },
+    {
+      "repo": "mohhh-ok/coding-session-time",
+      "github_url": "https://github.com/mohhh-ok/coding-session-time",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "masaakiotadev",
+        "text": "ふぅ、何時間コーディングしたかなぁ\n\nスキルを追加\nnpx skills add mohhh-ok/coding-session-time -g\n\nClaude CodeかCodexで質問\n・今日何時間コーディングした？\n・このプロジェクトの一週間のコーディング時間は？\n・明日彼女できる？\n\nhttps://t.co/OCD5fDvL6N",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050844679139381554"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050844679139381554",
+        "https://x.com/i/status/2050844132608975144"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": true,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.14.33 released. TL;DR: Effect-native https://t.co/0Tykrz2c7i cache/runtime plumbing; restored instance bootstrap for CLI/server paths; MCP/plugin tool spans; read accepts offset=0.\n\n𝗖𝗼𝗿𝗲 & 𝗥𝘂𝗻𝘁𝗶𝗺𝗲\n• https://t.co/0Tykrz2c7i is now an Effect service instead of ad hoc pr",
+        "likes": 22,
+        "url": "https://x.com/i/status/2050667011643224442"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050667011643224442"
+      ]
+    },
+    {
+      "repo": "keplarshq/keplars-skills",
+      "github_url": "https://github.com/keplarshq/keplars-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "debojyoti452",
+        "text": "Introducing 𝗞𝗲𝗽𝗹𝗮𝗿𝘀 Skills.\n\nJust Install: npx skills add KeplarsHQ/keplars-skills \n\nAfter installing, ask your agent naturally:\n\"Add email sending to my signup flow with Keplars\"\n\nView our documentation: https://t.co/UD39zIcK07\nStart your 7 day free trial: 𝘄𝘄𝘄.𝗸𝗲𝗽𝗹𝗮𝗿𝘀.𝗰𝗼𝗺",
+        "likes": 2,
+        "url": "https://x.com/i/status/2050602984908996914"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050602984908996914"
+      ]
+    },
+    {
+      "repo": "hktitan/cursor-sdk",
+      "github_url": "https://github.com/hktitan/cursor-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "npx skills add HKTITAN/cursor-sdk\nhttps://t.co/sxAoWU5xHi https://t.co/nzes8sf4em",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050856618070626320"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050856618070626320"
+      ]
+    },
+    {
+      "repo": "browserbase/skills",
+      "github_url": "https://github.com/browserbase/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Evan99503",
+        "text": "一行命令给 Claude 装上浏览器眼睛。\n\nnpx skills add browserbase/skills\n\n在 Claude Code 里说\"帮我爬 Hacker News 热评\"，它直接开干。\n今天 GitHub Trending 第一，1.5K stars。 https://t.co/HziYypHHHn",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050794486691930119"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050794486691930119"
+      ]
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "github_url": "https://github.com/openai/openai-agents-python",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sunmer575399",
+        "text": "OpenAI终于出官方Agent框架了，用完之后感觉——真香。🙏\n\n之前那些Agent框架，配置个环境跟写博士论文似的。OpenAI这个SDK？不到10行Python代码就能跑起一个多Agent流水线。\n\n为什么一天能涨900+ star：\n\n① 天然支持多模型——不绑定OpenAI，支持100+大模型\n② 原生MCP支持——开箱即用，连接任何Model Context Protocol服务器\n③ 沙盒Agent——自动创建容器跑长任务，处理文件、打补丁都行\n④ 内置追踪和会话——调试工作流不再掉头发\n等OpenAI\"把Agent做对\"的朋友们，这就是答",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050880916864762332"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050880916864762332"
+      ]
+    },
+    {
+      "repo": "tseng71/skills",
+      "github_url": "https://github.com/tseng71/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tseng713",
+        "text": "Released image-deck: an AI Agent skill for OpenClaw/Codex that creates GPT Image 2 full-slide PPT/deck pages.\n\nIt asks for page count/language/style, shows the slide plan + prompts, then generates text + visuals.\n\nClawHub: https://t.co/cFs1iyXvok\nGitHub: https://t.co/MQhjbWXA4W h",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050876312592760864"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050876312592760864"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "billionsnetwork/verified-agent-identity",
+      "github_url": "https://github.com/billionsnetwork/verified-agent-identity",
+      "tier": 3,
+      "is_new": false,
+      "score": 336.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adamMeekz",
+        "text": "$BILL airdrop happens on Monday, but getting the airdrop from your power points isn't the only way you can get rewards. \n\nYou can also set up the FAIAR (Skill Verification); because this is where serious users separate from casual farmers. You earn rewards with your openclaw agen",
+        "likes": 57,
+        "url": "https://x.com/i/status/2050615028043120831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050615028043120831"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LexnLin",
+        "text": "@geekcubano @reach_vb try this npx skills add Leonxlnx/taste-skill -a codex",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050649313479467361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050649313479467361",
+        "https://x.com/i/status/2050641019578814629"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@ahanaf101_ you can try /remotion-to-hyperframes skill, it should be really easy to migrate, give it a try! \n\nnpx skills add heygen-com/hyperframes",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050642578220184006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050642578220184006",
+        "https://x.com/i/status/2050616431180722646"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WY_mask",
+        "text": "Agent必装的skill之一，快速让你的AI成为工程师\nhttps://t.co/nelOKLyGTY\n\n这个存储库直接把程序员的工作流程拆成一套“可复用技能包”，它不是教你写代码，而是教AI怎么\n📌 写PRD、拆任务、做架构设计\n📌 用TDD开发、排查Bug、优化代码\n📌 自动管理Git、生成文档、整理知识 https://t.co/grN7VoZBof",
+        "likes": 20,
+        "url": "https://x.com/i/status/2050524067737063787"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050524067737063787"
+      ]
+    },
+    {
+      "repo": "sebastianelvis/hammer",
+      "github_url": "https://github.com/sebastianelvis/hammer",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "runchao_han",
+        "text": "Shipped https://t.co/60ob0Vn2Kx, a skill that turns your AI agent sensei Socratic.\n\nProductive struggle is the core idea. Instead of answering questions, AI agent asks questions that you may answer after some digging.\n\nnpx skills add SebastianElvis/hammer",
+        "likes": 2,
+        "url": "https://x.com/i/status/2050468983732916353"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050468983732916353"
+      ]
+    },
+    {
+      "repo": "thespawnio/skill",
+      "github_url": "https://github.com/thespawnio/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "suggestionii",
+        "text": "made for Claude Code, Codex, Openclaw, Cursor agents. share the skill with agent:\nnpx skills add thespawnio/skill\nthen ask:\n\"who can I hire with spawnr?\"",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050450561590268049"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050450561590268049"
+      ]
+    },
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KevinDominRiq",
+        "text": "ElevenLabs soltó un Voice Changer Skill: cambias la voz de un audio pero te quedas con la actuación, la emoción y el timing del original.\n\nSe instala con un `npx skills add elevenlabs/skills` y queda enchufado a tu agente.\n\nEl doblaje sin actores deja de ser ciencia ficción. http",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050352069786419428"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050352069786419428"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-02\n\nToday’s clearest operator themes are safer plugin cutovers and clearer model-path choices: OpenClaw 2026.5.2 tightens install and repair flows, while recent public discussion keeps surfacing confusion around Codex, OAuth, and when OpenClaw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050772870994055310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050772870994055310"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2050524139132445055",
+      "author": "jasonzhou1993",
+      "text": "OpenAI Symphony is actually great\n\nYou can 5x Coding agent outcome with it + Good codebase harness\n\nPlayed with it past few days and here is my setup:\n- Playwright CLI\n- Boot skill\n- WORKFLOW.md\n...\n\nBroken it down in 12 mins below so you can do the same 👇 https://t.co/5VTSmHCjHv",
+      "likes": 528,
+      "views": 0,
+      "url": "https://x.com/i/status/2050524139132445055",
+      "is_kol": false,
+      "score": 1724.0
+    },
+    {
+      "id": "2050599199654490481",
+      "author": "EXM7777",
+      "text": "you can hate higgsfield as much as you want...\n\nbut their new MCP is legit insane, it doesn't get better than that\n\nyou can call ANY model from ANY tool and leverage your sub (no need for an API) : use it with Claude Code, Codex, Opencode, Hermes, Openclaw... anything really\n\neas",
+      "likes": 445,
+      "views": 0,
+      "url": "https://x.com/i/status/2050599199654490481",
+      "is_kol": false,
+      "score": 1450.0
+    },
+    {
+      "id": "2050636216635461827",
+      "author": "0x0funky",
+      "text": "看到越來越多人開始使用我做的 agent-sprite-forge skill ，真的滿開心的。\n\n原本一開始只是我自己嘗試製作 2D 遊戲的一個小工具，沒想到越來越多人開始用它做出自己的遊戲，甚至各種奇怪又有趣的作品。\n\n謝謝大家的支持，Github突破1.5K，我正在利用這個Skill做一個更大的東西，各位敬請期待。 https://t.co/YB4FRj92OS",
+      "likes": 317,
+      "views": 0,
+      "url": "https://x.com/i/status/2050636216635461827",
+      "is_kol": false,
+      "score": 1076.0
+    },
+    {
+      "id": "2050689286337622318",
+      "author": "kawai_design",
+      "text": "Claude Code で重要なのは\nプロンプト術では足りません。\n\n本当に効くのは「運用設計」です。\n\n私が重視している順番はこれです。\n\n1. CLAUDE.mdで前提を固定\n2. Skillで作業手順を分離\n3. MCPで外部ツールを接続\n4. GitHubで変更を管理\n5. Hooksで確認を自動化\n\n毎回うまい指示を書くより、毎回迷わない作業環境を作る方が再現性があります。\n\nClaude Codeをチャット欄として使うと弱いです。\n作業環境として育てると、強いです。\n\n詳しい設計は、このウェビナーで解説します。\nhttps://t.co/Ss",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2050689286337622318",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2050760292611584058",
+      "author": "cyrilXBT",
+      "text": "AN ANTHROPIC ENGINEER JUST REVEALED THAT MOST PEOPLE ARE USING MCP WRONG.\n\nAnd the part they are missing is worth more than everything they are currently using it for.\n\nMost builders know MCP as a tool-calling protocol.\n\nDrop in a server. Call a function. Get a result.\n\nThat is 2",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2050760292611584058",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2050624811848835089",
+      "author": "JustAnotherPM",
+      "text": "Building AI Agents w̶i̶l̶l̶ ̶b̶e̶ ̶is the most important skill in AI. Here is how you can build your own. (Includes a step-by-step Claude Code tutorial included)\n\nStart here:\n\n 1. 𝗗𝗲𝗳𝗶𝗻𝗲 𝗮 𝗰𝗹𝗲𝗮𝗿 𝗴𝗼𝗮𝗹: Clear, concrete goal that you want the agent to achieve for you\n\n 2. 𝗖𝗿𝗲𝗮𝘁𝗲 𝗮 𝘀",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2050624811848835089",
+      "is_kol": false,
+      "score": 370.0
+    },
+    {
+      "id": "2050814741573255610",
+      "author": "yasutaketin",
+      "text": "デスクトップアプリ版のClaude Code に moomoo証券のAPI Skill をイントールしてみた。\nインストールはコード一発で簡単だった。下のページに書いてある👇\nさて、これで何しようか。。\nhttps://t.co/YRNxkCjHZ8 https://t.co/cUtceBmqp0",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2050814741573255610",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2050763012894834952",
+      "author": "garrytan",
+      "text": "It's true GBrain on OpenClaw with book-mirror skill pack is like infinite personal Blinkist",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2050763012894834952",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2050787634033954855",
+      "author": "hmalviya9",
+      "text": "giving birth to a new ai agent with generative art skill while i wait for my connecting flight.\n\nwe gonna cook generative arts soon.\n\ngonna mint a NFT collection. \n\n365 pieces. Free Mint for everyone. https://t.co/I40Kijp8by",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2050787634033954855",
+      "is_kol": false,
+      "score": 254.0
+    }
+  ]
+}

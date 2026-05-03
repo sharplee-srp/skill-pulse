@@ -1786,5 +1786,45 @@
   "ukkit/memcord": {
     "first_seen": "2026-05-02",
     "tier": 3
+  },
+  "ethglobal-skills/repo": {
+    "first_seen": "2026-05-03",
+    "tier": 2
+  },
+  "memohai/autofish": {
+    "first_seen": "2026-05-03",
+    "tier": 2
+  },
+  "brickspacelab/theme-skill": {
+    "first_seen": "2026-05-03",
+    "tier": 2
+  },
+  "mohhh-ok/coding-session-time": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "anomalyco/opencode": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "keplarshq/keplars-skills": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "hktitan/cursor-sdk": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "browserbase/skills": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "openai/openai-agents-python": {
+    "first_seen": "2026-05-03",
+    "tier": 3
+  },
+  "tseng71/skills": {
+    "first_seen": "2026-05-03",
+    "tier": 3
   }
 }
