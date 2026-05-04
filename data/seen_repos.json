@@ -1826,5 +1826,45 @@
   "tseng71/skills": {
     "first_seen": "2026-05-03",
     "tier": 3
+  },
+  "40rty-ai/shopify-admin-skills": {
+    "first_seen": "2026-05-04",
+    "tier": 2
+  },
+  "caiovicentino/polymarket-mcp-server": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "ytubecoder/codex-in-claude": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "fearvox/multica-ultimate-workbench": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "yizhiyanhua-ai/fireworks-radio": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "hqman/xhs-video": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "skeegan123/vibetracker-rate": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "0xchsh/agent-skills": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "segodnya/scaffoldo": {
+    "first_seen": "2026-05-04",
+    "tier": 3
+  },
+  "spidey889/context-generator": {
+    "first_seen": "2026-05-04",
+    "tier": 3
   }
 }

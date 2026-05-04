@@ -1,0 +1,499 @@
+{
+  "date": "2026-05-04",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 195,
+    "tweets_with_repos": 23,
+    "unique_repos": 21,
+    "new_repos": 10,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "40rty-ai/shopify-admin-skills",
+      "github_url": "https://github.com/40rty-ai/shopify-admin-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 707.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 184,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tamir_eden",
+        "text": "Operators, your Monday morning checklist is a pain in the A$$.\n\nAgentic-ecommerce operations are quickly becoming the next big leap for 2026 - Shopify shipped a Hermes (@NousResearch) agent skill.\n\nWe open-sourced and shipped shopify-admin routines + more  skills, for any agent: ",
+        "likes": 184,
+        "url": "https://x.com/i/status/2050932387782054232"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050932387782054232"
+      ]
+    },
+    {
+      "repo": "caiovicentino/polymarket-mcp-server",
+      "github_url": "https://github.com/caiovicentino/polymarket-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 251.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ventry089",
+        "text": "ex-quant from Jane Street moved to Lisbon and built an MCP server to trade Polymarket through claude desktop in plain english\n\n45 tools. real positions. enterprise-grade safety with hard limits ($2000 per order, $5000 total exposure)\n\nexamples in his readme are wild - \"Show me to",
+        "likes": 47,
+        "url": "https://x.com/i/status/2050945798213423171"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050945798213423171"
+      ]
+    },
+    {
+      "repo": "ytubecoder/codex-in-claude",
+      "github_url": "https://github.com/ytubecoder/codex-in-claude",
+      "tier": 3,
+      "is_new": true,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChimeJp16449",
+        "text": "Claude Code 用の skill「codex-in-claude」が公開されたよ✨ Claude が書いた計画書を Codex CLI に投げて別視点の指摘を取り、 Claude 側が「同意／部分同意／不同意」 で立場を取って返す構成。\n\nCodex の指摘をそのまま転送せず、 Claude が会話文脈と照らして評価する設計が味噌。 既定 2 ラウンド、 ラウンドが進むごとに合意済の論点は脱落して残る論点が鋭くなる。 ファイル編集はせず、 指摘と推奨だけ返す。\n\n→ https://t.co/tvAf5Ey6jU\n\n#Claude #Anthro",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051226786802094170"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051226786802094170",
+        "https://x.com/i/status/2051225204622532749"
+      ]
+    },
+    {
+      "repo": "fearvox/multica-ultimate-workbench",
+      "github_url": "https://github.com/fearvox/multica-ultimate-workbench",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Synslius",
+        "text": "Hey guys, shipped with @superdoteng \nFull Runtime Hub Livestream \n- https://t.co/YVR1nmDtpR\n\nWith @OpenAIDevs using GPT-5.5\nWith @NousResearch using Hermes and curators with /goal\nWith @MulticaAI using \nnpx skills add fearvox/multica-ultimate-workbench\nWith @capydotai using Capta",
+        "likes": 5,
+        "url": "https://x.com/i/status/2050910151654129924"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050910151654129924"
+      ]
+    },
+    {
+      "repo": "yizhiyanhua-ai/fireworks-radio",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-radio",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "teach_fireworks",
+        "text": "I built fireworks-radio after hitting the same problem too many times:\n\ninstall command:\nnpx skills add yizhiyanhua-ai/fireworks-radio\n\ngithub:\nhttps://t.co/zPCP73v65S\n\n  you want music or a podcast while coding,and somehow end up debugging auth, playback rights, broken sources, ",
+        "likes": 4,
+        "url": "https://x.com/i/status/2050907966635958450"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050907966635958450"
+      ]
+    },
+    {
+      "repo": "hqman/xhs-video",
+      "github_url": "https://github.com/hqman/xhs-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hqmank",
+        "text": "I keep running into RedNote videos worth saving\nKarpathy interviews, long form stuff\nSo I built a small tool\n\nCopy the link\nDrop it into Codex\nGet a  MP4 back in seconds\n\nCan also extract audio with --mp3\nNice for listening on the go\n\nOne line install:\nnpx skills add hqman/xhs-vi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051133868904939910"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051133868904939910"
+      ]
+    },
+    {
+      "repo": "skeegan123/vibetracker-rate",
+      "github_url": "https://github.com/skeegan123/vibetracker-rate",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Skeegan123",
+        "text": "You can now rate models on VibeTracker directly from your agent harness of choice using the new /vibetracker-rate skill! Give it a try!\nnpx skills add skeegan123/vibetracker-rate",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051173599575425386"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051173599575425386"
+      ]
+    },
+    {
+      "repo": "0xchsh/agent-skills",
+      "github_url": "https://github.com/0xchsh/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chshux",
+        "text": "to install:\nnpx skills add 0xchsh/agent-skills --skill enforce-design-system\n\ngithub:\nhttps://t.co/P7lMncBZZd",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051106120450572684"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051106120450572684"
+      ]
+    },
+    {
+      "repo": "segodnya/scaffoldo",
+      "github_url": "https://github.com/segodnya/scaffoldo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ImmortalSteel",
+        "text": "🚀 Two ways, one engine:\n\n1) npx scaffoldo init → ~10 questions → 5s → full Turborepo (Next.js 15, Clerk, Stripe, Supabase, Resend, PostHog, Sentry, shadcn)\n\n2) Claude Code? `npx skills add Segodnya/scaffoldo -g`, then /scaffold-saas runs the interview in chat.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050970650542530849"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050970650542530849"
+      ]
+    },
+    {
+      "repo": "spidey889/context-generator",
+      "github_url": "https://github.com/spidey889/context-generator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gamingosm050554",
+        "text": "@rozzabuilds Use /context to move all the context to codex  it is a skill I am using and is really useful it rate limit got hit mid chat \n\nhttps://t.co/5qADSVD1Lm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051242686905246204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051242686905246204"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 2,
+      "is_new": false,
+      "score": 551.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 122,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eastweb3eth",
+        "text": "想要搞电商出海，不懂怎么做？ 一个 Skill 帮你解放双手\n\n@Shopify 开发了 Hermes Skill: 你现在可以通过 Agent 一键能够从任何渠道管理产品、订单、库存和履行。\n\n仓库：https://t.co/xuE3ocYe7b\n\nAI 真的在深刻的改变各行各业。",
+        "likes": 122,
+        "url": "https://x.com/i/status/2050912533754613816"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050912533754613816"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 204.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AhmedHemaz",
+        "text": "The one agent skill that will completely change how you work with coding agents is \n/grill-me\n\nI’ve been using it for a while now and man it’s insanely good\n\nCheck also others skills\nLink: https://t.co/867R1cBJEA",
+        "likes": 33,
+        "url": "https://x.com/i/status/2050852711902425382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050852711902425382"
+      ]
+    },
+    {
+      "repo": "mohhh-ok/coding-session-time",
+      "github_url": "https://github.com/mohhh-ok/coding-session-time",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "masaakiotadev",
+        "text": "ふぅ、何時間コーディングしたかなぁ\n\nスキルを追加\nnpx skills add mohhh-ok/coding-session-time -g\n\nClaude CodeかCodexで質問\n・今日何時間コーディングした？\n・このプロジェクトの一週間のコーディング時間は？\n・明日彼女できる？\n\nhttps://t.co/OCD5fDvL6N",
+        "likes": 0,
+        "url": "https://x.com/i/status/2050844679139381554"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050844679139381554",
+        "https://x.com/i/status/2050844132608975144"
+      ]
+    },
+    {
+      "repo": "oobe-protocol/synapse-sap-sdk",
+      "github_url": "https://github.com/oobe-protocol/synapse-sap-sdk",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OOBEonSol",
+        "text": "@SebastianWols17 @k6sol @colosseum @metaplex @solana @oatp_ai @clawdmint @Hyre_agent @OrbisAPI 13/19 — Uploaded 5 skills for agents to improve performance and understand SAP. npx skills add OOBE-PROTOCOL/synapse-sap-sdk\n\nhttps://t.co/ICGnn0i7Vt",
+        "likes": 26,
+        "url": "https://x.com/i/status/2051008041806364969"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051008041806364969"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.14.33 released. TL;DR: Effect-native https://t.co/0Tykrz2c7i cache/runtime plumbing; restored instance bootstrap for CLI/server paths; MCP/plugin tool spans; read accepts offset=0.\n\n𝗖𝗼𝗿𝗲 & 𝗥𝘂𝗻𝘁𝗶𝗺𝗲\n• https://t.co/0Tykrz2c7i is now an Effect service instead of ad hoc pr",
+        "likes": 26,
+        "url": "https://x.com/i/status/2050667011643224442"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050667011643224442"
+      ]
+    },
+    {
+      "repo": "thespawnio/skill",
+      "github_url": "https://github.com/thespawnio/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 113.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "suggestionii",
+        "text": "@Thespawn0a searches the registry for you and returns the 10 best live agents for your prompt.\n\nit works with Claude Code, Codex, Openclaw, and Cursor.\n\ninstall the skill:\n\nnpx skills add thespawnio/skill\n\nthen ask your agent:\n\n\"who can I hire with spawnr?\"\n\nCa:\n0x9AaE9b1fc199612",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051012950329110878"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051012950329110878"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "@LayrKits @nickdiazofnauts @spawn great game, when you are ready you can even use our agent skill to publish\nnpx skills add OpusGameLabs/game-creator\n\nit will guide your agent thru it",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051057745617387714"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051057745617387714"
+      ]
+    },
+    {
+      "repo": "hktitan/cursor-sdk",
+      "github_url": "https://github.com/hktitan/cursor-sdk",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "npx skills add HKTITAN/cursor-sdk\nhttps://t.co/sxAoWU5xHi https://t.co/nzes8sf4em",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050856618070626320"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050856618070626320"
+      ]
+    },
+    {
+      "repo": "browserbase/skills",
+      "github_url": "https://github.com/browserbase/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Evan99503",
+        "text": "一行命令给 Claude 装上浏览器眼睛。\n\nnpx skills add browserbase/skills\n\n在 Claude Code 里说\"帮我爬 Hacker News 热评\"，它直接开干。\n今天 GitHub Trending 第一，1.5K stars。 https://t.co/HziYypHHHn",
+        "likes": 1,
+        "url": "https://x.com/i/status/2050794486691930119"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050794486691930119"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-03\n\nToday’s clearest operator themes are tighter GitHub-grounded operations and better skill-shaping discipline: after OpenClaw 2026.5.2 pushed harder on plugin repair, dependency visibility, and clearer Codex/provider behavior, the useful nex",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051135057126142182"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051135057126142182"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2050887686412796103",
+      "author": "TimJayas",
+      "text": "NO MORE BAD DESIGNS USING CLUADE CODEX \n\nClaude Codex just hallucinate UIs and just copy the same basic UI/UX everywhere\n\nSomeone just build a tool to fix that, it's called Lazyweb\n\n> 257,000+ real app & web screens\n> 6 opinionated design research skills\n> Full MCP integration fo",
+      "likes": 417,
+      "views": 0,
+      "url": "https://x.com/i/status/2050887686412796103",
+      "is_kol": false,
+      "score": 1371.0
+    },
+    {
+      "id": "2051002098884698209",
+      "author": "shannholmberg",
+      "text": "this is how you become an AI Marketing Engineer\n\n1. prototype the workflow in hermes agent or openclaw.\n\n2. run it two or three times against real work, correct it when it drifts, let the harness write the skill on the way.\n\n3. once the shape is right you pull it into a dedicated",
+      "likes": 237,
+      "views": 0,
+      "url": "https://x.com/i/status/2051002098884698209",
+      "is_kol": false,
+      "score": 821.0
+    },
+    {
+      "id": "2051210470049136975",
+      "author": "hiro44_pino",
+      "text": "Claude初心者→中級者に\n一気に抜ける8ステップ\n\nプロンプトだけ頑張ってる人、そこじゃない\n伸びない原因、ほぼ土台で詰んでる\n\n・環境構築\n・フォルダ設計\n・プロンプトの型\n・ツール連携\n・Skill化\n・プロジェクト管理\n・リサーチ\n・トークン管理\n\n全部まとめた\n\nここ整ってないと、\n何やってもそれっぽいで終わる\n\n逆にここやった人から、\n同じClaudeでも\nアウトプットの質が一気に変わる\n\n画像見ながら、抜けてるとこだけ潰せばOK\nあとで確実に使うから保存",
+      "likes": 131,
+      "views": 0,
+      "url": "https://x.com/i/status/2051210470049136975",
+      "is_kol": false,
+      "score": 443.0
+    },
+    {
+      "id": "2051138554986942894",
+      "author": "kidpakerot",
+      "text": "Hermes + Claude + Higgsfield MCP + ViralBuilder = 💰💰💰\n\nFour tools. One prompt chain. Hook to finished video in 10 minutes.\n\nI built a Claude skill that writes shot-by-shot Higgsfield prompts from a single creative brief.\n\nViralBuilder tells you what's winning. The skill turns it ",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2051138554986942894",
+      "is_kol": false,
+      "score": 352.0
+    },
+    {
+      "id": "2050987500211183631",
+      "author": "RoundtableSpace",
+      "text": "OPENAI SYMPHONY PAIRED WITH A SOLID CODEBASE HARNESS CAN 5X YOUR CODING AGENT OUTPUT.\n\nPLAYWRIGHT CLI, BOOT SKILL, WORKFLOW MD FULL SETUP BROKEN DOWN IN 12 MINUTES SO YOU CAN COPY IT DIRECTLY.\n\nhttps://t.co/syellyfRQx",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2050987500211183631",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2050969044573151543",
+      "author": "JustAnotherPM",
+      "text": "Creating AI Agents is the single most important skill in AI.\n\nIt feels overwhelming at first, but it is actually really simple.\n\nJust do this to build your first agent (without writing a single line of code)\n\n1. Get a $20 Claude Subscription\n2. Follow the step by step guide (link",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2050969044573151543",
+      "is_kol": false,
+      "score": 242.0
+    }
+  ]
+}
