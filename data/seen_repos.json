@@ -1866,5 +1866,57 @@
   "spidey889/context-generator": {
     "first_seen": "2026-05-04",
     "tier": 3
+  },
+  "higgsfield-ai/skills": {
+    "first_seen": "2026-05-05",
+    "tier": 1
+  },
+  "thedaviddias/skill-check": {
+    "first_seen": "2026-05-05",
+    "tier": 2
+  },
+  "soushi888/holochain-agent-skill": {
+    "first_seen": "2026-05-05",
+    "tier": 2
+  },
+  "jan3dev/agentic-aqua": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "webyseo/corfu": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "slopus/happy": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "raroque/vibe-security-skill": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "solyanviktor-star/bumblebee": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "okooo5km/skills4u": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "remotion-dev/skills": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "owner/repo": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "higgsfield-ai/skill": {
+    "first_seen": "2026-05-05",
+    "tier": 3
+  },
+  "kekko-damato/nonna": {
+    "first_seen": "2026-05-05",
+    "tier": 3
   }
 }

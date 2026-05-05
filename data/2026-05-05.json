@@ -1,0 +1,528 @@
+{
+  "date": "2026-05-05",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 194,
+    "tweets_with_repos": 21,
+    "unique_repos": 18,
+    "new_repos": 13,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "higgsfield-ai/skills",
+      "github_url": "https://github.com/higgsfield-ai/skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 389.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "johnvirality",
+        "text": "creating UGC videos used to require a full production stack.\n\nhiring creators. briefing them. waiting a week. getting back something unusable. repeating.\n\nHiggsfield CLI just killed that entire process.\n\nsetup takes about 2 minutes:\n\nnpm install -g @higgsfield/cli\nnpx skills add ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2051444891075682444"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051483335927742737",
+        "https://x.com/i/status/2051444891075682444",
+        "https://x.com/i/status/2051346213950128577"
+      ]
+    },
+    {
+      "repo": "thedaviddias/skill-check",
+      "github_url": "https://github.com/thedaviddias/skill-check",
+      "tier": 2,
+      "is_new": true,
+      "score": 719.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 168,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Validates AI agent skill quality with diagnostics\n\nhttps://t.co/JyKqE6Nt0P https://t.co/jmFn7sXBWZ",
+        "likes": 168,
+        "url": "https://x.com/i/status/2051335071336976673"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051335071336976673"
+      ]
+    },
+    {
+      "repo": "soushi888/holochain-agent-skill",
+      "github_url": "https://github.com/soushi888/holochain-agent-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 545.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 105,
+      "total_retweets": 26,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Holochain",
+        "text": "AI coding assistants are moving fast.\n\nWhether you're riding the Claude Code wave or shifting over to Codex, you can now vibe-code your Holochain apps. 🤖💻\n\nHuge shoutout to @soushi888 for building the Holochain agent skill. It works with Claude, Codex, and others to get you from ",
+        "likes": 105,
+        "url": "https://x.com/i/status/2051411112696889453"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051411112696889453"
+      ]
+    },
+    {
+      "repo": "jan3dev/agentic-aqua",
+      "github_url": "https://github.com/jan3dev/agentic-aqua",
+      "tier": 3,
+      "is_new": true,
+      "score": 370.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Excellion",
+        "text": "#AgenticAQUA is here.\n\nTell your agent to install this MCP server: https://t.co/hLNA6mc0BW\n\nAQUA, but for the age of AI. 🌊⚡️ https://t.co/40PNYx1Gkq",
+        "likes": 75,
+        "url": "https://x.com/i/status/2051494525152186774"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051494525152186774"
+      ]
+    },
+    {
+      "repo": "webyseo/corfu",
+      "github_url": "https://github.com/webyseo/corfu",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "webyseoes",
+        "text": "v0.1.1 includes:\n\n•Codex skill\n•Claude Code skill\n•safe read-only repo snapshot\n•local validation\n•GitHub Actions\n•shell/PowerShell installers\n•real-world Codex CLI smoke test example\n\nRelease:\n https://t.co/tk8wENRCJP",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051560448462323722"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051560448462323722",
+        "https://x.com/i/status/2051560121860231436"
+      ]
+    },
+    {
+      "repo": "slopus/happy",
+      "github_url": "https://github.com/slopus/happy",
+      "tier": 3,
+      "is_new": true,
+      "score": 194.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eastweb3eth",
+        "text": "远程控制Skill有很多，但是我只推荐这两个\n\n经过这个假期，我发现远程控制Skill成为了刚需。回老家两天，不能带着台式机，而有时候还想让Agent干点活，怎么办呢？下面两个Skill帮你解决问题：\n\n1. https://t.co/Wx734PzroI 20K星\n鼎鼎大名的【happy】Skill，这应该是最热门的远程控制Skill，20K星已经说明含金量了，支持 Claude 和 Codex。\n\n2. https://t.co/OuQYpaWDdr 2.4K星\n@op7418 藏老师的开源Skill，这个相比第一个可能比较小众，但是我亲测非常好用，",
+        "likes": 28,
+        "url": "https://x.com/i/status/2051596138852339996"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051596138852339996"
+      ]
+    },
+    {
+      "repo": "raroque/vibe-security-skill",
+      "github_url": "https://github.com/raroque/vibe-security-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geniusmankofi",
+        "text": "Claude Code skills I use in my vibe code process (Part 4 - Final).\n\nSkill 4: Vibe Security.\n\nAI assistants build features fast. But they consistently get security wrong. Hardcoded API keys, skipping database security, storing tokens in localStorage, trusting client-submitted pric",
+        "likes": 2,
+        "url": "https://x.com/i/status/2051589106623205654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051589106623205654"
+      ]
+    },
+    {
+      "repo": "solyanviktor-star/bumblebee",
+      "github_url": "https://github.com/solyanviktor-star/bumblebee",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fr0oZi",
+        "text": "Turn any text into a clip montage from movies.\n\nnpx skills add solyanviktor-star/Bumblebee\n\nNow you can install this skill with just one command.",
+        "likes": 5,
+        "url": "https://x.com/i/status/2051412270685520292"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051412270685520292"
+      ]
+    },
+    {
+      "repo": "okooo5km/skills4u",
+      "github_url": "https://github.com/okooo5km/skills4u",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okooo5km",
+        "text": "最近文章封面都用手绘风格绘制，放到一起看好喜欢！\n\n1️⃣使用 /sketch-image-prompt 撰写内容对应绘制提示词\n2️⃣ Google Flow 中免费绘制\n\nskill 安装:\nnpx skills add okooo5km/Skills4U --skill sketch-image-prompt",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051615594282365215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051615594282365215"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ryo05m",
+        "text": "Remotion でAfter Effects でしか作れなかった演出が、コード10行で書けるように。\n書いたHTMLが映像加工の素材なります。\n\n例えばこういうの:\n・iPhone風の写真拡大 (虫眼鏡で覗く動き)\n・古い映画みたいなノイズ走査線\n・ハッキング映画の文字グリッチ\n\n始め方:\nnpx skills add remotion-dev/skills https://t.co/pWB2MjfL3R",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051588927690248573"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051588927690248573"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vibecoding_app",
+        "text": "https://t.co/NwNBiAY6L9 is vercel's open directory for AI agent skills. one command install: npx skills add owner/repo\n\nworks with claude code, cursor, copilot, aider. but 80% of community skills are low quality. stick to vendor-provided ones:\nhttps://t.co/zaPwA4ERkj",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051525530780910035"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051525530780910035"
+      ]
+    },
+    {
+      "repo": "higgsfield-ai/skill",
+      "github_url": "https://github.com/higgsfield-ai/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AliMohyaddin",
+        "text": "تعرف على Higgsfield CLI + مهارات التسويق.\n\nبدلاً من إهدار الرموز على مخططات منتفخة، أو إطلاق إبداعي معطل على نطاق واسع، يحافظ CLI على إنفاق الوكيل منخفضاً وتبقى المهارات جودة الإخراج عالية.\n\nيتكامل مع Сodex، وClaude Code، وOpenclaw وغيرها.\n#Higgsfield\n \nnpx skills add higgsfield-",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051360671757988025"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051360671757988025"
+      ]
+    },
+    {
+      "repo": "kekko-damato/nonna",
+      "github_url": "https://github.com/kekko-damato/nonna",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kekkodamato_",
+        "text": "@CiprianiRanieri if your agent always does everything without contradictions and never leads you to get wrong results, use \"Nonna\" skill developed by me for claude code\n\nhttps://t.co/P493E5UwvW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051595064829231309"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051595064829231309"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "caiovicentino/polymarket-mcp-server",
+      "github_url": "https://github.com/caiovicentino/polymarket-mcp-server",
+      "tier": 3,
+      "is_new": false,
+      "score": 260.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ventry089",
+        "text": "ex-quant from Jane Street moved to Lisbon and built an MCP server to trade Polymarket through claude desktop in plain english\n\n45 tools. real positions. enterprise-grade safety with hard limits ($2000 per order, $5000 total exposure)\n\nexamples in his readme are wild - \"Show me to",
+        "likes": 50,
+        "url": "https://x.com/i/status/2050945798213423171"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050945798213423171"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.14.33 released. TL;DR: Effect-native https://t.co/0Tykrz2c7i cache/runtime plumbing; restored instance bootstrap for CLI/server paths; MCP/plugin tool spans; read accepts offset=0.\n\n𝗖𝗼𝗿𝗲 & 𝗥𝘂𝗻𝘁𝗶𝗺𝗲\n• https://t.co/0Tykrz2c7i is now an Effect service instead of ad hoc pr",
+        "likes": 26,
+        "url": "https://x.com/i/status/2050667011643224442"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050667011643224442"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/oklch-skill",
+      "github_url": "https://github.com/jakubkrehel/oklch-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ParthJadhav8",
+        "text": "Agents don't really well with colors &amp; contrasts. I'd strongly recommend everyone to install &amp; run this skill.\n\nIf you don't want to move to `oklch` color standard then you can just do the contrast analysis and ask the agent to improve it.\n\nnpx skills add jakubkrehel/oklc",
+        "likes": 8,
+        "url": "https://x.com/i/status/2051534232439365918"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051534232439365918"
+      ]
+    },
+    {
+      "repo": "vercel/chat",
+      "github_url": "https://github.com/vercel/chat",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hugorcd",
+        "text": "@izadoesdev npx skills add vercel/chat",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051374452429009160"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051374452429009160"
+      ]
+    },
+    {
+      "repo": "aurite-ai/agent-verifier",
+      "github_url": "https://github.com/aurite-ai/agent-verifier",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jitenoswal",
+        "text": "Quick setup (2 commands):\n\nnpx skills add aurite-ai/agent-verifier --all\n\nThen say \"verify agent\" in Cursor, Claude Code,\nor any of 30+ coding agents.\n\nWorks for all popular Agent framework like LangGraph, CrewAI, Claude Agent SDK, OpenAI Agent SDK + more.\n\n⭐ 30 stars in couple d",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051360841925283950"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051360841925283950"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2051316135836995774",
+      "author": "unitygames",
+      "text": "Unity AI is now in Open Beta 🎉💫\n\nWe believe AI has the most impact when it helps creators move faster while staying in control of the creative process.\n\nUse our built-in agent tuned for Unity workflows or connect the AI tools you prefer via AI Gateway and MCP Server. https://t.co",
+      "likes": 4414,
+      "views": 0,
+      "url": "https://x.com/i/status/2051316135836995774",
+      "is_kol": false,
+      "score": 15617.0
+    },
+    {
+      "id": "2051392206620008839",
+      "author": "RetroChainer",
+      "text": "> 99% of users chat with AI.\n> 1% builds systems on top of it.\n> Mac Mini. Claude Code. one skill.\n> SKILL.md three levels. loads only what's needed.\n> 30 minutes and you have a specialized agent.\n> task that used to take 30 minutes now takes 3.\n> edge isn't in the model. it's in",
+      "likes": 311,
+      "views": 0,
+      "url": "https://x.com/i/status/2051392206620008839",
+      "is_kol": false,
+      "score": 1223.0
+    },
+    {
+      "id": "2051399054190338302",
+      "author": "dkare1009",
+      "text": "MCP vs Tool Calling vs Skills\n\n3 ways to extend an LLM — not interchangeable.\n\nTool Calling = Function\n→ Model triggers APIs/code\nBest: small, controlled setups\n\nMCP = Protocol\n→ Connect models to tools dynamically\nBest: cross-app, scalable systems\n\nSkills = Playbook\n→ Instructio",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2051399054190338302",
+      "is_kol": false,
+      "score": 674.0
+    },
+    {
+      "id": "2051390647802699777",
+      "author": "Blum_OG",
+      "text": "> opened Notion in the morning\n> 14 tabs. 3 databases. 2 overdue tasks\n> one client i should have messaged yesterday\n> spent 20 mins just figuring out where to start\n> then connected Claude Code to Notion via MCP server\n> wrote one CLAUDEmd file describing my workspace\n> typed: m",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2051390647802699777",
+      "is_kol": false,
+      "score": 659.0
+    },
+    {
+      "id": "2051351498659873230",
+      "author": "seflless",
+      "text": "Generate mermaid diagrams that you can then edit manually, using your favorite coding agent!\n\nJust use Decode's MCP server and ask your agent to explain things or help you think more clearly when designing &amp; planning. https://t.co/wvvOFKdHbh",
+      "likes": 187,
+      "views": 0,
+      "url": "https://x.com/i/status/2051351498659873230",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2051542412766617717",
+      "author": "rubenhassid",
+      "text": "How to make slides with Claude:\n\nStep 1. Open Claude & build your first Claude skill.\nStep 2. Go to \"Customize.\"\nStep 3. Select \"Skill\" → click \"+\".\nStep 4. Choose \"Create skill.\"\nStep 5. Pick \"Write skill instructions.\"\nStep 6. Paste this deck-builder prompt:\n\n\"I want you to cre",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2051542412766617717",
+      "is_kol": false,
+      "score": 591.0
+    },
+    {
+      "id": "2051300043827876022",
+      "author": "bggg_ai",
+      "text": "我把GPT-image-2生成PSD的能力打包成了Skill，免费开源\n\n现在GPT-image-2 的生图能力非常牛逼，但改图依然是AI的痛。\n\n所以很多设计Agent，就出了能直接对AI生成图片编辑的功能。\n\n但，我发现，ChatGPT也可以直接完成这件事了。基本上一句话就能从Image2的图转成多个图层、可以编辑的PSD文件。\n\n把图片拆成开，提示词：\n```\n把这张图改成 PSD 导入 Photoshop 做编辑，\n所以需要你先把生成的这张海报拆成若干个图像，\n不要改变相对位置，底色为白色。\n```\n拼接成 PSD，提示词：\n```\n根据以上拆分",
+      "likes": 153,
+      "views": 0,
+      "url": "https://x.com/i/status/2051300043827876022",
+      "is_kol": false,
+      "score": 569.0
+    },
+    {
+      "id": "2051318690990506168",
+      "author": "Dilmerv",
+      "text": "🚨 Unity AI is finally opening up, and this is a big one for Unity developers 🚀\n\nYou now get access to an in-project agentic assistant, AI Gateway, MCP server support, and deeper editor context so AI tools can understand your scene, assets, packages, hierarchy, settings, and targe",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2051318690990506168",
+      "is_kol": false,
+      "score": 541.0
+    },
+    {
+      "id": "2051396224545440043",
+      "author": "_TALEBM_",
+      "text": "خبر ضخم لمطوري الألعاب والتطبيقات! محرك Unity يطلق رسمياً (Unity AI) بنسخة البيتا المفتوحة للجميع \n\nالجميل في الموضوع مو بس إنهم وفروا وكيل ذكي مدمج يسرع كتابة الأكواد والتطوير.. الأقوى إنهم دعموا (MCP Server) \n\nيعني تقدر تربط أدوات الذكاء الاصطناعي المفضلة لك وتخليها تشتغل مباشر",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2051396224545440043",
+      "is_kol": false,
+      "score": 403.0
+    },
+    {
+      "id": "2051570015753945188",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.      \n\nSpend 1 hour with this.      \n\nHow To Build The Ultimate Ai Second Brain (Obsidian + Claude Code )\n\nThe people who watch this tonight will wake up tomorrow with a new skill.      \n\nWatch it and Bookmark it now. https://t.co/0rrIXC0Inn",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2051570015753945188",
+      "is_kol": false,
+      "score": 309.0
+    },
+    {
+      "id": "2051565075614589385",
+      "author": "GitHub_Daily",
+      "text": "平时用 Claude Code 处理事情，每次开新会话都得重新解释一遍背景，Obsidian 里堆了几百个笔记，也只是静静躺着，两边完全没打通。\n\n最近在 GitHub 发现 obsidian-second-brain 这个项目，把 Obsidian 仓库变成一个会自我重写的 AI 第二大脑，作为 Claude Code 的 Skill 来使用。\n\n灵感来自 Karpathy 的 LLM Wiki，但更进一步优化：新内容不再是简单追加，而是直接改写已有笔记，矛盾点会自动调和，跨笔记的隐藏规律也会被整理成新页面。\n\nGitHub：https://t.co/",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2051565075614589385",
+      "is_kol": true,
+      "score": 300.0
+    },
+    {
+      "id": "2051446496382362072",
+      "author": "alphabatcher",
+      "text": "Most people use Claude Code like a chat app with a terminal attached.\n\nThe better move is to make your repeated workflows callable.\n\nA skill is just:\n\n- a folder\n- `SKILL.md`\n- YAML frontmatter\n- the prompt Claude should follow\n\nThat means `/review`, `/test`, `/security`, `/commi",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2051446496382362072",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2051569694596022619",
+      "author": "cyrilXBT",
+      "text": "ANTHROPIC'S CEO JUST SAID AI WILL WRITE 100% OF ALL CODE WITHIN A YEAR.\n\nLet that land.\n\nNot 50%. Not most of it.\n\n100%.\n\nDevelopers spend 4 years and $200,000 in university learning a skill that Claude learned from every book, paper, and codebase ever written.\n\nThe hardest techn",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2051569694596022619",
+      "is_kol": false,
+      "score": 285.0
+    }
+  ]
+}
