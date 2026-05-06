@@ -1,0 +1,569 @@
+{
+  "date": "2026-05-06",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 188,
+    "tweets_with_repos": 19,
+    "unique_repos": 18,
+    "new_repos": 11,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "ksroido/kagi-session2api-mcp",
+      "github_url": "https://github.com/ksroido/kagi-session2api-mcp",
+      "tier": 0,
+      "is_new": true,
+      "score": 760.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "geekbb"
+      ],
+      "total_likes": 45,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekbb",
+        "text": "Kagi Session2API MCP Server\n\n免费 Kagi 搜索 MCP 服务器 — 会话令牌，无需 API Key\n\nhttps://t.co/AOKLVIgnLK",
+        "likes": 45,
+        "url": "https://x.com/i/status/2051499735090147418"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051499735090147418"
+      ]
+    },
+    {
+      "repo": "warpdotdev/oz-skills",
+      "github_url": "https://github.com/warpdotdev/oz-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 873.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 231,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "warpdotdev",
+        "text": "The Warp team uses a lot of Skills to speed up our workflow, so we open-sourced them.\n\n&gt; npx skills add warpdotdev/oz-skills\n\nIncludes Skills for SEO and accessibility auditing, documentation writing, DevOps tasks like terraform configuration, and more. https://t.co/jr5c9ex3Jd",
+        "likes": 231,
+        "url": "https://x.com/i/status/2051768459101642872"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051768459101642872"
+      ]
+    },
+    {
+      "repo": "cxworld/capframex",
+      "github_url": "https://github.com/cxworld/capframex",
+      "tier": 3,
+      "is_new": true,
+      "score": 337.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 59,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CapFrameX",
+        "text": "CapFrameX Release v1.8.5 🔥\n\n🔵 Support Intel Nova Lake, Bartlett Lake\n🔵 Intel memory/uncore sensors\n🔵 NVIDIA limit sensors\n🔵 Per-game VRAM sensors\n🔵 AMD GPU fan duty sensor\n🔵 SSD sensors\n🔵 MCP server implementation\n🔵 ADLX 1.5 update\n🔵 IGCL update\n\nhttps://t.co/AN3o1WoBXW",
+        "likes": 59,
+        "url": "https://x.com/i/status/2051714294023139552"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051714294023139552"
+      ]
+    },
+    {
+      "repo": "hangwin/mcp-chrome",
+      "github_url": "https://github.com/hangwin/mcp-chrome",
+      "tier": 3,
+      "is_new": true,
+      "score": 284.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wsl8297",
+        "text": "又挖到一个很能打的 MCP 服务器：Chrome MCP Server。它基于 Chrome 插件，让 AI 助手直接接管你的浏览器。\n\n不仅能做复杂的浏览器自动化、内容分析、语义搜索，还能原样保留你的登录状态、扩展和各类浏览器设置。\n\nGitHub：https://t.co/07Z9VFLaQQ\n\n主要亮点：\n\n- 直接用你正在用的 Chrome，配置、扩展、登录状态全部继承\n- 全程本地运行，隐私和数据更稳\n- 内置 20+ 工具：截图、网络监控、内容分析等一站式覆盖\n- AI 语义搜索：更快定位标签页内容，告别手动翻找\n- 跨标签联动：多页面串联操",
+        "likes": 53,
+        "url": "https://x.com/i/status/2051905621398790642"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051905621398790642"
+      ]
+    },
+    {
+      "repo": "camel-ai/crab",
+      "github_url": "https://github.com/camel-ai/crab",
+      "tier": 3,
+      "is_new": true,
+      "score": 270.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guohao_li",
+        "text": "fine, we are not even on the list 👌😆 although we keep no stopping building in open source rl envs from 2024 \n\nGUI envs: https://t.co/T1nBheiotF\nLong-CoT envs: https://t.co/mQ0Y2qQKOr\nMulti-turn tool call envs: https://t.co/fL7FAa1EGV\nTerminal envs: https://t.co/dsntPFLZSi\nMCP env",
+        "likes": 50,
+        "url": "https://x.com/i/status/2051877202070008135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051877202070008135"
+      ]
+    },
+    {
+      "repo": "plastic-labs/vercel-ai-sdk",
+      "github_url": "https://github.com/plastic-labs/vercel-ai-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "honchodotdev",
+        "text": "New Honcho package! @vercel-ai-sdk meet Honcho.\n\nAdd persistent user memory to any Vercel AI SDK app.\n\nAI doesn't need to start from zero.\n\n📦 npm install @honcho-ai/vercel-ai-sdk\n🛠️ npx skills add plastic-labs/vercel-ai-sdk https://t.co/exfj0FUwZr",
+        "likes": 20,
+        "url": "https://x.com/i/status/2051685681458721030"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051685681458721030"
+      ]
+    },
+    {
+      "repo": "fmhall/stepping-away",
+      "github_url": "https://github.com/fmhall/stepping-away",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xMasonH",
+        "text": "Simple install: `npx skills add fmhall/stepping-away`\n\nGithub repo:\nhttps://t.co/kelF64f8i5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051669740381213152"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051669740381213152"
+      ]
+    },
+    {
+      "repo": "trampoline-ai/predict-rlm",
+      "github_url": "https://github.com/trampoline-ai/predict-rlm",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GabLesperance",
+        "text": "like predict-RLM, the intended workflow aims to be simple, AI-native, and batteries-included:\n\n```\nnpx skills add Trampoline-AI/predict-rlm\n```\n\nthen ask your coding agent to scaffold RLM-GEPA optimization wiring for the benchmark or dataset you care about:",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051624469702099305"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051624469702099305"
+      ]
+    },
+    {
+      "repo": "repo/skills",
+      "github_url": "https://github.com/repo/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kir_varlamov",
+        "text": "@tonyplasencia3 Or maybe \n\n&gt; npx skills add repo/skills?\n\nFeels a bit like a chicken-and-egg problem",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051971289099784484"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051971289099784484"
+      ]
+    },
+    {
+      "repo": "hesselbom/asosuite-cli",
+      "github_url": "https://github.com/hesselbom/asosuite-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hesselbom",
+        "text": "You can now do ASO research in any agent! 🕵️\n\nnpx skills add hesselbom/asosuite-cli https://t.co/annY1UC3cq",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051950509846643156"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051950509846643156"
+      ]
+    },
+    {
+      "repo": "huybuidac/claude-code-patchkit",
+      "github_url": "https://github.com/huybuidac/claude-code-patchkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huybuidac",
+        "text": "Claude Code won't let you spawn subagents with gpt-5.5 or custom model IDs — hard-coded enum blocks it.\n\nFix it in one command:\nnpx skills add huybuidac/claude-code-patchkit -g\n\nBinary patch, auto-backup, safe revert.\n\nhttps://t.co/bPpfKixq4M",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051871416447045994"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051871416447045994"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jan3dev/agentic-aqua",
+      "github_url": "https://github.com/jan3dev/agentic-aqua",
+      "tier": 2,
+      "is_new": false,
+      "score": 484.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 103,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Excellion",
+        "text": "#AgenticAQUA is here.\n\nTell your agent to install this MCP server: https://t.co/hLNA6mc0BW\n\nAQUA, but for the age of AI. 🌊⚡️ https://t.co/40PNYx1Gkq",
+        "likes": 103,
+        "url": "https://x.com/i/status/2051494525152186774"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051494525152186774"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "RealClaw 🦞 is in invite-only beta.\nSign up for the waitlist to receive an invite code:\nhttps://t.co/crwoI5SrH6\n\nInstall Agent Skills:\nnpx skills add byreal-git/byreal-agent-skills                                                                                                     ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051654040396910862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051974786453213510",
+        "https://x.com/i/status/2051654040396910862"
+      ]
+    },
+    {
+      "repo": "higgsfield-ai/skills",
+      "github_url": "https://github.com/higgsfield-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mejba_92",
+        "text": "46 minutes. 11 images. Hero loop video. Working landing page.\n\nZero design tools.\n\nHiggsfield CLI + Claude Code.\n\nInstall: npx skills add higgsfield-ai/skills\n\n🔗 https://t.co/UecUZsZpE9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051882527225532742"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051882527225532742",
+        "https://x.com/i/status/2051687635400392771"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.14.33 released. TL;DR: Effect-native https://t.co/0Tykrz2c7i cache/runtime plumbing; restored instance bootstrap for CLI/server paths; MCP/plugin tool spans; read accepts offset=0.\n\n𝗖𝗼𝗿𝗲 & 𝗥𝘂𝗻𝘁𝗶𝗺𝗲\n• https://t.co/0Tykrz2c7i is now an Effect service instead of ad hoc pr",
+        "likes": 26,
+        "url": "https://x.com/i/status/2050667011643224442"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2050667011643224442"
+      ]
+    },
+    {
+      "repo": "okooo5km/skills4u",
+      "github_url": "https://github.com/okooo5km/skills4u",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okooo5km",
+        "text": "最近文章封面都用手绘风格绘制，放到一起看好喜欢！\n\n1️⃣使用 /sketch-image-prompt 撰写内容对应绘制提示词\n2️⃣ Google Flow 中免费绘制\n\nskill 安装:\nnpx skills add okooo5km/Skills4U --skill sketch-image-prompt",
+        "likes": 2,
+        "url": "https://x.com/i/status/2051615594282365215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051615594282365215"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "RealClaw 🦞 is in invite-only beta.\nSign up for the waitlist to receive an invite code:\nhttps://t.co/crwoI5SrH6\n\nInstall Agent Skills:\nnpx skills add byreal-git/byreal-agent-skills                                                                                                     ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2051654040396910862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051654040396910862"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-05\n\nToday’s clearest operator themes are post-release repair loops and sharper plugin/runtime inspection: OpenClaw 2026.5.4 shipped a broad operator-facing cleanup pass, and the surrounding repo traffic quickly turned into regression triage pl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2051859995608969414"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051859995608969414"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2051697780985368921",
+      "author": "NousResearch",
+      "text": "Your Hermes Agent can now build full videos with the official HyperFrames skill by @HeyGen\n\nHyperFrames videos are HTML-native, so your agent has total control over the final output\n\nVideo made entirely by Hermes using the HyperFrames skill https://t.co/uqWqu2VIeJ",
+      "likes": 3411,
+      "views": 0,
+      "url": "https://x.com/i/status/2051697780985368921",
+      "is_kol": false,
+      "score": 11668.0
+    },
+    {
+      "id": "2051826281914978801",
+      "author": "browser_use",
+      "text": "Hermes agent just gained a new skill: browser-harness\n\nNow, Hermes agent has: \n&gt; self-improving browser tools \n&gt; parallel stealth cloud browsers \n&gt; full freedom within your browser  \n\nAll it takes is one prompt. \nTry it now ↓🔗 https://t.co/A36ywF6w96",
+      "likes": 1141,
+      "views": 0,
+      "url": "https://x.com/i/status/2051826281914978801",
+      "is_kol": false,
+      "score": 3813.0
+    },
+    {
+      "id": "2051697813554405384",
+      "author": "HeyGen",
+      "text": "Hermes Agent now has @Hyperframes_ skill, natively\n\na close collab with @NousResearch\n\nOne-line install\n\n$ hermes skills install hyperframes\n\nX post -&gt; 30s explainer\nA PDF -&gt; walkthrough vid\nA repo -&gt; launch reel\n\nmake your Hermes Agent your video editor https://t.co/BLN",
+      "likes": 552,
+      "views": 0,
+      "url": "https://x.com/i/status/2051697813554405384",
+      "is_kol": false,
+      "score": 1986.0
+    },
+    {
+      "id": "2051729328665444527",
+      "author": "itsbrianscherer",
+      "text": "On April 21, we challenged lawyers from all over the world to spend an afternoon building real, production-ready skills with Claude Cowork.\n\n5 hours. 200+ lawyers. 10+ countries. 13 completed projects producing new legal AI skills.\n\nEvery skill is live on our showcase site at htt",
+      "likes": 414,
+      "views": 0,
+      "url": "https://x.com/i/status/2051729328665444527",
+      "is_kol": false,
+      "score": 1412.0
+    },
+    {
+      "id": "2051855145076736131",
+      "author": "masa_ai_med",
+      "text": "世界最大の消化器学会のスライド半分くらいはClaudeで作られていた。でも一発であーClaudeポン出しだなとわかってしまう。妙な雑味はプレゼンへの集中力を阻害してしまう。そんな時には、自分のスタイルを再現するSkillを作っておけばOK、手順と私のSkillは↓",
+      "likes": 276,
+      "views": 0,
+      "url": "https://x.com/i/status/2051855145076736131",
+      "is_kol": false,
+      "score": 893.0
+    },
+    {
+      "id": "2051641768530047256",
+      "author": "gr1m0",
+      "text": "I built an HTTP debugging proxy that runs in your terminal.\n\nIntroducing httpmon - a TUI HTTP monitor with:\n- Vim-style filtering\n- JavaScript interceptor scripts\n- gRPC-Web request debugging\n- HAR export\n- MCP server for AI model access to captured traffic\n\nWebsite, docs, and a ",
+      "likes": 211,
+      "views": 0,
+      "url": "https://x.com/i/status/2051641768530047256",
+      "is_kol": false,
+      "score": 733.0
+    },
+    {
+      "id": "2051772437520622035",
+      "author": "omarsar0",
+      "text": "// Skills as Verifiable Artifacts //\n\nPay attention to this one, AI devs.\n\nIf you ship agent skills, your runtime is treating signed-and-cleared skills as trusted by default.\n\nThis paper argues a skill is untrusted code until it is verified. The runtime should enforce that defaul",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2051772437520622035",
+      "is_kol": false,
+      "score": 731.0
+    },
+    {
+      "id": "2051760080337711174",
+      "author": "Queen_1o1",
+      "text": "Two leading open-source AI projects are now unified through a single installation experience.\nHyperFrames is available as a Hermes Agent skill, installable via Hermes skills.",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2051760080337711174",
+      "is_kol": false,
+      "score": 663.0
+    },
+    {
+      "id": "2051694883727987096",
+      "author": "nutlope",
+      "text": "Built a skill that makes beautiful landing pages.\n\nDrop it in claude code, codex, or your favorite coding agent and enjoy good design taste by default.\n\nDropping in 48 hours. https://t.co/naDrZvC5qp",
+      "likes": 183,
+      "views": 0,
+      "url": "https://x.com/i/status/2051694883727987096",
+      "is_kol": false,
+      "score": 594.0
+    },
+    {
+      "id": "2051973076099694755",
+      "author": "WURKDOTFUN",
+      "text": "Your agent has a wallet. Use it. Hire humans via x402 on WURK. \n\nQuick start with the skill → https://t.co/TdLIMVQS9v https://t.co/rmKYSwen0p",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2051973076099694755",
+      "is_kol": false,
+      "score": 555.0
+    },
+    {
+      "id": "2051742474880627019",
+      "author": "RoundtableSpace",
+      "text": "Claude Code now ships with a built-in /claude-api skill for working directly with the Claude Platform.\n\n- Model migrations\n- Prompt caching\n- Claude Managed Agents  \n\nAll handled from inside your coding environment.\n\nhttps://t.co/j8Y38NdQPQ",
+      "likes": 165,
+      "views": 0,
+      "url": "https://x.com/i/status/2051742474880627019",
+      "is_kol": false,
+      "score": 535.0
+    },
+    {
+      "id": "2051738065992073369",
+      "author": "cyrilXBT",
+      "text": "🚨 ANTHROPIC CEO JUST MADE THE MOST IMPORTANT STATEMENT IN TECH THIS YEAR.\n\n\"AI will write 100% of code within a year.\"\n\nNot some code.\n\nNot most code.\n\n100%.\n\nDevelopers spend 4 years in university and $200,000 in tuition learning a skill that Claude learned from every book, pape",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2051738065992073369",
+      "is_kol": false,
+      "score": 509.0
+    },
+    {
+      "id": "2051633759188136337",
+      "author": "about_hiroppy",
+      "text": "外にいることが多いから、以下の構成にした。時間作ってブログ書くか。極力subscriptionに依存しない形\n\nslack(I/F) -&gt; hermes(agent) -&gt; superpowers(brainstorming skill) -&gt; linear(ticket) -&gt; symphony (runner)-&gt; codex(coding) -&gt; github(pr)",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2051633759188136337",
+      "is_kol": false,
+      "score": 442.0
+    },
+    {
+      "id": "2051923925396045864",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. \n\nSpend 1 hour with this.  \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.  \n\nThe people who watch this tonight will wake up tomorrow with a new skill.  \n\nWatch it and Bookmark it now. https://t.co/7oPUr88mvq",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2051923925396045864",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2051728516828614892",
+      "author": "benhylak",
+      "text": "in our blog, we explain an interesting design decision we made: exposing our agent as an MCP tool.\n\nturns out, it has some huge advantages vs. just exposing individual tools\n\n(link below) https://t.co/EPx9LKwuNs",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2051728516828614892",
+      "is_kol": false,
+      "score": 356.0
+    },
+    {
+      "id": "2051822443472265244",
+      "author": "KSimback",
+      "text": "I asked my Hermes agent to create a video of Hermes Atlas using the new @HeyGen HyperFrames skill that shipped today\n\n&gt;One prompt \"create a walkthrough of https://t.co/N0tfOAxXpt\"\n&gt;Pulled context straight from the site\n&gt;Generated, rendered, sent me this in 4 minutes\n\nVer",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2051822443472265244",
+      "is_kol": false,
+      "score": 347.0
+    },
+    {
+      "id": "2051700924079370529",
+      "author": "bittingthembits",
+      "text": "🚨 $TAO Ridges @ridges_ai SN62 just sat down with @jollygreenmoney for a deep dive with Cameron Fairchild on CLAUDE. OPENCLAW. BITTENSOR. Connected through one skill 🧠 on RIDGES becoming the brain, and what came out of that conversation is exactly why this remains my favorite subn",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2051700924079370529",
+      "is_kol": false,
+      "score": 308.0
+    }
+  ]
+}
