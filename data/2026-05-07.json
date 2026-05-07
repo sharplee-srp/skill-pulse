@@ -1,0 +1,631 @@
+{
+  "date": "2026-05-07",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 191,
+    "tweets_with_repos": 24,
+    "unique_repos": 22,
+    "new_repos": 13,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "github_url": "https://github.com/aws/agent-toolkit-for-aws",
+      "tier": 2,
+      "is_new": true,
+      "score": 3056.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 747,
+      "total_retweets": 123,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "clare_liguori",
+        "text": "Ahh I have been so excited about the new AWS Agent Toolkit and it's finally here and I can talk about it!\n\n🚀 40+ skills\n🚀 3 agent plugins\n🚀 Remote MCP server that agents can use to call all 15,000+ AWS APIs + run scripts, search docs, retrieve skills\n\nhttps://t.co/11cSOzX1Kc",
+        "likes": 720,
+        "url": "https://x.com/i/status/2052115538701394205"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052167676844552608",
+        "https://x.com/i/status/2052115538701394205"
+      ]
+    },
+    {
+      "repo": "0xhackerfren/procmon-mcp",
+      "github_url": "https://github.com/0xhackerfren/procmon-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 610.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 120,
+      "total_retweets": 30,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hackerfren",
+        "text": "An MCP server that gives AI assistants deep visibility into Windows internals: processes, ETW kernel traces, event logs, services, drivers, minifilters, and static PE analysis.\n\nhttps://t.co/yFWDuBK9hO",
+        "likes": 120,
+        "url": "https://x.com/i/status/2051743815078137945"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051743815078137945"
+      ]
+    },
+    {
+      "repo": "donchitos/claude-code-game-studios",
+      "github_url": "https://github.com/donchitos/claude-code-game-studios",
+      "tier": 3,
+      "is_new": true,
+      "score": 332.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "1greencat",
+        "text": "这个开源项目太棒了\n它把一整套游戏开发的方法论 分门别类的做成了几十个SKILL、Agent和钩子\n很多时候在做个人项目的时候 最大的问题不是没有创意 也不是没有技术\n而是缺少“项目管理” 特别容易做着做着就失控\n这个把AI变成了资深的项目经理替我管理 我只需提供创意和技术指导\n\nhttps://t.co/zGcldBITY1",
+        "likes": 64,
+        "url": "https://x.com/i/status/2052030819309695202"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052030819309695202"
+      ]
+    },
+    {
+      "repo": "remix-run/remix-particle-visualizer",
+      "github_url": "https://github.com/remix-run/remix-particle-visualizer",
+      "tier": 3,
+      "is_new": true,
+      "score": 259.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BrooksLybrand",
+        "text": "In order to build the website, Tim vibed up a super cool particle visualizer in React and Three.js\n\nhttps://t.co/UFSEIEdKsz\n\nI gave the repo the Remix agent skill and asked it migrate from React to Remix. It was very easy.\n\nhttps://t.co/tOmPyHaZOg",
+        "likes": 48,
+        "url": "https://x.com/i/status/2052048881450463426"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052048881450463426"
+      ]
+    },
+    {
+      "repo": "jospmsilva/browser-mutation",
+      "github_url": "https://github.com/jospmsilva/browser-mutation",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SilvaJpms",
+        "text": "@kr0der Even if codex is powerful, it's still lacking tools to make cheap edits. Annotate mode can't cut it. I built an amazing plugin/skill that allows cheap/dirty edits on the fly and send them back to the model to apply.\nhttps://t.co/3gQnNsZ7KR",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052323336407945372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052323336407945372",
+        "https://x.com/i/status/2052322943145771162"
+      ]
+    },
+    {
+      "repo": "jackwener/opencli",
+      "github_url": "https://github.com/jackwener/opencli",
+      "tier": 3,
+      "is_new": true,
+      "score": 192.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakevin7",
+        "text": "很多人还不知道 opencli 有一个 autofix skill，Agent 遇到 opencli 的问题就会自动修复 opencli 里面的一些 bug \n\nhttps://t.co/lBM5s0Fz3w https://t.co/JPd6o2bIMW",
+        "likes": 29,
+        "url": "https://x.com/i/status/2052264191382479334"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052264191382479334"
+      ]
+    },
+    {
+      "repo": "tinyfish-io/tinyfish-cookbook",
+      "github_url": "https://github.com/tinyfish-io/tinyfish-cookbook",
+      "tier": 3,
+      "is_new": true,
+      "score": 169.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Saboo_Shubham_",
+        "text": "Just send this SKILL to your @openclaw or Hermes Agent to get started: \n\nhttps://t.co/jLu67YTTbG",
+        "likes": 23,
+        "url": "https://x.com/i/status/2052269482530455641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052269482530455641"
+      ]
+    },
+    {
+      "repo": "7xmohamed/kata",
+      "github_url": "https://github.com/7xmohamed/kata",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "7xmohamedd",
+        "text": "Synthesis: Conflict resolution in research\nTone Check: Voice consistency audit\n\nPlus a brand refresh and new anti-pattern guardrails to keep the 'Blade' sharp.\n\nDrill your engineering habits.\n\nUpdate: npx skills add 7xmohamed/Kata@latest\n\nhttps://t.co/6atgG5HeZ9",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052210593768022075"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052210593768022075"
+      ]
+    },
+    {
+      "repo": "financedistrict-platform/fd-agent-wallet-skills",
+      "github_url": "https://github.com/financedistrict-platform/fd-agent-wallet-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FD_XYZ",
+        "text": "Most MCP agents can read, write, reason, and call APIs. The one thing they still can't do is pay. That's the missing piece, and it's two commands away.\n\nnpm install -g @financedistrict/fdx\nnpx skills add financedistrict-platform/fd-agent-wallet-skills\n\nOnce installed, your agent ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052206550782275972"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052206550782275972"
+      ]
+    },
+    {
+      "repo": "makerjackie/skills",
+      "github_url": "https://github.com/makerjackie/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maker_jackie",
+        "text": "@yanhua1010 我把他改成支持全部 agents 的写法了（vercel 的 skills sh）\nnpx skills add makerjackie/skills --skill startup-pressure-test",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052341300993946068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052341300993946068"
+      ]
+    },
+    {
+      "repo": "danmartuszewski/export-key",
+      "github_url": "https://github.com/danmartuszewski/export-key",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "danmartuszewski",
+        "text": "Your coding agent needs an API key. Don't paste it into the chat.\n\nnpx skills add danmartuszewski/export-key\n\nThe agent runs `ek OPENAI_API_KEY`, the secret loads into your shell, and the value never touches the conversation. Works with Claude Code, Codex, Cursor, Cline, and ~50 ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052266226630422758"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052266226630422758"
+      ]
+    },
+    {
+      "repo": "devbyray/agent-skill-security-scan",
+      "github_url": "https://github.com/devbyray/agent-skill-security-scan",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devbyrayray",
+        "text": "I built a security scan skill for AI agents to handle the manual heavy lifting. 🛠️🛡️\n\nAdd it to your project in seconds: \n\nnpx skills add devbyray/agent-skill-security-scan\n\nFull details on GitHub: https://t.co/5D3DfIDHLc\n\nWhat should I automate next? 👇 #AI #InfoSec #DevTools",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052128613089038494"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052128613089038494"
+      ]
+    },
+    {
+      "repo": "devswha/patina",
+      "github_url": "https://github.com/devswha/patina",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIDailyGems",
+        "text": "The best AI dev tools feel boring after setup. This one points in that direction: Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Codex CLI, Cursor, and OpenCode, or as a sta\n\nhttps://t.co/OE6ksSoOx2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052264645776564714"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052264645776564714"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "hangwin/mcp-chrome",
+      "github_url": "https://github.com/hangwin/mcp-chrome",
+      "tier": 2,
+      "is_new": false,
+      "score": 990.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 240,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wsl8297",
+        "text": "又挖到一个很能打的 MCP 服务器：Chrome MCP Server。它基于 Chrome 插件，让 AI 助手直接接管你的浏览器。\n\n不仅能做复杂的浏览器自动化、内容分析、语义搜索，还能原样保留你的登录状态、扩展和各类浏览器设置。\n\nGitHub：https://t.co/07Z9VFLaQQ\n\n主要亮点：\n\n- 直接用你正在用的 Chrome，配置、扩展、登录状态全部继承\n- 全程本地运行，隐私和数据更稳\n- 内置 20+ 工具：截图、网络监控、内容分析等一站式覆盖\n- AI 语义搜索：更快定位标签页内容，告别手动翻找\n- 跨标签联动：多页面串联操",
+        "likes": 240,
+        "url": "https://x.com/i/status/2051905621398790642"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051905621398790642"
+      ]
+    },
+    {
+      "repo": "camel-ai/crab",
+      "github_url": "https://github.com/camel-ai/crab",
+      "tier": 3,
+      "is_new": false,
+      "score": 388.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guohao_li",
+        "text": "fine, we are not even on the list 👌😆 although we keep no stopping building in open source rl envs from 2024 \n\nGUI envs: https://t.co/T1nBheiotF\nLong-CoT envs: https://t.co/mQ0Y2qQKOr\nMulti-turn tool call envs: https://t.co/fL7FAa1EGV\nTerminal envs: https://t.co/dsntPFLZSi\nMCP env",
+        "likes": 81,
+        "url": "https://x.com/i/status/2051877202070008135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051877202070008135"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 270.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.42 released!\n\n10 features & enhancements in this release\n\nTop features:\n• MCP server failure warning now suggests a directly runnable /mcp show command when the server name contains whitespace 🛠️\n• MCP server failure warnings include stderr output to help diag",
+        "likes": 40,
+        "url": "https://x.com/i/status/2052040728428097545"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052040728428097545"
+      ]
+    },
+    {
+      "repo": "warpdotdev/oz-skills",
+      "github_url": "https://github.com/warpdotdev/oz-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 151.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kevinma_dev_zh",
+        "text": "https://t.co/QC1Oh8epft Warp 把团队内部用的一组 Agent Skills 开源了，可以直接用：\nhttps://t.co/QINBLAu1M4\n\n安装命令： npx skills add warpdotdev/oz-skills\n\n里面一共 15 个 skills ，覆盖 SEO/AEO 审计、无障碍审计、性能审计、文档更新、CI 修复、PR 创建、GitHub issue 去重、Terraform 检查、MCP builder、定时任务等。\n\n视频里演示的是先安装 docs-update 和 seo-aeo-audit，然",
+        "likes": 12,
+        "url": "https://x.com/i/status/2052298046361448724"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052298046361448724"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Automate trading and LP strategies with Byreal Agent Skills:\nhttps://t.co/S5UMQU3sss\n\nnpx skills add byreal-git/byreal-agent-skills",
+        "likes": 3,
+        "url": "https://x.com/i/status/2052275537503248869"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052275537503248869"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Eamon3949",
+        "text": "2026最实用 Claude Code 省Token野路子完整教程 —— Token-Saver Skill\n\n重度使用 Claude Code / Cursor / OpenClaw 的朋友每周都很容易撞 token 限额。\n\n今天把一套我自己正在用的 Token Saver 完整方案分享出来，能把 token 消耗降低 50-75%，实测一周能省几百万到上千万 token，相当于把使用时长直接延长 2-3 倍。\n\n为什么需要 Token Saver？\nClaude 默认回复会带大量礼貌话、背景解释、重复上下文和冗长的 CLI 输出（git statu",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052273435808760177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052273435808760177"
+      ]
+    },
+    {
+      "repo": "neo-d6n/lid-proof",
+      "github_url": "https://github.com/neo-d6n/lid-proof",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "niopub",
+        "text": "@nikunj npx skills add neo-d6n/lid-proof\n\nThen you can just tell your AI to toggle this behavior inline with your other skills.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052243789633491295"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052243789633491295"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fayazara",
+        "text": "@kristianfreeman Install these two skills globally\n\nnpx skills add emilkowalski/skill\n\nnpx skills add https://t.co/PYB39psW3m --skill make-interfaces-feel-better",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052181352079130636"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052181352079130636"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-06\n\nToday’s clearest operator themes are recovery from model-route drift and safer fetch/runtime boundaries: OpenClaw 2026.5.6 landed as a same-day repair release, and the surrounding public repo traffic stayed focused on fast verification, ro",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052222447181844852"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052222447181844852"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2052069109689422100",
+      "author": "GoMining",
+      "text": "Your AI speaks GoMining now 🤖\n\nYour miners, rewards, balances, earning positions, card activity, and market prices all tell part of your GoMining story.\n\nNow your AI can help you understand it faster with two new tools:\n\n🔸GoMining MCP Server helps your AI answer from your own acc",
+      "likes": 632,
+      "views": 0,
+      "url": "https://x.com/i/status/2052069109689422100",
+      "is_kol": false,
+      "score": 2631.0
+    },
+    {
+      "id": "2052102880602038767",
+      "author": "BONELESS364606",
+      "text": "Hitman's Ultimate Calm Under Pressure Intense Interrogation Scene\nAgent 47 walks into the lion's den armed and dangerous - but nothing shakes his icy composure. Watch the iconic scene from Hitman as he turns the tables with pure skill and confidence. This is why Agent 47 is the u",
+      "likes": 274,
+      "views": 0,
+      "url": "https://x.com/i/status/2052102880602038767",
+      "is_kol": false,
+      "score": 1372.0
+    },
+    {
+      "id": "2052299931055177901",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.    \n\nSpend 2 hour with this.    \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.    \n\nThe people who watch this tonight will wake up tomorrow with a new skill.   \n\nWatch it and Bookmark it now. https://t.co/dHnkimlZ",
+      "likes": 226,
+      "views": 0,
+      "url": "https://x.com/i/status/2052299931055177901",
+      "is_kol": false,
+      "score": 1013.0
+    },
+    {
+      "id": "2052309023618109936",
+      "author": "mattpocockuk",
+      "text": "On the skill bench today: a /review skill\n\n- Checks against original spec\n- Checks against coding standards\n\n- Proposes changes to the code (obviously)\n- Proposes changes to the agent loop that created the code",
+      "likes": 236,
+      "views": 0,
+      "url": "https://x.com/i/status/2052309023618109936",
+      "is_kol": false,
+      "score": 753.0
+    },
+    {
+      "id": "2052294310037729567",
+      "author": "0xJui10",
+      "text": "ทำความรู้จัก Skill ของ Claude กันครับ\n\n/Skill = folder ที่ Claude หยิบใช้เอง\nมี instruction + script + reference\n\nโหลดเป็นชั้นๆ (layer) ใส่ 100 ตัวก็ไม่กิน context\nเพราะหลักการที่เรียกว่า Progressive Disclosure\n\ndescription ห้ามเกิน 1,024 ตัวอักษร\nต้องบอก \"ทำอะไร + ใช้ตอนไหน\"\nCla",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2052294310037729567",
+      "is_kol": false,
+      "score": 719.0
+    },
+    {
+      "id": "2052235729229730064",
+      "author": "iansh04_",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. \n\nSpend 1 hour with this.  \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.  \n\nThe people who watch this tonight will wake up tomorrow with a new skill.  \n\nWatch it and Bookmark it now. https://t.co/emo0cbxjSq",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2052235729229730064",
+      "is_kol": false,
+      "score": 444.0
+    },
+    {
+      "id": "2052275318254375088",
+      "author": "Rixhabh__",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/Q52xMPyIZD",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2052275318254375088",
+      "is_kol": false,
+      "score": 405.0
+    },
+    {
+      "id": "2052227626950070533",
+      "author": "shubham_crazy08",
+      "text": "You're not broke because you don't work hard.\n\nYou're broke because you only have ONE income stream.\n\nClaude can now build you 5 — running on autopilot while you sleep.\n\nHere are 8 prompts that turn one skill into a passive income empire:\n\nSave this thread 🧵👇 https://t.co/11aUouY",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2052227626950070533",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2052192434390810929",
+      "author": "FlowAltDelete",
+      "text": "Copilot Cowork plugins are showing up now.\n\nFinally.\n\n- Dynamics 365.\n- Fabric IQ.\n- M365 Admin Center MCP Server.\n- Windows 365 for Agents.\n\nGive the agent tools.\nGive it business data.\nGive it systems to act inside.\n\nNow we’re cooking. https://t.co/rluVpoxpue",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2052192434390810929",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2052214336009957667",
+      "author": "coder_surya",
+      "text": "Everyone is talking about Claude Code as a solo assistant.\nThat's the wrong mental model.\n \nThe real unlock is what happens when you combine Subagents + MCP together.\n \nIt stops being a developer tool.\nIt starts being an engineering team.\n\n𝗙𝗥𝗘𝗘 𝗚𝗲𝗻𝗔𝗜 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻:\n\n✅ Register he",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2052214336009957667",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2052125757527540193",
+      "author": "ma_tsukada",
+      "text": "Agent Toolkit for AWSリリース！\n※pluginから名前変わった様子\n\nそしてAWS MCP Serverも正式リリース！\n\nhttps://t.co/lkoc6iLR4t\nhttps://t.co/pCSyfSjMxy",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2052125757527540193",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2052037096924152183",
+      "author": "jacobmtucker",
+      "text": "Made a little agent skill and some end-to-end examples for using CDR.\n\nCDR lets you share and license private data onchain without exposing it.\n\nJust install the skill or copy the GitHub URL to your agent to get building 🏗️",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2052037096924152183",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2052254899577245721",
+      "author": "NFTCPS",
+      "text": "连算命这门老祖宗的生意，都被AI抢饭碗了！\n\n有人把传统四柱八字做成了Claude Code的原生技能插件——bazi-skill，已经有人拿它收钱了！你信不信？\n\n操作简单到离谱：\n1️⃣ 输入“算八字”三个字\n2️⃣ AI一步步问你姓名、出生日期（农历阳历都行）、时辰、性别、出生地\n3️⃣ 自动排出四柱、大运流年，全给你算一遍\n4️⃣ 最后分析日主强弱、五行生克，还给你事业、感情、健康建议\n\n这不是AI瞎编的，是真把命理知识系统喂进去了，知识量直接甩街边算命先生几条街，人家收几百块，它免费！\n\n安装门槛低到哭：clone到Claude Code的sk",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2052254899577245721",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2052199995340927383",
+      "author": "about_hiroppy",
+      "text": "GWに組織のAI化をずっと研究してたけど、hermesみたいに全部skillで管理して、新しいagentが出来ても移行できるようにしておけばいいという結論に至ったので、最終的に大量のskillを生成する事になった",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2052199995340927383",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2051991937587073048",
+      "author": "tetsuoarena",
+      "text": "AgenC now has a readonly Grok connector live on devnet.\n\nask Grok to inspect marketplace tasks, job specs, explorer state, and safety checks without giving it a wallet or signer.\n\nmcp server on: https://t.co/AyB3EVXq0b https://t.co/ggnLMVb6OZ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2051991937587073048",
+      "is_kol": false,
+      "score": 205.0
+    }
+  ]
+}

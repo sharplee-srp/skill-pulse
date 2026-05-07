@@ -1962,5 +1962,57 @@
   "huybuidac/claude-code-patchkit": {
     "first_seen": "2026-05-06",
     "tier": 3
+  },
+  "aws/agent-toolkit-for-aws": {
+    "first_seen": "2026-05-07",
+    "tier": 2
+  },
+  "0xhackerfren/procmon-mcp": {
+    "first_seen": "2026-05-07",
+    "tier": 2
+  },
+  "donchitos/claude-code-game-studios": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "remix-run/remix-particle-visualizer": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "jospmsilva/browser-mutation": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "jackwener/opencli": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "tinyfish-io/tinyfish-cookbook": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "7xmohamed/kata": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "financedistrict-platform/fd-agent-wallet-skills": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "makerjackie/skills": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "danmartuszewski/export-key": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "devbyray/agent-skill-security-scan": {
+    "first_seen": "2026-05-07",
+    "tier": 3
+  },
+  "devswha/patina": {
+    "first_seen": "2026-05-07",
+    "tier": 3
   }
 }
