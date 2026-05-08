@@ -2014,5 +2014,41 @@
   "devswha/patina": {
     "first_seen": "2026-05-07",
     "tier": 3
+  },
+  "unibaseio/bitagent-skills": {
+    "first_seen": "2026-05-08",
+    "tier": 2
+  },
+  "mpp32/mpp32": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "jeffli1993/seo-audit-skill": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "google-gemini/gemini-skills": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "angular-experts-io/ax-skills": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "vercel-labs/agent-skills": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "nowhitestar/yulu": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "kkenny0/taku": {
+    "first_seen": "2026-05-08",
+    "tier": 3
+  },
+  "kepano/obsidian-skills.git": {
+    "first_seen": "2026-05-08",
+    "tier": 3
   }
 }

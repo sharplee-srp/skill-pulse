@@ -1,0 +1,505 @@
+{
+  "date": "2026-05-08",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 191,
+    "tweets_with_repos": 18,
+    "unique_repos": 16,
+    "new_repos": 9,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "unibaseio/bitagent-skills",
+      "github_url": "https://github.com/unibaseio/bitagent-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 451.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 117,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Unibase_AI",
+        "text": "3/ Demo 2: Call (Hire) Agent Services on BitAgent Marketplace\n\n🟠Method 1 — Chat with Your Own Agent\n1️⃣ Install the Unibase × BitAgent Skill: https://t.co/pZWmF2EvWt\n2️⃣ Describe agent service in natural language\n\n🟠Method 2 — Use the Terminal Agent\n1️⃣ Go to: https://t.co/rePU3bv",
+        "likes": 117,
+        "url": "https://x.com/i/status/2052630705642078318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052630705642078318"
+      ]
+    },
+    {
+      "repo": "mpp32/mpp32",
+      "github_url": "https://github.com/mpp32/mpp32",
+      "tier": 3,
+      "is_new": true,
+      "score": 388.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MPP32_dev",
+        "text": "MCP server is live on npm.\n\nAny AI agent can now.. \nnpx mpp32-mcp-server and immediately discover, pay for, and call APIs in the ecosystem. No setup beyond a wallet key.\n\nWhat's new:\n\n•Full HTTP 402 payment flow handled automatically\n•Cryptographic verification on all 5 protocols",
+        "likes": 61,
+        "url": "https://x.com/i/status/2052478335112941857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052478335112941857"
+      ]
+    },
+    {
+      "repo": "jeffli1993/seo-audit-skill",
+      "github_url": "https://github.com/jeffli1993/seo-audit-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 255.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 45,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CoderJeffLee",
+        "text": "准备继续搞：高级版的 SEO Audit Skill，已完成 basic release 了。感谢大家 300+ stars\n\nhttps://t.co/RPMD1A7Dds\n\n或者搞个新的 Agent Skill SEO Blog Creator 尤其针对 Alternative 型 、列表(Listicle)  型这些博客文章 https://t.co/dDJV3bZRY8",
+        "likes": 45,
+        "url": "https://x.com/i/status/2052478817332310252"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052478817332310252"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-skills",
+      "github_url": "https://github.com/google-gemini/gemini-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_philschmid",
+        "text": "Install Skill:\n```\nnpx skills add google-gemini/gemini-skills --skill gemini-interactions-api\n```\n\nPrompt your agent:\n\"/gemini-interactions-api migrate to the new `steps` change instead of `outputs`\"\n\nAgent Skill: https://t.co/aBT9r4f4fZ\nFull guide: https://t.co/tlTHMHdMoN",
+        "likes": 9,
+        "url": "https://x.com/i/status/2052487548497285364"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052487548497285364"
+      ]
+    },
+    {
+      "repo": "angular-experts-io/ax-skills",
+      "github_url": "https://github.com/angular-experts-io/ax-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomastrajan",
+        "text": "hello #ngrx global store enjoyers worldwide\n\nI have published initial version of the SKILL.md with all the goodies, best practices and ptterns I like to use\n\nnpx skills add angular-experts-io/ax-skills --skill ngrx\n\ncheck it out and feel free to provide suggestions, repo link 👇 h",
+        "likes": 2,
+        "url": "https://x.com/i/status/2052693147486990591"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052693147486990591"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SamiBizConsult",
+        "text": "Install a Skill\nnpx skills add vercel-labs/agent-skills",
+        "likes": 2,
+        "url": "https://x.com/i/status/2052380265742233872"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052380265742233872"
+      ]
+    },
+    {
+      "repo": "nowhitestar/yulu",
+      "github_url": "https://github.com/nowhitestar/yulu",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lewisxbtt",
+        "text": "Install is one line:\n\ncurl -fsSL https://t.co/QrHN4gyQsj | bash\n\nUpdates: yulu update.\nUninstall: yulu uninstall (asks before deleting recordings).\n\nAgent skill: npx skills add Nowhitestar/Yulu -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052670808804462968"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052670808804462968"
+      ]
+    },
+    {
+      "repo": "kkenny0/taku",
+      "github_url": "https://github.com/kkenny0/taku",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KennyYeah01",
+        "text": "AI “fixes” are not all equal.\n\n`/taku-debug` forces a real DEBUG REPORT:\nSymptom → Root cause → Fix → Evidence → Status.\n\nChained with `/taku-plan`, Taku turns Claude Code into a root‑cause engineer, not a patch machine.\n\n`npx skills add KKenny0/Taku -g --all` https://t.co/zhL1zr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052655076968440150"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052655076968440150"
+      ]
+    },
+    {
+      "repo": "kepano/obsidian-skills.git",
+      "github_url": "https://github.com/kepano/obsidian-skills.git",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "roshfm",
+        "text": "@kepano can you fix the installs for npx skills add kepano/obsidian-skills.git",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052480194338849186"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052480194338849186"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "hangwin/mcp-chrome",
+      "github_url": "https://github.com/hangwin/mcp-chrome",
+      "tier": 2,
+      "is_new": false,
+      "score": 810.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 180,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTCPS",
+        "text": "卧槽，又发现一个能打的MCP服务器：Chrome MCP Server！这货直接让AI接管你的浏览器，牛逼到爆炸。\n\n1️⃣ 直接用你现在用的Chrome，配置、扩展、登录状态全继承，不用重新折腾\n2️⃣ 全程本地运行，隐私数据稳得像老狗\n3️⃣ 内置20+工具：截图、网络监控、内容分析一站式搞定\n4️⃣ AI语义搜索：一眼定位标签页内容，再也不用像傻逼一样手动翻\n5️⃣ 跨标签联动：多页面串联操作，自动化流程深得像海\n6️⃣ 书签与历史管理：智能检索分类，告别混乱\n7️⃣ 表单填写与页面交互：模拟键鼠操作，真实可用\n\n对比Playwright，这套方案",
+        "likes": 180,
+        "url": "https://x.com/i/status/2052349065938321652"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052349065938321652"
+      ]
+    },
+    {
+      "repo": "camel-ai/crab",
+      "github_url": "https://github.com/camel-ai/crab",
+      "tier": 3,
+      "is_new": false,
+      "score": 394.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 83,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guohao_li",
+        "text": "fine, we are not even on the list 👌😆 although we keep no stopping building in open source rl envs from 2024 \n\nGUI envs: https://t.co/T1nBheiotF\nLong-CoT envs: https://t.co/mQ0Y2qQKOr\nMulti-turn tool call envs: https://t.co/fL7FAa1EGV\nTerminal envs: https://t.co/dsntPFLZSi\nMCP env",
+        "likes": 83,
+        "url": "https://x.com/i/status/2051877202070008135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051877202070008135"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 223.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xajc",
+        "text": "稍微好一点，感觉还是挺厉害的，大幅降低了launch video的生产成本，基本没怎么费力，主要是我们网站的素材确实垃圾了一点 @nuwa_world \n\nHyperframe上手也简单，用cc的话装heygen的skills就行了，跟codex没有区别\n\nnpx skills add heygen-com/hyperframes\n\n🔍被调/搜人就用 https://t.co/70GITiVw9k",
+        "likes": 6,
+        "url": "https://x.com/i/status/2052686920711643247"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052686920711643247",
+        "https://x.com/i/status/2052584711466447151"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "xPoints Farming comes pre-installed with RealClaw 🦞 and is also available with Byreal Agent Skills.\n\nSign up for the RealClaw waitlist ↓\nhttps://t.co/EEWHeX7R2d\n\nInstall Byreal Agent Skills ↓\nnpx skills add byreal-git/byreal-agent-skills\n\nFull Docs ↓\nhttps://t.co/VVcupZo2Cp",
+        "likes": 2,
+        "url": "https://x.com/i/status/2052389869926932678"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052389869926932678",
+        "https://x.com/i/status/2052372409488159011"
+      ]
+    },
+    {
+      "repo": "hktitan/cursor-sdk",
+      "github_url": "https://github.com/hktitan/cursor-sdk",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@cursor_ai npx skills add hktitan/cursor-sdk\nhttps://t.co/rYfxdUTC4G",
+        "likes": 5,
+        "url": "https://x.com/i/status/2052433378641940850"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052433378641940850"
+      ]
+    },
+    {
+      "repo": "warpdotdev/oz-skills",
+      "github_url": "https://github.com/warpdotdev/oz-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hqmank",
+        "text": "Warp open-sourced all 15 Agent Skills they built into Oz. Plug into any coding agent.\n\nInstall: npx skills add warpdotdev/oz-skills\n\nCoverage: SEO/AEO audit, accessibility audit, web perf audit, docs update, CI fix, PR creation, GitHub issue dedupe, bug triage, Terraform style, M",
+        "likes": 2,
+        "url": "https://x.com/i/status/2052378526431760612"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052378526431760612"
+      ]
+    },
+    {
+      "repo": "tinyfish-io/tinyfish-cookbook",
+      "github_url": "https://github.com/tinyfish-io/tinyfish-cookbook",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Tiny_Fish",
+        "text": "so this particular one is using tinyfish CLI directly. \n\nif you want to use with your agents like openclaw and hermes agents, here's the Skill: https://t.co/4O4U2HvpU8\n\nbrowser-use just gives agent and browser, we're giving free search + free fetch + agent (more reliable and accu",
+        "likes": 2,
+        "url": "https://x.com/i/status/2052632781323416024"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052632781323416024"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2052464535018365228",
+      "author": "adxtyahq",
+      "text": "still saying this btw\n\nthere’s never been a better time to learn:\nRAG, VectorDBs, AI pipelines, agents, evals, MCP, multimodal systems, inference optimization, tool calling, memory architectures, browser automation and voice AI\n\nwhole industry is moving at 100x speed rn\nbest thin",
+      "likes": 1572,
+      "views": 0,
+      "url": "https://x.com/i/status/2052464535018365228",
+      "is_kol": false,
+      "score": 5276.0
+    },
+    {
+      "id": "2052631443101319473",
+      "author": "sheapgamer",
+      "text": "[News] \"Pordee\" ปลั๊กอินภาษาไทยสำหรับClaude Code ที่ช่วยลดการใช้งาน Token ได้สูงสุดถึง 75%!\n.\nเมื่อช่วงเช้าที่ผ่านมา เจ้าพ่อสารพัดอย่างโปรเจกต์และนักพัฒนาชาวไทยคุณ keRLos เปิดตัวโปรเจกต์ใหม่ในชื่อ Pordee หรือ “พอดี” ซึ่งเป็น Plugin สำหรับ Claude Code ที่ออกแบบมาเพื่อแก้ปัญหาการกิ",
+      "likes": 582,
+      "views": 0,
+      "url": "https://x.com/i/status/2052631443101319473",
+      "is_kol": false,
+      "score": 4156.0
+    },
+    {
+      "id": "2052497318017208470",
+      "author": "kylejeong",
+      "text": "Hermes Agent can use Autobrowse to make better browser skills.\n\nIn this HN example, 2 iterations take us from:\n\n102 seconds -&gt; 35\n23 turns -&gt; 8\n$1.46 -&gt; $0.28\n\nInstead of clicking step by step it decides to eval JS directly on the page and save that workflow to a skill. ",
+      "likes": 1208,
+      "views": 0,
+      "url": "https://x.com/i/status/2052497318017208470",
+      "is_kol": false,
+      "score": 4059.0
+    },
+    {
+      "id": "2052474623309349372",
+      "author": "ComfyUI",
+      "text": "When your tool is open source and free, your creativity has no ceiling. The ComfyUI skill in @NousResearch Hermes Agent lets you compose sophisticated workflows by chatting to an agent. Try it today. https://t.co/M6aST13Mka",
+      "likes": 357,
+      "views": 0,
+      "url": "https://x.com/i/status/2052474623309349372",
+      "is_kol": false,
+      "score": 1266.0
+    },
+    {
+      "id": "2052418950118650358",
+      "author": "Lovable",
+      "text": "Today we’re releasing the Lovable MCP server in Research Preview.\n\nCreate, iterate on, and deploy apps directly from your terminal or AI agent. Available now. https://t.co/GdNb4bwt8R",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2052418950118650358",
+      "is_kol": false,
+      "score": 1195.0
+    },
+    {
+      "id": "2052394084850159947",
+      "author": "garrytan",
+      "text": "GBrain will soon support multiple topologies\n1/ local PGLite\n2/ multiple thin-clients (e.g. Hermes Agent works with OpenClaw's hosted GBrain MCP server)\n3/ multiple thin-clients WITH local PGLite for code repos (e.g. Claude Code worktrees with code indexing stay local while GBrai",
+      "likes": 297,
+      "views": 0,
+      "url": "https://x.com/i/status/2052394084850159947",
+      "is_kol": false,
+      "score": 996.0
+    },
+    {
+      "id": "2052384015441904000",
+      "author": "Humanityprot",
+      "text": "Humanity's MCP server is live.\n\nAI coding tools can now read our docs as they're written, so you're always getting the latest info.\n\nHere's how it all works 👇 https://t.co/nR0HJWvJXy",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2052384015441904000",
+      "is_kol": false,
+      "score": 613.0
+    },
+    {
+      "id": "2052464197070725334",
+      "author": "davidfowl",
+      "text": "We shipped Aspire 13.3 today! \n\nhttps://t.co/NSuQGxrLvw\n\n- A new skill to aspirefy your existing application\n- Now the agent can see your browser logs\n- You can aspire deploy and any Kubernetes cluster (and aspire destroy)\n\n#aspire @aspiredotdev",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2052464197070725334",
+      "is_kol": false,
+      "score": 533.0
+    },
+    {
+      "id": "2052461967479382150",
+      "author": "socialwithaayan",
+      "text": "I built 30 Claude Skills this year.\n\nNow Claude handles my content workflow\nwithout me re-explaining anything.\n\nHere's every Skill worth building\nas a content creator:\n\nWriting & Publishing\n↳ Write → LinkedIn Post Generator\n↳ Hook → Viral Opener Writer\n↳ Thread → X Thread Builder",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2052461967479382150",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2052651996541497722",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.    \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.    \n\nThe people who watch this tonight will wake up tomorrow with a new skill.    \n\nWatch it and Bookmark it now. https://t.co/aDTs47Ym",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2052651996541497722",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2052373389335994704",
+      "author": "injective",
+      "text": "3/ What USDC on Injective unlocks.\n\nCross-border payments that settle in under a second. AI agents that trade, rebalance, and settle autonomously 24/7 through Injective's MCP server. Micro-transactions at near-zero cost. Continuous settlement at T+0. Weekends and holidays include",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2052373389335994704",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2052300447021682903",
+      "author": "horike37",
+      "text": "セキュリティ関連のインシデントが多い昨今において最高のアップデートやないかい\n\nAWS MCP Server が一般提供（GA）を開始、AI コーディングエージェントから AWS への安全なアクセスが可能になりました https://t.co/UlpAg9xi62 #DevelopersIO",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2052300447021682903",
+      "is_kol": false,
+      "score": 324.0
+    },
+    {
+      "id": "2052471088861290684",
+      "author": "unitygames",
+      "text": "ICYMI: The Unity AI Beta is now available for all developers on Unity 6 and above.\n\nBuild better games faster through: \n- An in-project agentic assistant\n- Bringing your own key with AI Gateway\n- An MCP server to operate from outside apps\n\n🔗 Try it for free: https://t.co/2iHJPyK8",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2052471088861290684",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2052583785515118908",
+      "author": "wsl8297",
+      "text": "平时用 Claude Code 处理事情，每次开新会话都得重新解释一遍背景，Obsidian 里堆了几百个笔记，也只是静静躺着，两边完全没打通。\n\n最近在 GitHub 发现 obsidian-second-brain 这个项目，把 Obsidian 仓库变成一个会自我重写的 AI 第二大脑，作为 Claude Code 的 Skill 来使用。\n\n灵感来自 Karpathy 的 LLM Wiki，但更进一步优化：新内容不再是简单追加，而是直接改写已有笔记，矛盾点会自动调和，跨笔记的隐藏规律也会被整理成新页面。\n\nGitHub：https://t.co/",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2052583785515118908",
+      "is_kol": false,
+      "score": 317.0
+    },
+    {
+      "id": "2052561622732787942",
+      "author": "goyalshaliniuk",
+      "text": "Claude Code can now connect to financial datasets in seconds.\n\nYou can research companies, analyze financial data, access 17,000+ stocks, and pull market insights directly through prompts.\n\nHere’s how to set it up in under 60 seconds:\n\n1. Add the MCP server\n\nOpen Claude Code and ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2052561622732787942",
+      "is_kol": false,
+      "score": 297.0
+    }
+  ]
+}
