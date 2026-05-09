@@ -2050,5 +2050,49 @@
   "kepano/obsidian-skills.git": {
     "first_seen": "2026-05-08",
     "tier": 3
+  },
+  "xquik-dev/x-twitter-scraper": {
+    "first_seen": "2026-05-09",
+    "tier": 2
+  },
+  "freestylefly/awesome-gpt-image-2": {
+    "first_seen": "2026-05-09",
+    "tier": 2
+  },
+  "sohniswatantra/qwen-nosana-mcp": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "sanmuzzzzz/luan1aoagent": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "mcncarl/yichen-skills": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "devton/agentic-workflow-blueprint": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "kzu/xenoatom.skill": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "thomasjiangcy/pkgrep": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "ton-connect/kit": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "sf/public-transport": {
+    "first_seen": "2026-05-09",
+    "tier": 3
+  },
+  "hubeiqiao/gpt-pro-audit": {
+    "first_seen": "2026-05-09",
+    "tier": 3
   }
 }

@@ -1,0 +1,516 @@
+{
+  "date": "2026-05-09",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 188,
+    "tweets_with_repos": 19,
+    "unique_repos": 16,
+    "new_repos": 11,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "xquik-dev/x-twitter-scraper",
+      "github_url": "https://github.com/xquik-dev/x-twitter-scraper",
+      "tier": 2,
+      "is_new": true,
+      "score": 984.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 238,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "burakbayir",
+        "text": "Eğer nasıl bu kadar ucuza 100 binlerce tweeti çektiğimi anlayamadıysanız, yapay zekanıza aşağıdaki komutu gönderin ve istediğiniz soruyu sorun;\nnpx skills add xquik-dev/x-twitter-scraper",
+        "likes": 232,
+        "url": "https://x.com/i/status/2052834652574851462"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052834652574851462",
+        "https://x.com/i/status/2052831760153456871"
+      ]
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "github_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "tier": 2,
+      "is_new": true,
+      "score": 562.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 134,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "canghe",
+        "text": "给 awesome-gpt-image-2 新增了一个 Agent Skill🔥：gpt-image-2-style-library。\n\n它会从项目里的 400+ GPT-Image2 案例、20+ 套工业级提示词模板里，自动帮你匹配合适的分类、风格、场景和模板，然后输出一条可直接复制使用的 GPT Image 2 prompt。\n\n这次也适配了 Claude Code / Codex 这类 agent：\nnpx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-l",
+        "likes": 134,
+        "url": "https://x.com/i/status/2052704047673807184"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052704047673807184"
+      ]
+    },
+    {
+      "repo": "sohniswatantra/qwen-nosana-mcp",
+      "github_url": "https://github.com/sohniswatantra/qwen-nosana-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 330.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 60,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nosana_ai",
+        "text": "Run deploy to Nosana directly from Claude Code!\n\nTry the new community-built MCP server that routes bulk AI work (summarization, code gen, extraction) through your own private GPU.\n\nNo API key, no rate limits, no data leaving your hands 🙌\nhttps://t.co/Sgr9oPiFwB",
+        "likes": 60,
+        "url": "https://x.com/i/status/2052719669740507298"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052719669740507298"
+      ]
+    },
+    {
+      "repo": "sanmuzzzzz/luan1aoagent",
+      "github_url": "https://github.com/sanmuzzzzz/luan1aoagent",
+      "tier": 3,
+      "is_new": true,
+      "score": 282.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Autonomous AI pentesting agent that combines planning, execution, and reflective reasoning to simulate human-like security testing workflows. 💀🔥\n\nLuaN1ao uses causal graph reasoning, dynamic attack planning, MCP-based tool orchestration, RAG-powered security knowledge, and eviden",
+        "likes": 49,
+        "url": "https://x.com/i/status/2052753639865987203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052753639865987203"
+      ]
+    },
+    {
+      "repo": "mcncarl/yichen-skills",
+      "github_url": "https://github.com/mcncarl/yichen-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gengdaJ",
+        "text": "最近打算多更新一些关于Codex有趣玩法和实际赋能业务的长文章，但是大家用过 [X文章编辑器] 的都知道，真的是一坨。。。\n\n所以，我直接让Codex帮我制作了一个上传长文章到X编辑器里面的Skill，实测下来封面图、标题、正文、图片、markdown的其他格式，都非常完美！\n\n建议配合Codex食用，没测过cc，依旧合并到yichen-skill：https://t.co/r2z5BOGzQv\n\n对了，上次微信数据解析skill做了一次更新，体验更丝滑，老粉都知道这个skill的含金量：https://t.co/vdKPrHAWKC",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053052357718487291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053052357718487291"
+      ]
+    },
+    {
+      "repo": "devton/agentic-workflow-blueprint",
+      "github_url": "https://github.com/devton/agentic-workflow-blueprint",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_devton",
+        "text": "@dioogosilv @eduwxyz_ n importa mto o agent no final, so dar um npx skills add devton/agentic-workflow-blueprint, e falar \"blueprinta essa porra toda\"",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052889561177440399"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052889561177440399"
+      ]
+    },
+    {
+      "repo": "kzu/xenoatom.skill",
+      "github_url": "https://github.com/kzu/xenoatom.skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kzu",
+        "text": "If you're playing with @xoofx XenoAtom.Terminal.UI, @GitHubCopilot built a skill from its entire docs site for improved LLM success with it: \n\n    npx skills add kzu/XenoAtom.Skill\n\n(until get it built-in ;) https://t.co/U0UkNdQXnA)",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052840168676069879"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052840168676069879"
+      ]
+    },
+    {
+      "repo": "thomasjiangcy/pkgrep",
+      "github_url": "https://github.com/thomasjiangcy/pkgrep",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thomasjiangcy",
+        "text": "i've been using a simple tool i vibed out for a lot of work related to interacting with 3rd party libs/projects\n\nhttps://t.co/9fGRNRi2vi\n\nI usually use it with Codex CLI via the built-in skill:",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053033571510808663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053033571510808663"
+      ]
+    },
+    {
+      "repo": "ton-connect/kit",
+      "github_url": "https://github.com/ton-connect/kit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlejandroN99884",
+        "text": "npx skills add ton-connect/kit/packages/mcp",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052937966679417190"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052937966679417190"
+      ]
+    },
+    {
+      "repo": "sf/public-transport",
+      "github_url": "https://github.com/sf/public-transport",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xxxxoooxoxo",
+        "text": "npx skills add sf/public-transport https://t.co/YcPmgf0D1X",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052928548504232184"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052928548504232184"
+      ]
+    },
+    {
+      "repo": "hubeiqiao/gpt-pro-audit",
+      "github_url": "https://github.com/hubeiqiao/gpt-pro-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hubeiqiao",
+        "text": "I made a small skill called gpt-pro-audit.\n\nIt’s a nice way to use GPT-5.5 Pro before Codex supports it directly.\n\nIt grabs repo context, sends it to GPT-5.5 Pro for a ruthless review, then loops with it until the plan is actually approved.\n\nnpx skills add hubeiqiao/gpt-pro-audit",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052860131403010459"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052860131403010459"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 303.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SisilyNora",
+        "text": "@AIDailyGems 333% tracks. Most fails are DOM drift, not reasoning. npx skills add browser-act/skills --skill browser-act, then state indexes elements so agents click by idx, not CSS.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2052945243943915656"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052947481995202564",
+        "https://x.com/i/status/2052946366381650033",
+        "https://x.com/i/status/2052945243943915656"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 1314.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 378,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LexnLin",
+        "text": "The prompt for creating this was:\n\n\"Based on the skill above, generate images for a website. The design should include eight sections, with one image per section, for a total of eight distinct images.  \nResearch about codex (openai/agent app) and create a premium modern website f",
+        "likes": 378,
+        "url": "https://x.com/i/status/2052801850206785915"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052801850206785915"
+      ]
+    },
+    {
+      "repo": "camel-ai/crab",
+      "github_url": "https://github.com/camel-ai/crab",
+      "tier": 3,
+      "is_new": false,
+      "score": 394.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 83,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guohao_li",
+        "text": "fine, we are not even on the list 👌😆 although we keep no stopping building in open source rl envs from 2024 \n\nGUI envs: https://t.co/T1nBheiotF\nLong-CoT envs: https://t.co/mQ0Y2qQKOr\nMulti-turn tool call envs: https://t.co/fL7FAa1EGV\nTerminal envs: https://t.co/dsntPFLZSi\nMCP env",
+        "likes": 83,
+        "url": "https://x.com/i/status/2051877202070008135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2051877202070008135"
+      ]
+    },
+    {
+      "repo": "makerjackie/skills",
+      "github_url": "https://github.com/makerjackie/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maker_jackie",
+        "text": "推荐一个让你脑子清醒一点的高压 Skill ，适合脑子里有一个产品idea / 想创业的伙伴。这个技能有点高压锅，虽然但是挺推荐[旺柴] 输入了一个 idea ，疯狂骂我，让我清醒了一点点 [旺柴]\n---\n安装：\nnpx skills add makerjackie/skills --skill startup-pressure-test -y -g\n---\n\n使用方法：在任意 AI Agent 中（codex/claude code/trae...）输入\n\n/startup-pressure-test  【你的创业/产品想法】",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052952559724421177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052952559724421177"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "regiep4",
+        "text": "Clawwire Daily Skill Radar — 2026-05-08\n\nToday’s clearest operator themes are skill-surface reliability and more explicit runtime truth: OpenClaw 2026.5.7 tightened plugin publishing recovery, status visibility, and session reset behavior, and that makes cleaner skill packaging p",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052947114930704665"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052947114930704665"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2052769412449456337",
+      "author": "dani_avila7",
+      "text": "I just became a Claude Certified Architect 🙌\n\nAnthropic's first technical certification, focused on designing and shipping production-grade applications with Claude at the enterprise level\n\nCategories covered:\n- Agentic architecture and orchestration\n- Tool design and MCP integra",
+      "likes": 932,
+      "views": 0,
+      "url": "https://x.com/i/status/2052769412449456337",
+      "is_kol": false,
+      "score": 3091.0
+    },
+    {
+      "id": "2052873208668524917",
+      "author": "kylejeong",
+      "text": "OpenClaw can use Autobrowse to create and iteratively improve a Skill for any workflow.\n\nIn this Craigslist extraction example we found a 68% speed up and 91% cost savings in 5 iterations. \n\nHalfway through, the agent found an exposed endpoint to speed up page navigation. https:/",
+      "likes": 330,
+      "views": 0,
+      "url": "https://x.com/i/status/2052873208668524917",
+      "is_kol": false,
+      "score": 1150.0
+    },
+    {
+      "id": "2052770171224482188",
+      "author": "ClaudeDevs",
+      "text": "1/ Stability\n\n• claude -p now handles >10MB of piped stdin\n• Requests resume cleanly after waking a Mac from sleep\n• Memory stays bounded when a stdio MCP server writes non-protocol data to stdout (was growing past 10GB)\n• Output now appears reliably after thinking completes",
+      "likes": 329,
+      "views": 0,
+      "url": "https://x.com/i/status/2052770171224482188",
+      "is_kol": false,
+      "score": 1027.0
+    },
+    {
+      "id": "2052919852541878626",
+      "author": "VincentLogic",
+      "text": "别再纠结选 Codex 还是 Claude Code 了！\n测了数十个 Agent 后发现，真正决定生产力上限的，不是工具本身，而是你配置的 Skills（技能）。\n今天分享 4 组顶级 Skills，让你的 AI 瞬间进化成一支专业团队！👇\n1️⃣ 元能力扩展 (Meta Skills)\nSkill Creator: 不需要懂代码，用大白话描述需求，AI 自动帮你写 Skill、测试、迭代。\nFind Skills: 不知道用什么工具？直接让 AI 去 https://t.co/TkYExnbfrR 全网搜索、评估安装量，一键安装最靠谱的现成技能。\n2",
+      "likes": 194,
+      "views": 0,
+      "url": "https://x.com/i/status/2052919852541878626",
+      "is_kol": false,
+      "score": 787.0
+    },
+    {
+      "id": "2052889809287352758",
+      "author": "ZypherHQ",
+      "text": "Would people be interested in an open-source project that helps improve prompts or generate skill/agent files for specific tasks?\n\nFree and open-source.\n\nI keep noticing something while browsing X.\n\nPrompt engineering, agentic engineering, and skills are still heavily underrated.",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2052889809287352758",
+      "is_kol": false,
+      "score": 508.0
+    },
+    {
+      "id": "2052868008322781211",
+      "author": "mikefutia",
+      "text": "Claude Code Can Now Watch ANY Video\n\nHere's how to give Claude the ability to watch & analyze any video. \n\n0:00 - Claude Code Can Now Watch Any Video\n0:21 - Demo: Analyzing a Grüns UGC Ad\n1:32 - Inside the Video Analyzer Skill Output\n2:53 - Why Gemini API\n3:41 - How to Install th",
+      "likes": 149,
+      "views": 0,
+      "url": "https://x.com/i/status/2052868008322781211",
+      "is_kol": false,
+      "score": 482.0
+    },
+    {
+      "id": "2052880163336311221",
+      "author": "coolish",
+      "text": "通宵手搓了个逆天的全网首创“X Skill”，\n去睡前先大致说下：\n实时语音Agent，不仅能拉它上 X Space 跟多人语音，\n而且还能在语音中，光动嘴就指挥它在 X 上“做事”。\n\n如图1，在实时语音中，\n我（或者甚至其他发言人）可以跟Agent说：\n\n“你搜一下 X 上关于减肥针风险的推文，\n把最靠谱的推文 URL 发到这个 Space 下的评论区。”\n\n然后它就真的做到了！（图2）\n\n核心是：\nGrok 的各个模型，包括实时语音模型API，\n都具有自然语言发起“Function Calling”的能力\n（图3）\n用这个去调用 X 账号的OAut",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2052880163336311221",
+      "is_kol": false,
+      "score": 376.0
+    },
+    {
+      "id": "2052971568783856003",
+      "author": "iansh04_",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.  \n\nSpend 1 hour with this.  \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.  \n\nThe people who watch this tonight will wake up tomorrow with a new skill.  \n\nWatch it and Bookmark it now. https://t.co/T224aKPTwB",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2052971568783856003",
+      "is_kol": false,
+      "score": 353.0
+    },
+    {
+      "id": "2053021090939564084",
+      "author": "druids01",
+      "text": "Built an AI UI Researcher using @mobbin MCP and my Custom Skill in Claude.\n\nLink to Skill Below: https://t.co/PlCsjngqN1",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2053021090939564084",
+      "is_kol": false,
+      "score": 340.0
+    },
+    {
+      "id": "2052760729871118737",
+      "author": "MyCreativeOwls",
+      "text": "How to connect @Lovable MCP Server to @claudeai in 60 secs\n\nBookmark for later 🔋 https://t.co/jfpqmjIU1j",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2052760729871118737",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2052735413035372727",
+      "author": "n8n_io",
+      "text": "“Create an n8n workflow that emails me a daily weather forecast at 7am.”\nMinutes later: a working workflow in n8n.\nn8n’s MCP server can build/update workflows from Claude, ChatGPT, Cursor, or your IDE.\nhttps://t.co/Daa76USnuL",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2052735413035372727",
+      "is_kol": false,
+      "score": 304.0
+    },
+    {
+      "id": "2052804704791323023",
+      "author": "yanndine",
+      "text": "I just built a complete Claude Code agent playbook covering how to build GTM agents, 32 tricks across every skill level, and 6 copy-paste skills ready to install today.\n\nFeed it your current GTM workflows, your biggest session management problems, and your most repetitive manual ",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2052804704791323023",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2052716490101825938",
+      "author": "Akasheth_",
+      "text": "we’re living through one of the biggest shifts in tech rn\n\nnever been a better time to learn:\n• AI agents\n• RAG pipelines\n• VectorDBs\n• MCP servers\n• tool calling\n• eval systems\n• memory layers\n• multimodal apps\n• browser automation\n• voice AI\n• local/open-source models\n• inferen",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2052716490101825938",
+      "is_kol": false,
+      "score": 278.0
+    },
+    {
+      "id": "2052809146072695187",
+      "author": "flow_blockchain",
+      "text": "Introducing a new Claude plugin: Flow AI Tools.  \n\nSkills covering Cadence, React SDK, smart contracts, & more, plus a Cadence MCP server that lets Claude run scripts & deploy contracts on Flow\n\nBuild apps on Flow without writing a single line of code. Get started today 🧵⤵️",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2052809146072695187",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2052770175162937768",
+      "author": "ClaudeDevs",
+      "text": "4/ MCP\n\n• Servers that connect but fail tool listing now retry and show a clear status in /mcp\n• Tool results with images and structured content now keep the images\n• Reconnecting servers announce a summary instead of their full tool list",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2052770175162937768",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2052861304885723340",
+      "author": "bstaples",
+      "text": "Moving your repo to GitLab is easy, migrating GitHub actions is harder... until now. The team just shipped a new agentic skill that works with Cursor, Claude, VS Code, Codex and others, give it a try. Enjoy the freedom of a cloud and model neutral platform where you're in control",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2052861304885723340",
+      "is_kol": false,
+      "score": 254.0
+    }
+  ]
+}
