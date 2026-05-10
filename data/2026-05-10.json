@@ -1,0 +1,506 @@
+{
+  "date": "2026-05-10",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 193,
+    "tweets_with_repos": 18,
+    "unique_repos": 18,
+    "new_repos": 14,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "mvanhorn/printing-press-library",
+      "github_url": "https://github.com/mvanhorn/printing-press-library",
+      "tier": 3,
+      "is_new": true,
+      "score": 336.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mvanhorn",
+        "text": "Introducing the @digg CLI with a Claude Code Skill, OpenClaw Skill and Hermes Skill made with @ppressdev.  I am loving using the CLI to use the new Digg.  Thanks @kevinrose @addison @JustinMezzell https://t.co/OsAOajkHSR https://t.co/NGPWfqErSn",
+        "likes": 72,
+        "url": "https://x.com/i/status/2053235175841214568"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053235175841214568"
+      ]
+    },
+    {
+      "repo": "aeon-7/unifi-ai-network-management",
+      "github_url": "https://github.com/aeon-7/unifi-ai-network-management",
+      "tier": 3,
+      "is_new": true,
+      "score": 159.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SpaceTimeViking",
+        "text": "If you have a Unifi network, you can now give your Agent access through my newly published Unifi AI skill. Will work with both OpenClaw and Hermes. \n\nTake active action against threats, optimize network performance, analyze event logs, manage port forwards and advanced firewall c",
+        "likes": 13,
+        "url": "https://x.com/i/status/2053275285403947310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053275285403947310"
+      ]
+    },
+    {
+      "repo": "krisrice/oracle-db-skills",
+      "github_url": "https://github.com/krisrice/oracle-db-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 156.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OracleDevs",
+        "text": "Want to up level your assistant's Oracle AI Database skills with one command? Kris Rice is here to help. 👇 \n\n&gt; npx skills add krisrice/oracle-db-skills &lt; https://t.co/IelrImI7Gj",
+        "likes": 12,
+        "url": "https://x.com/i/status/2053231035345694731"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053231035345694731"
+      ]
+    },
+    {
+      "repo": "arkiv-network/skills",
+      "github_url": "https://github.com/arkiv-network/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arkivnetwork",
+        "text": "Braga Testnet = upgraded ARKIV AI agent skill 🤖\n\nMigrate your apps from Kaolin to Braga in 2⃣ steps:\n\n1⃣ Install or update the ARKIV AI agent skill using: \n`npx skills add arkiv-network/skills`\n\n2⃣ Ask agent to: \"Migrate my app from Kaolin to Braga\"\n\nhttps://t.co/TrHmzmEsxh https",
+        "likes": 8,
+        "url": "https://x.com/i/status/2053112762335977502"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053112762335977502"
+      ]
+    },
+    {
+      "repo": "live-codes/livecodes",
+      "github_url": "https://github.com/live-codes/livecodes",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hatem_hosny_",
+        "text": "npx skills add live-codes/livecodes\n\n\"Create a page with a code playground that can run python and shows the console output. Use React and TypeScript.\" https://t.co/t0DJSJdELE",
+        "likes": 2,
+        "url": "https://x.com/i/status/2053251254889980278"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053251254889980278"
+      ]
+    },
+    {
+      "repo": "jkc66/custom-icons-skill",
+      "github_url": "https://github.com/jkc66/custom-icons-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "C1B_nb",
+        "text": "made a skill to create custom icons (svg and png) \n\nas far as i know it works in codex and antigravity (both have img models)\n\ninstall:\nnpx skills add jkc66/custom-icons-skill\n\ngithub:\nhttps://t.co/TY4tGbaYMP https://t.co/GlH5n4wQOh",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053198980188626970"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053198980188626970"
+      ]
+    },
+    {
+      "repo": "flutter/skills",
+      "github_url": "https://github.com/flutter/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rosie_codes",
+        "text": "Flutter/Skills: pre-built workflows that teach AI agents Flutter best practices — integration tests, responsive layouts, architecture patterns. Works with any agent. From the Flutter team. `npx skills add flutter/skills` #Flutter #LLM #OpenSource\n\n🔗 Link in the comments",
+        "likes": 2,
+        "url": "https://x.com/i/status/2053127862287245674"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053127862287245674"
+      ]
+    },
+    {
+      "repo": "tobewin/hyperframes-video-studio",
+      "github_url": "https://github.com/tobewin/hyperframes-video-studio",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LaughInWind1",
+        "text": "\"AI is awakening.\" 25-sec tech short, fully auto-generated with @OpenClaw + Hyperframes Video Studio Skill. Zero manual editing. #AI #OpenClaw #Hyperframes\nhttps://t.co/3anOBFbIt9\nhttps://t.co/LZQ6y7p9S9 https://t.co/sRDXhZu5Yt",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053396036518137987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053396036518137987"
+      ]
+    },
+    {
+      "repo": "zhuyansen/daily-alpha-scanner",
+      "github_url": "https://github.com/zhuyansen/daily-alpha-scanner",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "4️⃣ 怎么用？\nStep 1: 安装 OKX 链上技能包\n\nnpx skills add okx/onchainos-skills\n\nStep 2: 安装 Daily Alpha Scanner\n\nnpx skills add zhuyansen/daily-alpha-scanner\n\nStep 3: 申请 OKX Web3 API Key（免费）\n\n打开 https://t.co/Vo7P8G0TzA 授权钱包 → 选择初创级 → 复制 Key\n\nexport OKX_API_KEY=\"your-key\"export OKX_SECRET_KEY=",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053391052422459520"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053391052422459520"
+      ]
+    },
+    {
+      "repo": "alemart87/chatia-skill",
+      "github_url": "https://github.com/alemart87/chatia-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alemart87",
+        "text": "npx skills add alemart87/chatia-skill --skill chatia -a claude-code -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053220846236291245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053220846236291245"
+      ]
+    },
+    {
+      "repo": "millionco/react-doctor",
+      "github_url": "https://github.com/millionco/react-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joulev_3",
+        "text": "@aidenybai npx skills add millionco/react-doctor\nworks too (sort of...)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053165834969960716"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053165834969960716"
+      ]
+    },
+    {
+      "repo": "vibedx/vibekit",
+      "github_url": "https://github.com/vibedx/vibekit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "opusaku",
+        "text": "try it:\nnpx skills add vibedx/vibekit\n\nhttps://t.co/2rD3rLvL3X",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053127184089280842"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053127184089280842"
+      ]
+    },
+    {
+      "repo": "hahadu4520/vlog-cut",
+      "github_url": "https://github.com/hahadu4520/vlog-cut",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AbleGPT",
+        "text": "【实用】vlog剪辑skill，Codex也能用！\n刷到一个博主的开源剪辑skill，看起来效果还不错！一段口播 + 一个素材文件夹 → 带中文字幕的成片，全程在你审下推进\n适合vlogger、旅拍、解说类创作者，文案先行；采取「先粗剪、再去 Final Cut 精修」的工作流\n有需求可以试试\n地址：https://t.co/jLiX1Au3Tq https://t.co/s8yegWgmgk",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053406439293775967"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053406439293775967"
+      ]
+    },
+    {
+      "repo": "binaryfroggy/codex-pet-generator-skill",
+      "github_url": "https://github.com/binaryfroggy/codex-pet-generator-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "phylosaSpencer",
+        "text": "制作了一个用来生成codex pet的skill，使用下来效果还不错~分享一下\nhttps://t.co/fgaDmtn99X https://t.co/PBt63PWAsP",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053394022283268196"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053394022283268196"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "sanmuzzzzz/luan1aoagent",
+      "github_url": "https://github.com/sanmuzzzzz/luan1aoagent",
+      "tier": 3,
+      "is_new": false,
+      "score": 324.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Autonomous AI pentesting agent that combines planning, execution, and reflective reasoning to simulate human-like security testing workflows. 💀🔥\n\nLuaN1ao uses causal graph reasoning, dynamic attack planning, MCP-based tool orchestration, RAG-powered security knowledge, and eviden",
+        "likes": 58,
+        "url": "https://x.com/i/status/2052753639865987203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052753639865987203"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "1️⃣ OKX OnchainOS 是什么\nOKX 刚开源了一套链上 AI Agent 工具包：onchainos-skills\n\n一行命令安装 18 个链上技能：\n\nnpx skills add okx/onchainos-skills\n覆盖 DEX 交易全链路： · 代币搜索 / 热门榜 / K线 / 盈亏分析 · 聪明钱 / KOL / 鲸鱼信号追踪 · Meme 扫链（https://t.co/KBcC4pNhaq / fourmeme） · 安全扫描（蜜罐 / 假LP / 增发检测） · DEX 聚合兑换 / 跨链桥接 · Agentic Wa",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053391045942288801"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053391052422459520",
+        "https://x.com/i/status/2053391045942288801"
+      ]
+    },
+    {
+      "repo": "makerjackie/skills",
+      "github_url": "https://github.com/makerjackie/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maker_jackie",
+        "text": "推荐一个让你脑子清醒一点的高压 Skill ，适合脑子里有一个产品idea / 想创业的伙伴。这个技能有点高压锅，虽然但是挺推荐[旺柴] 输入了一个 idea ，疯狂骂我，让我清醒了一点点 [旺柴]\n---\n安装：\nnpx skills add makerjackie/skills --skill startup-pressure-test -y -g\n---\n\n使用方法：在任意 AI Agent 中（codex/claude code/trae...）输入\n\n/startup-pressure-test  【你的创业/产品想法】",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052952559724421177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052952559724421177"
+      ]
+    },
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SisilyNora",
+        "text": "@Marktechpost SSigned-in state is the unlock. Most agent crashes I hit were login flows. npx skills add browser-act/skills --skill browser-act runs on your actual Chrome, no re-auth.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2052947481995202564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052947481995202564"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2053153019366363387",
+      "author": "aidenybai",
+      "text": "Introducing React Doctor Agent Skill\n\nYour agent can now catch bad React code and fix it too \n\nnpx react-doctor@latest install https://t.co/pzur6aHFGq",
+      "likes": 1141,
+      "views": 0,
+      "url": "https://x.com/i/status/2053153019366363387",
+      "is_kol": false,
+      "score": 3733.0
+    },
+    {
+      "id": "2053047021511250431",
+      "author": "moneynena",
+      "text": "Claude Certified Architect라는 자격증이 나옴\n\n생각보다 꽤 실무 중심임. \nAgentic Workflow, MCP Tool Integration, Context / Memory 관리, Structured Output, Claude Code, Production Reliability 같은 내용들이 포함돼있다함\n\n예전엔 그냥 모델 잘 붙이고 프롬프트 잘 쓰면 됐는데 이제는 AI를 실제 서비스처럼 안정적으로 굴리는 능력을 보기 시작하는 중\n\n툴 연결하고, 컨텍스트 안 꼬이게 관리하",
+      "likes": 365,
+      "views": 0,
+      "url": "https://x.com/i/status/2053047021511250431",
+      "is_kol": false,
+      "score": 1750.0
+    },
+    {
+      "id": "2053350579389571542",
+      "author": "ClaudeCode_UT",
+      "text": "【衝撃】\n日本人が世界より先に発見した\nClaude Code の真の使い方が\n海外で大バズ中😳\n\n結論から言うと⏬\n\n「Find Skills」というツールを入れて\nやりたいことを書くだけで\n何百もの Skill から最適なものを\nAI が自動で選んでくれる仕組み\n\nSkill が増えすぎて\n何を使えばいいか分からない問題、\nこれ1つで解決する\n\n週末にチェック推奨です👀",
+      "likes": 390,
+      "views": 0,
+      "url": "https://x.com/i/status/2053350579389571542",
+      "is_kol": false,
+      "score": 1325.0
+    },
+    {
+      "id": "2053306243704410460",
+      "author": "garrytan",
+      "text": "GBrain v0.31.1 just shipped real MCP thin client support. So basically you can run ONE \"home GBrain server\" and everything else can just connect to it via MCP and it'll work pretty close to as well as running it locally.\n\nGBrain just went client-server. https://t.co/WEAV1gW6B1",
+      "likes": 282,
+      "views": 0,
+      "url": "https://x.com/i/status/2053306243704410460",
+      "is_kol": false,
+      "score": 941.0
+    },
+    {
+      "id": "2053128200260382971",
+      "author": "berryxia",
+      "text": "Perplexity也开始开源！大发慈悲！\n\n直接把agent skill的构建规则彻底改写了。\n\n他们刚刚公开了内部手册：构建agent skill需要一种全新的开发者思维方式。\n\n研究文章在这里👉 https://t.co/QOfDqalGdg",
+      "likes": 167,
+      "views": 0,
+      "url": "https://x.com/i/status/2053128200260382971",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2053098123074105705",
+      "author": "shao__meng",
+      "text": "Perplexity 团队内部 Agent Skills 设计、迭代与维护之道\n\nPerplexity Agents 团队的内部规范公开版，核心论点很反直觉：写 Skill 不是写代码，而是为模型构建上下文。把工程师写代码的本能直接套到 Skill 上，几乎一定会失败。\nhttps://t.co/OwzfUf5v2H\n\n# Skill ≠ 代码，以 Python 信条和 Skill 反信条为例\n\n· Python：Simple is better than complex，Skill：Skill 是文件夹，复杂性是特性\n· Python：Explicit",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2053098123074105705",
+      "is_kol": true,
+      "score": 639.0
+    },
+    {
+      "id": "2053167196596027668",
+      "author": "angeldot_",
+      "text": "Anthropic acaba de lanzar una guía completa sobre \"Skills\" para Claude.\n\n¿Qué es una Skill?\n\nUn archivo de instrucciones que le das a Claude una sola vez.\n\nDespués, él sabe hacer el trabajo sin que tengas que volver a explicárselo en cada conversación.\n\nEjemplo concreto:\n\nPasas 1",
+      "likes": 169,
+      "views": 0,
+      "url": "https://x.com/i/status/2053167196596027668",
+      "is_kol": false,
+      "score": 637.0
+    },
+    {
+      "id": "2053092680444654059",
+      "author": "RAVIKUMARSAHU78",
+      "text": "Most AI agents forget everything after the chat ends.\n\nMaxHermes doesn’t.\n\nEvery completed task can become a reusable skill, so the agent keeps getting better the more you use it.\n\n🪬👇 https://t.co/hcarKpbvDS",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2053092680444654059",
+      "is_kol": false,
+      "score": 535.0
+    },
+    {
+      "id": "2053318086745633104",
+      "author": "codewithimanshu",
+      "text": "Anthropic's applied AI team just dropped a 24-minute workshop on how to actually prompt Claude properly.  \n\nFree. From the people who built it.  \n\nYou've been prompting Claude for months without the 6 elements they teach in this.  \n\nI built a skill that applies them automatically",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2053318086745633104",
+      "is_kol": false,
+      "score": 416.0
+    },
+    {
+      "id": "2053174400594092293",
+      "author": "igoryuzo",
+      "text": ".@opensea Skill is live on @bankrbot Skills directory\n\nyour agent can now query NFT data, check collections, sweep floors, and swap tokens cross-chain\n\nhappy weekend hacking 😎 https://t.co/T2egZZOkiU",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2053174400594092293",
+      "is_kol": false,
+      "score": 407.0
+    },
+    {
+      "id": "2053136663451217938",
+      "author": "rwayne",
+      "text": "Codex 用法已经被 OpenClaw 创始人写在墙上了。\n\nCodex 不靠你写更长 prompt 提升表现，靠你给它装更多 skill 文件。skill 装到位，prompt 一两句话就能跑全流程。\n\nAnthropic 在 Claude Code 上做的这套生态，OpenAI 已经在 Codex 完全对齐了照搬。\n\nprompt 工程师这个职业，已经快被 skill 工程师吃掉了。",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2053136663451217938",
+      "is_kol": false,
+      "score": 300.0
+    }
+  ]
+}

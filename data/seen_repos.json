@@ -2094,5 +2094,61 @@
   "hubeiqiao/gpt-pro-audit": {
     "first_seen": "2026-05-09",
     "tier": 3
+  },
+  "mvanhorn/printing-press-library": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "aeon-7/unifi-ai-network-management": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "krisrice/oracle-db-skills": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "arkiv-network/skills": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "live-codes/livecodes": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "jkc66/custom-icons-skill": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "flutter/skills": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "tobewin/hyperframes-video-studio": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "zhuyansen/daily-alpha-scanner": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "alemart87/chatia-skill": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "millionco/react-doctor": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "vibedx/vibekit": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "hahadu4520/vlog-cut": {
+    "first_seen": "2026-05-10",
+    "tier": 3
+  },
+  "binaryfroggy/codex-pet-generator-skill": {
+    "first_seen": "2026-05-10",
+    "tier": 3
   }
 }
