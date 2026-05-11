@@ -2150,5 +2150,57 @@
   "binaryfroggy/codex-pet-generator-skill": {
     "first_seen": "2026-05-10",
     "tier": 3
+  },
+  "vechain/vechain-mcp-server": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "containers/kubernetes-mcp-server": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "fasqua/kausalayer-mcp": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "aeroxy/chrome-devtools-cli": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "rafa-thayto/skills": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "devesh1011/ycombinator-skills": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "heredotnow/skill": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "gausoft/markpdf-skill": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "wxkingstar/ai-output-runtime": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "conalyz/conalyz_cli": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "saidsurucu/yoktez-mcp": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "jtshow/medusa": {
+    "first_seen": "2026-05-11",
+    "tier": 3
+  },
+  "yatmn/skillsman": {
+    "first_seen": "2026-05-11",
+    "tier": 3
   }
 }

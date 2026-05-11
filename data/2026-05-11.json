@@ -1,0 +1,517 @@
+{
+  "date": "2026-05-11",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 183,
+    "tweets_with_repos": 20,
+    "unique_repos": 20,
+    "new_repos": 13,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "vechain/vechain-mcp-server",
+      "github_url": "https://github.com/vechain/vechain-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 314.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vechainofficial",
+        "text": "Integrating the Model Context Protocol (MCP) into VeChainThor is significant. Why?\n\nAI agents use MCP as a universal communication tool across platforms and services. With VeChain's, they are able to read on-chain state, initiate transactions, and query smart contracts without hu",
+        "likes": 53,
+        "url": "https://x.com/i/status/2053799433888829814"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053799433888829814"
+      ]
+    },
+    {
+      "repo": "containers/kubernetes-mcp-server",
+      "github_url": "https://github.com/containers/kubernetes-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 249.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NaveenS16",
+        "text": "🖥️ containers/kubernetes-mcp-server\n\nBy exposing #Kubernetes through the #MCP, we’ve given #AIagents a safe read-write seat at the table. They can audit cluster state and run kubectl commands through a controlled interface. The AI-operator has arrived.\n\nhttps://t.co/KRAt84Lnuh",
+        "likes": 38,
+        "url": "https://x.com/i/status/2053183033038328082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053183033038328082"
+      ]
+    },
+    {
+      "repo": "fasqua/kausalayer-mcp",
+      "github_url": "https://github.com/fasqua/kausalayer-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kausalayer",
+        "text": "KausaLayer MCP Server v1.7.0 is live with 47 tools.\nA comprehensive privacy toolkit for AI agents on Solana.\n\nBefore this update, agents could create stealth wallets, route funds privately, swap tokens, and monetize APIs. But they had no way to send private payments to someone wi",
+        "likes": 31,
+        "url": "https://x.com/i/status/2053557504580428038"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053557504580428038"
+      ]
+    },
+    {
+      "repo": "aeroxy/chrome-devtools-cli",
+      "github_url": "https://github.com/aeroxy/chrome-devtools-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "通过轻量级 Rust CLI 直接连接已有 Chrome 浏览器的 DevTools Protocol，替代 MCP server 的重量级上下文开销，实现浏览器自动化操作。\n\nhttps://t.co/2E2zz6TzW2\n\nRust 写的 CLI，走 DevTools Protocol 直连本地 Chrome，默认自动连接不用手动填 WebSocket URL。",
+        "likes": 36,
+        "url": "https://x.com/i/status/2053611043407138913"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053611043407138913"
+      ]
+    },
+    {
+      "repo": "rafa-thayto/skills",
+      "github_url": "https://github.com/rafa-thayto/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thayto_dev",
+        "text": "today I launched my own skills\n\nnpx skills add rafa-thayto/skills\n\n- /address-my-prs-thayto\n- /pr-review-opinionated-thayto\n- /self-review-thayto\n- /simplify-thayto\n- /write-issue-thayto",
+        "likes": 20,
+        "url": "https://x.com/i/status/2053637046523052120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053637046523052120"
+      ]
+    },
+    {
+      "repo": "devesh1011/ycombinator-skills",
+      "github_url": "https://github.com/devesh1011/ycombinator-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "deveshcodes_",
+        "text": "I just built @ycombinator Skills.\n\nnpx skills add devesh1011/ycombinator-skills\n\nWith one command, your coding agents now have access to:\n> 5,886 YC startups across 49 batches (2005–2026)\n\nUse the skills to brainstorm ideas for your new saas in different niches.\nhttps://t.co/tO8Q",
+        "likes": 6,
+        "url": "https://x.com/i/status/2053722250231394544"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053722250231394544"
+      ]
+    },
+    {
+      "repo": "heredotnow/skill",
+      "github_url": "https://github.com/heredotnow/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomolld",
+        "text": "以下を貼り付けてください\nI'd like you to set up https://t.co/Jp9B4RqpKw: the web hosting and cloud storage service for agents.\n\nInstall as a skill if I have npm: npx skills add heredotnow/skill --skill here-now -g\n\nIf not, do this instead: curl -fsSL https://t.co/zSXANsHDzY | bash",
+        "likes": 2,
+        "url": "https://x.com/i/status/2053754982931779787"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053754982931779787"
+      ]
+    },
+    {
+      "repo": "gausoft/markpdf-skill",
+      "github_url": "https://github.com/gausoft/markpdf-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gausoft_",
+        "text": "Your AI gives you markdown.\n\nhttps://t.co/QbRpyZ0fnh just shipped a free, open-source skill that turns it into a polished PDF — straight from Claude Code.\n\nOne install. Backed by our hosted MCP server.\n\nnpx skills add gausoft/markpdf-skill -a claude-code\n\nhttps://t.co/BIoGCnPchU ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053796006223831278"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053796006223831278"
+      ]
+    },
+    {
+      "repo": "wxkingstar/ai-output-runtime",
+      "github_url": "https://github.com/wxkingstar/ai-output-runtime",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xinwang454144",
+        "text": "Open-sourced ai-output-runtime-g: an AIO v0.1 skill/runtime for structured AI reports.\n\nInspired by the Claude Code “HTML over Markdown” discussion.\n\nMarkdown stays source; JSON blocks render safely. No AI HTML/CSS/JS.\n\nInstall:\nnpx skills add wxkingstar/ai-output-runtime -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053803149958521334"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053803149958521334"
+      ]
+    },
+    {
+      "repo": "conalyz/conalyz_cli",
+      "github_url": "https://github.com/conalyz/conalyz_cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "conalyz",
+        "text": "Here's how simple it is:\n\n\"npx skills add conalyz/conalyz_cli\"\n\nThat's it.\n\nNow open your AI agent and ask: \"Check my Flutter app for accessibility issues.\"\n\nIt scans your entire codebase and returns a full #accessibility report inside your editor.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053645681592820094"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053645681592820094"
+      ]
+    },
+    {
+      "repo": "saidsurucu/yoktez-mcp",
+      "github_url": "https://github.com/saidsurucu/yoktez-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yapayzekahocasi",
+        "text": "YÖK Atlas'tan sonra TÖK Tez'in sitesi de değişmiş. YÖK Tez MCP'yi yeni altyapıya göre güncelledim.\n\nYÖK Tez MCP ile yapay zeka araçları tezleri arayıp okuyabiliyor.\n\nGithub'da yıldızlamayı unutmayın: https://t.co/b0BLgFKbju",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053811999239188766"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053811999239188766"
+      ]
+    },
+    {
+      "repo": "jtshow/medusa",
+      "github_url": "https://github.com/jtshow/medusa",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheJTShow2024",
+        "text": "For my technical AI agent followers. I just shipped Medusa Skill Framework 0.12 for your Openclaw @openclaw and Hermes @NousResearch needs.\n\nIt now has a dream skill diary, multi agent use cli, etc based off @AnthropicAI Claude dreaming feature.\n\nhttps://t.co/FxIUh9kd5Z",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053713719117730178"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053713719117730178"
+      ]
+    },
+    {
+      "repo": "yatmn/skillsman",
+      "github_url": "https://github.com/yatmn/skillsman",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yatmv",
+        "text": "我现在的做法把常用 https://t.co/PqtSlRyePg 的安装命令按场景分组，比如写作、开发、项目管理，然后放到一个 GitHub repo 里。\n里面再放一个 shell 管理脚本 + 一个管理skill。这样既可以命令行安装，也可以直接跟 Codex / Claude Code 说：“这个项目是 xx 场景把 skills 装一下”。\nhttps://t.co/8PlQBCU8iY",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053811522057716133"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053811522057716133"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "tier": 2,
+      "is_new": false,
+      "score": 822.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 184,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VincentLogic",
+        "text": "发现个 Claude Code 的神级 Skill，画图颜值真的吊打 Mermaid 和 https://t.co/ZPDFPSUIlj！\n\nfireworks-tech-graph，只要你一句话，它直接给你吐出生产级别的 SVG+PNG 技术图。\n\n最绝的是它有 7 种神仙画风：深色终端风、工程蓝图风、毛玻璃风，甚至还能模仿 OpenAI 和 Claude 的官方配色风格。\n\n支持 14 种 UML 图，像 RAG 架构、多智能体协作这种复杂图，一句\"帮我画个 RAG 架构图，深色风格\"直接搞定。\n\n安装贼简单，一行命令 `npx skills add",
+        "likes": 184,
+        "url": "https://x.com/i/status/2053705949848944970"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053705949848944970"
+      ]
+    },
+    {
+      "repo": "sanmuzzzzz/luan1aoagent",
+      "github_url": "https://github.com/sanmuzzzzz/luan1aoagent",
+      "tier": 3,
+      "is_new": false,
+      "score": 324.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Autonomous AI pentesting agent that combines planning, execution, and reflective reasoning to simulate human-like security testing workflows. 💀🔥\n\nLuaN1ao uses causal graph reasoning, dynamic attack planning, MCP-based tool orchestration, RAG-powered security knowledge, and eviden",
+        "likes": 58,
+        "url": "https://x.com/i/status/2052753639865987203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052753639865987203"
+      ]
+    },
+    {
+      "repo": "vibeairforce/vibe-skills",
+      "github_url": "https://github.com/vibeairforce/vibe-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 243.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VIBEaiRforce",
+        "text": "Perp DEX has landed. Perpetual trading live on $VIBE. One skill. All you need to operate web3 : \n\nnpx skills add vibeAIrFORCE/vibe-skills --skill vibe https://t.co/mPg2oHXopU",
+        "likes": 31,
+        "url": "https://x.com/i/status/2053764480597663780"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053764480597663780"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kirin__AI",
+        "text": "Claude Codeに「スキル」を\n追加できるようになってます。\n\nコマンド1行で\n数百種類のスキルから\n自分に合ったものをインストールできる。\n\nnpx skills add vercel-labs/skills --skill find-skills\n\nこれを入れると\n「何をしたいか」を伝えるだけで\n最適なスキルを自動で提案してくれる。\n\nClaude Codeがさらに強くなりました。\n\n#ClaudeCode #AI活用 #生成AI",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053774417151611184"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053774417151611184"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "playdotfun",
+        "text": "put this in combination with our agent skills and you have the full game workflow.\n\nnpx skills add OpusGameLabs/game-creator",
+        "likes": 1,
+        "url": "https://x.com/i/status/2053599409728864372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053599409728864372"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "🤖 Automate execution with Byreal Perps Agent Skills:\n\n↳ Market & limit orders\n↳ Automated TP / SL brackets\n↳ Position management (leverage, margin, exits)\n↳ Signal scanning across top markets\n↳ Full execution via AI agents like RealClaw\n\nnpx skills add byreal-git/byreal-perps-cli",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053778835062358383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053778835062358383"
+      ]
+    },
+    {
+      "repo": "neo-d6n/lid-proof",
+      "github_url": "https://github.com/neo-d6n/lid-proof",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neosphere_inc",
+        "text": "no more walk of shame. no more biking with your laptop open.\n\nnpx skills add neo-d6n/lid-proof\n\nhappy coding!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053591584713957768"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053591584713957768"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2053527450345406695",
+      "author": "AlexFinn",
+      "text": "The greatest AI skill you can learn is Reverse Prompting\n\nYou have your AI ask YOU questions, to see what it can do for you\n\nMakes every AI agent you use so much more powerful\n\nAn exercise you can do right now:\n\nOpen up any AI/OpenClaw/Hermes. Brain dump everything about yourself",
+      "likes": 913,
+      "views": 0,
+      "url": "https://x.com/i/status/2053527450345406695",
+      "is_kol": false,
+      "score": 3044.0
+    },
+    {
+      "id": "2053537881315229721",
+      "author": "Saboo_Shubham_",
+      "text": "Codex /goal With Hermes Agent is life-changing. \n\nI updated my Hermes agent skill to give Codex a goal on the fly using Telegram and track each one of those codex goals in a Kanban board. \n\nIt has been really insane to see and track Codex execute goals in the wild. https://t.co/9",
+      "likes": 750,
+      "views": 0,
+      "url": "https://x.com/i/status/2053537881315229721",
+      "is_kol": false,
+      "score": 2510.0
+    },
+    {
+      "id": "2053568378162532490",
+      "author": "rileybrown",
+      "text": "Been enjoying the Paper MCP with codex alot. \n\nI wish there was a tool like Paper that opened in the Codex browser. \n\nA codex native canvas board like this. https://t.co/05I4Dgh342",
+      "likes": 448,
+      "views": 0,
+      "url": "https://x.com/i/status/2053568378162532490",
+      "is_kol": false,
+      "score": 1434.0
+    },
+    {
+      "id": "2053550642761744569",
+      "author": "GoogleCloudTech",
+      "text": "Our new Agent Registry in Gemini Enterprise Agent Platform provides a single source of truth for your enterprise.\n\nIt indexes every internal agent, tool, and skill—simplifying discovery and ensuring governed, approved assets are available to your users → https://t.co/tKHM1i7IQT h",
+      "likes": 245,
+      "views": 0,
+      "url": "https://x.com/i/status/2053550642761744569",
+      "is_kol": false,
+      "score": 915.0
+    },
+    {
+      "id": "2053581363928801388",
+      "author": "AlanDaitch",
+      "text": "Lo realmente increíble de Claude es algo que pocas personas conocen: skill creator, un skill que te ayuda a crear skills.\n\nSi, una locura\n\nLa mejor funcionalidad de Claude son los skills porque te permiten guardar las recetas sobre cómo hacer las cosas y usarlas cuando las necesi",
+      "likes": 240,
+      "views": 0,
+      "url": "https://x.com/i/status/2053581363928801388",
+      "is_kol": false,
+      "score": 830.0
+    },
+    {
+      "id": "2053532907055268295",
+      "author": "rohit4verse",
+      "text": "Building dumb AI Loops that ship is the current MOAT in Agentic systems.\n\n88% of agent pilots ship this exact pattern and die in production.\n\nThis seminar caught my eye - same shape we saw during the Claude Code harness leak.\n\nChris Parsons opened Claude Code with a skill called ",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2053532907055268295",
+      "is_kol": false,
+      "score": 466.0
+    },
+    {
+      "id": "2053481014522269784",
+      "author": "GitTrend0x",
+      "text": "Hermes 继续创时代！\n\nliterate programming 技能，SRE 事件指挥官、Spotify 原生控制、自主技能市场、Obsidian 身份层……全网程序员把 Hermes 玩成了下一代 Agent 文档神器 + 运维军团 + 音乐管家 + 技能创业平台 + 私人知识大脑。\n\n宝藏干货：\n\n1️⃣ litprog-skill（https://t.co/3ZblconSNt）\n\n代码+散文交织成可执行 notebook，多平台兼容。\n“写文档再也不用两套系统”实锤了！\n\n2️⃣ hermes-incident-commander（htt",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2053481014522269784",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2053648691798409555",
+      "author": "dani_avila7",
+      "text": "Claude Code CLI Training\n\nI really like the Claude Code docs, plus the claude-code-guide agent and the /claude-api Skill\n\nBut a lot of people message me asking for tips because they don't know how to start using Claude in the terminal\n\nSo I built an interactive playground with le",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2053648691798409555",
+      "is_kol": false,
+      "score": 296.0
+    }
+  ]
+}
