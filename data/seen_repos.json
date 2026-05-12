@@ -2202,5 +2202,37 @@
   "yatmn/skillsman": {
     "first_seen": "2026-05-11",
     "tier": 3
+  },
+  "c-narcissus/paper-framework-figure-studio-pro": {
+    "first_seen": "2026-05-12",
+    "tier": 2
+  },
+  "memtensor/skills-vote": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "nicobailon/visual-explainer": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "jnsahaj/widgio": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "alexreardon/skills": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "kontext-security/skills": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "supabase/server": {
+    "first_seen": "2026-05-12",
+    "tier": 3
+  },
+  "tangka/apple-watch": {
+    "first_seen": "2026-05-12",
+    "tier": 3
   }
 }

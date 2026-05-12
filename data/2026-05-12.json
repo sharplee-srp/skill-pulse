@@ -1,0 +1,474 @@
+{
+  "date": "2026-05-12",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 185,
+    "tweets_with_repos": 17,
+    "unique_repos": 15,
+    "new_repos": 8,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "c-narcissus/paper-framework-figure-studio-pro",
+      "github_url": "https://github.com/c-narcissus/paper-framework-figure-studio-pro",
+      "tier": 2,
+      "is_new": true,
+      "score": 638.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 121,
+      "total_retweets": 35,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "帮研究者从论文 PDF、摘要或方法说明出发，经过多轮候选图生成和局部优化，产出可发表的论文框架图、架构图和流程图。\n\nhttps://t.co/kGeGioQx47\n\n这是个专门做论文框架图的 skill，能画 method overview、架构图、流程图、agent 工作流图等。流程分两轮：第一轮出 6 张不同方向的候选图让你比，第二轮围绕论文的局部模块、证据锚点、标签、色彩等做针对性优化再选。",
+        "likes": 121,
+        "url": "https://x.com/i/status/2053861437752082726"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053861437752082726"
+      ]
+    },
+    {
+      "repo": "memtensor/skills-vote",
+      "github_url": "https://github.com/memtensor/skills-vote",
+      "tier": 3,
+      "is_new": true,
+      "score": 391.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "AI Agent 没有好的Skill，潜力发挥不出来。\n\n另一个痛点是，全网上百万Skill，哪个最匹配我当前的任务？能不能运行？安不安全？\n\nVercel的find skill 能搜索安装Skill，但只收录了9万Skill，分散到垂直领域，都没啥安装量，不知道好坏。\n\n最近看到一个Skill 叫 SkillsVote，来自@MemOS_dev，有点强！\n\n据说花了20万美元用GPT5.4 整理了Github的大概有160万+ skill，筛选出79万+ skill。\n\n每个Skill都提取了功能描述，环境要求，运行权限等信息。\n\n一方面Skill推荐",
+        "likes": 52,
+        "url": "https://x.com/i/status/2054125713373163559"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054125761536336115",
+        "https://x.com/i/status/2054125713373163559"
+      ]
+    },
+    {
+      "repo": "nicobailon/visual-explainer",
+      "github_url": "https://github.com/nicobailon/visual-explainer",
+      "tier": 3,
+      "is_new": true,
+      "score": 373.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "plannotator",
+        "text": "https://t.co/vPdxDQkzAq 🤝 @nicopreme \n\nHTML explainers are better when you can interact with them and give feedback directly to the agent, or share them with colleagues and collect their feedback!\n\nPlannotator now has a skill that calls upon Nico's Visual Explainer skill: https:/",
+        "likes": 81,
+        "url": "https://x.com/i/status/2053923479062450607"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053923479062450607"
+      ]
+    },
+    {
+      "repo": "jnsahaj/widgio",
+      "github_url": "https://github.com/jnsahaj/widgio",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamsahaj_xyz",
+        "text": "npm i -g widgio\nnpx skills add jnsahaj/widgio -g\n\nI built it over the weekend, sorry for any rough edges!\n\nalso it's open source: https://t.co/pFwAOtQMeB",
+        "likes": 6,
+        "url": "https://x.com/i/status/2053901449516769717"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053901449516769717"
+      ]
+    },
+    {
+      "repo": "alexreardon/skills",
+      "github_url": "https://github.com/alexreardon/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alexandereardon",
+        "text": "🧑‍🍳 /cook-me\n\nAdds consistency to /grill-me (by @mattpocockuk 🙌) to streamline your sessions\n\nnpx skills add alexreardon/skills --skill cook-me",
+        "likes": 4,
+        "url": "https://x.com/i/status/2054056060609343704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054056060609343704"
+      ]
+    },
+    {
+      "repo": "kontext-security/skills",
+      "github_url": "https://github.com/kontext-security/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "michiosw",
+        "text": "This was not “a maintainer forgot 2FA.”\n\nTanStack / Mini Shai-Hulud abused GitHub Actions cache poisoning, CI publishing, and install-time execution.\n\nThe new attack path is simple:\n\nyour build system publishes the malware for them.\n\nProtect yourself now:\n\nnpx skills add kontext-",
+        "likes": 1,
+        "url": "https://x.com/i/status/2054109565587783961"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054109565587783961"
+      ]
+    },
+    {
+      "repo": "supabase/server",
+      "github_url": "https://github.com/supabase/server",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomaspozo",
+        "text": "@revlorehack @supabase npx skills add supabase/server\n\n🤖",
+        "likes": 0,
+        "url": "https://x.com/i/status/2053944989902610919"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053944989902610919"
+      ]
+    },
+    {
+      "repo": "tangka/apple-watch",
+      "github_url": "https://github.com/tangka/apple-watch",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tangkakakaka",
+        "text": "Install the Apple Health Skill:\n\nFor Codex:\n\ngit clone https://t.co/rF6cBxY5pA ~/.agents/skills/apple-health\nFor Claude Code:\ngit clone https://t.co/rF6cBxY5pA ~/.claude/skills/apple-health",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054145565412167895"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054145565412167895"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "vechain/vechain-mcp-server",
+      "github_url": "https://github.com/vechain/vechain-mcp-server",
+      "tier": 2,
+      "is_new": false,
+      "score": 771.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 162,
+      "total_retweets": 37,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vechainofficial",
+        "text": "Integrating the Model Context Protocol (MCP) into VeChainThor is significant. Why?\n\nAI agents use MCP as a universal communication tool across platforms and services. With VeChain's, they are able to read on-chain state, initiate transactions, and query smart contracts without hu",
+        "likes": 162,
+        "url": "https://x.com/i/status/2053799433888829814"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053799433888829814"
+      ]
+    },
+    {
+      "repo": "sanmuzzzzz/luan1aoagent",
+      "github_url": "https://github.com/sanmuzzzzz/luan1aoagent",
+      "tier": 3,
+      "is_new": false,
+      "score": 324.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Autonomous AI pentesting agent that combines planning, execution, and reflective reasoning to simulate human-like security testing workflows. 💀🔥\n\nLuaN1ao uses causal graph reasoning, dynamic attack planning, MCP-based tool orchestration, RAG-powered security knowledge, and eviden",
+        "likes": 58,
+        "url": "https://x.com/i/status/2052753639865987203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2052753639865987203"
+      ]
+    },
+    {
+      "repo": "xquik-dev/x-twitter-scraper",
+      "github_url": "https://github.com/xquik-dev/x-twitter-scraper",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buran_elif",
+        "text": "Eğer nasıl bu kadar ucuza 100 binlerce tweeti çektiğimi anlayamadıysanız, yapay zekanıza aşağıdaki komutu gönderin ve istediğiniz soruyu sorun;\nnpx skills add xquik-dev/x-twitter-scraper https://t.co/a5x7GXmdXH",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054067560904351869"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054067560904351869",
+        "https://x.com/i/status/2054067450417909902"
+      ]
+    },
+    {
+      "repo": "celo-org/celopedia-skills",
+      "github_url": "https://github.com/celo-org/celopedia-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 129.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CeloDevs",
+        "text": "Ready to get started? Install Celopedia Skills, the knowledge hub for everything you need to build on Celo\n\nnpx skills add celo-org/celopedia-skills\n\n https://t.co/hVw1dPDRTB",
+        "likes": 8,
+        "url": "https://x.com/i/status/2053920520144572910"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053920520144572910"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oneeyekeh",
+        "text": "Use Hyperframes: npx skills add heygen-com/hyperframes \n\nUse HeyGen CLI: curl -fsSL https://t.co/ybXxi7yih2 | bash \n\nGenerate a one-minute animated video where an avatar appears at the beginning and the end, explaining the new OpenAI company.  \n\n\"Today we’re launching the OpenAI ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2053911045463224643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2053911045463224643"
+      ]
+    },
+    {
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NickYoung88909",
+        "text": "1. fireworks-tech-graph\n\n用自然语言生成 SVG + PNG 技术图，适合画架构图、RAG 流程、Agent 交互和工具调用图。\n\nStar 6.2k，MIT。安装：npx skills add yizhiyanhua-ai/fireworks-tech-graph。复杂信息架构仍要人工判断。\n\nhttps://t.co/pxDr4fu8Yq",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054042411031253149"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054042411031253149"
+      ]
+    },
+    {
+      "repo": "neo-d6n/lid-proof",
+      "github_url": "https://github.com/neo-d6n/lid-proof",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "niopub",
+        "text": "@willdepue @peer_rich Y’all need to level up.. rookies \n\n`npx skills add neo-d6n/lid-proof`\n\nis all you need, and you can just ask your AI to toggle it.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054007890319679699"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054007890319679699"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2053883828574310674",
+      "author": "GoMining",
+      "text": "We launched the GoMining MCP Server and AI Skills to make the platform easier to understand and easier to use.\n\nThe goal is to help people get answers faster, make better decisions, and interact with GoMining in a simpler way. \n\nInstead of searching across the app or trying to pi",
+      "likes": 701,
+      "views": 0,
+      "url": "https://x.com/i/status/2053883828574310674",
+      "is_kol": false,
+      "score": 2908.0
+    },
+    {
+      "id": "2053940091970580736",
+      "author": "dotey",
+      "text": "Codex 的野心，MCP 和 Skill 的下一步\n\n这段时间我在密集使用 Codex App、Cursor 等 Agent 应用，有件事越来越觉得有意思。\n\n去年大家争的是谁家模型更强，今年争的好像变成了谁家窗口右侧更好用。\n\nCodex、Claude 桌面版、Cursor 3.0、TRAE SOLO，这几家最顶尖的 Agent，在完全没有协商的情况下，几乎同时收敛到了同一个界面布局：左侧是项目和会话列表，中间是和 Agent 的对话，右侧是工作区，放着文件浏览、网页预览、文件变更审查这些功能。\n\n肯定不是相互之间的抄袭，更像是当前 Agent 交互",
+      "likes": 493,
+      "views": 0,
+      "url": "https://x.com/i/status/2053940091970580736",
+      "is_kol": false,
+      "score": 1779.0
+    },
+    {
+      "id": "2053821172081438982",
+      "author": "twannl",
+      "text": "Stop letting your AI agent guess what’s inside the iOS Simulator.\n\nI built RocketSim’s CLI + Agent Skill so agents can inspect screens, tap, type, recover from state changes, and even validate accessibility support with far fewer tokens.\n\nBenchmarked against a popular alternative",
+      "likes": 251,
+      "views": 0,
+      "url": "https://x.com/i/status/2053821172081438982",
+      "is_kol": false,
+      "score": 828.0
+    },
+    {
+      "id": "2053883831791333463",
+      "author": "GoMining",
+      "text": "- Learn more about MCP Server and AI Skills 👉 https://t.co/6ZtqvLBgff",
+      "likes": 261,
+      "views": 0,
+      "url": "https://x.com/i/status/2053883831791333463",
+      "is_kol": false,
+      "score": 798.0
+    },
+    {
+      "id": "2053832985280180696",
+      "author": "vista8",
+      "text": "问了身边朋友和自己的实践，Skills的创建和管理目录都放在 .agent/skills好些。\n\n其他Claude、Codex等目录都用软链接，这样能最大程度保持兼容性。\n\n也推荐用CC Switch的Skill管理，可视化界面升级管理，点亮图标，开启不同工具的支持。 https://t.co/1kc26tuKsG",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2053832985280180696",
+      "is_kol": false,
+      "score": 517.0
+    },
+    {
+      "id": "2053768666945343849",
+      "author": "DivyanshT91162",
+      "text": "Multi-agent AI coding is getting insane 🤯\n\nJust found a wild MCP server called Guild.\n\nSingle Go binary. Local SQLite. Zero cloud dependency.\n\nBut the crazy part?\nIt gives multiple AI coding agents a shared memory + shared task system so they can actually work together without lo",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2053768666945343849",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2053990301815967763",
+      "author": "bigchungus_real",
+      "text": "@msuintelligence @CBSBrenton One of these requires a lot of skill and can create an immense amount of wealth and the other is ICE agent",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2053990301815967763",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2054000709767491641",
+      "author": "ErickSky",
+      "text": "Los videos de onboarding de tu SaaS se ven increíbles en Figma… pero en la landing page parecen grabados con un Xiaomi Redmi.\n\n¿La razón? \nLos hacen full-screen y luego los achican hasta que el texto se vuelve ilegible.\n\nLa solución:\nAcaba de salir este skill de Claude que genera",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2054000709767491641",
+      "is_kol": false,
+      "score": 323.0
+    },
+    {
+      "id": "2053813716747989243",
+      "author": "0xVikrew",
+      "text": "Printr MCP v0.15.0 + SDK v0.5.0 are live\n\nYou can now send tokens directly from AI agents\n\nNew support for:\n• Solana SPL tokens\n• EVM ERC20 tokens\n\nThe new &lt;printr_transfer_token tool&gt; lets any connected agent move tokens from your active wallet securely + seamlessly",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2053813716747989243",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2053838261349470269",
+      "author": "0xCabana",
+      "text": "ZK proofs as a reward mechanism for AI agents is a different category of idea.\n\n@NaraBuildAI PoMI: agent gets a challenge, solves it, submits proof on-chain, receives $NARA. \n\nNo staking or manual setup and @BitgetWallet now supports Nara Chain natively.\n\nNara Skill installs dire",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2053838261349470269",
+      "is_kol": false,
+      "score": 304.0
+    },
+    {
+      "id": "2053829106811216287",
+      "author": "iamchucky",
+      "text": "spent a few mins testing @NaraBuildAI after the bitget wallet integration went live\n\nsetup was actually simpler than i expected\n\n→ bitget wallet already supports nara chain, so no manual rpc/network setup  \n→ installed the nara skill into cursor  \n→ agent started running PoMI tas",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2053829106811216287",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2054065160491499951",
+      "author": "trythreews",
+      "text": "AI agents are stuck as text in a box. No body, no wallet, no way to earn. https://t.co/RTUVeYlv9W fixes that. \n\nHere’s the technical architecture overview of what was just shipped.\n\nAgents earn while they work.\n\nPay-per-call via x402. Every MCP tool call triggers a signed SPL tra",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2054065160491499951",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2054122246936080479",
+      "author": "anujcodes_21",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/jcA7n4RMUk",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2054122246936080479",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2053870065422868501",
+      "author": "drawio",
+      "text": "New https://t.co/AngZk3kiDe MCP app server: https://t.co/4ovUGkHXtL\n10x fewer tokens, 10x faster render, better auto-layouts, smoother animations, 13 new diagram types: sankey, ishikawa, venn, treemap, radar, kanban, mindmap, timeline, quadrant, C4, packet, architecture, zenuml🚀 ",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2053870065422868501",
+      "is_kol": false,
+      "score": 250.0
+    }
+  ]
+}
