@@ -2234,5 +2234,57 @@
   "tangka/apple-watch": {
     "first_seen": "2026-05-12",
     "tier": 3
+  },
+  "isoform/yansu-skill": {
+    "first_seen": "2026-05-13",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-heavyskill": {
+    "first_seen": "2026-05-13",
+    "tier": 2
+  },
+  "rohitg00/agentmemory": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "dcl-regenesislabs/opendcl": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "replicate/skills": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "datagobes/glasshouse": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "gfsaaser24/anthropic-managed-agents": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "mangosteen-studio/greenfield": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "ngvoicu/specmint-tdd-html": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "bruceleeproperties-tech/banking-bodyguard-skill": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "owasp/cve-lite-cli": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "yuuhi2010-sap/ui-mock-spec-review": {
+    "first_seen": "2026-05-13",
+    "tier": 3
+  },
+  "vector-swe-agent/665d9b114a18af4278489655ab755b1b": {
+    "first_seen": "2026-05-13",
+    "tier": 3
   }
 }
