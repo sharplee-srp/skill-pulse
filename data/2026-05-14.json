@@ -1,0 +1,642 @@
+{
+  "date": "2026-05-14",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 189,
+    "tweets_with_repos": 22,
+    "unique_repos": 20,
+    "new_repos": 14,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "steipete/agent-scripts",
+      "github_url": "https://github.com/steipete/agent-scripts",
+      "tier": 0,
+      "is_new": true,
+      "score": 3023.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "steipete"
+      ],
+      "total_likes": 751,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "steipete",
+        "text": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore.\n\nCaveat: It won't fix system architecture for ya, so you still need BRAIN as master model. https://t.co/0Z6iJnCqCX",
+        "likes": 751,
+        "url": "https://x.com/i/status/2054850632067019173"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054850632067019173"
+      ]
+    },
+    {
+      "repo": "michaelshimeles/skills",
+      "github_url": "https://github.com/michaelshimeles/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 367.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 89,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Rasmic",
+        "text": "Your agent keeps duplicating code?\n\nThis skill helps you clean up\nhttps://t.co/y0GTSByP8N",
+        "likes": 89,
+        "url": "https://x.com/i/status/2054719892457136231"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054719892457136231"
+      ]
+    },
+    {
+      "repo": "0xaxiom/axiom-public",
+      "github_url": "https://github.com/0xaxiom/axiom-public",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AxiomBot",
+        "text": "new agent skill: dexscreener-monitor\n\nCoinGecko doesn't know about your token yet. Dexscreener does -- within minutes of launch.\n\nprice, volume, liquidity, buy/sell counts, pair age. 100+ chains. zero dependencies.\n\nalso: pump/dump/liquidity alerts via polling watcher\n\nhttps://t.",
+        "likes": 26,
+        "url": "https://x.com/i/status/2054584233566646578"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054584233566646578"
+      ]
+    },
+    {
+      "repo": "cline/sdk-skill",
+      "github_url": "https://github.com/cline/sdk-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cline",
+        "text": "Try the new Cline CLI, now rebuilt on the SDK with a new TUI, agent teams, scheduled jobs, and connectors:\n\nnpm i -g cline\n\nTo build your own agent use:\n\nnpm i @​cline/sdk\n\n…or give your agent the Cline SDK skill:\n\nnpx skills add cline/sdk-skill\n\nhttps://t.co/AwuExc91JQ",
+        "likes": 34,
+        "url": "https://x.com/i/status/2054580774008238288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054580774008238288"
+      ]
+    },
+    {
+      "repo": "rully-saputra15/learning-skills",
+      "github_url": "https://github.com/rully-saputra15/learning-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rully_saputra15",
+        "text": "biasanya orang2 bikin skills untuk productivity, gw coba approach lain dengan bikin skills untuk mempercepat proses belajar\n\ncobain kalau bagus/kureng kabarin!\n\nnpx skills add rully-saputra15/learning-skills --skill software-concepts-guide\n\nhttps://t.co/zwZoB8IwmX",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054874233931812984"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054874233931812984",
+        "https://x.com/i/status/2054873860487733702"
+      ]
+    },
+    {
+      "repo": "betterclever/1-shot-svg",
+      "github_url": "https://github.com/betterclever/1-shot-svg",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "betterclever",
+        "text": "Models still suck at 1-shotting beautiful SVGs, so I made a skill that does it anyway 😬\n\nIt uses GPT Image 2 + VTracer to generate a usable output from your simple prompt ✨\n\nThe pelican can finally ride the bicycle with ease now. 😌\n\nnpx skills add betterclever/1-shot-svg https://",
+        "likes": 6,
+        "url": "https://x.com/i/status/2054795552244580683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054795552244580683"
+      ]
+    },
+    {
+      "repo": "lalagias/guild-ai",
+      "github_url": "https://github.com/lalagias/guild-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ntanis_kou",
+        "text": "install: npx skills add lalagias/guild-ai\nskills: https://t.co/vozrBHLoFo\ngh: https://t.co/TAvptOetZH\n\nopen to feedback if you try it",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054873152992293294"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054873152992293294"
+      ]
+    },
+    {
+      "repo": "hugobowne/show-us-your-agent-skills",
+      "github_url": "https://github.com/hugobowne/show-us-your-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hugobowne",
+        "text": "@wesmckinn gah `npx skills add hugobowne/show-us-your-agent-skills`\n\n(missing e in bowne in original tweet)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054796838319030651"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054796838319030651"
+      ]
+    },
+    {
+      "repo": "makenotion/skills",
+      "github_url": "https://github.com/makenotion/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "benjbush",
+        "text": "@overp8d @NotionDevs npx skills add makenotion/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054790747342446898"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054790747342446898"
+      ]
+    },
+    {
+      "repo": "yangchuansheng/patch-codex-fast",
+      "github_url": "https://github.com/yangchuansheng/patch-codex-fast",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openclaw_update",
+        "text": "If you use Codex with a custom API, this Skill force-enables Fast mode 👀\n\nIt patches the local Codex app, unlocks Fast / Speed mode, and brings Plugins back in API-key mode.\n\nHow to Install: \n\nnpx skills add yangchuansheng/patch-codex-fast -g -a codex -y\n\nSend CodeX. https://t.co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054770720467775836"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054770720467775836"
+      ]
+    },
+    {
+      "repo": "semaphoreio/sem-ai",
+      "github_url": "https://github.com/semaphoreio/sem-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "markoa",
+        "text": "New @semaphoreci  CLI for AI agents to drive the full CI/CD loop without a browser:\n\n- JSON by default\n- Self-discovery\n- built-in MCP server\n\nhttps://t.co/TOx34U7IZN",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054884382305829039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054884382305829039"
+      ]
+    },
+    {
+      "repo": "mapick-ai/cost-firewall",
+      "github_url": "https://github.com/mapick-ai/cost-firewall",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Renakim_0x",
+        "text": "Using #OpenClaw?\n\nAI costs can come from stuck skill installs, RAG retries, and background gateway loops, not just prompts you type.\n\nMapick Cost Firewall is a local handbrake for OpenClaw model calls:\nemergency stop, token budget, breaker rules, observe mode.\n\nhttps://t.co/2uwMJ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054776095845781667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054776095845781667"
+      ]
+    },
+    {
+      "repo": "bidah/skill-set",
+      "github_url": "https://github.com/bidah/skill-set",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KacperTrzepiec1",
+        "text": "📅 Live \"Jak budować aplikacje mobilne z Claude Code\"\n🗓️ 21 maja (czwartek), 20:00 — 2h na YouTube\n👉 Zapis: https://t.co/tY56YZrtTS\n\nOryginalne repo: https://t.co/rA2Qi5ke4e\n\nJak zainstalować zaktualizowany przez mnie skill? Wrzuć ten prompt do Claude Code:\n\"Zapoznaj się z https:/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054852736668045578"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054852736668045578"
+      ]
+    },
+    {
+      "repo": "lijigang/ljg-skill-roundtable",
+      "github_url": "https://github.com/lijigang/ljg-skill-roundtable",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Cloud_9527",
+        "text": "https://t.co/i42rQPP7nn\n分享一个skill，结构化圆桌讨论 — 一个 Claude Code Skill，以\"求真\"为目标，邀请代表不同思想的真实人物进行多轮辩证对话。 https://t.co/dbb6b2RRci",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054845129538822520"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054845129538822520"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 393.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vikingmute",
+        "text": "handoff 最近用的越来越多了，https://t.co/IgglSHLuL0\n是目前我最高频使用的 skill 了，发现 Codex 上下文一长，反应速度明显下降的非常厉害，都不是界面卡顿，而是返回的速度，当然本身 GPT 模型本身上下文和其他相比比较小，所以对于长任务，到差不多 70% - 80% 我都会用 handoff 将当前对话压缩成一份 handoff 文件，然后新开一个 session 继续进行，速度要快很多，避免自动压缩。\n\n我想他最新的 /goal 模式应该也是差不多基于相同的原理。",
+        "likes": 86,
+        "url": "https://x.com/i/status/2054843346070503693"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054843346070503693"
+      ]
+    },
+    {
+      "repo": "bankrbot/skills",
+      "github_url": "https://github.com/bankrbot/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 379.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 68,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "igoryuzo",
+        "text": "Tell your agent to install the bankr skill from https://t.co/wC9BVktExM https://t.co/VbEB5EAaBi",
+        "likes": 68,
+        "url": "https://x.com/i/status/2054701701999763788"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054701701999763788"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mercy_okx",
+        "text": "在 Agent 对话里聊事件，慢慢就有了自己的判断\n\n再也不用切回前端操作啦！直接告诉 Agent 想预测什么，系统自动定位市场，钱包签名上链全在聊天框里搞定。\n\n预测功能，Onchain OS 开箱即用～ 快装一下 npx skills add okx/onchainos-skills 试试吧！ https://t.co/OEujrghWre",
+        "likes": 6,
+        "url": "https://x.com/i/status/2054876756369383482"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054876756369383482",
+        "https://x.com/i/status/2054840386817044810"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_sthbryan",
+        "text": "Google just published official Agent Skills.\n\n13 skills for Google Cloud — BigQuery, Firebase, GKE, Cloud Run, AlloyDB, and more.\n\nWorks with Claude Code, Cursor, GitHub Copilot, and any Agent Skills-compatible agent.\n\nnpx skills add google/skills\n\nhttps://t.co/kKQKw2wS7W",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054876626622566910"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054876626622566910",
+        "https://x.com/i/status/2054818997774713183"
+      ]
+    },
+    {
+      "repo": "warpdotdev/oz-skills",
+      "github_url": "https://github.com/warpdotdev/oz-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 167.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yaohui12138",
+        "text": "不枉我粉了这么多年，我最喜欢的终端产品——Warp 团队把他们内部用的 15 个生产级 Skills 全开源了。\n\n一行命令装完：npx skills add warpdotdev/oz-skills\n\n这个 oz-skills 仓库公开在 GitHub，里面有：\n SEO 和无障碍审计\n自动文档写作\nTerraform 和 DevOps 配置\nGitHub Issue 处理（PR review、issue 分类都能自动跑）\n\n视频里演示的 SEO 审计直接给出具体到代码级别的优化建议，不是那种建议你优化标题的废话\n\n装之前确认两件事：\n\n1.你得先装 ",
+        "likes": 19,
+        "url": "https://x.com/i/status/2054745938435117202"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054745938435117202"
+      ]
+    },
+    {
+      "repo": "zhuyansen/daily-alpha-scanner",
+      "github_url": "https://github.com/zhuyansen/daily-alpha-scanner",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "安装 + 开源\nv2.0 安装只需 3 步：\n\nStep 1: 安装 OKX 链上技能包\n\nnpx skills add okx/onchainos-skills\nStep 2: 安装 Daily Alpha Scanner v2.0\n\nnpx skills add zhuyansen/daily-alpha-scanner\nStep 3: 配 Twitter 数据源（可选，推荐）\n\npip install https://t.co/4XHVj7eRv7 install --env=autoagent-reach configure proxy http",
+        "likes": 0,
+        "url": "https://x.com/i/status/2054840386817044810"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054840386817044810"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2054794046267412905",
+      "author": "refrip98",
+      "text": "Good morning 💘\n\nAmid so many AI agents still locking users into their own ecosystems and toolsets, @TheARCTERMINAL continues to show a far more mature approach.\n\nANIMA’s MCP server connection support, combined with client-side encrypted credentials and a server architecture that ",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2054794046267412905",
+      "is_kol": false,
+      "score": 798.0
+    },
+    {
+      "id": "2054768295534846239",
+      "author": "dotey",
+      "text": "baoyu-skills 新加了一个 Skill：\n微信群聊总结 Skill：https://t.co/99tEbqlnXH\n\n依赖于 wx-cli：https://t.co/dTgqW5CG7f\n如何配置使用 wx-cli 请看项目文档，无法提供帮助。另外目前只是借助其读取数据，其他没任何关系。\n\nClaude Code + Claude Opus 4.6 效果最佳",
+      "likes": 157,
+      "views": 0,
+      "url": "https://x.com/i/status/2054768295534846239",
+      "is_kol": false,
+      "score": 601.0
+    },
+    {
+      "id": "2054798286477803606",
+      "author": "cutexiaruby_j",
+      "text": "Ghvd Mhrvning Loveliessss……\n\nANIMA supports MCP server connections so as @TheARCTERMINAL said.\n\nDon't miss it for anything yeah .\n\nAny public or private MCP server becomes a tool ANIMA can call credentials encrypted client-side, server blind to your keys according to @TheARCTERMI",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2054798286477803606",
+      "is_kol": false,
+      "score": 478.0
+    },
+    {
+      "id": "2054863312093868061",
+      "author": "Javedofficial0",
+      "text": "In AI the real difference comes from systems that grow and adapt with you\n\n@TheARCTERMINAL ANIMA is built exactly for that\n\nIt integrates with any public or private MCP server keeping your credentials fully encrypted on your side\n\nThe server never has access to your keys and you ",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2054863312093868061",
+      "is_kol": false,
+      "score": 461.0
+    },
+    {
+      "id": "2054707220416491719",
+      "author": "NKLinhzk",
+      "text": "ever felt like your ai agents are powerful but still kinda trapped by security worries and vendor lock in?\njust saw @TheARCTERMINAL latest update on anima ai and it realy stopped me for a second.\n\nanima can now connect to any public or private mcp server, treating them as callabl",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2054707220416491719",
+      "is_kol": false,
+      "score": 461.0
+    },
+    {
+      "id": "2054740338364060062",
+      "author": "0xndra",
+      "text": "Every agent that sells autonomy eventually shows you where the walls are\n\nUsually around the time you try connecting something outside their stack\n\n@TheARCTERMINAL built ANIMA differently\n\nAny MCP server, public or private\n\nCredentials stay on the client side, the server never to",
+      "likes": 148,
+      "views": 0,
+      "url": "https://x.com/i/status/2054740338364060062",
+      "is_kol": false,
+      "score": 459.0
+    },
+    {
+      "id": "2054776695564145001",
+      "author": "vista8",
+      "text": "宝玉老师基于卡比的wx-cli写了一个微信群聊总结Skill。\n\n安装成功，正在总结下AI产品蝗虫今天的消息。\n\nwx-cli不错啊，解密本地的微信数据库，甚至连SIP都不用关，如果报错，可以发给Codex或Claude Code解就行。\n\n卡比的Cli：https://t.co/M4TB3zhBaB\n\n宝玉老师的Skill：https://t.co/UePZeTL7oK https://t.co/R3RMRIbRDp",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2054776695564145001",
+      "is_kol": false,
+      "score": 440.0
+    },
+    {
+      "id": "2054803323858141214",
+      "author": "shakibmunsi0",
+      "text": "ANIMA turns every MCP server into a private intelligent tool layer\n\nEncrypted access\nFlexible infrastructure\nZero limits on workflow design\n\n@TheARCTERMINAL keeps control where it belongs, with the user https://t.co/TpGvTcaSWX",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2054803323858141214",
+      "is_kol": false,
+      "score": 410.0
+    },
+    {
+      "id": "2054595592903360991",
+      "author": "FrennyDefi",
+      "text": "ANIMA keeps getting more interesting.\n\nThe MCP server integration changes a lot because it means you’re no longer limited to a closed tool system.\n\nYou can connect the infrastructure and tools you actually need while keeping credentials encrypted client-side.\n\nThat flexibility ma",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2054595592903360991",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2054807263181693113",
+      "author": "DeFiShakil",
+      "text": "ANIMA changes every MCP server into a private intelligent tool layer that helps users manage tasks in a smarter way. It gives encrypted access so all data stays safe and protected. The system is built with flexible infrastructure, allowing users to design and run workflows based ",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2054807263181693113",
+      "is_kol": false,
+      "score": 367.0
+    },
+    {
+      "id": "2054770428363915279",
+      "author": "mvanhorn",
+      "text": "Introducing: @meetgranola CLI/Claude Code Skill/OpenClaw and Hermes skill from the @ppressdev printed by @damienstevens . \n\n- Cross-meeting SQLite search   \n- MEMO pipeline runner   \n- Attendee timelines\n- Stop the MCP logged-out pain\n\nReally excited about this one.  I can't live",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2054770428363915279",
+      "is_kol": false,
+      "score": 349.0
+    },
+    {
+      "id": "2054742046041079911",
+      "author": "cyrilXBT",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI  FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a skill that most people will not have in 2 years.\n\nThe people who skip it will",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2054742046041079911",
+      "is_kol": false,
+      "score": 339.0
+    },
+    {
+      "id": "2054805125370450023",
+      "author": "mr_ferdiansah",
+      "text": "A lot of AI platforms still want users to stay inside closed ecosystems with limited tools and fixed workflows\n\nThat’s why @TheARCTERMINAL supporting MCP server connections through ANIMA feels interesting\n\nInstead of locking users into one toolset, the system allows people to con",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2054805125370450023",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2054796178550878348",
+      "author": "0x_KaELo",
+      "text": "In AI workspaces, true value comes from tools that adapt and endure.  \nANIMA in the @TheARCTERMINAL achieves exactly that.\n\nIt connects seamlessly to any public or private MCP server.  \n>> Your credentials remain encrypted on your side\n>> The server never sees your keys.  \n>> No ",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2054796178550878348",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2054628338229268849",
+      "author": "REHANH0SSAIN",
+      "text": "Gn my legendary CT members 😴\n\nBeen looking deeper into @TheARCTERMINAL and this MCP integration is actually a pretty big unlock 👀\n\nMost AI platforms want you locked into their own tools.\n\nARC is taking the opposite route.\n\nWith ANIMA, any MCP server can become a tool your agent c",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2054628338229268849",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2054830360375054610",
+      "author": "DrPengu6",
+      "text": "GM my legendary CT members\n\nbeen digging into @TheARCTERMINAL and the ANIMA MCP server support is a real unlock.\n\nmost ai platforms lock you into their own tools, but ARC takes the opposite route.\n\nwith ANIMA, any MCP server can plug in as a tool for your agent  public or private",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2054830360375054610",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2054830245035860198",
+      "author": "aydinmustafaaa",
+      "text": "Bring your own infrastructure. \nANIMA does the rest. 🔌\n\n@TheARCTERMINAL supports MCP server connections. Public or private. Any server becomes a tool ANIMA can call.\n\nCredentials stay encrypted client-side. The server never sees your keys. You are not locked into ARC's toolset.\n\n",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2054830245035860198",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2054785023421645072",
+      "author": "Musty_hasheedu",
+      "text": "Gm gArc \n\nMost AI assistants today only work inside their own closed system.\nThat means if the tool you need isn’t built in, you’re stuck.\n@TheARCTERMINAL  is solving that with ANIMA by supporting MCP (Model Context Protocol).\nThink of MCP like a universal adapter for AI agents.\n",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2054785023421645072",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2054725484169277604",
+      "author": "Tiny_Fish",
+      "text": "Introducing: enrich-excel\n\nHermes Agent or @openclaw can now enrich any Excel sheet with live web data.\n\n&gt; uses our free Search and Fetch to find missing data\n&gt; writes results directly into the running Excel via AppleScript\n\nAll in just a few seconds and one Skill. https://",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2054725484169277604",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2054739760732897717",
+      "author": "mrfanduuuuu",
+      "text": "🚨 Gemini has a dedicated “MCP Tool Testing” model category in selector\n\n&gt;Thinking levels\n\n&gt;Models named also revamped https://t.co/sD3AtYyiju",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2054739760732897717",
+      "is_kol": false,
+      "score": 240.0
+    }
+  ]
+}

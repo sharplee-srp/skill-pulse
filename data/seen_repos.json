@@ -2286,5 +2286,61 @@
   "vector-swe-agent/665d9b114a18af4278489655ab755b1b": {
     "first_seen": "2026-05-13",
     "tier": 3
+  },
+  "steipete/agent-scripts": {
+    "first_seen": "2026-05-14",
+    "tier": 0
+  },
+  "michaelshimeles/skills": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "0xaxiom/axiom-public": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "cline/sdk-skill": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "rully-saputra15/learning-skills": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "betterclever/1-shot-svg": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "lalagias/guild-ai": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "hugobowne/show-us-your-agent-skills": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "makenotion/skills": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "yangchuansheng/patch-codex-fast": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "semaphoreio/sem-ai": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "mapick-ai/cost-firewall": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "bidah/skill-set": {
+    "first_seen": "2026-05-14",
+    "tier": 3
+  },
+  "lijigang/ljg-skill-roundtable": {
+    "first_seen": "2026-05-14",
+    "tier": 3
   }
 }
