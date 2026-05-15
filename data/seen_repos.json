@@ -2342,5 +2342,37 @@
   "lijigang/ljg-skill-roundtable": {
     "first_seen": "2026-05-14",
     "tier": 3
+  },
+  "yetone/native-feel-skill": {
+    "first_seen": "2026-05-15",
+    "tier": 2
+  },
+  "0xaxiom/openclaw-skills": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "conorbronsdon/avoid-ai-writing": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "elfa-ai/skills": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "remember17/po-workspace-skill": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "hktitan/thenextinterface": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "adspower/adspower-browser": {
+    "first_seen": "2026-05-15",
+    "tier": 3
+  },
+  "arigatouz/install-experimental-angular-skill": {
+    "first_seen": "2026-05-15",
+    "tier": 3
   }
 }
