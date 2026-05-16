@@ -2374,5 +2374,77 @@
   "arigatouz/install-experimental-angular-skill": {
     "first_seen": "2026-05-15",
     "tier": 3
+  },
+  "pixel-point/animate-text": {
+    "first_seen": "2026-05-16",
+    "tier": 2
+  },
+  "blazickjp/arxiv-mcp-server": {
+    "first_seen": "2026-05-16",
+    "tier": 2
+  },
+  "xprnetwork/xpr-network-dev-skill": {
+    "first_seen": "2026-05-16",
+    "tier": 2
+  },
+  "jon-becker/prediction-market-analysis": {
+    "first_seen": "2026-05-16",
+    "tier": 2
+  },
+  "magicpathai/agent-skills": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "microsoft/ai-agents-for-beginners": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "aurorascharff/agent-friction-skill": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "fgbyte/design-md-to-tailwind-v4": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "199-biotechnologies/claude-deep-research-skill": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "customerio/cli": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "plagtech/spraay-agent-skills": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "kalashnikovisme/dip-skill": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "fokkyp/softwarecopyright-skill": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "xapi-labs/xapi-cli": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "satoricorp/ctx": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "superwall/skills": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "kankanliuyi-lgtm/viral-title-generator": {
+    "first_seen": "2026-05-16",
+    "tier": 3
+  },
+  "nexu-io/html-anything": {
+    "first_seen": "2026-05-16",
+    "tier": 3
   }
 }

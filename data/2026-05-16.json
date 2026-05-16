@@ -1,0 +1,660 @@
+{
+  "date": "2026-05-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 185,
+    "tweets_with_repos": 23,
+    "unique_repos": 23,
+    "new_repos": 18,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "pixel-point/animate-text",
+      "github_url": "https://github.com/pixel-point/animate-text",
+      "tier": 2,
+      "is_new": true,
+      "score": 2165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 655,
+      "total_retweets": 20,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alex_barashkov",
+        "text": "Teach your AI agents to create beautiful text animations. Exact specs wrapped as a skill - timings, curves, and effects. Library-agnostic, so it works with Remotion, Motion/GSAP, or plain JS/CSS.\n\nnpx skills add pixel-point/animate-text --skill animate-text\n\nExample of usage: cop",
+        "likes": 655,
+        "url": "https://x.com/i/status/2055276192106774738"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055276192106774738"
+      ]
+    },
+    {
+      "repo": "blazickjp/arxiv-mcp-server",
+      "github_url": "https://github.com/blazickjp/arxiv-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 690.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 125,
+      "total_retweets": 43,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rwayne",
+        "text": "ArXiv MCP Server — Claude 直连论文库的标配\n\n文献综述阶段反复在浏览器和 Claude 之间复制粘贴，ArXiv MCP Server 让 Claude 自己去搜、自己下、自己读。\n\n核心能力：\n自然语言检索：「找最近 2 年关于 X 的综述」→ Claude 自主调 ArXiv API\nPDF 下载 + 文本提取自动完成\n摘要批量筛选：「这 20 篇里哪几篇方法上最相关」\n全文精读：直接把 PDF 喂进上下文做问答\n跨论文综合：「对比这 5 篇的实验设计」\n\n是 ArXiv 方向 MCP 里成熟度最高的，社区贡献活跃，文献工作",
+        "likes": 125,
+        "url": "https://x.com/i/status/2055217120443822311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055217120443822311"
+      ]
+    },
+    {
+      "repo": "xprnetwork/xpr-network-dev-skill",
+      "github_url": "https://github.com/xprnetwork/xpr-network-dev-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 614.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 118,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paulgrey",
+        "text": "Coding with AI or deploying an AI agent on @XPRNetwork?\n\nFastest way to bring it up to speed:\nxpr-network-dev-skill v2.2.0 ... 25 ABI-verified, security-hardened docs (DeFi, NFTs, lending, agents, contracts).\n\nDrops into Claude Code, Cursor, OpenClaw.\n\nhttps://t.co/4C8pgTGLBH",
+        "likes": 118,
+        "url": "https://x.com/i/status/2055384946639053249"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055384946639053249"
+      ]
+    },
+    {
+      "repo": "jon-becker/prediction-market-analysis",
+      "github_url": "https://github.com/jon-becker/prediction-market-analysis",
+      "tier": 2,
+      "is_new": true,
+      "score": 503.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 116,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KashKysh",
+        "text": "8 GitHub repos every serious Polymarket trader should know about\n\n1. Analysis: https://t.co/QqpY1GxiwM\n\n2. MCP Server: https://t.co/Q6Ypu7jUOJ\n\n3. /last30days: https://t.co/LJ1E35kloV\n\n4. Assistant: https://t.co/JJDFKZLFvd\n\n5. Firecrawl: https://t.co/ZerUmFDGfV\n\n6. PolyClaw: http",
+        "likes": 116,
+        "url": "https://x.com/i/status/2055339199361098194"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055339199361098194"
+      ]
+    },
+    {
+      "repo": "magicpathai/agent-skills",
+      "github_url": "https://github.com/magicpathai/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "skirano",
+        "text": "First, grab the MagicPath skill, just paste this inside Codex. The agent will walk you through the installation, logging into our app and the CLI.\n\n\"Install this skill npx skills add https://t.co/dQKRtbuTMy --skill magicpath\"\n\nIf you get stuck, just ask Codex for help. https://t.",
+        "likes": 40,
+        "url": "https://x.com/i/status/2055364118014505115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055364118014505115"
+      ]
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "github_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "tier": 3,
+      "is_new": true,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "MICROSOFT'S FREE AI AGENTS COURSE\n\nThe best resource to go from zero to building production ai agents.\n\n→ 15+ lessons with code + videos\n→ agentic RAG, multi-agent, tool use\n→ memory, planning, browser-use agents\n→ MCP & A2A protocols included\n\nall free.... all open source\n\nhttps",
+        "likes": 25,
+        "url": "https://x.com/i/status/2055521746737156350"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055521746737156350"
+      ]
+    },
+    {
+      "repo": "aurorascharff/agent-friction-skill",
+      "github_url": "https://github.com/aurorascharff/agent-friction-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aurorascharff",
+        "text": "Add it to your project. Comes with a built-in visualizer so you can share logs with your team (used in the screenshot).\n\n`npx skills add aurorascharff/agent-friction-skill`\n\nhttps://t.co/QMQBijWKx3",
+        "likes": 9,
+        "url": "https://x.com/i/status/2055328561825800691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055328561825800691"
+      ]
+    },
+    {
+      "repo": "fgbyte/design-md-to-tailwind-v4",
+      "github_url": "https://github.com/fgbyte/design-md-to-tailwind-v4",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fgbyte",
+        "text": "Just finished a new skill for modern AI-native frontend workflows.  \n\nDetects and generates shadcn-compatible semantic tokens automatically.  \n\nTested with Kimi-K2.6, Qwen3.6 and MiniMax2.7 🤖 \n\nnpx skills add fgbyte/design-md-to-tailwind-v4 --skill design-md-to-tailwind-v4 https:",
+        "likes": 2,
+        "url": "https://x.com/i/status/2055381519250629050"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055381519250629050"
+      ]
+    },
+    {
+      "repo": "199-biotechnologies/claude-deep-research-skill",
+      "github_url": "https://github.com/199-biotechnologies/claude-deep-research-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ComagerTon79278",
+        "text": "インストールコマンド↓\nnpx skills add 199-biotechnologies/claude-deep-research-skill@deep-research",
+        "likes": 1,
+        "url": "https://x.com/i/status/2055580818358325410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055580818358325410"
+      ]
+    },
+    {
+      "repo": "customerio/cli",
+      "github_url": "https://github.com/customerio/cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alphacolin",
+        "text": "Easter egg: you can actually sign up for a new account via cli. \n\nTry copying and pasting this in your cursor/ Claude code / codex and it’ll sign up for a new special builder account:\n———\n\nnpx skills add customerio/cli\n\nI want to build with https://t.co/7sojC1a4T6!",
+        "likes": 1,
+        "url": "https://x.com/i/status/2055396871137583413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055396871137583413"
+      ]
+    },
+    {
+      "repo": "plagtech/spraay-agent-skills",
+      "github_url": "https://github.com/plagtech/spraay-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Spraay_App",
+        "text": "💧 Spraay batch payments is now an installable agent skill for 18+ AI agents via @vercel Skills CLI\n\nOne command. 15 chains. 200+ recipients per tx.\n\nnpx skills add plagtech/spraay-agent-skills\n\nPayroll, airdrops, bounties, DAO payouts — one transaction across Base, Solana, Ethere",
+        "likes": 1,
+        "url": "https://x.com/i/status/2055387097813725662"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055387097813725662"
+      ]
+    },
+    {
+      "repo": "kalashnikovisme/dip-skill",
+      "github_url": "https://github.com/kalashnikovisme/dip-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kalashnikovisme",
+        "text": "Обновил свой новый Codex-skill для докеризации проектов.\n\nДобавил инструкцию, чтобы нужные скрипты для развёртывания локально проекта писались не на Bash, а на главном языке проекта.\n\nЭто важно, чтобы уже настроенные линтеры с ними работали тоже.\n\nhttps://t.co/bR4uuIt3UF",
+        "likes": 1,
+        "url": "https://x.com/i/status/2055577299043393957"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055577299043393957"
+      ]
+    },
+    {
+      "repo": "fokkyp/softwarecopyright-skill",
+      "github_url": "https://github.com/fokkyp/softwarecopyright-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rpabot6",
+        "text": "软著申请自动化skill,完全免费~\n一位开发者用2周时间，做出了能替你节省 ¥1000+ 的工具\n\n1.安装\n$ git clone https://t.co/9ojITYf44Y\n$ cp -R software-copyright-materials ~/.codex/skills/\n\n2. 跟Codex说：\n\"使用 software-copyright-materials 生成当前项目的软件著作权申请资料\"\n\n就这么简单！ https://t.co/qiElFJUvA1",
+        "likes": 1,
+        "url": "https://x.com/i/status/2055563192341070146"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055563192341070146"
+      ]
+    },
+    {
+      "repo": "xapi-labs/xapi-cli",
+      "github_url": "https://github.com/xapi-labs/xapi-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Chenzeze777",
+        "text": "如何用 AI 一键抓取 X 僵尸关注？保姆级教程来了。\n\n别让死粉拉低你的账号权重，用 @0xAA_Science 的 xAPI 轻松搞定：\n\n 获取 Key：在 https://t.co/3ESC1mt4IY 注册充值，并在个人资料里创建一个 Key。\n\n加载工具：随便打开 Claude 或 Codex，直接输入：npx skills add xapi-labs/xapi-cli。\n\n下达指令：让 AI 抓取你的关注列表，检查每个人的最近活跃时间（发推/回复/转发），筛选出 X 个月没动静的账号。\n\n✅ 坐等自动导出，精准清理。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055526681251848328"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055526681251848328"
+      ]
+    },
+    {
+      "repo": "satoricorp/ctx",
+      "github_url": "https://github.com/satoricorp/ctx",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jlchnc",
+        "text": "Add the skill:\n\nnpx skills add satoricorp/ctx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055471870007214176"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055471870007214176"
+      ]
+    },
+    {
+      "repo": "superwall/skills",
+      "github_url": "https://github.com/superwall/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakemor",
+        "text": "@tonyennis Oh i see. It may not be in the MCP. \n\nUse the skill - it has everything in https://t.co/W9mTRzpjX9 built in.\n\n- It can get results for any chart in the dashboard\n- it can write its own queries against our actual DB\n\njust run \n\nnpx skills add superwall/skills --skill su",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055268378621747486"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055268378621747486"
+      ]
+    },
+    {
+      "repo": "kankanliuyi-lgtm/viral-title-generator",
+      "github_url": "https://github.com/kankanliuyi-lgtm/viral-title-generator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kankan916033",
+        "text": "卧槽，我把116条X爆款标题拆解完了，提炼出12套公式，做成了Skill直接开源！\n装上之后，给一个主题就能自动： → 匹配最适合的标题套路 → 生成9个候选标题 → 5维度评分（好奇心/具体性/情绪感/可搜索性/行动驱动） → 输出TOP 3 + 优化建议\n兼容Claude / Codex / OpenClaw，免费拿走。\nGitHub：https://t.co/p6JFEJd9Gn",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055525523053273582"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055525523053273582"
+      ]
+    },
+    {
+      "repo": "nexu-io/html-anything",
+      "github_url": "https://github.com/nexu-io/html-anything",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_sthbryan",
+        "text": "html-anything is now open source.\n\nConvert any data into design-level HTML with your coding agent — 75 skill sets, 9 export formats, works with Claude Code, Codex, OpenClaw, Hermes, and more.\n\n15k lines of code in 3 days.\n\nhttps://t.co/UEoqB58KSe",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055437069418463524"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055437069418463524"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "0xaxiom/axiom-public",
+      "github_url": "https://github.com/0xaxiom/axiom-public",
+      "tier": 3,
+      "is_new": false,
+      "score": 323.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AxiomBot",
+        "text": "new agent skill: job-queue\n\nagent crons crash mid-pipeline. phantom triggers fire the same task twice. steps that must not repeat (airdrops, burns, claims) do.\n\nfile-based FIFO queue. zero deps. dedup by key, retry limits, crash recovery.\n\nhttps://t.co/dLRpyT267Z (50 skills)",
+        "likes": 56,
+        "url": "https://x.com/i/status/2055370867652387102"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055370867652387102"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "onehopeA9",
+        "text": "我对hermes说，如果输了比赛，就把它token停了！\n\n昨天才发现 OKX 有个 50000 Agentic Wallet 交易赛，\n因为拿了surf的1000刀奖励，\n我感觉各种比赛，还是得参与下呀\n\n1.npx skills add okx/onchainos-skills 安装 Onchain OS skills\n\n这个坑大家都会遇到吧？\n玩这么久hermes，大家肯定都是多agent吧？\n\n这样安装了，hermes中找不到技能 \n我怎么解决呢，直接让hermes去看官网文档\n\n2.发送邮箱,输入验证码后，创建钱包\n\n你当前钱包也已经登录成功，",
+        "likes": 20,
+        "url": "https://x.com/i/status/2055270472086966475"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055270472086966475"
+      ]
+    },
+    {
+      "repo": "conorbronsdon/avoid-ai-writing",
+      "github_url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smolemaru",
+        "text": "My fav must have agentic skills so far: \n\n1. Avoid ai writing - just perfect text rules skill works in any agent, love @bankrbot easily run it and now @grok  too😉 works perfect with twitter.agent bankr skill\nhttps://t.co/e67mIjw2xX\n\n2. Losless-claw - unlimited memory for openclaw",
+        "likes": 6,
+        "url": "https://x.com/i/status/2054987621156245903"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2054987621156245903"
+      ]
+    },
+    {
+      "repo": "elfa-ai/skills",
+      "github_url": "https://github.com/elfa-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elfa_ai",
+        "text": "For the experts, go to https://t.co/BnmPbxyWev.\n\nRun: npx skills add elfa-ai/skills\n\nTell your agent to reference the GRVT bot skill. It handles the setup.\n\nSee you in the arena.",
+        "likes": 5,
+        "url": "https://x.com/i/status/2055229056644448359"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055229056644448359"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "andreasawires",
+        "text": "SOMEONE JUST DROPPED MARKETING SKILLS V2.0 FOR CLAUDE\n\n40 skills. 52 tool integrations. 100% evals coverage. 100+ refinements\n\nFree. Open source\n\nnpx skills add coreyhaines31/marketingskills\n\nhttps://t.co/YyR5LHiRj6",
+        "likes": 0,
+        "url": "https://x.com/i/status/2055257002230665565"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055257002230665565"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2055317298420859021",
+      "author": "codyschneider",
+      "text": "last Friday I deployed a Facebook ads agent for a startup and over the weekend it optimized itself from $17 phone number leads into $3 leads\n\nthis is the real GTM engineering\n\nagents in the wild\n\nand I made a Notion document and a .md skill file so you can do this exact thing too",
+      "likes": 371,
+      "views": 0,
+      "url": "https://x.com/i/status/2055317298420859021",
+      "is_kol": false,
+      "score": 1163.0
+    },
+    {
+      "id": "2055387087969616260",
+      "author": "XPRNetwork",
+      "text": "Lots of updates to the XPR Network dev skill this week from @paulgrey.\n\nIf you're building on the XPR Network with AI in the loop, coding assistant or autonomous agent - this is your starting point.",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2055387087969616260",
+      "is_kol": false,
+      "score": 640.0
+    },
+    {
+      "id": "2055260079700791544",
+      "author": "YoniBraslaver",
+      "text": "Cloudflare's Code Mode post argued agents are more efficient with code than a menu of MCP tools.\n\nWe ran the experiment on monday's GraphQL API.\nSDK: 1 step, 15k tokens.\nReal MCP server: 4 steps, 158k tokens. 8.4× the cost, same output.\nhttps://t.co/pF7TmRnKwu",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2055260079700791544",
+      "is_kol": false,
+      "score": 551.0
+    },
+    {
+      "id": "2055340459363356834",
+      "author": "jetbrains",
+      "text": "Understanding code is a big challenge in the AI era, which is why our colleague @forketyfork has built Walkthrough.\n\nThis experimental plugin gives AI agents an MCP tool for walking you through code in a JetBrains IDE in a visual way rather than using walls of text.\n\nCheck it out",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2055340459363356834",
+      "is_kol": false,
+      "score": 510.0
+    },
+    {
+      "id": "2055558239995978077",
+      "author": "druids01",
+      "text": "Build a Figma Plugin from Scratch in 5 mins using ChatGPT and Claude Code.\n\nI will drop a link to the custom GPT I use for writing PRDs. https://t.co/acmraHuslR",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2055558239995978077",
+      "is_kol": false,
+      "score": 466.0
+    },
+    {
+      "id": "2055432288893080028",
+      "author": "coreyganim",
+      "text": "If your employees don't know how to build AI Skills, fire them.\n\nI just had my non-technical executive assistant build 6 production skills in Claude Cowork.\n\nShe'd never written a skill until 2 weeks ago.\n\nThe deliverable was a full podcast guesting pipeline that scrapes every gu",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2055432288893080028",
+      "is_kol": false,
+      "score": 394.0
+    },
+    {
+      "id": "2055306655806468451",
+      "author": "MyCreativeOwls",
+      "text": "How to connect @Lovable MCP Server to @claudeai in 60 secs!\n\nBookmark for later 🔋 https://t.co/J3ft6C2Ufn",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2055306655806468451",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2055305101263454557",
+      "author": "pushpak1300",
+      "text": "Still manually comparing Laravel starter kit changes every time upstream ships updates? 😵‍💫\n\nWe just added a new starter-kit-upgrade skill to Laravel Agent Skills that helps you safely upgrade while preserving your app customisations.\n\nIf this is a problem you’ve been facing, giv",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2055305101263454557",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2055509798905425986",
+      "author": "Musty_hasheedu",
+      "text": "Gm gArc \n\nMost AI assistants today only work inside their own closed system.\nThat means if the tool you need isn’t built in, you’re stuck.\n@TheARCTERMINAL  is solving that with ANIMA by supporting MCP (Model Context Protocol).\nThink of MCP like a universal adapter for AI agents.\n",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2055509798905425986",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2055290776989405346",
+      "author": "TCalauttis",
+      "text": "The #NHLBruins are looking to acquire more high-end skill and one way they can do that is via the restricted free agent market. Read my latest for @BNGProductions  on five potential RFAs Boston could target this offseason https://t.co/UpaY2u5ycr",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2055290776989405346",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2055377678102921309",
+      "author": "BHolmesDev",
+      "text": "There are a lot of small differences between the Claude Code and Codex CLIs:\n\n- Different skill names and shortcuts\n- Different built-ins (ex. docs, browser testing)\n- Subtle gaps in featureset (ex. available hooks)\n\nHere's what you need to know: https://t.co/rDHopOvSaY",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2055377678102921309",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2055577007740596384",
+      "author": "marcusyul",
+      "text": "TENGO 3 FREELANCERS QUE TRABAJAN PARA MÍ GRATIS.\n\nNunca se quejan. Nunca se olvidan de cómo lo hago.\nY siempre entregan exactamente lo que necesito.\n\nLos tengo en Claude. Se llaman Skills.\n\nTe explico cómo funcionan:\n\n1. La Skill de Carruseles\n\nCuando quiero crear contenido le di",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2055577007740596384",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2055280246086406265",
+      "author": "sheikhakash69",
+      "text": "A lot of AI platforms want users locked inside their own ecosystem.\n\nWhat I like about @TheARCTERMINAL is that they seem to be moving in a more open direction with ANIMA.\n\nThe new MCP server support makes it possible to connect custom tools and infrastructure instead of forcing u",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2055280246086406265",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2055237786416931128",
+      "author": "Bency1749379",
+      "text": "Good Morning ✨️ \n\ngARC\n\nMost AI agent platforms confine you to their ecosystem.\n\n@TheARCTERMINAL is taking a different approach with ANIMA.\n\nWith MCP server support, your agent is no longer restricted to pre-built tools.\nAny public or private MCP server integrates into your stack",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2055237786416931128",
+      "is_kol": false,
+      "score": 209.0
+    },
+    {
+      "id": "2055283550820393347",
+      "author": "Lovable",
+      "text": "1/5 Lovable MCP\n\nConnect to any API. Add any MCP server as a chat connector: private APIs, internal CRMs, custom data sources. https://t.co/Irfe2bjNIn",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2055283550820393347",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2055528779007562135",
+      "author": "VaibhavSisinty",
+      "text": "This is going to upset some people.\n\nFor two years I told everyone to use Claude. My whole company ran on it. 250 people, every workflow.\n\nLast week I moved all of them off.\n\nNot the outages. Not the cost.\n\nOne test did it. Same skill, same prompt, both AIs.\nClaude gave up and th",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2055528779007562135",
+      "is_kol": false,
+      "score": 200.0
+    }
+  ]
+}
