@@ -2446,5 +2446,45 @@
   "nexu-io/html-anything": {
     "first_seen": "2026-05-16",
     "tier": 3
+  },
+  "jerlinn/jerlin-weread": {
+    "first_seen": "2026-05-17",
+    "tier": 2
+  },
+  "printrfi/printr-mcp": {
+    "first_seen": "2026-05-17",
+    "tier": 2
+  },
+  "qiuqiubuchongle-cloud/ten-thousand-tokens-monitor-skill": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "microsoft/datafactory.mcp": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "fumiyasac/travel_booking": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "eid0lon/zero-slop": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "profit-plug/seo-skills": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "tahseen-kakar/skills": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "founddream/quire": {
+    "first_seen": "2026-05-17",
+    "tier": 3
+  },
+  "scayver/marketing-skills": {
+    "first_seen": "2026-05-17",
+    "tier": 3
   }
 }
