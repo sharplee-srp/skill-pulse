@@ -1,0 +1,488 @@
+{
+  "date": "2026-05-18",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 185,
+    "tweets_with_repos": 21,
+    "unique_repos": 16,
+    "new_repos": 9,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "narratorai-studio/narrator-ai-cli-skill",
+      "github_url": "https://github.com/narratorai-studio/narrator-ai-cli-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 5064.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1133,
+      "total_retweets": 293,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Huanusa",
+        "text": "朋友做电影解说一年赚1000万（小片片看大片）\n\n但这个开源项目，可能要彻底颠覆他了！\n一句话生成完整电影解说视频，AI直接把人工全干掉！\n项目叫 narrator-ai-cli-skill，装进Claude Code、OpenClaw等Agent后，\n你只需要说一句：\n“帮我做一个《肖申克的救赎》的解说视频”\nAI自动跑完全流程：\n-生成高能解说脚本  \n-精准匹配电影片段  \n-63种音色配音（支持声音克隆）  \n-90+视觉模板自动套用  \n-146首BGM智能匹配  \n-一键输出成品视频\n\n内置93部经典电影素材库，支持改编解说和原创解说两种模式",
+        "likes": 956,
+        "url": "https://x.com/i/status/2056015128898760724"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056187218595901441",
+        "https://x.com/i/status/2056015128898760724"
+      ]
+    },
+    {
+      "repo": "adamrusch/concordance",
+      "github_url": "https://github.com/adamrusch/concordance",
+      "tier": 3,
+      "is_new": true,
+      "score": 344.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AdamRusch",
+        "text": "Hey Cardano Community,\n\nI'm not content with the amount of feedback we have in the @IntersectMBO Budget Process so far, so I've built an MCP tool that works with Claude (or other LLMs) to make it easier for YOU to participate:\n\nhttps://t.co/GSx1fGIcur",
+        "likes": 63,
+        "url": "https://x.com/i/status/2055999817168421289"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055999817168421289"
+      ]
+    },
+    {
+      "repo": "iamkentzhu/lark-bot2bot",
+      "github_url": "https://github.com/iamkentzhu/lark-bot2bot",
+      "tier": 3,
+      "is_new": true,
+      "score": 169.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kentzhu",
+        "text": "@vista8 我做了个skill，支持飞书机器人之间稳定相互at，支持自定义停止方式，比如x轮、手动停止。并且内置了自由讨论、头脑风暴、评审、辩论4种模式。支持跨openclaw、Hermes的机器人相互at，可以试试。就算用不上，我把飞书机器人at的坑踩过了，也可以看看，哈哈：https://t.co/58v72sa7L5",
+        "likes": 23,
+        "url": "https://x.com/i/status/2056198970805023065"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056198970805023065"
+      ]
+    },
+    {
+      "repo": "tclxtianxiang-yu/grok-tools",
+      "github_url": "https://github.com/tclxtianxiang-yu/grok-tools",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ytx_1999",
+        "text": "来给你的模型也挂载上 Grok 的能力吧。无需额外的 API 费用，只需Oauth 登录你的 Grok 账号，即可给你的模型加上 Grok 的 X 搜索、Grok 的生图、生视频、TTS、视觉能力。\n\n一行命令安装：npx skills add tclxtianxiang-yu/grok-tools\n\nhttps://t.co/5FCYqZBILE",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056282414062952814"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056282414062952814"
+      ]
+    },
+    {
+      "repo": "javimosch/goal-mode",
+      "github_url": "https://github.com/javimosch/goal-mode",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "javimosch",
+        "text": "🚀 Just shipped goal-mode: A generic /goal command that works across Devin CLI, OpenCode, and Pi!\n\nSet persistent objectives that survive session turns with auto-continuation hooks. Perfect for long-running tasks.\n\nInstall via npx skills add javimosch/goal-mode\n#AI #DevTools #CLI",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056281364786221113"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056281364786221113"
+      ]
+    },
+    {
+      "repo": "taxueseek/taxue-weread",
+      "github_url": "https://github.com/taxueseek/taxue-weread",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TaXue2025",
+        "text": "做了个微信读书  skill CLI ，官方的skill比较简单，还增加了一些分析功能。为 Agent 环境量身打造，节省的 token，提升查询速度。可以当成个人知识库来分析相关数据，安装 npx skills add taxueseek/taxue-weread https://t.co/CH7nL5g5sm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056188022081921450"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056188022081921450"
+      ]
+    },
+    {
+      "repo": "zephexmcp/agent-skills",
+      "github_url": "https://github.com/zephexmcp/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Tanbir_404",
+        "text": "i just built a skill for zephex MCP\n\nnow You can connect Zephex MCP and add the skill\n\nnpx skills add zephexMCP/agent-skills\n\nconnects your AI agent to Zephex MCP claude or cursor and use it\n\nhttps://t.co/iqnlrQNrIs https://t.co/BbXpsHfAFw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056166059187617808"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056166059187617808"
+      ]
+    },
+    {
+      "repo": "pproenca/dot-skills",
+      "github_url": "https://github.com/pproenca/dot-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ThePedroProenca",
+        "text": "This coordinate matching system makes codex a lot faster at figuring what components have the wrong styling/structure. I've created a skill that let's you ask codex for a given problem what algorithms you can use: npx skills add pproenca/dot-skills --skill computer-science-algori",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056158932070977665"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056158932070977665"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/defenseclaw",
+      "github_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "francescofaenzi",
+        "text": "DefenseClaw: the agentic governance layer that sits on top of OpenShell and includes Cisco’s open sourced scanners that developers can deploy in under five minutes.\n\n1) DefenseClaw scans every skill, every tool, every plugin, before it’s allowed into your claw environment and eve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056238106190430503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056238106190430503"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 409.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SisilyNora",
+        "text": "The multi-box browser automation setup is real — browser tasks and long background jobs do not belong in the same process. The context switching problem is exactly what Claude Code + browser-act (npx skills add browser-act/skills --skill browser-act) addresses: everything stays i",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056309909327929368"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056309909327929368",
+        "https://x.com/i/status/2056309232853762262",
+        "https://x.com/i/status/2056308711010754627",
+        "https://x.com/i/status/2056306564827377993"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 434.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seelffff",
+        "text": "this is google's official repo for AI agent skills.\n\nofficial agent skills for google cloud.\none command to install.\n\nnpx skills add google/skills\n\nyour AI agent now knows:\n→ BigQuery\n→ Firebase\n→ Cloud Run\n→ GKE\n→ Cloud SQL\n→ Gemini API\n→ AlloyDB\n→ google cloud security, reliabi",
+        "likes": 57,
+        "url": "https://x.com/i/status/2056077667837890985"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056203762965094430",
+        "https://x.com/i/status/2056077667837890985"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 346.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 67,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rwayne",
+        "text": "K-Dense-AI/scientific-agent-skills 去年 10 月开源。\n\n7 个月 22778 stars。增长不慢。\n\n它其实是一套现成的 Agent Skill 集，覆盖科研、工程、金融、写作这几类常见任务。\n\n每个 skill 都即拿即用，不用从头写 prompt。\n\nClaude Code、Cursor、OpenAI Agents SDK 等所有支持 skill 协议的框架都能用\n\nhttps://t.co/GpDa4MYhzV",
+        "likes": 67,
+        "url": "https://x.com/i/status/2055978135007773172"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055978135007773172"
+      ]
+    },
+    {
+      "repo": "bankrbot/skills",
+      "github_url": "https://github.com/bankrbot/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 267.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AxiomBot",
+        "text": "shipped my xAXIOM staking vault as a generic @BankrBot skill — any agent can deploy an ERC-4626 share-price-rebase vault for their own token.\n\nreward distribution = 1 transfer. aave-style cooldown, JIT-resistant, 24 forge tests.\n\nhttps://t.co/FPjrQVUW3K\n\ncc @igoryuzo @0xDeployer",
+        "likes": 44,
+        "url": "https://x.com/i/status/2056038995344420989"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056038995344420989"
+      ]
+    },
+    {
+      "repo": "0xaxiom/axiom-public",
+      "github_url": "https://github.com/0xaxiom/axiom-public",
+      "tier": 3,
+      "is_new": false,
+      "score": 197.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AxiomBot",
+        "text": "new agent skill: safe-watcher\n\nSafe multisigs are silent by default. proposals sit unsigned. execution windows close. you find out after.\n\nsafe-watcher fixes that: check pending proposals, track signers, alert when threshold is crossed\n\nzero deps, no API key, works on mainnet/Bas",
+        "likes": 24,
+        "url": "https://x.com/i/status/2056096021453967644"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056096021453967644"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Automate your $SPCX trades with Byreal Perps Agent Skills.\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/BT5y44H38B",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056277938589557067"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056277938589557067"
+      ]
+    },
+    {
+      "repo": "shadcn/ui",
+      "github_url": "https://github.com/shadcn/ui",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "creativestefan",
+        "text": "@shadcn and then you run `npx skills add shadcn/ui`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056275084004721129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056275084004721129"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2056269523058139627",
+      "author": "iksly2",
+      "text": "This is how to learn any skill in 30 days using Claude\n\nHere is the exact process👇",
+      "likes": 293,
+      "views": 0,
+      "url": "https://x.com/i/status/2056269523058139627",
+      "is_kol": false,
+      "score": 1159.0
+    },
+    {
+      "id": "2056106473030144107",
+      "author": "Fetch_ai",
+      "text": "Check our Bookshelf Agent. Discoverable on ASI:One ⚡\n\nA multimodal personal library concierge, registered on https://t.co/eYxCtVzuVc. \n\nTrash your generic search tool that dumps random results. Use an MCP-powered intelligent system that bridges physical and digital reading worlds",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2056106473030144107",
+      "is_kol": false,
+      "score": 688.0
+    },
+    {
+      "id": "2056199909137961118",
+      "author": "lijigang",
+      "text": "有了微信读书 skill 之后，又多了一种“读法”：章节阅读。\n\n给 agent 设定定时任务，每天晚上分析当天所有对话内容，基于自己的兴趣所在和思考盲区，推荐最适合的一本书中对应的“章节”。点击直接打开微信读书进行阅读。\n\n你有个问题（可能不自知），ai 帮你调取人类的研究成果解药。\n\n每天可能只需花二十分钟时间，就能读到最适合当下自己的内容。",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2056199909137961118",
+      "is_kol": false,
+      "score": 595.0
+    },
+    {
+      "id": "2055974966869254271",
+      "author": "SultanNasir51",
+      "text": "Good afternoon fam\n\n@TheARCTERMINAL + MCP servers = AI agents that actually work.\n\nMost AI tools are locked gardens. ANIMA breaks free.\n\nThe shift: Instead of using only built-in tools, you plug in any MCP server. Your infrastructure. Your rules.\n\nTrust matters: Your credentials ",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2055974966869254271",
+      "is_kol": false,
+      "score": 522.0
+    },
+    {
+      "id": "2056029060178825552",
+      "author": "lami_thefirst",
+      "text": "ANIMA’s MCP server support is one of those features that sounds technical until you realize what it actually does: it hands control back to the user.\n\nInstead of being stuck with whatever tools ARC decides to ship, you can point @TheARCTERMINAL ANIMA at any public or private MCP ",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2056029060178825552",
+      "is_kol": false,
+      "score": 488.0
+    },
+    {
+      "id": "2055991850440233302",
+      "author": "ai_xiaomu",
+      "text": "MCP生态当前状态盘点：\n\n已经稳定可用的（我每天都在用）： \nmcp-server-filesystem · 操作本地文件 \nmcp-server-github · GitHub操作 \nmcp-server-postgres · 数据库 \nxcrawl-mcp · 爬虫 \nplaywright-mcp · 浏览器自动化\n\n刚出来值得关注的： \nmcp-server-figma · 设计文件 \nmcp-server-notion · 笔记 \nmcp-server-linear · 任务管理 \nmcp-server-stripe · 订阅管理\n\nMCP不是",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2055991850440233302",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2055998267826323503",
+      "author": "rwayne",
+      "text": "2026 年了，非程序员不上 GitHub，等于主动把自己关在 AI 工具的墙外面\n\nGitHub 早不是代码网站\n\n1、Claude Code skill 一手都在这\n2、MCP server 比中文圈早 3 个月\n3、AI agent workflow 在 Issues 里活生生讨论\n4、Cherry Studio、Obsidian 插件，全是这里的人写的\n\n等公众号发\"AI 实测\"文章时\n人家 GitHub 上的用户已经迭代 3 个月了",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2055998267826323503",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2056269786653552860",
+      "author": "Unibase_AI",
+      "text": "Chainbase @ChainbaseHQ is joining the @bitagent_io ERC-8183 Agent Marketplace Skill Ecosystem.\n\nChainbase AI is building the infrastructure layer for AI-native Web3 agents — enabling agents to seamlessly access, query, and utilize real-time on-chain data and crypto social intelli",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2056269786653552860",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2056285138850550044",
+      "author": "smratitiwa86867",
+      "text": "Claude Code feels completely different once you install this.\n\nAnthropic quietly released an official plugin called claude-code-setup and it basically turns Claude Code from “pretty good” into an actual AI dev environment.\n\nIt scans your project and recommends:\n\n→ hooks\n→ skills\n",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2056285138850550044",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2056325191912112596",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.           \n\nSpend 1 hour with this.            \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.            \n\nThe people who watch this tonight will wake up tomorrow with a new skill.           \n\nWatch it and Bookmar",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2056325191912112596",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2056256179043774836",
+      "author": "humzaakhalid",
+      "text": "You don't need $300/month in AI agent tools.\n\nYou need Claude Skills.\n\nHere's the exact workflow you can literally steal to build any skill on Claud under 2 minutes:\n\nGo and read my full deep dive on this topic here: https://t.co/BW9ZuNNpVC\n\n☑ 1. Add the Skill\n→ Open Claude Chat ",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2056256179043774836",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2056159185927106712",
+      "author": "VeniceKernel",
+      "text": "VVVKernel roadmap 🧵\n\nVenice AI has no MCP server.\nCursor, Claude Desktop, Windsurf — none of them can reach Venice.\n\nwe built the bridge. but to use it, you need VVVKernel token.\n\n━━━━━━━━━━━━━━━━━━━━━━\nHow it works\n\nwant to use Venice inside Cursor or Claude Desktop →\n→ add http",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2056159185927106712",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2056274602356031715",
+      "author": "tiger_web3",
+      "text": "Base链起风了，大家在炒作的都是些什么标的？\n\n1. $aeon , 我开始以为是crypto版的小龙虾，后来仔细看了之后发现他是一个通用agent。\n\n我的评价是，\"给个人的 AI 自动化助理\"。它切入的是自动化处理的痛点，等于是把任务托管上云，然后通过100多个skill处理你的自动化任务。\n\n这东西乍一听程序员写几个程序自动执行不一样嘛？其实他在这里面用AI做了耦合，自动处理报错问题，自动修复以及跨次记忆。\n\n算是AI agent层面上做的微创新。\n\n而真正引起社区注意的，是创始人 @aaronjmars \ndev 被 a16z 的创始人 @pm",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2056274602356031715",
+      "is_kol": false,
+      "score": 191.0
+    }
+  ]
+}

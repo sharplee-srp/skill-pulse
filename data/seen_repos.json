@@ -2486,5 +2486,41 @@
   "scayver/marketing-skills": {
     "first_seen": "2026-05-17",
     "tier": 3
+  },
+  "narratorai-studio/narrator-ai-cli-skill": {
+    "first_seen": "2026-05-18",
+    "tier": 2
+  },
+  "adamrusch/concordance": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "iamkentzhu/lark-bot2bot": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "tclxtianxiang-yu/grok-tools": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "javimosch/goal-mode": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "taxueseek/taxue-weread": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "zephexmcp/agent-skills": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "pproenca/dot-skills": {
+    "first_seen": "2026-05-18",
+    "tier": 3
+  },
+  "cisco-ai-defense/defenseclaw": {
+    "first_seen": "2026-05-18",
+    "tier": 3
   }
 }
