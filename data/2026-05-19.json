@@ -1,0 +1,674 @@
+{
+  "date": "2026-05-19",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 180,
+    "tweets_with_repos": 27,
+    "unique_repos": 24,
+    "new_repos": 16,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "gridex/gridex",
+      "github_url": "https://github.com/gridex/gridex",
+      "tier": 2,
+      "is_new": true,
+      "score": 488.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 111,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jaywcjlove",
+        "text": "Gridex — 一款 AI Native 数据库 IDE。\n\n▶ 原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse\n▶ 内置 AI Chat 与 MCP Server\n▶ 支持 macOS / Windows / Linux\n\n👉 https://t.co/jzYLIkpbj7 https://t.co/HMre4huIjx",
+        "likes": 111,
+        "url": "https://x.com/i/status/2056214264382431369"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056214264382431369"
+      ]
+    },
+    {
+      "repo": "spacetime-technology/chia-explorer",
+      "github_url": "https://github.com/spacetime-technology/chia-explorer",
+      "tier": 3,
+      "is_new": true,
+      "score": 300.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xfreddieC",
+        "text": "There is no longer a need for a web based blockchain explorer with @chia_project  for most use-cases. Install this MCP server to give your agents live access to the Chia Blockchain. You can ask the agent whatever you want to know. https://t.co/btedmtE9JY https://t.co/zAnoTWt68A",
+        "likes": 40,
+        "url": "https://x.com/i/status/2056556114083463589"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056556114083463589"
+      ]
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "github_url": "https://github.com/nashsu/llm_wiki",
+      "tier": 3,
+      "is_new": true,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nash_su",
+        "text": "llm_wiki v0.4.11 版本更新发布，Star数也突破了8k 🎉🎉\n\n本次更新主要功能：\n - 新增本地 API Server，可通过接口访问项目文件、搜索、关系图数据和资料重扫，可在设置中配置，配合 Skill，可以接入各种 Agent，OpenClaw/Hermes 等等。\n - UI 搜索和 API 搜索统一到 Rust 后端，支持关键词与向量检索。\n - 知识图谱新增搜索功能，图谱检索更加方便。\n\n感谢大家一直以来的支持，llm_wiki 会持续演进。\n\n项目地址：https://t.co/Xkd9oTNcIj\nSkill 地址：htt",
+        "likes": 25,
+        "url": "https://x.com/i/status/2056594832391627076"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056594832391627076"
+      ]
+    },
+    {
+      "repo": "femto/git-as-memory",
+      "github_url": "https://github.com/femto/git-as-memory",
+      "tier": 3,
+      "is_new": true,
+      "score": 128.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "femtowin",
+        "text": "🧠 Just write Git as Memory — store AI agent memory directly in Git refs\nNo external DB, no cloud. Just your repo.\nhttps://t.co/HbJDENPlC0\nnpx skills add https://t.co/HRccVFT3Ru --skill git-as-memory\nWorks with OpenClaw, Hermes, Claude Code, Codex.",
+        "likes": 6,
+        "url": "https://x.com/i/status/2056659569745813833"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056659569745813833"
+      ]
+    },
+    {
+      "repo": "mrstandev/llm-council",
+      "github_url": "https://github.com/mrstandev/llm-council",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MrStanDev",
+        "text": "🚨 Here is how I stopped OpenClaw always agreeing with me:\nI stopped asking one AI for one answer and created Andrej Karpathy LLM Council Skill For OPENCLAW\nhttps://t.co/GSVoJdngZo https://t.co/iBFOeJsgHb",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056587990470680811"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056587990470680811"
+      ]
+    },
+    {
+      "repo": "av/skills",
+      "github_url": "https://github.com/av/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Everlier",
+        "text": "@ClaudeDevs This knowledge is now a skill, /superclaude to optimise Claude for your large codebase\n\n```\nnpx skills add av/skills --skill superclaude\n```\n\nhttps://t.co/7ElvtHxy6c https://t.co/yDiVKUM0xF",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056420022738645333"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056420022738645333"
+      ]
+    },
+    {
+      "repo": "cyxzdev/uncodixfy",
+      "github_url": "https://github.com/cyxzdev/uncodixfy",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dev_oai",
+        "text": "@Kappaemme1926 https://t.co/nLySOXnLvY\n\nSkill for improving codex designs",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056692054869315654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056692054869315654"
+      ]
+    },
+    {
+      "repo": "alanhe421/awsome-claude-skills",
+      "github_url": "https://github.com/alanhe421/awsome-claude-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alanhe421",
+        "text": "npx skills add alanhe421/awsome-claude-skills --skill tgit",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056589634982027380"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056589634982027380"
+      ]
+    },
+    {
+      "repo": "getstream/agent-skills",
+      "github_url": "https://github.com/getstream/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "getstream_io",
+        "text": "Try the skills by installing in your terminal:\n\nnpx skills add GetStream/agent-skills -s stream\n\nOr view and download the skills yourself at https://t.co/TTt12TI0gV",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056466780109873321"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056466780109873321"
+      ]
+    },
+    {
+      "repo": "speakeasy-api/skills",
+      "github_url": "https://github.com/speakeasy-api/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "speakeasydev",
+        "text": "npx skills add speakeasy-api/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056451523530707248"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056451523530707248"
+      ]
+    },
+    {
+      "repo": "park-jun-woo/yongol",
+      "github_url": "https://github.com/park-jun-woo/yongol",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "park_jun_woo",
+        "text": "This is yongol — 8 specs, 270 rules, one CLI.\n\nnpx skills add park-jun-woo/yongol https://t.co/vAKxnDOF8Z",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056397053731975261"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056397053731975261"
+      ]
+    },
+    {
+      "repo": "park-jun-woo/tsma",
+      "github_url": "https://github.com/park-jun-woo/tsma",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "park_jun_woo",
+        "text": "This is tsma — a ratchet CLI for test generation. One command: next. The machine picks the function, verifies the test, advances.\n\nnpx skills add park-jun-woo/tsma",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056389471093039243"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056389471093039243"
+      ]
+    },
+    {
+      "repo": "daniakash/acpx",
+      "github_url": "https://github.com/daniakash/acpx",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dani_akash_",
+        "text": "@ctatedev A set of tools to build a UI on top of openclaw/acpx - which will help code editors and other apps to connect to external agents easily \n\n- AI SDK provider\n- Skill management \n- ACP capabilities probe \n\nand more on the way...\n\nhttps://t.co/rCnYqaetOt",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056541711317532716"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056541711317532716"
+      ]
+    },
+    {
+      "repo": "archlizheng/frontend-slides-editable",
+      "github_url": "https://github.com/archlizheng/frontend-slides-editable",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIDailyGems",
+        "text": "New contender worth evaluating. Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui\n\nhttps://t.co/6shPvnonnx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056707878799413751"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056707878799413751"
+      ]
+    },
+    {
+      "repo": "pasqualevittoriosi/swift-accessibility-skill",
+      "github_url": "https://github.com/pasqualevittoriosi/swift-accessibility-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "janodev",
+        "text": "I cloned a number of Swift skills from https://t.co/SmqVsDtfoT and asked Codex which one is better.\n\nAccessibility \nhttps://t.co/FQQeMUJgXL\nOr https://t.co/VLN0aLn8hB if you specifically need WCAG in SwiftUI.\n\nSwift \nhttps://t.co/lIH1z1TdPY\nswiftui-agent-skill\nswift-concurrency-a",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056701942298976643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056701942298976643"
+      ]
+    },
+    {
+      "repo": "bchevreau/review-past-performance-skill",
+      "github_url": "https://github.com/bchevreau/review-past-performance-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BChevreau",
+        "text": "@EivindKjos Just wanted to personally thank you, as you were the main inspiration for my Review Past Performance skill, that's been working amazing for me with Codex so far! \nhttps://t.co/ELsw9wFrfP\nCurious for feedback if you have a \"sandboxed\" claude that could try it out ;-)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056686238527369301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056686238527369301"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 519.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jiajia_OKX",
+        "text": "用Agent 跨链桥，\n最简便的办法来了(¯▽¯)👍\n第一，运行Onchain OS，\n\n第二，直接跟它说，帮我把USDC 从Ethereum 跨到Base。\n\n第三，看着它自动对比多家头部桥的费率和速度。最后按提示签名就行～\n\n马上试试看吧ᕕ(ᐛ)ᕗ\n👉 npx skills add okx/onchainos-skills https://t.co/RPb8UEg4pT",
+        "likes": 24,
+        "url": "https://x.com/i/status/2056635464967491655"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056635464967491655",
+        "https://x.com/i/status/2056580024514596975",
+        "https://x.com/i/status/2056551219586633962",
+        "https://x.com/i/status/2056618527008911857"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 2,
+      "is_new": false,
+      "score": 2662.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 754,
+      "total_retweets": 60,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NousResearch",
+        "text": "感谢 @dotey 将他的 baoyu-comic skill 移植到 Hermes Agent！\n\n这个 skill 可以把一段 prompt 或源文档转成多页知识漫画，支持 6 种风格、7 种语气、7 种版式和 5 个预设。\n\nhttps://t.co/Pmrzh7OOWE https://t.co/FwqWiFzURk",
+        "likes": 754,
+        "url": "https://x.com/i/status/2056590436324491771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056590436324491771"
+      ]
+    },
+    {
+      "repo": "adamrusch/concordance",
+      "github_url": "https://github.com/adamrusch/concordance",
+      "tier": 3,
+      "is_new": false,
+      "score": 349.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AdamRusch",
+        "text": "Hey Cardano Community,\n\nI'm not content with the amount of feedback we have in the @IntersectMBO Budget Process so far, so I've built an MCP tool that works with Claude (or other LLMs) to make it easier for YOU to participate:\n\nhttps://t.co/GSx1fGIcur",
+        "likes": 63,
+        "url": "https://x.com/i/status/2055999817168421289"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2055999817168421289"
+      ]
+    },
+    {
+      "repo": "narratorai-studio/narrator-ai-cli-skill",
+      "github_url": "https://github.com/narratorai-studio/narrator-ai-cli-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 244.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTCPS",
+        "text": "我朋友做电影解说一年赚了1000万，我现在要把这个消息告诉他，他今晚肯定睡不着了。\n\n有个开源项目叫 narrator-ai-cli-skill，塞进 Claude Code 这类 Agent 里，你就说一句\"帮我做《肖申克的救赎》解说视频\"，AI 自己把所有活全包了：\n\n1️⃣ 自动生成解说脚本，不用你动脑\n2️⃣ 精准匹配对应电影片段，不用你剪辑\n3️⃣ 63种音色配音，还支持声音克隆，不用你录音\n4️⃣ 90+视觉模板自动套用，不用你设计\n5️⃣ 146首BGM智能匹配，不用你找歌\n6️⃣ 直接输出成品，不用你后期\n\n内置93部经典电影素材库，还会",
+        "likes": 38,
+        "url": "https://x.com/i/status/2056560484690927889"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056560484690927889"
+      ]
+    },
+    {
+      "repo": "mvanhorn/printing-press-library",
+      "github_url": "https://github.com/mvanhorn/printing-press-library",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mvanhorn",
+        "text": "@MehtaCognition @ppressdev I'm in Hermes rigiht now, but there's also an OpenClaw skill.  https://t.co/VdeHrR8OaV https://t.co/Co3NatRCJm",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056558198971363395"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056558198971363395"
+      ]
+    },
+    {
+      "repo": "openai/skills",
+      "github_url": "https://github.com/openai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ftnext",
+        "text": "CodexってClaude Codeほどhookが整ってないんですが、skillの実装を読むとこう書くのか〜と発見があってなかなか面白いです #AI自走環境\n\n例：別スキル絶対使ってね〜\n&gt;Use $\\imagegen for all normal visual generation.\nhttps://t.co/nGHXtWNtLJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2056687801538879912"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056687801538879912"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "@worldlibertyfi @solana 🤖 Automate your trades with Byreal Agent Skills\n\nLet your agent:\n• manage execution automatically\n• react 24/7 without emotional decisions\n\nnpx skills add byreal-git/byreal-agent-skills\nhttps://t.co/whXDGefEcW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056676315059904576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056676315059904576"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/defenseclaw",
+      "github_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "francescofaenzi",
+        "text": "DefenseClaw: the agentic governance layer that sits on top of OpenShell and includes Cisco’s open sourced scanners that developers can deploy in under five minutes.\n\n1) DefenseClaw scans every skill, every tool, every plugin, before it’s allowed into your claw environment and eve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056238106190430503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056238106190430503"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2056419620643541012",
+      "author": "AnthropicAI",
+      "text": "Anthropic is acquiring @stainlessapi, an SDK and MCP server platform that has powered every Anthropic SDK since the earliest days of our API.\n\nRead more: https://t.co/ZQbsZKnicv",
+      "likes": 2740,
+      "views": 0,
+      "url": "https://x.com/i/status/2056419620643541012",
+      "is_kol": true,
+      "score": 9325.0
+    },
+    {
+      "id": "2056559813308383669",
+      "author": "axichuhai",
+      "text": "卧槽，有个编程大神把自己的工程经验蒸馏成了一个开源项目\n\nGitHub 热榜第一，Star数直接冲上了9万 +\n\n作者是前 Vercel 工程师 Mat，参与过 Next.js 早期开发，以把复杂技术讲得通俗易懂著称。\n\n他把日常和 Claude 协作的工程实践整理成 16 个 skill，一条命令安装，给 AI 注入几十年的软件工程经验。\n\n最受好评的一个叫 Grim，让 AI 反过来拷问你，沿着决策树逐一确认需求，直到彻底搞清楚你想要什么再动手。\n\n只有 3 句话 42 个词，被不少人评为\"token 回报率最高的提示词\"。\n\n还有一个 skill ",
+      "likes": 340,
+      "views": 0,
+      "url": "https://x.com/i/status/2056559813308383669",
+      "is_kol": false,
+      "score": 1485.0
+    },
+    {
+      "id": "2056421008546897989",
+      "author": "driaforall",
+      "text": "Introducing watchmen. \n\nIt writes the skill files your coding agents should already have from your own sessions, shared across Claude Code, Codex, and pi, so you stop paying tokens to re-explain what your agent learned last week. \n\nLocal and open-source. https://t.co/ngGlr6XkUa",
+      "likes": 308,
+      "views": 0,
+      "url": "https://x.com/i/status/2056421008546897989",
+      "is_kol": false,
+      "score": 994.0
+    },
+    {
+      "id": "2056364684555829594",
+      "author": "sjsandeep_jain",
+      "text": "Most AI engineers know how to use MCP.\n\nVery few understand the server patterns that make production AI systems actually scalable. ⚡\n\nThis breakdown of the top 5 MCP server architectures is pure gold for anyone building serious AI agents in 2026. 👇\n\n1️⃣ Tool Server\nLets AI agents",
+      "likes": 213,
+      "views": 0,
+      "url": "https://x.com/i/status/2056364684555829594",
+      "is_kol": false,
+      "score": 959.0
+    },
+    {
+      "id": "2056659360915279875",
+      "author": "GoMining",
+      "text": "The GoMining MCP Server is built around two modes of interaction: read access and write access.\n\nRead access lets your AI view and explain your data. \n\nWrite access, which is coming soon, will allow your AI agent to perform actions on your behalf, such as upgrading a miner, movin",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2056659360915279875",
+      "is_kol": false,
+      "score": 958.0
+    },
+    {
+      "id": "2056447804537741327",
+      "author": "mattpocockuk",
+      "text": "My last AI Coding Cohort was the most successful course I've ever released.\n\n2,500+ students worked with Claude Code for 2 weeks, building a real app with AFK agents and software fundamentals.\n\nSo, we made version 2:\n\n- Use any coding agent you like\n- Updates for every skill\n- Us",
+      "likes": 281,
+      "views": 0,
+      "url": "https://x.com/i/status/2056447804537741327",
+      "is_kol": false,
+      "score": 898.0
+    },
+    {
+      "id": "2056664383309099107",
+      "author": "mattpocockuk",
+      "text": "Considering an /auto-grill skill which you'd run during a grilling session\n\n1. Run when you feel like you and the agent are on the same page\n2. It continues the grilling but always accepts its own recommendation\n3. If you disagree, you manually interrupt it\n\nWorth a try?",
+      "likes": 239,
+      "views": 0,
+      "url": "https://x.com/i/status/2056664383309099107",
+      "is_kol": false,
+      "score": 737.0
+    },
+    {
+      "id": "2056488612758446273",
+      "author": "SleeperNFL",
+      "text": ".@MattBowen41 believes the Colts are the best fit for free agent Deebo Samuel.\n\n\"Samuel would bring a unique skill set to their offense as a complement to Alec Pierce and Josh Downs. Signing him would also give Daniel Jones another catch-and-run target alongside TE Tyler Warren.\"",
+      "likes": 206,
+      "views": 0,
+      "url": "https://x.com/i/status/2056488612758446273",
+      "is_kol": false,
+      "score": 678.0
+    },
+    {
+      "id": "2056418854729851055",
+      "author": "dkare1009",
+      "text": "MCP vs Tool Calling vs Skills\n\n3 ways to extend an LLM — not interchangeable.\n\nTool Calling = Function\n→ Model triggers APIs/code\nBest: small, controlled setups\n\nMCP = Protocol\n→ Connect models to tools dynamically\nBest: cross-app, scalable systems\n\nSkills = Playbook\n→ Instructio",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2056418854729851055",
+      "is_kol": false,
+      "score": 677.0
+    },
+    {
+      "id": "2056374801652912557",
+      "author": "TrustWallet",
+      "text": "Meet the new Trust Wallet Builder Portal 👷💙 \n\n6 primitives. 2 trust models. 1 toolkit for building AI agents on self-custody crypto. \n\n→ MCP Server - CLI - SDK \n→ 25+ chains \n→ Agent Wallet + WalletConnect modes \n→ From 0 to shipping agent in seconds\n\nStart building: https://t.co",
+      "likes": 159,
+      "views": 0,
+      "url": "https://x.com/i/status/2056374801652912557",
+      "is_kol": false,
+      "score": 607.0
+    },
+    {
+      "id": "2056608688920486166",
+      "author": "TheDefiApe",
+      "text": "These MIT students shipped a product that allows Claude to control your hand via small electric pulses.\n\nImagine playing the piano like Beethoven with zero skill at all. \n\nSkills are so 20th century.  https://t.co/bD5PVvC1fv",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2056608688920486166",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2056421680143380606",
+      "author": "MTSlive",
+      "text": "SITUATION DETECTED: Anthropic has acquired Stainless, a leader in SDK and MCP server tooling that has powered every official Anthropic SDK since the earliest days of its API.",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2056421680143380606",
+      "is_kol": false,
+      "score": 416.0
+    },
+    {
+      "id": "2056624940519149969",
+      "author": "Unibase_AI",
+      "text": "PancakeSwap @PancakeSwap is joining BitAgent ERC-8183 Agent Marketplace Skill Ecosystem.\n\nAs leading DEX on BNB Chain, PancakeSwap enables users to swap assets, provide liquidity, and participate in on-chain yield opportunities across the ecosystem.\n\nOn BitAgent ERC-8183 Marketpl",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2056624940519149969",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2056464413176012842",
+      "author": "_aircorridor",
+      "text": "Artificial Intelligence in Cybersecurity, Part 4: Creating a Custom MCP Server For Log Analysis\n\nhttps://t.co/SRXXqDR21i\n\n@three_cube @DI0256 @IamSmouk @co11ateral https://t.co/ssVepoYgs8",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2056464413176012842",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2056627343410749888",
+      "author": "Suryanshti777",
+      "text": "Most teams are building MCP servers the same way people built internal tools in 2019:\n\none endpoint = one tool\n\nThen six months later the agent has 47 tools, picks the wrong one half the time, burns tokens routing requests, and nobody knows why latency exploded.\n\nThe interesting ",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2056627343410749888",
+      "is_kol": false,
+      "score": 338.0
+    }
+  ]
+}

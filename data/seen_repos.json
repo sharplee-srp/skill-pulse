@@ -2522,5 +2522,69 @@
   "cisco-ai-defense/defenseclaw": {
     "first_seen": "2026-05-18",
     "tier": 3
+  },
+  "gridex/gridex": {
+    "first_seen": "2026-05-19",
+    "tier": 2
+  },
+  "spacetime-technology/chia-explorer": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "nashsu/llm_wiki": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "femto/git-as-memory": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "mrstandev/llm-council": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "av/skills": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "cyxzdev/uncodixfy": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "alanhe421/awsome-claude-skills": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "getstream/agent-skills": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "speakeasy-api/skills": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "park-jun-woo/yongol": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "park-jun-woo/tsma": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "daniakash/acpx": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "archlizheng/frontend-slides-editable": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "pasqualevittoriosi/swift-accessibility-skill": {
+    "first_seen": "2026-05-19",
+    "tier": 3
+  },
+  "bchevreau/review-past-performance-skill": {
+    "first_seen": "2026-05-19",
+    "tier": 3
   }
 }
