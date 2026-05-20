@@ -1,0 +1,488 @@
+{
+  "date": "2026-05-20",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 193,
+    "tweets_with_repos": 21,
+    "unique_repos": 16,
+    "new_repos": 11,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 1,
+      "is_new": true,
+      "score": 353.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L_go_mrk",
+        "text": "🚨AIにUIを作らせると「惜しい見た目」になりがちな人、これ見てください。\n\nHallmarkというopen-source design skillが出ています。\n\nClaude Code / Cursor / Codexに入れて使える、UIやLPをきれいに作るためのデザインスキルです。\n\nAIにコードだけ任せると、動くけど見た目が微妙な画面になりがちですが、こういうskillを渡すと「最初からデザイン感度込み」で作らせやすくなるのが良いです。\n\nインストールはこれだけ。\n\nnpx skills add nutlope/hallmark\n\nClaude ",
+        "likes": 15,
+        "url": "https://x.com/i/status/2057049947262878052"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057049947262878052",
+        "https://x.com/i/status/2056986325111410955",
+        "https://x.com/i/status/2056887403798048960"
+      ]
+    },
+    {
+      "repo": "veniceai/venice-mcp-server",
+      "github_url": "https://github.com/veniceai/venice-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 803.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 186,
+      "total_retweets": 29,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sabrinaesaquino",
+        "text": "The official Venice MCP Server is live!\n\n31 tools across every modality. Chat, image, video, audio, music, web search, and more. \n\nWorks with your Hermes or OpenClaw agent, Claude Code, Cursor, Codex, or any MCP client.\n\n👉 https://t.co/cAPKDQ48eD https://t.co/T7qN00dXAn",
+        "likes": 186,
+        "url": "https://x.com/i/status/2056826633344975178"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056826633344975178"
+      ]
+    },
+    {
+      "repo": "ellipsis-labs/vulcan-cli",
+      "github_url": "https://github.com/ellipsis-labs/vulcan-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 355.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PhoenixTrade",
+        "text": "Built for agents too.\n\nEvery command returns structured JSON. The CLI ships with a local MCP server and bundled skills for Claude Code, Codex, and any MCP client.\n\nGithub: https://t.co/WIbGWMV9Lf\n\nDocs: https://t.co/HmDGmSoHBz",
+        "likes": 75,
+        "url": "https://x.com/i/status/2056823325704270212"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056823325704270212"
+      ]
+    },
+    {
+      "repo": "huggingface/transformers-to-mlx",
+      "github_url": "https://github.com/huggingface/transformers-to-mlx",
+      "tier": 3,
+      "is_new": true,
+      "score": 277.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ivanfioravanti",
+        "text": "Another must-have, super Agent Skill, to aid in the conversion of transformers models to Apple MLX by @pcuenq \nhttps://t.co/w8YPTSQoh3",
+        "likes": 49,
+        "url": "https://x.com/i/status/2057009168020582607"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057009168020582607"
+      ]
+    },
+    {
+      "repo": "berabuddies/semia",
+      "github_url": "https://github.com/berabuddies/semia",
+      "tier": 3,
+      "is_new": true,
+      "score": 253.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fried_rice",
+        "text": "We also opensourced Semia, a skill auditing plugin. You can plug it into Codex, Claude Code, or OpenClaw to audit your local skills before running them.\n\nCode: https://t.co/kkd0c5xqhV\nPaper: https://t.co/1IWXBsgYC9",
+        "likes": 13,
+        "url": "https://x.com/i/status/2056936884996350161"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056939282917732368",
+        "https://x.com/i/status/2056936884996350161"
+      ]
+    },
+    {
+      "repo": "mcp-use/mcp-use",
+      "github_url": "https://github.com/mcp-use/mcp-use",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pederzh",
+        "text": "quick one for anyone migrating off Stainless:\nwe shipped a skill that turns your OpenAPI spec into an MCP server, inside codex/claude code/cursor\n&gt; npx skills add mcp-use/mcp-use/skills/openapi-to-mcp\nhttps://t.co/XLs0wTEByM",
+        "likes": 5,
+        "url": "https://x.com/i/status/2056845481733398824"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056845481733398824"
+      ]
+    },
+    {
+      "repo": "aaron-he-zhu/seo-geo-c",
+      "github_url": "https://github.com/aaron-he-zhu/seo-geo-c",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ComagerTon79278",
+        "text": "インストールコマンド↓\n npx skills add aaron-he-zhu/seo-geo-c\n  laude-skills@seo-content-writer -g",
+        "likes": 2,
+        "url": "https://x.com/i/status/2057026550097416626"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057026550097416626"
+      ]
+    },
+    {
+      "repo": "microsoft/skills",
+      "github_url": "https://github.com/microsoft/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "すごい、Microsoft公式の\nAgent Skillsが174個まで\n増えてた。\n\nAzure/Foundry系の\ncoding agent向け文脈を\n必要なskillだけ入れるやつ。\n\nnpx skills add\nmicrosoft/skills\n\nContext rot防止に\n全部入れないのが大事。\nhttps://t.co/0PxEaRKcZ4",
+        "likes": 2,
+        "url": "https://x.com/i/status/2056860646642446530"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056860646642446530"
+      ]
+    },
+    {
+      "repo": "oitan/design-html-shotgun",
+      "github_url": "https://github.com/oitan/design-html-shotgun",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alikhan_oitan",
+        "text": "kept asking Claude for \"3 takes on this screen\" then losing track of which was which.    built a tiny Claude Code skill that drops them into a tabbed board with scroll memory per variant.    MIT, one-line install.    https://t.co/6JMaHzYNdI\n\n#agent #ai #llm #skill #claude #codex ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2057017735436202040"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057017735436202040"
+      ]
+    },
+    {
+      "repo": "mantadigital/stingray-agent-skills",
+      "github_url": "https://github.com/mantadigital/stingray-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DavidYenicelik",
+        "text": "11. Stingray skills for agents\n\nFor Claude Code, Cursor, or Codex, Stingray's research is now installable.\n\nOne command: npx skills add MantaDigital/stingray-agent-skills -g -y\n\nYour coding agent now speaks alerts, backtests, and research. Same live indexes as chat.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057053936964731090"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057053936964731090"
+      ]
+    },
+    {
+      "repo": "conventional-branch/conventional-branch",
+      "github_url": "https://github.com/conventional-branch/conventional-branch",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xianpengshen",
+        "text": "4/5\n\nYou can install the official Skill with:\n\nnpx skills add conventional-branch/conventional-branch --skill conventional-branch",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056968288177897534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056968288177897534"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "spacetime-technology/chia-explorer",
+      "github_url": "https://github.com/spacetime-technology/chia-explorer",
+      "tier": 3,
+      "is_new": false,
+      "score": 371.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 20,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xfreddieC",
+        "text": "There is no longer a need for a web based blockchain explorer with @chia_project  for most use-cases. Install this MCP server to give your agents live access to the Chia Blockchain. You can ask the agent whatever you want to know. https://t.co/btedmtE9JY https://t.co/zAnoTWt68A",
+        "likes": 57,
+        "url": "https://x.com/i/status/2056556114083463589"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056556114083463589"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 227.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okxchinese",
+        "text": "OKX实用小功能之“自动赚币”，想用随时关、赎回不设障：\n\n◼️开启交易账户自动赚币，不改变交易习惯、不影响交易的前提下，赚取额外收益\n\n◼️USDG享 3.5% APY ，VIP 用户尊享 4.1%，随时赎回，总额无上限\n\n◼️如您使用OKX Agent Trade Kit也可一句话开启赚币：npx skills add okx/agent-skills https://t.co/BMOoJHU5Y5",
+        "likes": 8,
+        "url": "https://x.com/i/status/2057032894993117303"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057043826800292209",
+        "https://x.com/i/status/2057032894993117303"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 211.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hualun",
+        "text": "OKX 钱包这个功能看着就很牛掰\n\n你还在考虑安装不同跨链桥的skill，OKX Wallet已经帮你整合好，只需要安装OKX Onchain OS 这套 skill，钱包+跨链一站打包搞定\n\n重点它还能给你筛选出最快、最便宜、最忧费率的跨链桥，你只需动动嘴动动手就可以了\n\n跨链，Onchain OS 开箱即用：npx skills add okx/onchainos-skills",
+        "likes": 2,
+        "url": "https://x.com/i/status/2056966472061292786"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056966472061292786",
+        "https://x.com/i/status/2056950894764388595"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gamecreatorai",
+        "text": "npx skills add OpusGameLabs/game-creator\n\nthen prompt your agent:\n\n/make-game [your idea]",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056930042521735620"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056930042521735620"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/defenseclaw",
+      "github_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "francescofaenzi",
+        "text": "DefenseClaw: the agentic governance layer that sits on top of OpenShell and includes Cisco’s open sourced scanners that developers can deploy in under five minutes.\n\n1) DefenseClaw scans every skill, every tool, every plugin, before it’s allowed into your claw environment and eve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056238106190430503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056238106190430503"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2056872329561710766",
+      "author": "NousResearch",
+      "text": "The @xai team has published a full setup guide on how to use the xurl skill, which allows your Hermes Agent to read and write to X on your behalf — posting, searching, pulling bookmarks, managing lists, and more — all through natural language.",
+      "likes": 3385,
+      "views": 0,
+      "url": "https://x.com/i/status/2056872329561710766",
+      "is_kol": false,
+      "score": 11625.0
+    },
+    {
+      "id": "2056718296393691606",
+      "author": "teKa088",
+      "text": "Anthropic acaba de resolver el problema que frenaba a las empresas grandes con IA agéntica:\n\nAntes: tu agente necesitaba acceso a tu MCP server → tenías que exponerlo a internet público → área legal decía no\n\nAhora: MCP tunnel crea un canal seguro vía tunnel .anthropic.com → el a",
+      "likes": 1923,
+      "views": 0,
+      "url": "https://x.com/i/status/2056718296393691606",
+      "is_kol": false,
+      "score": 6394.0
+    },
+    {
+      "id": "2056915511469023635",
+      "author": "garrytan",
+      "text": "The reason why I release my X articles about AI agents (fat skill fat code thin harness) and GStack and GBrain is that we, yes you and I, can have *PROCESS POWER*, which is the one super powerful specific moat that anyone can create for themselves.\n\nThe agent helps you do it. htt",
+      "likes": 438,
+      "views": 0,
+      "url": "https://x.com/i/status/2056915511469023635",
+      "is_kol": false,
+      "score": 1469.0
+    },
+    {
+      "id": "2056951789715706346",
+      "author": "LunchangG7603",
+      "text": "Qwen3.7-Max IS OUT🚀\n\nIn 35h autonomous core tests with 1000+ tool calls, it maintained coherent reasoning, achieved a 10× speedup.\n\nIt can:\nBuild frontend prototypes+ complex multi-file projects\nAutomate workflows with MCP+ multi-agent collaboration\nSupport mainstream frameworks ",
+      "likes": 261,
+      "views": 0,
+      "url": "https://x.com/i/status/2056951789715706346",
+      "is_kol": false,
+      "score": 923.0
+    },
+    {
+      "id": "2056977696844808465",
+      "author": "Dinosn",
+      "text": "A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands, 574+ disclosed-report patterns curated across 24 vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://t.co/MpxsmCqaM3",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2056977696844808465",
+      "is_kol": false,
+      "score": 754.0
+    },
+    {
+      "id": "2056880407858311600",
+      "author": "XFreeze",
+      "text": "The 𝕏 developers just released the official setup guide for the xurl skill\n\nYour Hermes agent can now read and write directly to 𝕏…..all through natural language via the X API\n\nWhat it does:\n•  Search posts\n•  Post on your behalf\n•  Pull bookmarks\n•  Manage lists\n•  And a whole l",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2056880407858311600",
+      "is_kol": false,
+      "score": 611.0
+    },
+    {
+      "id": "2057011180158542154",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.        \n\nSpend 1 hour with this.        \n\nHow To Build The Ultimate Ai Second Brain (Obsidian + Claude Code )  \n\nThe people who watch this tonight will wake up tomorrow with a new skill.        \n\nWatch it and Bookmark it now. https://t.co/4W4A",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2057011180158542154",
+      "is_kol": false,
+      "score": 454.0
+    },
+    {
+      "id": "2056740350690316738",
+      "author": "ClaudeDevs",
+      "text": "We also made some general improvements in Claude Managed Agents: \n\n1. It's now possible to swap a live session's tools, MCP servers, or vault IDs without restarting the session.\n\n2. Large MCP tool outputs (&gt;100k tokens) are automatically offloaded to Sandbox files.",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2056740350690316738",
+      "is_kol": false,
+      "score": 428.0
+    },
+    {
+      "id": "2056859922793480248",
+      "author": "aeonframework",
+      "text": "117 -> 121 SKILLS ⭐\n\nWe just added 4 new skills to aeon:\n> competitor-launch-radar - weekly PH + HN scan for new agent frameworks outside the 9 already tracked\n> fork-first-run-alert - pings the day a fork ships its first workflow run\n> fork-skill-gap - weekly digest of upstream ",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2056859922793480248",
+      "is_kol": false,
+      "score": 406.0
+    },
+    {
+      "id": "2056788542614118592",
+      "author": "readwise",
+      "text": "The new Readwise MCP server is now out of beta. \n\nSearch across every word in your library. Triage your inbox. Organize your data. Anything you can do in Readwise, your AI can now do for you.\n\nConnect from ChatGPT, Claude, Codex, Perplexity, Poke, or any other AI app. https://t.c",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2056788542614118592",
+      "is_kol": false,
+      "score": 380.0
+    },
+    {
+      "id": "2056848811020923023",
+      "author": "ChromiumDev",
+      "text": "📢 Just announced at #GoogleIO, Chrome DevTools for agents is now in stable 📢 It brings powerful browser debugging, emulation, and Lighthouse audits to coding agents via an MCP server, CLI, and specialized agent skills → https://t.co/TqcLOrYBFh https://t.co/yuY9JClZoE",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2056848811020923023",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2056954260970209482",
+      "author": "ai_rohitt",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now. https://t.co/X0XwYW2OP3",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2056954260970209482",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2057038989962653805",
+      "author": "NainsiDwiv50980",
+      "text": "Claude Code feels completely different once you install this.\n\nAnthropic quietly released an official plugin called claude-code-setup and it basically turns Claude Code from “pretty good” into an actual AI dev environment.\n\nIt scans your project and recommends:\n\n→ hooks\n→ skills\n",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2057038989962653805",
+      "is_kol": false,
+      "score": 275.0
+    }
+  ]
+}

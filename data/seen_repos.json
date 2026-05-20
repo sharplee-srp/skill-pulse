@@ -2586,5 +2586,49 @@
   "bchevreau/review-past-performance-skill": {
     "first_seen": "2026-05-19",
     "tier": 3
+  },
+  "nutlope/hallmark": {
+    "first_seen": "2026-05-20",
+    "tier": 1
+  },
+  "veniceai/venice-mcp-server": {
+    "first_seen": "2026-05-20",
+    "tier": 2
+  },
+  "ellipsis-labs/vulcan-cli": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "huggingface/transformers-to-mlx": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "berabuddies/semia": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "mcp-use/mcp-use": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "aaron-he-zhu/seo-geo-c": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "microsoft/skills": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "oitan/design-html-shotgun": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "mantadigital/stingray-agent-skills": {
+    "first_seen": "2026-05-20",
+    "tier": 3
+  },
+  "conventional-branch/conventional-branch": {
+    "first_seen": "2026-05-20",
+    "tier": 3
   }
 }
