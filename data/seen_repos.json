@@ -2630,5 +2630,49 @@
   "conventional-branch/conventional-branch": {
     "first_seen": "2026-05-20",
     "tier": 3
+  },
+  "pantheon-security/medusa": {
+    "first_seen": "2026-05-21",
+    "tier": 2
+  },
+  "nduckmink/arkon": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "qiuqiubuchongle-cloud/base-narrative-radar": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "tachikomared/tachidubb": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-suno-master": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "x402stacks/agentsats": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "terry-mao/aicodingflow": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "ambosstech/skills": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "mrbese/call-my-agent": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "francis-build/francis": {
+    "first_seen": "2026-05-21",
+    "tier": 3
+  },
+  "tot3lis/skillbridge": {
+    "first_seen": "2026-05-21",
+    "tier": 3
   }
 }
