@@ -2674,5 +2674,65 @@
   "tot3lis/skillbridge": {
     "first_seen": "2026-05-21",
     "tier": 3
+  },
+  "googlechrome/modern-web-guidance": {
+    "first_seen": "2026-05-22",
+    "tier": 2
+  },
+  "agoraio/skills": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "jazzychad/ios-code-audit": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "qianwen-ai/qianwen-ai": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "agentsorg/design-engineering": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "taniiicom/visual-in-the-loop": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "imbad0202/academic-research-skills-codex": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "lichamnesia/lich-skills": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "ajaxray/brown-html-docs-skill": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "aryankeluskar/skills": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "tmchow/agent-skills": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "daniel-style/magic-slide": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "vincentwang-dou/skill-doctor": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "paragenie/claude-codex-handoff": {
+    "first_seen": "2026-05-22",
+    "tier": 3
+  },
+  "shuji-bonji/factcheck-skill": {
+    "first_seen": "2026-05-22",
+    "tier": 3
   }
 }

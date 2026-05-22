@@ -1,0 +1,684 @@
+{
+  "date": "2026-05-22",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 184,
+    "tweets_with_repos": 27,
+    "unique_repos": 25,
+    "new_repos": 15,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "googlechrome/modern-web-guidance",
+      "github_url": "https://github.com/googlechrome/modern-web-guidance",
+      "tier": 2,
+      "is_new": true,
+      "score": 513.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 121,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "commte",
+        "text": "Chrome 公式の AI エージェント向けスキルが来た\n\n128 の Web プラットフォーム機能を、100以上の専門家検証済みユースケースに整理した Agent Skill。Claude Code / Antigravity / Gemini CLI / Copilot CLI / Goose / Vercel 対応。オフライン動作・API キー不要\n\nhttps://t.co/kmVdWYj6jY",
+        "likes": 121,
+        "url": "https://x.com/i/status/2057748832600141953"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057748832600141953"
+      ]
+    },
+    {
+      "repo": "agoraio/skills",
+      "github_url": "https://github.com/agoraio/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 298.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "exploraX_",
+        "text": "I just built a conversational AI agent that talks back to me in real time using the agora skill on claude code.\n\nthe voice AI agent is smart enough to have real-time intellectual conversation \n\n→ it's interruptible — speak over it mid-sentence and it stops \n→ multi-turn memory in",
+        "likes": 56,
+        "url": "https://x.com/i/status/2057569914291122259"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057569914291122259"
+      ]
+    },
+    {
+      "repo": "jazzychad/ios-code-audit",
+      "github_url": "https://github.com/jazzychad/ios-code-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 286.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jazzychad",
+        "text": "new agent skill for iOS devs! \n\n\"ios-code-audit\" is a comprehensive codebase auditor that will generate a report with its findings in several key areas.\nhttps://t.co/E8GcWdxpP2\n\nI ran it on one of my mature codebases and it found 70 issues ‼️ https://t.co/eYACsj18vh",
+        "likes": 52,
+        "url": "https://x.com/i/status/2057525885905895594"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057525885905895594"
+      ]
+    },
+    {
+      "repo": "qianwen-ai/qianwen-ai",
+      "github_url": "https://github.com/qianwen-ai/qianwen-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 260.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poezhao0605",
+        "text": "Alibaba Cloud launched its first standalone product website in 17 years of operation. Open it and you see no catalog, no console, no navigation. \n\nOne command-line instruction fills the page: npx skills add QianWen-AI/qianwen-ai. It’s designed to be read by software, not people. ",
+        "likes": 19,
+        "url": "https://x.com/i/status/2057638329051652580"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057649873898569976",
+        "https://x.com/i/status/2057638329051652580"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": true,
+      "score": 236.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "design-engineering helps Agents make better UI/UX and product decisions.\n\nthe bottleneck is no longer code generation. it’s taste.\n\ninstall with one command:\nnpx skills add AgentsORG/design-engineering",
+        "likes": 7,
+        "url": "https://x.com/i/status/2057561453448798510"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057562976232857866",
+        "https://x.com/i/status/2057561453448798510"
+      ]
+    },
+    {
+      "repo": "taniiicom/visual-in-the-loop",
+      "github_url": "https://github.com/taniiicom/visual-in-the-loop",
+      "tier": 3,
+      "is_new": true,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "taniiicom",
+        "text": "Claude Codeが人間を呼ぶ前に、必ずビジュアル化する Skills を作ったら良い感じだったので公開しました！\n\n100行の仕様書読む苦痛から解放されて、致命的なミスだけ確認するサイクルができるようになった\n→ https://t.co/QaLSGPHd44\n→ npx skills add taniiicom/visual-in-the-loop https://t.co/0lLmTNZ2HU",
+        "likes": 4,
+        "url": "https://x.com/i/status/2057762582761750642"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057762582761750642"
+      ]
+    },
+    {
+      "repo": "imbad0202/academic-research-skills-codex",
+      "github_url": "https://github.com/imbad0202/academic-research-skills-codex",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ModengSir",
+        "text": "马上就到了毕业季\n各位大学生/研究生\n赶紧看过来 写论文有帮手了\n\n把现在最火的 Codex\n真正接进学术研究流程，\n这个仓库很值得看。📚\n\nacademic-research-skills-codex\n把一套研究技能\n打包成单一 skill，\n可覆盖文献研究、\n论文写作、稿件审阅、\n研究流水线和实验规划。\n\n对研究者来说，\n它最有价值的不是\n“帮你多写几段字”，\n而是把不同阶段的任务\n组织成更清楚的工作流。🧭\n\nGitHub：https://t.co/V8h9qKewxm",
+        "likes": 3,
+        "url": "https://x.com/i/status/2057743265781489701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057743265781489701"
+      ]
+    },
+    {
+      "repo": "lichamnesia/lich-skills",
+      "github_url": "https://github.com/lichamnesia/lich-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ShenHuang",
+        "text": "lich-skills 上了新的 Skill /go-no-go\n（上次内部演讲后一个 VP 反问我：\"你怎么决定哪些项目根本不该写 spec？\" 我答不上来，回来把这条空白补全做成了 skill）\n\n所有 AI agent 这两年都在教你怎么 build ——\n\nClaude Code / Codex 随便一搜有一大堆。\n\n但是他们没一个教你 不做什么。\n\n不做什么才是关键。\n\n大部分人一半时间烧在错误的方向上，错误的方向做的越多越错。\n\n下面 5 个 check 杀掉你 70% 的不 Work 的项目想法：\n\n1. 自动翻你笔记找过去试过的类似事——",
+        "likes": 2,
+        "url": "https://x.com/i/status/2057729759631835243"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057729759631835243"
+      ]
+    },
+    {
+      "repo": "ajaxray/brown-html-docs-skill",
+      "github_url": "https://github.com/ajaxray/brown-html-docs-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ajaxray",
+        "text": "When working with Codex through the Pi coding agent, I kept missing the clean HTML documentation style  @claudeai produces by default.\n\nSo I built a skill that recreates it — generates self-contained HTML docs in a warm brown editorial theme: cream background, terracotta accents,",
+        "likes": 1,
+        "url": "https://x.com/i/status/2057764021986840581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057764021986840581"
+      ]
+    },
+    {
+      "repo": "aryankeluskar/skills",
+      "github_url": "https://github.com/aryankeluskar/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "soydotrun",
+        "text": "@michael_chomsky Here you go :) \nnpx skills add aryankeluskar/skills --skill brand-naming",
+        "likes": 1,
+        "url": "https://x.com/i/status/2057722800530407916"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057722800530407916"
+      ]
+    },
+    {
+      "repo": "tmchow/agent-skills",
+      "github_url": "https://github.com/tmchow/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lice_steinberg",
+        "text": "love https://t.co/fIHltC6zGe, so useful. Wrote a thin skill to help make my workflows easier especially when trying to parallelize fixes, etc. \n\n`npx skills add tmchow/agent-skills --skill clawpatch`\n\nhttps://t.co/UHXgONab0y…",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057673030017708463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057673030017708463"
+      ]
+    },
+    {
+      "repo": "daniel-style/magic-slide",
+      "github_url": "https://github.com/daniel-style/magic-slide",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ruizhefeng",
+        "text": "感觉遇到了我的梦中情PPT\n\n一键安装：npx skills add daniel-style/magic-slide https://t.co/5b9d3A1riF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057656946921185559"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057656946921185559"
+      ]
+    },
+    {
+      "repo": "vincentwang-dou/skill-doctor",
+      "github_url": "https://github.com/vincentwang-dou/skill-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ShuaiVincent",
+        "text": "我把一个常用的 Codex Skill 整理成了独立项目：Skill Doctor（Skill 体检师）。\n\n它不是看文档写得漂不漂亮，而是检查一个 skill / workflow 能不能稳定让 AI 拿到结果：目标、边界、验证、失败兜底和安全副作用。\n\n适合给自己的 AI 工作流做体检。\n\nhttps://t.co/IFbk0FIvLh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057776125355708677"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057776125355708677"
+      ]
+    },
+    {
+      "repo": "paragenie/claude-codex-handoff",
+      "github_url": "https://github.com/paragenie/claude-codex-handoff",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_meat_ball",
+        "text": "Claude Opus 4.7  coding 真是一言难尽。大家都说 Codex 的开发体验香爆，OpenAI 更是直接推出了 codex-plugin-cc 插件，让你在 Claude 里跑 Codex…… 这商战看得我笑死，打不过就加入是吧？\n\n为了更方便使用三分化工作流，于是我直接做了一个 Claude Skill —— codex-handoff：Claude 负责规划（Planner），Codex 负责实现（Worker）和评审（Reviewer），实现了工作流的三分化。\n\n该skill工作逻辑：Claude 先出方案 -> Codex 后台",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057728141951721871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057728141951721871"
+      ]
+    },
+    {
+      "repo": "shuji-bonji/factcheck-skill",
+      "github_url": "https://github.com/shuji-bonji/factcheck-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shuji_bonji",
+        "text": "Claude Code向けに、情報の信頼性を体系的に評価する2つのSkillを作成・公開しました。\n\n・factcheck-skill：20項目×4カテゴリの構造化ファクトチェック https://t.co/qebX8WSS0q\n\n・media-literacycheck-skill：メディアリテラシー視点の統合評価 https://t.co/85ucboTrIG\n\n#Claude #Skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057787755955151180"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057787755955151180"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "nduckmink/arkon",
+      "github_url": "https://github.com/nduckmink/arkon",
+      "tier": 2,
+      "is_new": false,
+      "score": 588.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 126,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Self-hosted MCP server for enterprise knowledge\n\nhttps://t.co/6IJtWDBkWs https://t.co/8sFObWigTM",
+        "likes": 126,
+        "url": "https://x.com/i/status/2057287131756703869"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057287131756703869"
+      ]
+    },
+    {
+      "repo": "github/github-mcp-server",
+      "github_url": "https://github.com/github/github-mcp-server",
+      "tier": 3,
+      "is_new": false,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pamelafox",
+        "text": "The GitHub MCP server added a dedicated tool for replying to inline PR comments!\nhttps://t.co/3QznRbVVxM\n\nI updated my review-pr-comments skill to use it:\nhttps://t.co/ejCByBio2L\nI love to collaboratively triage PR comments with Copilot-I can more quickly decide to accept/reject.",
+        "likes": 23,
+        "url": "https://x.com/i/status/2057537428525924402"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057537428525924402"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeLog",
+        "text": "Claude Code CLI 2.1.146 changelog:\n\nFixes:\n• Fixed Windows PowerShell tool failing with \"command line is invalid\" when pwsh is installed via winget or the Microsoft Store (regression in v2.1.124)\n• Fixed MCP resources/list, resources/templates/list, and prompts/list dropping item",
+        "likes": 20,
+        "url": "https://x.com/i/status/2057281288617197667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057281288617197667"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 139.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okxchinese",
+        "text": "#产品进化论 本周OKX带来四处更新：\n\n◼️Onchain OS ：新增跨链、链上兑换、链上合约功能，开箱即用 npx skills add okx/onchainos-skills\n\n◼️APP：Pieverse 接入APP，Agent发红包，你签一次，红包两端 agent 各跑各的。钱发给谁，每一次都你说了算\n\n日拱一卒，进化不止🏃‍♂️🏃‍♂️\n评论区聊聊你希望OKX新增或者优化的产品建议，你提需求，我们负责实现👇",
+        "likes": 13,
+        "url": "https://x.com/i/status/2057743045227852019"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057743045227852019"
+      ]
+    },
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "minchoi",
+        "text": "4/ Setup starts with one command:\n\nnpx skills add elevenlabs/skills --skill speech-engine\n\nThen create a Speech Engine connected to your server:\n\nconst engine = await elevenlabs.speechEngine.create({\n  name: \"My Speech Engine\",\n  speechEngine: {\n    wsUrl: \"wss://your-server.com/",
+        "likes": 3,
+        "url": "https://x.com/i/status/2057600907315917240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057600907315917240"
+      ]
+    },
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "browseract",
+        "text": "🚨 Stop rebuilding broken web workflows.\n\nBrowserAct Skill Forge turns any website into a reusable agent skill.\n\n⚡ Install\n🧠 Describe the workflow   \n▶️ Run the skill   \n📊 Get structured data\n\nWorks with Codex, Claude Code, Cursor, Gemini CLI, GitHub Copilot, Windsurf, and more.\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057741921418936705"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057741921418936705"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adwebmarketer",
+        "text": "最近のClaude Code周り、これだけ動きがある。\n\n①UIデザインの質を底上げするopen-source design skill「Hallmark」が登場。`npx skills add nutlope/hallmark`でClaude Code / Cursor / Codexに導入でき、デザイン感度込みでUIやLPを生成させられる。AIに任せると「動くけど見た目が微妙」になる問題への直球の解。\n\n②Claude Code × Higgsfield MCPで、CMの絵コンテからモーション動画まで一撃で組める連携が海外で話題に。Pinterest",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057657715535794527"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057657715535794527"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gamecreatorai",
+        "text": "ready? run here:\nnpx skills add OpusGameLabs/game-creator\n\n/make-game [your idea]",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057652524832763942"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057652524832763942"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-suno-master",
+      "github_url": "https://github.com/joeseesun/qiaomu-suno-master",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TaTe168198",
+        "text": "Suno Skill 大升级！新增近6000个音乐风格，生成更精准专业。 支持谷歌CDP刷新Token，完全无需打开网页就能创作歌曲，超方便！\n开源地址：https://t.co/smuPIV2OjS 安装指令：npx skills add joeseesun/qiaomu-suno-master\n音乐爱好者和开发者强烈推荐！🎵",
+        "likes": 0,
+        "url": "https://x.com/i/status/2057615340964843688"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057615340964843688"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/defenseclaw",
+      "github_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "francescofaenzi",
+        "text": "DefenseClaw: the agentic governance layer that sits on top of OpenShell and includes Cisco’s open sourced scanners that developers can deploy in under five minutes.\n\n1) DefenseClaw scans every skill, every tool, every plugin, before it’s allowed into your claw environment and eve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056238106190430503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056238106190430503"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2057496919425900834",
+      "author": "NVIDIAAI",
+      "text": "We just shipped NVIDIA-Verified Agent Skills 🔐\n\nSkills make your agent more capable, but can also introduce vulnerabilities. Verified skills give you transparency into what a skill does, where it came from, what risks it carries, and whether it's been modified.\n\nEvery verified sk",
+      "likes": 1579,
+      "views": 0,
+      "url": "https://x.com/i/status/2057496919425900834",
+      "is_kol": false,
+      "score": 5807.0
+    },
+    {
+      "id": "2057559570177007912",
+      "author": "swyx",
+      "text": "working on a \"take this vibecoded slop app and make it a production-ready, e2e tested,  maintainable, parallelizable agent repo\" skill. \n\nthis thing ran for ~16 hours yesterday and made 103 commits all told and i ended up with exactly the same app but instead of fragile mvp it no",
+      "likes": 458,
+      "views": 0,
+      "url": "https://x.com/i/status/2057559570177007912",
+      "is_kol": false,
+      "score": 1444.0
+    },
+    {
+      "id": "2057663336498737173",
+      "author": "ech0_speaks",
+      "text": "Instead of watching Netflix tonight, dedicate two hours to this comprehensive Claude AI course. It will teach you how to build and automate virtually anything. Those who invest the time will wake up tomorrow with a valuable new skill. Watch it now and bookmark for future referenc",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2057663336498737173",
+      "is_kol": false,
+      "score": 659.0
+    },
+    {
+      "id": "2057538793800958203",
+      "author": "FlutterDev",
+      "text": "📝 Explore the principles of writing high-quality, maintainable Flutter code in this #GoogleIO session → https://t.co/9M8Vk1cl7j \n\nYou'll learn how tooling like Widget Previews, DevTools, MCP server, and Skills make it easier than ever to write top-notch Flutter code. https://t.co",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2057538793800958203",
+      "is_kol": false,
+      "score": 553.0
+    },
+    {
+      "id": "2057671635352838596",
+      "author": "Mohiniuni",
+      "text": "Mastering Claude is the essential skill in 2026. \n\nGet access to these top 7 courses and be an expert. \n\n1. Claude Code: Software Engineering w. h Generative AI Agents\nhttps://t.co/nP77DcuJxA\n\n2. Generative AI for Mobile App Developers Specialization\nhttps://t.co/XJK1YyGgcs\n\n3. D",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2057671635352838596",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2057262293348679733",
+      "author": "shao__meng",
+      "text": "Chrome DevTools for Agents 1.0 正式发布\nhttps://t.co/SBv3cQBy8P\n\n它在真实浏览器中观察行为、检查输出，让 Agent \"能看见浏览器\"，有三种接入方式：\n1. MCP server：将 LLM 连接到 DevTools 调试能力的标准协议\n2. CLI：Token 更省的替代方案，支持 Agent 把动作打包成脚本批量执行\n3. Agent skills：教 Agent 何时、如何调用具体工具的专家指令 (如无障碍、性能调试)\n\n共开放了七个能力\n1. 自动化质量审计：Agent 可直接跑 Ligh",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2057262293348679733",
+      "is_kol": true,
+      "score": 306.0
+    },
+    {
+      "id": "2057604282002952520",
+      "author": "mvanhorn",
+      "text": "Killer article from @cathrynlavery on @ppressdev. A printed CLI is two things at once. The CLI is the deterministic core, same input same output. The skill on top teaches Claude Code, Codex, Hermes, and @openclaw to drive it. One install, every agent.And the real tell: we're prin",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2057604282002952520",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2057667733039579255",
+      "author": "sibylcap",
+      "text": "shipped a plugin admin dashboard today. \n\naccount activity, auth method, paid conversion, staker tier. all visible to the team in real time.\n\nclosed beta is opening for the sibyl memory plugin for hermes agent by @NousResearch. also compatible with claude code &amp; codex. https:",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2057667733039579255",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2057559620969800046",
+      "author": "dkare1009",
+      "text": "MCP is becoming the default “socket” between AI agents and everything else.\n\nWhen someone says “build an MCP server,” they’re often talking about one of seven very different roles.\n\nHere’s what they are, when to use them, and how to start:\n\nTool Lean‑in (One‑to‑One Transport)\n\n- ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2057559620969800046",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2057536967785775320",
+      "author": "CodeMultiversX",
+      "text": "The code your AI agent generates against most chain docs is plausible-looking... and doesn't work.\n\nWe built MCP tools, skill files, and a runtime to make agentic engineering a breeze on MultiversX.",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2057536967785775320",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2057696296874787062",
+      "author": "boxmining",
+      "text": "TLDR: China is winning the AI race.\n\n@Alibaba_Qwen Qwen 3.7 Max just dropped.\n\nBeats Opus 4.6 on terminal bench, MCP, math, instruction following.\n\nApex math: 44.5 vs 34.5. That's not close.\n\nBut the number that got me?\n\n35 hours. 1,000+ tool calls. One kernel optimization task.\n",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2057696296874787062",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2057446411466141795",
+      "author": "Docker",
+      "text": "Custom Catalogs and Profiles are now generally available in Docker’s MCP Catalog and Toolkit!\n\nA major step toward making MCP usable at enterprise scale, with trusted MCP catalogs, reusable tool Profiles, and portable OCI-based workflows.\n\nGet started → https://t.co/jU0gAzEn9R",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2057446411466141795",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2057525413996601567",
+      "author": "alphabatcher",
+      "text": "Model launches now need a stopwatch and a tool-call counter\n\n> Qwen3.7-Max drops\n> everyone checks the benchmark table\n> coding numbers look strong\n> MCP numbers look strong\n> reasoning numbers look strong\n> then the kernel run shows up\n\n34.7 hours.\n\n1,158 tool calls.\n\n432 kernel",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2057525413996601567",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2057755686944252318",
+      "author": "m0d8ye",
+      "text": "最近看了几个访谈都提到大模型正在内化 AI agent 的能力。估计六个月内，只要一行命令就能自动在本地生成出一个 agent 并且把环境/SKILL 什么的配置好。现在国内大厂蜂拥上马 agent 项目到时候估计都要打水漂。",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2057755686944252318",
+      "is_kol": false,
+      "score": 209.0
+    }
+  ]
+}
