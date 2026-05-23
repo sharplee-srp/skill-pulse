@@ -2734,5 +2734,57 @@
   "shuji-bonji/factcheck-skill": {
     "first_seen": "2026-05-22",
     "tier": 3
+  },
+  "fitchmultz/pi-cursor-sdk": {
+    "first_seen": "2026-05-23",
+    "tier": 2
+  },
+  "drhelius/gearboy": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "aref-vc/tufte-claude-skill": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "perplexityai/bumblebee": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "fathah/hermes-desktop": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "amap-web/amap-lbs-skill": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "denissergeevitch/agents-best-practices": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "neondatabase/neon-for-agent-platforms": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "somu878/reachcraft": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "gravity-technologies/grvt-skills": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "gbretas/agent-skills": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "tddworks/skillsmanager": {
+    "first_seen": "2026-05-23",
+    "tier": 3
+  },
+  "zhouwei713/claude-code-engineering-auto": {
+    "first_seen": "2026-05-23",
+    "tier": 3
   }
 }
