@@ -1,0 +1,505 @@
+{
+  "date": "2026-05-24",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 185,
+    "tweets_with_repos": 23,
+    "unique_repos": 22,
+    "new_repos": 7,
+    "previously_seen_repos": 15
+  },
+  "new_repos": [
+    {
+      "repo": "bankrsynth/bankrsynth-skill",
+      "github_url": "https://github.com/bankrsynth/bankrsynth-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 205.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bankrsynth",
+        "text": "bankrsynth terminal is 90% done. 🧠\n\nbut this isn’t a web terminal.\n\nthis is a Bankr agent terminal — powered by Aeon skills + MiroShark.\n\nthread 🧵\n\n---\n\n1/ the concept\n\nhttps://t.co/4730chIM5g is the interface.\nBankrSynth is the skill installed on top of it.\n\nbut instead of stopp",
+        "likes": 30,
+        "url": "https://x.com/i/status/2058296153700237707"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058296153700237707"
+      ]
+    },
+    {
+      "repo": "microsoft/waza",
+      "github_url": "https://github.com/microsoft/waza",
+      "tier": 3,
+      "is_new": true,
+      "score": 169.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "spboyer",
+        "text": "Evals stay fuzzy until you compare against a baseline.\n\nwaza now lets you A/B test an agent skill with one flag: --baseline. You get an improvement score, not a vibe check.\n\nWhat's your current bar for \"this skill is better than before\"?\nhttps://t.co/BeHptuwPIh",
+        "likes": 23,
+        "url": "https://x.com/i/status/2058171310979588367"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058171310979588367"
+      ]
+    },
+    {
+      "repo": "eliotandres/simstream",
+      "github_url": "https://github.com/eliotandres/simstream",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliotAndres",
+        "text": "Create and edit iOS apps directly from your phone\n\nI just open-sourced a way to stream the iOS Simulator to your phone. No ipa installs, no builds.\n\nCombined with Claude Code, you can now create entire apps without touching your keyboard\n\nnpx skills add EliotAndres/SimStream http",
+        "likes": 2,
+        "url": "https://x.com/i/status/2058184394393661614"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058184394393661614"
+      ]
+    },
+    {
+      "repo": "tjrtm/zergling",
+      "github_url": "https://github.com/tjrtm/zergling",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tjrtm",
+        "text": "This thing is surprising with CC, but its even more awesome when Hermes agent or Openclaw start using this skill. \nhttps://t.co/ASk9fTGWkJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058258872616333361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058258872616333361"
+      ]
+    },
+    {
+      "repo": "sam-siavoshian/make-it-shine",
+      "github_url": "https://github.com/sam-siavoshian/make-it-shine",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "samsiavoshian",
+        "text": "install:\nnpx skills add sam-siavoshian/make-it-shine\n\nhttps://t.co/2eLbo6XthT (2/2)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058326052511121754"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058326052511121754"
+      ]
+    },
+    {
+      "repo": "sourman/skills",
+      "github_url": "https://github.com/sourman/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sourmansa",
+        "text": "For T2 Filing @myconull try out\n`npx skills add sourman/skills/canadian-t2-filing`\nlet me know what u think",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058205982061211720"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058205982061211720"
+      ]
+    },
+    {
+      "repo": "yanyintingyou/tabular-file-understanding-agent-skill",
+      "github_url": "https://github.com/yanyintingyou/tabular-file-understanding-agent-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yanyin_wenyu",
+        "text": "https://t.co/mteAMlm2bD\nA lightweight open-source Skill for agents (compatible with Codex, Claude Code, Cursor). \n\nIt converts large CSV/Excel/TSV files (hundreds of MB to tens of GB) into compact, LLM-readable structural summaries — detecting fields, time columns, indicators, an",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058499799318696293"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058499799318696293"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "fitchmultz/pi-cursor-sdk",
+      "github_url": "https://github.com/fitchmultz/pi-cursor-sdk",
+      "tier": 2,
+      "is_new": false,
+      "score": 542.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 134,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fitchmultz",
+        "text": "Released pi-cursor-sdk v0.1.16 🚀\n\nCursor still uses its own harness tools.\n\nBut pi-cursor-sdk v0.1.16 adds the missing bridge: Cursor agents can now reach active pi extension tools and other pi-side support through local MCP, while pi keeps the tool cards, confirmations, history,",
+        "likes": 134,
+        "url": "https://x.com/i/status/2057956277427589160"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057956277427589160"
+      ]
+    },
+    {
+      "repo": "perplexityai/bumblebee",
+      "github_url": "https://github.com/perplexityai/bumblebee",
+      "tier": 3,
+      "is_new": false,
+      "score": 359.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 73,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x4D31",
+        "text": "🐝📦 built last friday morning, running by the evening to help check exposure to newly reported supply-chain campaigns.\n\nsmall Go tool for inventorying developer endpoint packages, IDE/browser extensions, MCP, and other local dev-tool metadata for fast supply-chain exposure checks.",
+        "likes": 73,
+        "url": "https://x.com/i/status/2057873029619728647"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057873029619728647"
+      ]
+    },
+    {
+      "repo": "drhelius/gearboy",
+      "github_url": "https://github.com/drhelius/gearboy",
+      "tier": 3,
+      "is_new": false,
+      "score": 358.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Cross-platform Game Boy emulator with embedded MCP server\n\nhttps://t.co/NtkXPS5z0F https://t.co/Bd5tbWUvu7",
+        "likes": 66,
+        "url": "https://x.com/i/status/2057806177749078020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057806177749078020"
+      ]
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "github_url": "https://github.com/garrytan/gbrain",
+      "tier": 3,
+      "is_new": false,
+      "score": 225.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "garrytan",
+        "text": "GBrain is SOTA retrieval for agents and free for your use. MIT license. It currently is designed for OpenClaw and Hermes Agent but it does have full MCP server support that lets you use it with almost any agent harness.\n\nhttps://t.co/yFpFU4pn5b",
+        "likes": 40,
+        "url": "https://x.com/i/status/2058242823930163311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058242823930163311"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@marconoiz nice!\n\nyou should try this:\nnpx plugins add AgentsORG/design-engineering\nnpx skills add AgentsORG/design-engineering",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058471241728823485"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058471241728823485",
+        "https://x.com/i/status/2058468638374666382"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liu8in",
+        "text": "[7/7] Builders can now let their code do the talking. \n\nif you haven't already:\n→ 🌟 https://t.co/CXtLChGOQg\n→ claude $ npx skills add heygen-com/hyperframes \n\ntag the builders / founders / entrepreneurs who should be using @HyperFrames_ for their next launch",
+        "likes": 4,
+        "url": "https://x.com/i/status/2058402615374078109"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058402615374078109"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lubi366",
+        "text": "看到OKX @okxchinese  Onchain OS MCP 市场里面是有支持Agent 扩展插件的，而且还可以付费使用。对于开发者来说是个好机会，不过现在还在早期阶段；\n\nOnchain OS 也一直在更新，本周新增跨链、链上兑换等；\n\n开箱即用： npx skills add okx/onchainos-skills   \n\nAPP：Pieverse 接入APP，Agent发红包，你签一次，红包两端 agent 各跑各的，钱发给谁你说了算。\n\n#OKX #OnchainOS",
+        "likes": 3,
+        "url": "https://x.com/i/status/2058429406750855496"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058429406750855496"
+      ]
+    },
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Na0aki27",
+        "text": "AIに「声」を与えるの、簡単すぎ。\n\nElevenLabsのSpeech Engine、インストールはたったの1コマンド。\n\nnpx skills add elevenlabs/skills --skill speech-engine\n\nこれだけで必要なセットアップが完了。あとはプロンプトを投げるだけ。 \nhttps://t.co/NLT2RYezDw\nhttps://t.co/o7mnDyDyjk\n#ElevenLabs",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058497182857367612"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058497182857367612"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_ainsight",
+        "text": "⑥ 使い方もシンプルです。\n\n公式READMEでは、次のコマンドが案内されています。\n\nnpx skills add google/skills\n\nここから必要なSkillsを選んで追加できます。\n\n例えば、AIエージェントにこう頼む場面。\n\n「このアプリをCloud Runに出せる状態にして」\n\nこれまでは人間が手順を補足していました。これからは、その補足を公式SkillsとしてAIに持たせる発想です。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058156573781106904"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058156573781106904"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mar_snscoach",
+        "text": "具体的な動画生成３手順\nNode.jsをインストール\n\nRemotionプロジェクト作成\nプロンプト\nnpx create-video@latest\n\n最重要：Remotion Skillを追加\nプロンプト\nnpx skills add remotion-dev/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058411221758681486"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058411221758681486"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2058146472974332040",
+      "author": "kamihiteo",
+      "text": "zenin naoya sebagai flight controller\n\nkerjaannya desk work, ngga di lapangan. tipikal FC yang galak dan bikin jantung deg-degan kalau liat nama dia komputer pas jadi check in agent dan harus nelfon dia ... tapi kerjanya jago banget dan punya problem solving skill yang canggih, h",
+      "likes": 390,
+      "views": 0,
+      "url": "https://x.com/i/status/2058146472974332040",
+      "is_kol": false,
+      "score": 1400.0
+    },
+    {
+      "id": "2058189714088456687",
+      "author": "mvanhorn",
+      "text": "Introducing: Tesla CLI/Claude Code Skill/OpenClaw and Hermes skill from the @ppressdev.\n\n- \"Unlock the car\" and \"turn on dog mode\" as one-line commands, callable from your phone or laptop\n- Agent: \"during winter school days, defrost my car at 7:50 every weekday before school drop",
+      "likes": 415,
+      "views": 0,
+      "url": "https://x.com/i/status/2058189714088456687",
+      "is_kol": false,
+      "score": 1385.0
+    },
+    {
+      "id": "2058327491677458598",
+      "author": "vibecodingth",
+      "text": "📷 แจกฟรี · คู่มือสร้าง Claude Skill ภาษาไทย 97 หน้า\n\nถ้าคุณเคยอยากสร้าง Claude Skill แต่พอเปิด VS Code / Cursor ปั๊บก็ไปต่อไม่ถูก\nปัญหาอาจไม่ได้อยู่ที่คุณ \"เขียนโค้ดไม่เป็น\" อย่างเดียว\n\nบางทีปัญหาคือเราเริ่มผิดจุด\n\nเราเริ่มจากการเปิด `SKILL.md` เปล่าๆ\nแล้วค่อยถามตัวเองว่า...\n- de",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2058327491677458598",
+      "is_kol": false,
+      "score": 1147.0
+    },
+    {
+      "id": "2058284649630339194",
+      "author": "omarsar0",
+      "text": "Just released my new /lesson-generator skill.\n\nUse it with your agent to learn anything:\n\n- generate lessons/courses on any topic\n- include nano-banana images with my /image-generator skill\n- present the course as an HTML artifact\n\nAnd it's also available to use in our academy. h",
+      "likes": 283,
+      "views": 0,
+      "url": "https://x.com/i/status/2058284649630339194",
+      "is_kol": false,
+      "score": 1049.0
+    },
+    {
+      "id": "2058325011925184651",
+      "author": "VivekIntel",
+      "text": "Claude Code Skill Bundle for Bug Bounty Hunting & External Red Team Operations 🤖💀\n\n• 51 offensive security skills + 15 slash commands • Trained on 574+ disclosed HackerOne-style report patterns • Covers XSS, SSRF, SQLi, OAuth, JWT, GraphQL, RCE, IDOR & API abuse • Enterprise atta",
+      "likes": 153,
+      "views": 0,
+      "url": "https://x.com/i/status/2058325011925184651",
+      "is_kol": false,
+      "score": 629.0
+    },
+    {
+      "id": "2058215605606715639",
+      "author": "Tanaypawar27",
+      "text": "Most AI engineers know how to use MCP.\n\nVery few understand the server patterns that make production AI systems actually scalable. ⚡\n\nThis breakdown of the top 5 MCP server architectures is pure gold for anyone building serious AI agents in 2026. 👇\n\n1️⃣ Tool Server\nLets AI agents",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2058215605606715639",
+      "is_kol": false,
+      "score": 559.0
+    },
+    {
+      "id": "2058136672244740328",
+      "author": "grgerwcwetwet",
+      "text": "推荐一个网站 Agent Skills Hub，堪称 AI Agent 时代的「应用商店」。\n\n里面收录了 数万款 Agent Skills、MCP Server 和 AI 工具，覆盖编程开发、内容创作、数据分析、自动化办公、营销运营等场景。很多爆火的 Claude Code、OpenClaw、Codex 技能包，都能在这里直接找到。  \n\n最方便的是支持按场景搜索，比如：\n\n* AI 编程\n* 自动化工作流\n* 内容创作\n* PPT 生成\n* 视频处理\n* 浏览器自动化\n* MCP 工具集成\n\n看到合适的项目后，直接复制安装命令即可使用，不用满 Git",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2058136672244740328",
+      "is_kol": false,
+      "score": 534.0
+    },
+    {
+      "id": "2058147889357226282",
+      "author": "sheriyuo",
+      "text": "Every \"self-evolving agent\" paper this year has mutated text: prompts, skill files, workflow graphs, memory schemas. MOSS from USTC & HKUST argues this is the wrong layer.\n\nThe thing that actually breaks agents in production is routing, hook ordering, state invariants, dispatch l",
+      "likes": 148,
+      "views": 0,
+      "url": "https://x.com/i/status/2058147889357226282",
+      "is_kol": false,
+      "score": 524.0
+    },
+    {
+      "id": "2058239276169539655",
+      "author": "DanKornas",
+      "text": "Writing a good AGENTS.md shouldn’t take weeks of source digging.\n\nmimeo is a Python tool that turns an expert’s body of work into a ready-to-use Agent Skill or AGENTS.md for your coding agent.\n\nIt helps you install better defaults into an agent by discovering sources, fetching tr",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2058239276169539655",
+      "is_kol": false,
+      "score": 491.0
+    },
+    {
+      "id": "2058278743123091490",
+      "author": "ahmdelemam",
+      "text": "@SeifTahtawy دي عن إزاي تبني mcp server \nBuild your own MCP server - تيك بودكاست بالعربي\nhttps://t.co/verOC7OtFd\n\nو دي عن إزاي تستخدمه\nHow to be 10X SW Engineer using MCP? - تيك بودكاست بالعربي\nhttps://t.co/plTxY9coEb",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2058278743123091490",
+      "is_kol": false,
+      "score": 347.0
+    },
+    {
+      "id": "2058433714556924292",
+      "author": "KaziRizviAhmed3",
+      "text": "good day fam, happy sunday.\n\n@TheARCTERMINAL isn’t just talk, it shows up in how the system actually works.\n\nInstead of focusing on narratives, it’s building around real components: agent execution, MCP-based tool connections, persistent context, and verifiable actions through me",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2058433714556924292",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2058431528422535506",
+      "author": "sakevoid",
+      "text": "japon bir geliştirici, claude code'un kimsenin konuşmadığı trick'ini buldu.\n\n\"find skills\" diye bir skill kurdu. claude code'un içine küçük bir mcp paketi gibi oturuyor. yapacağı işi bir kere yazıyor. claude, anthropic ekosistemindeki yüzlerce skill'i tarıyor, en uygun workflow'u",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2058431528422535506",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2058367434541928785",
+      "author": "hrswatigupta",
+      "text": "🚨BREAKING: Claude can now teach you any skill in 30 days for free.\n\nUse these prompts to replace $20,000 courses and 4-year degrees.\n\n(🔖Save this). https://t.co/Fvzd58VfTa",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2058367434541928785",
+      "is_kol": false,
+      "score": 311.0
+    }
+  ]
+}

@@ -2786,5 +2786,33 @@
   "zhouwei713/claude-code-engineering-auto": {
     "first_seen": "2026-05-23",
     "tier": 3
+  },
+  "bankrsynth/bankrsynth-skill": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "microsoft/waza": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "eliotandres/simstream": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "tjrtm/zergling": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "sam-siavoshian/make-it-shine": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "sourman/skills": {
+    "first_seen": "2026-05-24",
+    "tier": 3
+  },
+  "yanyintingyou/tabular-file-understanding-agent-skill": {
+    "first_seen": "2026-05-24",
+    "tier": 3
   }
 }
