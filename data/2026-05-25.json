@@ -1,0 +1,623 @@
+{
+  "date": "2026-05-25",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 197,
+    "tweets_with_repos": 25,
+    "unique_repos": 23,
+    "new_repos": 12,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "virtuslab/scala-skill",
+      "github_url": "https://github.com/virtuslab/scala-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ScalaSpace",
+        "text": "Our #Scala Skill is now compatible both with Claude &amp; Codex - with dedicated installation instructions and necessary metadata.\n\nhttps://t.co/AKIebi4wll",
+        "likes": 7,
+        "url": "https://x.com/i/status/2058842029493567673"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058842029493567673"
+      ]
+    },
+    {
+      "repo": "reflexioai/claude-smart",
+      "github_url": "https://github.com/reflexioai/claude-smart",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yyyiiillluuu",
+        "text": "Memory for coding agents shouldn’t just be transcript recall.\n\nThe useful loop: correction → Project-specific skill → Shared skill → future Claude Code/Codex sessions start from the better path.\n\nThat’s the design behind claude-smart:\nhttps://t.co/Pe5BudLqYk",
+        "likes": 2,
+        "url": "https://x.com/i/status/2058835878009573827"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058835878009573827"
+      ]
+    },
+    {
+      "repo": "vibe-motion/skills",
+      "github_url": "https://github.com/vibe-motion/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Anitahityou",
+        "text": "Seedance 只能帮你完成视频的 70%，剩下 25% 还需要你自主增加特效，于是 vibe-motion 这个skill 诞生了，能够把 motion design / 视频动效制作 拆成可复用的 agent skill\n\n3D demo 动效、进度条、SVG 组装都可以轻松完成\n目前 GitHub 已有 565 stars 🌟\n\n安装命令：npx skills add vibe-motion/skills\n\ngithub指路: https://t.co/5HjG2jTyBe",
+        "likes": 3,
+        "url": "https://x.com/i/status/2058801168155836787"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058801168155836787"
+      ]
+    },
+    {
+      "repo": "gaojude/tldr-skill",
+      "github_url": "https://github.com/gaojude/tldr-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gao_jude",
+        "text": "we sped up human → AI with voice.\n\nbut AI → human still bottlenecks at ~50 bits/sec\nbecause that's the conscious-language channel ceiling.\n\nthe visual cortex does 10M bits/sec.\n\nbuilt a skill that exploits that:\nnpx skills add gaojude/tldr-skill https://t.co/9vJci6oc99",
+        "likes": 2,
+        "url": "https://x.com/i/status/2058726286416073066"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058726286416073066"
+      ]
+    },
+    {
+      "repo": "antvis/chart-visualization-skills",
+      "github_url": "https://github.com/antvis/chart-visualization-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "libapi_",
+        "text": "npx skills add antvis/chart-visualization-skills\n\n视频 ： https://t.co/IAxq71M20S",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058855411462328600"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058855411462328600"
+      ]
+    },
+    {
+      "repo": "composiohq/awesome-claude-skills",
+      "github_url": "https://github.com/composiohq/awesome-claude-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "61K stars and climbing. Awesome Claude Skills is a mega-directory of 1000+ production-ready plugins and skills for Claude, Cursor, Codex, Gemini CLI, and basically every AI coding tool out there.\n\nNeed your agent to send emails? Post to Slack? Create Jira tickets? There's a skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058836113327030663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058836113327030663"
+      ]
+    },
+    {
+      "repo": "siisee11/serenity-skill",
+      "github_url": "https://github.com/siisee11/serenity-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chungmuromafia",
+        "text": "serenity skill을 만들었습니다. 사용법은 'npx skills add siisee11/serenity-skill' 후에 클로드나 코덱스한테 serenity 스킬을 사용해서 조사해달라고 하면 됩니다.  @aleabitoreddit \n\n스킬 내용은 여기에 있어요:  https://t.co/KihVe0pxoV https://t.co/KCtrongdjo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058890551496429719"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058890551496429719"
+      ]
+    },
+    {
+      "repo": "smallnest/chao-go-sync",
+      "github_url": "https://github.com/smallnest/chao-go-sync",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smallnest",
+        "text": "基于我的《深入理解Go并发编程》一书的知识，生成了一个skill: npx skills add smallnest/chao-go-sync",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058826763212570829"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058826763212570829"
+      ]
+    },
+    {
+      "repo": "headline-design/design-craft",
+      "github_url": "https://github.com/headline-design/design-craft",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ussaaron_",
+        "text": "@Daniel_Farinax Did you specify which design skill you wanted? You can do it like - npx skills add headline-design/design-craft/v0 or you can ask Grok Build to add it.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058666525804966390"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058666525804966390"
+      ]
+    },
+    {
+      "repo": "mnvsk97/agentbreak",
+      "github_url": "https://github.com/mnvsk97/agentbreak",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mnvsk97",
+        "text": "Testing your agent for resilience is now simple:\n\n1. Install AgentBreak: `npx skills add mnvsk97/agentbreak -y`\n2. Open Claude Code\n3. Type: “test my agent for resilience”\n\nThat’s it.\n\nAgentBreak audits your code, simulates LLM/MCP/tool failures, checks guardrails, and gives you ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058633852764217505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058633852764217505"
+      ]
+    },
+    {
+      "repo": "worldwonderer/oh-story-claudecode",
+      "github_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aidoying",
+        "text": "⭐ oh-story-claudecode：网文写作 skill 包，覆盖长篇与短篇网络小说全流程\n\n总 Star：1368｜近 1 天新增：44\n\n该项目提供扫榜、拆文、写作、去AI味、封面图等功能，适配 Claude Code 和 OpenClaw，采用 MIT License 开源。MIT License 属于宽松许可，倾向于商用友好；以上为基于开源许可证常识的通俗说明，不构成法律意见；正式商用请咨询律师。\n\n• 提供专业 Agent 协作，支持大纲搭建、人物设定、正文输出\n• 包含自动化 Hooks 和知识库，提高写作效率\n• 支持长篇和短篇网络",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058760988401471728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058760988401471728"
+      ]
+    },
+    {
+      "repo": "himkt/cafleet",
+      "github_url": "https://github.com/himkt/cafleet",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "himkt",
+        "text": "そういえば、 cafleet の v0.9.0 で opencode で agent orchestration できるようになりました。なにとぞ。\nhttps://t.co/whtzAQefKQ\n\nあと skills の管理について、 claude / codex の marketplace を使う方式を推奨していたところを gh skill を使う方式を 1st tier にすることにしました https://t.co/Lrgv0aFGRY",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058886122277924973"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058886122277924973"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "narratorai-studio/narrator-ai-cli-skill",
+      "github_url": "https://github.com/narratorai-studio/narrator-ai-cli-skill",
+      "tier": 0,
+      "is_new": false,
+      "score": 722.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 29,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "平时刷抖音看到一些电影解说视频，自己想做得找素材、写脚本、配音再剪辑，实在耗时耗力直接被劝退。\n\n偶然看到 narrator-ai-cli-skill 这个项目，让 AI Agent 学会做电影解说视频，全程自动化。\n\n只需对着 AI 说一句「帮我做一个电影解说」，就会自动搜索影片、选模板、配音乐、生成脚本、合成视频。\n\nGitHub：https://t.co/oWqUSVFLsu\n\n内置了约 100 部电影资源、146 首背景音乐、63 种配音声线和 90 多套解说模板。\n\n支持改编解说和原创解说两种创作路径，还能单独做声音克隆和文字转语音。\n\n兼容 ",
+        "likes": 29,
+        "url": "https://x.com/i/status/2058812822700872106"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058812822700872106"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 1,
+      "is_new": false,
+      "score": 300.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@VaibhavSisinty missed one:\n/design-engineering : design efficiently\n\nsetup:\nnpx plugins add AgentsORG/design-engineering\nnpx skills add AgentsORG/design-engineering\n\nhttps://t.co/5Teled0FAr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058867112693899670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058867112693899670",
+        "https://x.com/i/status/2058856423518568521",
+        "https://x.com/i/status/2058827748911837311"
+      ]
+    },
+    {
+      "repo": "fitchmultz/pi-cursor-sdk",
+      "github_url": "https://github.com/fitchmultz/pi-cursor-sdk",
+      "tier": 2,
+      "is_new": false,
+      "score": 568.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 141,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fitchmultz",
+        "text": "Released pi-cursor-sdk v0.1.16 🚀\n\nCursor still uses its own harness tools.\n\nBut pi-cursor-sdk v0.1.16 adds the missing bridge: Cursor agents can now reach active pi extension tools and other pi-side support through local MCP, while pi keeps the tool cards, confirmations, history,",
+        "likes": 141,
+        "url": "https://x.com/i/status/2057956277427589160"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057956277427589160"
+      ]
+    },
+    {
+      "repo": "perplexityai/bumblebee",
+      "github_url": "https://github.com/perplexityai/bumblebee",
+      "tier": 3,
+      "is_new": false,
+      "score": 365.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x4D31",
+        "text": "🐝📦 built last friday morning, running by the evening to help check exposure to newly reported supply-chain campaigns.\n\nsmall Go tool for inventorying developer endpoint packages, IDE/browser extensions, MCP, and other local dev-tool metadata for fast supply-chain exposure checks.",
+        "likes": 75,
+        "url": "https://x.com/i/status/2057873029619728647"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2057873029619728647"
+      ]
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "github_url": "https://github.com/garrytan/gbrain",
+      "tier": 3,
+      "is_new": false,
+      "score": 242.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "garrytan",
+        "text": "GBrain is SOTA retrieval for agents and free for your use. MIT license. It currently is designed for OpenClaw and Hermes Agent but it does have full MCP server support that lets you use it with almost any agent harness.\n\nhttps://t.co/yFpFU4pn5b",
+        "likes": 44,
+        "url": "https://x.com/i/status/2058242823930163311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058242823930163311"
+      ]
+    },
+    {
+      "repo": "bankrbot/skills",
+      "github_url": "https://github.com/bankrbot/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "igoryuzo",
+        "text": "@mksglu hey do u have a skill, we can add it to our repo here: https://t.co/CVZ7Zn9xlW\n\nour entire dev ecosystem is agent-focused and could find context-mode useful",
+        "likes": 38,
+        "url": "https://x.com/i/status/2058711611280363691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058711611280363691"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 129.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iluciddreaming",
+        "text": "GitHub 上有个 repo，138 个科学研究工具的 Agent Skill，24.7k stars。\n\n覆盖生物信息、药物发现、临床数据库——Scanpy、RDKit、DeepChem、UniProt、AlphaFold 全在里面。\n\n一行装进你的 agent：\nnpx skills add K-Dense-AI/scientific-agent-skills\n\n装完之后 agent 不用靠猜，直接拿到正确的 API 调用方式。\n\n好的 agent 不靠更大的模型，靠更精准的工具知识。",
+        "likes": 8,
+        "url": "https://x.com/i/status/2058682967850197238"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058682967850197238"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xmjfmjf",
+        "text": "@oezank_idc Gas bang skill vercel:\nnpx skills add vercel-labs/agent-skills\n\nBuat deploy deploy project 🙏\n\nSalam interaksi bang, izin mutualan 🙏",
+        "likes": 2,
+        "url": "https://x.com/i/status/2058847165976609170"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058847165976609170"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "piske_cc",
+        "text": "■ 4. Hallmarkでデザインを脱AI顔に\nhttps://t.co/lj9QLoug3t\nClaude Code / Cursor / Codex向けのデザインスキル。紫グラデ・中央揃えだらけ・Inter一択などLLMの癖に名前をつけて潰す65のルールセット。npx skills add nutlope/hallmarkで即導入可能。\n\n🐥UIの見た目を直接改善するというより、auditモードで既存画面のAIっぽさを採点・言語化できるのが実務での強み。新規開発だけでなく既存UIのレビューにも使えて、デザイナーとエンジニアで同じ基準で話せるようにな",
+        "likes": 1,
+        "url": "https://x.com/i/status/2058862423348801984"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058862423348801984"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sumkincpp",
+        "text": "@mattpocockuk also cli syntax for npx skills was changed \n\nnpx skills add mattpocock/skills --skill to-prd -y -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2058852215482167556"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2058852215482167556"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2058505715610731005",
+      "author": "lavaplanetx",
+      "text": "Most AI agents are built to keep \nyou inside someone else’s walls. @TheARCTERMINAL is doing the opposite with ANIMA. By supporting MCP server connections, it lets any public or private server become a live tool the agent can actually call and reason through.\n\nYou keep running you",
+      "likes": 304,
+      "views": 0,
+      "url": "https://x.com/i/status/2058505715610731005",
+      "is_kol": false,
+      "score": 1392.0
+    },
+    {
+      "id": "2058802311539929230",
+      "author": "iksly2",
+      "text": "If you are looking for a remote job, you need to install this Claude Skill.\n\nIt was built specifically for job seekers and it covers everything from resume optimization to ATS checks, interview prep, cold outreach, and application tracking.\n\nThis can literally help you land your ",
+      "likes": 231,
+      "views": 0,
+      "url": "https://x.com/i/status/2058802311539929230",
+      "is_kol": false,
+      "score": 918.0
+    },
+    {
+      "id": "2058578949597266035",
+      "author": "vibeeval",
+      "text": "MICROSOFT'TAN MARLENE MHANGAMI GÖSTERDİ:\n1400'DEN FAZLA MCP TOOL'LA CLAUDE AJANI NASIL KURULUR!\n\nhem de tamamen BEDAVA.\n\n> claude ajanına 1400+ tool nasıl bağlanır\n> mcp ile araçları tek çatıda toplama, azure ile orkestre etme\n> ajanın hangi tool'u ne zaman seçeceği\n> tek tek değ",
+      "likes": 222,
+      "views": 0,
+      "url": "https://x.com/i/status/2058578949597266035",
+      "is_kol": false,
+      "score": 841.0
+    },
+    {
+      "id": "2058582444303863994",
+      "author": "cifilter",
+      "text": "If you're a serious Apple platform UI engineer, buy Hopper (https://t.co/zIef2zpnPG) and set up the MCP server. Drop /System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e into it, disassemble frameworks, then let Codex deep dive into anything you want.",
+      "likes": 192,
+      "views": 0,
+      "url": "https://x.com/i/status/2058582444303863994",
+      "is_kol": false,
+      "score": 611.0
+    },
+    {
+      "id": "2058791268432691648",
+      "author": "AiTechPerks",
+      "text": "One idea + Flova skill agent = a cinematic commercial.\n\nI used Flova AI to create an energy drink ad:\n\na city blackout,\na rooftop runner,\nstorm clouds,\nneon rain,\nand one final sprint to bring the lights back.\n\nHere’s the result:\n\ntry here : https://t.co/rAsShHcEIQ https://t.co/Y",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2058791268432691648",
+      "is_kol": false,
+      "score": 567.0
+    },
+    {
+      "id": "2058578802180247828",
+      "author": "Neoleone3",
+      "text": "1.1beta update..\nLife Skill Lacrimosa was changed\nLv 2.\nWhen Lacrimosa is in the team, the effect of gaining Fons and Claw Coins at the end of \"Pink Claw Heist\" is increased by \n30% (old)\n↓\n20%. (new)\n(Cannot exceed the limit)\n\n#NTE #NevernessToEverness",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2058578802180247828",
+      "is_kol": false,
+      "score": 504.0
+    },
+    {
+      "id": "2058820471395606989",
+      "author": "wallet",
+      "text": "We're happy to share that @ethy_agent has integrated Onchain OS.\n\nEvery Ethy AI V2 agent comes with the full Onchain OS skill suite, powering autonomous bridging, swaps, smart money tracking, market analysis and liquidity routing, with settlements on @XLayerOfficial https://t.co/",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2058820471395606989",
+      "is_kol": false,
+      "score": 488.0
+    },
+    {
+      "id": "2058737047125495866",
+      "author": "agi_aibusi",
+      "text": "AI動画はもうプロンプトの時代じゃない\nSkillの時代に入りました\n\nFlovaは世界で初めて\n〝Skill〟を本格導入したAI Video Agent\n\nもう複雑な指示文を書く必要はありません\n画像素材を渡して\n「こんな雰囲気で作りたい」と\n自然言語で伝えるだけでOK\n\nあとは選んだSkillが\n・モデル設定\n・カメラワーク\n・編集ロジック\n・テンポ設計\n・トランジション\n・ビジュアルディレクション\n全部自動で統合して映像を生成してくれます\n\nSNS向けのバズ動画Skillも公開されてて\nテンプレを選ぶだけで\n高品質な動画が作れます\n\n使い方と作例は",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2058737047125495866",
+      "is_kol": false,
+      "score": 437.0
+    },
+    {
+      "id": "2058560557155041563",
+      "author": "Dharmikpawar13",
+      "text": "Most AI engineers know how to use MCP.\n\nVery few understand the server patterns that make production AI systems actually scalable. ⚡\n\nThis breakdown of the top 5 MCP server architectures is pure gold for anyone building serious AI agents in 2026. 👇\n\n1️⃣ Tool Server\nLets AI agents",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2058560557155041563",
+      "is_kol": false,
+      "score": 435.0
+    },
+    {
+      "id": "2058796863646560297",
+      "author": "BeyonderTR",
+      "text": "Closed AI systems share the same problem: No matter how much you use them, the platform sets the limits.\n\n@TheARCTERMINAL, however, is expanding ANIMA towards a more open model.\n\nThanks to MCP server support, users can now directly connect their own tools, custom infrastructure, ",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2058796863646560297",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2058731196063023374",
+      "author": "Dipanshu_AI",
+      "text": "A Japanese developer discovered a trick in Claude Code that no one was talking about.\n\nHe set up a skill called \"find skills.\" It slots into Claude Code like a small MCP package. He writes what it needs to do once. Claude scans hundreds of skills in the Anthropic ecosystem and bu",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2058731196063023374",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2058806039928275294",
+      "author": "IATheYoker",
+      "text": "Claude sin Skills es como contratar a alguien brillante y despedirlo cada noche.\n\nEl 95% de usuarios lo hace sin saberlo. Estas son las 20 Skills que lo cambian todo.\n\nUna Skill es un archivo .md con instrucciones permanentes para Claude.\n\nNo es un prompt. Es una descripción de t",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2058806039928275294",
+      "is_kol": false,
+      "score": 354.0
+    },
+    {
+      "id": "2058601848429551798",
+      "author": "MPP32_dev",
+      "text": "The MPP32 MCP server just pulled live @_PIVX  DAO governance data directly into Claude\n\nMasternode votes. Treasury allocation. Budget proposals. \n\nThe same server also gives AI agents access to:\n\nSolana token intelligence with alpha scores, rug risk and whale tracking\nPortfolio s",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2058601848429551798",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2058652975732564405",
+      "author": "TopazDex",
+      "text": "A quick Weekly Recap of the Agentic ve(3,3) Topaz Dex\n\nHighlights:\n\n• Topaz Main net officially launched\n• $Topaz token went live\n• veTOPAZ voting is live\n• Epoch 1 Emissions are Live\n• Topaz listed on @VFAT_io\n• Topaz listed on @DeBankDeFi\n• Topaz Agent skill is live\n• $Topaz ti",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2058652975732564405",
+      "is_kol": false,
+      "score": 282.0
+    }
+  ]
+}

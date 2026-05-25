@@ -2814,5 +2814,53 @@
   "yanyintingyou/tabular-file-understanding-agent-skill": {
     "first_seen": "2026-05-24",
     "tier": 3
+  },
+  "virtuslab/scala-skill": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "reflexioai/claude-smart": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "vibe-motion/skills": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "gaojude/tldr-skill": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "antvis/chart-visualization-skills": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "composiohq/awesome-claude-skills": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "siisee11/serenity-skill": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "smallnest/chao-go-sync": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "headline-design/design-craft": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "mnvsk97/agentbreak": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "worldwonderer/oh-story-claudecode": {
+    "first_seen": "2026-05-25",
+    "tier": 3
+  },
+  "himkt/cafleet": {
+    "first_seen": "2026-05-25",
+    "tier": 3
   }
 }
