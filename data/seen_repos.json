@@ -2862,5 +2862,41 @@
   "himkt/cafleet": {
     "first_seen": "2026-05-25",
     "tier": 3
+  },
+  "continuum-ai-corp/orcarouter-mcp-server": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "ammarcodes/rtl-web-development-skill": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "smallnest/goal-workflow": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "jsedoc/prover-verifier-deliberation": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "hsnice16/agent-friendly-skill": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "mturac/simulacra": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "openprose/prose": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "jqaisystems/jqai-ai-skills": {
+    "first_seen": "2026-05-27",
+    "tier": 3
+  },
+  "xingyu-zhong/deepseek-gui": {
+    "first_seen": "2026-05-27",
+    "tier": 3
   }
 }
