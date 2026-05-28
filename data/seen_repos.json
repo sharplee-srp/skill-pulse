@@ -2898,5 +2898,53 @@
   "xingyu-zhong/deepseek-gui": {
     "first_seen": "2026-05-27",
     "tier": 3
+  },
+  "sene1337/hermes-proficiencies": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "facebook/mcpguard-dynamic": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "basedcryptoji/clerk-base-skill": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "negusnati/verify-et-api": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "synter-media-ai/free-skills": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "delphik-ai/delphik": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "cashubtc/cashu-skill": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "simonmesmith/agent-skills": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "logesh45/better-source-control": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "christianaranda/codex-pro-skill": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "jedliuai/codex-cleaner": {
+    "first_seen": "2026-05-28",
+    "tier": 3
+  },
+  "cursor/plugins": {
+    "first_seen": "2026-05-28",
+    "tier": 3
   }
 }
