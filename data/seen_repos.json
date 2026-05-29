@@ -2946,5 +2946,57 @@
   "cursor/plugins": {
     "first_seen": "2026-05-28",
     "tier": 3
+  },
+  "paullarionov/claude-certified-architect": {
+    "first_seen": "2026-05-29",
+    "tier": 2
+  },
+  "spaitial-dev/spaitial-playcanvas-world": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "aizzaku/aiz-infographic": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "ethereum/ercs": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "topazdex/agent-skill": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "k-dense-ai/science-superpowers": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "darkfallx/pharos-realfi-security-scout": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "spaitial-dev/spaitial-api-skill": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "zio/zio-skills": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "agentsorg/naive-design": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "dart-lang/skills": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "cisco-ai-defense/skill-scanner": {
+    "first_seen": "2026-05-29",
+    "tier": 3
+  },
+  "smfworks/smf-skilltrain": {
+    "first_seen": "2026-05-29",
+    "tier": 3
   }
 }

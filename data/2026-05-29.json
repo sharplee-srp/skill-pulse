@@ -1,0 +1,634 @@
+{
+  "date": "2026-05-29",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 184,
+    "tweets_with_repos": 26,
+    "unique_repos": 21,
+    "new_repos": 13,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "paullarionov/claude-certified-architect",
+      "github_url": "https://github.com/paullarionov/claude-certified-architect",
+      "tier": 2,
+      "is_new": true,
+      "score": 562.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 124,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "ANTHROPIC NOW HAS AN OFFICIAL ARCHITECT CERTIFICATION\n\nand someone dropped the full study guide for free on github\n\n▪️ claude certified architect foundations\n▪️ covers tool design, mcp integration, structured output, context management\n▪️ includes practical exercises + exam scena",
+        "likes": 124,
+        "url": "https://x.com/i/status/2059959079523733745"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2059959079523733745"
+      ]
+    },
+    {
+      "repo": "spaitial-dev/spaitial-playcanvas-world",
+      "github_url": "https://github.com/spaitial-dev/spaitial-playcanvas-world",
+      "tier": 3,
+      "is_new": true,
+      "score": 464.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 98,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "risingodegua",
+        "text": "I just one-shotted a 3D world with proper collision physics using the @SpAItial_AI  API and @playcanvas  \n\nHere's how i did it:\n\n-> Install the spaitial-playcanvas-world skill: npx skills add spaitial-dev/spaitial-playcanvas-world\n\n-> Open Cursor or your preferred coding agent\n\n-",
+        "likes": 98,
+        "url": "https://x.com/i/status/2060049961610338610"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060049961610338610"
+      ]
+    },
+    {
+      "repo": "aizzaku/aiz-infographic",
+      "github_url": "https://github.com/aizzaku/aiz-infographic",
+      "tier": 3,
+      "is_new": true,
+      "score": 333.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Aizcalibur",
+        "text": "Introducing /aiz-infographic\n\nAn AI agent skill that ships clean infographics from a single prompt.\n\nWorks in Claude Code, Cursor, Codex, OpenClaw, Hermes or any agent setup that loads skills.\n\ninstall `npx skills add aizzaku/aiz-infographic`\n\nCheck it out ↓ https://t.co/9YS9ib9a",
+        "likes": 33,
+        "url": "https://x.com/i/status/2060306362803081601"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060306362803081601",
+        "https://x.com/i/status/2060306607406481726"
+      ]
+    },
+    {
+      "repo": "ethereum/ercs",
+      "github_url": "https://github.com/ethereum/ercs",
+      "tier": 3,
+      "is_new": true,
+      "score": 224.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MeltedMindz",
+        "text": "Opened a new ERC proposal: Service Objects.\n\nThe idea is simple:\n\nWhat if an NFT could represent a real live internet service?\n\nNot just an image, but:\n\nan API\nan AI agent\nan MCP server\na bot\na paid tool\na hosted service\n\nThe ERC defines a minimal standard for:\n\nwho operates the ",
+        "likes": 38,
+        "url": "https://x.com/i/status/2060020557341765853"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060020557341765853"
+      ]
+    },
+    {
+      "repo": "topazdex/agent-skill",
+      "github_url": "https://github.com/topazdex/agent-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AaronShames",
+        "text": "Topaz Agent Skill v2.7.0 is out.\n\nAI agents can now access the full Topaz Stats API, including gauge APRs, historical TVL/volume/fees, token prices, epoch & bribe markets ($/vote), and veTOPAZ + foundation transparency.\n\nThe easiest, fastest, most accurate way to read Topaz oncha",
+        "likes": 24,
+        "url": "https://x.com/i/status/2060143598054908273"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060143598054908273"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/science-superpowers",
+      "github_url": "https://github.com/k-dense-ai/science-superpowers",
+      "tier": 3,
+      "is_new": true,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Gorden_Sun",
+        "text": "Science Superpowers：Superpowers科研版\n优化Agent做科研的Skill，内部设计了一套科研流程。\nGithub：https://t.co/IVXkcS1bxW https://t.co/IILu79Tr6I",
+        "likes": 20,
+        "url": "https://x.com/i/status/2060288691239895443"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060288691239895443"
+      ]
+    },
+    {
+      "repo": "darkfallx/pharos-realfi-security-scout",
+      "github_url": "https://github.com/darkfallx/pharos-realfi-security-scout",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Darkfall_x",
+        "text": "so i spent 4 days building something for the pharos agent skill builder campaign\n\nis it the craziest thing ever built? probably not\n\nbut heyyyyyyyyyy (so demoralised that i don't even know what to text)\n\noh well... introducing Pharos RealFi Security Scout\n\nan AI agent skill that ",
+        "likes": 20,
+        "url": "https://x.com/i/status/2060219548393976275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060219548393976275"
+      ]
+    },
+    {
+      "repo": "spaitial-dev/spaitial-api-skill",
+      "github_url": "https://github.com/spaitial-dev/spaitial-api-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SpAItial_AI",
+        "text": "Use a coding agent with our official api skills. \n\nnpx skills add spaitial-dev/spaitial-api-skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2060004722900169198"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060004722900169198"
+      ]
+    },
+    {
+      "repo": "zio/zio-skills",
+      "github_url": "https://github.com/zio/zio-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "khajavi",
+        "text": "I've developed two skills so your agents can learn how to write #ZIO and #ZIO_HTTP applications (including the ZIO Ecosystem):\n\nnpx skills add zio/zio-skills --skill zio-knowledge zio-http-knowledge\n\nGive them a try and teach you agents! Let me know about your experience!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060335871920931304"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060335871920931304"
+      ]
+    },
+    {
+      "repo": "agentsorg/naive-design",
+      "github_url": "https://github.com/agentsorg/naive-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@AmirMushich this looks amazing! I just made a skill for this.\n\ncheck it out:\nnpx skills add AgentsORG/naive-design\nnpx plugins add AgentsORG/naive-design\nhttps://t.co/yUCodTJsRq",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060266179776975002"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060266179776975002"
+      ]
+    },
+    {
+      "repo": "dart-lang/skills",
+      "github_url": "https://github.com/dart-lang/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsvaruntej",
+        "text": "Just added a new skill and unleashed Opus 4.8 on my codebase. \n\nDownload Flutter and Dart agent skills by running: \nnpx skills add flutter/skills --skill '*' --agent universal\nnpx skills add dart-lang/skills --skill '*' --agent universal\n\n#HappyShipping https://t.co/oQ7kb0qD6h",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060225809517088888"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060225809517088888"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/skill-scanner",
+      "github_url": "https://github.com/cisco-ai-defense/skill-scanner",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_sthbryan",
+        "text": "Your AI agent skills may be scanning themselves.\n\nCisco's skill-scanner detects prompt injection and data exfiltration in agent skills.\n\nWorks with Claude Code, OpenClaw, Cursor, and Codex. Open-source, 900+ stars.\n\nhttps://t.co/HlhZKrpwVg",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060107594732343571"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060107594732343571"
+      ]
+    },
+    {
+      "repo": "smfworks/smf-skilltrain",
+      "github_url": "https://github.com/smfworks/smf-skilltrain",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MichaelGannotti",
+        "text": "Have an @openclaw  AI? Kick it up a notch with skills self improvements.  SkillTrain is an OpenClaw-native skill optimizer that treats SKILL.md files as trainable parameters. Using a separate optimizer model, it improves your agent skills through structured feedback loops — rollo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060076840770044397"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060076840770044397"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 507.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wallet",
+        "text": "Our Agentic Wallet Trading Competition is a wrap.\n\nWinners can claim rewards:\n• via Agent: Run npx skills add okx/onchainos-skills on your Agentic Wallet, login &amp; enter \"Claim Agentic Wallet Trading Competition Reward\"\n• via Rewards Center (web): Login using your Agentic Wall",
+        "likes": 28,
+        "url": "https://x.com/i/status/2060223489249010094"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060223489249010094",
+        "https://x.com/i/status/2060222411388383319",
+        "https://x.com/i/status/2060186299911319766",
+        "https://x.com/i/status/2060186225827631348"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 1,
+      "is_new": false,
+      "score": 366.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WWTLitee",
+        "text": "如果你用 AI 写前端时，页面能跑但难用，模板味还很重\n\n那就赶紧来看看这个skill：taste-skill\n\ntaste-skill 做的是 anti-slop frontend skill。它把 layout、typography、motion、spacing 这些判断写成 portable Agent Skills，还带 reference boards 的生图技能，方便交给 Codex、Cursor、Claude Code 继续实现。\n\nGitHub 现在约 24.7k stars。经常让 AI 写页面、改 UI、做作品集的人，可以先看它怎么给",
+        "likes": 22,
+        "url": "https://x.com/i/status/2060234198833881431"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060311757361697170",
+        "https://x.com/i/status/2060201580612526430",
+        "https://x.com/i/status/2060234198833881431"
+      ]
+    },
+    {
+      "repo": "jgraph/drawio-mcp",
+      "github_url": "https://github.com/jgraph/drawio-mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 669.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 168,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "drawio",
+        "text": "Large ERD created with our MCP app server in https://t.co/Tw7s9xxllk https://t.co/v5JxtBE6Kv https://t.co/lx3dkKHmJt",
+        "likes": 168,
+        "url": "https://x.com/i/status/2060057832599199915"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060057832599199915"
+      ]
+    },
+    {
+      "repo": "harmonicsecurity/claudit-sec",
+      "github_url": "https://github.com/harmonicsecurity/claudit-sec",
+      "tier": 3,
+      "is_new": false,
+      "score": 366.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 19,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "🛡️ This Tool Audits Claude Desktop Like an EDR for AI Agents ⚠️\n\nCLAUDIT-SEC gives full visibility into:\n🤖 Claude Desktop Configuration\n🔌 MCP Servers\n🧩 Extensions & Plugins\n⏰ Scheduled Tasks\n🌐 OAuth Connectors\n📡 Autonomous Agent Features\n🧠 AI Workspace Activity\n\nIt detects risky ",
+        "likes": 57,
+        "url": "https://x.com/i/status/2060093376276594795"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060093376276594795"
+      ]
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "github_url": "https://github.com/mksglu/context-mode",
+      "tier": 3,
+      "is_new": false,
+      "score": 318.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FakeMaidenMaker",
+        "text": "🧠 炸裂！这个开源 MCP server 能把 AI coding agent 的 tool output 沙箱化，context 直接从 315 KB 压到 5.4 KB，缩减 98%——等于 API 账单也同步砍掉 98%。\n\nGitHub 上 1.5 万+ stars，登上 Hacker News #1，Microsoft、Google、Meta、NVIDIA、Stripe、GitHub、Notion 等公司团队 README 里都挂了他们的 badge——用得够广了。\n\n你有没有遇到过这种情况：跑一个 Playwright snapshot 往 ",
+        "likes": 56,
+        "url": "https://x.com/i/status/2059947792278421771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2059947792278421771"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alexsoyes",
+        "text": "hallmark génère des pages HTML/CSS qui évitent le look IA générique.\n\n22 thèmes, 65 slop-tests et auto-critique pour des résultats visuellement uniques à chaque brief.\n\n&gt; npx skills add nutlope/hallmark\n\nhttps://t.co/RsRZfp9ki0 https://t.co/KQxGSlXR06",
+        "likes": 7,
+        "url": "https://x.com/i/status/2060224795636105357"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060224795636105357"
+      ]
+    },
+    {
+      "repo": "flutter/skills",
+      "github_url": "https://github.com/flutter/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsvaruntej",
+        "text": "Just added a new skill and unleashed Opus 4.8 on my codebase. \n\nDownload Flutter and Dart agent skills by running: \nnpx skills add flutter/skills --skill '*' --agent universal\nnpx skills add dart-lang/skills --skill '*' --agent universal\n\n#HappyShipping https://t.co/oQ7kb0qD6h",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060225809517088888"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060225809517088888"
+      ]
+    },
+    {
+      "repo": "cisco-ai-defense/defenseclaw",
+      "github_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "francescofaenzi",
+        "text": "DefenseClaw: the agentic governance layer that sits on top of OpenShell and includes Cisco’s open sourced scanners that developers can deploy in under five minutes.\n\n1) DefenseClaw scans every skill, every tool, every plugin, before it’s allowed into your claw environment and eve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2056238106190430503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2056238106190430503"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2060088572049559893",
+      "author": "Teknium",
+      "text": "Hermes Agent v0.15.0 is out now!\n\n747 PRs by 321 Contributors - thank you all for the work on this release!\n\nSome Highlights:\n\n- NFTY Platform added to gateway channels\n\n- Skill Bundles and MCP Catalog\n\n- Krea 2, Opus 4.8, Qwen 3.7 and more models supported\n\n- Deep xAI Integratio",
+      "likes": 994,
+      "views": 0,
+      "url": "https://x.com/i/status/2060088572049559893",
+      "is_kol": false,
+      "score": 3397.0
+    },
+    {
+      "id": "2060114203621335523",
+      "author": "ChromiumDev",
+      "text": "AI coding agents can write code, but they can't see if it actually works.\n\nChrome DevTools for agents 1.0 fixes this. The stable release brings powerful browser debugging, emulation, and automated audits to your AI assistants via our Chrome DevTools MCP server.\n\n👁️ Give your agen",
+      "likes": 644,
+      "views": 0,
+      "url": "https://x.com/i/status/2060114203621335523",
+      "is_kol": false,
+      "score": 2217.0
+    },
+    {
+      "id": "2060155458904900084",
+      "author": "XFreeze",
+      "text": "xAI has officially released its latest coding model, Grok Build 0.1, in public beta via the API\n\nThe model is specifically trained for agentic coding tasks, including:\n• web development  \n• debugging\n• MCP support\n• tool calling\n• autonomous coding workflows\n\nIt’s also the same m",
+      "likes": 268,
+      "views": 0,
+      "url": "https://x.com/i/status/2060155458904900084",
+      "is_kol": false,
+      "score": 1004.0
+    },
+    {
+      "id": "2060134398792815074",
+      "author": "bayendor",
+      "text": "i asked my hermes agent to prepare for the 0.15.0 update.\n\n5 minutes later i had 5 skill bundles loaded.\n\n/deploy  → nextjs, cloudflare, nginx, supabase\n/crypto  → polymarket, solana, trading\n/research → search, blog, arxiv, synthesis\n/dev     → debug, plan, execute\n/x-posting → ",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2060134398792815074",
+      "is_kol": false,
+      "score": 362.0
+    },
+    {
+      "id": "2060234770714632583",
+      "author": "vicky_grok",
+      "text": "BREAKING: Claude can now replace your $20,000 degree.\n\nThese 7 prompts can teach you ANY skill in 30 days , for free.\n\nMost people will scroll past this.\nThe ones who save it will have an unfair advantage by next month.\n\nBookmark this now:",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2060234770714632583",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2060291358229942439",
+      "author": "cyrilXBT",
+      "text": "Anthropic official plugin.\n\nScans your project. Configures everything automatically.\nHooks. Skills. MCP servers. Subagents. Automations.\n\nOne command. Done.\n\nMost people are running Claude Code at 20% of its capability.\nThis is the fix.\n\n /plugin install claude-code-setup@claude-",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2060291358229942439",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2060258623670960467",
+      "author": "RoundtableSpace",
+      "text": "HERE ARE A FEW CLAUDE PROMPTS THAT CAN MAKE YOU MONEY EVERY DAY\n\nPrompt 1: Find profitable passive income ideas based on a skill\n\n“Act as a digital product strategist. My skill is [skill]. My experience level is [beginner/intermediate/expert]. My target audience is [audience]. Gi",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2060258623670960467",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2059977104704335933",
+      "author": "slash1sol",
+      "text": "POLYMARKET COPY-TRADERS JUST GOT DELETED BY ONE MCP SERVER\n\n47,000 wallets being mirrored across 18 tracker stacks right now.\n\nEvery one of them reading the same scraps with the same 14-second lag.\n\nThe average copy-trader is down 31% over 90 days.\n\nThe \"Insider\" they follow is u",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2059977104704335933",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2060307204176310655",
+      "author": "9hills",
+      "text": "这就是一个 pi 的使用流派：单 session\n\n只有 tdd、handoff、grill-with-docs 等少数几个 skill。\n\n然后频繁使用/tree 功能进行分叉，回退+summay+handoff。从而在一个Session里完成所有开发工作。\n\n虽然相比多Agent原始了一些，但是可控。我也会用类似的方法开发需要可控的代码。 https://t.co/bmpALsc99Z",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2060307204176310655",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2060295027314639161",
+      "author": "nosana_ai",
+      "text": "May was a full month at Nosana!\n\nTechnical sessions, a hackathon with 300+ builders, offline events, a team offsite in the Netherlands, a community-built MCP server, GPU demand that kept markets full and a lot more 📈\n\nHere’s everything that happened 👇\nhttps://t.co/bLJnLn1zss",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2060295027314639161",
+      "is_kol": false,
+      "score": 203.0
+    },
+    {
+      "id": "2060190672171548699",
+      "author": "wey_gu",
+      "text": "dynamic workflow 搞 subagent dag 的形式感觉有潜力成为无关 harness 细节的协议\n\n- dag compiler 是 agent 不是 code\n- node 是 subagent\n\n用来做 delegate 的 long run 多 subagent 任务、甚至超出单 agent 的 skill/procedural Memory、可以被重复 hook/ schedule 的复杂任务都是可以的\n\n因为不是代码 compile/execute 的，workflow 的 dsl（现在是 js）只需要例子 prompt 就",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2060190672171548699",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2060208761415856542",
+      "author": "ai_xiaomu",
+      "text": "GitHub上一个被严重低估的副业方向: \n\n做\"skill文件\"卖。\n\n背景: \nClaude Code的skill生态爆发，trending上每天都有新的skill仓库。 \n但90%的用户不会自己写skill。\n\n副业路径:\n写10-20个高质量skill（写作/SEO/代码审查/数据分析等方向）\n\n打包成\"skill合集\"\n在小红书/即刻/闲鱼卖，定价29-99元\n或者做成Gumroad/小报童付费下载\n\n成本: 0（你自己用Claude写skill） \n壁垒: 谁先做谁吃第一波红利，后面会卷",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2060208761415856542",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2060091421550338390",
+      "author": "acoyfellow",
+      "text": "Why build agents with @EffectTS_ ?\n\n· bounded concurrency\n· typed retries\n· cancellation that actually works\n· human-in-the-loop as one field on a tool\n· MCP server from the same toolkit\n\nSee some examples: \n\nhttps://t.co/C7G8q0MK83 https://t.co/ZmevJ4DGD5",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2060091421550338390",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2060075809767907593",
+      "author": "UsdpBase",
+      "text": "Shipped: a Model Context Protocol server for BASEUSDP.\n\n4 tools, resolve_handle, send_tip, create_payment_request, list_recent_tips, exposed to any MCP client (Claude, Cursor, ChatGPT) over streamable HTTP.\n\nNon-custodial. Opt-in per user. Live on @base. https://t.co/yBNU6hk8fw",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2060075809767907593",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2060088520543527228",
+      "author": "Eterna_Hybrid",
+      "text": "The hidden cost of AI trading is tokens.\n\nTraditional MCP makes Claude call tools again and again.\n\nEterna MCP changes that.\n\nUp to 90% fewer tokens compared to traditional MCP tool-call setups.\n\nDesigned to reduce unnecessary Claude usage and keep complex trading workflows lean.",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2060088520543527228",
+      "is_kol": false,
+      "score": 175.0
+    },
+    {
+      "id": "2060180808237981784",
+      "author": "li9292",
+      "text": "高价值高信息密度的好文\n我来推特就是来看这种文章\n同时非常好奇我自己的Claude code deepresearch skill pack\n和官方/deepresearch 的差距",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2060180808237981784",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2060057352146231454",
+      "author": "setu_ai_expert",
+      "text": "Tencent WorkBuddy Debuts: The AI Agent That Works Instantly Upon Installation\n\n@TencentAI_News , Tencent WorkBuddy was already #1 productivity agent in China. Now global.\n\nKey capabilities that feel mature:\n→ Multi-agent orchestration (Expert Teams)\n→ Tool connectors via MCP (Git",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2060057352146231454",
+      "is_kol": false,
+      "score": 148.0
+    }
+  ]
+}
