@@ -2998,5 +2998,53 @@
   "smfworks/smf-skilltrain": {
     "first_seen": "2026-05-29",
     "tier": 3
+  },
+  "microsoft/skillopt": {
+    "first_seen": "2026-05-30",
+    "tier": 0
+  },
+  "anysearch-ai/anysearch-skill": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "gentleman-programming/engram": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "ojuschugh1/sqz": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "liyue-aigc/female-portrait-director": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "fmhall/paperclip-punkify": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "heygen-com/skills": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "duolahypercho/startup-kit": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "0xkaize/kaize-os": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "dmno-dev/varlock": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "runkids/skillshare": {
+    "first_seen": "2026-05-30",
+    "tier": 3
+  },
+  "leostehlik/human-writing": {
+    "first_seen": "2026-05-30",
+    "tier": 3
   }
 }
