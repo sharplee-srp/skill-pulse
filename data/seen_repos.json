@@ -3046,5 +3046,41 @@
   "leostehlik/human-writing": {
     "first_seen": "2026-05-30",
     "tier": 3
+  },
+  "nvidia/skillspector": {
+    "first_seen": "2026-05-31",
+    "tier": 2
+  },
+  "yaojingang/yaojingang.github.io": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "open-gsd/gsd-browser": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "udecode/dotai": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "fseixas/super-geo-agent-readiness": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "parthjadhav/app-store-screenshots": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "hungnb94/bitbucket-cli": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "helloianneo/ian-xiaohei-illustrations": {
+    "first_seen": "2026-05-31",
+    "tier": 3
+  },
+  "revfactory/harness": {
+    "first_seen": "2026-05-31",
+    "tier": 3
   }
 }

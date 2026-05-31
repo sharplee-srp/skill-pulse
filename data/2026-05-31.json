@@ -1,0 +1,557 @@
+{
+  "date": "2026-05-31",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 182,
+    "tweets_with_repos": 22,
+    "unique_repos": 21,
+    "new_repos": 9,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "nvidia/skillspector",
+      "github_url": "https://github.com/nvidia/skillspector",
+      "tier": 2,
+      "is_new": true,
+      "score": 775.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 195,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dani_avila7",
+        "text": "NVIDIA built exactly what I needed to secure agent skills\n\nhttps://t.co/y8Lt309tBq\n\nAdding it as a GitHub Action to https://t.co/pSU4AtqPi9\n\nEvery community-submitted skill gets scanned before it goes live\n\nNo prompt injection, no data exfiltration, no supply chain risks",
+        "likes": 195,
+        "url": "https://x.com/i/status/2060918455545581706"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060918455545581706"
+      ]
+    },
+    {
+      "repo": "yaojingang/yaojingang.github.io",
+      "github_url": "https://github.com/yaojingang/yaojingang.github.io",
+      "tier": 3,
+      "is_new": true,
+      "score": 376.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yaojingang",
+        "text": "《姚金刚认知随笔》刚好写了三年，今天正式开源到GitHub \n欢迎下载、检索、阅读\n\n这个内容仓库，目前包括152篇中文随笔、48万字、256张图片，并且会继续保持每周更新 \n它记录了我这三年从在线营销、在线教育，到AI创业、GEO、Agent、Skill、AI工作流和组织协作的很多真实变化\n\n里面有阶段性的判断，也有很多复盘和反思 \n有些观点现在回头看未必完全成熟，但它们都是真实发生过、真实思考过、真实记录过的内容 \n\n这次开源到GitHub，我希望它不只是一个个人写作合集，也能成为一个可以被下载、检索、引用和长期追踪的开放内容库\n\n如果你关注AI创业",
+        "likes": 72,
+        "url": "https://x.com/i/status/2060945999527555446"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060945999527555446"
+      ]
+    },
+    {
+      "repo": "open-gsd/gsd-browser",
+      "github_url": "https://github.com/open-gsd/gsd-browser",
+      "tier": 3,
+      "is_new": true,
+      "score": 227.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "opengsd",
+        "text": "GSD-Browser just got a major upgrade.\n\nGSD-Browser now includes a full MCP server with 62 tools, resources, and executable prompts built specifically for autonomous agents.\n\nThis release also includes a long list of fixes discovered through real-world agent testing.\n\nhttps://t.co",
+        "likes": 39,
+        "url": "https://x.com/i/status/2060491243746992444"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060491243746992444"
+      ]
+    },
+    {
+      "repo": "udecode/dotai",
+      "github_url": "https://github.com/udecode/dotai",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zbeyens",
+        "text": "`$orchestrator on` to enable this.\n\nnpx skills add udecode/dotai --skill orchestrator",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060849729546707143"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060849729546707143",
+        "https://x.com/i/status/2060845998713278911"
+      ]
+    },
+    {
+      "repo": "fseixas/super-geo-agent-readiness",
+      "github_url": "https://github.com/fseixas/super-geo-agent-readiness",
+      "tier": 3,
+      "is_new": true,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fseixas",
+        "text": "Empacotei o que aprendi sobre GEO e agent readiness numa Claude Skill open source. \n\nPra instalar: npx skills add fseixas/super-geo-agent-readiness\n\nhttps://t.co/4Q9fbJkBPB",
+        "likes": 22,
+        "url": "https://x.com/i/status/2060889932546114020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060889932546114020"
+      ]
+    },
+    {
+      "repo": "parthjadhav/app-store-screenshots",
+      "github_url": "https://github.com/parthjadhav/app-store-screenshots",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ParthJadhav8",
+        "text": "All you have to do is:\n\nRun this in your terminal:\nnpx skills add ParthJadhav/app-store-screenshots\n\nGo to your app directory and tell ur agent:\nuse app-store-screenshots skill to generate screenshots for this app.\n\nDONE ✅",
+        "likes": 4,
+        "url": "https://x.com/i/status/2061012177822069104"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061012177822069104"
+      ]
+    },
+    {
+      "repo": "hungnb94/bitbucket-cli",
+      "github_url": "https://github.com/hungnb94/bitbucket-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hungnb94",
+        "text": "Install cli: npm install -g @hungnb94/bitbucket-cli\nAdd skill: npx skills add hungnb94/bitbucket-cli --skill bitbucket-cli\nThen Claude Code can use it to update/review/comment your pull requests",
+        "likes": 1,
+        "url": "https://x.com/i/status/2060987220593701275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060987220593701275"
+      ]
+    },
+    {
+      "repo": "helloianneo/ian-xiaohei-illustrations",
+      "github_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sainathgupta",
+        "text": "ian-xiaohei-illustrations is quietly becoming infrastructure for ai agent — exactly the kind of leverage CFO look for. 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill Open-source and production-focused. Already…\n\nhttps://t.co/CcBGaieNd1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061032067811381657"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061032067811381657"
+      ]
+    },
+    {
+      "repo": "revfactory/harness",
+      "github_url": "https://github.com/revfactory/harness",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ai_xiaomu",
+        "text": "Claude Code的\"harness\"概念，今天GitHub上有个项目专门做这个: revfactory/harness。\n\n它做的事: 帮你设计\"AI agent团队\"。\n你告诉它你的业务领域，它自动:\n\n1. 定义需要哪些专业agent。\n2. 给每个agent生成对应的skill文件。\n3. 设计agent之间的协作流程。\n\n举例: \n你说\"我要做一个内容营销团队\"。\n它会生成: \n选题agent + 写作agent + SEO agent + 排版agent。\n每个agent有自己的skill，互相配合。\n\n适合: 想用AI做\"团队化\"工作流",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061032942567104710"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061032942567104710"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ojuschugh1/sqz",
+      "github_url": "https://github.com/ojuschugh1/sqz",
+      "tier": 3,
+      "is_new": false,
+      "score": 217.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seelffff",
+        "text": "your AI tool re-reads the same file 5 times.\npays for 2,000 tokens each time.\nthere are repos that fix this.\n\n→ sqz - context compression layer. shell hook + MCP + browser extension.\nsame file read twice → sends it once, returns a 13-token reference after that.\nup to 86% reductio",
+        "likes": 34,
+        "url": "https://x.com/i/status/2060329885969662346"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060329885969662346"
+      ]
+    },
+    {
+      "repo": "asimons81/hermes-vault",
+      "github_url": "https://github.com/asimons81/hermes-vault",
+      "tier": 3,
+      "is_new": false,
+      "score": 208.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tonysimons_",
+        "text": "🔒Hermes Vault v0.12.0 is live.\n\nThis is one of those releases that won’t look dramatic in a screenshot, but should make the tool feel a lot better to operate.\n\n🔹OAuth provider checks are clearer.\n🔹Health verification is narrower.\n🔹MCP status is safer.\n🔹Failure messages are more u",
+        "likes": 31,
+        "url": "https://x.com/i/status/2060830618540507215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060830618540507215"
+      ]
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "github_url": "https://github.com/mksglu/context-mode",
+      "tier": 3,
+      "is_new": false,
+      "score": 135.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mksglu",
+        "text": "I run my open-source project like an engineering org. The catch: the entire team is Claude Code agents.\n\nnpx skills add mksglu/context-mode --skill context-mode-ops\n\nThe Skill that runs it has been public in my repo this whole time. Nobody looks inside .claude/skills/. So here's ",
+        "likes": 10,
+        "url": "https://x.com/i/status/2061010155794288667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061010155794288667"
+      ]
+    },
+    {
+      "repo": "tmchow/agent-skills",
+      "github_url": "https://github.com/tmchow/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trevin",
+        "text": "https://t.co/8pHzQq264x 0.40 was released by @steipete last week. I've updated my clawpatch skill to follow suit, including using the new `ci` mode that was added.\n\nInstall ->\n`npx skills add tmchow/agent-skills --skill clawpatch -g`\n\nUpdate ->\n`npx skills update clawpatch`\n\nhttp",
+        "likes": 5,
+        "url": "https://x.com/i/status/2060872185510842651"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060872185510842651"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WinstonBrown_",
+        "text": "@Vercel quietly shipped one of the more useful ideas in agent tooling:\n\n`npx skills add`\n\nThat’s it.\n\nInstall skills for your coding agent the same way you’d install packages for a project.\n\nExample:\n\n`npx skills add vercel-labs/agent-skills`\n\nNow your agent has reusable context ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2060824269852983558"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060824269852983558"
+      ]
+    },
+    {
+      "repo": "okx/plugin-store",
+      "github_url": "https://github.com/okx/plugin-store",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adultarts",
+        "text": "@wallet npx skills add okx/plugin-store --skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2060815015557431382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060815015557431382"
+      ]
+    },
+    {
+      "repo": "tanweai/pua",
+      "github_url": "https://github.com/tanweai/pua",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "Someone put their AI coding agent on a PIP. 30 days to improve or get canned. PUA is a new open-source skill that does exactly this — it frames agent productivity as a literal performance improvement plan. Works with Claude Code, Cursor, OpenClaw, Kiro, Codex, and others. The who",
+        "likes": 1,
+        "url": "https://x.com/i/status/2060965000219697413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060965000219697413"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ren_Lifestyle_",
+        "text": "1/2　RemotionとClaude Codeを組み合わせたら、動画制作の作業効率が本当に劇的に変わりました。\n実際に試してみると：\n◻️$ npx skills add remotion-dev/skills と\n入れるだけで、AIが指示から高品質な\nReactアニメーション動画を自動生成\n◻️Web標準のCSS・SVG・React技術を\n使っているので動きが滑らかで商用レベル\n◻️デザインの微調整も会話ベースで\n進められる\n\n私の視点：\n今までは動画エディターを開いて手作業でタイムラインを組むのに何時間もかかっていましたが、これを使うと**「指示す",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061016097571426305"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061016097571426305"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sam_mk87",
+        "text": "AI Skill: Caveman\n\nStop paying for narration you did not ask for\n\nHow: npx skills add mattpocock/skills → select caveman → invoke on sprints\n\nhttps://t.co/IIyhxz4Ycq\n\n#claude_code #ai_skills https://t.co/PNarOtgZLI",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060879219849138531"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060879219849138531"
+      ]
+    },
+    {
+      "repo": "codexstar69/bug-hunter",
+      "github_url": "https://github.com/codexstar69/bug-hunter",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Kemalbbaydere",
+        "text": "Claude Code Cursor Codex CLI Windsurf Copilot hepsiyle çalışıyor. npx skills add codexstar69/bug-hunter ile kuruyorsun bitti. SQL injection XSS command injection dependency taraması falan yapıyor. Açık bulunca kendi branch açıp fix uyguluyor test geçirip patlamazsa bırakıyor patl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2060819875908485569"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2060819875908485569"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2060906992160620860",
+      "author": "theo",
+      "text": "wtf do you mean there's a pre-bundled Polymarket skill in Hermes Agent??? https://t.co/RMZvt3wwOS",
+      "likes": 839,
+      "views": 0,
+      "url": "https://x.com/i/status/2060906992160620860",
+      "is_kol": false,
+      "score": 2562.0
+    },
+    {
+      "id": "2060874060645458289",
+      "author": "PhaseConnect",
+      "text": "Test your skill on the Phase Connect Claw Machines &amp; Gachapon Machines at the Atrium and win some special prizes! https://t.co/SylEh30eKJ",
+      "likes": 526,
+      "views": 0,
+      "url": "https://x.com/i/status/2060874060645458289",
+      "is_kol": false,
+      "score": 1788.0
+    },
+    {
+      "id": "2061019720552525963",
+      "author": "theo",
+      "text": "Hermes Agent comes with a truly absurd number of skills pre-enabled. Over 100 of them. This is roughly half.\n\nI get what they're going for - they want an agent that comes \"ready out of the box\".\n\nI just don't get why every user has to have a polymarket skill, 3 baoyu art skills (",
+      "likes": 376,
+      "views": 0,
+      "url": "https://x.com/i/status/2061019720552525963",
+      "is_kol": false,
+      "score": 1138.0
+    },
+    {
+      "id": "2060798400468242438",
+      "author": "theallinpod",
+      "text": "The Besties Discuss the First Class of AI Natives Coming Out of College: “They’re Totally Cracked”\n\nSacks:\n\n“With respect to new college grads, I think the single most marketable skill in the economy right now has got to be proficiency in Claude.”\n\nBill Gurley:\n\n“It's not just te",
+      "likes": 264,
+      "views": 0,
+      "url": "https://x.com/i/status/2060798400468242438",
+      "is_kol": false,
+      "score": 957.0
+    },
+    {
+      "id": "2060849319570186737",
+      "author": "o0a98",
+      "text": "واحد ركّب TradingView MCP وخلّى Claude يرسم على الشارت لحاله.\n\nالخطوة ١: نزّل MCP server من GitHub.\nالخطوة ٢: وصّله بـ Claude واسمح له يشوف شاشتك.\nالخطوة ٣: افتح TradingView desktop.\n\nبعد ٥ دقايق، Claude رسم الـ bias والسيولة قبل ما تبرد قهوتك. https://t.co/MxD7AtoGcl",
+      "likes": 252,
+      "views": 0,
+      "url": "https://x.com/i/status/2060849319570186737",
+      "is_kol": false,
+      "score": 851.0
+    },
+    {
+      "id": "2060765897908978162",
+      "author": "Saboo_Shubham_",
+      "text": "This is HOW Hermes Agent Self-learning LOOP works: \n\nUseful workflow → Agent skill\nExperience → Gbrain page\nImportant decision → searchable memory\nRepeated loop → automation\n\nThen Hermes curator cleans the stale skills so the loop keeps compounding. https://t.co/nawPCOpDzx",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2060765897908978162",
+      "is_kol": false,
+      "score": 718.0
+    },
+    {
+      "id": "2060905465639571677",
+      "author": "MakeAI_CEO",
+      "text": "ガチで未来きた。動画制作、AIが寝てる間に自動販売機チャリンチャリン♩鳴る時代。\n\nClaude Codeに4ツール組み合わせ↓\nAlgrowで競合分析＋音声生成、Renoise/Higgsfield/Lovartで動画生成、Hyperframes（無料Skill）でテロップ・カット。\n\n全部MCPで繋がって、人間の手いらず。動画10本量産が現実になる構成を全部解説する↓",
+      "likes": 204,
+      "views": 0,
+      "url": "https://x.com/i/status/2060905465639571677",
+      "is_kol": false,
+      "score": 677.0
+    },
+    {
+      "id": "2060976745512329251",
+      "author": "theo",
+      "text": "@Teknium Bro there was a baked in polymarket skill you can’t possibly justify this as user error\n\nI don’t want an “empty soulless experience” I just didn’t expect a gambling skill to come along my super cool agent experience 🙃🙃\n\nI heard yall are bad at feedback but Jfc this is ab",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2060976745512329251",
+      "is_kol": false,
+      "score": 601.0
+    },
+    {
+      "id": "2060908864648966268",
+      "author": "kenn",
+      "text": "Kanary CLIできた\n\nClaudeやCodexから爆速文字起こしの\nバックエンドとしてKanaryのエンジンを使える\n専用のSkillもインストーラー付き\n全てGUIでターミナル操作ゼロ\n\nいままでWhisperとかでワークフロー組んでた人\nこれ体験したら感動するだろうな…笑\n反応が楽しみ\n\nさて、リリース準備するか…",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2060908864648966268",
+      "is_kol": false,
+      "score": 530.0
+    },
+    {
+      "id": "2060740947940692082",
+      "author": "rushu888",
+      "text": "Generating online income in 2026 only requires 3 things:\n\n1. A computer\n2. Wi-Fi\n3. Time\n\nHere you have 10 Claude prompts that can help you turn a skill into digital income: https://t.co/RztvYnupWr",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2060740947940692082",
+      "is_kol": false,
+      "score": 441.0
+    },
+    {
+      "id": "2060949374889554194",
+      "author": "elora_khatun",
+      "text": "Everyone is talking about MCP.\n\nAlmost nobody is talking about the architecture patterns that make AI agents production-ready. ⚡\n\nIf you’re building serious AI systems in 2026, these 5 MCP server patterns matter more than prompts:\n\nTool Servers\nAI takes actions through APIs, data",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2060949374889554194",
+      "is_kol": false,
+      "score": 423.0
+    },
+    {
+      "id": "2060770288078393828",
+      "author": "mvanhorn",
+      "text": "Printing Press library now native in @openclaw and @NousResearch Hermes skill stores. Just tell your agent. I recommend ESPN and Flight Goat as starting cli/skills to install. @ppressdev. Plus 200 more native tools now.",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2060770288078393828",
+      "is_kol": false,
+      "score": 417.0
+    },
+    {
+      "id": "2060807299435057196",
+      "author": "akshay_pachaar",
+      "text": "Best way to create an agent skill:\n\n1. Do the thing\n2. Do the thing better\n3. Even better\n4. Now say \"okay, make that a skill\"\nhttps://t.co/sywBIT3b5i",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2060807299435057196",
+      "is_kol": false,
+      "score": 350.0
+    },
+    {
+      "id": "2060940666570682604",
+      "author": "Tanmoy_ai",
+      "text": "This feels like cheating. seriously.\n\nA FREE Claude skill that writes perfect prompts on the FIRST try.\n\n→No retries\n→No wasted credits\n→Works with 18+ tools\n\nChatGPT, Midjourney, Cursor &amp; more.\n\nOne install. 100% open-source.\n\nWorth $499. FREE for 48h\n\nType \" SEND \" Follow M",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2060940666570682604",
+      "is_kol": false,
+      "score": 325.0
+    }
+  ]
+}
