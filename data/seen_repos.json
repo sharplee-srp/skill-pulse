@@ -3082,5 +3082,57 @@
   "revfactory/harness": {
     "first_seen": "2026-05-31",
     "tier": 3
+  },
+  "juneyaooo/nihaixia-tcm": {
+    "first_seen": "2026-06-01",
+    "tier": 2
+  },
+  "helpfeel/cosense-cli": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "google-gemma/gemma-skills": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "azure/data-api-builder": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "ktol1/redteam-agent": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "base/skills": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "open-gsd/gsd-pi": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "cyberphysicsai/cyphertempre": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "abhivarde/nothify-skill": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "hoemr/paper2code-qa": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "opencmc/skills-for-ai-agents-by-coinmarketcap": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "compasslabs/compass-agent-skill": {
+    "first_seen": "2026-06-01",
+    "tier": 3
+  },
+  "prismorsec/immunity-agent": {
+    "first_seen": "2026-06-01",
+    "tier": 3
   }
 }
