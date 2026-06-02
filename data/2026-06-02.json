@@ -1,0 +1,602 @@
+{
+  "date": "2026-06-02",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 188,
+    "tweets_with_repos": 27,
+    "unique_repos": 25,
+    "new_repos": 11,
+    "previously_seen_repos": 14
+  },
+  "new_repos": [
+    {
+      "repo": "thariqs/1389dcdff9eba4789887a2211370f06b",
+      "github_url": "https://github.com/thariqs/1389dcdff9eba4789887a2211370f06b",
+      "tier": 0,
+      "is_new": true,
+      "score": 789.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 48,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shao__meng",
+        "text": "Claude Code 核心开发者 @trq212 分享了一段高价值「人机结对编程中的 “理解验证” 工作流」\n\n通过这份工作流 Skill，让 Coding Agent 结束工作时，人类对问题、方案和影响都有可复述、可辩护的掌握，一起拆解看看。\nhttps://t.co/mBCHBHglKL\n\n核心定位：AI 扮演「高效且睿智的教师」\n成功标准不只是「任务完成」，更要看人类是否真正理解整场会话，与常见 agent 模式的差异：\n· 每步增量教学，过关才进入下一阶段\n· 先让用户复述，再补缺口\n· 清单 + 测验 + 演示理解 才算结束\n\n三条理解轴（清",
+        "likes": 48,
+        "url": "https://x.com/i/status/2061612512580346245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061612512580346245"
+      ]
+    },
+    {
+      "repo": "openosint/openosint",
+      "github_url": "https://github.com/openosint/openosint",
+      "tier": 3,
+      "is_new": true,
+      "score": 313.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "osintnewsletter",
+        "text": "🔎 OpenOSINT, an open source AI-powered OSINT agent with interactive REPL, CLI and MCP server. \n\nWorks with Claude, GPT-4 or local Ollama, with structured tool use so the model cannot hallucinate results. \n\nhttps://t.co/mqzyCoTyvy https://t.co/zF2rjVD7lI",
+        "likes": 61,
+        "url": "https://x.com/i/status/2061462781157880310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061462781157880310"
+      ]
+    },
+    {
+      "repo": "cyberphysicsai/cypher-tempre-genesis",
+      "github_url": "https://github.com/cyberphysicsai/cypher-tempre-genesis",
+      "tier": 3,
+      "is_new": true,
+      "score": 181.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cyberphysicsai",
+        "text": "Codex &amp; Claude Code timechain skill repo is live, this is a version with no historical Bitcoin source-code artifacts, just optimized for running in Claude, Codex, and OpenClaw.\n\nPursuing OpenClaw official skill status submission, will update accordingly.\n\nhttps://t.co/4fULbZA",
+        "likes": 12,
+        "url": "https://x.com/i/status/2061610812478046233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061610812478046233"
+      ]
+    },
+    {
+      "repo": "vinnylarouge/skill-opt-skill",
+      "github_url": "https://github.com/vinnylarouge/skill-opt-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vinnylarouge",
+        "text": "Skillopt tunes AI skills by 4 agents passing notes to each other.\n\nI collapsed all 4 into a single agent swapping hats, and shipped the whole thing as a single Claude skill.\n\nThen I had the skill-opt-skill optimise itself.\n\nCode here: https://t.co/1rmiSBBuBY https://t.co/C9KLIadD",
+        "likes": 3,
+        "url": "https://x.com/i/status/2061764970484744597"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061764970484744597"
+      ]
+    },
+    {
+      "repo": "injectivelabs/agent-skills",
+      "github_url": "https://github.com/injectivelabs/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aymi_dxb",
+        "text": "2/ It works directly inside apps a lot of us already use like cursor, claude desktop, or crewai. to get it running you just type npx skills add InjectiveLabs/agent-skills into the chat and it handles the setup for you.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2061779670652301323"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061779670652301323"
+      ]
+    },
+    {
+      "repo": "google-deepmind/science-skills",
+      "github_url": "https://github.com/google-deepmind/science-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seclink",
+        "text": "分享 deepmind  新开源的 skill ，用法：\n\n1. 运行 npx skills add google-deepmind/science-skills/\n2. 调用 uniprot-database 技能帮我查询关于人类胰岛素（Insulin）蛋白质的结构与表达信息。\n3. “使用 ucsc-conservation-and-tfbs 技能为我分析当前启动子序列的转录因子结合位点。”\n\nhttps://t.co/g1TZDiXWHp",
+        "likes": 2,
+        "url": "https://x.com/i/status/2061616739553570848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061616739553570848"
+      ]
+    },
+    {
+      "repo": "hukusuke1007/agent-skills",
+      "github_url": "https://github.com/hukusuke1007/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hobbydevelop",
+        "text": "@seven7777_77 該当するプロジェクト配下で\n\nnpx skills add hukusuke1007/agent-skills\n\nを実行してcodebase-onboardingを選択するとプロジェクト内に.claudeディレクトリが作られその中にスキルが入ります。\nその後に\n\n/codebase-onboarding コードを分析して\n\nと伝えると作ってくれます🙋",
+        "likes": 1,
+        "url": "https://x.com/i/status/2061680433017000298"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061680433017000298"
+      ]
+    },
+    {
+      "repo": "mustbesimo/cinematic-scroll-skill",
+      "github_url": "https://github.com/mustbesimo/cinematic-scroll-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mustbesimo",
+        "text": "great hub! just published cinematic-scroll to npm/skills.sh — agent skill that turns landing pages into cinematic experiences with pinned chapters, parallax, and optional AI image generation. Works on Claude, Cursor, Hermes, OpenClaw.\n\n  npx skills add MustBeSimo/cinematic-scroll",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061725420165398565"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061725420165398565"
+      ]
+    },
+    {
+      "repo": "liquidium-inc/liquidium-sdk",
+      "github_url": "https://github.com/liquidium-inc/liquidium-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "robin_liquidium",
+        "text": "@DFINITYDev @LiquidiumFi just run this command to give your ai agent the sdk integration skill. with this skill you should be able to one shot the SDK integration\n\nnpx skills add Liquidium-Inc/liquidium-sdk/skills/liquidium-sdk-integration",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061633868642558308"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061633868642558308"
+      ]
+    },
+    {
+      "repo": "pewdiepie-archdaemon/odysseus",
+      "github_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xKingsKuan",
+        "text": "在不到 24 小时内，GitHub 上获得 1500 万颗星的项目！\n\n这个项目来自著名内容创作者 PewDiePie，他正在大力推广它。\n\n它名叫 Odysseus，是一种类似于 ChatGPT/Claude 的工具，但专为本地 AI 使用而设计。\n\n它具有带有工具的代理、MCP、文件和内存功能。\n\n它可在 Windows、macOS 和 Linux 上运行：\n\nhttps://t.co/u6Ar4yJ2ho",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061792053147906263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061792053147906263"
+      ]
+    },
+    {
+      "repo": "izscc/cc2image",
+      "github_url": "https://github.com/izscc/cc2image",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiZSCC",
+        "text": "@nexudotio 支持open design！贡献我制作的一个skill  在codex 根据用户指定内容 使用image-gen自动拆解批量生成 封面图和文章配图的skill，内置多达40种风格：https://t.co/0k6EHXLo5k",
+        "likes": 0,
+        "url": "https://x.com/i/status/2061770474032656685"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061770474032656685"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "google-gemma/gemma-skills",
+      "github_url": "https://github.com/google-gemma/gemma-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 337.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "Google 官方为 Gemma 模型推出的高质量 Skill 合集！\n\nhttps://t.co/RNqIKnt6uz\n\n直接把你的 Claude Code、Cursor、Windsurf、OpenClaw 等 Agent 升级成 Gemma 原生优化版，所有 Skill 都经过 Google 官方精心打磨，输出质量、逻辑严谨度、工具调用能力直接拉到顶级水准！ https://t.co/y5p5ly2EbL",
+        "likes": 9,
+        "url": "https://x.com/i/status/2061683716662132899"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061683925454410101",
+        "https://x.com/i/status/2061681717480730795",
+        "https://x.com/i/status/2061683716662132899"
+      ]
+    },
+    {
+      "repo": "jimliu/baoyu-skills",
+      "github_url": "https://github.com/jimliu/baoyu-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 325.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "baoyu-image-gen Skill 支持 Codex-cli 作为 Provider 画图\n\n也就是说你可以在 Claude Code、hermes agent 之类的 Agent 里面用它调用 Codex 出图，而不需要用 Codex，当然前提是安装了 codex cli 并且有订阅。\n\n感谢网友的 PRs：\nhttps://t.co/UNrLXWyNK0\nhttps://t.co/TmMmxezKqx\n\nSkill 地址：https://t.co/7yPdsrqs3H",
+        "likes": 70,
+        "url": "https://x.com/i/status/2061695930349293654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061695930349293654"
+      ]
+    },
+    {
+      "repo": "base/skills",
+      "github_url": "https://github.com/base/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 240.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hryhorii77",
+        "text": "just set up @base  MCP on Claude in lunder 2 minutes.\nevery agent really does deserve a wallet now.\n\nfast setup: \n\n- pick “Claude Code” in the tool selector\n- run: claude mcp add --transport http base https://t.co/WgciDbY4f5\n- it instantly added the server\n- check with claude mcp",
+        "likes": 40,
+        "url": "https://x.com/i/status/2061357420320829633"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061357420320829633"
+      ]
+    },
+    {
+      "repo": "open-gsd/gsd-pi",
+      "github_url": "https://github.com/open-gsd/gsd-pi",
+      "tier": 3,
+      "is_new": false,
+      "score": 210.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "opengsd",
+        "text": "Double Release Day\n\n$GSD Pi v1.1.1 just dropped\n\nThis release adds Claude Opus 4.8 support, new /gsd usage + context observability commands, a smoother guided install flow, cloud MCP gateway runtime support, leaner prompt/tool surfaces, and a big stability pass across auto-mode, ",
+        "likes": 30,
+        "url": "https://x.com/i/status/2061191391271919885"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061191391271919885"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "uiuxweb",
+        "text": "Google just published official Agent Skills for their entire cloud stack. One command to install.\n\nnpx skills add google/skills\n\nWhat's in it:\n\n→ Gemini API, Agent Platform, Managed Agents, Skill Registry \n→ BigQuery, AlloyDB, Cloud SQL, Cloud Run, Firebase, GKE \n→ Full Google Cl",
+        "likes": 25,
+        "url": "https://x.com/i/status/2061680816858828830"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061680816858828830"
+      ]
+    },
+    {
+      "repo": "microsoft/skillopt",
+      "github_url": "https://github.com/microsoft/skillopt",
+      "tier": 3,
+      "is_new": false,
+      "score": 196.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wsl8297",
+        "text": "很多人给 Agent 写 skill，本质还是“凭感觉写一版文档”。但关键问题是：你怎么证明它真的变强了，而不是只是写得更像那么回事？\n\nhttps://t.co/e1YMSYZMbC\n\n微软开源的 SkillOpt 给了一个更工程化的答案：不动模型权重，直接把 skill 文档当成“可优化的状态”，用类似训练神经网络的流程把它迭代出来。\n\n它做对了几件事：\n\n- 把修改拆成 add / delete / replace 这类受控编辑，不让模型一口气重写一大段，改动可控、可审计\n- 每个候选改动都要上验证集打分，分数不涨就不收，避免“越改越自嗨”\n- 引",
+        "likes": 27,
+        "url": "https://x.com/i/status/2061669450672427467"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061669450672427467"
+      ]
+    },
+    {
+      "repo": "op7418/guizang-ppt-skill",
+      "github_url": "https://github.com/op7418/guizang-ppt-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 152.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aehyok",
+        "text": "最近刚好也在研究PPT。看了一姐的视频，使用Codex +Image2来做PPT，于是顺手找了几个star数比较多的PPT Skill，准备挨个都来试试看，到底那个效果更适合自己呢？\n\n1、https://t.co/I7D88rnlSf    14.1K\n2、https://t.co/aCqcXqAHQq 1.4K\n3、https://t.co/KeMK6ewVR9  5.3K\n4、https://t.co/QIrsWhF7VE  23.2K\n5、https://t.co/ztnAnbH1lD 19.9K\n6、https://t.co/QB8chsPIY",
+        "likes": 14,
+        "url": "https://x.com/i/status/2061762594508255290"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061762594508255290"
+      ]
+    },
+    {
+      "repo": "pika-labs/pika-skills",
+      "github_url": "https://github.com/pika-labs/pika-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UnDrogado_poeta",
+        "text": "You don't even have to show up to meetings anymore. An AI agent will handle it for you (obviously).\n\nPika Labs has open-sourced a new skill called pikastream-video-meeting. \n\nIt plugs directly into Claude Code or other autonomous agents and literally joins Google Meet calls on yo",
+        "likes": 9,
+        "url": "https://x.com/i/status/2061789063707840929"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061789063707840929"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_summer_plays_",
+        "text": "you can use this skill, tons of templates ready for games:\n@gamecreatorai\n\nnpx skills add OpusGameLabs/game-creator\n\n/make-game capybara enduro ...",
+        "likes": 5,
+        "url": "https://x.com/i/status/2061645129610354717"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061645129610354717"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@nexudotio design-engineering helps Agents make better UI/UX and product decisions.\n\ninstall with one command: npx skills add AgentsORG/design-engineering\n\nhttps://t.co/5Teled0FAr",
+        "likes": 1,
+        "url": "https://x.com/i/status/2061770157685621180"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061770157685621180"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2061621319737762148",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.     \n\nSpend 1 hour with this.     \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.     \n\nThe people who watch this tonight will wake up tomorrow with a new skill.     \n\nWatch it and Bookmark it now. https://t.co/94l",
+      "likes": 389,
+      "views": 0,
+      "url": "https://x.com/i/status/2061621319737762148",
+      "is_kol": false,
+      "score": 1597.0
+    },
+    {
+      "id": "2061505808119255204",
+      "author": "Polkadot",
+      "text": "AI agents are only as good as the context they can access.\n\nWith Polkadot’s official MCP server, builders can connect AI tools directly to trusted ecosystem documentation and build with accurate, up-to-date knowledge.\n\nExplore this quick tutorial.",
+      "likes": 330,
+      "views": 0,
+      "url": "https://x.com/i/status/2061505808119255204",
+      "is_kol": false,
+      "score": 1245.0
+    },
+    {
+      "id": "2061609650320236660",
+      "author": "servasyy_ai",
+      "text": "肝了几天,来回打磨了快 30 遍,\n一次性把最新的 Claude Code 的 Workflow 给你完全拆解清楚\n\n有人说它的伟大程度,不亚于 MCP 和 Skill。\n\n第一眼我是不信的,直到拆开看它内部怎么跑：\n这不是\"问一句答一句\"的对话,而是一个能自己跑起来的任务系统:后台持续执行、可监控、可保存进度, 还能一口气派出几十上百个 agent 分头干活/合并汇总。\n\n核心就三个角色:\nClaude 拆任务、定计划;\nRuntime 管调度和状态;\n每个 agent 只啃一个子任务,配上并发池和队列,有节奏地推进。\n它代表的是一种新的工程编排方式:",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2061609650320236660",
+      "is_kol": false,
+      "score": 750.0
+    },
+    {
+      "id": "2061612712732324142",
+      "author": "dotey",
+      "text": "北京时间今晚 20:00 在图灵社区直播间有一场 Agent Skills 的公开课，分享我做 Skill 的实操经验和心得体会，以及聊聊我的新书《图解Skill: Al 提效实战指南》，有需要 Al 提效的朋友可以预约一下，咱们晚八点见。 https://t.co/37hZUvzNgS",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2061612712732324142",
+      "is_kol": false,
+      "score": 600.0
+    },
+    {
+      "id": "2061695699427745898",
+      "author": "MetaGorgonite",
+      "text": "$NSEC is the most obvious base play you can make right now.\n\n-They’re building real trust infrastructure for AI agents \n→ AI app generation (Studio)\n→ AI-native security infrastructure\n→ MCP/tool permission analysis\n→ autonomous agent security\n→Multiple buybacks from the team\n\nSt",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2061695699427745898",
+      "is_kol": false,
+      "score": 472.0
+    },
+    {
+      "id": "2061533228486266987",
+      "author": "hooeem",
+      "text": "Drop what you're doing.\n\nMicrosoft just open sourced an executive strategy for self-evolving agent skills.\n\nAt the end of May we got the repo that allowed us to not only see, but use SkillOpt that trains the procedure.\n\nWhat does that mean?\n\nSkillOpt makes the skill document itse",
+      "likes": 129,
+      "views": 0,
+      "url": "https://x.com/i/status/2061533228486266987",
+      "is_kol": true,
+      "score": 447.0
+    },
+    {
+      "id": "2061757643471945948",
+      "author": "whoiskatrin",
+      "text": "🎈 we've just shipped agents sdk v0.14.0\n\nyou can now build agents with skills, messengers, schedules, and durable workflows on cloudflare\n\nout of the box support for recurring tasks, think workflows, chat recovery, mcp transport improvements, and better client-tool continuations\n",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2061757643471945948",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2061530727070773638",
+      "author": "Veilnet_",
+      "text": "Data encryption is now live on Veilnet.\n\nAvailable in @veilnet/mcp-server@0.3.0.\n\nAny blob — file, dataset, config, recovery codes, contract draft, research note, agent memory — can now be encrypted on your device, shipped to Veilnet as ciphertext, and fetched back later without ",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2061530727070773638",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2061476591033631041",
+      "author": "Block_Lottery",
+      "text": "Base just launched something that changes how AI agents interact with blockchain.\n\nIt's called Base MCP. Here's what it actually does 🧵\n\nBase MCP is an open-source MCP server built by Coinbase for the Base network.\n\nIt connects AI clients, Claude, ChatGPT, to Base Network. You ty",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2061476591033631041",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2061540563871236593",
+      "author": "mintlify",
+      "text": "4 big ships from last week\n\n00:20 - New MCP server for admin actions\n01:35 - Downloadable API specifications\n02:56 - Improved docs-from-code AI workflow\n03:17 - llms.txt and public MCP server now available for authenticated sites https://t.co/MHepnbnJNO",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2061540563871236593",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2061645262557426049",
+      "author": "Sneha_TechAI",
+      "text": "🚨BREAKING: Claude can now teach you any skill in 30 days for free.\n\nUse these prompts to replace $20,000 courses and 4-year degrees:",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2061645262557426049",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2061509788681293963",
+      "author": "OpenCovenant",
+      "text": "Agents need tools such as web search, file access, external APIs.\n \nCovenant connects them through MCP. Tools can be built-in or pulled from external servers. Either way they show up in the same place and follow the same rules.\n \nEvery tool call needs a permission token. Every ca",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2061509788681293963",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2061660466405896350",
+      "author": "kisc_0",
+      "text": "didn't realise ANIMA on @TheARCTERMINAL could connect to any MCP server until recently\n\neither public or private, credentials encrypted client side server, they all blind to your keys",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2061660466405896350",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2061764402265591843",
+      "author": "nexudotio",
+      "text": "We tested a lot of design skills in Codex and other AI agents.\n\nThey fix the old AI slop.\n\nBut they often create a new one: the “taste skill look.”\n- Same premium sections.\n- Same editorial typography.\n- Same generated-design smell.\n\nOpen Design does not rely on one taste prompt.",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2061764402265591843",
+      "is_kol": false,
+      "score": 193.0
+    }
+  ]
+}

@@ -3134,5 +3134,49 @@
   "prismorsec/immunity-agent": {
     "first_seen": "2026-06-01",
     "tier": 3
+  },
+  "thariqs/1389dcdff9eba4789887a2211370f06b": {
+    "first_seen": "2026-06-02",
+    "tier": 0
+  },
+  "openosint/openosint": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "cyberphysicsai/cypher-tempre-genesis": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "vinnylarouge/skill-opt-skill": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "injectivelabs/agent-skills": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "google-deepmind/science-skills": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "hukusuke1007/agent-skills": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "mustbesimo/cinematic-scroll-skill": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "liquidium-inc/liquidium-sdk": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "pewdiepie-archdaemon/odysseus": {
+    "first_seen": "2026-06-02",
+    "tier": 3
+  },
+  "izscc/cc2image": {
+    "first_seen": "2026-06-02",
+    "tier": 3
   }
 }
