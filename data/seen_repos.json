@@ -3178,5 +3178,77 @@
   "izscc/cc2image": {
     "first_seen": "2026-06-02",
     "tier": 3
+  },
+  "pixelx-jp/plateau-creative-mcp": {
+    "first_seen": "2026-06-03",
+    "tier": 2
+  },
+  "tauricresearch/tradingagents": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "dgunning/edgartools": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "himself65/trade-skills": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "cryptomfer/cc0company": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "eshaan-nair/arcrift": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "playdotfun/skills": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "abhivarde/syncui": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "geekjourneyx/md2wechat-skill": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "nostrband/servicegraph": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "wbh604/uzi-skill": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "50bytesofjohn/skills": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "brotzky/performance-skills": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "13331112522/claude-store": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "lumpinif/steal-the-code": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "turbodocx/quickstart": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "palios-taey/claude-code-fleet-orchestrator": {
+    "first_seen": "2026-06-03",
+    "tier": 3
+  },
+  "op7418/guizang-social-card-skill": {
+    "first_seen": "2026-06-03",
+    "tier": 3
   }
 }

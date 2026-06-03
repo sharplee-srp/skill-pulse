@@ -1,0 +1,703 @@
+{
+  "date": "2026-06-03",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 160,
+    "tweets_with_repos": 26,
+    "unique_repos": 24,
+    "new_repos": 18,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "pixelx-jp/plateau-creative-mcp",
+      "github_url": "https://github.com/pixelx-jp/plateau-creative-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 755.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 170,
+      "total_retweets": 29,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiuxiPan",
+        "text": "plateau-creative-mcp をオープンソースで公開しました。\n\nAI エージェントが、実在する日本の 3D 都市データを使って、編集可能な 3D シーンを作れる MCP server です。\n\nGitHub:\nhttps://t.co/q0KnNxDIwd\n\n#MCP #AIAgents #OpenSource #3D #PLATEAU https://t.co/5U8VjONaSY",
+        "likes": 170,
+        "url": "https://x.com/i/status/2062032242004947222"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062032242004947222"
+      ]
+    },
+    {
+      "repo": "tauricresearch/tradingagents",
+      "github_url": "https://github.com/tauricresearch/tradingagents",
+      "tier": 3,
+      "is_new": true,
+      "score": 348.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 46,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "InduTripat82427",
+        "text": "10 GitHub repositories so good they shouldn't be free.\n\n1. TradingAgents\n\nA full team of AI analysts that debates strategies and executes trades in real markets. 4 analysts in parallel: fundamental, sentiment, news, and technical. Then a risk manager and an executor agent. Like h",
+        "likes": 46,
+        "url": "https://x.com/i/status/2062136258030350758"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062136258030350758"
+      ]
+    },
+    {
+      "repo": "dgunning/edgartools",
+      "github_url": "https://github.com/dgunning/edgartools",
+      "tier": 3,
+      "is_new": true,
+      "score": 288.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mnmn94253156337",
+        "text": "AI 做美股研究，最有用的地方不是喊单\n\n不是问 NVDA 能不能买，也不是问TSLA 还能不能涨。\n\n真正有用的是：\n\n让 AI 去读那些普通人根本不会打开的 SEC 文件。\n\n10-K、10-Q、8-K、13F、Form 4。\n\n年报、季报、重大公告、机构持仓、内部人交易，全在里面。\n\n但这些文件太长、太碎、太难读。\n\n大部分散户最后只能看新闻和博主总结。\n\nEdgarTools 这个开源项目，就是把 SEC EDGAR 文件变成 AI 能读的数据。\n\n它还支持 MCP server 和 Claude Code skills。\n\n你可以让 AI 直接",
+        "likes": 61,
+        "url": "https://x.com/i/status/2061978834493423692"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061978834493423692"
+      ]
+    },
+    {
+      "repo": "himself65/trade-skills",
+      "github_url": "https://github.com/himself65/trade-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 45,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "himself65",
+        "text": "IBKR now supports an MCP server.\n\nI can buy stock just by typing, using my trade and finance skills instinctively.\n\nhttps://t.co/Od7wXwuAYK\nhttps://t.co/bL3KRYOPeN",
+        "likes": 45,
+        "url": "https://x.com/i/status/2061956922258149733"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061956922258149733"
+      ]
+    },
+    {
+      "repo": "cryptomfer/cc0company",
+      "github_url": "https://github.com/cryptomfer/cc0company",
+      "tier": 3,
+      "is_new": true,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cc0company",
+        "text": "https://t.co/4fWo3xUaVp is live on the ERC-8257 Agent Tool Registry.\n\nFive image-generation tools, fine-tuned on public domain sources, are now discoverable on-chain on @base. Any AI agent that reads the ToolRegistry contract can find, pay, and invoke our first models. \n\n   sarto",
+        "likes": 28,
+        "url": "https://x.com/i/status/2062091086051324370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062091086051324370"
+      ]
+    },
+    {
+      "repo": "eshaan-nair/arcrift",
+      "github_url": "https://github.com/eshaan-nair/arcrift",
+      "tier": 3,
+      "is_new": true,
+      "score": 205.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "让 AI 编程工具在浏览器聊天和 IDE 之间共用一份持久记忆，省得每次重新交代背景。\n\nhttps://t.co/Gfd9UtNSC3\n\nArcRift 是个本地优先的 AI 记忆层。Chrome 扩展抓 Claude/ChatGPT/DeepSeek 这些网页聊天的内容，MCP Server 让 Cursor/Claude Code 之类的 IDE 工具读到同一份数据，底层就是本地 SQLite + Ollama 嵌入。",
+        "likes": 30,
+        "url": "https://x.com/i/status/2061727770716066222"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061727770716066222"
+      ]
+    },
+    {
+      "repo": "playdotfun/skills",
+      "github_url": "https://github.com/playdotfun/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 141.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_summer_plays_",
+        "text": "players earn points on capybara racing hackathon and rewards if the game wins.\n\nso game devs, it's important to add the playfun SDK. check video, it's 10 seconds:\n\nyou can use the agent skill: \nnpx skills add playdotfun/skills\nand ask your agent to add playfun sdk\n\nor check the d",
+        "likes": 7,
+        "url": "https://x.com/i/status/2061997369462239322"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2061997369462239322"
+      ]
+    },
+    {
+      "repo": "abhivarde/syncui",
+      "github_url": "https://github.com/abhivarde/syncui",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "varde_abhi",
+        "text": "🎉 Sync UI v0.4.0 now works with AI coding tools\n\nInstall Sync UI as an agent skill and let Claude Code, Cursor, Copilot, Windsurf, and 10+ tools understand every component and animation pattern.\n\ntry it:\n~ npx skills add AbhiVarde/syncui\n\n90+ developers already trust Sync UI. htt",
+        "likes": 5,
+        "url": "https://x.com/i/status/2062143053285233109"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062143053285233109"
+      ]
+    },
+    {
+      "repo": "geekjourneyx/md2wechat-skill",
+      "github_url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gejialun88",
+        "text": "很多人用 AI 写公众号，卡住的地方其实不是“写不出来”。\n\n而是写完以后：\n\n排版要调，\n图片要找，\n封面要做，\n格式要复制，\n草稿箱要上传，\n预览还要反复检查。\n\n这些步骤每次都不难，但每次都消耗注意力。\n\n最近看到一个很适合内容工作流的开源项目：\n\nmd2wechat-skill。\n\nGitHub 当前约 2.7k Star，最新 Release 是 2026 年 5 月 28 日发布的 v2.4.0。\n\n它的定位很明确：\n\n面向 AI Agent 的公众号创作与发布 CLI。\n\n也就是让 Claude Code、Codex、OpenCode、Op",
+        "likes": 3,
+        "url": "https://x.com/i/status/2062063696944537857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062063696944537857"
+      ]
+    },
+    {
+      "repo": "nostrband/servicegraph",
+      "github_url": "https://github.com/nostrband/servicegraph",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "servicegraphco",
+        "text": "on Claude Code, Cursor, or Codex?\n\nnpx skills add nostrband/servicegraph\n\nask in plain language: \"find me twenty newsletters to sponsor with audience matching my ICP.\" your agent pulls the channels, builds the filter, exports the shortlist.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062103366465986930"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062103366465986930"
+      ]
+    },
+    {
+      "repo": "wbh604/uzi-skill",
+      "github_url": "https://github.com/wbh604/uzi-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "noexcuse555",
+        "text": "给搞股票和量化投研的兄弟们推荐一个有点猛的开源项目：UZI-Skill。这是一个专门给股票做深度分析的 AI 投研插件。\n\n它不是那种把股票代码丢给大模型瞎猜的工具，而是把 51 位投资大佬的分析框架、22 维市场数据、180 条量化规则以及 17 种机构分析方法深度揉合在了一起。\n\n你可以直接理解为：它帮你把格雷厄姆、彼得林奇、巴菲特、索罗斯甚至国内游资的思维聚到了一张桌子上，同台开会帮你拆解同一只标的。\n\n目前 A股、港股和美股全都能看。直接输入贵州茅台、腾讯或者苹果，它就会从基本面、技术面、资金面、情绪面和风险点等高价值维度，自动生成一份结构清晰的",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062150691792253176"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062150691792253176"
+      ]
+    },
+    {
+      "repo": "50bytesofjohn/skills",
+      "github_url": "https://github.com/50bytesofjohn/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "50BytesOfJohn",
+        "text": "Writing Panqueue tests with this skill got much easier for me 😎\n\n* Instructs to do not test types/config/constants\n* Uses Arrange, Act, Assert with comments\n* Bunch of other things from my own experience\n* Hand-written, minimal skill - not AI bloated from skill creator\n\nnpx skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062089111947649337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062089111947649337"
+      ]
+    },
+    {
+      "repo": "brotzky/performance-skills",
+      "github_url": "https://github.com/brotzky/performance-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "C1B_nb",
+        "text": "@brotzky @jacksondecampos i think u can just add this in the website :\nnpx skills add brotzky/performance-skills\n\nit works ... i tested it",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062040503701377254"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062040503701377254"
+      ]
+    },
+    {
+      "repo": "13331112522/claude-store",
+      "github_url": "https://github.com/13331112522/claude-store",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zhouql1978",
+        "text": "Your AI agent has a soul. Don't lose it when switching platforms. \n\nMind Transposition skill transfers agent personality, skills, memory &amp; settings across Claude Code, OpenClaw, Nanobot &amp; Hermes.  \n\nhttps://t.co/VLo6ZalZqU\n\n#AIAgents #ClaudeCode #OpenClaw #MindTranspositi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062161782458974438"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062161782458974438"
+      ]
+    },
+    {
+      "repo": "lumpinif/steal-the-code",
+      "github_url": "https://github.com/lumpinif/steal-the-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "felixlu1018",
+        "text": "Install: `npx skills add lumpinif/steal-the-code`\n\nhttps://t.co/2DSKrUiglk",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062161108048474207"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062161108048474207"
+      ]
+    },
+    {
+      "repo": "turbodocx/quickstart",
+      "github_url": "https://github.com/turbodocx/quickstart",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NicolasBuilds",
+        "text": "“We vibe coded e-signature.” Most just drew a squiggly line on a PDF. \n\nThat’s not real e-signature.\n\nnpx skills add TurboDocx/quickstart\n\nNow you can actually vibe code e-signature... for free https://t.co/zqRKPdOVuh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062158106855878914"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062158106855878914"
+      ]
+    },
+    {
+      "repo": "palios-taey/claude-code-fleet-orchestrator",
+      "github_url": "https://github.com/palios-taey/claude-code-fleet-orchestrator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jesselarose",
+        "text": "@v_ak @Suryanshti777 Tmux harness for cross-talk is a clean hack. What we built is better — the stop-enforcer plus mcp-reconnect so the fleet doesn't silently drop mid-task and the MCP layer self-heals through any menu depth. That's the convergence layer.\n\nhttps://t.co/BrQtBEspbW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062162939595944435"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062162939595944435"
+      ]
+    },
+    {
+      "repo": "op7418/guizang-social-card-skill",
+      "github_url": "https://github.com/op7418/guizang-social-card-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "Someone made a Claude Code skill that auto-generates Xiaohongshu carousels and WeChat covers from any article, screenshot, or photo. The output actually looks good.\n\nIt's called Guizang Social Card Skill — comes with 28 layouts and 10 color themes, all single-file HTML that expor",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062157630936846777"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062157630936846777"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 303.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SisilyNora",
+        "text": "@AIDailyGems Claude Code for me -- once browser steps appear, `npx skills add browser-act/skills --skill browser-act` adds that. `state` maps DOM by index, ~90% fewer tokens vs raw HTML",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062103594955141146"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062104874112975335",
+        "https://x.com/i/status/2062103594955141146",
+        "https://x.com/i/status/2062102353327865970"
+      ]
+    },
+    {
+      "repo": "gt-protocol/mcp",
+      "github_url": "https://github.com/gt-protocol/mcp",
+      "tier": 2,
+      "is_new": false,
+      "score": 430.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 110,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GT_Protocol",
+        "text": "Get the MCP Server👉 https://t.co/Jfty5A7FXv",
+        "likes": 110,
+        "url": "https://x.com/i/status/2062096775800836541"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062096775800836541"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "libapi_",
+        "text": "Hernes Studio + hyperframes 制作你的宣传视频\n\n安装这个skill ： npx skills add heygen-com/hyperframes  把你想要做的品牌宣传网站发送给它 https://t.co/sNI4eu7hF3",
+        "likes": 7,
+        "url": "https://x.com/i/status/2062100227067420700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062100227067420700"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I built a skill that creates social content strategy — platform selection, content pillars, format library, repurposing workflows, and publishing cadence across X, LinkedIn, Threads, and more.\n\nYou describe your brand and goals, and it designs the content mix: what to post, where",
+        "likes": 3,
+        "url": "https://x.com/i/status/2062149308695330905"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062149308695330905"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itscolebennet",
+        "text": "OpenClaw 2026.6.1 beta 3 is out.\n\nGood: recovery, channels, Skill Workshop, and Workboard kept moving.\n\nCaveat: providers, plugins, mobile, memory, SQLite state, and CI proof moved too. Test with rollback.\n\nhttps://t.co/ldgz57WKg3",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062132448088227852"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062132448088227852"
+      ]
+    },
+    {
+      "repo": "mustbesimo/cinematic-scroll-skill",
+      "github_url": "https://github.com/mustbesimo/cinematic-scroll-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mustbesimo",
+        "text": "Prompt packs recreate the screenshot once.\n\nAgentic skills preserve the craft across @claudeai Code, @cursor_ai , @NousResearch Hermes , @openclaw and other skill-aware agents: motion grammar, parallax rules, 3D tilt, mobile fallback, polish gates.\n\nFree + MIT:\nhttps://t.co/HnASh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062007092404441351"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062007092404441351"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2062003132213731569",
+      "author": "ErickSky",
+      "text": "¿Supabase y Firebase te quitaron todo tu dinero?\n\nButterbase acaba de abrir su código. Backend completo open-source + IA nativa incluida:\n\n- Postgres con RLS\n- Auth + OAuth\n- Storage\n- Functions\n- AI Gateway\n- MCP Server (para que tus agentes usen tu backend como herramientas rea",
+      "likes": 294,
+      "views": 0,
+      "url": "https://x.com/i/status/2062003132213731569",
+      "is_kol": false,
+      "score": 1077.0
+    },
+    {
+      "id": "2062039630606958927",
+      "author": "77bncvbsdcg",
+      "text": "The most valuable infrastructure is often the infrastructure users never notice.\n\nOne underexplored aspect of @TheARCTERMINAL is that it's gradually turning trust into a reusable primitive rather than a one-time decision.\n\nIn most systems, every new tool, integration, or workflow",
+      "likes": 295,
+      "views": 0,
+      "url": "https://x.com/i/status/2062039630606958927",
+      "is_kol": false,
+      "score": 890.0
+    },
+    {
+      "id": "2062096669945004151",
+      "author": "GT_Protocol",
+      "text": "💬 We get asked\n\nIs it safe to connect my local AI agent to my trading account using the MCP server?\n\n❕ Answer from a GT App Trader:\nIt is completely secure. The architecture is non-custodial and built so that you retain absolute control over your keys and access.\n\n🔸 Read & Trade ",
+      "likes": 240,
+      "views": 0,
+      "url": "https://x.com/i/status/2062096669945004151",
+      "is_kol": false,
+      "score": 885.0
+    },
+    {
+      "id": "2062095528742240319",
+      "author": "iam_elias1",
+      "text": "PewDiePie just embarrassed every AI startup in Silicon Valley.\n\nHe built a better local AI workspace than most funded companies. Gave it away for free. And hit 20,000 GitHub stars before most people woke up.\n\nThe project is called Odysseus. And the story behind it is more interes",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2062095528742240319",
+      "is_kol": false,
+      "score": 602.0
+    },
+    {
+      "id": "2062062292208914684",
+      "author": "RituWithAI",
+      "text": "🚨 Someone just built the tool every developer needs right now that GitHub Copilot's new token billing goes live.\n\n60-95% fewer tokens. Same answers. One import.\n\nIt's called Headroom. And it does something deceptively simple that saves real money on every single LLM call you make",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2062062292208914684",
+      "is_kol": false,
+      "score": 472.0
+    },
+    {
+      "id": "2062124240216666225",
+      "author": "DamiDefi",
+      "text": "I Installed 6 Claude Code Plugins Nobody Talks About. They Replaced My Entire Dev Team.",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2062124240216666225",
+      "is_kol": false,
+      "score": 447.0
+    },
+    {
+      "id": "2062080382737231954",
+      "author": "Tanaypawar27",
+      "text": "Claude Code is (actually) easy.\n\nThe 12-step roadmap in plain English:\n\nIf you're totally new to Claude Code:\n\nBeginner: https://t.co/6tspWbpnOy\nIntermediate: https://t.co/cBoOryuKn8\nAdvanced: https://t.co/8i2hgtqXcA\n\nPHASE 1: Context (what Claude knows about you)\n\nStep 0: Instal",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2062080382737231954",
+      "is_kol": false,
+      "score": 432.0
+    },
+    {
+      "id": "2062129440558047545",
+      "author": "mattpocockuk",
+      "text": "Idea for a skill distribution mechanism for JS/TS teams:\n\n1. Create an npm package with your skills\n2. On postinstall for that package, run a script that symlinks them to .claude/skills\n\nSimple, versioned, intuitive skill distribution\n\nAny reason this wouldn't work?",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2062129440558047545",
+      "is_kol": false,
+      "score": 401.0
+    },
+    {
+      "id": "2062081915256271034",
+      "author": "pharos_network",
+      "text": "Some of the most interesting AI-agent Skills probably haven’t been built yet\n\nExamples we’d love to see from the community:\n→ DeFi position analyzers\n→ DAO voting interactions\n→ Multi-wallet asset aggregation\n→ RealFi product interactions\n→ Contract debugging helpers\n→ Portfolio ",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2062081915256271034",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2062086266611491062",
+      "author": "leopardracer",
+      "text": "THIS DEVELOPER BUILT A SOCIAL NETWORK ALONE AND CLAUDE CODE SHIPPED 5 SYSTEMS WHILE HE WAS WATCHING THIS VIDEO\n\nhe described the system to claude code before lunch and walked away\n\nby friday the auth was working and the social graph was done and the feed was pulling real posts an",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2062086266611491062",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2061836006895083855",
+      "author": "Veilnet_",
+      "text": "Tune in today, June 2, 2026, at 7pm UTC.\n\nVeilnet will be live on Late Night on Base with @latenightonbase .\n\nWe’ll be discussing what we’ve built so far across the VEILNET ecosystem:\n\nShielded transfers\nVeil DEX\nVeil AI\nPrivate MCP server\nWallet Context\nEncrypted data storage\nFH",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2061836006895083855",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2061966906194563360",
+      "author": "AnatoliKopadze",
+      "text": "this guy makes $10,000 a month from UGC style ads generated with AI\n\nhe connects Claude to Higgsfield through an MCP connector\n\nfinds a product he can sell at a higher price and uploads pictures of it\n\ntypes one sentence: \"Create 50 UGC style ads\"\n\nClaude connects to Higgsfield a",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2061966906194563360",
+      "is_kol": false,
+      "score": 172.0
+    },
+    {
+      "id": "2062144207893233938",
+      "author": "rubenhassid",
+      "text": "Delete your 33 unread Claude guides bookmarks. \n\nThis (stupid simple) roadmap is all you need:\n\n→ Quick Start - 20 mins: Get going.\n\nThe basics of Claude: https://t.co/HNa5MrCLVU\nPrompt better: https://t.co/EE46WHU8vg\nUse Projects: https://t.co/Q7AN9CZAbO\nGet free certified: http",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2062144207893233938",
+      "is_kol": false,
+      "score": 172.0
+    },
+    {
+      "id": "2061735317624037418",
+      "author": "9hills",
+      "text": "做 Agent Platform 最难的是如何解决鉴权注入的问题。\n\n就是你的 Skill 里的CLI以及MCP Server 都需要鉴权。如果把API_KEY 或者OAuth 信息直接保存在 sandbox 内部（不管是文件、环境变量等方式），则可能会因提示词攻击而泄漏。\n\n解决办法基本上要么做工具代理，要么做 HTTPS 中间人注入。",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2061735317624037418",
+      "is_kol": false,
+      "score": 160.0
+    },
+    {
+      "id": "2061892437917024434",
+      "author": "sailorpepe_eth",
+      "text": "I built the first real-world asset oracle on @LitecoinVM ⛓️🔥\n\n433,000 trading card prices — verified on-chain with Merkle proofs on LiteForge 🌳\n\n🔹 276K products in a single Merkle root\n🔹 50 blue-chip TWAP feeds (hourly)\n🔹 AI card grading via vision model\n🔹 6-tool MCP server for A",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2061892437917024434",
+      "is_kol": false,
+      "score": 151.0
+    },
+    {
+      "id": "2062070531114062008",
+      "author": "godofprompt",
+      "text": "\"Vibe coding isn't a real skill.\"\n\nAnyone who says this is telling on themselves.\n\nHand the same agent to two people. One ships gold, one ships slop. The only variable is the person using it.\n\nThat's the textbook definition of a skill.\n\n6 arguments to change your mind: 👇",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2062070531114062008",
+      "is_kol": false,
+      "score": 139.0
+    },
+    {
+      "id": "2062039720906158380",
+      "author": "ba_niu80557",
+      "text": "这个观察特别准。我想过为什么，觉得规律是这样的——\n\n能从 X 传到国内的概念，都有一个共同特征：有一个你能马上复制粘贴的东西。\n\nSkill 能传，因为你能看到一个 SKILL.md 文件，抄过来就能用。\nRAG 能传，因为你能跑一个 demo 出来发朋友圈。\nPrompt engineering 能传，因为你能复制一段 prompt 马上试。\n\nHarness 传不动，因为它是一个设计哲学，不是一个你能复制的文件。\"你需要在 agent 外面包一层规则、评估器、反馈循环、熔断机制\"——这句话国内平台的读者看完不知道该打开哪个 app。\n\n国内 AI ",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2062039720906158380",
+      "is_kol": false,
+      "score": 133.0
+    },
+    {
+      "id": "2062152364912693580",
+      "author": "Spark_coded",
+      "text": "Spark r24 is here and here is the changelog: \n\n## spark-compete\n- Added durable R24 scoring docs, ledgers, dry-runs, and guarded apply scripts.\n- Added separate scoring lanes for missing rows, packet audit, status evidence, private score, public publish, adopted repair, identity ",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2062152364912693580",
+      "is_kol": false,
+      "score": 124.0
+    }
+  ]
+}
