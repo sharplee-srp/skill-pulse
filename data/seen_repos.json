@@ -3250,5 +3250,37 @@
   "op7418/guizang-social-card-skill": {
     "first_seen": "2026-06-03",
     "tier": 3
+  },
+  "jetbrains/compose-hot-reload": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "palamut62/desktop-ui-design-skills-pack": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "drogers0/gh-image": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "bobbyswhip/skills": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "affaan-m/ecc": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "nova1390/obsidian-memory-closeout": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "awesamarth/agentis": {
+    "first_seen": "2026-06-04",
+    "tier": 3
+  },
+  "ankimcp/anki-mcp-server": {
+    "first_seen": "2026-06-04",
+    "tier": 3
   }
 }

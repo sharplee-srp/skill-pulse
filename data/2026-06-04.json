@@ -1,0 +1,585 @@
+{
+  "date": "2026-06-04",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 164,
+    "tweets_with_repos": 18,
+    "unique_repos": 19,
+    "new_repos": 8,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "jetbrains/compose-hot-reload",
+      "github_url": "https://github.com/jetbrains/compose-hot-reload",
+      "tier": 3,
+      "is_new": true,
+      "score": 417.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 89,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotlin",
+        "text": "🚀 Great news for Compose developers!\n\nCompose Hot Reload 1.2.0-alpha01 introduces an experimental MCP server that enables AI agents to interact with running Compose apps in real time.\n\nBe the first to try it and help shape what comes next 👇\nhttps://t.co/NhB5iwXGM3 https://t.co/7h",
+        "likes": 89,
+        "url": "https://x.com/i/status/2062239417591341155"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062239417591341155"
+      ]
+    },
+    {
+      "repo": "palamut62/desktop-ui-design-skills-pack",
+      "github_url": "https://github.com/palamut62/desktop-ui-design-skills-pack",
+      "tier": 3,
+      "is_new": true,
+      "score": 113.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "palamut62",
+        "text": "Desktop UI Design Skills Pack\n\n  19 plug-and-play design skills for AI coding agents. One Markdown skill per style — palette, typography, layout,\n  components, states, do/don't rules, and acceptance criteria.\n\n  Install in one command:\n  npx github:palamut62/desktop-ui-design-ski",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062488896848412854"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062488896848412854"
+      ]
+    },
+    {
+      "repo": "drogers0/gh-image",
+      "github_url": "https://github.com/drogers0/gh-image",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mx_schmitt",
+        "text": "There’s now a solution! 🎉\n\nnpx skills add drogers0/gh-image\n\nhttps://t.co/FtKB0xxTtX https://t.co/yL4N4FVsVy",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062356840470749208"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062356840470749208"
+      ]
+    },
+    {
+      "repo": "bobbyswhip/skills",
+      "github_url": "https://github.com/bobbyswhip/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "waifi_app",
+        "text": "Try it in our app,  or add our skill for Base MCP and give your agent the power to easily build ontop of our decentralized OAuth stack!\n\nnpx skills add bobbyswhip/skills --skill yougotcoined\n\nHow Twitch clear signing works &amp; remains decentralized: https://t.co/utQBKNRaOC",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062276182842708385"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062276182842708385"
+      ]
+    },
+    {
+      "repo": "affaan-m/ecc",
+      "github_url": "https://github.com/affaan-m/ecc",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "2020helloworld",
+        "text": "🚀 不是简单配置包，而是真正的 AI Coding Agent Harness 操作系统\nECC (Everything Claude Code) 已突破 140K+ Stars，成为 Claude Code / Cursor / Codex / OpenCode 等平台的性能优化标杆。\n核心原理与手段：\n\n通过 63+ 专业 Agents + 150+ Skills + 79 Commands 构建结构化工作流\n采用 Research-First 开发范式 + 持久化 Memory + Instincts 机制\n集成安全扫描、Hooks 生命周期管理、",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062471396001792203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062471396001792203"
+      ]
+    },
+    {
+      "repo": "nova1390/obsidian-memory-closeout",
+      "github_url": "https://github.com/nova1390/obsidian-memory-closeout",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Degen_Yume",
+        "text": "I just released Obsidian Memory Closeout v0.3.1\n\nA public agent skill for turning meaningful AI work into curated Obsidian memory, and reading that memory before acting.\n\nNow supports Codex and Claude Code custom skills.\n\nPrivacy-first: no raw transcripts, no noisy logs, no secre",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062460857645240791"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062460857645240791"
+      ]
+    },
+    {
+      "repo": "awesamarth/agentis",
+      "github_url": "https://github.com/awesamarth/agentis",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "agentis_hq",
+        "text": "Get started here: https://t.co/hUWwepiSxl\n\nInstall the Agentis skill via the Vercel Skills CLI- npx skills add awesamarth/agentis\n\nEnjoy!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062191123330900372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062191123330900372"
+      ]
+    },
+    {
+      "repo": "ankimcp/anki-mcp-server",
+      "github_url": "https://github.com/ankimcp/anki-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIDailyGems",
+        "text": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.\n\nWould you choose this over Cursor/Claude Code for this part of the workflow?\n\nhttps://t.co/ZLcIiwxQVQ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062506797114458517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062506797114458517"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "yetone/native-feel-skill",
+      "github_url": "https://github.com/yetone/native-feel-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 278.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 46,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guangGitHub",
+        "text": "Raycast 用起来丝滑得像原生应用，但它底层其实是 WebView + Node.js。\n有人直接反编译了 Raycast https://t.co/VunRfWzPd1，把答案扒了出来。\n\nnative-feel-skill 是一个 Agent Skill，专门教你怎么设计跨平台桌面应用，让它在 macOS 和 Windows 上运行时的体验跟原生应用几乎没有区别。\n\n作者 yetone 也是 avante.nvim 插件的作者。\n\n项目发布不到两天就在 GitHub 上拿到了 1000 多个 Star。\n\n你可以用这个 Skill 完成两个事项：",
+        "likes": 46,
+        "url": "https://x.com/i/status/2062391395915120900"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062391395915120900"
+      ]
+    },
+    {
+      "repo": "openprose/prose",
+      "github_url": "https://github.com/openprose/prose",
+      "tier": 3,
+      "is_new": false,
+      "score": 148.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "irl_danB",
+        "text": "we've released the Reactor as an sdk, so you can build it into your own projects, and as a cli with a lightweight server so you can try it yourself\n\nthe openprose skill knows how to use it. try it, send feedback:\n\nnpx skills add openprose/prose\n\nprose react \"index all my agent se",
+        "likes": 16,
+        "url": "https://x.com/i/status/2062253969913839948"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062253969913839948"
+      ]
+    },
+    {
+      "repo": "wbh604/uzi-skill",
+      "github_url": "https://github.com/wbh604/uzi-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTCPS",
+        "text": "兄弟们，今天给你们扒一个有点猛的开源项目：UZI-Skill，一个专门给股票做深度分析的AI投研插件，看完我直接坐不住了。\n\n它最骚的地方在哪？不是把股票代码丢给大模型瞎猜，那种玩意儿你随便问个AI都能编一堆。它是真把硬货揉一块了：\n\n1️⃣ 51位投资大佬的分析框架\n2️⃣ 22维市场数据\n3️⃣ 180条量化规则\n4️⃣ 17种机构分析方法\n\n说白了，就是让格雷厄姆、彼得·林奇、巴菲特、索罗斯、陈小群这帮人同台开个投研会，专门帮你拆一只票，想想就刺激。\n\nA股、港股、美股全都能看。你扔个贵州茅台、腾讯、苹果进去，它直接从基本面、技术面、资金面、情绪面",
+        "likes": 7,
+        "url": "https://x.com/i/status/2062474505310933109"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062474505310933109"
+      ]
+    },
+    {
+      "repo": "gmgnai/gmgn-skills",
+      "github_url": "https://github.com/gmgnai/gmgn-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 125.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gmgnai",
+        "text": "💹 不用盯盘，价格异动 GMGN API 自动帮你筛——陷阱币直接扔掉\n\nAI 直接排除——捆绑砸货、bot 刷量、接盘的亏多赚少\n\n自动筛出——KOL 持仓、筹码健康、散户盈利\n\n跟 Agent 说一句就够了：\n\n帮我扫 SOL 链价格异动信号，过滤高风险，逐币分析 Holder 持仓健康情况\n\n直接看图👇🏻\n\n💻 安装 GMGN Skills：\nnpm install -g gmgn-cli && npx skills add GMGNAI/gmgn-skills\n\n👉🏻 更多使用场景 → https://t.co/h29iNhqP4n\n⭐ Star",
+        "likes": 5,
+        "url": "https://x.com/i/status/2062500348225605721"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062500348225605721"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okxchinese",
+        "text": "🌟重要提示：该功能不支持模拟盘账户，使用前请更新okx-trade-cli 和 okx-trade mcp 到最新版本\n\n🌟安装指南\n1、已接入过 Agent Trade Kit？升级即可使用：\n1） 龙虾用户跟 Agent 说：\n\"将我的 OKX CEX Skills 更新到最新版本，并启用 'earn-hunter' skill，帮我设置赚币监控\"\n2）CLI / MCP 用户跟 Agent 说：\n\"运行 npx skills add okx/agent-skills --skill earn-hunter，自主解决所有碰到的问题，并启用 'earn",
+        "likes": 2,
+        "url": "https://x.com/i/status/2062474291938271383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062474291938271383"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "YoussefUiUx",
+        "text": "@robincingh @nutlope Re-run: npx skills add nutlope/hallmark",
+        "likes": 2,
+        "url": "https://x.com/i/status/2062301246082466092"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062301246082466092"
+      ]
+    },
+    {
+      "repo": "heygen-com/skills",
+      "github_url": "https://github.com/heygen-com/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@nicobustelo__ npx skills add heygen-com/skills para installar las skills del HeyGen CLI \n\nnpx skills add heygen-com/hyperframes para las del HyperFrames CLI\n\ninstalación del HeyGen CLI: curl -fsSL https://t.co/1cfFpfioci | bash",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062331210827784670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062331210827784670"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@nicobustelo__ npx skills add heygen-com/skills para installar las skills del HeyGen CLI \n\nnpx skills add heygen-com/hyperframes para las del HyperFrames CLI\n\ninstalación del HeyGen CLI: curl -fsSL https://t.co/1cfFpfioci | bash",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062331210827784670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062331210827784670"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Build basket strategies with Byreal Perps Agent Skills - go long and short across multiple markets, all executed through one agent setup. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/BT5y44H38B",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062486578996584895"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062486578996584895"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VincentLogic",
+        "text": "安装方式：\n\n▸ npx skills add emilkowalski/skill\n▸ Impeccable 装 Chrome 插件 / CLI\n▸ Taste Skill 自行下载\n\n全免费，5 分钟配完。\n\n你用 Claude Code 配过哪些设计技能？\n评论区报一下 👇",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062478930226168310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062478930226168310"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2062224854808486195",
+      "author": "precisox",
+      "text": "Supabase y Firebase te están dejando en la ruina\n\nButterbase acaba de abrir todo su código y es una locura:\n\nBackend 100% open source + IA nativa integrada:\n\n- Postgres con RLS  \n- Auth + OAuth  \n- Storage  \n- Functions  \n- AI Gateway  \n- MCP Server → tu backend se convierte en h",
+      "likes": 212,
+      "views": 0,
+      "url": "https://x.com/i/status/2062224854808486195",
+      "is_kol": false,
+      "score": 796.0
+    },
+    {
+      "id": "2062363644638458007",
+      "author": "skcd42",
+      "text": "Bug fixes shipping to Grok Build 0.2.20 (release notes will be available in the TUI and on change-log website)\n\n• Eliminate ghost-cell artifacts in markdown table rendering\n• Make monitors visible and killable to the model\n• Preserve soft breaks in plan preview\n• Add image_to_vid",
+      "likes": 206,
+      "views": 0,
+      "url": "https://x.com/i/status/2062363644638458007",
+      "is_kol": false,
+      "score": 703.0
+    },
+    {
+      "id": "2062375369471336892",
+      "author": "Tech_Rose1",
+      "text": "Most people think building an AI agent starts with choosing an LLM.\n\nIn 2026, that's only a small piece of the puzzle. 🧩\n\nThe real power comes from the ecosystem surrounding the model.\n\nHere’s a simple framework for building production-grade AI agents:\n\n🔹 1. Define the Mission Be",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2062375369471336892",
+      "is_kol": false,
+      "score": 560.0
+    },
+    {
+      "id": "2062423857135304938",
+      "author": "IdleProtocol",
+      "text": "1/ We just shipped our MCP server and it's now live in Anthropic's official MCP Registry.\n\nIDLE Protocol can be utilized by your agents to discover, pay for, and call distributed compute - web scraping, inference, DNS lookups, API monitoring - all from residential IPs in USDC. \n\n",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2062423857135304938",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2062391393520132151",
+      "author": "neil_xbt",
+      "text": "THE MARKET DOES NOT PAY FOR THE CREDENTIAL.\n\nIt pays for the demonstrated ability to solve a specific problem better than the client can solve it themselves.\n\nA certificate does not get you to $150 per hour. A portfolio of real problems solved does.\n\nClaude Pro at $20 per month. ",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2062391393520132151",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2062437602243051630",
+      "author": "kashish3097",
+      "text": "Building an AI Agent in 2026 is no longer just about picking an LLM.\n\nThe real magic happens in the system around the model. 🤖\n\nThis roadmap perfectly breaks down how modern AI agents are actually built from scratch. 👇\n\nA production-ready AI agent needs 8 core layers:\n\n1️⃣ Define",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2062437602243051630",
+      "is_kol": false,
+      "score": 292.0
+    },
+    {
+      "id": "2062307940451913965",
+      "author": "startupideaspod",
+      "text": "Soon your most important customer won't be a human. \n\nIt'll be an agent.\n\n9 startups someone should build for that world:\n\n- Agent SEO agency: when agents pick the tools, you optimize to get recommended by them, not ranked on Google\n\n- Agent identity & permissions: every agent ac",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2062307940451913965",
+      "is_kol": false,
+      "score": 278.0
+    },
+    {
+      "id": "2062263051093790920",
+      "author": "AIonBase_",
+      "text": "AI & Robotics on @base - 48H Recap (June 1-2)\n\nAI\n\n■ @base featured Base Batches teams including @zbase__, @shadowcleague, @opengotchi, and others.\n\n■ @virtuals_io integrated @AskVenice, adding private uncensored inference for agent builders with up to $400K in credits\n\n■ Virtual",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2062263051093790920",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2062418054831554666",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT BUILT-IN SKILLS ARE INSANE.\n\nHermes comes with 64+ native tools.\n\nOne of them is full Home Assistant integration with 4 dedicated tools:\n- Call any service\n- Get entity state\n- List entities\n- List available services\n\nYou enable the skill, give it your IP and long-li",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2062418054831554666",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2062446506859483209",
+      "author": "neil_xbt",
+      "text": "Every conversation about where AI is going assumes the answer is cloud!\n\nThis is the first credible answer that says maybe not.\n\nHermes Agent running on a desk-sized NVIDIA DGX Spark with 128GB unified memory and Qwen 3.6 doing the reasoning locally. \n\nNo data center. No monthly ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2062446506859483209",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2062216934544777494",
+      "author": "Meghan_Crypt",
+      "text": "I think most people are looking at Injective’s MCP launch from the wrong angle.\n\nThe headline is that AI agents can now interact with onchain finance using natural language.\n\nThat’s interesting.\n\nBut the bigger story is what happens when financial markets get a new type of partic",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2062216934544777494",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2062453917175394399",
+      "author": "anujcodes_21",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now. https://t.co/4OaV3561yQ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2062453917175394399",
+      "is_kol": false,
+      "score": 225.0
+    },
+    {
+      "id": "2062390885514670225",
+      "author": "CoinMarketCap",
+      "text": "😮‍💨 Close the 35 tabs. Mute the Telegram groups. Kill the price alerts.\n\n🤖 Use a single Prompt instead:\n1️⃣ Copy the install Command → Paste into your Agent \n2️⃣ Copy the Execution Command → Paste → Skill: daily_market_overview\n\n`````text\nUse `daily_market_overview` from CMC Skil",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2062390885514670225",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2062379111905939480",
+      "author": "neil_xbt",
+      "text": "How to Go From Complete Beginner to Charging $150/Hour for AI Skills in 6 Months Using Only Claude.",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2062379111905939480",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2062428035559616604",
+      "author": "_vmlops",
+      "text": "Anthropic runs hundreds of claude code skills internally\n\nthey just published everything they learned\n\nthe biggest misconception people have: skills are \"just markdown files\"\n\nthey're not. they're folders. that means scripts, assets, reference code, data, templates all discoverab",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2062428035559616604",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2062309981181948111",
+      "author": "Veilnet_",
+      "text": "Encrypted inference in $VEILNET ecosystem.\n\nUsers can already access it today through the Chat tab, where prompts are handled through Veil AI’s privacy layer instead of being treated as normal plaintext AI requests.\n\nThe goal is simple:\nyour prompt should not expose your full int",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2062309981181948111",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2062260193811919336",
+      "author": "neerajprasad",
+      "text": "this proposal will upgrade mcp to support cryptographic key signing, and broadly allow wallets to securely authenticate to any agent server",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2062260193811919336",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2062274482710970708",
+      "author": "ErickSky",
+      "text": "Codex se volvió a poner caro y la gente está volviendo a Claude...\n\nPero si usas Claude para agentes, tool calls o RAG, te estás quemando tokens de más sin darte cuenta.\n\n[Headroom]\n\nComprime tool outputs, logs, archivos y chunks de RAG antes de que lleguen a Claude.\n\n→ 60-95% me",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2062274482710970708",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2062212707038695761",
+      "author": "BioHashNetwork",
+      "text": "The BioHash MCP server is now live for users and agents: an agent-callable interface to the most transparent onchain peptide pricing oracle. \n\nAs peptide procurement moves onchain this week, agents need a source of truth they can independently verify before they transact: this is",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2062212707038695761",
+      "is_kol": false,
+      "score": 167.0
+    }
+  ]
+}
