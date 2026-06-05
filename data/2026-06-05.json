@@ -1,0 +1,597 @@
+{
+  "date": "2026-06-05",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 18,
+    "unique_repos": 18,
+    "new_repos": 12,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "raycast/raycast-skills",
+      "github_url": "https://github.com/raycast/raycast-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 241.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "peduarte",
+        "text": "my WIP raycast-skills extension working in Codex\nit knows everything about Raycast (based on the manual) and how to build extensions (based on the docs)\n\nwill try and get this published next week\nthen you'll be able to install it via `npx skills add raycast/raycast-skills` https:",
+        "likes": 47,
+        "url": "https://x.com/i/status/2062587102039081120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062587102039081120"
+      ]
+    },
+    {
+      "repo": "justaname-id/jaw-skills",
+      "github_url": "https://github.com/justaname-id/jaw-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 119.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_JAW_ID",
+        "text": "Ever wanted to tell your AI \"send 50 USDC to alice.eth\" and have it just work?\n\nThe JAW CLI makes it real: your agent proposes the transaction, you approve with a fingerprint, it ships. Done.\n\nInstall it 👉 npx skills add JustaName-id/jaw-skills --skill jaw-cli \n\nLearn more on our",
+        "likes": 3,
+        "url": "https://x.com/i/status/2062864762870915573"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062864762870915573"
+      ]
+    },
+    {
+      "repo": "abhivarde/svelte-drawer",
+      "github_url": "https://github.com/abhivarde/svelte-drawer",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "varde_abhi",
+        "text": "🎉 svelte-drawer now works with AI coding tools\n\nInstall as an agent skill. Claude Code, Cursor, Copilot, Windsurf, and 10+ tools understand every drawer pattern and snap point.\n\nTry it:\n~ npx skills add AbhiVarde/svelte-drawer\n\n35+ GitHub stars. No more pasting docs. https://t.co",
+        "likes": 5,
+        "url": "https://x.com/i/status/2062591797281648857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062591797281648857"
+      ]
+    },
+    {
+      "repo": "nativescript/simdeck",
+      "github_url": "https://github.com/nativescript/simdeck",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buildwithdjdev",
+        "text": "Install the skill using\n\nnpx skills add NativeScript/SimDeck --skill simdeck -g\n\nUsing SimDeck CLI &amp; skill, you can just ask Codex to test your app all the way through on both iOS and Android. Works with any framework.",
+        "likes": 4,
+        "url": "https://x.com/i/status/2062718237947650392"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062718237947650392"
+      ]
+    },
+    {
+      "repo": "lightsparkdev/grid-api",
+      "github_url": "https://github.com/lightsparkdev/grid-api",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "patcapulong",
+        "text": "@lightspark @brexHQ npx skills add lightsparkdev/grid-api",
+        "likes": 4,
+        "url": "https://x.com/i/status/2062679834732724501"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062679834732724501"
+      ]
+    },
+    {
+      "repo": "discountry/ritmex-skills",
+      "github_url": "https://github.com/discountry/ritmex-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "discountifu",
+        "text": "蒸馏了一下 impeccable\n不用安装几十个 SKILL，一个 SKILL 就能清除UI里的AI味儿⬇️\n\nnpx skills add discountry/ritmex-skills --skill anti-ui-slop",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062745285550592248"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062745285550592248"
+      ]
+    },
+    {
+      "repo": "raydeveloperf/asc-release-kit",
+      "github_url": "https://github.com/raydeveloperf/asc-release-kit",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Leorokon",
+        "text": "I got tired of manually filling out App Store Connect every release.\nSo I built a Claude Code + Codex skill pack that does it: → reads your project, writes localized metadata → runs Xcode UI Tests, applies your Pixelmator PXD template → discovers real ASC resource IDs, generates ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062861170176884996"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062861170176884996"
+      ]
+    },
+    {
+      "repo": "browser-use/video-use",
+      "github_url": "https://github.com/browser-use/video-use",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "redman_talk",
+        "text": "用 Codex 做视频十大必装 skills:\n\n这 10 个 skills 覆盖从选题调研、视频理解、字幕转写、脚本拆解，到 Remotion 生成、短视频剪辑、配音和发布复盘的完整视频创作链路。\n\nvideo-use\nGitHub: https://t.co/x2r7ilcQVa\n能做的事: 用自然语言驱动视频剪辑、字幕、调色、导出，适合把原始素材交给 Codex 编排。\n\nvideo-podcast-maker\nGitHub: https://t.co/n90tzlo9CY\n能做的事: 自动化生成 4K 视频播客，适合访谈、播客、知识类视频。\n\nR",
+        "likes": 1,
+        "url": "https://x.com/i/status/2062840311039369562"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062840311039369562"
+      ]
+    },
+    {
+      "repo": "financedistrict-platform/fd-cli-skills",
+      "github_url": "https://github.com/financedistrict-platform/fd-cli-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FD_XYZ",
+        "text": "True autonomy, not borrowed access.\n\nGive your agent its own wallet in two commands:\n\n→ npm install -g @financedistrict/fdx\n→ npx skills add financedistrict-platform/fd-cli-skills\n\nStart Building ↓\nhttps://t.co/SINu5Lzn7a https://t.co/E2OEDFuWki",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062700438949171251"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062700438949171251"
+      ]
+    },
+    {
+      "repo": "tencent/wechatreading",
+      "github_url": "https://github.com/tencent/wechatreading",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oasisfeng",
+        "text": "微信读书这个 skills 完全是只读接口，缺乏「写操作」的 skill 其实大大束缚了 OpenClaw 这类个人助手所能发挥的管理价值，它们本可以把很多琐碎的日常操作代为完成。\n\n比如「传书到书架」、「整理书架」，这些才是 agent 最需要的 skill 接口。\nhttps://t.co/GxJqqKqcoF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062800017908494799"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062800017908494799"
+      ]
+    },
+    {
+      "repo": "sandiiarov/skill-creator",
+      "github_url": "https://github.com/sandiiarov/skill-creator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Skill Creator: Turn APIs & MCP Servers into Reusable AI Agent Skills 🤖💀\n\n🔥 Build production-ready agent skills from:\n\n• OpenAPI Specifications\n• GraphQL Schemas\n• MCP Servers\n• REST APIs\n• Local MCP Tools\n• Remote MCP Endpoints\n\nWhat you get:\n\n• Auto-Generated Agent Skills\n• CLI ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062862458843459968"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062862458843459968"
+      ]
+    },
+    {
+      "repo": "dnesdan/skills",
+      "github_url": "https://github.com/dnesdan/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dnesdan",
+        "text": "I built simple skill to help users enable Codex Computer Use in Europe.\n\nhttps://t.co/DwkaLtrJvB",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062838132064559375"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062838132064559375"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 0,
+      "is_new": false,
+      "score": 771.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 42,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "让 AI Agent 自动化操作浏览器或抓数据，经常被各种反爬机制拦截，遇到验证码、人机验证直接卡死。\n\n最近 BrowserAct 团队开源了一个 Skill，专为 AI Agent 设计的浏览器自动化命令行工具。\n\n提供三层反封锁机制，从指纹伪装、验证码自动破解，到 AI 搞不定时生成一个链接让人类随时接管，整套流程衔接得很顺畅。\n\nGitHub：https://t.co/fssigAc3QK\n\n还可以多浏览器并行时，每个任务的 Cookie、指纹、代理完全隔离，网站没法关联不同账号。\n\n另外输出格式也专门为大模型优化过，比传统的 HTML 或 JS",
+        "likes": 42,
+        "url": "https://x.com/i/status/2062746268993216772"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062746268993216772"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 221.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yigitakinkaya",
+        "text": "AI SLOP TASARIM SORUNU KÖKÜNDEN ÇÖZÜLDÜ.\n\nÇözen skill'imizin ismi Hallmark. Together AI'dan Hassan'ın çıkardığı şey. Az önce keşfettim.\n\nKurulumu tek satır: npx skills add nutlope/hallmark\nClaude Code, Cursor ve Codex'te çalışıyor. Otomatik devreye giriyor, ekstra bir şey yapman ",
+        "likes": 37,
+        "url": "https://x.com/i/status/2062616422405083550"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062616422405083550"
+      ]
+    },
+    {
+      "repo": "shadcn/ui",
+      "github_url": "https://github.com/shadcn/ui",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xjuntaro",
+        "text": "Skillsのインストール、公式ドキュメントはこちら↓ \n「npx skills add shadcn/ui」\nhttps://t.co/IIlUrx7qcc",
+        "likes": 12,
+        "url": "https://x.com/i/status/2062664596754993229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062664596754993229"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Build a basket around the photonics trade with Byreal Perps Agent Skills.\n\nGo long and short across $AVGO, $LITE, and $ASML simultaneously - all executed through a single agent workflow. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/BT5y44H38B",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062836224684118492"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062836224684118492"
+      ]
+    },
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shintaro_campon",
+        "text": "② ターミナルでコマンドが走る\n\n0:23、PCのターミナル画面で「npx skills add elevenlabs/skills --all」が実行される。\n0:25には「Cloning repository」と「Done!」が表示される。\nCLI操作をAIに委譲するワークフローが目の前で動く。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062764220333392148"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062764220333392148"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ欲しかった。\n/last30days は\nAIエージェント用の\n最近30日調査skill。\n\nReddit / X / YouTube /\nHN / Polymarket / GitHubを\n並列で見て、反応の強い\n情報だけ要約してくれる。\n\n導入はこれ:\nnpx skills add\nmvanhorn/last30days-skill -g\n\n無料で動くのは\nReddit / HN / Polymarket /\nGitHubあたり。\nXやTikTokはキー追加。\n\n会議前の人物調査や\n新ツール比較に使いたい。\nhttps://t.co/Mn2Dqv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2062656546543489344"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2062656546543489344"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2062810319920209933",
+      "author": "sairahul1",
+      "text": "Jensen Huang, CEO of Nvidia:\n\n\"Every engineer is going to have and manage hundreds of agents.\"\n\nThe most valuable engineering skill of 2026 is not taught in any university.\n\nNo CS program teaches harness engineering.\nNo bootcamp teaches agent memory architecture.\nNo degree prepar",
+      "likes": 195,
+      "views": 0,
+      "url": "https://x.com/i/status/2062810319920209933",
+      "is_kol": false,
+      "score": 815.0
+    },
+    {
+      "id": "2062793259047383305",
+      "author": "ZypherHQ",
+      "text": "Introducing /backend-doctor\n\nYour AI agent wrote bad backend code. This catches it.\n\nDetects swallowed errors, placeholder tests, missing auth, SQL injection — 13 languages, 0–100 score, safe autofix.\n\nInstall as agent skill. Fully open source.\n\nnpx backend-doctor@latest https://",
+      "likes": 217,
+      "views": 0,
+      "url": "https://x.com/i/status/2062793259047383305",
+      "is_kol": false,
+      "score": 791.0
+    },
+    {
+      "id": "2062718023459573937",
+      "author": "sakhil_ai",
+      "text": "🔷How to Use Codex\n\nCodex becomes powerful only when you use it the right way.\nHere’s a simple guide to help you work smarter, code faster, and avoid common mistakes:\n\n🟢 AGENTS.md\nThis is your project rules file. Codex reads it before starting work.\n\n➡️ Pro tip: Keep it short, cle",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2062718023459573937",
+      "is_kol": false,
+      "score": 771.0
+    },
+    {
+      "id": "2062782958159737003",
+      "author": "BoraOzkent",
+      "text": "Şöylle bir agent ya da skill geliştiren var mı?\n\nX üzerinde bookmarklayıp asla geri dönmediğim içerikleri benim bağlamamda özetleyip bana bir podcast çıkarsın.\n\nAylık abone olur, 100$ filan da para veririm.",
+      "likes": 165,
+      "views": 0,
+      "url": "https://x.com/i/status/2062782958159737003",
+      "is_kol": false,
+      "score": 525.0
+    },
+    {
+      "id": "2062685288397467837",
+      "author": "rohit4verse",
+      "text": "andrej karpathy keeps naming why your coding agent fails: wrong assumptions, bloated abstractions, edits to code it never understood.\n\nmicrosoft just ran the experiment. they froze gpt-5.5 and trained the skill file like weights.\n\n+19.1 points inside claude code. +23.5 in direct ",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2062685288397467837",
+      "is_kol": false,
+      "score": 414.0
+    },
+    {
+      "id": "2062560180118925685",
+      "author": "AIandTechh87",
+      "text": "Building an AI Agent in 2026 is no longer just about picking an LLM.\n\nThe real magic happens in the system around the model. 🤖\n\nThis roadmap perfectly breaks down how modern AI agents are actually built from scratch. 👇\n\nA production-ready AI agent needs 8 core layers:\n\n1️⃣ Define",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2062560180118925685",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2062807836279648450",
+      "author": "qichuanzz",
+      "text": "https://t.co/NsY242d56U\n\n搓了一个小项目——让AI能实时看到你的心跳♡(operit/自建前端插件版)\n跟AI聊天的时候，它不知道你现在是困是醒、心跳多快、今天走了几步。于是我和猫搭了一条全自动链路，每2分钟把手环数据写进一个JSON文件，AI发消息的时候直接读到你当下的身体状态。\n\n链路：小米手环 → Gadgetbridge → Health Connect → Tasker → JSON → AI注入\n\n教程里有这些内容：\n⒈硬件软件清单\n⒉手环加密密钥提取方法\n⒊Gadgetbridge连接 + Health Connec",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2062807836279648450",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2062800633972064407",
+      "author": "Tanmoy_ai",
+      "text": "This feels like cheating. seriously.\n\nA FREE Claude skill that writes perfect prompts on the FIRST try.\n\n→No retries\n→No wasted credits\n→Works with 18+ tools\n\nChatGPT, Midjourney, Cursor &amp; more.\n\nOne install. 100% open-source.\n\nWorth $499. FREE for 48h\n\nType \" SEND \" Follow M",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2062800633972064407",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2062840352042582517",
+      "author": "neil_xbt",
+      "text": "THE MOST CAPABLE AI AGENT IN THE WORLD WAS STUCK AT YOUR DESK.\n\nNow it picks up the phone.\n\nHermes connected to ElevenAgents via the OpenAI-compatible chat completions endpoint turns your autonomous agent into a voice-accessible system you can reach from anywhere.\n\nTest run resul",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2062840352042582517",
+      "is_kol": false,
+      "score": 269.0
+    },
+    {
+      "id": "2062764296212476080",
+      "author": "this_is_tasnim",
+      "text": "This feels like cheating, and I mean that seriously.\n\nA free Claude skill just dropped that writes the perfect prompt for any AI tool on the first try, no re-prompts, no wasted credits, no fourth attempt.\n\nIt's called Prompt Master, and it works with Claude, ChatGPT, Cursor, Midj",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2062764296212476080",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2062580552830489080",
+      "author": "Multi_mike01",
+      "text": "𝟭.𝟴+ 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗨𝘀𝗲𝗿𝘀 𝗛𝗮𝘃𝗲 𝗝𝗼𝗶𝗻𝗲𝗱 𝘁𝗵𝗲 𝗝𝗼𝘂𝗿𝗻𝗲𝘆 𝗧𝗼𝘄𝗮𝗿𝗱 𝗔𝗚𝗜\n\nAt first glance, it's just a number.\n\nBut every number represents a person who decided to step beyond traditional AI experiences and into a future where intelligence is more open, more accessible, and increasingly autonomous.",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2062580552830489080",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2062549688679907473",
+      "author": "ism_sol",
+      "text": "PAKE INI BIAR AI AGENT LU GA BOROS TOKEN MULU\n\ngua nemu tool baru bro \nopen-source pula, namanya \"HEADROOM\"\n(hemat 60-95% token)\n\nGithub reponya gua drop di komen\n\nini bukan model AI baru,\ntapi layer kompresi buat AI agent lu 🧠\n\njadi sebelum Claude/Codex/Cursor baca :\n> tool outp",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2062549688679907473",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2062783563511247067",
+      "author": "niraj_munot",
+      "text": "We’re launching Volrix.\n\nAn MCP server that lets you backtest and research trading ideas directly from Claude and Chatgpt.\n\nConnect your AI agent, describe a strategy, and run backtests across index and commodity derivatives.\n\nLink in the comments, Try it for free! https://t.co/D",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2062783563511247067",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2062762240709955998",
+      "author": "comebackkkid",
+      "text": "🚀 AI Overlords Hiring: Agentic AI Engineer\n\nRemote | 0–2 Yrs | Immediate Joiners\nWork on AI agents, autonomous workflows, multi-agent systems, RAG, memory, reasoning &amp; tool integrations.\nBonus: LangChain, LangGraph, OpenAI, Claude, Gemini, MCP, Vector DBs.\n\n📩 DM your resume. ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2062762240709955998",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2062793939808084012",
+      "author": "Tegadesigns",
+      "text": "Ai tools that can help you make  $1,000–$10,000 monthly.\n\n🎨 DESIGN TOOLS\n@figma Make, @uxpilotai , Moda , @lovart_ai , @canva — you can build brand kits, UIs, and full campaigns. Create beautiful designs , lock in on showing your work and charge businesses that have no designer.\n",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2062793939808084012",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2062848159215493176",
+      "author": "cyrilXBT",
+      "text": "THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.\n\nNot a plugin.\n\nNot an integration.\n\nA full agent skills system that teaches Claude Code, Codex, and OpenCode to READ, WRITE, and REASON inside your Obsidian vault like a power user.\n\n27,000 GitHub stars in day",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2062848159215493176",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2062768711744823489",
+      "author": "1DesyDonald",
+      "text": "Injective just landed number 4 on the top blockchains by net flow for H1 2026 and almost nobody is talking about the real story behind that number.\n\nLet me show you why this matters more than most people realize.\n\nThe chart shows Hyperliquid at $1.9B net flow, Base at $876.9M, Po",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2062768711744823489",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2062783980827726149",
+      "author": "Msageer_",
+      "text": "Day 1 of 7: Real ways to earn in Web3 and online ( UP TO ₦500,000 MONTHLY)\n\nSkill: Vibe Coding & Selling Websites.\n\nLet me start with the one I have personal experience with.\n\nIn the last 2 months I have sold over 3 fully vibe coded websites.\n\nThis is not theory. This is somethin",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2062783980827726149",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2062836045394174035",
+      "author": "slash1sol",
+      "text": "A DEVELOPER PROVED THE TERMINAL ISN'T A SCARY BLACK BOX -- IT'S A CHAINSAW, AND MOST OF US ARE OUT HERE CUTTING WOOD WITH A BUTTER KNIFE\n\n31 minutes from Gary Bernhardt -- the same mind behind the legendary \"Wat\" talk -- building real tools live on stage out of nothing but pipes ",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2062836045394174035",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2062539791422652919",
+      "author": "BAI_AGI",
+      "text": "📢 1,800,619 Users on https://t.co/mTw8ldBplF! 🔥\n\n1.8M+ users are choosing privacy-first AI access, intelligent routing, and the infrastructure powering the autonomous Agent economy.\n\nThrough LLM Services, x402/8004 protocols, the BAIclaw multi-agent framework, MCP Server, and wal",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2062539791422652919",
+      "is_kol": false,
+      "score": 181.0
+    }
+  ]
+}

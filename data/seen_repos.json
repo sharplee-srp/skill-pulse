@@ -3282,5 +3282,53 @@
   "ankimcp/anki-mcp-server": {
     "first_seen": "2026-06-04",
     "tier": 3
+  },
+  "raycast/raycast-skills": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "justaname-id/jaw-skills": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "abhivarde/svelte-drawer": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "nativescript/simdeck": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "lightsparkdev/grid-api": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "discountry/ritmex-skills": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "raydeveloperf/asc-release-kit": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "browser-use/video-use": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "financedistrict-platform/fd-cli-skills": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "tencent/wechatreading": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "sandiiarov/skill-creator": {
+    "first_seen": "2026-06-05",
+    "tier": 3
+  },
+  "dnesdan/skills": {
+    "first_seen": "2026-06-05",
+    "tier": 3
   }
 }
