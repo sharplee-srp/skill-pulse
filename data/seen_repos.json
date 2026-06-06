@@ -3330,5 +3330,33 @@
   "dnesdan/skills": {
     "first_seen": "2026-06-05",
     "tier": 3
+  },
+  "yan-labs/serenity-aleabitoreddit": {
+    "first_seen": "2026-06-06",
+    "tier": 2
+  },
+  "muxuuu/serenity-skill": {
+    "first_seen": "2026-06-06",
+    "tier": 2
+  },
+  "kyriecheungyep/ky-design-to-html-skill": {
+    "first_seen": "2026-06-06",
+    "tier": 3
+  },
+  "hcsolakoglu/colab-cli-agent-skill": {
+    "first_seen": "2026-06-06",
+    "tier": 3
+  },
+  "web-infra-dev/midscene-skills": {
+    "first_seen": "2026-06-06",
+    "tier": 3
+  },
+  "whetstoneresearch/doppler-skills": {
+    "first_seen": "2026-06-06",
+    "tier": 3
+  },
+  "thaungthanhan/hermes-omnivoice": {
+    "first_seen": "2026-06-06",
+    "tier": 3
   }
 }
