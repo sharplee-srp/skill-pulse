@@ -1,0 +1,610 @@
+{
+  "date": "2026-06-07",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 23,
+    "unique_repos": 20,
+    "new_repos": 14,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "op7418/humanizer-zh",
+      "github_url": "https://github.com/op7418/humanizer-zh",
+      "tier": 2,
+      "is_new": true,
+      "score": 645.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 135,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wsl8297",
+        "text": "最近整理了一批适合中文内容创作者用的 Codex Skills。\n\n如果你平时要写文章、改稿、去 AI 味、做配图、做封面、小红书卡片，这 10 个基本能覆盖一整套内容生产流程。\n\n建议先收藏，不用一次装完，按自己的创作需求慢慢补。\n\n1. Humanizer-zh\n中文写作者很实用的去 AI 味工具。\n它不是简单改几个词，而是会帮你处理空话、套话、三段式、过度排比这些问题，让稿子更像真人写出来的。\n\nhttps://t.co/L1yXa7gCE9\n\n2. dbskill\n更像一个内容诊断工具。\n适合做选题判断、商业表达、hook、小红书标题、爆款拆解，",
+        "likes": 135,
+        "url": "https://x.com/i/status/2063516310798250395"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063516310798250395"
+      ]
+    },
+    {
+      "repo": "panniantong/agent-reach",
+      "github_url": "https://github.com/panniantong/agent-reach",
+      "tier": 3,
+      "is_new": true,
+      "score": 575.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 50,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paniantong",
+        "text": "我发现几乎所有人都想要自己的龙虾🦞有足够强的调研能力，但是手动配置一堆skill/mcp贼麻烦\n\n直接上手干了一个，一句话让你的agent能全网语义搜索、能看小红书、推特、youtube、reddit、b站、RSS...\n\n免费开源（如果是服务器只需要1$硬件钱），装完自动检测哪个通了哪个没通。\n\n有问题可以随时提issue：https://t.co/r4KA3YNkWP\n使用这个指令一句话安装：\n帮我根据帮我安装 Agent Reach：https://t.co/J5TUA4cFrQ 指示安装 Agent Reach",
+        "likes": 75,
+        "url": "https://x.com/i/status/2063409917550326055"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063409917550326055"
+      ]
+    },
+    {
+      "repo": "pascalorg/editor",
+      "github_url": "https://github.com/pascalorg/editor",
+      "tier": 3,
+      "is_new": true,
+      "score": 309.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hasantoxr",
+        "text": "This open-source project turns your browser into a 3D architecture studio.\n\nIt’s called Pascal Editor.\n\nA free tool for creating and sharing building projects with 2D plans and 3D layouts.\n\nWhat it can handle:\n\n- Walls\n- Rooms\n- Doors\n- Windows\n- Stairs\n- Slabs\n- Roofs\n- Fences\n-",
+        "likes": 53,
+        "url": "https://x.com/i/status/2063341017580163483"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063341017580163483"
+      ]
+    },
+    {
+      "repo": "jimliu/baoyu-design",
+      "github_url": "https://github.com/jimliu/baoyu-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "Cursor's new browser + element annotation turns it into a design studio.\n\nMeet Cursor Design 🎨 — Claude Design, running locally. Describe a screen → get polished HTML → click any element in the preview & say what to change. Best w/ Opus 4.8.\n\nnpx skills add JimLiu/baoyu-design\n\nh",
+        "likes": 30,
+        "url": "https://x.com/i/status/2063448680808452573"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063448680808452573"
+      ]
+    },
+    {
+      "repo": "crewaiinc/crewai",
+      "github_url": "https://github.com/crewaiinc/crewai",
+      "tier": 3,
+      "is_new": true,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vorty279",
+        "text": "Ai engineers make 150k. the agent stack is free\n\neveryone is hiring people who can wire an autonomous agent. the band starts around 120 to 150k base and the dirty secret is the same as with cuda. none of it is locked behind a course. the frameworks are public, the docs are free, ",
+        "likes": 30,
+        "url": "https://x.com/i/status/2063305670880076050"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063305670880076050"
+      ]
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "github_url": "https://github.com/virgiliojr94/book-to-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 175.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "推荐一个开源项目 book-to-skill，专门解决“书读完就忘”的问题。\n\n它可以把一本技术书直接转换成 Claude Code Skills，将书中的知识结构化保存。下次需要某个知识点时，不用翻几百页 PDF，直接调用对应技能即可。\n\nGitHub：\nhttps://t.co/UMuRocxSAn https://t.co/SMEmaZ83mc",
+        "likes": 15,
+        "url": "https://x.com/i/status/2063560921000329317"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063560921000329317"
+      ]
+    },
+    {
+      "repo": "gemachdao/gdex-skill",
+      "github_url": "https://github.com/gemachdao/gdex-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gemach_io",
+        "text": "One AI agent. One terminal. Real HyperLiquid trades — no UI:\n⚡ leverage long (open + close)\n📉 limit order (rest + cancel)\n🔁 collateral routing (USDC⇄USDH)\n🎲 prediction-market order (2026 NBA Finals)\nInstall in 40+ agents via @skills_sh:\nnpx skills add GemachDAO/gdex-skill\n🔗 https",
+        "likes": 7,
+        "url": "https://x.com/i/status/2063439077270011948"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063439077270011948"
+      ]
+    },
+    {
+      "repo": "bobgourley/proactive-soul",
+      "github_url": "https://github.com/bobgourley/proactive-soul",
+      "tier": 3,
+      "is_new": true,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bobgourley",
+        "text": "Find the Proactive-Soul openclaw skill at:\n\nClawHub: https://t.co/LSEn1yu9pf\nGitHub: https://t.co/2DLij9lu4M https://t.co/xjWsjEocgI",
+        "likes": 4,
+        "url": "https://x.com/i/status/2063356303787893004"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063356303787893004"
+      ]
+    },
+    {
+      "repo": "technicallykiller/canton-skills",
+      "github_url": "https://github.com/technicallykiller/canton-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "divyanshh_kalra",
+        "text": "4/4\n12 skills. Verified.\n\nnpx skills add TechnicallyKiller/Canton-Skills\n\nhttps://t.co/ZWkzPwFQLP\n\n@CantonFdn @ZenithFdn @CantonNetwork \n\nThank you",
+        "likes": 3,
+        "url": "https://x.com/i/status/2063514921502134488"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063514921502134488"
+      ]
+    },
+    {
+      "repo": "funboy322/avoid-ai-design",
+      "github_url": "https://github.com/funboy322/avoid-ai-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ungspirit",
+        "text": "How can you avoid designs that look like they were created by AI?\n\nWe’ve developed a skill to help you remove the obvious and subtle cues that Claude and Codex constantly love to insert into designs.\n\nPost a link to your repository in the chat—ask to run your site through the ski",
+        "likes": 2,
+        "url": "https://x.com/i/status/2063553106680393731"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063553106680393731"
+      ]
+    },
+    {
+      "repo": "eronred/aso-skills",
+      "github_url": "https://github.com/eronred/aso-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "YanStudioX",
+        "text": "Stop ignoring ASO just because it feels like marketing.\n\nRun npx skills add eronred/aso-skills with your AI agent.\n\nGet real-time App Store data and actionable keyword updates directly in your repo.\n\nFollow me for more tech, mobile, and AI insights\n\n#expo #reactnative #react #ski",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063531354877235297"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063531354877235297"
+      ]
+    },
+    {
+      "repo": "open-gsd/gsd-core",
+      "github_url": "https://github.com/open-gsd/gsd-core",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinkAnUnknown",
+        "text": "一个 Skill 解决你项目 90% 的架构问题！\n\n装完之后你的 Codex / ClaudeCode 工作效率直接起飞！Vibe-coders 不需要再自己搭 multi-agent 了！\n\nGSD（GitHub 63.9k）给 Claude Code、Cursor、Codex 直接装上了「工程大脑」——用最结构化、最工程化的方式，帮你把产品从想法变成现实。\n\n一个 Skill 顶一套 multi-agent 团队 👇\n\nvibe-coding时你一定遇到过这些问题：\n\n对话开太久 Claude 开始失忆，也就是出现了ContextRot，这个现象几",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063572546835165293"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063572546835165293"
+      ]
+    },
+    {
+      "repo": "planable/smm-skills",
+      "github_url": "https://github.com/planable/smm-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fandi0x1",
+        "text": "coba make pendekatan lain, premium X untuk dapat menjadi eligible cepet versi developer:\n\n1. X menyediakan X API Developer untuk mendapatkan Informasi Trend Tweet (Pay per Use)\n2. Menggunakan Agentic AI Hermes/Openclaw dengan install Skill:\n     - https://t.co/eyZt5klAM9\n3. Model",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063469475794698595"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063469475794698595"
+      ]
+    },
+    {
+      "repo": "everyinc/compound-engineering-plugin",
+      "github_url": "https://github.com/everyinc/compound-engineering-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dphipps2003",
+        "text": "GitHub - EveryInc/compound-engineering-plugin: Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more · GitHub https://t.co/OvwxPJRLm2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063493972555890861"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063493972555890861"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 400.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DeepTechTR",
+        "text": "🚨 Yapay Zeka Ajanlarında Yeni Dönem: Google'dan Dev Açık Kaynak Hamlesi!🫪\n\nGoogle, yapay zeka ajanlarının (Cursor, Claude Code vb.) kapasitesini zirveye taşıyacak 13 resmi yetenek paketini açık kaynak olarak yayınladı. \n\n🔥 Artık karmaşık bulut sistemlerini yönetmek kelimenin tam ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063576913067569582"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063576913067569582",
+        "https://x.com/i/status/2063570698577051718",
+        "https://x.com/i/status/2063465346485621110",
+        "https://x.com/i/status/2063465342941499488"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 204.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "今天 GitHub Agent 生态又炸了！ \n\n5 个星标暴增最狠的项目，专业拆解：\n\n1. mvanhorn/last30days-skill\n\n你的私人全网情报官 Agent Skill！同时爬 Reddit、X、YouTube、HN、Polymarket 等，给你去水印+ grounded 总结。\n\n🔗 直达：https://t.co/Q7SQ9JmfIc\n\n以前手动挖资料像考古，现在直接雇了个永不睡觉的全网研究员。441+ 星一天，情报战直接进入 Agent 时代！ \n\n2. CopilotKit/CopilotKit\n\nAgent & 生成式",
+        "likes": 28,
+        "url": "https://x.com/i/status/2063453438659445120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063453438659445120"
+      ]
+    },
+    {
+      "repo": "supabase/cli",
+      "github_url": "https://github.com/supabase/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DeepTechTR",
+        "text": "Bu mükemmel bir Bilgi 🚨Claude Code ile verimliliğinizi katlamak isteyenler için en güçlü 14 GitHub reposu: \n\nKaydet lazım olur \n\n1. **Supabase CLI** – Veritabanı migrasyonu ve deploy’ların vazgeçilmezi.  \n   🔗 https://t.co/IVRr6wQPve\n\n2. **Get Sh*t Done** – Karmaşık görevleri hız",
+        "likes": 10,
+        "url": "https://x.com/i/status/2063517286334386466"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063517286334386466"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@manjiripathak16 remotion -&gt; react with a custom animation engine\nhyperframes -&gt; html with GSAP + supports every web library because you can make videos with vanilla HTML\n\ninstall the skill here: npx skills add heygen-com/hyperframes and give it a try!",
+        "likes": 2,
+        "url": "https://x.com/i/status/2063288115171664275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063288115171664275"
+      ]
+    },
+    {
+      "repo": "opusgamelabs/game-creator",
+      "github_url": "https://github.com/opusgamelabs/game-creator",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gamecreatorai",
+        "text": "install here:\nnpx skills add OpusGameLabs/game-creator\n\nand to use it: /make-game [your idea]",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063431748370010149"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063431748370010149"
+      ]
+    },
+    {
+      "repo": "browserbase/skills",
+      "github_url": "https://github.com/browserbase/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "goyalshaliniuk",
+        "text": "3. Browserbase Skills · Free · Find Customers While You Sleep\n\nThe most tedious part of running any business is finding customers.\n\nReading company websites. Qualifying leads. Building prospect lists.\n\nThis GitHub repo automates the entire thing.\n\nYou define your ideal customer p",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063222167316349014"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063222167316349014"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2063279101264417082",
+      "author": "VincentLogic",
+      "text": "终于有人把枯燥的监控面板，做成了一张实时服务地图。\n\nMaple 是一个开源项目，可以把后端系统里的 telemetry 数据，变成可交互、会动的服务依赖图。\n\n对做微服务和分布式系统的人来说，这个痛点太熟了：\n\n日志一堆\n指标一堆\ntrace 一堆\n出问题时还是不知道到底卡在哪个服务、哪条查询、哪个队列\n\nMaple 的思路是直接把数据流画出来：\n\n实时服务依赖\nAPI / 数据库 / Kafka 交互关系\n节点级 p99 延迟、错误率、性能指标\n重查询定位\nOpenTelemetry 接入\n还带 MCP code server，方便 AI Agent",
+      "likes": 495,
+      "views": 0,
+      "url": "https://x.com/i/status/2063279101264417082",
+      "is_kol": false,
+      "score": 1780.0
+    },
+    {
+      "id": "2063261659259400349",
+      "author": "waveking1314",
+      "text": "卧槽兄弟们，AI Agent 时代的应用商店真来了。\n\n推荐一个网站：\n\nhttps://t.co/B3mrGJ9Sv6\n\n里面收录了大量 Agent Skills、MCP Server 和 AI 工具，编程开发、内容创作、数据分析、自动化办公、营销运营基本都能找。\n\n很多 Claude Code、OpenClaw、Codex 相关技能包，也能直接搜到。\n\n最爽的是不用满 GitHub 到处翻仓库。\n\n你直接按场景搜就行：\n\nAI 编程\n自动化工作流\n内容创作\nPPT 生成\n视频处理\n浏览器自动化\nMCP 工具集成\n\n看到合适的项目，直接复制安装命令就能",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2063261659259400349",
+      "is_kol": false,
+      "score": 950.0
+    },
+    {
+      "id": "2063301543147848024",
+      "author": "owen_twb",
+      "text": "@agxdiva yea because it made people think we cheated but if you win a claw machine using only the stick and button even though its supposed to be rigged thats not cheating thats skill",
+      "likes": 298,
+      "views": 0,
+      "url": "https://x.com/i/status/2063301543147848024",
+      "is_kol": false,
+      "score": 894.0
+    },
+    {
+      "id": "2063259050125763045",
+      "author": "heysajib",
+      "text": "We rolled out a new testing tool to our engineering team in one sprint.\n\nIf you've ever tried to push new tooling on a dev team, you know that's basically a miracle.\n\nHere's how it happened: 👇\n\n---\n\nQuick background:\n\nWe ship a SaaS product. AI coding agents are doing a lot of th",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2063259050125763045",
+      "is_kol": false,
+      "score": 557.0
+    },
+    {
+      "id": "2063336153630011728",
+      "author": "dani_avila7",
+      "text": "How NVIDIA's SkillSpector works and How to add It to your skill PRs",
+      "likes": 122,
+      "views": 0,
+      "url": "https://x.com/i/status/2063336153630011728",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2063508353792561196",
+      "author": "masahirochaen",
+      "text": "これは裏技ですが、Claude Codeで資料を作る際は、まず骨格だけを作り、その後ブラウザ操作でManusを動かして資料化すると、精度が高くなります。\n\n加えて、トークンの節約にもなります。\n\nClaude Codeでの資料作成はこれまで、\n\n・HTML/CSS方式\n・直接PowerPointを作成\n・GPT Image 2で画像生成\n\nなど、いろいろ試してきましたが、現時点ではManusを直接操作する方法が一番精度が安定する印象です。\n\nAPIがないツールでも、ブラウザ操作で動かすという発想は、Claude Code活用のレベルを一段階上げてくれます",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2063508353792561196",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2063297363251511777",
+      "author": "aiDotEngineer",
+      "text": "OpenClaw hit 3,000 commits in a single day. 10 to 15 maintainers. All with day jobs.\n\n@vincent_koc (Chief Architect of OpenClaw) explains how the factory actually works.\nhttps://t.co/sljeeqUxrJ\n\nThe great refactor: 2 AM, Vincent and Peter at NVIDIA, 60 to 70 agents running betwee",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2063297363251511777",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2063443048458264603",
+      "author": "vista8",
+      "text": "Mac软件开发上架，从未如此简单，正面刚App Store啊！\n\n终于等到 @raycast 新AI工具 Glaze @glazeapp 的内测邀请。\n\n一句话 AI 生成Mac 软件并发布上架。\n\n我正在用Spotify  API开发一个类似Pandora的音乐电台。\n\n体验了内置Store，一键安装了几个App，功能不复杂，但体验接近原生。\n\n如图片标注工具，Agent Skill管理工具等",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2063443048458264603",
+      "is_kol": false,
+      "score": 387.0
+    },
+    {
+      "id": "2063294286603681830",
+      "author": "BaseHubHB",
+      "text": "Top launches on @base this week\n\n@AskVenice - launched Built in Venice, a directory for apps, agents, SDKs, and experiments built with Venice inference.\n\n@AskSurplus - upgraded its inference marketplace with better model discovery, pricing visibility, and order-fill simulation.\n\n",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2063294286603681830",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2063382647943143758",
+      "author": "_Evan_Boyle",
+      "text": "My favorite new feature in the GitHub Copilot App: Canvases.\n\nAgent-created, agent-driven apps.\n\nCopilot has a built-in skill for creating and editing them. They hot reload in real time. They can talk to your agent, and your agent can talk back.\n\nHyper-personalization is here. ht",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2063382647943143758",
+      "is_kol": false,
+      "score": 323.0
+    },
+    {
+      "id": "2063503368459346143",
+      "author": "iam_elias1",
+      "text": "How many times have you needed honest feedback but did not want to bother your colleague?\n\nThis Claude Code plugin just solved that problem.\n\nIt is called SynthTeam. Built by Nick Winder. Free. MIT licensed. And the idea behind it is one of the most original things I have seen in",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2063503368459346143",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2063493657190355295",
+      "author": "Ai_Tech_tool",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.             \n\nSpend 1 hour with this.               \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.               \n\nThe people who watch this tonight will wake up tomorrow with a new skill.               \n\nWatch it",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2063493657190355295",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2063493887067566164",
+      "author": "Dipanshu_AI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now. https://t.co/HOyq0jy1ib",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2063493887067566164",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2063420146174119991",
+      "author": "usr_bin_roygbiv",
+      "text": "Longpost about the biggest misconception I see people having by FAR on LLMs right now.\n\nKnow the difference between the harness, the model, and serving inference.\n\nVast majority of problems I see people having right now are due to the harness. Each provider has it's own unique th",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2063420146174119991",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2063377524134981870",
+      "author": "EkstraAi",
+      "text": "https://t.co/PLLAMKF6cH\n\n1500 for MCP server drop tonight.",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2063377524134981870",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2063548198195777847",
+      "author": "Suryanshti777",
+      "text": "Claude Code users are split into two\ngroups right now.\n\nGroup 1 is prompting it like a smarter Copilot and getting smarter Copilot results.\n\nGroup 2 gave it a memory, a planning phase, dedicated MCPs for each stage of development, and pre-written prompts that make it think like a",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2063548198195777847",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2063367928721109070",
+      "author": "defileo",
+      "text": "THIS GUY IS MAKING $5,090 WITH JUST ONE AI TOOL AND HERE'S EXACTLY HOW TO COPY IT.\n\nHiggsfield MCP wired into Claude turns one conversation into a full marketing machine, here's the exact workflow:\n\n> Step 1: Connect Higgsfield MCP to Claude in 2 minutes, go to Connectors, paste ",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2063367928721109070",
+      "is_kol": false,
+      "score": 176.0
+    }
+  ]
+}

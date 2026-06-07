@@ -3358,5 +3358,61 @@
   "thaungthanhan/hermes-omnivoice": {
     "first_seen": "2026-06-06",
     "tier": 3
+  },
+  "op7418/humanizer-zh": {
+    "first_seen": "2026-06-07",
+    "tier": 2
+  },
+  "panniantong/agent-reach": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "pascalorg/editor": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "jimliu/baoyu-design": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "crewaiinc/crewai": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "virgiliojr94/book-to-skill": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "gemachdao/gdex-skill": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "bobgourley/proactive-soul": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "technicallykiller/canton-skills": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "funboy322/avoid-ai-design": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "eronred/aso-skills": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "open-gsd/gsd-core": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "planable/smm-skills": {
+    "first_seen": "2026-06-07",
+    "tier": 3
+  },
+  "everyinc/compound-engineering-plugin": {
+    "first_seen": "2026-06-07",
+    "tier": 3
   }
 }
