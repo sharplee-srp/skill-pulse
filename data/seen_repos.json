@@ -3414,5 +3414,49 @@
   "everyinc/compound-engineering-plugin": {
     "first_seen": "2026-06-07",
     "tier": 3
+  },
+  "gauss314/skills": {
+    "first_seen": "2026-06-08",
+    "tier": 2
+  },
+  "chopratejas/headroom": {
+    "first_seen": "2026-06-08",
+    "tier": 2
+  },
+  "lucasqin77/serenity-watch": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "anthropics/courses": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "traderalice/openalice": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "lynx-community/skills": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "chillicream/graphql-schema-design": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "14h034160212/serenity-skills": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "granth16/screenshot-gen-appstore": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "chubbyguan/chubbyskills": {
+    "first_seen": "2026-06-08",
+    "tier": 3
+  },
+  "joshp123/ai-stack": {
+    "first_seen": "2026-06-08",
+    "tier": 3
   }
 }

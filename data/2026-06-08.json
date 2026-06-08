@@ -1,0 +1,640 @@
+{
+  "date": "2026-06-08",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 21,
+    "unique_repos": 21,
+    "new_repos": 11,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "gauss314/skills",
+      "github_url": "https://github.com/gauss314/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 645.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 170,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JohnGalt_is_www",
+        "text": "Hice 30 skills para los alumnos de la facu que cubren todas las fuentes de datos de finanzas que hay, la comparto aca\n\nnpx skills add gauss314/skills\n\nSi no saben lo que es, pero usan IA para finanzas, le pueden decir a claude que use  el repo https://t.co/jsT1a547s9",
+        "likes": 170,
+        "url": "https://x.com/i/status/2063963600981574032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063963600981574032"
+      ]
+    },
+    {
+      "repo": "chopratejas/headroom",
+      "github_url": "https://github.com/chopratejas/headroom",
+      "tier": 2,
+      "is_new": true,
+      "score": 511.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 112,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GuarEmperor",
+        "text": "New setup agent from me\n\nask your agent before use github skill (review)\n\nCompress llm :\nhttps://t.co/TXbKxVQV27\n\nagent reach :\nhttps://t.co/zgdUuyeqyc\nhttps://t.co/yK6DEvipp3\nhttps://t.co/h3caNKbT2g\n\nNFTs :\nhttps://t.co/9Q9VS4vShe\n\nDlmm meteora :\nhttps://t.co/w61DrkZIA1\n\nTrenche",
+        "likes": 112,
+        "url": "https://x.com/i/status/2063960415441453455"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063960415441453455"
+      ]
+    },
+    {
+      "repo": "lucasqin77/serenity-watch",
+      "github_url": "https://github.com/lucasqin77/serenity-watch",
+      "tier": 3,
+      "is_new": true,
+      "score": 578.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 56,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LucasQin77",
+        "text": "I built an Agent Skill for Serenity @aleabitoreddit .\n\nIt turns Serenity’s public X posts into two things:\n\n1. an interactive stock mention dashboard\n2. an AI summary for any ticker\n\nThe dashboard shows which stocks were mentioned, how often, and whether each mention looks bullis",
+        "likes": 66,
+        "url": "https://x.com/i/status/2063954133778894944"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063954133778894944"
+      ]
+    },
+    {
+      "repo": "anthropics/courses",
+      "github_url": "https://github.com/anthropics/courses",
+      "tier": 3,
+      "is_new": true,
+      "score": 323.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Faazsh",
+        "text": "Claude Official Learning Resources\n\nAll in one place: (save this)\n\n1. Anthropic Learn: https://t.co/8FfKT8FmPB\n2. Build With Claude: https://t.co/2ZIjCrG7rF\n3. Claude Documentation: https://t.co/c2rZdcimOI\n4. Prompt Engineering Overview: https://t.co/hBLh1aIn22\n5. Prompting Best ",
+        "likes": 36,
+        "url": "https://x.com/i/status/2063888529885905206"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063888529885905206"
+      ]
+    },
+    {
+      "repo": "traderalice/openalice",
+      "github_url": "https://github.com/traderalice/openalice",
+      "tier": 3,
+      "is_new": true,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xcherry",
+        "text": "OpenAlice Github 5000星星了，按照惯例发表一下获奖感言。\n\n首先感谢大家理解和支持。OpenAlice 最开始的时候照抄 OpenClaw，号称要把交易全链路自动化。\n\n这是一个很远大的目标。不过第一版的工程结构还真就是这么写的。刨去一万个 bug 不谈，至少从发布的流量来看，市场很需要这样的产品。\n\n项目火了，孩子大了，群里开始不断进来连 vscode 都不认识的新人用户。这个时候我突然意识到，再留这么多 bug 就是对社区的不负责了。\n\n交易按流程可以分成投前、投中、投后三个部分，其中痛感最大的是投前，因为人在没交易的时候是最犹豫",
+        "likes": 30,
+        "url": "https://x.com/i/status/2063886587684069628"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063886587684069628"
+      ]
+    },
+    {
+      "repo": "lynx-community/skills",
+      "github_url": "https://github.com/lynx-community/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jonathanfilbert",
+        "text": "🎉The lynx-ui skill has been released! Use it with your favorite coding agents to supercharge your @LynxJS_org dev with lynx-ui! \n\n🤖  npx skills add lynx-community/skills\n\n📷 Watch the demo to see how fast we can integrate a lynx-ui Dialog and how accurate it is to debug issues. Le",
+        "likes": 4,
+        "url": "https://x.com/i/status/2063855283135566256"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063855283135566256"
+      ]
+    },
+    {
+      "repo": "chillicream/graphql-schema-design",
+      "github_url": "https://github.com/chillicream/graphql-schema-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "michael_staib",
+        "text": "Schema mistakes are cheap to make and expensive to fix.\n\nThe new graphql-schema-design skill from ChilliCream helps your AI agent review GraphQL schemas using best practices for connections, mutations, errors, naming, and schema evolution.\n\nGet started:\n\n→ npx skills add chillicr",
+        "likes": 3,
+        "url": "https://x.com/i/status/2063908944129761583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063908944129761583"
+      ]
+    },
+    {
+      "repo": "14h034160212/serenity-skills",
+      "github_url": "https://github.com/14h034160212/serenity-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qiming_bao",
+        "text": "@aleabitoreddit The edge: instead of chasing mega-cap \"shovel sellers,\" it traces hyperscaler AI capex UPSTREAM to the mispriced bottleneck — optical/CPO, InP, HBM, power.\n\nThat lens is also a standalone skill:\nnpx skills add 14H034160212/serenity-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063962135328444688"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063962135328444688"
+      ]
+    },
+    {
+      "repo": "granth16/screenshot-gen-appstore",
+      "github_url": "https://github.com/granth16/screenshot-gen-appstore",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GranthJ74825378",
+        "text": "Install in one line:\nnpx skills add granth16/screenshot-gen-appstore\nWorks across Cursor, Claude Code, Windsurf, Codex + 40 more.\n\nJust say \"make screenshots for my app\" and answer a few questions",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063958159883129008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063958159883129008"
+      ]
+    },
+    {
+      "repo": "chubbyguan/chubbyskills",
+      "github_url": "https://github.com/chubbyguan/chubbyskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Chubbyguan",
+        "text": "开源了我自己每天都在用的 AI Skill 工具箱，11 个全放 GitHub 了。\n\n抖音/B站/TikTok/微博/知乎/YouTube 视频一键转文字，播客转录，公众号处理，行业情报雷达，学习笔记自动化。\n\n11分钟视频 22秒转完。中文识别比 Whisper 强。\n\n📹 先说视频转录，这是我最常用的。\n\n覆盖抖音、B站、TikTok、微博、知乎、YouTube 六个平台。丢链接进去，自动下载音频、语音识别、输出 Markdown 笔记。\n\n用的是阿里开源的 SenseVoice-Small，中文识别率比 Whisper 高一大截。速度尤其离谱——",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063954747917471843"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063954747917471843"
+      ]
+    },
+    {
+      "repo": "joshp123/ai-stack",
+      "github_url": "https://github.com/joshp123/ai-stack",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jjpcodes",
+        "text": "https://t.co/a4JfzgFp2k\n\nthis is my current metaprompting skill, imo the loops deal is less about reactive work yet, and more about getting agents to converge with less human steering\n\nreactive agent farming work CAN be good imo  but only for well defined work on predictable inbo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063881603923804405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063881603923804405"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 312.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nett0eth",
+        "text": "Cobre BigQuery, Cloud Run, Firebase, GKE, Gemini API e mais.\n\nFunciona com Claude Code, Gemini CLI, Codex e outros. Apache 2.0.\n\nComando: npx skills add google/skills\nhttps://t.co/NWyGKM9CE2",
+        "likes": 3,
+        "url": "https://x.com/i/status/2063806830489297344"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063922150206230625",
+        "https://x.com/i/status/2063880990846824734",
+        "https://x.com/i/status/2063806830489297344"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 201.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Axel_bitblaze69",
+        "text": "There are thousands of claude skills on github now.. and that's the problem..\n\nbecause installing one is easy but finding the right one is the hard part.. \n\nyou keep opening readme after readme, not even sure it fits what you're doing..\n\nfind-skills fixes that. \n\nit's basically a",
+        "likes": 22,
+        "url": "https://x.com/i/status/2063882789863530771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063882789863530771"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Kellymetax",
+        "text": "别再让你的小龙虾闲着了\n\n分享几个适合装在OpenClaw ，币圈必备的几个SKILL\n\n包括Meme狙击、链上交易、合约/现货自动化装）等\n\n装SKILL 一定要装官方的，安全性高、风险小\n\n1.Token Security & Address Insight（风险控制必备）\n适合：扫描 honeypot、合约审计、聪明钱追踪、持仓分析。\n 安装（通常包含在 Binance/OKX Hub 中，或单独）：\n【Install Token Audit: npx skills add binance/binance-skills-hub --skill qu",
+        "likes": 5,
+        "url": "https://x.com/i/status/2063833081401016383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063833081401016383"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Kellymetax",
+        "text": "别再让你的小龙虾闲着了\n\n分享几个适合装在OpenClaw ，币圈必备的几个SKILL\n\n包括Meme狙击、链上交易、合约/现货自动化装）等\n\n装SKILL 一定要装官方的，安全性高、风险小\n\n1.Token Security & Address Insight（风险控制必备）\n适合：扫描 honeypot、合约审计、聪明钱追踪、持仓分析。\n 安装（通常包含在 Binance/OKX Hub 中，或单独）：\n【Install Token Audit: npx skills add binance/binance-skills-hub --skill qu",
+        "likes": 5,
+        "url": "https://x.com/i/status/2063833081401016383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063833081401016383"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Kellymetax",
+        "text": "别再让你的小龙虾闲着了\n\n分享几个适合装在OpenClaw ，币圈必备的几个SKILL\n\n包括Meme狙击、链上交易、合约/现货自动化装）等\n\n装SKILL 一定要装官方的，安全性高、风险小\n\n1.Token Security & Address Insight（风险控制必备）\n适合：扫描 honeypot、合约审计、聪明钱追踪、持仓分析。\n 安装（通常包含在 Binance/OKX Hub 中，或单独）：\n【Install Token Audit: npx skills add binance/binance-skills-hub --skill qu",
+        "likes": 5,
+        "url": "https://x.com/i/status/2063833081401016383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063833081401016383"
+      ]
+    },
+    {
+      "repo": "fseixas/super-geo-agent-readiness",
+      "github_url": "https://github.com/fseixas/super-geo-agent-readiness",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fseixas",
+        "text": "Atualizei a skill Super GEO Agent Readiness com os aprendizados do excelente estudo da @ahrefs publicado aqui: https://t.co/1Bh8NCLyr6\n\nPra instalar: npx skills add fseixas/super-geo-agent-readiness\n\nhttps://t.co/4Q9fbJkBPB",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063957801936814520"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063957801936814520"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Build your own AI and technology basket with Byreal Perps Agent Skills.\n\nGo long or short $BB, $DELL, $TSM, $PLTR, and $ARM, and execute multiple positions through a single agent workflow. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/BT5y44H38B",
+        "likes": 1,
+        "url": "https://x.com/i/status/2063882422962536498"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063882422962536498"
+      ]
+    },
+    {
+      "repo": "mustbesimo/cinematic-scroll-skill",
+      "github_url": "https://github.com/mustbesimo/cinematic-scroll-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mustbesimo",
+        "text": "Live demos: https://t.co/sjGmaX9cMf \n\nRepo (MIT): https://t.co/tNXDiFahGx \n\nInstall: npx skills add MustBeSimo/cinematic-scroll-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063837795148546306"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063837795148546306"
+      ]
+    },
+    {
+      "repo": "affaan-m/ecc",
+      "github_url": "https://github.com/affaan-m/ecc",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TeksCreate",
+        "text": "ECC is the most overlooked repo at 196K stars.\n\nIt's an agent harness performance system — skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cursor, and OpenClaw.\n\nHere's what it actually does that nobody's talking about:\n\nIt gives your c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063910519199666183"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063910519199666183"
+      ]
+    },
+    {
+      "repo": "aipoch/medical-research-skills",
+      "github_url": "https://github.com/aipoch/medical-research-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alacritic_Super",
+        "text": "What if your AI agent had a PhD-level toolkit for medical research?\n\nThat's the idea behind AIPOCH Medical Research Skills.\n\nAnd it might be one of the largest domain-specific agent skill libraries released so far.\n\nInstead of giving an AI a generic prompt, AIPOCH equips agents w",
+        "likes": 0,
+        "url": "https://x.com/i/status/2063790618187542753"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2063790618187542753"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2063792263067754658",
+      "author": "bcherny",
+      "text": "Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate hundreds/thousan",
+      "likes": 2433,
+      "views": 0,
+      "url": "https://x.com/i/status/2063792263067754658",
+      "is_kol": false,
+      "score": 8224.0
+    },
+    {
+      "id": "2063897974871400928",
+      "author": "AITECHio",
+      "text": "Weekly Development Update!\n\nDevelopment continues across the Compute Marketplace and Agent Forge, with ongoing improvements focused on workflow reliability, usability, integrations, and expanding agent capabilities.\n\nCompute Marketplace\n• CDC platform development continues \n\nAgen",
+      "likes": 396,
+      "views": 0,
+      "url": "https://x.com/i/status/2063897974871400928",
+      "is_kol": false,
+      "score": 1628.0
+    },
+    {
+      "id": "2063831863731634384",
+      "author": "eplus",
+      "text": "every single thing /trythreews has posted, in order. one platform, one coin: solana:FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump\n\n(i plan to cover the search engine version soon, this is just from their official X account) \n\nApr 29  -  listed on the official /AnthropicAI MCP Regi",
+      "likes": 167,
+      "views": 0,
+      "url": "https://x.com/i/status/2063831863731634384",
+      "is_kol": false,
+      "score": 791.0
+    },
+    {
+      "id": "2063932295887601765",
+      "author": "angelsharmin21",
+      "text": "The Agent Economy Is Here. Most People Haven't Noticed Yet.\n\nWe keep talking about AI like it's a tool.\nA chatbot. A copilot. Something you prompt and it responds.\n\nBut that mental model is already obsolete.\n\nThe real shift happening right now is from AI as tool → AI as worker. A",
+      "likes": 244,
+      "views": 0,
+      "url": "https://x.com/i/status/2063932295887601765",
+      "is_kol": false,
+      "score": 747.0
+    },
+    {
+      "id": "2063901313578963072",
+      "author": "AdinaYakup",
+      "text": "Macaron-V1-Preview-749B 👀 a Mixture-of-LoRA personal agent model from MindLab \n\n✨ 744B base + 5 specialist LoRAs\n✨ Generative UI as a core skill\n✨ Personal agent focused\n✨ 202K context\n✨ MIT license https://t.co/OkjxKEThzZ",
+      "likes": 202,
+      "views": 0,
+      "url": "https://x.com/i/status/2063901313578963072",
+      "is_kol": false,
+      "score": 716.0
+    },
+    {
+      "id": "2063926824988766292",
+      "author": "Ayishah_Afreen",
+      "text": "⚡ For years, $KAS holders have been waiting for meaningful DeFi infrastructure, and @AppKaskad is delivering exactly that.\n\n🚀 Deposit iKAS, borrow stablecoins without selling your KAS, and stay exposed to future upside while putting assets to work.\n\n🤖 AI-powered automation throug",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2063926824988766292",
+      "is_kol": false,
+      "score": 531.0
+    },
+    {
+      "id": "2063927330268185068",
+      "author": "Mim_1331",
+      "text": "🤖 AI and DeFi are gradually becoming more connected, and @AppKaskad is one of the projects exploring that future.\n\nThrough its open-source MCP server, AI agents can interact with the protocol to assist with portfolio management, strategy execution, and yield optimization.\n\n🚀 At t",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2063927330268185068",
+      "is_kol": false,
+      "score": 523.0
+    },
+    {
+      "id": "2063927693583003695",
+      "author": "Crypto_ProCalls",
+      "text": "The Kaspa ecosystem is evolving fast, and @AppKaskad is helping unlock a new chapter for $KAS holders.\n\n🚀 Users can deposit iKAS, access stablecoin liquidity, and maintain exposure to KAS without needing to sell.\n\n🤖 What makes it different is AI integration through an open-source",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2063927693583003695",
+      "is_kol": false,
+      "score": 520.0
+    },
+    {
+      "id": "2063911763360231839",
+      "author": "maarcoofdezz",
+      "text": "Claude Code no solo escribe código: puede convertirse en un sistema de agentes de IA\n\nLa verdadera potencia no está en pedirle “hazme esto”.\nEstá en construir un flujo donde la IA tenga contexto, memoria, habilidades, roles y ejecución automática.\nUna forma simple de entenderlo e",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2063911763360231839",
+      "is_kol": false,
+      "score": 423.0
+    },
+    {
+      "id": "2063878700677079216",
+      "author": "ekinoks_26",
+      "text": "Messari pivoted to AI-first this year. Kaito owns the social signal and mindshare layer. Nansen still leads on wallet intelligence. Every serious crypto researcher is running at least three of these tools simultaneously, paying for each separately, and manually reconciling what t",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2063878700677079216",
+      "is_kol": false,
+      "score": 360.0
+    },
+    {
+      "id": "2063703857851732446",
+      "author": "mvanhorn",
+      "text": "Alpha from the claw father @steipete. If you’re ever going to do something more than once, make sure you turn that into an automated skill. Or if you ever do something hard, make sure to turn it into a skill for next time afterwards.",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2063703857851732446",
+      "is_kol": false,
+      "score": 351.0
+    },
+    {
+      "id": "2063819349056434226",
+      "author": "TheMobFather007",
+      "text": "Base launched Base MCP on May 26, connecting AI agents like Claude and ChatGPT directly to onchain DeFi actions via natural language prompts. Six protocols are live at launch - $UNI Uniswap, $MORPHO Morpho, Moonwell, Aerodrome, Avantis, and Bankr - covering swaps, lending, perps ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2063819349056434226",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2063919429784829981",
+      "author": "Cz_Force",
+      "text": "⚡ Holding $KAS for years and finally seeing real DeFi utility emerge is exciting.\n\n🚀 With @AppKaskad, you can deposit iKAS, borrow stablecoins without selling your KAS, and keep exposure to potential upside while earning yield.\n\n🤖 What stands out is the AI-native approach: an ope",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2063919429784829981",
+      "is_kol": false,
+      "score": 292.0
+    },
+    {
+      "id": "2063939142845956416",
+      "author": "KevinWSHPod",
+      "text": "Gm Folks\nWe are back!\n\nThis is another edition of the Predict Alpha Report, our bi-monthly collaboration with Coinsilium tracking the rise of prediction markets, event-driven finance, and the growing role of AI agents within it. Each edition focuses on the signals that matter, fr",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2063939142845956416",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2063832283736387900",
+      "author": "dojintanuki",
+      "text": "Base launched an MCP gateway on May 26, letting AI agents like Claude and ChatGPT execute onchain DeFi actions through natural language prompts - without exposing private keys.\n\nSix protocols are integrated at launch, including $UNI and $AERO for swaps, $MORPHO and $WELL for lend",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2063832283736387900",
+      "is_kol": false,
+      "score": 284.0
+    },
+    {
+      "id": "2063826593546424700",
+      "author": "carolynkakaoo",
+      "text": "Base launched Base MCP on May 26, connecting AI agents like Claude and ChatGPT directly to DeFi protocols through natural language prompts.\n\nUsers can now initiate swaps, lending, and perpetual trading across six integrated protocols including $UNI, $MORPHO, and $AVANTIS without ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2063826593546424700",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2063860834535714887",
+      "author": "Appetiteldn",
+      "text": "$BASE just launched its MCP Gateway, letting AI agents like Claude and ChatGPT execute onchain DeFi actions through natural language prompts without users ever leaving the chat environment.\n\nThe tool connects to six protocols at launch - including $UNI, $MORPHO, and $AVANTIS - an",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2063860834535714887",
+      "is_kol": false,
+      "score": 268.0
+    },
+    {
+      "id": "2063871162250305592",
+      "author": "pharos_network",
+      "text": "🎙️ Tune in as the Skill-to-Agent Dual Cascade Hackathon AMA goes live today!\n\nHear directly from @wishlonger (Co-founder & CEO, Pharos) and @hszcg (Founder, @AnvitaFlow), hosted by @0xqiuqiuu of @OpenBuildxyz\n\nEverything builders need to know about the 50,000 $PROS hackathon — tr",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2063871162250305592",
+      "is_kol": false,
+      "score": 263.0
+    }
+  ]
+}
