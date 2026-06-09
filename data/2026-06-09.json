@@ -1,0 +1,488 @@
+{
+  "date": "2026-06-09",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 168,
+    "tweets_with_repos": 21,
+    "unique_repos": 14,
+    "new_repos": 8,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 1,
+      "is_new": true,
+      "score": 642.0,
+      "mention_count": 6,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "toolfolio",
+        "text": "Someone just Open Sourced a way to generate production-ready Lottie animations with Claude Code/Codex\n\nInstall one skill:\n\nnpx skills add diffusionstudio/lottie\n\nDescribe the animation and get a real Lottie file\n\nhttps://t.co/844k9Ng7o9",
+        "likes": 12,
+        "url": "https://x.com/i/status/2064260239260880981"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064260239260880981",
+        "https://x.com/i/status/2064298857505133032",
+        "https://x.com/i/status/2064287479767716300",
+        "https://x.com/i/status/2064224090429260081",
+        "https://x.com/i/status/2064184011824771100",
+        "https://x.com/i/status/2064166525528146212"
+      ]
+    },
+    {
+      "repo": "lucieeveille/kiwi-mem",
+      "github_url": "https://github.com/lucieeveille/kiwi-mem",
+      "tier": 3,
+      "is_new": true,
+      "score": 325.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "luicethekiwi",
+        "text": "后端记忆网关 Kiwi-Mem v1.1.0 更新！🥝🥝🥝\nhttps://t.co/CfGvDhQesP\n\n这次更新了四个大功能。\n———\n🔌 Anthropic 原生格式支持\n以前 kiwi-mem 只能接 OpenAI 兼容格式的 API。\n大多数服务商都是这个格式，所以一直够用。\n但如果直接买了 Anthropic 的 API Key，就得找个中转站先把格式转一道，多一层延迟，多一个故障点。\n现在在管理面板的供应商设置里选「Anthropic 原生」，\n\nKiwi-Mem 会在内部自动做格式转换：\n请求方向：把 OpenAI 格式的 messag",
+        "likes": 75,
+        "url": "https://x.com/i/status/2064261124825190762"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064261124825190762"
+      ]
+    },
+    {
+      "repo": "danny-avila/librechat",
+      "github_url": "https://github.com/danny-avila/librechat",
+      "tier": 3,
+      "is_new": true,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x0SojalSec",
+        "text": "Runs every model , ChatGPT runs, plus Claude, Gemini, DeepSeek, and 20 more on my own server, under my own control, with no platform fee.\n\nLibreChat connects to any Agents, Skills, MCP server natively. That means every tool, every integration, every workflow you've built plugged ",
+        "likes": 25,
+        "url": "https://x.com/i/status/2064055383564697700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064055383564697700"
+      ]
+    },
+    {
+      "repo": "zlanqing/codex-claude-academic-skills",
+      "github_url": "https://github.com/zlanqing/codex-claude-academic-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "为中文科研工作者提供一套集成化 AI 学术技能包，覆盖论文写作、学术 Office 文档生成与科研计算三大场景。\n\nhttps://t.co/rtT5cphqw1\n\n三个技能包，分别管论文写作、学术 Office 文档和科研计算，都能在 Claude Code 和 Codex 上直接用。\n\nresearch-writing-skill 写论文改稿子回审稿人，默认用中文。office-academic-skill 做文献报告、组会 PPT、答辩 PPT，输出可编辑的文件。scientific-toolkit-skill 面向光电方向，包装了 MATLAB/",
+        "likes": 2,
+        "url": "https://x.com/i/status/2064297705099169886"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064297705099169886"
+      ]
+    },
+    {
+      "repo": "superagents-lab/xcode27-skills",
+      "github_url": "https://github.com/superagents-lab/xcode27-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fatwang2ai",
+        "text": "Just shipped: Xcode 27 Skills 🚀\n\n7 official Agent Skills exported from Apple's Xcode 27 — SwiftUI, UIKit, Swift Testing, C bounds-safety & security — for Claude Code, Codex & other AI agents.\n\nnpx skills add superagents-lab/xcode27-skills\n\nhttps://t.co/a3OCOGigsh",
+        "likes": 3,
+        "url": "https://x.com/i/status/2064271249803804917"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064271249803804917"
+      ]
+    },
+    {
+      "repo": "sailscastshq/boring-stack",
+      "github_url": "https://github.com/sailscastshq/boring-stack",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dominus_Kelvin",
+        "text": "@skrrr1109 It works on any agents just install with npx skills add sailscastshq/boring-stack/skills/frugal-architect",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064301782164017583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064301782164017583"
+      ]
+    },
+    {
+      "repo": "mattpocock/skill",
+      "github_url": "https://github.com/mattpocock/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "laungaiyin",
+        "text": "/teach 功能正式上线：学习任何技能，从魔方到声乐和谐再到软件基础。npx skills add mattpocock/skill --skill teach。这是最好的学习工具。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064243367366787348"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064243367366787348"
+      ]
+    },
+    {
+      "repo": "jackzhong2017/body-root-cause-skill",
+      "github_url": "https://github.com/jackzhong2017/body-root-cause-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_jack_zone_",
+        "text": "输出结构：\n\n根本原因 / 触发因素 / 维持因素 三层分离\n补剂优先级表（P1→P5）+ 剂量 + 服用时机\n禁忌成分提示 + 就医建议\n\n兼容 Claude Code 和 OpenClaw 两个平台\n\nClaude Code 安装：\n\nmkdir -p ~/.claude/skills\ngit clone https://t.co/LKV0wzi56k \\\n  ~/.claude/skills/body-root-cause\nOpenClaw 直接说：\n「Install this skill: https://t.co/Z8pWl5KCfw」",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064237606406431182"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064237606406431182"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "muxuuu/serenity-skill",
+      "github_url": "https://github.com/muxuuu/serenity-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 492.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 79,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SUOHA_AI",
+        "text": "25秒的视频--用白毛股神 Serenity 的Skill 研究股票\n\nSerenity @aleabitoreddit  的推文影响力太大了，喊什么涨什么，A股几百亿市值的股，她一篇推文就能直接拉 20%\n\nGitHub 上已经有很多把她方法论蒸馏成 AI Skill 的项目，我挑来挑去，最后选了目前最系统、最完整的一个——muxuuu/serenity-skill\n\nhttps://t.co/4fpSRzjH6m\n\n这个GitHub开源项目把她全部公开推文里的投研路径，系统做成了可直接安装的 Agent Skill，装完后，你就能用 Claude c",
+        "likes": 73,
+        "url": "https://x.com/i/status/2064229472094539784"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064264811341562148",
+        "https://x.com/i/status/2064229472094539784"
+      ]
+    },
+    {
+      "repo": "jimliu/baoyu-design",
+      "github_url": "https://github.com/jimliu/baoyu-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 297.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "baoyu-design skill 现在支持导入 Design System，以及在新建项目时添加导入的 Design System\n\n比我想的要麻烦的多：https://t.co/lz3kX0V31s\n\n好在效果不错，保留了 Claude Design 原始的导入设计系统和编译设计系统的方式，可以通过提问的访问让用户选择导入好的设计系统！\n\nnpx skills add JimLiu/baoyu-design",
+        "likes": 54,
+        "url": "https://x.com/i/status/2064182459718091202"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064182459718091202"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ai_edisonZ",
+        "text": "发现一个挺有意思的开源项目：last30days-skill，GitHub 3.5 万 star。\n准备亲测一下效果\n\n简单说它就是一个社媒多平台搜索的skill，输入：` /last30days xxx`，它会去 Reddit、X、YouTube、HN、Polymarket、GitHub 这些地方，把最近 30 天的讨论扒一遍，最后合成一份带引用的简报。\n\n写东西前我大部分时间耗在调研上，Reddit 开一个 tab，X 开一个 tab，YouTube 再开一个。一个话题翻下来，1个小时没了。\n\nv3 的「智能预研」还会做智能拓扑查询。你搜 OpenC",
+        "likes": 3,
+        "url": "https://x.com/i/status/2064252881163731129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064252881163731129",
+        "https://x.com/i/status/2064286665053815216"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 172.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sentient_agency",
+        "text": "I'm going to stop paying my marketing consultant because of this.\n\nA well-known marketer named Corey Haines open-sourced his entire playbook as skills you drop into Claude Code, and your AI agent instantly knows how to run real marketing.\n\nIt's called marketingskills.\n\nNot prompt",
+        "likes": 9,
+        "url": "https://x.com/i/status/2064301138065977728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064301138065977728"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@IsaacXVoxel no need for links, just share this to your AI agent: npx skills add heygen-com/hyperframes\n\nalthough we have a link yep: https://t.co/HxKjEzmaxH",
+        "likes": 1,
+        "url": "https://x.com/i/status/2064206978289684647"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064206978289684647"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "laungaiyin",
+        "text": "/teach 技能已经上线了！从魔方到声乐到软件基础，什么都能学。安装命令：npx skills add mattpocock/skills --skill teach。这是我最实用的技能，视频教程即将发布。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064204462504452497"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064204462504452497"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2064120455808888873",
+      "author": "figma",
+      "text": "The Figma MCP Server is now supported in Xcode #WWDC https://t.co/WDy9qFtkd8",
+      "likes": 840,
+      "views": 0,
+      "url": "https://x.com/i/status/2064120455808888873",
+      "is_kol": true,
+      "score": 2820.0
+    },
+    {
+      "id": "2064042109288472664",
+      "author": "fyreinteractive",
+      "text": "opus 4.8 dropped and you can now run an ENTIRE faceless youtube channel from ONE chat...\n\njust connect Nexlev + ElevenLabs + Canva + inVideo AI into claude with MCPs\n\nand voilá:\n\n> one prompt does the research\n> voiceover, thumbnail and edit, no tab-switching\n> the channel even s",
+      "likes": 267,
+      "views": 0,
+      "url": "https://x.com/i/status/2064042109288472664",
+      "is_kol": false,
+      "score": 1186.0
+    },
+    {
+      "id": "2064156105635455237",
+      "author": "Hoshino_Sokichi",
+      "text": "【裏技】NotebookLM×Claude・MCP連携させたら面倒な仕事が消えました",
+      "likes": 347,
+      "views": 0,
+      "url": "https://x.com/i/status/2064156105635455237",
+      "is_kol": false,
+      "score": 1146.0
+    },
+    {
+      "id": "2064147067728207898",
+      "author": "karrisaarinen",
+      "text": "I want an agent workflow tool.\n\nIt should let me:\n- describe work items and plans\n- assign tasks to agents\n- review code diffs\n- work multiplayer with my team\n- collect customer context from many places\n-define shared skills and MCP servers\n- use it fully from slack",
+      "likes": 346,
+      "views": 0,
+      "url": "https://x.com/i/status/2064147067728207898",
+      "is_kol": false,
+      "score": 1068.0
+    },
+    {
+      "id": "2064240919021228351",
+      "author": "_philschmid",
+      "text": "Google Colab CLI and Skills are out. Full Colab runtimes from your terminal.\n\n-  GPU/TPU provisioning (colab --gpu A100)\n- Remote script execution (colab exec)\n- Interactive console/REPL access\n- Built-in agent skill\n\nTell your agent \"fine-tune Gemma 3 1B on this dataset\" and it ",
+      "likes": 201,
+      "views": 0,
+      "url": "https://x.com/i/status/2064240919021228351",
+      "is_kol": false,
+      "score": 723.0
+    },
+    {
+      "id": "2064054132323852481",
+      "author": "trondao",
+      "text": "The #TRON blockchain is optimized for low-cost, high-throughput transfers, making it a primary settlement layer for USDT activity across global markets.\n\nWith @Dune's MCP server integration, natural language access to on-chain data makes it easier for users, analysts, and builder",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2064054132323852481",
+      "is_kol": false,
+      "score": 471.0
+    },
+    {
+      "id": "2064017905730167077",
+      "author": "adiix_official",
+      "text": "HOW THREE MCP SERVERS MAKE ME $3,800 A WEEK",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2064017905730167077",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2063991397519347866",
+      "author": "eplus",
+      "text": "An open-source, browser-native platform that gives any AI agent four things in one cohesive stack:\n\nA body. \nDrop a GLB, wrap it in an LLM brain, and the agent listens, reasons with Claude, calls tools, and expresses state through real-time morph-target blending. An autonomous tr",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2063991397519347866",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2064038187886940470",
+      "author": "deepidv",
+      "text": "Claude can now verify who it's talking to. and prove it.\n\nthe deepidv MCP server is live. connect it to Claude and run KYC, AML, sanctions, and deepfake detection from a single conversation, with cryptographic proof on every check.\n\nwatch the commercial ↓ https://t.co/ts8XyymPOW",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2064038187886940470",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2064199557907398678",
+      "author": "RoundtableSpace",
+      "text": "A CLAUDE CODE PLUGIN NOW AUTOMATICALLY RESEARCHES WHAT'S GOING VIRAL IN YOUR NICHE ACROSS REDDIT, YOUTUBE, TIKTOK AND REELS\n\ndrop in a keyword and it ranks every post by real engagement, pulls the exact hooks and customer language that's working, and hands you a content brief tel",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2064199557907398678",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2064201813772099594",
+      "author": "heyshrutimishra",
+      "text": "Your coding agents can literally get smarter every time your team ships something.\n\nWhen one engineer solves a problem, that knowledge usually dies with the session. Hivemind captures it, turns it into a reusable skill, and pushes it across every agent your team runs.\n\nClaude Cod",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2064201813772099594",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2064273436277719365",
+      "author": "AlexRiad84837",
+      "text": "🚀 Want to build presentation slides with Claude faster?\n\nCreate a custom Slide-Deck Skill:\n\n ✅ Define audience &amp; style \n✅ Add deck-building instructions ✅ Save reusable workflows\n ✅ Generate consistent,\n\n high-quality presentations in minutes\nWork smarter. Present better. htt",
+      "likes": 26,
+      "views": 0,
+      "url": "https://x.com/i/status/2064273436277719365",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2064090282413707504",
+      "author": "FloWritesCode",
+      "text": "SOTU Notes:\n\nSwiftUI\nmultitude of platform improvements\nrebuilding with new Xcode improves performance & auto-adopts new design of liquid glass\nnew reordering APIs\nnew toolbar APIs (visbilityPriority, ToolbarOverflowMenu(), .topBarPinnedTrailing)\nnew .prominent tab API for TabVie",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2064090282413707504",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2063997553226731830",
+      "author": "MEJ50749",
+      "text": "路过的狗都要看下这个活动报名！🐶\n\n我已经报了，现在还来得及，大家可以冲一下！不是广告，因为我知道怎么能拿到奖金！高低我要拿个第二名！！！！\n\nBitget Builder Base Camp · Hackathon S1 这次是 AI × Crypto Trading 方向，奖池 50,000 USDT，6/14 报名截止，6/25 提交截止。\n\n这种黑客松我参加过不少，其实拿奖励没大家想的那么难，尤其是这次还有参与奖：提交 Demo + 按要求发帖就有机会拿 +50 USDT。（50U也是钱！）\n\n赛道也挺适合不同背景的人：\n\n交易 Agent / ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2063997553226731830",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2064264964274012187",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT NOW RUNS A FULL BUSINESS\nFOR $8/MONTH.\nCONTENT. CODE. INBOX. ALL AGENTS.\nEVERYTHING WHILE YOU SLEEP.\n\none user built this in one session.\nzero terminal commands. browser only.\n\nthe team:\n→ content agent: finds video topics,\nwrites first drafts, helps with animations\n",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2064264964274012187",
+      "is_kol": false,
+      "score": 160.0
+    },
+    {
+      "id": "2064279188434301039",
+      "author": "Suryanshti777",
+      "text": "Everyone is fighting over which AI model is best.\n\nMeanwhile, the people getting the biggest outcomes are playing a completely different game.\n\nThey aren't changing the model.\n\nThey're changing how the model thinks.\n\nI recently came across 20 Claude command frameworks that feel l",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2064279188434301039",
+      "is_kol": false,
+      "score": 153.0
+    },
+    {
+      "id": "2064254002099802262",
+      "author": "Oluwaphilemon1",
+      "text": "I built a Chrome extension that helps you extract styles from any website and generate DESIGN(.)md or SKILL(.)md files\n\nWorks with Google Stitch, Claude Code, Codex etc\n\n... and it's free! https://t.co/vtKbQxLwRU",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2064254002099802262",
+      "is_kol": false,
+      "score": 143.0
+    }
+  ]
+}

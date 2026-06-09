@@ -3458,5 +3458,37 @@
   "joshp123/ai-stack": {
     "first_seen": "2026-06-08",
     "tier": 3
+  },
+  "diffusionstudio/lottie": {
+    "first_seen": "2026-06-09",
+    "tier": 1
+  },
+  "lucieeveille/kiwi-mem": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "danny-avila/librechat": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "zlanqing/codex-claude-academic-skills": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "superagents-lab/xcode27-skills": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "sailscastshq/boring-stack": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "mattpocock/skill": {
+    "first_seen": "2026-06-09",
+    "tier": 3
+  },
+  "jackzhong2017/body-root-cause-skill": {
+    "first_seen": "2026-06-09",
+    "tier": 3
   }
 }
