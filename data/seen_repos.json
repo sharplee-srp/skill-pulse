@@ -3490,5 +3490,25 @@
   "jackzhong2017/body-root-cause-skill": {
     "first_seen": "2026-06-09",
     "tier": 3
+  },
+  "copilotkit/copilotkit": {
+    "first_seen": "2026-06-10",
+    "tier": 3
+  },
+  "index-how/vocabulary": {
+    "first_seen": "2026-06-10",
+    "tier": 3
+  },
+  "kkkkhazix/khazix-skills": {
+    "first_seen": "2026-06-10",
+    "tier": 3
+  },
+  "elastic/agent-skills": {
+    "first_seen": "2026-06-10",
+    "tier": 3
+  },
+  "tansohq/agent-serve": {
+    "first_seen": "2026-06-10",
+    "tier": 3
   }
 }

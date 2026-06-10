@@ -1,0 +1,425 @@
+{
+  "date": "2026-06-10",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 16,
+    "unique_repos": 11,
+    "new_repos": 5,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "copilotkit/copilotkit",
+      "github_url": "https://github.com/copilotkit/copilotkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CopilotKit",
+        "text": "Teach your coding agent to build with CopilotKit.\n\nSetup, develop, debug, upgrade, contribute and more.\n\n\"npx skills add CopilotKit/CopilotKit/skills -y\"\n\nhttps://t.co/zdEGpiMQsG https://t.co/9TMvqFXxrY",
+        "likes": 7,
+        "url": "https://x.com/i/status/2064662806302269819"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064662806302269819"
+      ]
+    },
+    {
+      "repo": "index-how/vocabulary",
+      "github_url": "https://github.com/index-how/vocabulary",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "glennui",
+        "text": "@paulelliotco @emilkowalski just added\n\nnpx skills add index-how/vocabulary",
+        "likes": 6,
+        "url": "https://x.com/i/status/2064463268643582038"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064463268643582038"
+      ]
+    },
+    {
+      "repo": "kkkkhazix/khazix-skills",
+      "github_url": "https://github.com/kkkkhazix/khazix-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Russell3402",
+        "text": "给大家推荐一个好用的skill：AI HOT Skill\n不需要配API！！1\n\n它的作用很简单：你在 Claude Code、Codex CLI、Cursor、Gemini CLI、OpenCode、OpenClaw 这类 Agent 环境里，用自然语言问：\n\n“今天 AI 圈有什么新东西？”\n“最近 OpenAI 有什么发布？”\n“看一下 AI 日报。”\n“最近一周有什么 AI 论文？”\n\nAgent 就会自动去 https://t.co/MWhCBJJbdX 拉取 AI HOT 的公开资讯数据，然后整理成中文简报，不需要你自己打开网站、不需要配置 ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2064616259371860085"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064616259371860085"
+      ]
+    },
+    {
+      "repo": "elastic/agent-skills",
+      "github_url": "https://github.com/elastic/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rsnkyx",
+        "text": "Boost your coding agents (Claude, Cursor, Copilot etc.) with official @elastic skills for Elasticsearch APIs, Kibana dashboards, Fleet, Observability &amp; Security. \n\nOpen-source on GitHub. \nInstall via npx skills add elastic/agent-skills.\n\nhttps://t.co/9yNSRB98Tt",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064550622561493052"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064550622561493052"
+      ]
+    },
+    {
+      "repo": "tansohq/agent-serve",
+      "github_url": "https://github.com/tansohq/agent-serve",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Katlaszlo",
+        "text": "Built a Claude skill for exactly this.\nnpx skills add tansohq/agent-serve",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064547855650750703"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064547855650750703"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 0,
+      "is_new": false,
+      "score": 851.0,
+      "mention_count": 3,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 17,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shao__meng",
+        "text": "Text-To-Lottie: 一套 「Agent Skill + 本地预览 Harness」 的组合，让 Agent 生成 Lottie，在浏览器里实时验收\n\n开源作者 @konstipaulus ，开源地址：\nhttps://t.co/pBvRSMh5UH\n安装方式：npx skills add diffusionstudio/lottie\n\nSkill：教 Codex / Claude Code / Cursor 等 Agent 如何写出 Skottie 可渲染的 Lottie JSON\n\nHarness：基于 Skia CanvasKit（Sko",
+        "likes": 17,
+        "url": "https://x.com/i/status/2064508455051043008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064672918236172352",
+        "https://x.com/i/status/2064511617702981857",
+        "https://x.com/i/status/2064508455051043008"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 3185.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 865,
+      "total_retweets": 78,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mattpocockuk",
+        "text": "Steps to become a senior programmer:\n\n1. Install my /teach skill\n\nnpx skills add mattpocock/skills --skill teach\n\n2. Create a new working directory on your laptop\n\nmkdir junior-to-senior\ncd junior-to-senior\n\n3. Kick off your coding agent in the directory\n\nclaude\n\n4. Copy this pro",
+        "likes": 865,
+        "url": "https://x.com/i/status/2064663221718425660"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064663221718425660",
+        "https://x.com/i/status/2064674963072717020"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 395.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.17.0 released. TL;DR: standalone TUI package, V2 session/tool hardening, managed Desktop WSL sidecars, App draft tabs.\n\n𝗔𝗴𝗲𝗻𝘁\nAdded\n• Added safe V2 session interruption with per-session execution coordination, wakeup coalescing, and concurrent drains across different ",
+        "likes": 90,
+        "url": "https://x.com/i/status/2064547371506430271"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064547371506430271"
+      ]
+    },
+    {
+      "repo": "panniantong/agent-reach",
+      "github_url": "https://github.com/panniantong/agent-reach",
+      "tier": 3,
+      "is_new": false,
+      "score": 296.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xMulight",
+        "text": "Claude Code终极爬虫手册：5大开源Skill让AI真正会上网干活\n\n想让Claude别再只是聊天工具，而是直接上手抓数据、操作网页、批量处理内容？下面这套组合就是最实用的方案。\n\n我把方案整理成这份手册，可以直接复制给Claude Code，Cursor，Codex使用。顺序从日常最常用排到重度操作，零门槛。\n\n1.日常80%需求：社媒与公开内容一键抓取\n\n工具：Agent-reach\n地址：https://t.co/zDukvgRoPe\n\n轻量CLI工具，专给AI Agent准备。支持小红书、X、抖音、YouTube、公众号、Reddit、B",
+        "likes": 57,
+        "url": "https://x.com/i/status/2064605540911812845"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064605540911812845"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 249.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kaan_alper",
+        "text": "🚨GOOGLE’DAN GELİŞTİRİCİLERE BÜYÜK HEDİYE: Resmi “Agent Skills” Paketi Yayınlandı! Claude Code, Cursor, Copilot ve Tüm AI Ajanlarınız Artık Google Cloud’u Profesyonelce Yönetebilecek!💻🤖\n\nGoogle’ın AI ajan ekosistemine yaptığı en stratejik hamlelerden birini duyuruyoruz..\n\nGoogle, ",
+        "likes": 9,
+        "url": "https://x.com/i/status/2064498917295686124"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064657576348852486",
+        "https://x.com/i/status/2064498917295686124"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 236.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liu8in",
+        "text": "$ claude --model claude-fable-5\n\nthen install the hyperframes skill:\n\n$ npx skills add heygen-com/hyperframes\n\nhttps://t.co/CXtLChGOQg",
+        "likes": 11,
+        "url": "https://x.com/i/status/2064497243076649082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064497243076649082",
+        "https://x.com/i/status/2064468729493074185"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2064617103475544116",
+      "author": "pieverse_io",
+      "text": "Prediction markets move fast. So does Purr-Fect Claw.\n\nAgent Survival Quest Powered by BNB Chain is about showing what agents can do when they have the right tools.\n\nWith the Polymarket Skill, you can ask your agent for live odds, trending markets, price momentum, and event conte",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2064617103475544116",
+      "is_kol": false,
+      "score": 1116.0
+    },
+    {
+      "id": "2064442734400696442",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.139.0 is out.\n\nHighlights:\n- Code mode can now call standalone web search directly, including from nested JavaScript tool calls, returning plaintext results.\n- Tool input schemas now preserve oneOf and allOf; large schemas retain more shallow structure when compacted,",
+      "likes": 246,
+      "views": 0,
+      "url": "https://x.com/i/status/2064442734400696442",
+      "is_kol": false,
+      "score": 818.0
+    },
+    {
+      "id": "2064507408270102566",
+      "author": "trythreews",
+      "text": "@IBMDeveloper Awesome tutorial. We have been shipping with watsonx Orchestrate using IBM Bob and we recently shipped our MCP Server directly from IBM Partner Center and it's showing connected, live, and working! We cannot wait to showcase our catalog entry and product page! \n\nTha",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2064507408270102566",
+      "is_kol": false,
+      "score": 690.0
+    },
+    {
+      "id": "2064588977601208733",
+      "author": "gitlawb",
+      "text": "🚀 OpenClaude v0.18.0 just released!\n\nSmart routing is here — /model auto now picks the best model for every task. No more guessing for OpenGateway provider\n\nAtlas Cloud joins as an official provider. @atlas_cloud_ai \n\nContext overflow? snip tool lets the model manage its own cont",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2064588977601208733",
+      "is_kol": false,
+      "score": 529.0
+    },
+    {
+      "id": "2064629808643150065",
+      "author": "tetsuoai",
+      "text": "This is the new AgenC marketplace shipping this week, explained end-to-end. Everything, how it works, in one post.\n\nWHAT IT IS\n \nAgenC is a marketplace where agents hire agents and humans hire agents, settled on Solana. The trust lives inside the program, so neither side trusts t",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2064629808643150065",
+      "is_kol": false,
+      "score": 466.0
+    },
+    {
+      "id": "2064560771124928698",
+      "author": "premtechAI",
+      "text": "How to Learn Claude in 12 Days\n\n(This will save you 5+ hours every day)\n\nMost people use Claude like a chatbot.\n\nAsk a question. Get an answer. Repeat.\n\nBig mistake 👎🏻.\n\nClaude is becoming an operating system for knowledge work.\n\nHere's a 12-day roadmap based on real Claude workf",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2064560771124928698",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2064567918827012571",
+      "author": "ShunTakeishi",
+      "text": "いくつかのセッションのなかで触れられているのですが、Xcode 27 ベータ版において、Coding Intelligence から使えるAgent向けのSkillが組み込まれていますが、そちらを出力することができます。\nターミナルで \"xcrun agent skills export\" を実行してみてください。\nみなさんがお使いのCLIベースのAgentsなどにその出力したSkill を組み込んでXcodeのMCPを利用しながら、開発していただくこともできます。 #WWDC26",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2064567918827012571",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2064594760195801538",
+      "author": "FeitengLi",
+      "text": "Boris Cherny(Claude Code 的创始人兼负责人) @bcherny  和 Cat Wu(Claude Code 产品负责人) 复盘 Claude Code 第一年:\n\n一年前通用版上线，第一个 demo 发到 Slack 只换来两个 emoji；现在每天有几千个自主 agent 在跑。\n\n这一年最反直觉的转变，是 Boris 已经不直接跟 agent 说话了。\n「我跟一个 loop 说话，或者跟一个 routine 说话，由它来给 Claude 发提示词，这真的很疯狂。」\n\n他把 18 个月概括成两次平台级跃迁：第一次，人从写源代码挪",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2064594760195801538",
+      "is_kol": false,
+      "score": 254.0
+    },
+    {
+      "id": "2064558208988180614",
+      "author": "wey_gu",
+      "text": "Nowledge Mem v0.9 发布了 🥰\n\n这是一次比较大的版本，而且这次 Mem 从邀测变成了公开 beta 哈。\n\n这次除了憋了不少底层的优化重构之外，比较重要的新能力是\n\n- 自演化的 Skills 结晶和创建\n- 人格化长期 agent 范式的支持\n- Mem Plus 订阅制\n\nSkills 会从整个 Nowledge Mem 超图上的模式、特征里克制去找到适合变成 procedural memory、进而从中找到符合成为潜在 Skill 个体，并且在我们选择创建成为 Skill 之后，它依然会在使用过程中收集反馈、观察新的 Mem 上下",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2064558208988180614",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2064580749593129231",
+      "author": "ashiqur_ai",
+      "text": "How to Learn Claude in 12 Days\n\n(This will save you 2+ hours every day)\n\nMost people use Claude like a chatbot.\n\nAsk a question. Get an answer. Repeat.\n\nBig mistake.\n\nClaude is becoming an operating system for knowledge work.\n\nHere's a 12-day roadmap based on real Claude workflow",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2064580749593129231",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2064490224080629818",
+      "author": "nomdejue",
+      "text": "@krakenpro / solana:$DOG Army - my official submission for the @krakenpro CLI contest. \n\n  Meet AGENT solana:$DOG - a fully autonomous AI trading agent built entirely on the Kraken CLI.\n  It doesn't just show you the market. It scans it, thinks, and trades it - on its own.\n\n  Und",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2064490224080629818",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2064573840391540782",
+      "author": "ElizabethhQuinn",
+      "text": "This is a brilliant use of the MCP pattern.\n\nInstead of building another standalone tool that forces you to switch tabs, HeyGen is bringing the video generation directly into Claude, where the work is already happening.\n\nThat is how you actually drive adoption.",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2064573840391540782",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2064561694399987972",
+      "author": "neil_xbt",
+      "text": "Most traders spend 10 hours analyzing Polymarket wallets and placing trades manually.\n\nClaude did it in 10 hours and turned $200 into $3,000!\n\nFull PC access. $200 starting capital. \nOne mission. No human approving each position.\n\nClaude analyzed the best-performing wallets on th",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2064561694399987972",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2064653549473296392",
+      "author": "neil_xbt",
+      "text": "AI bootcamps charge $15,000 and produce credentials the market does not pay for!\n\nThis roadmap costs $20/month and produces what the market actually buys!\n\nDemonstrated ability to solve a specific problem better than the client can solve it themselves.\n\nClaude Pro as the practice",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2064653549473296392",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2064609318301729043",
+      "author": "CoinMarketCap",
+      "text": "😮‍💨 Say goodbye to burnout. Use a single Prompt instead.\n\n1️⃣ Copy the install Command → Paste into your Agent \n2️⃣ Copy the Execution Command → Paste → Skill: crypto_macro_overview (Try the code yourself)\n\n`````text\nUse `crypto_macro_overview` from CMC Skill Hub to execute a tas",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2064609318301729043",
+      "is_kol": false,
+      "score": 190.0
+    },
+    {
+      "id": "2064568638489952616",
+      "author": "MrAhmadAwais",
+      "text": "Command Code v0.34.0 is here!\n\n3 new versions today, we're shipping fast!!\nlots of quality of live improvements.\n\n- feat: add Claude Fable 5\n- fix: resolve [Text#N] paste placeholder into text for slash commands on submit\n- feat: major rehaul of lists and windowing /models /skill",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2064568638489952616",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2064547299381117371",
+      "author": "xiaojianjian567",
+      "text": "POLO教你如何把Hermes长期运行起来\n\n把 Hermes Agent装到 VoyraCloud 上，一台 VPS跑出24/7长期在线的 AI 工作站 ⭐Claude Code折腾半天，跑两小时电脑休眠一关就断。Hermes Agent放本地同样问题，电脑一关任务全挂，IP偶尔波动自动化任务就崩，重启一次所有进度清零。很多搞 AI 开发的人都遇到过，想要一个真正7×24跑任务的 AI 工作站，本地机器撑不住。\n\n普通机房 VPS 是另一条路，但 IP段是数据中心的，Claude、Google、PayPal 这些平台一眼能识别，部分场景会有登录风控或环",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2064547299381117371",
+      "is_kol": false,
+      "score": 153.0
+    }
+  ]
+}
