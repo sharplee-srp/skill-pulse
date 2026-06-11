@@ -3510,5 +3510,41 @@
   "tansohq/agent-serve": {
     "first_seen": "2026-06-10",
     "tier": 3
+  },
+  "h4ckf0r0day/obscura": {
+    "first_seen": "2026-06-11",
+    "tier": 2
+  },
+  "display-dev/skill": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "lzfxxx/shadow-tutor": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "saadeghi/daisyui": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "kaggle/kaggle-skills": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "educlopez/ui-craft": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "shadcn/improve": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "pollyglot/google-play-cli-skills": {
+    "first_seen": "2026-06-11",
+    "tier": 3
+  },
+  "chawyehsu/moonup": {
+    "first_seen": "2026-06-11",
+    "tier": 3
   }
 }

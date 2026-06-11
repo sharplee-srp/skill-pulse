@@ -1,0 +1,461 @@
+{
+  "date": "2026-06-11",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 175,
+    "tweets_with_repos": 14,
+    "unique_repos": 12,
+    "new_repos": 9,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "h4ckf0r0day/obscura",
+      "github_url": "https://github.com/h4ckf0r0day/obscura",
+      "tier": 2,
+      "is_new": true,
+      "score": 571.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 127,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xyunss",
+        "text": "kalo AI agent kalian sering ke-block atau kena captcha pas browsing/scraping, salah satu penyebabnya emang headless chrome berat (200MB+ ram cuma buat 1 tab), startup lambat, dan gampang banget kedetect sebagai bot.  \n\nada alternatif baru namanya Obscura, ditulis di Rust: \n- ram ",
+        "likes": 127,
+        "url": "https://x.com/i/status/2065012646848651592"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065012646848651592"
+      ]
+    },
+    {
+      "repo": "display-dev/skill",
+      "github_url": "https://github.com/display-dev/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 205.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "slashdisplay",
+        "text": "Publish without an account, now straight from your agent.\n\nAdd the https://t.co/FEdHJfK0V6 skill to Claude Code, Cursor, any other agent. \n\nnpx skills add display-dev/skill\n\nYour agent builds the page and hands you a live link.\n\nhttps://t.co/xU8GTEm2BV",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065052187864997968"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065052187864997968",
+        "https://x.com/i/status/2065052551519601128"
+      ]
+    },
+    {
+      "repo": "lzfxxx/shadow-tutor",
+      "github_url": "https://github.com/lzfxxx/shadow-tutor",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lllzzz666777",
+        "text": "@mattpocockuk /teach grows a new topic from scratch. I built the other half — a tutor for the session you JUST finished: it picks the one decision the AI made that you can't explain, and makes you predict why before it reveals. On your own code.\n\nnpx skills add lzfxxx/shadow-tuto",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065039931765137597"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065039931765137597",
+        "https://x.com/i/status/2065039668211802499"
+      ]
+    },
+    {
+      "repo": "saadeghi/daisyui",
+      "github_url": "https://github.com/saadeghi/daisyui",
+      "tier": 3,
+      "is_new": true,
+      "score": 128.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Saadeghi",
+        "text": "Have you tried daisyUI Skill?\n\nnpx skills add saadeghi/daisyui",
+        "likes": 6,
+        "url": "https://x.com/i/status/2064986252747715046"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064986252747715046"
+      ]
+    },
+    {
+      "repo": "kaggle/kaggle-skills",
+      "github_url": "https://github.com/kaggle/kaggle-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MeganRisdal",
+        "text": "The best place for niche benches is Kaggle\n\nnpx skills add Kaggle/kaggle-skills --skill write-kaggle-benchmarks\n\nhttps://t.co/jxFuU1FXnX",
+        "likes": 8,
+        "url": "https://x.com/i/status/2064924014225522702"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064924014225522702"
+      ]
+    },
+    {
+      "repo": "educlopez/ui-craft",
+      "github_url": "https://github.com/educlopez/ui-craft",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "educalvolpz",
+        "text": "Install:\nnpx skills add educlopez/ui-craft\n\nDocs: https://t.co/pIBBVwPIz5\nRepo: https://t.co/OrKB9LTwEK\n\nIf you ship UIs with AI agents, I'd love feedback.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065036583875551645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065036583875551645"
+      ]
+    },
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_guillecasaus",
+        "text": "3/ Cómo instalarlo\n\n→ Abre Claude Code dentro de tu proyecto\n→ Ejecuta: `npx skills add shadcn/improve`\n→ Lanza una auditoría con `/improve` o `/improve quick`\n→ Selecciona los hallazgos que quieres convertir en planes de acción",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065034025866088488"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065034025866088488"
+      ]
+    },
+    {
+      "repo": "pollyglot/google-play-cli-skills",
+      "github_url": "https://github.com/pollyglot/google-play-cli-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PollyGlot",
+        "text": "I even ship agent skills for it: SKILL[.]md files that teach an agent the full release lifecycle, the track ladder, the gotchas.\n\nnpx skills add PollyGlot/google-play-cli-skills\n\nYour agent reads them, then drives gplay on its own.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064958349305938250"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064958349305938250"
+      ]
+    },
+    {
+      "repo": "chawyehsu/moonup",
+      "github_url": "https://github.com/chawyehsu/moonup",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chawyehsu",
+        "text": "moonup agent skills are now available. it's super easy to tell coding agents to learn to manage moonbit toolchains with moonup\n\n`npx skills add chawyehsu/moonup`\n\nhttps://t.co/JXly4rt5Dv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064958293207036157"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064958293207036157"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "Marketing Skills v2.4.1 is out.\n\n🆕 /public-relations — earned media work, agent-native. Newsjacking, journalist pitching, press platforms, media outlets. With the practical \"skip if you can't sustain it\" energy that runs through the rest of the library.\n\nMost marketers do PR badl",
+        "likes": 9,
+        "url": "https://x.com/i/status/2065049211201372186"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065049211201372186"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "🤖 Automate your trading and LP strategies with Byreal Agent Skills.\n\nTrade through RealClaw 🦞 and get a 10% trading volume boost in the USD1 Trading Competition.\n\nnpx skills add byreal-git/byreal-agent-skills\nhttps://t.co/whXDGefEcW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065022745566687584"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065022745566687584"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bakigulai",
+        "text": "Kıdemli bir yazılımcı olmak için adımlar:\n\nMattpocock'ın bir skill reposu var \nOradaki \n/teach skill’ini kur\nnpx skills add mattpocock/skills --skill teach\n\nLaptopunda yeni bir çalışma dizini oluştur\nmkdir junior-to-senior\ncd junior-to-senior\n\nBu dizinde coding agent’ını başlat\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2064916799095738540"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2064916799095738540"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2064826394589442448",
+      "author": "trq212",
+      "text": "Lots of people asked how I used Fable to edit its own launch video so I made a video about that!\n\nTLDR it wrote a lot of code &amp;  tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. \n\nI didn't touch a video edit",
+      "likes": 6954,
+      "views": 0,
+      "url": "https://x.com/i/status/2064826394589442448",
+      "is_kol": false,
+      "score": 23042.0
+    },
+    {
+      "id": "2064942613522997503",
+      "author": "0xRiRoyal",
+      "text": "gm gm fam\nai tools still try to make everyone work the same way.\n\nthat is usually where the usefulness dies.\n\nwhat makes @TheARCTERMINAL feel more interesting to me now is that ARC Drive Skills push in the opposite direction.\n\ninstead of forcing users into one fixed flow, ARC is ",
+      "likes": 181,
+      "views": 0,
+      "url": "https://x.com/i/status/2064942613522997503",
+      "is_kol": false,
+      "score": 763.0
+    },
+    {
+      "id": "2064953574119842253",
+      "author": "stellaxoxocl",
+      "text": "Cheng Lei What are u doing? Where is ur Undercover Agent skill in Keep Running?\n\n#BaiLu #ChengLei #TheFirstJasmine https://t.co/IXYqpTlLoB",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2064953574119842253",
+      "is_kol": false,
+      "score": 743.0
+    },
+    {
+      "id": "2065017388798529865",
+      "author": "ChemistDeFi",
+      "text": "I spent the last few weeks doing something our team avoided for years.\n\nWe have legacy projects with so much technical debt that nobody wanted to touch them. Opening those repos felt like archaeology. So we ran an experiment with Fable 5: let an AI agent loose on the worst codeba",
+      "likes": 240,
+      "views": 0,
+      "url": "https://x.com/i/status/2065017388798529865",
+      "is_kol": false,
+      "score": 725.0
+    },
+    {
+      "id": "2064893580305698830",
+      "author": "eplus",
+      "text": "Full list of everything https://t.co/oeVhuVQL9l has achieved, pulled from the @trythreews timeline:\n\n•Featured on @WSJ homepage\n• Selected for the @MetaMask Agent Wallet Early Access program (small group of builders chosen ahead of launch)\n• Official @IBM  Partner\n• IBM partnersh",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2064893580305698830",
+      "is_kol": false,
+      "score": 660.0
+    },
+    {
+      "id": "2064777828512469024",
+      "author": "Veltrxai",
+      "text": "Everyone uploading PDFs to Claude is burning 70,000 tokens before asking a single question.\n\nA 20-page document costs between 1,500 to 3,000 tokens per page.\n\nFormatting. Broken tables. Images. Junk metadata. Claude processes all of it before you even type “summarize this.”\n\nTher",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2064777828512469024",
+      "is_kol": false,
+      "score": 573.0
+    },
+    {
+      "id": "2064732108069970249",
+      "author": "pumpius",
+      "text": "🔥 HUGE: AI agents are about to transact, pay, and settle value autonomously on the XRP Ledger.\n\nRippleX launches the XRPL AI Starter Kit — tools for builders to create agentic payment apps:\n•  XRPL Docs MCP Server\n•  Claude Skills for wallets, payments & tracking\n•  X402 for seam",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2064732108069970249",
+      "is_kol": false,
+      "score": 567.0
+    },
+    {
+      "id": "2064907115223720355",
+      "author": "dotey",
+      "text": "DeepSeek 招 Agent Harness 研究员，能是世界范围内第一次招聘“Harness研究员” \nhttps://t.co/FEDd5AAxz0\n\n● 招聘岗位：Agent Harness 研究员（实习/全职）\n● 工作性质：全职 | 实习\n● 工作地点：浙江·杭州市 / 北京市\n\n================================\n\n【团队使命】\nModel + Harness = Agent\n我们正在把 DeepSeek 的前沿模型能力，转化为领先的 Agent 产品。这其中除模型本身以外的所有工作，都属于 Harness ",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2064907115223720355",
+      "is_kol": false,
+      "score": 515.0
+    },
+    {
+      "id": "2064999441317433480",
+      "author": "yoshio_nocode",
+      "text": "Claude Fable 5で、LPをノーコードStudio風に調整できるSkill作ったら、体験が最高だった。\n\n細かい文字変更や余白の調整は、\nAIにダラダラ説明するより手で修正したいことが多い\n\nAI×ノーコードが最強。\nスライド資料版も作ろう https://t.co/W9Y3peF92D",
+      "likes": 137,
+      "views": 0,
+      "url": "https://x.com/i/status/2064999441317433480",
+      "is_kol": false,
+      "score": 451.0
+    },
+    {
+      "id": "2064771905945813219",
+      "author": "Manjusaka_Lee",
+      "text": "最近聊到 AI 带来的职业焦虑问题，今晚正好和人聊了一下\n对于大部公司而言 AI 可能可以替代不少环节，但是在最后一公里还差了很多\nAI 时代带来交付和 Review 压力是极为恐怖的。要么 All in AI，要么要很限制 AI 的使用范围\n而允许人使用 AI Coding 但是配套设置没跟上最后的后果就是，AI 会以一种狂暴的速度拉爆所有人\n\nhttps://t.co/HqwFAXxo8y\nhttps://t.co/iIwEQFCocc\n我还是建议大家都看一下这两篇文章再焦虑\n或者说根据我自己的经验，焦虑之前可以判断以下几点\n1. 自己公司是否有足够",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2064771905945813219",
+      "is_kol": false,
+      "score": 393.0
+    },
+    {
+      "id": "2064808377016844777",
+      "author": "bookunt",
+      "text": "یادم رفت حضرت OpenCowork رو معرفی کنم!\nدقیقا همونی که همیشه میخواستم! یه دستیار ایجنتیک با پشتیبانی کامل از mcp server ها و skill ها\nمموری داره schedule داره سندباکس داره ریموت کنترل داره!\nوصلش میکنی به freellmapi و بومممم\nhttps://t.co/hRO1Ez06PW",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2064808377016844777",
+      "is_kol": false,
+      "score": 375.0
+    },
+    {
+      "id": "2064763405953855834",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT JUST SHIPPED A PROFILE BUILDER\nIN THE DASHBOARD.\n\nbuild a complete agent in one guided flow.\nno CLI. no config editing. no guesswork. @NousResearch \n\nopen Profiles from the sidebar.\nclick Build (next to quick Create).\nfollow the 5-step wizard:\n\nIdentity → Model → Ski",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2064763405953855834",
+      "is_kol": false,
+      "score": 327.0
+    },
+    {
+      "id": "2064916515036512595",
+      "author": "Ebontis",
+      "text": "I got a chance to play CONTROL: Resonant and it is as weird and awesome and only a Remedy game to be.\n\nI can’t show the opening, but from the start of the game you are hooked into the story even if you didn’t play the previous game which is great for newer players eyeing this ent",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2064916515036512595",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2064912380824551502",
+      "author": "pharos_network",
+      "text": "Every great agent starts with a skill 🧐\n\nJoin DevRel Lead @janesh_dani for a tour of the Pharos Skill Engine Center and learn how to create your own skills, experiment with new agent capabilities, and bring your ideas👨‍💻\n\n📹 Start https://t.co/xeDetz3fBV",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2064912380824551502",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2064776382232850704",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update with many features, improvements, and bug fixes\n\nRelease Notes: v0.2.44\n\nFeatures:\n• K/J keys now snap the viewport to the top of previous or next assistant responses.\n• J/K (vim mode) now navigate between assistant responses in scrollback.\n• se",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2064776382232850704",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2065021410762752024",
+      "author": "NainsiDwiv50980",
+      "text": "Claude Code Plugins Are Quietly Creating the Operating System for AI Development",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2065021410762752024",
+      "is_kol": false,
+      "score": 243.0
+    },
+    {
+      "id": "2064739369697861749",
+      "author": "OnlyHades_",
+      "text": "Gonna bring your attention back to $SHUSH / @Excubialabs, the first multi-chain privacy infrastructure built specifically for autonomous AI agents.\n\nIn very simple terms, it lets AI agents trade and make decisions using fully encrypted on-chain execution, keeping their strategies",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2064739369697861749",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2064792800009302169",
+      "author": "bonsaixbt",
+      "text": "THIS GUY JUST OPEN-SOURCED A FULL AGENTIC OS THAT RUNS INSIDE CLAUDE CODE\n\nAnd this isn’t some toy repo with a handful of prompts. It’s a full harness-native operating system built by an Anthropic hackathon winner\n\nIt’s completely open source and free\n\nHere’s what it actually inc",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2064792800009302169",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2065002074702528587",
+      "author": "HeyShruti7",
+      "text": "How to learn Claude in 5 days:\n(this will save you 2 hours a day)\n\n☀️ DAY 1: Set up the basics\n\nGoal: Get Claude to give you personalized answers.\n\n→ Pick your mode (Chat, Code, or Cowork)\n→ Turn on Memory\n→ Write 3–5 lines about your role in Personal Preferences\n\nNow Claude know",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2065002074702528587",
+      "is_kol": false,
+      "score": 219.0
+    }
+  ]
+}
