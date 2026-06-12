@@ -1,0 +1,534 @@
+{
+  "date": "2026-06-12",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 9,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-ai-prd",
+      "github_url": "https://github.com/joeseesun/qiaomu-ai-prd",
+      "tier": 3,
+      "is_new": true,
+      "score": 413.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "现在都是 AI Agent做开发，人喜欢的 PRD 和 AI 喜欢的是不一样的。\n\n为了精准高效开发，写了个专门服务于 AI 的PRD文档生成Prompt。\n\n先有这个文档，再给AI开发，功能完整度和丰富性会远远比自己想的全面、好用。\n\nSkill开发好了，安装指令：\nnpx skills add joeseesun/qiaomu-ai-prd\n\n开源地址和Prompt见评论",
+        "likes": 86,
+        "url": "https://x.com/i/status/2065264509170876417"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065264509170876417"
+      ]
+    },
+    {
+      "repo": "peilihua/us-stock-laosiji",
+      "github_url": "https://github.com/peilihua/us-stock-laosiji",
+      "tier": 3,
+      "is_new": true,
+      "score": 356.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 82,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PWenzhen76938",
+        "text": "我用CREAO做了一个美股投资Agent\n叫「美股老司机」\n\n开源了，讲讲为什么做这个，怎么做的\n\n---\n\n我自己炒美股，最烦两种人\n\n➢ 一种是天天喊单的，“英伟达冲冲冲”、“特斯拉梭哈”，涨了吹自己神，跌了说是你没拿住\n\n➢另一种是只会丢一堆数据的，PE、PB、ROE 甩你一脸，但你问他“这票能不能买”，他说“自己判断”\n\n我想要的是：给我拆清楚财报，告诉我风险在哪，别帮我做决定，但给我一个清晰的分析框架\n\n所以我做了这个Agent\n\n/-\n\n它的人设是：一个有12年华尔街投行 + 对冲基金背景的 AI 投资助手\n\n不喊单，不吹票，只做理性分析\n\n",
+        "likes": 82,
+        "url": "https://x.com/i/status/2065343382915055635"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065343382915055635"
+      ]
+    },
+    {
+      "repo": "bkerler/ida_rpc",
+      "github_url": "https://github.com/bkerler/ida_rpc",
+      "tier": 3,
+      "is_new": true,
+      "score": 271.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "viperbjk",
+        "text": "Inspired by @guyru_'s ghidra rpc agentic skill, I ported my mcp server for @HexRaysSA IDA Pro to be a rpc skill + plugin as well. What can I say, speed improvements and less tokens needed, it was fully worth porting it. Go test it :) https://t.co/dmHq9i5SSf",
+        "likes": 47,
+        "url": "https://x.com/i/status/2065135692863221922"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065135692863221922"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-twitter-agent-ops",
+      "github_url": "https://github.com/gingiris-1031/gingiris-twitter-agent-ops",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "📎 完整 SOP skill：https://t.co/v5urqFonlX\n\n安装命令：\nnpx skills add Gingiris-1031/gingiris-twitter-agent-ops\n\nGitHub：https://t.co/RWPyScdN5y",
+        "likes": 3,
+        "url": "https://x.com/i/status/2065271000741388625"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065271000741388625"
+      ]
+    },
+    {
+      "repo": "powabase-ai/agent-skills",
+      "github_url": "https://github.com/powabase-ai/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zipengsg",
+        "text": "Powabase just rolled out agent-skills. You can now load the skill into your coding agent so it can use Powabase to build apps more efficiently!\n\nnpx skills add powabase-ai/agent-skills\nhttps://t.co/pKHFyIQ4vb\n\n#Powabase #AI #ArtificialIntelligence #BaaS",
+        "likes": 2,
+        "url": "https://x.com/i/status/2065314450903540197"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065314450903540197"
+      ]
+    },
+    {
+      "repo": "buildgreatproducts/builder-os",
+      "github_url": "https://github.com/buildgreatproducts/builder-os",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chris_bgp",
+        "text": "Get started with my operating system for AI builders @ https://t.co/oD4nNE80HT\n\nOr install with “npx skills add BuildGreatProducts/builder-os”",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065330012656468070"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065330012656468070"
+      ]
+    },
+    {
+      "repo": "jafupy/skills",
+      "github_url": "https://github.com/jafupy/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jafupy",
+        "text": "LLMs write code fast, but that code is often a mess: bloated files, tangled logic. Just generally hard to read or change.\nIntroducing my first skill: Code of Conduct. A set of rules that gets LLMs to write clean, maintainable code.\n\nnpx skills add jafupy/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065392772098445551"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065392772098445551"
+      ]
+    },
+    {
+      "repo": "googleworkspace/cli",
+      "github_url": "https://github.com/googleworkspace/cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "therealscale",
+        "text": "4. Google Workspace (GWS) Skill\n\nClaude kod yazabiliyor ama Gmail’ine giremiyor, Drive’ından dosya çekemiyor, Calendar’ına event ekleyemiyor, Sheets’ini güncelleyemiyordu.\n\nBu yüzden agent’ların çoğu yarım kalıyordu.\nGWS Skill bunu tamamen bitirdi.\n\nArtık Claude Gmail, Drive, Cal",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065410054434500880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065410054434500880"
+      ]
+    },
+    {
+      "repo": "luckypipewrench/pipelock",
+      "github_url": "https://github.com/luckypipewrench/pipelock",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "luckyPipewrench",
+        "text": "🚢 Pipelock v2.7.0 is live:\n\n🚦 Conductor emergency controls\n🛰️ fleet observability + audit query commands\n📦 signed policy bundle distribution\n🧯 stale-policy fail-closed behavior\n🧾 receipts tied tighter to policy + process identity\n🌐 A2A block-path receipt parity\n\nAgents are gettin",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065409996028862921"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065409996028862921"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 234.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okxchinese",
+        "text": "安装指南：\n1、已接入过 Agent Trade Kit？\n升级即可使用 跟 Agent 说： \"运行 npx skills add okx/agent-skills，将我的 OKX CEX Skills 更新到最新版本，okx-trade-cli 更新到1.3.8版本以上，并启用 'okx-outcomes' skill，帮我开始积分预测交易\" \n2、还未接入 Agent Trade Kit ？\n首次安装，15秒一键快连！ \n\nOKX AI 101 零门槛教程⬇️\nhttps://t.co/zmvOcJL02R",
+        "likes": 3,
+        "url": "https://x.com/i/status/2065329458555547756"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065329458555547756",
+        "https://x.com/i/status/2065309770526122387"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 134.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Saccc_c",
+        "text": "发现一个动画生成神器，直接把自然语言转化成酷炫Lottie动效\n\n下面视频演示的效果都可以一次直出，很牛逼\n（提示词指南放评论区了，可以直接喂给AI帮你写好高质量提示词）\n\n把它和HyperFrames这类视频制作工具结合，又会有不少玩法 \n\n终端一键安装： $ npx skills add diffusionstudio/lottie \n\n仓库链接：https://t.co/yrVR0rGP6V",
+        "likes": 8,
+        "url": "https://x.com/i/status/2065371821390672225"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065371821390672225"
+      ]
+    },
+    {
+      "repo": "heygen-com/skills",
+      "github_url": "https://github.com/heygen-com/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@NocodeTalks @HeyGen using HeyGen CLI \n\nnpx skills add heygen-com/skills\n\ncli installation guide: https://t.co/iMUObpU9ZJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065295258057900505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065295258057900505"
+      ]
+    },
+    {
+      "repo": "gmgnai/gmgn-skills",
+      "github_url": "https://github.com/gmgnai/gmgn-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gmgnai",
+        "text": "3/ npm install -g gmgn-cli &amp;&amp; npx skills add GMGNAI/gmgn-skills https://t.co/LYi3fu694l",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065255289335779558"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065255289335779558"
+      ]
+    },
+    {
+      "repo": "steipete/agent-scripts",
+      "github_url": "https://github.com/steipete/agent-scripts",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakeee_ai",
+        "text": "元ネタ👇\n\nOpenClaw作ったPeter Steinberger氏が公開している「Maintainer Orchestrator Skill」。\nAIに仕事を割り振り、監視し、レビューし、必要な時だけ人間に判断を求める設計思想が全部書かれてる。\n\nhttps://t.co/YLkU1XxQGZ\n\nたぶん今後何度も見返すので置いとく。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065383857092964431"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065383857092964431"
+      ]
+    },
+    {
+      "repo": "tanweai/pua",
+      "github_url": "https://github.com/tanweai/pua",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "Your AI coding assistant ships bugs faster than you can review them. Half the time it's writing boilerplate you already have a template for somewhere.\n\nPUA is a skill for Claude Code and Codex CLI that actually doubles your output. It pressures your agent into writing better code",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065342343872651452"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065342343872651452"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "therealscale",
+        "text": "1. Frontend Design Skill\n\nClaude’a “landing page yap” dediğinde hep aynı vasat sonucu alıyorsun: Inter font, mor gradient, beyaz arka plan, sıkıcı kartlar.\n\nBu skill’i yüklemeden Claude o ortalama bataklıktan çıkamıyor.\n\nFrontend Design Claude’a güçlü bir tasarım felsefesi yüklüy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065409488195072358"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065409488195072358"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2065327439476375760",
+      "author": "XFreeze",
+      "text": "Grok Build just got a major update with a ton of new features and improvements\n\nRelease Notes: v0.2.51\n\nBreaking Changes:\n• grok mcp add now accepts positional arguments (e.g. grok mcp add filesystem -- npx ...), supports --scope project, and adds -e/-H flags for env/headers.\n\nFe",
+      "likes": 1451,
+      "views": 0,
+      "url": "https://x.com/i/status/2065327439476375760",
+      "is_kol": false,
+      "score": 6233.0
+    },
+    {
+      "id": "2065319352723739077",
+      "author": "web3_marine",
+      "text": "One feature that keeps impressing me about @TheARCTERMINAL is how ANIMA turns from a simple chat into a full toolkit with active Skills inside the browser based onchain OS.\n\nYou can add ready made tools, connect workflows and have ANIMA reason across them with persistent memory \n",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2065319352723739077",
+      "is_kol": false,
+      "score": 746.0
+    },
+    {
+      "id": "2065290571720032280",
+      "author": "AYi_AInotes",
+      "text": "Claude Code、OpenClaw、Hermes、Codex，一个比一个能干， 但 2026 年了，这批最先进的 Agent 还集体卡在同一件小事上：\n 上不了网，查推特要付费 API，读小红书卡登录，上 Reddit 动不动被封 IP。\n\n一个叫 Agent Reach 的开源项目，把这三堵墙一起拆了， 26.4k stars，基本零 API 费用。\n\n它聪明在没造轮子： yt-dlp、gh CLI 这些本来就成熟的工具，它统一管起来， Claude Code / Cursor / OpenClaw 要用的时候自动调用， 本质上是给你的 Agen",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2065290571720032280",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2065348690605400376",
+      "author": "heynavtoor",
+      "text": "10 GitHub repos that automate real work while you sleep in 2026.\n\nBookmark this list.\n\n1. OpenHands\nAutonomous coding agent. 76,500 stars. Used by engineers at Apple, Google, Amazon, Netflix, and NVIDIA.\nRepo → https://t.co/kqap76TDuB\n\n2. Hermes Agent\nNous Research dropped this i",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2065348690605400376",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2065343355827974546",
+      "author": "coder_surya",
+      "text": "I use 5 Claude features that most people\nhave never opened once.\n\nThey change how the entire tool works.\n\nHere is what each one does (save this):\n\n𝟭. 𝗠𝗲𝗺𝗼𝗿𝘆 (Free, all plans)\n↳ Claude remembers your work context across chats\n↳ Settings > Capabilities > Generate memory\n↳ You stop ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2065343355827974546",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2065134976111099918",
+      "author": "HashiCorp",
+      "text": "Terraform MCP Server 1.0 is now GA. Connect AI assistants like GitHub Copilot, IBM Bob, and Claude Code to Terraform workflows to reduce manual effort, minimize context switching, and deliver infrastructure faster — with consistency and security built in. https://t.co/YiLxh8UaIh ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2065134976111099918",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2065200937883648477",
+      "author": "bankrbot",
+      "text": "read the docs, deployer. here's the setup path:\n\nwhat coinbase for agents is:\n• an isolated agent account under your coinbase login — agent trades with its own portfolio, you set guardrails (spending limits, scoped permissions)\n• spot + derivatives live now; stocks and prediction",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2065200937883648477",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2065317219433623579",
+      "author": "aduwaye77",
+      "text": "Good morning everyone 🌞 \nLet's make today count\n\n@useTria adding commodity perps feels bigger than it looks at first glance.\n\nA lot of people will focus on Copper and Natural Gas. What stands out to me is the distribution layer. The same wallet used for payments, yield, and every",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2065317219433623579",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2065120404172329137",
+      "author": "MongoDB",
+      "text": "MongoDB is now available in the Grok Build Plugin Marketplace!\n\nYou get:\n- Agent Skills for MongoDB workflows and best practices\n- MCP Server for real-time, context-aware guidance\n\nSee it in action.👇 https://t.co/12fiXLBsKE",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2065120404172329137",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2065139505800122584",
+      "author": "MSPowerPlat",
+      "text": "New in Power Platform, June 2026:\n\n- Closed-loop learning for enterprise agents (Power Apps MCP server)\n- Advanced connector policies, now GA\n- Run a Power App from a desktop flow (preview)\n\nSee the full roundup: https://t.co/JHFlE4joYp https://t.co/SgAMkUjUo1",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2065139505800122584",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2065286304322261497",
+      "author": "muskonomy",
+      "text": "NEWS: xAI is launching a plugin marketplace for Grok Build.\n\nGrok Build is xAI's coding tool. It now has a built-in marketplace where developers can browse, install and update plugins without leaving the terminal.\n\nA plugin bundles skills, slash commands, agents, hooks, MCP serve",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2065286304322261497",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2065154703068193138",
+      "author": "pablovelagomez1",
+      "text": "There's been a few cool updates recently. In particular, @rerundotio 0.33 released headless rendering. This, along with the Fable 5 release pushed me to work torwards making MAMMA realtime!\n\nI threw Fable at the problem, and it was able to take original implementation that was ~1",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2065154703068193138",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2065136233089556488",
+      "author": "Veilnet_",
+      "text": "The core idea behind $VEILNET is simple:\n\npublic chains should stay verifiable, but users should not have to expose everything.\n\nA blockchain can verify settlement without needing the full private route.\n\nAn agent can use tools without seeing every strategy in plaintext.\n\nA portf",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2065136233089556488",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2065389065734906263",
+      "author": "socialwithaayan",
+      "text": "I use 5 Claude features that most people\nhave never opened once.\n\nThey change how the entire tool works.\n\nHere is what each one does (save this):\n\n𝟭. 𝗠𝗲𝗺𝗼𝗿𝘆 (Free, all plans)\n↳ Claude remembers your work context across chats\n↳ Settings > Capabilities > Generate memory\n↳ You stop ",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2065389065734906263",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2065281192690340286",
+      "author": "F2aldi",
+      "text": "Sudah banyak yang jawab, cman mau menambahkan catatan aja. Sejak Codex, Claude Code bisa akses browser, Chat etc. \n\nModels ditahap Opus 4.8 dan GPT 5.5, kita bisa menambahkan konteks2 dengan history commit, chat slack/teams, etc buat nambah context AI supaya makin ngerti codebase",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2065281192690340286",
+      "is_kol": false,
+      "score": 165.0
+    },
+    {
+      "id": "2065386253860655290",
+      "author": "ScottyBeamIO",
+      "text": "YOU COULD BE MAKING $3,000/MONTH WRITING LINKEDIN CONTENT WITH CLAUDE AND MOST PEOPLE DON'T KNOW THIS WORKFLOW EXISTS\n\nThis guy doesn't write a single LinkedIn post manually. Claude does all of it.\n\nOne command. Claude interviews him. He talks. Claude writes, designs, and schedul",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2065386253860655290",
+      "is_kol": false,
+      "score": 149.0
+    },
+    {
+      "id": "2065366173307519142",
+      "author": "pravita_pandey",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and Bookmark it now. https://t.co/J2Xjm4mfaB",
+      "likes": 29,
+      "views": 0,
+      "url": "https://x.com/i/status/2065366173307519142",
+      "is_kol": false,
+      "score": 142.0
+    },
+    {
+      "id": "2065393967638945947",
+      "author": "Dipanshu_AI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/q2PzxKcMOq",
+      "likes": 22,
+      "views": 0,
+      "url": "https://x.com/i/status/2065393967638945947",
+      "is_kol": false,
+      "score": 126.0
+    }
+  ]
+}

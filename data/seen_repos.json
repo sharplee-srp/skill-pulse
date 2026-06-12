@@ -3546,5 +3546,41 @@
   "chawyehsu/moonup": {
     "first_seen": "2026-06-11",
     "tier": 3
+  },
+  "joeseesun/qiaomu-ai-prd": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "peilihua/us-stock-laosiji": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "bkerler/ida_rpc": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-twitter-agent-ops": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "powabase-ai/agent-skills": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "buildgreatproducts/builder-os": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "jafupy/skills": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "googleworkspace/cli": {
+    "first_seen": "2026-06-12",
+    "tier": 3
+  },
+  "luckypipewrench/pipelock": {
+    "first_seen": "2026-06-12",
+    "tier": 3
   }
 }
