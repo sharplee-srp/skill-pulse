@@ -3582,5 +3582,33 @@
   "luckypipewrench/pipelock": {
     "first_seen": "2026-06-12",
     "tier": 3
+  },
+  "jakubantalik/transitions.dev": {
+    "first_seen": "2026-06-13",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-goal-meta-skill": {
+    "first_seen": "2026-06-13",
+    "tier": 3
+  },
+  "openhands/openhands": {
+    "first_seen": "2026-06-13",
+    "tier": 3
+  },
+  "greenpeez/premium-motion-pipeline": {
+    "first_seen": "2026-06-13",
+    "tier": 3
+  },
+  "specstoryai/getspecstory": {
+    "first_seen": "2026-06-13",
+    "tier": 3
+  },
+  "iamvishal16/swiftui-microinteractions": {
+    "first_seen": "2026-06-13",
+    "tier": 3
+  },
+  "raster-app/agent-skills": {
+    "first_seen": "2026-06-13",
+    "tier": 3
   }
 }

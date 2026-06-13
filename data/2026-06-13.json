@@ -1,0 +1,513 @@
+{
+  "date": "2026-06-13",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 14,
+    "unique_repos": 15,
+    "new_repos": 7,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 2,
+      "is_new": true,
+      "score": 746.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 207,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jakubantalik",
+        "text": "Added Motion tokens with usage info to https://t.co/d7VPDcObUs \n\nThey work with transitions skill and  \"Transitions refine\" command\nnpx skills add jakubantalik/transitions.dev https://t.co/iKB9uV9C08",
+        "likes": 207,
+        "url": "https://x.com/i/status/2065455332986356120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065455332986356120"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-goal-meta-skill",
+      "github_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 462.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 79,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gkxspace",
+        "text": "如果你的 Codex  /goal 跑一晚上，第二天一看烂尾了，可能真不怪 Codex。。。\n\n十有八九是 goal 写得太辣鸡了，比如“帮我做个 App”、“修一下 bug\"，这种话人能听懂，agent 不知道怎么验证、重试几次、啥时候该停。\n\n乔木老师把他那篇 4 万字的 Goal 文档做成了一个 skill：\n你说一句话需求，它给你翻译成一份完整的任务合同，验证方式、约束、写入边界、迭代策略、完成条件、暂停条件全部补齐，复制就能跑。\n\nnpx skills add joeseesun/qiaomu-goal-meta-skill\n\n装完之后，你就可",
+        "likes": 79,
+        "url": "https://x.com/i/status/2065632499926257866"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065632499926257866"
+      ]
+    },
+    {
+      "repo": "openhands/openhands",
+      "github_url": "https://github.com/openhands/openhands",
+      "tier": 3,
+      "is_new": true,
+      "score": 275.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "InduTripat82427",
+        "text": "10 GitHub repos that automate real work while you sleep in 2026.\n\nBookmark this list.\n\n1. OpenHands\nAutonomous coding agent. 76,500 stars. Used by engineers at Apple, Google, Amazon, Netflix, and NVIDIA.\nRepo → https://t.co/j2VItCC5uq\n\n2. Hermes Agent\nNous Research dropped this i",
+        "likes": 30,
+        "url": "https://x.com/i/status/2065729403678822868"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065729403678822868"
+      ]
+    },
+    {
+      "repo": "greenpeez/premium-motion-pipeline",
+      "github_url": "https://github.com/greenpeez/premium-motion-pipeline",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flyest",
+        "text": "america just banned Fable 5 but it's ok.\n\nyou can still use my animation pipeline skill to make videos like this with the free blender MCP. and it's model-agnostic. \n\nnpx skills add greenpeez/Premium-Motion-Pipeline https://t.co/qIgkZnytdR https://t.co/0frNAllrqT",
+        "likes": 3,
+        "url": "https://x.com/i/status/2065602924302975348"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065602924302975348",
+        "https://x.com/i/status/2065448584422584736"
+      ]
+    },
+    {
+      "repo": "specstoryai/getspecstory",
+      "github_url": "https://github.com/specstoryai/getspecstory",
+      "tier": 3,
+      "is_new": true,
+      "score": 125.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "specstoryai",
+        "text": "/lore is now live \n\nAutomatically turn your AI session histories into reusable Skills. \n\nnpx skills add specstoryai/getspecstory --skill lore\n\nThe raw material is already on your machine.\n\nMost useful skill we've ever built. \nhttps://t.co/DqQ73gefJP https://t.co/dpqCGNOQRP",
+        "likes": 5,
+        "url": "https://x.com/i/status/2065461580020494620"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065461580020494620"
+      ]
+    },
+    {
+      "repo": "iamvishal16/swiftui-microinteractions",
+      "github_url": "https://github.com/iamvishal16/swiftui-microinteractions",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamvishal16_ios",
+        "text": "Add this simple command to any agentic agent.\n\nnpx skills add iAmVishal16/swiftui-microinteractions",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065471741757989132"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065471741757989132"
+      ]
+    },
+    {
+      "repo": "raster-app/agent-skills",
+      "github_url": "https://github.com/raster-app/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "raster_app",
+        "text": "The Raster CLI is here — plus an installable skill for your coding agent 🖼️\n\n🖥️ npm i -g @raster-app/cli → upload, search, tag from your shell or CI\n🤖 npx skills add raster-app/agent-skills → Cursor, Claude Code, Copilot learn the API\n\nhttps://t.co/JrslaLfkfb\nhttps://t.co/puVPVt5",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065469368146759771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065469368146759771"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 2,
+      "is_new": false,
+      "score": 1176.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 347,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LukeberryPi",
+        "text": "se você usar shadcn/improve e pedir \"/improve this codebase\" você vai melhorar substancialmente a qualidade do seu código\n\nsim, a gente chegou lá. passo-a-passo:\n\n- roda `npx skills add shadcn/improve` no terminal\n- abre seu Claude Code, Cursor ou Codex\n- \"/improve this codebase\"",
+        "likes": 347,
+        "url": "https://x.com/i/status/2065437209679802597"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065437209679802597"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 298.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharbel",
+        "text": "9 GitHub repos this week that make your AI agents actually useful:\n\n1. last30days-skill - researches any topic across Reddit, X, YouTube, HN, and Polymarket automatically\nhttps://t.co/jSgEaixGd9\n\n2. headroom - compresses logs and files before they hit the LLM, 60-95% fewer tokens",
+        "likes": 51,
+        "url": "https://x.com/i/status/2065700640387436935"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065700640387436935"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 234.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.17.4 released. TL;DR: connector auth foundation ships, MCP gets cwd/header fixes, v2 API/SDK expands, and TUI error visibility improves.\n\n𝗖𝗼𝗿𝗲\n• Added a scoped connector registry for key and OAuth auth flows, including attempt state, refresh, cancellation, expiration,",
+        "likes": 43,
+        "url": "https://x.com/i/status/2065475873491317127"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065475873491317127"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@Chris_Wozniczek @Remotion @moonfarm_dev @HyperFrames_ npx skills add heygen-com/hyperframes for HyperFrames CLI and for HeyGen cli with npx skills add heygen-com/skills, explore also the Catalog: https://t.co/HBM4hSOOrN",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065572791177359719"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065572791177359719"
+      ]
+    },
+    {
+      "repo": "heygen-com/skills",
+      "github_url": "https://github.com/heygen-com/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@Chris_Wozniczek @Remotion @moonfarm_dev @HyperFrames_ npx skills add heygen-com/hyperframes for HyperFrames CLI and for HeyGen cli with npx skills add heygen-com/skills, explore also the Catalog: https://t.co/HBM4hSOOrN",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065572791177359719"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065572791177359719"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "@Alpha_Bybit 🤖 Automate your strategies with Byreal Agent Skills.\nGo long or short $SPCX on Byreal Perps, and swap or LP on Byreal.\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/BT5y44H38B",
+        "likes": 1,
+        "url": "https://x.com/i/status/2065465713419288664"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065465713419288664"
+      ]
+    },
+    {
+      "repo": "flutter/skills",
+      "github_url": "https://github.com/flutter/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sayed3li97",
+        "text": "Setup is one command per repo:\nnpx skills add flutter/skills --skill '' --agent universal npx skills add dart-lang/skills --skill '' --agent universal\nDrops into .agents/skills. Commit it so your whole team + CI inherit the same expertise.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065464698082894020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065464698082894020"
+      ]
+    },
+    {
+      "repo": "dart-lang/skills",
+      "github_url": "https://github.com/dart-lang/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sayed3li97",
+        "text": "Setup is one command per repo:\nnpx skills add flutter/skills --skill '' --agent universal npx skills add dart-lang/skills --skill '' --agent universal\nDrops into .agents/skills. Commit it so your whole team + CI inherit the same expertise.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2065464698082894020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2065464698082894020"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2065441614659482094",
+      "author": "RobinhoodApp",
+      "text": "Options are now rolling out for agentic trading.\n\nDiscover chains, pull quotes with full Greeks, check positions, and place or cancel orders. All through the Robinhood Trading MCP server. https://t.co/kNHzxQIYAO",
+      "likes": 827,
+      "views": 0,
+      "url": "https://x.com/i/status/2065441614659482094",
+      "is_kol": false,
+      "score": 2761.0
+    },
+    {
+      "id": "2065493219320713590",
+      "author": "github",
+      "text": "Your standards. Your tools. Every review.\n\nCopilot code review supports custom agent skills and MCP server connections. Now in public preview for existing Copilot Pro, Pro+, Business, and Enterprise users.\n\nBring your org's context and standards right into the diff. 💡 https://t.c",
+      "likes": 215,
+      "views": 0,
+      "url": "https://x.com/i/status/2065493219320713590",
+      "is_kol": true,
+      "score": 750.0
+    },
+    {
+      "id": "2065585744513499220",
+      "author": "slash1sol",
+      "text": "A DEVELOPER PROVED YOU CAN FIND THE EXACT COMMIT THAT BROKE YOUR CODE IN A HISTORY OF 10,000 -- IN ABOUT 13 STEPS, AUTOMATICALLY..\n\n33 minutes from a Google engineer on git bisect: the built-in command that binary-searches your entire history to hunt down the one commit that intr",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2065585744513499220",
+      "is_kol": false,
+      "score": 699.0
+    },
+    {
+      "id": "2065658246329983019",
+      "author": "fadysan_rh",
+      "text": "Claude CodeでOpus 4.8（やFable 5😭）からgit/ghを叩くとき、処理をHaikuのsubagentに委譲するskillを書いた。\n\n「Haikuの方が安いから節約になる」と思って組んだんだけど、コストで詰めて考えると、効く理由はもっと具体的だった。単に単価が安いから、ではない。",
+      "likes": 180,
+      "views": 0,
+      "url": "https://x.com/i/status/2065658246329983019",
+      "is_kol": false,
+      "score": 600.0
+    },
+    {
+      "id": "2065450636108255585",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT IS PULLING AHEAD OF OPENCLAW.\n8 FEATURES THAT WILL MAKE YOU SWITCH.\n\n1. HERMES GETS SMARTER EVERY RUN.\n\nHermes updates its own skills after every completed task.\nwhat worked gets saved. what failed gets refined.\n\nthe Curator runs in the background every 7 days.\nprune",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2065450636108255585",
+      "is_kol": false,
+      "score": 457.0
+    },
+    {
+      "id": "2065621568575983927",
+      "author": "sonalshukla3377",
+      "text": "🚀 𝗧𝗼𝗽 𝟭𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀 𝗧𝗵𝗮𝘁 𝗧𝘂𝗿𝗻 𝗖𝗹𝗮𝘂𝗱𝗲 𝗜𝗻𝘁𝗼 𝗔 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲\n\n⚡ Turn Claude from a simple AI assistant into a powerful workflow engine.\n\nThese GitHub repos help you automate, build, research, and ship faster.\n\n🔹 𝗢𝟭. 𝗥𝗲𝗽𝗼𝗺𝗶𝘅\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗱𝗼𝗲𝘀: Packs your full codebase into one AI",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2065621568575983927",
+      "is_kol": false,
+      "score": 409.0
+    },
+    {
+      "id": "2065559839036637291",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT WITHOUT TOOLS IS A CHATBOT.\nWITH THEM IT BUILDS 3D TOWERS IN BLENDER,\nCHECKS STOCK PRICES, AND DRIVES VS CODE.\n@tonbistudio JUST DROPPED THE FULL GUIDE.\n\nmodule 6 of his 10-part Hermes masterclass.\nbest breakdown of the tool layer anyone has published.\n\nwhat you need",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2065559839036637291",
+      "is_kol": false,
+      "score": 346.0
+    },
+    {
+      "id": "2065504829519352208",
+      "author": "aaronjmars",
+      "text": "aeon / miroshark shiplog ⭐ week of jun 8\n\nshipped ~95 PRs this week. the bytes:\n\n- bring your own intelligence: aeon runs on 6 LLM providers now. claude sub, @OpenRouter, @bankrbot, @AskVenice, @AskSurplus, usepod. dynamic routing picks whatever key you set & cascades to the next",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2065504829519352208",
+      "is_kol": false,
+      "score": 337.0
+    },
+    {
+      "id": "2065539716402106767",
+      "author": "alvinsng",
+      "text": "It's not just Meta.\n\nCompanies are blowing my boss's phone because their token bills are out of control. Why:  \n\n- Factory Router: automatically picks the right model, saves 25% without sacrificing quality. \n- Enterprise controls: set spending limits or model restrictions org-wid",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2065539716402106767",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2065561010333962617",
+      "author": "tonbistudio",
+      "text": "Introducing Agent Wikis! I've been using llm wikis (or knowledge bases) for research and videos for a while to ensure the information I'm providing is always up-to-date and accurate. Now you can access them for free! Just point your agent at https://t.co/CCfLJenYdd to access wiki",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2065561010333962617",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2065678107764502539",
+      "author": "Alan_Earn",
+      "text": "Easy Claude + Fanvue MCP Tutorial 2026: Make $5.3k/Month From AI Girls 💰",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2065678107764502539",
+      "is_kol": false,
+      "score": 293.0
+    },
+    {
+      "id": "2065713282879471875",
+      "author": "anujcodes_21",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now. https://t.co/855pNSW5dk",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2065713282879471875",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2065426762268594208",
+      "author": "recat_125",
+      "text": "AgentCore Gateway における MCP Server や REST API へのプライベート接続パターンについての解説記事です。\n\nVPC Lattice (private endpoint), VPC Link, ENI を利用した接続パターンや、マルチクラウド接続、クロスアカウント接続についても方法論が提示されてます。\n\nhttps://t.co/OVPqo1wrRO https://t.co/IAfLMFkBoI",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2065426762268594208",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2065579423970275723",
+      "author": "MachJustine",
+      "text": "the bottleneck to good taste is just your personal context.\n\nso i built a taste-finder skill on https://t.co/JX7AN8UXvf. i taught my agent to scrape my website, pinterest, and instagram, and fable 5 distills it all into one cohesive aesthetic.\n\nthe result: a personalized \"taste\" ",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2065579423970275723",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2065664315051462723",
+      "author": "lnkybtc",
+      "text": "魏老师推荐的这个仓库对于出入境通讯很管用，多搭几个自己的全球节点基本一个 profile 可以走天下了。\n\n现在 agent 很发达了，解放了动手能力，以前还有理由推搪说 \"懒得自己搭梯子\"，非工业场景下现在没有任何理由去买一些公共线路。和资金一样，走公共流量 pool 自然审查概率高，一定要有自己的私有线路。把这个仓库喂给 AI 就行了，相当于一个 skill 集合（在当年这些脚本可能还不叫 skill)。\n\n对于人在国内，准备一台配置最低的海外 VPS，成本不会超过 10 美元每月（见图一例子）。让 AI 上去把线路搭好，只开 443 端口（特征最低",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2065664315051462723",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2065533666441277641",
+      "author": "orithellama",
+      "text": "We’ll be adding a MCP server where you can connect your agent + wallet so it’ll be easy to use compute per request and only pay per job instead of per hour.",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2065533666441277641",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2065460106620252344",
+      "author": "SpringAICentral",
+      "text": "🚀 Spring AI 2.0.0 GA is now available! \n\n🏗️ Improved foundations: Spring Boot 4 baseline, null-safety, Jackson 3, re-designed options\n🤖 Agentic improvements: unified tool calling, tool search, self-correcting output\n🔌 MCP 2025-11-25 spec integration \n\nhttps://t.co/VEfs8ryriW",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2065460106620252344",
+      "is_kol": false,
+      "score": 178.0
+    },
+    {
+      "id": "2065425802913517756",
+      "author": "krippenreiter",
+      "text": "Build something cool around AI, folks! 😀\n\nX402 is supported for XRP and RLUSD, and you can guide your AI to read the XRPL docs more effectively with an XRPL MCP server.\n\nGood luck! 😇 https://t.co/SJP090T7Zg",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2065425802913517756",
+      "is_kol": false,
+      "score": 150.0
+    }
+  ]
+}
