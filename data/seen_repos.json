@@ -3610,5 +3610,29 @@
   "raster-app/agent-skills": {
     "first_seen": "2026-06-13",
     "tier": 3
+  },
+  "simonlin1212/a-stock-data": {
+    "first_seen": "2026-06-14",
+    "tier": 2
+  },
+  "smartcontractkit/chainlink-agent-skills": {
+    "first_seen": "2026-06-14",
+    "tier": 3
+  },
+  "kanna12580/kk-knowledge-agent": {
+    "first_seen": "2026-06-14",
+    "tier": 3
+  },
+  "blader/humanizer": {
+    "first_seen": "2026-06-14",
+    "tier": 3
+  },
+  "nvidia/skills": {
+    "first_seen": "2026-06-14",
+    "tier": 3
+  },
+  "xiaoyuboi/cloudflare-tunnel-skill": {
+    "first_seen": "2026-06-14",
+    "tier": 3
   }
 }
