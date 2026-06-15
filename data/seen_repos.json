@@ -3634,5 +3634,49 @@
   "xiaoyuboi/cloudflare-tunnel-skill": {
     "first_seen": "2026-06-14",
     "tier": 3
+  },
+  "wesson9527/sykes-pennystock-radar": {
+    "first_seen": "2026-06-15",
+    "tier": 2
+  },
+  "mvanhorn/cli-printing-press": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "royalti-io/ikenga-artifact-builder": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "kakacn/xiaoyuzhou-transcribe": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "majidmanzarpour/threejs-game-skills": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "post-bridge-hq/agent-mode": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "thedavidweng/skills": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "chihoai/telegram-for-ai-agents": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "uditakhourii/adhd": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "alexandretrotel/skills": {
+    "first_seen": "2026-06-15",
+    "tier": 3
+  },
+  "aiming-lab/metaclaw": {
+    "first_seen": "2026-06-15",
+    "tier": 3
   }
 }

@@ -1,0 +1,556 @@
+{
+  "date": "2026-06-15",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 173,
+    "tweets_with_repos": 19,
+    "unique_repos": 16,
+    "new_repos": 11,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "wesson9527/sykes-pennystock-radar",
+      "github_url": "https://github.com/wesson9527/sykes-pennystock-radar",
+      "tier": 2,
+      "is_new": true,
+      "score": 541.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 117,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kaikaibtc",
+        "text": "把美股当Meme炒，用1.2万刀狂赚750万刀，仙股交易员@timothysykes\n\n你以为只有币圈能把几百块炒成几百万？\n\n有个美国人，17岁拿着1.2万美金进场，大学没毕业，账户已经滚到165万美金。\n\n后来他把全部实盘记录公开在https://t.co/wLLEwkPdHP上——9555笔交易，胜率75.5%，总盈利将近800万美金。\n\n连续三年在Covestor的60000多名交易员里排名第一。\n\nCNN采访他，福克斯请他上节目，哈佛请他去演讲。\n\n他只做日内交易，只玩仙股，持仓从不过夜。\n\n别人买英伟达、特斯拉，他在买什么？$1以下的垃圾股，",
+        "likes": 117,
+        "url": "https://x.com/i/status/2066433598505492560"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066433598505492560"
+      ]
+    },
+    {
+      "repo": "mvanhorn/cli-printing-press",
+      "github_url": "https://github.com/mvanhorn/cli-printing-press",
+      "tier": 3,
+      "is_new": true,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "petergyang",
+        "text": "My top 5 takeaways from @mvanhorn:\n\n1. Stop clicking around websites. Print them into CLIs your agents can run.\n\nMatt built Printing Press to turn websites and apps into command-line tools for agents. It researches docs, finds niche repos, and uncovers hidden API calls so agents ",
+        "likes": 33,
+        "url": "https://x.com/i/status/2066528666511987059"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066528666511987059"
+      ]
+    },
+    {
+      "repo": "royalti-io/ikenga-artifact-builder",
+      "github_url": "https://github.com/royalti-io/ikenga-artifact-builder",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoyaltiIO",
+        "text": "Click them live, no install: https://t.co/vujuIXfk2o — or read every line in the repo.\n\nnpx skills add royalti-io/ikenga-artifact-builder\n\nhttps://t.co/K3UCY02kom",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066483456708673999"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066483456708673999",
+        "https://x.com/i/status/2066430632440267085"
+      ]
+    },
+    {
+      "repo": "kakacn/xiaoyuzhou-transcribe",
+      "github_url": "https://github.com/kakacn/xiaoyuzhou-transcribe",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cxxcn",
+        "text": "🎙️ 开源了一个 Agent Skill：把小宇宙播客单集链接一键转成 Markdown 逐字稿（Groq Whisper，免费）。\n\n支持 OpenClaw / Cursor / Claude Code / Codex。\n\nhttps://t.co/1Zs4DetoKx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066417036503228814"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066417036503228814",
+        "https://x.com/i/status/2066416684689158547"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jomolos",
+        "text": "Son zamanlarda yapay zeka destekli oyun geliştirmede ilginç bir adım atıldı. Bunu paylaşmak istedim.\n\nMajid Manzarpour adlı geliştirici Three.js tabanlı tarayıcı oyunlarını çok daha profesyonel seviyeye taşıyan açık kaynaklı bir sistem hazırladı. Buna game director skill diyorlar",
+        "likes": 13,
+        "url": "https://x.com/i/status/2066509781183991826"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066509781183991826"
+      ]
+    },
+    {
+      "repo": "post-bridge-hq/agent-mode",
+      "github_url": "https://github.com/post-bridge-hq/agent-mode",
+      "tier": 3,
+      "is_new": true,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jackfriks",
+        "text": "CLI boring????\n\ngive it to your agent: npx skills add post-bridge-hq/agent-mode\n\nmore info: https://t.co/cVKU3eA31n",
+        "likes": 11,
+        "url": "https://x.com/i/status/2066303226941452633"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066303226941452633"
+      ]
+    },
+    {
+      "repo": "thedavidweng/skills",
+      "github_url": "https://github.com/thedavidweng/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thedavidweng",
+        "text": "做了前几个月炒作狗最爱干的事情，把 XX 蒸馏成 AI Skill。\n\n最近整了很多 GO 小工具，于是把 Production Go 这本书蒸馏成 /go-production-review 挑出项目里很多刺\n\nnpx skills add thedavidweng/skills\n\nhttps://t.co/kuW2PUozan https://t.co/noPA9msYaa",
+        "likes": 9,
+        "url": "https://x.com/i/status/2066375811729600935"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066375811729600935"
+      ]
+    },
+    {
+      "repo": "chihoai/telegram-for-ai-agents",
+      "github_url": "https://github.com/chihoai/telegram-for-ai-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chriscyph",
+        "text": "SaaS is dead.\n\nSo I turned my SaaS into a collection of SKILL files: https://t.co/nPgYgO7Bkr\n\nSimply point your @openclaw or @claudeai to https://t.co/u1gcEQlYrt and let it automate your Telegram workflows. https://t.co/TxzchLiyRX",
+        "likes": 1,
+        "url": "https://x.com/i/status/2066451296568406071"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066451296568406071"
+      ]
+    },
+    {
+      "repo": "uditakhourii/adhd",
+      "github_url": "https://github.com/uditakhourii/adhd",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vibecodingth",
+        "text": "ลองได้เลยวันนี้ ติดตั้งด้วยคำสั่งเดียว `npx skills add UditAkhourii/adhd`\n\nใช้ได้กับเครื่องมือ AI เขียนโค้ดอย่าง Claude Code · Cursor · Codex และอีกราว 50 ตัว\n\nไม่ต้องใช้ทุกงาน · งัดมาตอนที่เลือกผิดแล้วต้องรื้อใหม่ทั้งวัน นั่นแหละจังหวะที่คุ้มสุด\n\n(สกิลโดย UditAkhourii)\n\n7/9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066448819370561581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066448819370561581"
+      ]
+    },
+    {
+      "repo": "alexandretrotel/skills",
+      "github_url": "https://github.com/alexandretrotel/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alexandretrotel",
+        "text": "Sharing my AI coding agent workflows from my daily startup work.\n\nissue-driven-branching — lets agents use issue tracker branches (Linear, Jira, GitHub) instead of making them up.\n\nMore skills to come soon...\n\nnpx skills add alexandretrotel/skills\n\nhttps://t.co/FcON2JvWCg",
+        "likes": 1,
+        "url": "https://x.com/i/status/2066514109919543545"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066514109919543545"
+      ]
+    },
+    {
+      "repo": "aiming-lab/metaclaw",
+      "github_url": "https://github.com/aiming-lab/metaclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "y_5k110",
+        "text": "AIエージェントのloop設計を見てると、OpenClawのMetaClaw (ややこしい)が注目されてる理由がよく分かる。これがあるから現段階では自己改善系のSkillは入れてない。\n\nhttps://t.co/liuNOfmyDF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066539227635122362"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066539227635122362"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zesee",
+        "text": "Codex 提效先看这 10 个 Skill（官方版）\n\n把这些 Skill 看明白，很多重复劳动可以直接少一半。\n\n1. Frontend Design\nhttps://t.co/jxq7i0iKEX\n专治 AI 前端审美。\n少一点蓝紫渐变、默认字体、模板卡片、按钮乱飞。适合做网页、小工具 UI、数据看板、SaaS 原型。\n\n2-4. docx / xlsx / pdf\nhttps://t.co/KucYzS3RMN\n让 Agent 正经处理 脏活累活。\n不是把 Markdown 复制进文档就完事，而是能管目录、页眉页脚、批注、修订、图片替换和模板。写",
+        "likes": 36,
+        "url": "https://x.com/i/status/2066512424665055431"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066512424665055431"
+      ]
+    },
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "keef_ai",
+        "text": "npx skills add shadcn/improve drops and Miasma already sits inside 73 Microsoft repos harvesting creds. Your audit agent that reads everything just rang the dinner bell. https://t.co/QQa43mFtlR",
+        "likes": 2,
+        "url": "https://x.com/i/status/2066297056658898980"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066526255160430907",
+        "https://x.com/i/status/2066297056658898980"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 137.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCode_UT",
+        "text": "【注目】\nClaude Codeにアニメーション生成Skillsが追加できるOSSが公開された😳\n\nnpx skills add diffusionstudio/lottie\nこのコマンド1行で、テキスト→Lottieアニメーション変換の能力がClaude Codeに入る👇\nhttps://t.co/J3ppi0XU0D\n\n・text-to-lottie: diffusionstudio が公開したオープンソースのSkills\n・テキストプロンプトから実用レベルのLottieアニメーションを生成\n・Claude Code / Codex の両方で動く\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2066506270673346986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066506270673346986"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ellieorange8",
+        "text": "如何成为高级程序员？\n\n1.安装Matt Pocock的 /teach 技能\nnpx skills add mattpocock/skills --skill teach\n\n2.在笔记本上创建一个新的工作目录\nmkdir junior-to-senior\ncd junior-to-senior\n\n3.在该目录中启动你的编码代理claude\n\n4.复制以下提示词：/teach me how to be a great strategic programmer. My opinion is that AI is eating 'tactical, on-th",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066483104991052106"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066483104991052106"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "okxchinese",
+        "text": "安装指南\n1、已接入过 Agent Trade Kit？升级即可使用\n跟 Agent 说： \"运行 npx skills add okx/agent-skills，将我的 OKX CEX Skills 更新到最新版本，okx-trade-cli 更新到1.3.8版本以上，并启用 'okx-outcomes' skill，帮我开始积分预测交易\"\n\n2、还未接入 Agent Trade Kit ？首次安装，15秒一键快连！\nOKX AI 101 零门槛教程 → https://t.co/zmvOcJL02R",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066461951308484746"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066461951308484746"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2066391540336034256",
+      "author": "pejmanjohn",
+      "text": "Built a web interface for @mattpocockuk's excellent /teach skill.\n\nUses Claude Managed Agents so its the same skill you get with your coding agent, just in your browser with nothing to install. Perfect for non-technical users.\n\nLearn something new now (no sign-up or API key neede",
+      "likes": 414,
+      "views": 0,
+      "url": "https://x.com/i/status/2066391540336034256",
+      "is_kol": false,
+      "score": 1327.0
+    },
+    {
+      "id": "2066247422502957197",
+      "author": "hasantoxr",
+      "text": "So I found a github repo that stops AI agents from burning tokens for no reason.\n\nIt’s called Headroom.\n\nIt's built by a guy name Tejas Chopra who works at Netflix.\n\nBasically, it compresses all the things your AI agent reads before it reaches the LLM.\n\nFor example:\n\n- Tool outpu",
+      "likes": 355,
+      "views": 0,
+      "url": "https://x.com/i/status/2066247422502957197",
+      "is_kol": false,
+      "score": 1255.0
+    },
+    {
+      "id": "2066510572586225912",
+      "author": "clavlys",
+      "text": "A concept of Durins abyss claw from his skill 👀 what if he can precisely manipulate it https://t.co/R5W0z3meQk",
+      "likes": 292,
+      "views": 0,
+      "url": "https://x.com/i/status/2066510572586225912",
+      "is_kol": false,
+      "score": 1021.0
+    },
+    {
+      "id": "2066525718968676548",
+      "author": "ChadSteingraber",
+      "text": "The XRP Ledger Payment Skill for Claude AI✅\n\nAI can transact in both XRP and RLUSD ✅ https://t.co/fW35vIIR0m",
+      "likes": 249,
+      "views": 0,
+      "url": "https://x.com/i/status/2066525718968676548",
+      "is_kol": false,
+      "score": 942.0
+    },
+    {
+      "id": "2066506703554920812",
+      "author": "caffeineai",
+      "text": "Connect Claude, ChatGPT, Cursor, Perplexity, or Codex to Caffeine.\n\nThe Caffeine MCP server is live.\n\nOne URL. One browser sign-in.\n\nDescribe what you want built from inside your AI tool - it sends the prompt straight to Caffeine. Get updates on what's being built without leaving",
+      "likes": 195,
+      "views": 0,
+      "url": "https://x.com/i/status/2066506703554920812",
+      "is_kol": false,
+      "score": 905.0
+    },
+    {
+      "id": "2066455312723324976",
+      "author": "bullarmy5",
+      "text": "$KAS holders finally have a real DeFi use case. 🚀\n\n@AppKaskad allows users to deposit iKAS, borrow stablecoins, and earn yield without giving up exposure to KAS. That’s a huge step forward for long-term holders looking to put idle assets to work.\n\nWith AI-powered automation, an o",
+      "likes": 158,
+      "views": 0,
+      "url": "https://x.com/i/status/2066455312723324976",
+      "is_kol": false,
+      "score": 839.0
+    },
+    {
+      "id": "2066401274070012039",
+      "author": "David_TornAI",
+      "text": "🚨 Claude Code vs Cursor vs Codex?\n\nThat's the wrong question.\n\nThe real question is:\n\nWhich tool fits your workflow right now?\n\nToo many people argue about which AI coding tool is \"best.\"\n\nThe truth?\n\nEach one solves a different problem.\n\nHere's the no-hype breakdown 👇\n\n⚡ Claude ",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2066401274070012039",
+      "is_kol": false,
+      "score": 688.0
+    },
+    {
+      "id": "2066526771864883705",
+      "author": "RobinhoodApp",
+      "text": "Agentic Trading is live for all customers.\n\nConnect any AI agent through the Robinhood MCP server, fund a dedicated agentic account, and let it research, trade, and rebalance on your terms.\n\nWatch our VP of Product, @abhishekf96, walk you through it 👇 https://t.co/QFgxyQiHit",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2066526771864883705",
+      "is_kol": false,
+      "score": 583.0
+    },
+    {
+      "id": "2066529618840924582",
+      "author": "humanode_io",
+      "text": "One skill - free generations of images, video, and even hiring humans for micro-tasks. \n\nPoint agents at https://t.co/3oaBF8HN2z and they walk themselves through the flow: store the key, get the owner to biomap and link on Base, then sign every request as a verified-human agent.\n",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2066529618840924582",
+      "is_kol": false,
+      "score": 559.0
+    },
+    {
+      "id": "2066457271014441310",
+      "author": "sunrise_venture",
+      "text": "🚀 Massive milestone for @AppKaskad as TVL officially surpasses $2M+!\n\nFor years, many $KAS holders simply watched their coins sit idle. Kaskad changes that by allowing users to deposit iKAS, borrow stablecoins, and earn real-time yield while maintaining exposure to Kaspa’s long-t",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2066457271014441310",
+      "is_kol": false,
+      "score": 439.0
+    },
+    {
+      "id": "2066455426426658931",
+      "author": "badboyfoxy",
+      "text": "Ai loop design is an  underrated skill  right now !! \n\n\" you should be designing loops that promote your agents\"  this was said by open claw founder @steipete \n\nwhat is loop engineering ? \n \npeople use still use AI like google, you ask a question and it gives an answer,  it might",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2066455426426658931",
+      "is_kol": false,
+      "score": 433.0
+    },
+    {
+      "id": "2066346573693645091",
+      "author": "nik1t7n",
+      "text": "I turned @itsreallyvivek's “how to be good at research” essay into an agent skill.\n\nresearch-craft helps agents plan better research loops: choose problems, forecast experiments, keep logs, inspect failures, and tighten iteration.\n\nnpx -y skills add nik1t7n/research-craft-skill -",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2066346573693645091",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2066450588368515406",
+      "author": "sjsandeep_jain",
+      "text": "Most AI engineers know what MCP is.\n\nVery few understand the 5 server patterns that make AI agents scalable, maintainable, and production-ready.\n\nHere's the architecture every AI builder should know 👇\n\n1. Tool Server 🔧\nGives LLMs the ability to take actions:\n• Call APIs\n• Send em",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2066450588368515406",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2066420366390763754",
+      "author": "dimagrossman",
+      "text": "Today we're shipping @novuhq Connect.\n\nAgent Communication Infrastructure. Connect your agent to where your customers are: Email, Slack, MS Teams, WhatsApp, Telegram, and more channels coming soon. Without building any of the plumbing.\n\nYou bring the agent intelligence, we bring ",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2066420366390763754",
+      "is_kol": false,
+      "score": 365.0
+    },
+    {
+      "id": "2066457714230972899",
+      "author": "Emptiness686",
+      "text": "📈 @AppKaskad just crossed the $2M TVL mark, proving that demand for real DeFi on Kaspa is growing fast.\n\nInstead of letting $KAS sit idle in a wallet, users can now put their assets to work by depositing iKAS, borrowing stablecoins, and earning yield without selling their holding",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2066457714230972899",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2066500956884468126",
+      "author": "rahulbais136",
+      "text": "Claude can now teach you any skill like a $200/hour private tutor, for free.\n\nHere are 5 prompts to master anything in 90 days. 🧵 https://t.co/hTOBhz4Vrn",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2066500956884468126",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2066482818428076506",
+      "author": "XFreeze",
+      "text": "Grok Build just got a bit updated with new improvements, features, and bug fixes\n\nRelease Notes: v0.2.52\n\nFeatures:\n• Agent sessions can now respect client auto-approve settings for tools.\n• ER diagrams now render properly in the TUI instead of showing raw source.\n• Team logins c",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2066482818428076506",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2066458381985181738",
+      "author": "gota_bara",
+      "text": "Open Knowledge Format、Agent Skills内にぶち込んでおいた！これで古くならないように同期しつつ運用・配布できるはず！\n\n.agents/skills/&lt;skill&gt;/\n├── SKILL.md\n└── okf/\n    ├── index.md\n    ├── datasets/\n    └── tables/\n\nhttps://t.co/sc3eTxhqea",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2066458381985181738",
+      "is_kol": false,
+      "score": 260.0
+    },
+    {
+      "id": "2066219550450827714",
+      "author": "Dr_Cain",
+      "text": "Modification tips: You can use hook the AnkleBreaker MCP server to ChatGPT Codex and let it do Unity avatar work for you. I just had it create UV Tile Discard toggles for my medium avatar to keep my mesh count down and it created the Unity animations for me. https://t.co/HHkrwTOj",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2066219550450827714",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2066502297748726256",
+      "author": "AnatoliKopadze",
+      "text": "Claude Code creator:\n\n\"this morning I was managing maybe a few hundred agents, some days it can be tens of thousands\"\n\nthe skill isn't writing code anymore, it's running agents\n\nwatch the interview, then bookmark the exact setup below https://t.co/W7MTtzDOzY",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2066502297748726256",
+      "is_kol": false,
+      "score": 217.0
+    }
+  ]
+}
