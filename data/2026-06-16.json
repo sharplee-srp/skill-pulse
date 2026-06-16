@@ -1,0 +1,580 @@
+{
+  "date": "2026-06-16",
+  "stats": {
+    "total_fetched": 335,
+    "unique_tweets": 150,
+    "tweets_with_repos": 21,
+    "unique_repos": 18,
+    "new_repos": 9,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "landing-ai/ade-document-processing-skills",
+      "github_url": "https://github.com/landing-ai/ade-document-processing-skills",
+      "tier": 0,
+      "is_new": true,
+      "score": 634.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shao__meng",
+        "text": "LandingAI 把 Agentic Document Extraction  从「API 文档 + 手写脚本」升级成 Agent Skills ——让 Codex、Claude Code、Cursor 等 Coding Agents 在对话里直接写出可用的文档处理流水线\nhttps://t.co/4NRiQr6co3\n\n# 两个 Skill 的分工\n\n1. document-extraction — 原子操作\n· Parse：结构化 Markdown + 层级 JSON\n· Extract：JSON Schema / Pydantic 字段抽取（发票",
+        "likes": 8,
+        "url": "https://x.com/i/status/2066853435618869361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066853435618869361"
+      ]
+    },
+    {
+      "repo": "geekfujiwara/codeappsdevelopmentstandard",
+      "github_url": "https://github.com/geekfujiwara/codeappsdevelopmentstandard",
+      "tier": 3,
+      "is_new": true,
+      "score": 322.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekfujiwara",
+        "text": "Copilot Cowork 向けプラグインの開発スキルを新しく開発標準上に提供開始しました🚀たとえAPIがなく画面操作で設定しないといけないところも、GitHub Copilot / Claude Code エージェントが画面操作まで代行して設定してくれます。\nhttps://t.co/Ino6LyKvGs\n\nこのスキルを利用すると、たとえば Dataverse のビジネスデータを利用したカスタムスキルをAI CoEチームが自動作成することができ、 Copilot Cowork を利用している一般ユーザーにこのプラグインを配布することができます。\n\nこ",
+        "likes": 64,
+        "url": "https://x.com/i/status/2066836266856128918"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066836266856128918"
+      ]
+    },
+    {
+      "repo": "burkeholland/postrboard-design",
+      "github_url": "https://github.com/burkeholland/postrboard-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "burkeholland",
+        "text": "Used @github Copilot to make Postrboard - my own CSS framework and design language.\n\nUnnecessary? Probably. Could have just used Tailwind? Definitely.\n\nTo use...\n\nnpx skills add burkeholland/postrboard-design/skill\n\nhttps://t.co/ZnoXkcPtUn https://t.co/tOMGD4frKP",
+        "likes": 20,
+        "url": "https://x.com/i/status/2066698375219515496"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066698375219515496"
+      ]
+    },
+    {
+      "repo": "vercel-labs/nostics",
+      "github_url": "https://github.com/vercel-labs/nostics",
+      "tier": 3,
+      "is_new": true,
+      "score": 144.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "posva",
+        "text": "$ claude\n/nostics migrate this project to nostics\n\nThat's how I migrated vue router custom warnings to nostics and improved them in the process\n$ npx skills add vercel-labs/nostics\nstill 0 bytes in production",
+        "likes": 13,
+        "url": "https://x.com/i/status/2066860206529618103"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066860206529618103"
+      ]
+    },
+    {
+      "repo": "gitroomhq/postiz-agent",
+      "github_url": "https://github.com/gitroomhq/postiz-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IBuzovskyi",
+        "text": "HERMES AGENT CAN RUN A CONTENT CLIPPING BUSINESS\nON AUTOPILOT. FROM ONE YOUTUBE VIDEO\nTO 9 POSTS PER DAY ACROSS ALL PLATFORMS.\nONE PAGE BUILT THIS WAY CAN EARN $1K -4K/MONTH.\n\nthe workflow:\n\n1. find a creator who produces long-form on YouTube\n(podcasts, streams, educational video",
+        "likes": 3,
+        "url": "https://x.com/i/status/2066878142522818563"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066878142522818563"
+      ]
+    },
+    {
+      "repo": "haor/speak-human",
+      "github_url": "https://github.com/haor/speak-human",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "haor233_re",
+        "text": "讲人话skill 克制一下codex说话的毛病\nhttps://t.co/sPPTLO4OUs",
+        "likes": 2,
+        "url": "https://x.com/i/status/2066843160446394623"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066843160446394623"
+      ]
+    },
+    {
+      "repo": "swiftggteam/wwdc-quick-look",
+      "github_url": "https://github.com/swiftggteam/wwdc-quick-look",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheSwiftGGTeam",
+        "text": "Put every WWDC session inside your coding agent.\n\nwwdc-quick-look is a Skill — your agent can search WWDC sessions, sample code & transcripts straight from a prompt, so you ship better apps.\n\nOne line to install:\nnpx skills add SwiftGGTeam/wwdc-quick-look\n\nFor more: https://t.co/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2066708831074242690"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066708831074242690"
+      ]
+    },
+    {
+      "repo": "chemark/browser-reader",
+      "github_url": "https://github.com/chemark/browser-reader",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hoshikihao",
+        "text": "Just shipped browser-reader — an agent skill that lets Claude Code read any page open in your Chrome, including login-walled content like WeChat articles and X long reads.\n\nSupports --html and --md export. Images inline at correct positions. Clean output.\n\nnpx skills add chemark/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066884018264588303"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066884018264588303"
+      ]
+    },
+    {
+      "repo": "echovic/qqmail-organizer",
+      "github_url": "https://github.com/echovic/qqmail-organizer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "echo_vic",
+        "text": "把自己的 qq 邮箱脚本整理成了 skill ，可以读邮件、搜索、回复、分类、整理 QQ 邮箱\n\n安装：\n\n  clawhub install qqmail-organizer\n\n  或者：\n\n  npx skills add echoVic/qqmail-organizer --skill qqmail-organizer\n\nGitHub: https://t.co/0XbxQZvR2K",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066802479271199229"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066802479271199229"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "github_url": "https://github.com/cocoindex-io/cocoindex-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 317.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cocoindex_io",
+        "text": "Cocoindex-code - An open source lightweight, effective AST-based semantic code search tool for your codebase. \n\n🌟Star the repo: https://t.co/zF4iMq0BiH if it is helpful!\n\nBuilt on CocoIndex — a Rust-based ultra performant data transformation engine. Use it from the CLI, or integr",
+        "likes": 25,
+        "url": "https://x.com/i/status/2066728746338635948"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066847826081136844",
+        "https://x.com/i/status/2066728746338635948"
+      ]
+    },
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 221.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vlados_2top",
+        "text": "🧠 AI agents are only as good as the tools they can actually use correctly.\n\nMost of them fail not because of intelligence -\nbut because they don’t know how to reliably execute real-world crypto workflows.\n\nThat’s exactly what Surf Skills solve.\nSurf introduces Surf Skills - instr",
+        "likes": 5,
+        "url": "https://x.com/i/status/2066878139456762168"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066878139456762168",
+        "https://x.com/i/status/2066840659945042187"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_ainsight",
+        "text": "インストールは1行。\n\nnpx skills add diffusionstudio/lottie\n\nこのコマンドを実行するだけで、Claude CodeやCodexがLottieアニメーションを作れるようになる。\n\nあとはAIに指示するだけ。\n\n「ローディング画面にくるくる回るアイコンを追加して」\n「ボタンを押したときに弾むアニメーションをつけて」\n\nAIがアニメーションのデータを生成し、リアルタイムプレビューで確認しながら調整できる。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066795489971085744"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066795489971085744",
+        "https://x.com/i/status/2066703109779566993"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 187.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "拷问我(grill-me) skill. \n命令： npx skills add mattpocock/skills --skill grill-me\n\n用途：围绕某个计划或设计方案，对用户进行刨根问底式的提问，直到达成共同理解，并逐一解决决策树的每一个分支。\n\n 大佬的skill就是这么朴实无华，寥寥几个字，却很强大。 https://t.co/5RhEA9SBqf",
+        "likes": 29,
+        "url": "https://x.com/i/status/2066811346906390711"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066811346906390711"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotCLILog",
+        "text": "🚀✨ Copilot CLI v1.0.63 released!\n\n20 features & enhancements in this release\n\nTop features:\n• Blocked image attachments now explain how to enable vision features or switch models instead of showing a confusing error 🖼️\n• Show fork-based pull requests in /pr and add branch PR badg",
+        "likes": 23,
+        "url": "https://x.com/i/status/2066687230635024797"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066687230635024797"
+      ]
+    },
+    {
+      "repo": "index-how/vocabulary",
+      "github_url": "https://github.com/index-how/vocabulary",
+      "tier": 3,
+      "is_new": false,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "尝试一下这个，提升设计细节：npx skills add index-how/vocabulary\n\nhttps://t.co/KghxoVK3F5 https://t.co/x0tWTACLde",
+        "likes": 22,
+        "url": "https://x.com/i/status/2066867644951879964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066867644951879964"
+      ]
+    },
+    {
+      "repo": "simonlin1212/a-stock-data",
+      "github_url": "https://github.com/simonlin1212/a-stock-data",
+      "tier": 3,
+      "is_new": false,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "搞 A 股数据分析最让人崩溃的从来不是写策略\n\n而是数据根本凑不齐\n\n行情、研报、龙虎榜、北向、资金流、公告、财报，每个接口长得都不一样，参数还天天改，光对接就能把人整疯\n\na-stock-data 直接把 13 个数据源打包成一套 Skill，专门喂给 AI 编程助手用\n\n🔗 https://t.co/fR4CAEiy0o\n\n1️⃣ 7 层架构 28 个端点，直连 HTTP，V3.0 把 akshare 依赖彻底砍掉了\n2️⃣ 行情、研报、龙虎榜、北向、融资融券、财联社快讯、巨潮公告全给你配齐\n3️⃣ Claude Code、Codex、OpenCla",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066840459532702115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066840459532702115"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gear_web",
+        "text": "@majidmanzarpour I believe your Claude code install command has a typo and it should say: \nnpx skills add majidmanzarpour/threejs-game-skills --skill '*' -a claude-code -g -y",
+        "likes": 1,
+        "url": "https://x.com/i/status/2066685767372451957"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066685767372451957"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "LP xStocks automatically with Byreal Agent Skills. 🤖\n\nnpx skills add byreal-git/byreal-agent-skills\nhttps://t.co/whXDGefEcW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066760202029060340"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066760202029060340"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2066621765028327922",
+      "author": "DataChaz",
+      "text": "🚨How do you index the entire Linux kernel (28M lines of code) for an AI agent in 3 minutes?\n\nYou stop letting the agent read files one by one.\n\nThere is a fascinating new open-source release called codebase-memory-mcp.\n\nIt's a code intelligence engine that swaps traditional file-",
+      "likes": 855,
+      "views": 0,
+      "url": "https://x.com/i/status/2066621765028327922",
+      "is_kol": false,
+      "score": 3220.0
+    },
+    {
+      "id": "2066629339287036036",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.140.0 is out.\n\nHighlights:\n- Added /usage views for daily, weekly, and cumulative account token activity\n- Permanent session deletion via codex delete, /delete, and app-server thread/delete, with confirmation safeguards\n- /import for selectively importing setup, proje",
+      "likes": 501,
+      "views": 0,
+      "url": "https://x.com/i/status/2066629339287036036",
+      "is_kol": false,
+      "score": 1688.0
+    },
+    {
+      "id": "2066570396183548350",
+      "author": "ericzakariasson",
+      "text": "mcp > cli\n\nim glad this debase is not as active anymore. i use both every day. they just serve different purposes\n\ncli for stuff the model already knows. git, gh, npm, docker, file ops. trained on man pages, and costs almost nothing in context. if im already signed in locally the",
+      "likes": 472,
+      "views": 0,
+      "url": "https://x.com/i/status/2066570396183548350",
+      "is_kol": false,
+      "score": 1541.0
+    },
+    {
+      "id": "2066572256281583992",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT ECOSYSTEM HIT 188K STARS.\nHERE ARE 5 REPOS BUILDING ON TOP OF IT\nTHAT YOU SHOULD KNOW ABOUT.\n\n1. GBRAIN (22.8K stars)\nby Garry Tan, CEO of Y Combinator.\n\npersistent memory layer built specifically\nfor Hermes and OpenClaw deployments.\nmarkdown-first. self-wiring knowl",
+      "likes": 278,
+      "views": 0,
+      "url": "https://x.com/i/status/2066572256281583992",
+      "is_kol": false,
+      "score": 919.0
+    },
+    {
+      "id": "2066584995775631483",
+      "author": "DynamicWebPaige",
+      "text": "Did you know that we have a @Google Developer Knowledge MCP server? 👀📄\n\nIt gives AI-powered tools and IDEs the ability to search the @googledevs official developer documentation and retrieve up-to-date information for our APIs (ex: @Firebase, @GoogleCloud, @Android, @GoogleMaps, ",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2066584995775631483",
+      "is_kol": false,
+      "score": 514.0
+    },
+    {
+      "id": "2066626109131927610",
+      "author": "tomasmalamud",
+      "text": "Stack actual de @lapyme_ar:\n\n- Hono para API pública\n- Next.js para web app y landing\n- @xmcp_dev para MCP server\n - TanStack Start + Dexie para POS (todavía en alpha)\n- @triggerdotdev para background jobs / cron\n- Supabase para auth + db\n\nTodo desplegado como un monorepo en @ver",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2066626109131927610",
+      "is_kol": false,
+      "score": 447.0
+    },
+    {
+      "id": "2066635861249474934",
+      "author": "DfinityToday",
+      "text": "You can now connect Claude, ChatGPT, Cursor, Perplexity, or Codex directly to Caffeine through the new MCP server.\n\n$ICP ☕️",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2066635861249474934",
+      "is_kol": false,
+      "score": 321.0
+    },
+    {
+      "id": "2066785353860858094",
+      "author": "GithubProjects",
+      "text": "Gortex indexes repositories into a code graph and exposes it via CLI, MCP Server, and web UI, reducing token usage by up to 50x for AI coding agents.\n\n- Up to 50x fewer tokens per response via graph-native lookups.\n- Precomputed depth-3 reach index for sub-millisecond impact anal",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2066785353860858094",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2066673493811601737",
+      "author": "gokulr",
+      "text": "COACH IS NOW AN AGENTIC SERVICE\n\nCoach went live yesterday as a review service for product docs: PRDs, strategy docs, roadmaps, OKRs.\n\nThe response has been tremendous. Hundreds of reviews in the first 24 hours. Dozens \"multi review\" users.\n\nThe top ask, from the very first wave ",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2066673493811601737",
+      "is_kol": false,
+      "score": 295.0
+    },
+    {
+      "id": "2066801202424091119",
+      "author": "eng_khairallah1",
+      "text": "30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2066801202424091119",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2066848260799557700",
+      "author": "Dipanshu_AI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now https://t.co/Q8kJQ4Ohzq",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2066848260799557700",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2066868394347938227",
+      "author": "ChainGPT_Labs",
+      "text": "ICYMI:\n\nThe new @Chain_GPT AI skill for Claude Code turns Web3 ideas into working products faster than ever.\n\nFor founders, this is the real unlock:\n\nless time fighting the plumbing, more time testing ideas, building features, and getting products live.\n\nSee it in action👇",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2066868394347938227",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2066721088998932538",
+      "author": "theminos_ai",
+      "text": "The Minos MCP server (beta) is now LIVE!\n\nAI agents can plug directly into SN107 and monitor the subnet as it operates, from live rounds and miner performance to validator activity, score histories, and overall network health.\n\nThis opens Minos to the agentic layer of decentraliz",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2066721088998932538",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2066807386783031650",
+      "author": "heynavtoor",
+      "text": "Most people who use Claude Code know 5 commands.\n\nThere are way more. And the ones nobody uses are the ones that ship code fastest.\n\nHere's the cheat sheet. Bookmark this. ↓\n\n1. /fork - spawn a background agent that keeps your full conversation. Try a risky fix without losing you",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2066807386783031650",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2066857062945230896",
+      "author": "excel_niisan",
+      "text": "① Claudeでパワポを作る（skillで固定）\n② 「ChatGPT in PowerPoint」で画像を連続生成\n↓\n放置しているだけで、全スライドが画像入りで完成\n＿＿＿\nPowerPointを作るフローが完全に変わったと感じています。現在は2つのステップを組み合わせることで、きれいな画像入りのスライドが安定して完成するようになりました。\n\n🎨 第1段階はClaudeでPowerPointを作成\nまず最初のステップとして、ClaudeにPowerPointを作成させます。この段階では自分の型やテンプレートをSkillでガチガチに再現させるように指",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2066857062945230896",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2066805547647513049",
+      "author": "COTInetwork",
+      "text": "The COTI Vibe Code Challenge: Agent Edition is live 🔥\nGo from idea to launch of your agent app & project:\n→ Private AI agent\n→ Agentic app \n→ Agent automation\n→ Agent infrastructure Build with COTI's Agent Skill Stack, MCP or Private Messaging SDK. \n\nUse any vibe coding tool. No ",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2066805547647513049",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2066860844609163544",
+      "author": "rushu888",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nSpend 1 hour with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/JcblV5cXk7",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2066860844609163544",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2066555966091632845",
+      "author": "ZenzenTom",
+      "text": "👌🏼 https://t.co/8V05bLqxlJ is wrapping up another busy week with some solid momentum, most notably crossing the 1.9 million user milestone.\n\nThat’s a meaningful number in the AI agent space, especially for a platform focused on privacy-first access, intelligent model routing, and",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2066555966091632845",
+      "is_kol": false,
+      "score": 194.0
+    }
+  ]
+}

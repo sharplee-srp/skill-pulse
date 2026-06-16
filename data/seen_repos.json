@@ -3678,5 +3678,41 @@
   "aiming-lab/metaclaw": {
     "first_seen": "2026-06-15",
     "tier": 3
+  },
+  "landing-ai/ade-document-processing-skills": {
+    "first_seen": "2026-06-16",
+    "tier": 0
+  },
+  "geekfujiwara/codeappsdevelopmentstandard": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "burkeholland/postrboard-design": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "vercel-labs/nostics": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "gitroomhq/postiz-agent": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "haor/speak-human": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "swiftggteam/wwdc-quick-look": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "chemark/browser-reader": {
+    "first_seen": "2026-06-16",
+    "tier": 3
+  },
+  "echovic/qqmail-organizer": {
+    "first_seen": "2026-06-16",
+    "tier": 3
   }
 }
