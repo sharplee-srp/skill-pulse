@@ -1,0 +1,523 @@
+{
+  "date": "2026-06-17",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 159,
+    "tweets_with_repos": 16,
+    "unique_repos": 16,
+    "new_repos": 8,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "0x4m4/hexstrike-ai",
+      "github_url": "https://github.com/0x4m4/hexstrike-ai",
+      "tier": 2,
+      "is_new": true,
+      "score": 601.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 137,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "7h3h4ckv157",
+        "text": "HexStrike AI MCP Agents: AI-Powered MCP Cybersecurity Automation Platform\n\nAdvanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security researc",
+        "likes": 137,
+        "url": "https://x.com/i/status/2067096955491156058"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067096955491156058"
+      ]
+    },
+    {
+      "repo": "pdwhoward/llmacro-dynare-lsp",
+      "github_url": "https://github.com/pdwhoward/llmacro-dynare-lsp",
+      "tier": 3,
+      "is_new": true,
+      "score": 368.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "int_mon_econ",
+        "text": "This sounds really cool!\n\nAgentic AI for DSGE Modeling: \"LLMacro: A Language Server for Dynare.\"\n\n\"A Language Server Protocol implementation and Model Context Protocol (MCP) server for the Dynare modeling language. It gives you live diagnostics, steady-state solving, Blanchard–Ka",
+        "likes": 66,
+        "url": "https://x.com/i/status/2066987350069321936"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066987350069321936"
+      ]
+    },
+    {
+      "repo": "dair-ai/dair-academy-plugins",
+      "github_url": "https://github.com/dair-ai/dair-academy-plugins",
+      "tier": 3,
+      "is_new": true,
+      "score": 363.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 71,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cyrilXBT",
+        "text": "SOMEONE JUST OPEN-SOURCED A SKILL THAT LETS AI AGENTS TEACH YOU ANYTHING WITH INTERACTIVE VISUAL ARTIFACTS — AND IT IS COMPLETELY FREE.\n\nNot a course.\nNot a structured curriculum someone else designed.\n\nAn agent that teaches you whatever you want to learn:\n- generates visual and ",
+        "likes": 71,
+        "url": "https://x.com/i/status/2067194797811773752"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067194797811773752"
+      ]
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 3,
+      "is_new": true,
+      "score": 344.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Xudong07452910",
+        "text": "🧠 开源高质量教程推荐：ai-engineering-from-scratch —— 从零到生产级 AI 工程的全栈课程\n\n这是一套系统性的 AI 工程从零构建课程（Learn it. Build it. Ship it for others.），共 20 个阶段、503 节课（约 320 小时）。它不只教你调用 API，而是让你从数学基础开始，手把手实现 Transformer、LLM、RAG、Agent，再到生产部署、伦理对齐，最终输出可直接复用的技能、提示和代理。\n\n✨ 核心亮点：\n1. 每个阶段都「先从零实现（纯数学/代码）→ 用主流框架实现 →",
+        "likes": 63,
+        "url": "https://x.com/i/status/2067042289860428008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067042289860428008"
+      ]
+    },
+    {
+      "repo": "larksuite/cli",
+      "github_url": "https://github.com/larksuite/cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huangyun_122",
+        "text": "飞书 cli 这个开源库，彻底把知识入库-装配-分发完美分层了：\n\n1/ OpenClaw, Codex, CC 对话历史通过 SKILL 入飞书库\n\n2/ 飞书 cli 接入 Agent, 把入库的知识库文档进一步消化，打入向量库\n\n3/ 向量库嫁接咨询，写作界面，又成为 feed 链最顶端，分发出来，完美闭环\n\nhttps://t.co/233bPaOgWM",
+        "likes": 2,
+        "url": "https://x.com/i/status/2067178307779731482"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067178307779731482"
+      ]
+    },
+    {
+      "repo": "karis-ai/karis",
+      "github_url": "https://github.com/karis-ai/karis",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AinaAiTech",
+        "text": "@karis_ai AI CMO that actually executes &gt; advises npx skills add karis-ai/karis` — one install, zero dashboards, just results",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067139469770375396"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067139469770375396"
+      ]
+    },
+    {
+      "repo": "dynatrace/dynatrace-for-ai",
+      "github_url": "https://github.com/dynatrace/dynatrace-for-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "discostu105",
+        "text": "Working with AI Agents on Dynatrace?\n\nCheck out the latest release of \"AI Skills for Dynatrace\" → https://t.co/GiRcrKHym1\n\nInstall: npx skills add dynatrace/dynatrace-for-ai or via Claude plugin marketplace. Pair with Dynatrace MCP or dtctl.\n\n#Dynatrace #AI #MCP #dtctl #Skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067128559852786050"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067128559852786050"
+      ]
+    },
+    {
+      "repo": "agents365-ai/365-skills",
+      "github_url": "https://github.com/agents365-ai/365-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ欲しかった。\nhttps://t.co/jaEeVBAaml図をAI agentに任せる\nskillが伸びてる。\n\nAgents365 drawio-skillは\n自然文から.drawioを作り、\nPNG/SVG/PDFに出せる。\n\n使うなら:\nnpx skills add Agents365-ai/365-skills -g\n\nAWS等1万+公式shape検索、\n321個のAIロゴも使える。\nPython/JS/Go/Rust構造図にも。\n\nhttps://t.co/jaEeVBAaml desktopが必要。\nhttps://t.co/zkAFo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067005571031785905"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067005571031785905"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "saadeghi/daisyui",
+      "github_url": "https://github.com/saadeghi/daisyui",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daisyui_",
+        "text": "npx skills add saadeghi/daisyui",
+        "likes": 4,
+        "url": "https://x.com/i/status/2066977166848409777"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066977166848409777"
+      ]
+    },
+    {
+      "repo": "tencent/wechatreading",
+      "github_url": "https://github.com/tencent/wechatreading",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIBuilderFeng",
+        "text": "微信读书也出skills了，使用非常简单，在codex中给出项目地址 Tencent/WeChatReading 让他安装就可以，或者在网页端 https://t.co/2gnwUd0J0N 找到命令 npx skills add Tencent/WeChatReading -g ，安装就可以使用。\n\n在codex中让他帮我看一下最近一年的读书喜好。原来最近看了这么多科技、传记类的书，总结还比较准确。再让他根据我的阅读习惯帮我推荐几本书，他给推荐了乔布斯，马斯克相关的书，也推荐了董明珠的。\n\n让他把推荐的书单加入到阅读列表，似乎目前还没有这个功能。",
+        "likes": 2,
+        "url": "https://x.com/i/status/2067162332199862689"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067162332199862689"
+      ]
+    },
+    {
+      "repo": "username/repo",
+      "github_url": "https://github.com/username/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "innermaps",
+        "text": "@elvissun If a repo with a compatible skill definition is public, anyone can run npx skills add username/repo and install it \n\nAfter 1st install, it’s indexed",
+        "likes": 2,
+        "url": "https://x.com/i/status/2066921686771884404"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066921686771884404"
+      ]
+    },
+    {
+      "repo": "whetstoneresearch/doppler-skills",
+      "github_url": "https://github.com/whetstoneresearch/doppler-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dopplerprotocol",
+        "text": "npx skills add whetstoneresearch/doppler-skills https://t.co/2AyIwmGT8E",
+        "likes": 2,
+        "url": "https://x.com/i/status/2066895950740889900"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066895950740889900"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Create your own tech basket with Byreal Perps Agent Skills.\n\nTrade $RKLB, $MSFT, $NBIS, and $GOOGL in one workflow - long, short or hedge through a single agent execution setup. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/NWsDIZsnfZ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2067170444906828065"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067170444906828065"
+      ]
+    },
+    {
+      "repo": "chemark/browser-reader",
+      "github_url": "https://github.com/chemark/browser-reader",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hoshikihao",
+        "text": "Just shipped browser-reader — an agent skill that lets Claude Code read any page open in your Chrome, including login-walled content like WeChat articles and X long reads.\n\nSupports --html and --md export. Images inline at correct positions. Clean output.\n\nnpx skills add chemark/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2066884018264588303"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066884018264588303"
+      ]
+    },
+    {
+      "repo": "thespawnio/skill",
+      "github_url": "https://github.com/thespawnio/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thespawnio",
+        "text": "Meantime, if you want to discover how to register your onchain agent properly to become the useful one feel free to check out this open-source skill with your coding agent:\n\nnpx skills add thespawnio/skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067186543723532680"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067186543723532680"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@TheAwaisManzoor npx skills add heygen-com/hyperframes, select all skills, take a look also here to our catalog: https://t.co/ZSW8hP8uZK",
+        "likes": 0,
+        "url": "https://x.com/i/status/2066978686838972500"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2066978686838972500"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2067131985781535052",
+      "author": "0xrichboy",
+      "text": "Just finished smoll project, an AI-powered Web3 dashboard for Pharos Pacific Mainnet.\n\nThis project started from a simple problem: Web3 actions are still too scattered. Users often need a wallet, explorer, RPC docs, scripts, AI chat, and manual checking just to complete one flow.",
+      "likes": 309,
+      "views": 0,
+      "url": "https://x.com/i/status/2067131985781535052",
+      "is_kol": false,
+      "score": 977.0
+    },
+    {
+      "id": "2066926444207300994",
+      "author": "zeuuss_01",
+      "text": "HERMES IS OPEN SOURCE. THE REAL LEVERAGE IS THE ECOSYSTEM AROUND IT.\n\nHERE ARE 5 REPOS I'M ACTUALLY RUNNING ON TOP OF IT.\n\nHERMES WORKSPACE (5.7K stars) by outsourc-e.\n\na full web workspace for Hermes - the GUI the CLI never had.\n\nwhat it adds:\n\n→ chat, embedded terminal, memory ",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2066926444207300994",
+      "is_kol": false,
+      "score": 756.0
+    },
+    {
+      "id": "2067140376956403984",
+      "author": "skcd42",
+      "text": "Bug fixes shipping to Grok Build 0.2.52 (release notes will be available in the TUI and on change-log website)\n\n• tool auto-approval state is now tracked end-to-end in server-side agent sessions\n• ER diagrams now render as entity boxes with attributes and relationships in the TUI",
+      "likes": 208,
+      "views": 0,
+      "url": "https://x.com/i/status/2067140376956403984",
+      "is_kol": false,
+      "score": 679.0
+    },
+    {
+      "id": "2066957676571955462",
+      "author": "ClawBankHQ",
+      "text": "ClawBank Comms 2.0: AgentMail + MoltBook Built In",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2066957676571955462",
+      "is_kol": false,
+      "score": 599.0
+    },
+    {
+      "id": "2067072423435112740",
+      "author": "sonalshukla3377",
+      "text": "🎯𝟭𝟮 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗘𝘃𝗲𝗿𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗦𝗵𝗼𝘂𝗹𝗱 𝗞𝗻𝗼𝘄\n\nMost developers use Claude Code for basic coding tasks.\n\nThese 12 powerful features can dramatically improve your workflow, productivity, and development speed.\n\n𝟬𝟭. 𝗦𝗹𝗮𝘀𝗵 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n➡️ Run predefined workflows and developer shor",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2067072423435112740",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2066927028331565375",
+      "author": "jaminball",
+      "text": "Awesome keynote by @alighodsi at the @databricks  summit. \n\nSome takeaways below. TLDR - Databricks is now a data processing platform, a data platform, an agents platform and an apps platform\n\nArchitecture updates\nIceberg / table formats\n- v3 is now GA: the unified data layer. De",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2066927028331565375",
+      "is_kol": false,
+      "score": 346.0
+    },
+    {
+      "id": "2067223231669395930",
+      "author": "Capafyai",
+      "text": "Get paid for your Hermes skills @NousResearch\n\nCapafy now supports Hermes Agent.\n\nPublish your Hermes skills and keep them closed-source.\nUsers pay to run the skills and you earn per use.\n\nCapafy is a Skill-based Agents marketplace for publishing, running, and monetizing Skill. h",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2067223231669395930",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2067156934214734238",
+      "author": "cyrilXBT",
+      "text": "ANTHROPIC'S CEO JUST TOLD YOU WHAT SKILL ACTUALLY MATTERS IN 2026.\n\nAnd it is not coding.\n\nDario Amodei is building a $965 billion company on the back of the most powerful coding AI ever created.\n\nAnd he just said this out loud:\n\nCoding itself is the dying skill.\n\nThe real edge i",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2067156934214734238",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2066959225465590138",
+      "author": "DanKornas",
+      "text": "Your Markdown notes are useful until the answer spans five files.\n\nKwipu is a local Graph RAG system for people who keep project knowledge in Markdown or Obsidian vaults.\n\nIt helps you ask natural-language questions across scattered notes by turning Markdown files into a persiste",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2066959225465590138",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2067129363162857897",
+      "author": "neil_xbt",
+      "text": "Most builders who try to build a second brain end up with a second filing cabinet!\n\nBeautiful vault. Twelve notes. A broken cron job. A plugin graveyard.\n\nThe graph view looked incredible in the YouTube demo. The Claude Code setup went viral in April. \n\nThe RAG pipeline took two ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2067129363162857897",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2066940288694952002",
+      "author": "synopsi",
+      "text": "gum is out!!\n\nOne go binary, cli and MCP server, that gives your AI agents safe access to every Google API you own: Gmail, Drive, Calendar, Ads, the lot. Confirmation gates on every delete, 83% fewer tokens than the naive setup, and no credentials in prompts.\n\nWhy this exists:",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2066940288694952002",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2067218486716477782",
+      "author": "socialwithaayan",
+      "text": "🚨 NVIDIA just revealed that 1 in 4 AI agent skills you're running right now has a security vulnerability.\n\nThey built a scanner to prove it. It's called SkillSpector.\n\nPoint it at any AI skill. Get a safety score from 0 to 100. Know instantly if it's safe to install.\n\nHere's what",
+      "likes": 29,
+      "views": 0,
+      "url": "https://x.com/i/status/2067218486716477782",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2067183236476801353",
+      "author": "coreyganim",
+      "text": "Everyone's trying to build the next Cursor.\n\nBut I think the most successful AI businesses will be dead simple.\n\nThe ones who crush will:\n\n1. pick one boring workflow \n2. build one plugin/set of skills around it \n3. sell setup to 5 businesses for $2K each \n4. charge $300/mo to ma",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2067183236476801353",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2067157885034143958",
+      "author": "pafuhana1213",
+      "text": "State Of Unrealに向けて、UEのMCPプラグインを触ってみたけど、サクッと動いて便利…！\n画像は「レベルにキューブを100個並べて」「レベルを夕方のシーンにして」とお願いした結果。まだ少し時間はかかるけど、それは今後の改善に期待！\n\n以下手順 ( ClaudeCodeの場合）\n① MCP系とToolSet系のプラグインを有効に\n② エディタ設定にて Auto Start Serverを有効にしてエディタ再起動（または、ModelContextProtocol.StartServer 8000 コマンドでサーバーを手動起動）\n③ ModelC",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2067157885034143958",
+      "is_kol": false,
+      "score": 164.0
+    },
+    {
+      "id": "2066923270834655378",
+      "author": "BNNBags",
+      "text": "BRAINBLAST JUST EXPANDED TO THE ENTIRE SOFTWARE DEVELOPMENT LIFECYCLE\n\n@brainblast_ai has released v0.6.0, transforming brainblast from a security tool into security infrastructure.\n\n- GitHub Actions Integration\n- AI Agent MCP Server\n- Dependency Risk Diff Analysis\n\nBrainblast no",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2066923270834655378",
+      "is_kol": false,
+      "score": 158.0
+    },
+    {
+      "id": "2067193111605125165",
+      "author": "sjsandeep_jain",
+      "text": "Claude AI in 60 Minutes 🚀   \n\nLearn how to build AI apps, automate workflows, and turn ideas into reality.\n\nOne free course.  \nA skill you'll use for years.  \n\nWatch it | Bookmark it | Build with it. https://t.co/SIghCqB9RW",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2067193111605125165",
+      "is_kol": false,
+      "score": 151.0
+    },
+    {
+      "id": "2067080753809363439",
+      "author": "pigrichh",
+      "text": "To be honest, lately I've been hearing people talking about moving everything onto the online chain. I just watched the Coinbase System Update Take Control launch conference, and hearing @jessepollak share about @base new direction was incredibly ambitious. Their goal is no longe",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2067080753809363439",
+      "is_kol": false,
+      "score": 146.0
+    }
+  ]
+}
