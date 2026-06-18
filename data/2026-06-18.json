@@ -1,0 +1,534 @@
+{
+  "date": "2026-06-18",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 175,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 10,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "waishnav/devspace",
+      "github_url": "https://github.com/waishnav/devspace",
+      "tier": 2,
+      "is_new": true,
+      "score": 954.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 238,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "挖到了一个有意思的项目 💡\n\n当你 Codex 额度用完，但 ChatGPT 网页版的 GPT-5.5 Thinking 还能用——这个项目的思路就是：把网页端的额度也榨干，继续写代码。\n\n核心原理很简单：在 pi agent 之上包了一层 MCP Server，然后在 ChatGPT 网页端连接这个 MCP Server，网页端就能直接调用本机的 pi agent 继续编程了。\n\n为了让外网能访问本机服务，需要做内网穿透。我用了 ngrok，按官网配置就行，更推荐 Cloudflare Tunnel。\n\n本质上就是一个内置了 pi SDK agent ",
+        "likes": 238,
+        "url": "https://x.com/i/status/2067450211879072183"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067450211879072183"
+      ]
+    },
+    {
+      "repo": "deusdata/codebase-memory-mcp",
+      "github_url": "https://github.com/deusdata/codebase-memory-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 213.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "🚀 兄弟们，我又挖到个 AI coding 神器！\n\n老韭菜最近狂测本地 Agent 工具，这个DeusData/codebase-memory-mcp 直接把我惊艳了！\n\n一句话总结：\n\n集合高性能代码智能 MCP Server，把整个 codebase 瞬间索引成持久知识图谱，平均仓库查询毫秒级！\n\n以后再也不用每次给 Claude / Cursor / 你的本地 Agent 喂几千 token 上下文了，这个省钱 + 提速 + 记忆超稳。完美适配自托管 AI 工作流！\n\n1、超快索引\n\n2、持久知识图\n\n3、低 token 消耗\n\n4、直接对接各种",
+        "likes": 36,
+        "url": "https://x.com/i/status/2067432520980041934"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067432520980041934"
+      ]
+    },
+    {
+      "repo": "charonai-code/charon-aeon-test",
+      "github_url": "https://github.com/charonai-code/charon-aeon-test",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Charon_AI",
+        "text": "We are actively testing Charon inside @aeonframework's GitHub Actions workflow.\n\nHere’s what we shipped yesterday 👇\n\n- Charon preflight for AEON workflows\n- policy-based PASS / PAUSE / DENY before the agent run starts\n- signed receipts for every AEON preflight decision\n- review q",
+        "likes": 24,
+        "url": "https://x.com/i/status/2067446405711692004"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067446405711692004"
+      ]
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "github_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alifcoder",
+        "text": "💀 Reverse-Skill: AI-Powered Router for Reverse Engineering, Pentesting & CTF Workflows\n\nA comprehensive skill-routing framework that helps AI agents automatically choose the right methodology, tools, and workflows for security tasks.\n\nFeatures:\n• APK Reverse Engineering\n• Binary ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2067549786295902330"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067549786295902330"
+      ]
+    },
+    {
+      "repo": "hashnode/gql-skill",
+      "github_url": "https://github.com/hashnode/gql-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hashnode",
+        "text": "Your AI agent can now learn the entire Hashnode GraphQL API in one command:\n\nnpx skills add Hashnode/gql-skill\n\nEvery query, every mutation, auth, and which ops need Pro. Works with Claude Code, Cursor, Copilot, and more.\n\n🔗 https://t.co/s0AG9S2Z1g",
+        "likes": 6,
+        "url": "https://x.com/i/status/2067562673714393341"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067562673714393341"
+      ]
+    },
+    {
+      "repo": "portdeveloper/clear-signing-helper",
+      "github_url": "https://github.com/portdeveloper/clear-signing-helper",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "port_dev",
+        "text": "built on the ERC-7730 standard from @Ledger and the @ethereum foundation, works on any EVM chain.\n\ninstall using https://t.co/mL1znYC30r : \nnpx skills add portdeveloper/clear-signing-helper\n\nrepo:\nhttps://t.co/rKh5Lpcltd",
+        "likes": 1,
+        "url": "https://x.com/i/status/2067557372533342214"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067557372533342214"
+      ]
+    },
+    {
+      "repo": "vxncxnx/ux-persona-audit",
+      "github_url": "https://github.com/vxncxnx/ux-persona-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VincentBuilds",
+        "text": "@linear open source. install:\n\nnpx skills add VXNCXNX/ux-persona-audit -g\n\nrepo + live example:\nhttps://t.co/cGf2sm7n1z\n\nheads up: only tested on claude code so far. more harness support coming",
+        "likes": 1,
+        "url": "https://x.com/i/status/2067367391776866697"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067367391776866697"
+      ]
+    },
+    {
+      "repo": "roberttlange/agentlens",
+      "github_url": "https://github.com/roberttlange/agentlens",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RobertTLange",
+        "text": "🚀 Fun additions to agentlens in v0.4.0 release 🔎\n\n1️⃣ Index your previous agent coding sessions via cron-powered summarization + embedding/lexical retrieval. \n2️⃣ Support for antigravity CLI + the 'big' six (codex, claude, opencode, pi, gemini, cursor) ♊︎\n3️⃣ Experimental analysi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2067582738815651845"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067582738815651845"
+      ]
+    },
+    {
+      "repo": "vercel/eve",
+      "github_url": "https://github.com/vercel/eve",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "remiconnesson",
+        "text": "@joshgonsalves_ @vercel don't know about templates but \n\nnpx skills add vercel/eve so that your coding agents knows what's up\n\nnpx eve@latest init my-agent gives you a usable agent out of the box\n\n/deploy in dev mode to deploy it and it's live :)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067330352910098868"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067330352910098868"
+      ]
+    },
+    {
+      "repo": "the-omega-institute/newmath",
+      "github_url": "https://github.com/the-omega-institute/newmath",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OmegaDesci",
+        "text": "Omega Institute 已经基本进入无人值守的自动化管线,跑在我们自己的栈上:一台 Mac 调度本地 RTX 4060 / 4090 / A100 GPU 队列跑计算,并行 agents 在沙箱里全速工作。遇到判断问题,系统先用「三思后行」skill 做一致性对抗检查(consensus);遇到硬推理壁垒,通过 NyxID 这个开源 agent gateway 把 ChatGPT Pro 当外来 oracle 接入给启发,本地 codex 再接力做严格验证。主引擎继续推两条最核心的流水线:重写 BEDC 理论,以及把关键边界形式化进 Lean 4",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067559800645484946"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067559800645484946"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 291.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.17.8 released. TL;DR: faster App timelines; off-thread markdown highlighting; safer MCP/provider tool handling; OpenCode Go moves to GLM-5.2.\n\n𝗔𝗽𝗽\n• Improved session timelines with stable row projection and TanStack virtualization, reducing rerenders and scroll jumps ",
+        "likes": 57,
+        "url": "https://x.com/i/status/2067359338344116645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067359338344116645"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@claudeoverflow @kuberdenis try @HyperFrames_ :)\n\nnpx skills add heygen-com/hyperframes",
+        "likes": 2,
+        "url": "https://x.com/i/status/2067479528415342792"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067479528415342792",
+        "https://x.com/i/status/2067337066350862349"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "npx skills add diffusionstudio/lottie https://t.co/0n0iZQvur1",
+        "likes": 11,
+        "url": "https://x.com/i/status/2067565784830968150"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067565784830968150"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I updated /social with a listening workflow.\n\nInstead of \"post more,\" it asks: which 10 posts should you comment on today?\n\nYou maintain a `listening-sources.md` file — target accounts, keywords, subreddits, do-not-engage list. The skill pulls fresh posts (Reddit / Hacker News / ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067585420142268546"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067585420142268546"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Open a position with a TP/SL limit, automate with Byreal Perps Skills.\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/Sy3ZlGlzT0",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067505609382248681"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067505609382248681"
+      ]
+    },
+    {
+      "repo": "iamvishal16/swiftui-microinteractions",
+      "github_url": "https://github.com/iamvishal16/swiftui-microinteractions",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamvishal16_ios",
+        "text": "Add this simple command to any agentic agent.\n\nnpx skills add iAmVishal16/swiftui-microinteractions",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067289787262759249"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067289787262759249"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2067509115186717133",
+      "author": "Polymarket",
+      "text": "NEW: Unreal Engine 5.8 is launching with experimental MCP server support, allowing AI agents to work directly on game development.",
+      "likes": 825,
+      "views": 0,
+      "url": "https://x.com/i/status/2067509115186717133",
+      "is_kol": false,
+      "score": 2770.0
+    },
+    {
+      "id": "2067470159489716580",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.141.0 is out.\n\nHighlights:\n- Remote executors now use authenticated, end-to-end encrypted Noise relay channels\n- Cross-platform remote execution preserves executor-native working directories and shells across app-server and exec-server boundaries\n- Executor plugins ca",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2067470159489716580",
+      "is_kol": false,
+      "score": 661.0
+    },
+    {
+      "id": "2067369646630564179",
+      "author": "DFintelligence",
+      "text": "Alors ça c’est fou !!!!! MCP server sur unreal! \n\nFini juste le vibe code en Three.js pour bidouiller des jeux. Imaginez du vibe coding dans Unreal Engine.\n\nJ’ai toujours voulu apprendre à utiliser ces logiciels, mais c’est tellement compliqué. Et là, je me dis : alors peut-être…",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2067369646630564179",
+      "is_kol": false,
+      "score": 569.0
+    },
+    {
+      "id": "2067499549501911125",
+      "author": "ProtocolForest",
+      "text": "The agentic era is rolling out🤖🌲\n\nForest Playkit is now on GitHub as an AI skill. For the first time, any agent can deploy an on-chain game economy. No smart contracts, no backend.\n\nThe first step toward agents building and playing on Forest Protocol autonomously👀\n\nDetails👇 https",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2067499549501911125",
+      "is_kol": false,
+      "score": 422.0
+    },
+    {
+      "id": "2067556996468060360",
+      "author": "HolmesAI_",
+      "text": "A reusable AI coding skill does not have to start from scratch.\nIt can start with a Markdown file.\n\nYour prompts.\nYour workflows.\nYour coding standards.\nYour project knowledge.\n\nTurn them into a Coding Persona.\nAttach it to a Coding Agent.\nLet your agent inherit how you build. ht",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2067556996468060360",
+      "is_kol": false,
+      "score": 410.0
+    },
+    {
+      "id": "2067434067373776956",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update with many new improvements, features, and bug fixes\n\nRelease Notes: v0.2.56\n\nFeatures:\n• resume_from now continues a finished sub-agent in place instead of forking a new conversation.\n• grok sessions delete <id> command now lets you permanently ",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2067434067373776956",
+      "is_kol": false,
+      "score": 400.0
+    },
+    {
+      "id": "2067448737514012793",
+      "author": "TipsUjjwal",
+      "text": "🎯𝟭𝟮 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗘𝘃𝗲𝗿𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗦𝗵𝗼𝘂𝗹𝗱 𝗞𝗻𝗼𝘄\n\nMost developers use Claude Code for basic coding tasks.\n\nThese 12 powerful features can dramatically improve your workflow, productivity, and development speed.\n\n𝟬𝟭. 𝗦𝗹𝗮𝘀𝗵 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n➡️ Run predefined workflows and developer shor",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2067448737514012793",
+      "is_kol": false,
+      "score": 354.0
+    },
+    {
+      "id": "2067445305134506284",
+      "author": "tonysimons_",
+      "text": "🚨 Some dude just shipped Hermes GPT!\n\nIt’s an MCP sidecar that lets ChatGPT plug into Hermes Agent’s local tool system.\n\nChatGPT can now use Hermes to:\n\n⚕️ read project files\n⚕️ search your workspace\n⚕️ search Hermes memory\n⚕️ inspect installed skills\n⚕️ call selected local Herme",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2067445305134506284",
+      "is_kol": false,
+      "score": 309.0
+    },
+    {
+      "id": "2067472805072162962",
+      "author": "elora_khatun",
+      "text": "Most people want to become an AI Engineer.\n\nVery few know what to learn... and in what order.\n\nHere’s a roadmap that takes you from beginner → production-ready AI Engineer 👇\n\n1️⃣ Master the foundations\n• Python programming\n• Data structures & algorithms\n• Linear algebra\n• Probabi",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2067472805072162962",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2067509963484959112",
+      "author": "paraschopra",
+      "text": "Just pushed a few bug-fixes to my \"make-page-interactive\" skill.\n\nIf you haven't tried it yet, do give it a shot! It's become decently popular :)\n\nWhat it does is simple (and I've been using it almost everyday): for any local HTML page (a report, slide deck, etc.) that your codin",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2067509963484959112",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2067370451488383272",
+      "author": "RoundtableSpace",
+      "text": "UNREAL ENGINE 5.8 JUST SHIPPED WITH EXPERIMENTAL MCP SERVER SUPPORT BUILT RIGHT IN\n\nConfigure the MCP plugin, connect to any agent and your pipeline talks directly to AI tools now.\n\nhttps://t.co/UjYwKop7v1",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2067370451488383272",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2067476220997165209",
+      "author": "CoinMarketCap",
+      "text": "🤖 Let your Agent do research for you\n\n1️⃣ Copy the install Command → Paste into your Agent \n2️⃣ Copy the Execution Command → Paste → Skill: btc_etf_institutional_demand (Try the code yourself)\n\nUse `btc_etf_institutional_demand` from CMC Skill Hub to execute a task for me.\n\n## Pa",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2067476220997165209",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2067432401005912575",
+      "author": "zeuuss_01",
+      "text": "THESE 5 SKILLS TURN HERMES AGENT INTO A SELF-RUNNING POWERHOUSE - ON NOUS RESEARCH’S #1 AGENT ON OPENROUTER.\n\nHermes already writes its own skills and remembers across sessions. \n\nThese 5 from the community ecosystem push it further - drop them in ~/.hermes/skills/ and go.\n\nANTHR",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2067432401005912575",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2067536840102379616",
+      "author": "gippp69",
+      "text": "HERMES RUNS 24/7 WITH 199 SKILLS. A CHINESE DEV SHOWS HOW IT BECOMES A SELF-UPGRADING AI WORKER THAT NEVER LOGS OFF\n\nhe opens hermes on windows and shows the terminal, model fallback settings, built-in tools and loaded skills. this is not another cli toy. it is an agent layer wit",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2067536840102379616",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2067460085954031815",
+      "author": "ProfBuehlerMIT",
+      "text": "For science, AI sovereignty and physics-grounded reasoning are non-negotiable. But how can we teach a small LLM like Gemma-4-E4B physics? One way is to use Agent Skills, but this has so far been limited to closed frontier models. mistral․rs now implements Agent Skills natively: t",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2067460085954031815",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2067503790861729891",
+      "author": "369Serena",
+      "text": "AI 玄学这波真的火起来了，真的不试试么！\n\n小红书上，AI 塔罗、八字、紫微、星座内容一直有人看\n\n如果你想研究 AI 玄学产品，或者做塔罗、八字、紫微、风水类内容号，先收藏这 5 个 GitHub Skills。\n\n1️⃣ bazi-skill 1.8K Star\n\n八字方向最值得先看的 Skill。\n它专注四柱八字命理分析，Star 明显高于大多数同类玄学 Skill。\n\n适合用来做八字分析、流年解读、命理内容生成，也适合研究“怎么把传统命理流程做成 Agent Skill”\n\n2️⃣ Numerologist_skills 806 Star\n这个",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2067503790861729891",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2067389365014368588",
+      "author": "boss_sec_labo",
+      "text": "最近、社内agentにMCP(LLMから外部ツールを叩くための標準仕組み)を入れる相談が増えている。便利だ。チャット一回で社内DB、外部SaaS、メール送信が叩ける。\n\n便利は必ずバランスシートの逆側に座る。俺が診ている範囲で繰り返し見るのは、agentに与えたtoolの権限が「人間が普段持っている権限」と同じ粒度で渡されている設計だ。営業のSlack権限、経理のDB読取権限、情シスの管理者権限。人間ならそれぞれ別人だが、agent側では同じプロセスから全部叩ける。\n\nつまり、間接プロンプトインジェクション(外部文書経由で指示文を仕込む攻撃)が1本通れば",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2067389365014368588",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2067453978158526534",
+      "author": "HumanBeing1099",
+      "text": "Here is the list of things that the dev completed today for $three\n\n06/17/2026\n\n•Animation Gallery\n•Animation Studio\n•How location works on IRL\n•Marketplace Analytics\n•My Collection\n•x402 Live Demo (IBM × https://t.co/qKZau8S9BC)\n•Agent profiles now show the agent's real avatar —",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2067453978158526534",
+      "is_kol": false,
+      "score": 182.0
+    }
+  ]
+}

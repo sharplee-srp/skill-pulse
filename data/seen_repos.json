@@ -3746,5 +3746,45 @@
   "agents365-ai/365-skills": {
     "first_seen": "2026-06-17",
     "tier": 3
+  },
+  "waishnav/devspace": {
+    "first_seen": "2026-06-18",
+    "tier": 2
+  },
+  "deusdata/codebase-memory-mcp": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "charonai-code/charon-aeon-test": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "zhaoxuya520/reverse-skill": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "hashnode/gql-skill": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "portdeveloper/clear-signing-helper": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "vxncxnx/ux-persona-audit": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "roberttlange/agentlens": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "vercel/eve": {
+    "first_seen": "2026-06-18",
+    "tier": 3
+  },
+  "the-omega-institute/newmath": {
+    "first_seen": "2026-06-18",
+    "tier": 3
   }
 }
