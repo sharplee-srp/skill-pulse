@@ -3786,5 +3786,37 @@
   "the-omega-institute/newmath": {
     "first_seen": "2026-06-18",
     "tier": 3
+  },
+  "hertzflow/hertzflow-skills": {
+    "first_seen": "2026-06-19",
+    "tier": 1
+  },
+  "brycewang-stanford/auto-empirical-research-skills": {
+    "first_seen": "2026-06-19",
+    "tier": 2
+  },
+  "ronkenx9/pharos-yield-scout": {
+    "first_seen": "2026-06-19",
+    "tier": 3
+  },
+  "pamelafox/github-copilot-mcp-tutorial": {
+    "first_seen": "2026-06-19",
+    "tier": 3
+  },
+  "gear-foundation/vara-skills": {
+    "first_seen": "2026-06-19",
+    "tier": 3
+  },
+  "abhinavgautam01/solana-tx-landing-skill": {
+    "first_seen": "2026-06-19",
+    "tier": 3
+  },
+  "buddypia/agent-skills": {
+    "first_seen": "2026-06-19",
+    "tier": 3
+  },
+  "hugegreencandle/xahc": {
+    "first_seen": "2026-06-19",
+    "tier": 3
   }
 }

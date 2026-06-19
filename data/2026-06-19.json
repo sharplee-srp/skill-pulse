@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-19",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 18,
+    "unique_repos": 13,
+    "new_repos": 8,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "hertzflow/hertzflow-skills",
+      "github_url": "https://github.com/hertzflow/hertzflow-skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 842.0,
+      "mention_count": 6,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eastweb3eth",
+        "text": "对于 @Hertzflow_xyz Skill 的安装提供一个更简单的办法\n\n如果你没有购买 claude 和 codex 的API，也没关系。一样可以是用 Hertzflow Skill，只需要有 @SurfAI 账户即可。\n\n整个过程只需要 2 步：\n\n1. 注册 SurfAI 账号：https://t.co/gr2C1Zwb6r\n2. 对话框中输入安装 Skill 命令：npx skills add HertzFlow/hertzflow-skills\n\n然后你就可以愉快的玩耍了~~~\n\n下图是我测试了一下 $RE 的0x526526528f35a",
+        "likes": 46,
+        "url": "https://x.com/i/status/2067809658782577127"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067888180708233599",
+        "https://x.com/i/status/2067856675441360921",
+        "https://x.com/i/status/2067809658782577127",
+        "https://x.com/i/status/2067804589651611669",
+        "https://x.com/i/status/2067800779092853204",
+        "https://x.com/i/status/2067786614722720185"
+      ]
+    },
+    {
+      "repo": "brycewang-stanford/auto-empirical-research-skills",
+      "github_url": "https://github.com/brycewang-stanford/auto-empirical-research-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 2668.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 626,
+      "total_retweets": 138,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "20分钟捅出一篇能投顶刊的论文，这事儿现在真不是吹牛批。\n\n🔗 https://t.co/OdlaYkpSM4\n\n以前做实证有多熬人你们心里都有数：选题、扒文献、洗数据、因果识别、稳健性检验、画表、写正文，一套流程干下来俩仨月就没了，还得防着referee挑刺、防着期刊反AI，博士生直接被卷到抑郁边缘。\n\n现在斯坦福REAP联手copaper把这套东西给开源了，23000+个专业Agent技能，横扫经济、政治、社会、心理等8大社科领域，顶尖研究员的方法论全被打包成能直接调的Skill，从选题到投稿一气呵成全自动。\n\n🔗 https://t.co/Dy1p",
+        "likes": 626,
+        "url": "https://x.com/i/status/2067836774353936475"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067836774353936475"
+      ]
+    },
+    {
+      "repo": "ronkenx9/pharos-yield-scout",
+      "github_url": "https://github.com/ronkenx9/pharos-yield-scout",
+      "tier": 3,
+      "is_new": true,
+      "score": 296.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenn_ronin",
+        "text": ".@pharos_network  is built so agents can discover, trust, pay, and transact with each other on-chain\n\nSo I built the rails for exactly that  five reusable Skills (CLI + MCP, TypeScript + viem) that each do one thing well\n\nand compose into a complete autonomous-agent stack\n\n1. Yie",
+        "likes": 62,
+        "url": "https://x.com/i/status/2067675020357214641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067675020357214641"
+      ]
+    },
+    {
+      "repo": "pamelafox/github-copilot-mcp-tutorial",
+      "github_url": "https://github.com/pamelafox/github-copilot-mcp-tutorial",
+      "tier": 3,
+      "is_new": true,
+      "score": 229.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pamelafox",
+        "text": "I ran 4 hours straight of internal workshops today showing how to use and build MCP servers.\n\nSlides @ https://t.co/ed2eNFlcIH\nExercises @ https://t.co/XjDBSL34wv\n\nWe connected GitHub Copilot (VS Code/CLI/App) to both public and auth'd MCP servers, then built a basic server with ",
+        "likes": 38,
+        "url": "https://x.com/i/status/2067748946433409233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067748946433409233"
+      ]
+    },
+    {
+      "repo": "gear-foundation/vara-skills",
+      "github_url": "https://github.com/gear-foundation/vara-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shashwat_web3",
+        "text": "you can build and ship a dApp on @VaraNetwork without spending a $ or running any infra. here's the entire free builder stack, and the AI part is wild.\n\nstart with vara skills:\na free public library of 24 skills plus a full handbook that plugs straight into claude code, cursor, c",
+        "likes": 9,
+        "url": "https://x.com/i/status/2067842317084770506"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067842317084770506"
+      ]
+    },
+    {
+      "repo": "abhinavgautam01/solana-tx-landing-skill",
+      "github_url": "https://github.com/abhinavgautam01/solana-tx-landing-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gautam_abhinav1",
+        "text": "Built a @claudeai skill that diagnoses why your @solana  txs simulate but never land \n\nCovers blockhash expiry, priority fees, @jito_sol  routing, RPC failover &amp; more.\n\nOne command → full audit report.\nhttps://t.co/IKaQFME8Kf\n\n#Solana #ClaudeCode #Web3 #Codex #BuildInPublic",
+        "likes": 3,
+        "url": "https://x.com/i/status/2067936303598207044"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067936303598207044"
+      ]
+    },
+    {
+      "repo": "buddypia/agent-skills",
+      "github_url": "https://github.com/buddypia/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buddypia",
+        "text": "そこで、Gemini 🤝 Claude 🤝 GPT を裏で連携させて、\n1. 3モデルで徹底討論（Debate）\n2. 相互批評で文章や設計を改善（Reflection）させるスキル集を作りました。\n\nClaude CodeやCodexなどどのAgentツールで動きます\n\nインストール👇\nnpx skills add buddypia/agent-skills\nhttps://t.co/CKqUYwursf",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067929162619445730"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067929162619445730"
+      ]
+    },
+    {
+      "repo": "hugegreencandle/xahc",
+      "github_url": "https://github.com/hugegreencandle/xahc",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Cryptocrazy589",
+        "text": "Install:\n  npx skills add Hugegreencandle/xahc\n\n  Works in Claude Code, Cursor, Copilot — anything that speaks the skills standard.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067877934053097769"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067877934053097769"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jimliu/baoyu-design",
+      "github_url": "https://github.com/jimliu/baoyu-design",
+      "tier": 2,
+      "is_new": false,
+      "score": 570.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 120,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "baoyu-design skill 更新：可以在制作 PPT、动画视频或者网站时调用 AI 生图技能配图了，当然需要你本地 Agent 有配置画图 Skill。\n\n如果是 Codex 可以直接调用内置画图工具，如果你用 Claude Code 的话可以配合 baoyu-image-gen skill 去调用 Codex CLI 画图。\n\n用它来生成 PPT 效果特别好，可以自动帮你在 PPT 合适位置插入配图，最牛的是你可以连图片一起导出为 PPTX，还可以接着用 PowerPoint 或者 Keynote 二次编辑。\n\n推荐去试试看：\nbaoyu-d",
+        "likes": 120,
+        "url": "https://x.com/i/status/2067876611873964284"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067876611873964284"
+      ]
+    },
+    {
+      "repo": "microsoft/skillopt",
+      "github_url": "https://github.com/microsoft/skillopt",
+      "tier": 3,
+      "is_new": false,
+      "score": 175.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WWTLitee",
+        "text": "微软开源的超屌skill自我迭代闭环训练验证工具：agent skill \n\nSkillOpt 是微软开源的一个面向自进化 agent skills 的文本空间优化项目。\n\n这个仓库把 skill 当成 agent 的外部状态来更新。它会跑 rollout，收集反馈，再用有边界的 add、delete、replace 编辑更新 skill，并用 held-out validation gate 决定改动能不能保留。项目还提供 PyPI 包、训练循环、多后端支持、内置 benchmark 和 WebUI dashboard。\n\n正在维护 Claude Co",
+        "likes": 20,
+        "url": "https://x.com/i/status/2067866973556379760"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067866973556379760"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Oluwaphilemon1",
+        "text": "Introducing Hallmark!\n\nAn open source design skill to make beautiful UIs and landing pages by default.\n\nWorks in Claude Code, Cursor, and Codex.\n\nnpx skills add nutlope/hallmark https://t.co/85sXPDttwL",
+        "likes": 2,
+        "url": "https://x.com/i/status/2067929858961818048"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067929858961818048"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@buildwithsid @Kaushal__marcus or just npx skills add AgentsORG/design-engineering\nhttps://t.co/419Ff07zRJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2067824591750488490"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067824591750488490"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "giuseppegurgone",
+        "text": "If you are not using https://t.co/IfvxMWWdvi your agent is *blind* and you are missing out.\n\nnpm i -g agent-browser\nagent-browser install\nnpx skills add vercel-labs/agent-browser -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2067721964483993758"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2067721964483993758"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2067752802689102011",
+      "author": "trythreews",
+      "text": "three․ws is the 3D AI agent layer of the open web. Anyone can generate a 3D avatar, give it an LLM brain, register it on-chain across multiple blockchains, embed it anywhere, and let it earn and spend money on its own. Agents have embodied WebGL identities that express emotion th",
+      "likes": 269,
+      "views": 0,
+      "url": "https://x.com/i/status/2067752802689102011",
+      "is_kol": false,
+      "score": 1242.0
+    },
+    {
+      "id": "2067653661346636237",
+      "author": "HeyGen",
+      "text": "Your coding agent does more than write code. It ships the launch video.\n\nDrop HeyGen's MCP server into @cursor_ai, point it at your README, and it builds a finished product video from one prompt - pulling your features and pricing straight from the repo.\n\nNo filming, no editing. ",
+      "likes": 263,
+      "views": 0,
+      "url": "https://x.com/i/status/2067653661346636237",
+      "is_kol": false,
+      "score": 1144.0
+    },
+    {
+      "id": "2067888468601213204",
+      "author": "BossMon_02",
+      "text": "What makes @TheARCTERMINAL Drive Skills interesting is that it shifts the idea of an AI agent from something you constantly instruct into something you gradually shape. Instead of locking users into one fixed workflow, it opens up a more modular system where each skill can stand ",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2067888468601213204",
+      "is_kol": false,
+      "score": 422.0
+    },
+    {
+      "id": "2067876261901525030",
+      "author": "_avichawla",
+      "text": "Claude Code’s architecture, explained visually:\n\n(bookmark this)\n\nClaude Code is a lot more than a CLI that invokes the Claude models.\n\nThe actual system has six layers, and the model is just one node inside the loop.\n\nThe diagram below explains every component:\n\n1) Input layer h",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2067876261901525030",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2067913429705441678",
+      "author": "primemans",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/HH1SPp0kW8",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2067913429705441678",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2067903254122655904",
+      "author": "sairahul1",
+      "text": "🚨 Jensen Huang, CEO of Nvidia:\n\n\"Every engineer is going to have and manage hundreds of agents.\"\n\nThe most valuable engineering skill of 2026 is not taught in any university.\n\nNo CS program teaches harness engineering.\nNo bootcamp teaches agent memory architecture.\nNo degree prep",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2067903254122655904",
+      "is_kol": false,
+      "score": 345.0
+    },
+    {
+      "id": "2067687949316276499",
+      "author": "sunaiuse",
+      "text": "Meta Ads just connected to ChatGPT.\n\nAgencies have 6 months before this replaces them entirely.\n\nHere's what it actually does — and why the $5,000/month retainer model is already dead:\n\nYou paste 1 link into ChatGPT settings. That's the full setup. 60 seconds.\n\nAfter that, ChatGP",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2067687949316276499",
+      "is_kol": false,
+      "score": 337.0
+    },
+    {
+      "id": "2067781661257798053",
+      "author": "cyrilXBT",
+      "text": "Microsoft Senior AI developer Marlene Mhangami:\n\n\"Claude getting smarter is not enough. The next bottleneck is the system that actually executes that intelligence.\"\n\nThen she spent 34 minutes proving it on stage.\n\nClaude Sonnet 4.6 plugged into Microsoft Foundry. One URL connects",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2067781661257798053",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2067882168806739975",
+      "author": "Cardanians_io",
+      "text": "VESPR has created a Cardano $ADA MCP server.\n\nIt lets Claude and other MCP-compatible AI assistants query live Cardano data directly.\n\nWallet info, tx history, token data, staking and stake pool info, ADA Handles, asset metadata, and more.\n\nVery cool!\n\nhttps://t.co/GKlSOnqLlW",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2067882168806739975",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2067655891378491888",
+      "author": "ClaudeDevs",
+      "text": "Built on an MCP extension that any client, server, or IdP can adopt. \n\nIf you're interested in learning more or adopting it, read here: \nhttps://t.co/qtK5FEMQIz",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2067655891378491888",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2067818059520483339",
+      "author": "swarminged",
+      "text": "Did more research on $three and @trythreews and discovered a massive, highly sophisticated onchain economic architecture built natively on Solana. \n\nBy turning 3D agents into fully autonomous, financially sovereign actors, the platform's trajectory is uniquely positioned for mass",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2067818059520483339",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2067717786378317966",
+      "author": "yugacohler",
+      "text": "Coinbase's remote MCP server for Agents is now live. \n\nYou can now grant your AI Agent access to your Coinbase account to trade, make payments, and more.\n\nDocs in 🧵 https://t.co/dgm57tBlgb",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2067717786378317966",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2067921105676071112",
+      "author": "Suryanshti777",
+      "text": "The smartest people I know have quietly stopped talking about prompts.\n\nThey're talking about context engineering.\n\nAnd most people haven't noticed the shift yet.\n\nFor the last 2 years, everyone was obsessed with writing the perfect prompt.\n\n\"Give me the best prompt.\"\n\"Share your",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2067921105676071112",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2067814255416705091",
+      "author": "writer_china",
+      "text": "Palmier ProをCodexと連携して、AIに動画編集させてみた | インストールからMCP接続、カット、テロップ入れ",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2067814255416705091",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2067905582875471992",
+      "author": "mardehaym",
+      "text": "Every production AI system I've seen break followed the same 3-act structure.\n\nLast Friday, I watched all three acts play out on one of our client engagements.\n\nAct 1: The system works.\n\nA CTO built a multi-bot engineering pipeline. Codex 5.5 under the hood. One bot analyzes the ",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2067905582875471992",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2067917810055917829",
+      "author": "RishiUvaach",
+      "text": "Your longer chats aren't smarter. They're dumber.\n\nHere are the 12 wrong facts you (still) believe:\n\n1. LONGER CHAT → not smarter\n☑ One chat = one task. Finish it after getting done. \n☑ Need the context? Ask for a 5-line summary, paste it into a fresh chat. Faster AND cheaper.\n\n2",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2067917810055917829",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2067727436062556272",
+      "author": "zeuuss_01",
+      "text": "HERMES IS OPEN SOURCE. THE REAL LEVERAGE IS THE ECOSYSTEM AROUND IT.\n\nHERE ARE 5 REPOS FROM THE ECOSYSTEM - WITH HONEST MATURITY TAGS.\n\nmost of these are early. that’s the point. but know what you’re installing.\n\nVESSEL BROWSER (~95★, MIT) by unmodeled-tyler. [most mature]\n\nan AI",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2067727436062556272",
+      "is_kol": false,
+      "score": 164.0
+    },
+    {
+      "id": "2067902159992086871",
+      "author": "JoranEntjes",
+      "text": "My favorite skill in the @framer agent is /ask-me. Instead of guessing, it asks you for more context first. https://t.co/2eptwx3jTX",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2067902159992086871",
+      "is_kol": false,
+      "score": 158.0
+    }
+  ]
+}
