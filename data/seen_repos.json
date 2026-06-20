@@ -3818,5 +3818,45 @@
   "hugegreencandle/xahc": {
     "first_seen": "2026-06-19",
     "tier": 3
+  },
+  "ottosulin/awesome-ai-security": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "eric-tramel/moraine": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "bugbasesecurity/pentest-copilot": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "vectifyai/openkb": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "us/crw": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "dautovri/cloud-cost-agent": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "giuice/giuice-agent-skills": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "arystos/skill-codex": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "patrick-fu/parallel-goal-workflows": {
+    "first_seen": "2026-06-20",
+    "tier": 3
+  },
+  "voltagent/awesome-agent-skills": {
+    "first_seen": "2026-06-20",
+    "tier": 3
   }
 }
