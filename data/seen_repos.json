@@ -3858,5 +3858,29 @@
   "voltagent/awesome-agent-skills": {
     "first_seen": "2026-06-20",
     "tier": 3
+  },
+  "startrail-org/pixelrag": {
+    "first_seen": "2026-06-21",
+    "tier": 2
+  },
+  "penpot/penpot": {
+    "first_seen": "2026-06-21",
+    "tier": 3
+  },
+  "jamiepine/voicebox": {
+    "first_seen": "2026-06-21",
+    "tier": 3
+  },
+  "faisalishfaq2005/loopflow": {
+    "first_seen": "2026-06-21",
+    "tier": 3
+  },
+  "lvtd-llc/ai-steering": {
+    "first_seen": "2026-06-21",
+    "tier": 3
+  },
+  "vintlin/computer-care-skills": {
+    "first_seen": "2026-06-21",
+    "tier": 3
   }
 }

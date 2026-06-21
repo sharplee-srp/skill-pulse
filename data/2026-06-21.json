@@ -1,0 +1,544 @@
+{
+  "date": "2026-06-21",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 170,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 6,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "startrail-org/pixelrag",
+      "github_url": "https://github.com/startrail-org/pixelrag",
+      "tier": 2,
+      "is_new": true,
+      "score": 17466.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4772,
+      "total_retweets": 590,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akshay_pachaar",
+        "text": "Web scraping will never be the same.\n\n(100% open-source visual search at scale)\n\nPixelRAG is a retrieval system that skips HTML parsing completely.\n\nInstead of scraping a page into text and embedding chunks, it screenshots the page and retrieves the image. A vision-language model",
+        "likes": 4640,
+        "url": "https://x.com/i/status/2068317780064276917"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068395510742835301",
+        "https://x.com/i/status/2068317780064276917"
+      ]
+    },
+    {
+      "repo": "penpot/penpot",
+      "github_url": "https://github.com/penpot/penpot",
+      "tier": 3,
+      "is_new": true,
+      "score": 372.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Penpot is an open source design platform built for full self-hosted ownership, not vendor lock-in.\n\n> Works in browser or deployed on your own servers — open standards like SVG, CSS, HTML, JSON\n> Native Design Tokens keep design and code in sync as a single source of truth\n> MCP ",
+        "likes": 84,
+        "url": "https://x.com/i/status/2068419866630173134"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068419866630173134"
+      ]
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "github_url": "https://github.com/jamiepine/voicebox",
+      "tier": 3,
+      "is_new": true,
+      "score": 355.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 65,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cyrilXBT",
+        "text": "YOU DON'T NEED TO PAY FOR ELEVENLABS OR WISPRFLOW ANYMORE. SOMEONE JUST OPEN-SOURCED BOTH IN ONE APP.\n\nCompletely free. Runs locally. No API keys. No usage caps. No audio leaving your machine.\n\nClone any voice. Global dictation hotkey. Your AI agent can talk back through it. 7 TT",
+        "likes": 65,
+        "url": "https://x.com/i/status/2068619690491199770"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068619690491199770"
+      ]
+    },
+    {
+      "repo": "faisalishfaq2005/loopflow",
+      "github_url": "https://github.com/faisalishfaq2005/loopflow",
+      "tier": 3,
+      "is_new": true,
+      "score": 254.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "很多好的skill都因为缺少分发渠道而不被人知道\n\n这个skill值得学习，目前才3🌟，但工程质量极高\n\n做 Claude Code 自动化的，LoopFlow 值得抄思路（MIT，约 600 行 TS）\n\n裸写一个自动循环，必踩三个坑，它的解法很干净：\n\n坑 1 agent 自己改自己批\n→ Gate：一道闸用独立人格的 agent 来审，必须 VERDICT: PASS 才放行\n没给裁决，一律算 FAIL，因为「没验证的通过，不算通过」\n\n坑 2 没人盯着的循环 = 没人盯着的烧钱\n→ Budget：硬性美元上限，runner 和 Claude Co",
+        "likes": 43,
+        "url": "https://x.com/i/status/2068494938422313309"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068494938422313309"
+      ]
+    },
+    {
+      "repo": "lvtd-llc/ai-steering",
+      "github_url": "https://github.com/lvtd-llc/ai-steering",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rasulkireev",
+        "text": "Download the skill with:\n```\nnpx skills add LVTD-LLC/ai-steering\n```",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068431702863528418"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068431702863528418"
+      ]
+    },
+    {
+      "repo": "vintlin/computer-care-skills",
+      "github_url": "https://github.com/vintlin/computer-care-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VintonLin",
+        "text": "做了一套用来磁盘清理、网络优化、性能分析的 Skills。\n\n安装：npx skills add VintLin/computer-care-skills\nGithub：https://t.co/b5QOMQ7woa https://t.co/Y2XetjJslV",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068415421079056423"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068415421079056423"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "op7418/humanizer-zh",
+      "github_url": "https://github.com/op7418/humanizer-zh",
+      "tier": 2,
+      "is_new": false,
+      "score": 523.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 116,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mnmn94253156337",
+        "text": "中文创作者开源的 AI Skill，挑了 5 个我觉得写内容真能用上的。\n\n① Humanizer-zh：去 AI 味\n\n这个是 op7418 汉化的，它不是简单让文字“更口语化”，而是专门帮你抓文章里的 AI 痕迹。\n\n比如：过度强调意义、万能结尾、虚假范围、填充短语、空泛总结。\n\n这些东西单独看没问题，但堆在一起，读者一眼就能看出“这味儿不对”。\n\n写完推文、公众号、小红书，丢进去过一遍，能把那种模板感压下来。\n\nhttps://t.co/cdC5xECPX4\n\n② dbskill：选题诊断 + 爆款标题\n\ndontbesilent 做的，一套 21",
+        "likes": 116,
+        "url": "https://x.com/i/status/2068500416854421862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068500416854421862"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 287.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "这个动画审查 skills 挺好用：npx skills add emilkowalski/skill\n\n然后运行 /review-animations\n\nhttps://t.co/OMiqidVYOM",
+        "likes": 54,
+        "url": "https://x.com/i/status/2068257558947910030"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068257558947910030"
+      ]
+    },
+    {
+      "repo": "wbh604/uzi-skill",
+      "github_url": "https://github.com/wbh604/uzi-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 257.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "UZI-Skill。这是一款专注于股票深度分析的AI投研插件，看完它的设计思路，确实让我觉得有点东西！！\n\n最核心的亮点，不在于简单地把股票代码丢给大模型去“盲猜”——那种方式随便一个AI都能编出一堆似是而非的内容。UZI-Skill的真正价值，在于它把多维度的硬核分析框架整合在了一起：\n\n1️⃣ 整合了66位投资巨匠的分析框架（最新版已从51位扩展到66位）\n2️⃣ 覆盖22维市场数据\n3️⃣ 内置242条量化评估规则\n4️⃣ 融合22种机构级分析方法\n\n打个比方，这就像是让格雷厄姆、彼得·林奇、巴菲特、索罗斯，以及新加入的“股海贼王”（从十年实盘交割",
+        "likes": 34,
+        "url": "https://x.com/i/status/2068565828325539850"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068565828325539850"
+      ]
+    },
+    {
+      "repo": "gear-foundation/vara-skills",
+      "github_url": "https://github.com/gear-foundation/vara-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 135.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shashwat_web3",
+        "text": "the most underrated free tool in web3 right now:\n\nvara skills. a public library of 24 skills plus a handbook that plugs into claude code, cursor, codex and copilot. one command:\n\nnpx skills add gear-foundation/vara-skills\n\nyour AI agent goes from a rough idea, to a spec, to rust ",
+        "likes": 10,
+        "url": "https://x.com/i/status/2068301226434019575"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068301226434019575"
+      ]
+    },
+    {
+      "repo": "nvidia/skills",
+      "github_url": "https://github.com/nvidia/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "NVIDIA DROPPED SOMETHING BIG FOR AI AGENTS\n\nNvidia open-sourced a catalog of 110+ verified \"agent skills\" portable instruction sets that teach ai agents how to use cuda-x libraries and platform tools correctly\n\n→ covers cuopt, nemo, dynamo, rag, deepstream, medical ai, physical a",
+        "likes": 6,
+        "url": "https://x.com/i/status/2068573831103463504"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068573831103463504"
+      ]
+    },
+    {
+      "repo": "dautovri/cloud-cost-agent",
+      "github_url": "https://github.com/dautovri/cloud-cost-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dautovri",
+        "text": "I had an idea: my aws/gcloud/az CLI is already logged in, and my AI agent can already run commands in my terminal… \n\nnpx skills add dautovri/cloud-cost-agent \n\nhttps://t.co/Ka5pHnW22K",
+        "likes": 1,
+        "url": "https://x.com/i/status/2068286880295055504"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068286880295055504"
+      ]
+    },
+    {
+      "repo": "zai-org/glm-skills",
+      "github_url": "https://github.com/zai-org/glm-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x0SojalSec",
+        "text": "Level up your GLM agents.  \n\nGLM dropped an insane agent skill arsenal \n\n20+ production-ready tools for multimodal reasoning, document intelligence, visual grounding, and real-world automation. From PDF to full web app, image grounding, OCR on steroids, to stock analyst & resume ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2068124722408329358"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068124722408329358"
+      ]
+    },
+    {
+      "repo": "parthjadhav/app-store-screenshots",
+      "github_url": "https://github.com/parthjadhav/app-store-screenshots",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "longlostflaneur",
+        "text": "2.ParthJadhav/app-store-screenshots\n這是個 Next.js 編輯器。用 npx skills add ParthJadhav/app-store-screenshots（或clone）取得專案，npm run dev開瀏覽器。把模擬器截圖拖進去，可以自由調整文字位置、大小、加箭頭，甚至讓元素跨截圖流動。調整完點 Export bundle，一次產出 iPhone\n各平台Png",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068555726717587611"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068555726717587611"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@rsalimx @EndrewBiz @daisydotnow try @HyperFrames_ for the next time!\n\nnpx skills add heygen-com/hyperframes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068439872885461375"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068439872885461375"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "推荐一个最近爆火的 AI Skill：last30days-skill。\n\n它相当于给 Claude Code、Cursor、Codex 装上了一个「过去 30 天搜索引擎」，专门研究 最近一个月大家真正关注什么。 \n\n和普通搜索最大的区别是，它看的不是 SEO 文章，而是人们真实投票出来的内容：\n\n🔥 Reddit 高赞讨论\n🔥 X 热门帖子和点赞数据\n🔥 YouTube 视频和字幕\n🔥 Hacker News 技术社区\n🔥 GitHub 提交记录\n🔥 Polymarket 真金白银下注的预测市场\n🔥 TikTok、Instagram、Bluesky（",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068662478100422778"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068662478100422778"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2068434095005409687",
+      "author": "matrosov",
+      "text": "Claude Code is a very powerful tool on RE tasks. Looping it with IDA and the decompiler over MCP or idalib delivers very impressive results, especially in combination with dynamic workflows.\n\n/goal find and list all the crypto implementations\n[algo => address]\n\n/loop use decompil",
+      "likes": 219,
+      "views": 0,
+      "url": "https://x.com/i/status/2068434095005409687",
+      "is_kol": false,
+      "score": 802.0
+    },
+    {
+      "id": "2068431946431008972",
+      "author": "PodcastAlphaX",
+      "text": "Levie now uses Salesforce 5x more than at any point before.\n\nThe Box CEO @levie connected Salesforce's MCP server to Claude Code. Now he runs customer and market intelligence queries he would never have bothered pulling up by hand.\n\nThe agent removes the friction. The underlying ",
+      "likes": 214,
+      "views": 0,
+      "url": "https://x.com/i/status/2068431946431008972",
+      "is_kol": false,
+      "score": 717.0
+    },
+    {
+      "id": "2068401605112930742",
+      "author": "alex_prompter",
+      "text": "Some of the most starred repos on GitHub right now contain zero runtime code. They're markdown files, skill configs, and prompt collections that change how AI models behave.\n\n6 repos worth knowing about, ordered by stars:\n\n1. obra/superpowers (200K+ stars)\n\nA full development met",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2068401605112930742",
+      "is_kol": false,
+      "score": 593.0
+    },
+    {
+      "id": "2068492639310418231",
+      "author": "BrooksWhaleX",
+      "text": "🚨 SOMEONE BUILT A FREE CAPCUT WITH NO WATERMARKS, AND IT HAS 55K STARS ON GITHUB\n\nCapCut slaps a watermark on your videos, locks features behind a paywall, and charges you a subscription on top. A group of devs got tired of it and built the open source alternative.\n→ Full video e",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2068492639310418231",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2068542244806635706",
+      "author": "ProfBuehlerMIT",
+      "text": "A 4B local model can do physics: dynamic fracture, beam mechanics, topology optimization, and Chladni plates. But how do you get a 4B model to \"do\" physics? We can give it scientific skills that turn intent into experiments, generate data, make images and movies, verify outputs, ",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2068542244806635706",
+      "is_kol": false,
+      "score": 385.0
+    },
+    {
+      "id": "2068535218492133528",
+      "author": "TipsUjjwal",
+      "text": "🎯𝟯𝟬 𝗠𝘂𝘀𝘁 𝗞𝗻𝗼𝘄 𝗧𝗲𝗿𝗺𝘀 𝗶𝗻 𝗖𝗹𝗮𝘂𝗱𝗲\n\nDiscover the language of Claude in simple words.\n\nSave this guide before your next AI conversation.\n\n➡️ 𝗣𝗿𝗼𝗺𝗽𝘁: The text you send Claude.\n\n➡️ 𝗢𝗽𝘂𝘀: The smartest model. For hard tasks.\n\n➡️ 𝗦𝗼𝗻𝗻𝗲𝘁: The mid-tier model. For quick tasks.\n\n➡️ 𝗛𝗮𝗶𝗸𝘂: The c",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2068535218492133528",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2068585580829741229",
+      "author": "XFreeze",
+      "text": "Grok Build just got a major update with the new improvements, features, and bug fixes\n\nRelease Notes: v0.2.60\n\nFeatures:\n• /resume now shows sessions from your current working directory's repo at the top of the list.\n• Too-wide Mermaid diagrams now show a hint below the fallback ",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2068585580829741229",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2068321349135708183",
+      "author": "doublenickk",
+      "text": "THE CEO OF OBSIDIAN AND THE CEO OF SHOPIFY BOTH QUIETLY SHIPPED THE TOOLS THAT MAKE KARPATHY'S SECOND-BRAIN METHOD ACTUALLY WORK\n\nMost people run Andrej Karpathy's LLM wiki pattern and stop there. \n\nIt's the foundation, but on its own it's only half the setup. The other half came",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2068321349135708183",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2068550047713661407",
+      "author": "369Serena",
+      "text": "给 Cursor / Claude / Codex 必装的爬虫工具包！！！\n\n这 5 个 GitHub 项目建议先收藏\n\n以前是你找资料，Agent 帮你总结\n现在是 Agent 自己去搜索、读取、抓取真实互联网，再把结论反馈给你。\n\n做内容选题、竞品调研、SEO、产品分析、舆情观察，都会用得上\n\n1️⃣Agent-Reach 3.6 万 Stars。\n\n它解决的是“跨平台搜索”的问题。\n\n可以让 Agent 读取 Twitter、Reddit、YouTube、GitHub、B站、小红书等平台。\n\n如果你想知道：\n一个产品在 X 上有没有人讨论\nRedd",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2068550047713661407",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2068555299401891881",
+      "author": "AamirAnsar94694",
+      "text": "🚀 𝗧𝗼𝗽 𝟭𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀 𝗧𝗵𝗮𝘁 𝗧𝘂𝗿𝗻 𝗖𝗹𝗮𝘂𝗱𝗲 𝗜𝗻𝘁𝗼 𝗔 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲\n\n⚡ Turn Claude from a simple AI assistant into a powerful workflow engine.\n\nThese GitHub repos help you automate, build, research, and ship faster.\n\n🔹 𝗢𝟭. 𝗥𝗲𝗽𝗼𝗺𝗶𝘅\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗱𝗼𝗲𝘀: Packs your full codebase into one AI",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2068555299401891881",
+      "is_kol": false,
+      "score": 302.0
+    },
+    {
+      "id": "2068432427756962037",
+      "author": "lefishingfn",
+      "text": "chapter 2 og will be the tech demo for the unreal engine mcp server",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2068432427756962037",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2068532690467623105",
+      "author": "Domingo_gou",
+      "text": "朋友们，这周TRON日交易量刚破1400万新高，DeFi挺热闹的，AI Agent 在crypto圈也讨论得火热。\n\nJustLend的SBM V2、GasFree、sTRX和新一期USDD挖矿这些更新占了不少版面， @DeFi_JUST 推出的AI Support反而在中文社区聊得不多。\n\n我一开始把这个AI Support当成普通聊天辅助功能，后来发现它其实在改协议入口本身。过去DeFi主要是给人看的页面，现在得让机器也能准确读懂规则，不能理解错。\n\n机器看不到我们怎么判断利率、抵押状态和健康度，它需要一套清楚、结构化、能反复调用的协议说明。Just",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2068532690467623105",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2068639188396744937",
+      "author": "RoundtableSpace",
+      "text": "Web scraping is dead.\n\nPixelRAG skips HTML parsing completely. It screenshots the page and a vision model reads the answer straight off the pixels.\n\n100% open-source. Comes with a Claude Code plugin that gives Claude eyes.\n\nhttps://t.co/smH63qX6qp",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2068639188396744937",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2068608358878511128",
+      "author": "neil_xbt",
+      "text": "DevOps teams build custom model-routing infrastructure to solve the exact problem Hermes ships as a default configuration option!\n\nVision analysis, web page summarization, context compression, title generation, the curator that runs the self-improving loop, the judge that checks ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2068608358878511128",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2068513598260072711",
+      "author": "Malay4Product",
+      "text": "Two years ago a Chinese lab did something quietly aggressive. DeepSeek matched a frontier model, then put it online for free.\n\nChina changed the game everyone was playing.\n\nLast week that game took its next step. https://t.co/NqmvjmJWoJ released GLM-5.2.\n\nGLM-5.2 is a 753 billion",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2068513598260072711",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2068418165953167858",
+      "author": "ggdotxyz",
+      "text": "The most interesting AI founders right now are not raising quiet seed rounds, they are launching their ideas as coins on @EasyA_Kickstart, the launchpad from the same team whose alumni built Devin and raised from a16z and Sequoia. We went through the board and sorted by market ca",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2068418165953167858",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2068588322193100899",
+      "author": "IamShakes_",
+      "text": "so @trench_royale went live recently and i've been playing it all morning.\n\nit's a prediction game on Solana where AI Agents fight in the arena as mini characters and it's actually different from the usual games. \n\nthe concept is quite simple. \n- every few minutes, five AI warrio",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2068588322193100899",
+      "is_kol": false,
+      "score": 191.0
+    },
+    {
+      "id": "2068403016433291302",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT CAN RUN A BRAND DEALS MANAGER\nTHAT MONITORS YOUR INBOX 24/7,\nKNOWS YOUR RATES, NEGOTIATES FOR YOU,\nAND KEEPS YOU IN THE LOOP VIA TELEGRAM.\n\none Hermes profile.\none SOUL.md with your rates and rules.\none email MCP. one cron job.\nruns on a VPS. never sleeps.\n\nTHE SETUP",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2068403016433291302",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2068307221847449985",
+      "author": "gkxspace",
+      "text": "视频编辑的 Cursor 时代要来了？？？\n\nPalmier 开源的 Mac 原生视频编辑器，核心思路：\n整个编辑器就是一个 MCP server，Claude、Cursor、Codex 可以直接操作你的时间轴\n\n把编辑器变成 AI Agent 的工具，比如你跟 Claude 说\"把第二段视频剪到 3 秒，加个字幕\"，它直接在时间轴上操作\n\n包含（完全开源）：\n1、完整的多轨时间轴编辑器\n2、on-device 语义搜索，用自然语言找素材\n3、本地语音转文字，不用联网\n4、MCP server 完全免费，随便接\n\nAI 生成部分（Seedance、Kli",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2068307221847449985",
+      "is_kol": false,
+      "score": 183.0
+    }
+  ]
+}
