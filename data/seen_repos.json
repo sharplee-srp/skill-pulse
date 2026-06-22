@@ -3882,5 +3882,33 @@
   "vintlin/computer-care-skills": {
     "first_seen": "2026-06-21",
     "tier": 3
+  },
+  "headroomlabs-ai/headroom": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "avlihachev/mening-skill": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "victoriano/recipe-keeper-skill": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "lyt0407/blockchain-daily-news": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "withastro/flue": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "dexhunter/seedance2-skill": {
+    "first_seen": "2026-06-22",
+    "tier": 3
+  },
+  "turbodocx/guidewright": {
+    "first_seen": "2026-06-22",
+    "tier": 3
   }
 }

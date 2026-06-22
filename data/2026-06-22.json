@@ -1,0 +1,441 @@
+{
+  "date": "2026-06-22",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 162,
+    "tweets_with_repos": 14,
+    "unique_repos": 11,
+    "new_repos": 7,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "github_url": "https://github.com/headroomlabs-ai/headroom",
+      "tier": 3,
+      "is_new": true,
+      "score": 450.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharbel",
+        "text": "The 10 fastest growing GitHub repos this week:\n\n1. headroom (+15.0K stars)\nCompress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.\nhttps://t.co/pXgRjW9GJV\n\n2. Agent-Reach (+8.5K stars)\nGive your ",
+        "likes": 90,
+        "url": "https://x.com/i/status/2068689182575198545"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068689182575198545"
+      ]
+    },
+    {
+      "repo": "avlihachev/mening-skill",
+      "github_url": "https://github.com/avlihachev/mening-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "avlihachev",
+        "text": "your users are starting to live inside an agent. if your app isn't a skill it can load, you don't exist to it.\n\n@openclaw and Hermes agent are where a lot of people get work done now. You used to pick which tools to integrate with. The agent picks for the user now, from whatever ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2068981894788645209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068981894788645209"
+      ]
+    },
+    {
+      "repo": "victoriano/recipe-keeper-skill",
+      "github_url": "https://github.com/victoriano/recipe-keeper-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "victorianoi",
+        "text": "I made the skill public here.\n\nYou can give this repo to Codex, Claude Code, OpenClaw, Hermes or your own agent, configure your Notion and Cookidoo accounts, and start sending recipe links.\n\nhttps://t.co/hcRoDr2Myz",
+        "likes": 3,
+        "url": "https://x.com/i/status/2068681220007866592"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068681220007866592"
+      ]
+    },
+    {
+      "repo": "lyt0407/blockchain-daily-news",
+      "github_url": "https://github.com/lyt0407/blockchain-daily-news",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tokenfreedom1",
+        "text": "🛠 做了一个 OpenClaw Skill：区块链每日新闻\n\nRSS + AI 自动采集 → DeepSeek 分析 → 每日情报简报 / OKX 文章 / 推特线程\n\n加密情报站一键部署，开源免费 ⛓️📰\n\nhttps://t.co/goHhMuFdck\n\n#Crypto #AI #Web3 #OpenClaw",
+        "likes": 1,
+        "url": "https://x.com/i/status/2068685708311851376"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068685708311851376"
+      ]
+    },
+    {
+      "repo": "withastro/flue",
+      "github_url": "https://github.com/withastro/flue",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AinaAiTech",
+        "text": "@flueai Teach your agent Flue in 1 command npx skills add withastro/flue/skills/flue - that’s dangerously easy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069016120108130647"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069016120108130647"
+      ]
+    },
+    {
+      "repo": "dexhunter/seedance2-skill",
+      "github_url": "https://github.com/dexhunter/seedance2-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MiMundoConIA",
+        "text": "la skill es gratis y de código abierto. se instala en un comando:\n\nnpx skills add dexhunter/seedance2-skill\n\ny acaban de sacar el mini: 2x más rápido, 30% más barato.\n\n2.200 estrellas, 224 forks.\n\nhttps://t.co/mDg7VBza5I",
+        "likes": 0,
+        "url": "https://x.com/i/status/2068996953493647820"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068996953493647820"
+      ]
+    },
+    {
+      "repo": "turbodocx/guidewright",
+      "github_url": "https://github.com/turbodocx/guidewright",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NicolasBuilds",
+        "text": "I replaced thousands in docs/screenshots tooling with Chrome MCP + an agent skill.\n\nThe agent now walks our live product like a user, captures screenshots, highlights the exact click target, writes the how-to guide, and checks old docs for drift.\n\nThis is the part of AI agents I ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069052377408106873"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069052377408106873"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 312.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "@solana 🧑‍🌾 🤖 Trade or LP, automatically with Byreal Agent Skills.\n\nnpx skills add byreal-git/byreal-agent-skills\n\nhttps://t.co/yaTAIuEYPC",
+        "likes": 2,
+        "url": "https://x.com/i/status/2069025126033866999"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069059069797896503",
+        "https://x.com/i/status/2069025126033866999",
+        "https://x.com/i/status/2068974260312486198"
+      ]
+    },
+    {
+      "repo": "startrail-org/pixelrag",
+      "github_url": "https://github.com/startrail-org/pixelrag",
+      "tier": 3,
+      "is_new": false,
+      "score": 291.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "servasyy_ai",
+        "text": "Web 抓取将彻底改变。（100% 开源的可视化搜索系统）\n\nPixelRAG 是一种完全跳过 HTML 解析的检索系统。\n\n它不再把网页解析成文本再进行向量化，而是直接对页面截图，并基于图像进行检索。由视觉语言模型直接从像素中读取答案。\n\n传统解析正是 Web RAG 信息损失的主要来源。\n\n单一 HTML 转文本解析器可能丢失超过 40% 的页面信息\n\n表格、图表和布局结构往往被压平甚至丢弃\n即使只更换解析器，在相同文档上的准确率也可能波动约 10 个点PixelRAG 索引的是用户“真实看到”的页面。\n\n团队构建了一个覆盖整个 Wikipedia ",
+        "likes": 52,
+        "url": "https://x.com/i/status/2068859198226735351"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068859198226735351"
+      ]
+    },
+    {
+      "repo": "nvidia/skills",
+      "github_url": "https://github.com/nvidia/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 231.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smratitiwa86867",
+        "text": "NVIDIA JUST MADE AI AGENTS A LOT SMARTER 🤖⚡\n\nNVIDIA has open-sourced 110+ verified Agent Skills — portable instruction sets that teach AI agents how to correctly use CUDA-X libraries and NVIDIA platform tools.\n\n🔹 110+ production-ready skills\n🔹 Covers CuOpt, NeMo, Dynamo, RAG, Dee",
+        "likes": 4,
+        "url": "https://x.com/i/status/2068944778742448363"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068944778742448363",
+        "https://x.com/i/status/2068924195652669720"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TeksCreate",
+        "text": "OpenClaw just shipped v2026.6.9 — and the \"paper cuts\" focus is exactly what every agent framework needs right now.\n\n380K stars. The #1 personal AI assistant on GitHub. And this release is all about polish:\n- Richer Telegram delivery\n- Steadier agent recovery\n- Stronger Codex int",
+        "likes": 1,
+        "url": "https://x.com/i/status/2068717374350471232"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2068717374350471232"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2068884177383047439",
+      "author": "techNmak",
+      "text": "Someone finally documented how to actually use Claude Code.\n\n58K+ stars. claude-code-best-practice.\n\nDirect from Boris Cherny and team:\n➡️ Always use plan mode, give Claude a way to verify\n➡️ Ask Claude to interview you using AskUserQuestion tool\n➡️ Use Git Worktrees for parallel",
+      "likes": 386,
+      "views": 0,
+      "url": "https://x.com/i/status/2068884177383047439",
+      "is_kol": false,
+      "score": 1523.0
+    },
+    {
+      "id": "2068961529484193930",
+      "author": "jukan05",
+      "text": "Korea's June Memory Semiconductor Exports Poised to Set a New All Time Record\n\nJune memory semiconductor exports extended their powerful upward run, with both export value and unit prices surging together on the back of AI demand and supply shortages. In particular, as the spillo",
+      "likes": 313,
+      "views": 0,
+      "url": "https://x.com/i/status/2068961529484193930",
+      "is_kol": false,
+      "score": 1094.0
+    },
+    {
+      "id": "2068987771247542623",
+      "author": "PMbackttfuture",
+      "text": "用成峰的这个Skill\n没想到剪辑出这样一条视频\n整个过程除了最后打开剪映稍微处理了2分钟\n全程都靠Codex\n\n相当丝滑\nAgent剪辑的时代要来了！ https://t.co/JqjEnNFGys",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2068987771247542623",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2068775139169423602",
+      "author": "ScottyBeamIO",
+      "text": "THIS GUY DOESN’T EVEN TOUCH HIS BUSINESS ANYMORE HE JUST CHILLS ALL DAY WHILE HIS HERMES AI AGENT RUNS EVERYTHING\n\nUsed to run OpenClaw. API costs hit $100 a day. Debugging every single day. Switched to Hermes Agent and never looked back.\n\nThe difference: Hermes doesn't need manu",
+      "likes": 157,
+      "views": 0,
+      "url": "https://x.com/i/status/2068775139169423602",
+      "is_kol": false,
+      "score": 516.0
+    },
+    {
+      "id": "2068952633902317714",
+      "author": "cyrilXBT",
+      "text": "THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.\n\nNot a plugin.\n\nNot an integration.\n\nA full agent skills system that teaches Claude Code, Codex, and OpenCode to READ, WRITE, and REASON inside your Obsidian vault like a power user.\n\n27,000 GitHub stars in day",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2068952633902317714",
+      "is_kol": false,
+      "score": 463.0
+    },
+    {
+      "id": "2068724409892806900",
+      "author": "dair_ai",
+      "text": "The Top AI Papers of the Week (June 14 - June 21):\n\n- PreAct\n- SpatialClaw\n- Back on Track\n- OpenClaw-Skill\n- From Trainee to Trainer\n- Compositional Skill Routing\n- Can LLM Agents Infer World Models?\n\nRead on for more:",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2068724409892806900",
+      "is_kol": false,
+      "score": 440.0
+    },
+    {
+      "id": "2068865283360772240",
+      "author": "mnmn94253156337",
+      "text": "黄仁勋让 10000 名员工装了 Codex\n\n我之前一直在用 OpenClaw，前几天下载了 Codex。\n差距大到我觉得该写一条\n\n1.OpenClaw 是个命令行 AI 代理框架，能力很强，但上手要配插件、装 skill、调 gateway、改 config，整套下来没两三天跑不顺。你得像半个运维。\n\n2.Codex 直接把搭建流程砍掉了：\n下载安装，登录，开始用。所有界面都是可视化的，插件管理、文件操作、任务切换、远程连接，全都点按钮。不用碰命令行，不用改配置，不用研究文档。现在我每天的视频都是Codex产出\n\n黄仁勋说这是AI 时代的里程碑，他",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2068865283360772240",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2069026195895975941",
+      "author": "ranimth07",
+      "text": "Skill yang wajib ku pasang di AI Agent buat bantu di web3\n\n> Support analisa portofolio, P&L, copy trade\n> Bridge, swab, Add LP\n> Support x402 request via Base/Solana\n> MPP Tempo network\n\nuntuk yang baru di web3 coba comboin dengan AI Agent\n1/ Download dulu wallet @zerion: https:",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2069026195895975941",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2068708591163355447",
+      "author": "aaronjmars",
+      "text": "aeon / miroshark shiplog ⭐ week of june 21\n\nshipped 162 PRs this week. the bytes:\n\n- /sim is (almost) live: hosted pay-per-run sims with email/google/x/wallet sign-in, card top-up & x402 checkout - miroshark went from framework to product in 5 days. @miroshark_\n- skill-packs: fir",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2068708591163355447",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2068776879767818628",
+      "author": "mark_k",
+      "text": "Grok Build 0.2.60 is a huge update from @xai.\n\nMost important changes:\n\n• /resume now shows sessions from the current repo at the top.\n• Slash command completion is more consistent and remembers recently used commands.\n• Compaction no longer hangs indefinitely when the summarizer",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2068776879767818628",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2069001962516021386",
+      "author": "heynavtoor",
+      "text": "Rongxin Ouyang solved the one problem every researcher outside the English-speaking world has been silently suffering from.\n\nIt's called PDFMathTranslate. It translates entire scientific papers while keeping every math formula, every chart, every table, and every layout element p",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2069001962516021386",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2069014328037330953",
+      "author": "idoubicc",
+      "text": "从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2069014328037330953",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2069016306444308674",
+      "author": "AndrewBolis",
+      "text": "Anyone can build AI agents from scratch.\n\nUse this 10-step roadmap to go from idea to evaluation:\n\n[ bookmark 🔖 this post for later ]\n\nStep 1: Set the Agent’s Purpose and Result\n\n• What will the agent do?\n• Who will it support?\n• What kind of output should it create?\n\n→ Example: ",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2069016306444308674",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2068740088264056980",
+      "author": "EkstraAi",
+      "text": "A https://t.co/DNfe0AfCpc project just shipped an MCP server that lets AI see the physical world in real time. \n\nYou read that right.",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2068740088264056980",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2068974773393076461",
+      "author": "Mohiniuni",
+      "text": "Most people using Claude Code are wasting it.\n\nNot because the tool isn't powerful.\n\nBecause every single time they open a new chat, they start from zero.\n\nRe-explaining the brand.\nRewriting the brief.\nExplaining the tone.\nGiving the same instructions again and again.\n\nI got tire",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2068974773393076461",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2069043152670052553",
+      "author": "Mahfuz_AI",
+      "text": "🚨 BREAKING: Claude can help you learn almost any skill in 30 days—for free.\n\nUse these prompts to build a personalized learning plan and level up faster.\n\n🔖 Save this post for later. https://t.co/0Zg8dMMc8k",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2069043152670052553",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2068997424211808591",
+      "author": "MATLAB",
+      "text": "Bring MATLAB and Simulink into your agentic workflow with MATLAB MCP Server 👇\n\nAt MathWorks Automotive conference, Fauzan Dhongre from @LucidMotors described how MATLAB and Simulink can be used with GitHub Copilot. \n\nView the full slides: https://t.co/p1AY34MZJ9 https://t.co/sO4v",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2068997424211808591",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2069039170451091878",
+      "author": "Arcane_Aii",
+      "text": "🚨 SOMEONE JUST BUILT a Claude Code skill called /brag that turns any side project into a fire ~20-second launch video in seconds\n\nYou just tell Claude “hey, let’s /brag about this” and it instantly generates a polished trailer — complete with music, smooth motion, sound effects, ",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2069039170451091878",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2069019007437656531",
+      "author": "Dipanshu_AI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/Vf8SF36C1m",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2069019007437656531",
+      "is_kol": false,
+      "score": 188.0
+    }
+  ]
+}
