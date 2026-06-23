@@ -1,0 +1,400 @@
+{
+  "date": "2026-06-23",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 153,
+    "tweets_with_repos": 13,
+    "unique_repos": 10,
+    "new_repos": 4,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "latitude-dev/latitude-llm",
+      "github_url": "https://github.com/latitude-dev/latitude-llm",
+      "tier": 3,
+      "is_new": true,
+      "score": 397.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "anujcodes_21",
+        "text": "Your AI agent is doing things in production you don't know about.\n\nAnd that's a problem.\n\nYou shipped it. It's \"working.\"\nBut what's it actually doing? Where is it failing? Which users are hitting the same bug over and over?\n\nMost teams are flying blind.\n\nThen I found @trylatitud",
+        "likes": 54,
+        "url": "https://x.com/i/status/2069333510910005403"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069333510910005403"
+      ]
+    },
+    {
+      "repo": "map1en/vrcx-0",
+      "github_url": "https://github.com/map1en/vrcx-0",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Map1en_",
+        "text": "VRCX-0 2.8.0 release — now ships a built-in MCP server. Connect any MCP client to your VRChat history and just ask.\nVRCX-0 2.8.0 リリース。MCP サーバーを搭載しました。好きな MCP クライアントとつなげば、あなたの VRChat の記録に話しかけるだけで答えが返ってきます。\n\nhttps://t.co/QgbQHO0Hfw",
+        "likes": 30,
+        "url": "https://x.com/i/status/2069221834957156621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069221834957156621"
+      ]
+    },
+    {
+      "repo": "capafy/capafy-skills",
+      "github_url": "https://github.com/capafy/capafy-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "milbon_",
+        "text": "【Capafyって何？（超簡単まとめ）】\nClaude Code・Codex・OpenClawで作ったSkillを、 誰でも公開して収益化できるプラットフォームです。\nSkill＝「特定の仕事を超得意にするAgentパッケージ」 例： ・1億再生超の動画クリエイターの「動画制作Skill」 ・1万件面接した人の「採用Skill」 ・数千件商談成約した人の「コールドメールSkill」\nこれをCapafyにアップロードするだけで、ユーザーが使うたびに報酬が発生します。\n\n【初心者でもマネタイズできる理由】\nClaude Codeに「この分野の専門Skillを",
+        "likes": 6,
+        "url": "https://x.com/i/status/2069246386567307711"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069246386567307711"
+      ]
+    },
+    {
+      "repo": "iart-ai/tiktok-video-skills",
+      "github_url": "https://github.com/iart-ai/tiktok-video-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yahaha227379",
+        "text": "Your AI agent can edit TikTok Motion Video now — from one prompt. Free, runs inside Claude Code / Cursor / Codex.\n\nnpx skills add iart-ai/tiktok-video-skills https://t.co/l1knPwurFx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069380200392232995"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069380200392232995"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 2,
+      "is_new": false,
+      "score": 814.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 173,
+      "total_retweets": 19,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HeyGen",
+        "text": "This week we're launching new skills for HyperFrames, each built around a workflow\n\nToday is pr-to-video\n\nNobody reads pull requests. Now agents can turn them into a short explainer video\n\nnpx skills add heygen-com/hyperframes\n\nNew skill launching every day. Follow for more https",
+        "likes": 171,
+        "url": "https://x.com/i/status/2069160747041763493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069160747041763493",
+        "https://x.com/i/status/2069356581200810205"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-skills",
+      "github_url": "https://github.com/google-gemini/gemini-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 472.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 79,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_philschmid",
+        "text": "Interactions API is now GA. Your coding agent doesn't know that yet. Install the skill and it will:\n\n```\nnpx skills add google-gemini/gemini-skills --skill gemini-interactions-api --global\n```\n\nThe skill gives your agent baked-in rules for the Interactions API, correct SDK patter",
+        "likes": 63,
+        "url": "https://x.com/i/status/2069137029359645007"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069360341163647285",
+        "https://x.com/i/status/2069137029359645007"
+      ]
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "github_url": "https://github.com/headroomlabs-ai/headroom",
+      "tier": 3,
+      "is_new": false,
+      "score": 261.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "techNmak",
+        "text": "A Netflix engineer got tired of feeding expensive models cheap junk. So he built a compression layer that sits between your agent and the LLM. 60-95% fewer tokens. Same answers.\n\nIt's called Headroom. 44K stars. Built by Tejas Chopra.\n\nThe live demo result sitting in the README: ",
+        "likes": 32,
+        "url": "https://x.com/i/status/2069246565538242610"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069246565538242610"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "andredemoraes",
+        "text": "Handoff (Matt Pocock) — compressao de sessao Sessoes longas de Claude Code sofrem degradacao perto de 120k tokens. Handoff comprime a sessao num markdown estruturado pra continuar em sessao nova, worktree diferente, ou ate outro agente. npx skills add mattpocock/skills skill=hand",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069390534653731264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069390534653731264",
+        "https://x.com/i/status/2069390536578859266"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 172.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Tipwotip",
+        "text": "HOW TO MAKE MOTION GRAPHICS WITH CLAUDE AND REMOTION\n\nYou can now easily make animated videos with Claude skills\n\nClaude will write all the code and Remotion will turn it into a real video file\n\nWHAT YOU NEED BEFORE YOU START\n\n1. A paid Claude plan\n   -Minimum is Pro at $20/month",
+        "likes": 24,
+        "url": "https://x.com/i/status/2069310751010086971"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069310751010086971"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Opencode\n\nThe open source coding agent.\n\n175.0K GitHub stars - coding-agents\nInstall: npx skills add anomalyco/opencode\n\nhttps://t.co/c9Iv4PrJMv\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2069201354237558798"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069201354237558798"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2069109636603544046",
+      "author": "googleaidevs",
+      "text": "The Interactions API is now GA. Featuring a stable schema and new capabilities via a single /interactions endpoint, it is now our standard interface for both model inference and autonomous agents.\n\nCheck out the key updates:\n\n— Managed Agents: Spin up a secure, remote Linux sandb",
+      "likes": 202,
+      "views": 0,
+      "url": "https://x.com/i/status/2069109636603544046",
+      "is_kol": false,
+      "score": 686.0
+    },
+    {
+      "id": "2069139996745900211",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT NOW SUPPORTS COMPUTER USE\nON WINDOWS AND LINUX.\nCLICKS, TYPES, SCROLLS YOUR DESKTOP\nIN THE BACKGROUND WHILE YOU WORK.\n\ncomputer use was macOS only.\nnow it works on Windows and Linux too\nvia @trycua. @NousResearch \n\nHOW IT WORKS:\n\ncua-driver runs as an MCP server.\nHer",
+      "likes": 187,
+      "views": 0,
+      "url": "https://x.com/i/status/2069139996745900211",
+      "is_kol": false,
+      "score": 661.0
+    },
+    {
+      "id": "2069309997008224672",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT HAS 5 SYSTEMS\nRUNNING UNDER THE HOOD.\nUNDERSTAND THEM AND YOU USE\nTHE AGENT 10X BETTER. \n\nIn this video @_alejandroao explained:\n\n1. THE AGENT LOOP\n\nevery message triggers the same cycle:\n\n→ you send a message\n→ Hermes builds context\n  (SOUL.md + memory.md + user.md ",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2069309997008224672",
+      "is_kol": false,
+      "score": 437.0
+    },
+    {
+      "id": "2069237585311044053",
+      "author": "AamirAnsar94694",
+      "text": "🎯𝟭𝟮 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗘𝘃𝗲𝗿𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗦𝗵𝗼𝘂𝗹𝗱 𝗞𝗻𝗼𝘄\n\nMost developers use Claude Code for basic coding tasks.\n\nThese 12 powerful features can dramatically improve your workflow, productivity, and development speed.\n\n𝟬𝟭. 𝗦𝗹𝗮𝘀𝗵 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n➡️ Run predefined workflows and developer shor",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2069237585311044053",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2069119783195357263",
+      "author": "johanthorell",
+      "text": "Just ask AI to set up a MCP server for you https://t.co/OqWlPh5Cxj",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2069119783195357263",
+      "is_kol": false,
+      "score": 324.0
+    },
+    {
+      "id": "2069372037529739439",
+      "author": "vechainofficial",
+      "text": "The first batch of testers have landed in https://t.co/jxKfLbLfNz! \n\nIf you didn't get a code yet, don't worry - more to come.\n\nMeanwhile, think about that key skill, hobby, knowledge or expertise you hold that could become an agent for hire. \n\n$VET https://t.co/08jyUT75JG",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2069372037529739439",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2069331582448779647",
+      "author": "lily_choudhury_",
+      "text": "NSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/OzHad84BRV",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2069331582448779647",
+      "is_kol": false,
+      "score": 309.0
+    },
+    {
+      "id": "2069350804172181679",
+      "author": "cyrilXBT",
+      "text": "THE SKILL UNSLOP-UI EXISTS BECAUSE EVERYONE CAN SPOT AN AI-GENERATED WEBSITE WITHIN TWO SECONDS.\n\nClaude defaults to the same patterns every time, so every vibe-coded project starts blending into the same look. This skill breaks that pattern at the source.\n\nChecks are weighted us",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2069350804172181679",
+      "is_kol": false,
+      "score": 266.0
+    },
+    {
+      "id": "2069119404462244216",
+      "author": "Rukkssss__",
+      "text": "Most DeFi protocols treat governance as a feature. https://t.co/jORJdk44Za treats it as a mechanism that punishes you for not participating.\n\nThat's the difference.\n\n𝗩𝗲𝗦𝗨𝗡: 𝗚𝗼𝘃𝗲𝗿𝗻𝗮𝗻𝗰𝗲 𝗮𝘀 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰 𝗔𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁\n\nLock SUN to get veSUN. Lock longer, get more weight. 4 years vs 1 week? T",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2069119404462244216",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2069110719665029628",
+      "author": "CryptoCoinShow",
+      "text": "The internet is more than 50% bots. Verified data is increasingly scarce.\n\n@verona_dev (formerly $XION) just raised $18.5M and launched @earnos_io to flip the model: get paid when brands use YOUR data.\n\nFull interview with CEO @BurntBanksy: \n\nTimestamps: \n0:00 Intro — Anthony Anz",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2069110719665029628",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2069323486632280077",
+      "author": "Nima1980",
+      "text": "یه دایرکتوری تمیز از Skillهای Claude\n\nهزاران Skill، MCP Server و ابزار آماده برای Claude رو یک‌جا جمع کرده. به‌جای ساختن همه‌چیز از صفر، می‌تونی قابلیت‌های آماده رو پیدا کنی و سریع به Claude اضافه کنی. https://t.co/q4EG1jedSy",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2069323486632280077",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2069244557750059173",
+      "author": "milesdeutscher",
+      "text": "GLM-5.2 is the benchmark king.\n\nIt's the first open-weight model to take #1 in multiple categories (and it's beating frontier models across the board).\n\n#1 Wins:\n\n→ Design Arena: ~1360 Elo, first open-weight model to take #1, beats Fable 5 by ~10 Elo\n→ Terminal-Bench 2.1: 81.0% (",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2069244557750059173",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2069126006133465548",
+      "author": "AxiosFi",
+      "text": "We just shipped the AxiosFi MCP server.\n\nIf you use Claude, Cursor, or any MCP-compatible agent, your AI can now pull live AxiosFi data directly instead of you copy-pasting from the site.\n\nConnect it in one line:\n\nclaude mcp add --transport http axiosfi https://t.co/g67OhYvkOQ\n\nY",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2069126006133465548",
+      "is_kol": false,
+      "score": 152.0
+    },
+    {
+      "id": "2069327599935934772",
+      "author": "kocer_eth",
+      "text": "THIS GUY BUILT A CLAUDE CODE PLUGIN THAT CUT TOKENS ~22% WITHOUT TURNING CODE INTO GOLF\n\nPonytail is basically “lazy senior dev mode” for coding agents.\n\nNot lazy like bad work.\n\nLazy like:\n\nwhy are we installing a date picker when HTML already has <input type=\"date\">?\n\nThe mecha",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2069327599935934772",
+      "is_kol": false,
+      "score": 149.0
+    },
+    {
+      "id": "2069329614921461941",
+      "author": "thearslaniqbal",
+      "text": "Can Claude actually help someone earn $1,000 to $5,000 per month?\n\nMost people use Claude to ask this questions.\n\nSo I spent time exploring different use cases.\nAnd I realized something.\n\nMost people are using Claude like a chatbot.\n\nThe real opportunity is using it like a busine",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2069329614921461941",
+      "is_kol": false,
+      "score": 144.0
+    },
+    {
+      "id": "2069110145322508761",
+      "author": "Harry_The_Nerd",
+      "text": "I've covered the entire syllabus of the CCA-F exam in this article\n1. Agentic Architecture & Orchestration (27%)\n2. Claude Code Configuration & Workflows (20%)\n3. Prompt Engineering & Structured Output (20%)\n4. Tool Design & MCP Integration (18%)\n5. Context Management & Reliabili",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2069110145322508761",
+      "is_kol": false,
+      "score": 131.0
+    },
+    {
+      "id": "2069187859538747473",
+      "author": "DxHxbt",
+      "text": "x402 is a big deal for agentic finance.\n\nIt enables AI agents to autonomously pay for services using stablecoins. \n\n@injective has been actively building support for it alongside native USDC & the MCP Server.\n\nThis combination allows AI agents to not only operate on-chain but als",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2069187859538747473",
+      "is_kol": false,
+      "score": 113.0
+    }
+  ]
+}

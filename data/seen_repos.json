@@ -3910,5 +3910,21 @@
   "turbodocx/guidewright": {
     "first_seen": "2026-06-22",
     "tier": 3
+  },
+  "latitude-dev/latitude-llm": {
+    "first_seen": "2026-06-23",
+    "tier": 3
+  },
+  "map1en/vrcx-0": {
+    "first_seen": "2026-06-23",
+    "tier": 3
+  },
+  "capafy/capafy-skills": {
+    "first_seen": "2026-06-23",
+    "tier": 3
+  },
+  "iart-ai/tiktok-video-skills": {
+    "first_seen": "2026-06-23",
+    "tier": 3
   }
 }
