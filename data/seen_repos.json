@@ -3926,5 +3926,37 @@
   "iart-ai/tiktok-video-skills": {
     "first_seen": "2026-06-23",
     "tier": 3
+  },
+  "whchien/ai-trader": {
+    "first_seen": "2026-06-24",
+    "tier": 2
+  },
+  "anbeime/skill": {
+    "first_seen": "2026-06-24",
+    "tier": 2
+  },
+  "wesson9527/shutiaoai": {
+    "first_seen": "2026-06-24",
+    "tier": 3
+  },
+  "mihneaptu/caecus-skill": {
+    "first_seen": "2026-06-24",
+    "tier": 3
+  },
+  "hewonjeong/retro": {
+    "first_seen": "2026-06-24",
+    "tier": 3
+  },
+  "jsonwebtoken/jwt-skills": {
+    "first_seen": "2026-06-24",
+    "tier": 3
+  },
+  "georgewangyu/loops-radar": {
+    "first_seen": "2026-06-24",
+    "tier": 3
+  },
+  "nvidia-bionemo/bionemo-agent-toolkit": {
+    "first_seen": "2026-06-24",
+    "tier": 3
   }
 }

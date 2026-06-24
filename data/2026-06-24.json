@@ -1,0 +1,547 @@
+{
+  "date": "2026-06-24",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 156,
+    "tweets_with_repos": 20,
+    "unique_repos": 16,
+    "new_repos": 8,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "whchien/ai-trader",
+      "github_url": "https://github.com/whchien/ai-trader",
+      "tier": 2,
+      "is_new": true,
+      "score": 682.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 169,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Backtesting framework for algorithmic trading with built-in MCP server for LLM integration\n\nhttps://t.co/18yd3tyR4g https://t.co/BgJEA9Zqrh",
+        "likes": 169,
+        "url": "https://x.com/i/status/2069445110677344489"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069445110677344489"
+      ]
+    },
+    {
+      "repo": "anbeime/skill",
+      "github_url": "https://github.com/anbeime/skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 595.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 125,
+      "total_retweets": 24,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eastweb3eth",
+        "text": "技能商店 Skill Store\n\n这个库可能会让所有分享 Skill 的博主失业。\n\n随着大模型的可玩性越来越高， 各种不同功能的 Skill 眼花缭乱，但是很多朋友要么没有渠道搜索自己想要的 Skill，要么不知道哪个 Skill 更值得安装，要付出巨大的时间成本去尝试。 以前还需要翻 AI 博主的推荐清单，现在不用了。【技能商店 Skill Store】就有点像个 AI 技能的 App Store，里面全是挑过的精品 Skill。而且它每 24 小时会自动同步 awesome-agent-skills 这个超猛的仓库，永远不用担心跟不上新东西。\n\n",
+        "likes": 125,
+        "url": "https://x.com/i/status/2069625796508201068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069625796508201068"
+      ]
+    },
+    {
+      "repo": "wesson9527/shutiaoai",
+      "github_url": "https://github.com/wesson9527/shutiaoai",
+      "tier": 3,
+      "is_new": true,
+      "score": 169.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qiuqiu232",
+        "text": "教你如何用Codex把你家猫变成Hermes桌面语音助手🐱\n\n每天文字调教AI很心累？语音控制时常失准？对话页面枯燥无趣？\n\n来，分享一下我是如何把我家薯条🐱变成Hermes桌面宠物的。\n\n1⃣第一步，先给你家猫做一个IP形象\n可以用自己家猫的照片，生成 2D 动漫风，或者 3D 小手办风。\n提示词方向可以是：\n把这只猫设计成一个可爱的桌面语音助手 IP，保留毛色、眼睛、脸部特征，风格为温柔 3D 角色，干净背景，适合放在 App 主界面。\n\n2⃣第二步：给猫设定人格和基础记忆\n比如我给薯条的设定是：\n名字：薯条\n品种：布偶猫\n性别：男孩子\n性格：温柔、",
+        "likes": 23,
+        "url": "https://x.com/i/status/2069736648104095865"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069736648104095865"
+      ]
+    },
+    {
+      "repo": "mihneaptu/caecus-skill",
+      "github_url": "https://github.com/mihneaptu/caecus-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mihneaptu",
+        "text": "https://t.co/jlCChu47CT\n\nnpx skills add mihneaptu/caecus-skill -s image-to-prompt generate-and-verify",
+        "likes": 1,
+        "url": "https://x.com/i/status/2069731413633507600"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069731413633507600"
+      ]
+    },
+    {
+      "repo": "hewonjeong/retro",
+      "github_url": "https://github.com/hewonjeong/retro",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hewonjeong",
+        "text": "Andrej Karpathy의 system prompt learning(가중치가 아닌 텍스트를 고쳐가며 배우기)에 영감을 받아 '/retro' 스킬을 만들었습니다.\n\n세션에서 잘 안됐던 것을 바탕으로 CLAUDE․md, skills, memory 등에 개선할 것들을 제안해주는 스킬입니다.\n\nnpx skills add hewonjeong/retro https://t.co/7lrvogpxH0",
+        "likes": 2,
+        "url": "https://x.com/i/status/2069634345338610144"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069634345338610144"
+      ]
+    },
+    {
+      "repo": "jsonwebtoken/jwt-skills",
+      "github_url": "https://github.com/jsonwebtoken/jwt-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fdcincshop",
+        "text": "Ιt was difficult between RS256 and locan JWT\nGive your AI Agents JWT skills\nnpx skills add jsonwebtoken/jwt-skills\nInstall a specific skill\n\n$ npx skills add jsonwebtoken/jwt-skills -s jwt-decode",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069733488169742786"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069733488169742786"
+      ]
+    },
+    {
+      "repo": "georgewangyu/loops-radar",
+      "github_url": "https://github.com/georgewangyu/loops-radar",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "georgewangyu",
+        "text": "Exciting news: I just shipped Loops Radar 1.0.\n\nThe website is now an installable agent skill.\n\nOne command gives your coding agent access to the loop catalog:\n\n`npx skills add georgewangyu/loops-radar --skill loops-radar -g` https://t.co/9Aig18GBtA",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069666448323367407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069666448323367407"
+      ]
+    },
+    {
+      "repo": "nvidia-bionemo/bionemo-agent-toolkit",
+      "github_url": "https://github.com/nvidia-bionemo/bionemo-agent-toolkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "peesamac",
+        "text": "จุดที่ผมชอบคือมันเป็น agent-agnostic ใช้กับ AI Agent ตัวไหนก็ได้ แต่ละ skill มีไฟล์ SKILL.md อธิบายให้ AI รู้ว่า input คืออะไร output คืออะไร ถ้าพังจะพังแบบไหน เหมือนเขียนคู่มือให้ AI หยิบเครื่องมือไปใช้ถูก รองรับทั้งแบบ hosted บน NVIDIA API และ local NIM deployment มี MCP server",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069746124412571725"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069746124412571725"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "buddypia/agent-skills",
+      "github_url": "https://github.com/buddypia/agent-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 406.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buddypia",
+        "text": "AIエージェントを自律駆動させるための「ループエンジニアリング」を実践する 「loop-engineering」スキルを作成しました！  \n\n手動でプロンプトを叩く運用から脱却し、エージェントをシステムの一部として安全に組み込むためのフローを1枚にまとめています。\n👇\nnpx skills add buddypia/agent-skills https://t.co/F8QS3CB58z",
+        "likes": 1,
+        "url": "https://x.com/i/status/2069727943539208264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069727956264710580",
+        "https://x.com/i/status/2069727943539208264",
+        "https://x.com/i/status/2069623804297678849",
+        "https://x.com/i/status/2069623793602244741"
+      ]
+    },
+    {
+      "repo": "pewdiepie-archdaemon/odysseus",
+      "github_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "tier": 3,
+      "is_new": false,
+      "score": 365.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fluyeporlaweb",
+        "text": "Los 10 repos que más rápido han crecido este Junio en GitHub:\n\n1. pewdiepie-archdaemon/odysseus\nPewDiePie (111M suscriptores en YouTube) construyó un workspace de IA self-hosted y lo publicó gratis.\n75.8k estrellas en tres semanas.\nhttps://t.co/pGcXf1W1wP\n\n2. mattpocock/skills\nLa",
+        "likes": 70,
+        "url": "https://x.com/i/status/2069661969439690988"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069661969439690988"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 257.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "charliejhills",
+        "text": "I compiled everything you need to master Claude Skills.\n\n17 free Claude Skills resources (links below):\n\n𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗗𝗢𝗖𝗦\n\n↳ The Unofficial Guide: \n\nhttps://t.co/IgzBEz4jeU\n\n↳ Best Practices Guide: \n\nhttps://t.co/SX6Y3itSze\n\n↳ Skills Documentation: \n\nhttps://t.co/Pozs7Zw2ZE\n\n↳ API R",
+        "likes": 29,
+        "url": "https://x.com/i/status/2069713335382323610"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069713335382323610"
+      ]
+    },
+    {
+      "repo": "financial-datasets/mcp-server",
+      "github_url": "https://github.com/financial-datasets/mcp-server",
+      "tier": 3,
+      "is_new": false,
+      "score": 251.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Provides income statements, balance sheets, stock prices, and crypto data via an MCP server.\n\nhttps://t.co/SZl1PjqHWL https://t.co/HfOvpMCa78",
+        "likes": 42,
+        "url": "https://x.com/i/status/2069537835896516993"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069537835896516993"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mk__0168",
+        "text": "https://t.co/08DmFVRUun The animation transition effects on this website are really nice 👍\nYou can also install Skill, so the Agent can add cool animations to your webpage by itself\nnpx skills add jakubantalik/transitions.dev",
+        "likes": 2,
+        "url": "https://x.com/i/status/2069673399140618584"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069673399140618584",
+        "https://x.com/i/status/2069602177308569950"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 201.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotLog",
+        "text": "🚀✨ Copilot CLI v1.0.64 released!\n\n124 features & enhancements in this release\n\nTop features:\n• Path access prompt shows resolved symlink targets to clarify exact granted access 🔗\n• Show pay-as-you-go additional usage budget at launch with refresh and friendly limit reached messag",
+        "likes": 32,
+        "url": "https://x.com/i/status/2069473123800404205"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069473123800404205"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akiyoshisan",
+        "text": "@seiiiiiiiiiiru 上の修正追記ですが、、、\n現在は codex-plugin が公式提供されており、npx skills add heygen-com/hyperframes でスキルが使えます。\nClaude Codeとほぼ同じ感覚で /hyperframes コマンドが使えるみたいです！",
+        "likes": 3,
+        "url": "https://x.com/i/status/2069682320655929690"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069682320655929690"
+      ]
+    },
+    {
+      "repo": "educlopez/ui-craft",
+      "github_url": "https://github.com/educlopez/ui-craft",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "educalvolpz",
+        "text": "Most AI design tools forget your corrections. Tell them \"no gradients on the hero\" and next session — amnesia.\n\nUI Craft now self-corrects: one correction → it writes the rule to your project brief → it never repeats it.\n\nnpx skills add educlopez/ui-craft https://t.co/fVrG2dqXE0",
+        "likes": 1,
+        "url": "https://x.com/i/status/2069697801609445865"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069697801609445865"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2069660314870899007",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update with many improvements\n\nRelease Notes: v0.2.64 — 2026-06-24\n\nFeatures:\n• Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees.\n• /recap now a",
+      "likes": 973,
+      "views": 0,
+      "url": "https://x.com/i/status/2069660314870899007",
+      "is_kol": false,
+      "score": 4464.0
+    },
+    {
+      "id": "2069502233105019155",
+      "author": "sudoingX",
+      "text": "this isn't the voice of an open-source contributor. this is the openai paycheck talking. this is scam altman's voice coming out of stinky lobster.\n\n\"They copied a lot of features, but they skipped security hardening.\" grifter. you're lecturing the entire field about security with",
+      "likes": 633,
+      "views": 0,
+      "url": "https://x.com/i/status/2069502233105019155",
+      "is_kol": false,
+      "score": 2069.0
+    },
+    {
+      "id": "2069632132431929651",
+      "author": "dotey",
+      "text": "分享一下我管理 Skills 的方式，偏极客风格，不一定适合所有人，但可以给大家提供一个思路。\n\n一、Skills 只装在项目里，不装全局\n\nAgent 的 Skills 可以装在全局（所有项目共享）或者项目内（只有当前项目能用）。我选择只装在项目内，最主要的原因是节约上下文空间。\n\nAgent 在工作时有一个上下文窗口，你可以把它想象成 Claude 的工作台——台面大小是有限的。虽然 Skill 默认只会加载名称、描述等摘要信息（不会把完整内容全部摊开），但积少成多——全局装了几十个 Skill，光是这些摘要加在一起也会占掉不少工作台空间。而且一旦 ",
+      "likes": 441,
+      "views": 0,
+      "url": "https://x.com/i/status/2069632132431929651",
+      "is_kol": false,
+      "score": 1723.0
+    },
+    {
+      "id": "2069481225316905200",
+      "author": "AskVenice",
+      "text": "Venice is now available as a plugin via Base MCP.  \n\nYour agent can now use the leading private and uncensored model inference platform from Base's MCP server, with the help of x402.",
+      "likes": 310,
+      "views": 0,
+      "url": "https://x.com/i/status/2069481225316905200",
+      "is_kol": false,
+      "score": 1130.0
+    },
+    {
+      "id": "2069531604951687542",
+      "author": "ClaudeCodeLog",
+      "text": "Claude Code 2.1.187 has been released.\n\n21 CLI changes\n\nHighlights:\n• Added sandbox.credentials to stop sandboxed commands reading credentials and secret env vars, protects secrets\n• Remote MCP tool calls now abort after 5 minutes instead of hanging indefinitely, preventing long ",
+      "likes": 302,
+      "views": 0,
+      "url": "https://x.com/i/status/2069531604951687542",
+      "is_kol": false,
+      "score": 966.0
+    },
+    {
+      "id": "2069603314744926535",
+      "author": "cyrilXBT",
+      "text": "50 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know",
+      "likes": 172,
+      "views": 0,
+      "url": "https://x.com/i/status/2069603314744926535",
+      "is_kol": false,
+      "score": 721.0
+    },
+    {
+      "id": "2069500463704383927",
+      "author": "shedntcare_",
+      "text": "How To Make $5k+/Month With AI Girls Using Claude + Fanvue MCP 📘",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2069500463704383927",
+      "is_kol": false,
+      "score": 711.0
+    },
+    {
+      "id": "2069725174359068686",
+      "author": "jackcoder0",
+      "text": "Claude can now teach you any skill in 30 days for free.\n\nUse these prompts to replace $20,000 courses and 4-year degrees: https://t.co/3nOeEZv1Yd",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2069725174359068686",
+      "is_kol": false,
+      "score": 373.0
+    },
+    {
+      "id": "2069455355537449228",
+      "author": "0xclayn",
+      "text": "Building a 24/7 Personal Second Brain: Claude Code + Obsidian\n\nEver since Andrej Karpathy introduced the \"LLM Wiki\" concept, the days of starting from a blank prompt are over. \nBecause Obsidian keeps your data in local markdown files, you fully control your knowledge base, making",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2069455355537449228",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2069646953051562293",
+      "author": "merill",
+      "text": "A tale of two big companies.\n\nMicrosoft let me build so many apps, tools and services for gaps I found in the core products or created new and unique things like the very first MCP server for Microsoft Graph https://t.co/NFLDqDIY8h\n\nI got promoted for this work and engineering ma",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2069646953051562293",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2069587194256167017",
+      "author": "firt",
+      "text": "Be careful when connecting your Gmail account with AI agents even with the official @gmail MCP server through \"partnered\" plugins in Claude / Codex. \n\nBTW, it's not my primary account. https://t.co/mCvcsPHL0O",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2069587194256167017",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2069617635092738523",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.64! 🚀\n\nChangelog v0.2.64\n\nFeatures:\n• Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees.\n• /recap now appears as a collapsible to",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2069617635092738523",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2069685610269532177",
+      "author": "Renee7eth",
+      "text": "想让agent 实时读取和搜索 「Twitter、Reddit、YouTube、Ins、Tiktok、LinkedIn、Bilibili、小红书」等平台内容\n\n哪有那么麻烦\n\n一个skill 就够了 https://t.co/BowfwD8zX5",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2069685610269532177",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2069499397558128646",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.62! 🚀\n\nChangelog v0.2.62\n\nFeatures:\n• Hosts can now register hooks over the agent connection instead of only on-disk files.\n• Prompt and /usage warnings now correctly reflect prepaid credits and auto top-up status.\n• Desktop clients can",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2069499397558128646",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2069584577082073367",
+      "author": "CKBdev",
+      "text": "We just launched a dedicated AI Resources page to make onboarding AI coworkers to CKB easier.\n\nEverything in one place: LLM files, agent instructions and skills, starter prompts, and the CKB AI MCP server.\n\nSend your agents here before they hallucinate: https://t.co/oGVyyI6hSE",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2069584577082073367",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2069679834855305221",
+      "author": "0xsecretalpha7",
+      "text": "Just checked out @trench_royale and I'm genuinely hooked.\n\nAt first glance, it looks simple. But once you understand how it works, it becomes incredibly fun.\n\n@trench_royale is a live prediction game where AI Agents battle it out in the arena as mini warriors.\n\nEvery 60 seconds, ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2069679834855305221",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2069678952734478713",
+      "author": "root_rat",
+      "text": "Bueno, pues ya va estando todo.\n\nDashboard en vivo a la derecha, refrescando cada segundo contra /metrics. Ves utilización, potencia y temperatura de las dos GX10 al mismo tiempo, para pillar ese throttling térmico o de potencia si se da el caso.\nAl lado, los t/s por turno y el K",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2069678952734478713",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2069621422838690196",
+      "author": "0x0Huda",
+      "text": "AI-Driven AD Pentesting via MCP & NetExec 👾\nA technical breakdown of an automated offensive pipeline linking Claude Desktop to NetExec (nxc) via a local HexStrike AI MCP server:\n\n1.  Architecture: Text input → Claude maps goals to JSON-RPC tool calls → Local MCP server (127.0.0.1",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2069621422838690196",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2069744905094840328",
+      "author": "AiEvolutio58513",
+      "text": "Someone piped 2,000 of their notes into a 3D brain Claude can “think” with, and it’s the same move I run 23 times.\n\nMost people blast Claude with 100+ messages a week reminding it who they are, then it drops all of it the moment the tab dies.\n\nThis flips that. One file, written o",
+      "likes": 22,
+      "views": 0,
+      "url": "https://x.com/i/status/2069744905094840328",
+      "is_kol": false,
+      "score": 146.0
+    }
+  ]
+}
