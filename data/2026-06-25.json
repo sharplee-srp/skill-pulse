@@ -1,0 +1,556 @@
+{
+  "date": "2026-06-25",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 19,
+    "unique_repos": 18,
+    "new_repos": 11,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "index365usa/agent-skills",
+      "github_url": "https://github.com/index365usa/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "index365us",
+        "text": "Connect Claude Code, Codex, or Cursor to index365 with one command:\n\nnpx skills add index365usa/agent-skills\n\nYour agent pulls the findings and ships the fixes for what AI can read, what converts, and what is exposed. Find and Fix in one loop. https://t.co/EUi7SVcir5",
+        "likes": 3,
+        "url": "https://x.com/i/status/2069903398850195914"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069903398850195914",
+        "https://x.com/i/status/2069823418782871583"
+      ]
+    },
+    {
+      "repo": "timescale/pg-aiguide",
+      "github_url": "https://github.com/timescale/pg-aiguide",
+      "tier": 3,
+      "is_new": true,
+      "score": 191.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AntonMartyniuk",
+        "text": "𝗦𝘁𝗼𝗽 𝘂𝘀𝗶𝗻𝗴 𝗼𝘂𝘁𝗱𝗮𝘁𝗲𝗱 𝗱𝗲𝘃 𝘁𝗼𝗼𝗹𝘀\n\nHere are the 10 tools I (actually) use in 2026:\n\nThe developer toolkit looks nothing like it did two years ago.\n\nAI is no longer a side feature. It now sits at the center of how you write code, design systems, run meetings, and learn.\n\nHere's my ful",
+        "likes": 22,
+        "url": "https://x.com/i/status/2070031577430597828"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070031577430597828"
+      ]
+    },
+    {
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "github_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: System Prompts And Models Of AI Tools\n\nFULL Augment...\n\n138.9K GitHub stars - development\nInstall: npx skills add x1xhlol/system-prompts-and-models-of-ai-tools\n\nhttps://t.co/4HNTcAD82x\n\n#AIAgents #AgentSkills",
+        "likes": 2,
+        "url": "https://x.com/i/status/2069926072112615899"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069926072112615899"
+      ]
+    },
+    {
+      "repo": "bozhoudev/codex-orange-book",
+      "github_url": "https://github.com/bozhoudev/codex-orange-book",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "一份非官方的 Codex 全链路使用指南，涵盖从安装配置到实战案例的完整内容，帮助开发者系统掌握 Codex 的使用方法。\n\nhttps://t.co/GOwkRO871f\n\n全书包含 Codex 基础认知、安装配置、核心功能详解、标准工作流和实战案例库等五大篇章，覆盖自动化、插件、Skill、MCP、Git 工作流、云端运行、记忆系统等进阶功能。\n\n提供在线阅读和 PDF 下载两种阅读方式，持续更新维护。适合完全未用过 Codex 的新手，也适合想将 Codex 接入真实项目的开发者。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070095658858520893"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070095658858520893"
+      ]
+    },
+    {
+      "repo": "mrgizmo212/make-no-mistakes",
+      "github_url": "https://github.com/mrgizmo212/make-no-mistakes",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adamheimann",
+        "text": "Working notes on how to build a clean, model-agnostic agent harness,loops, memory, subagents, tools, MCPs, skill and voice, organized around a 5-tier architecture. https://t.co/rBkF3xL9Tx\n\nIt pulls patterns from a dozen existing projects (Hermes, @cursor_ai , codex, pi, @NousRese",
+        "likes": 1,
+        "url": "https://x.com/i/status/2069984400880603452"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069984400880603452"
+      ]
+    },
+    {
+      "repo": "vibhasdutta/loop-engineer",
+      "github_url": "https://github.com/vibhasdutta/loop-engineer",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Vibhas_Dutta",
+        "text": "loop engineering in practice:\n\n4 questions → 6 agents → goal met\n\nbuilt a Claude Code &amp; Codex CLI skill that scaffolds a full discover → implement → verify → iterate loop for you.\n\nstop being the prompt. be the engineer.\n\n🔗 https://t.co/4xKkJpSOcp",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070080203007938682"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070080203007938682"
+      ]
+    },
+    {
+      "repo": "kali-decoder/midnight-skills",
+      "github_url": "https://github.com/kali-decoder/midnight-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsNikku876",
+        "text": "npx skills add Kali-Decoder/Midnight-skills\n\nTry Now : https://t.co/HxAiYOmOyn",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070052857584472155"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070052857584472155"
+      ]
+    },
+    {
+      "repo": "zenstackhq/skills",
+      "github_url": "https://github.com/zenstackhq/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ymcao9",
+        "text": "ICYMI, you can now install zenstack v3 official skills using https://t.co/jl50TwZD4p:\n\nnpx skills add zenstackhq/skills --all",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070008648148103493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070008648148103493"
+      ]
+    },
+    {
+      "repo": "jasper0122/monid-skills",
+      "github_url": "https://github.com/jasper0122/monid-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jasperli0122",
+        "text": "Try this skill: npx skills add Jasper0122/monid-skills https://t.co/Okx8bFBMRL",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069965820290294246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069965820290294246"
+      ]
+    },
+    {
+      "repo": "impactbrussels/ainativeos",
+      "github_url": "https://github.com/impactbrussels/ainativeos",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adamekonline",
+        "text": "AI-Native OS, the open operating system for building an AI-native company:\nhttps://t.co/PNsCbT4ELs\n\nInstall in Claude Code with /plugin, \nor run: npx skills add impactbrussels/AINativeOS\n\nBoth work with Claude Code, Codex, Cursor and Gemini CLI.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069808245972029564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069808245972029564"
+      ]
+    },
+    {
+      "repo": "kouzt123/ad-image-localization-codex",
+      "github_url": "https://github.com/kouzt123/ad-image-localization-codex",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kouzt123",
+        "text": "Just shared my first Skill: ad-image-localization-Codex.\n\nIt’s a simple workflow for marketers who want to get more out of their GPT subscription — turning one ad creative into multilingual, platform-ready image assets.\n\nUseful for localization, resizing, filenames, manifests, an",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070074016316924124"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070074016316924124"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "openai/codex",
+      "github_url": "https://github.com/openai/codex",
+      "tier": 3,
+      "is_new": false,
+      "score": 265.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Codex_Changelog",
+        "text": "🚀 Codex CLI 0.142.2 is out!\n\n🔍 MCP tool search on by default\n🌐 macOS system proxy, PAC, and WPAD support\n🌙 Plugin dark-mode logos in manifests and remote catalogs\n\nChangelog: https://t.co/cAP1nxvMJI",
+        "likes": 50,
+        "url": "https://x.com/i/status/2070099903263469991"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070099903263469991"
+      ]
+    },
+    {
+      "repo": "muxuuu/serenity-skill",
+      "github_url": "https://github.com/muxuuu/serenity-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 196.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bjrya39878759",
+        "text": "超级大事件！白毛女股神的交易手法，现在直接做成 AI skill 了。\n\n这个Agent在交易前热点一出来（AI 半导体、机器人什么的），直接扔个 prompt 给 Claude 或者 Codex等，它就能帮你把产业链拆开、找瓶颈、筛股票，还顺手把公告、财报、客户证据都带上验证一遍。\n\n比自己硬想强太多了，输出还挺有条理的。我已经装上了，看看白毛股神能带我发财吗。\n\n有在做美股主题研究的兄弟，建议去看看：\nhttps://t.co/cRwavvsVWG\n\n对了工具分享，不是投资建议。",
+        "likes": 32,
+        "url": "https://x.com/i/status/2070031156461138281"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070031156461138281"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 175.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.17.10 released. TL;DR: App tabs/routes rebuilt; MCP resources/instructions; plugin/model/provider v2 plumbing; TUI/CLI/server controls tightened.\n\n𝗔𝗽𝗽\nAdded\n• Added server-keyed session routes and tab identity so sessions can open by server/session ID without director",
+        "likes": 25,
+        "url": "https://x.com/i/status/2069884691558314426"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069884691558314426"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "want to learn ai but stuck on where to start, what to learn, and in what order?\n\ninstall mattpocock's teach skill:\nnpx skills add mattpocock/skills --skill teach\n\nthen paste this:\n/teach me how to be a great strategic programmer. ai is eating tactical, on-the-ground programming. ",
+        "likes": 11,
+        "url": "https://x.com/i/status/2070082137630384226"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070082137630384226"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UT_Codex",
+        "text": "【注目】\nMarketing Skills v2.5.0 に `/offers` が追加された😳\n\nhttps://t.co/mq0b6AVl51\n\n「転換率が上がらない」原因は多くの場合、コピーより先にオファー構造にある\nこのスキルはそこを分解する\n\nValue Equation でオファーをスコアリングする\nDream Outcome × 成功確率 ÷ 時間遅延 × 努力\n\nどこが漏れているかが数値で見える\n\nコア提供物・ボーナス・保証・希少性・ネーミング・価格の6つの要素を構造診断\n保証設計8種・ボーナス積み上げ・スカーシティ設計など、参照ファイル",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070092141116993758"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070092141116993758"
+      ]
+    },
+    {
+      "repo": "educlopez/ui-craft",
+      "github_url": "https://github.com/educlopez/ui-craft",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "educalvolpz",
+        "text": "AI builds your UI, you eyeball it, you fix the same slop again.\n\nUI Craft v0.26 closes the loop: build → critique its own output with real design judgment (anti-slop, heuristics, the acceptance bar) → fix the highest-impact issue → repeat until it passes.\n\nNo tool lock-in. npx sk",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070061996255359091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070061996255359091"
+      ]
+    },
+    {
+      "repo": "mukul975/anthropic-cybersecurity-skills",
+      "github_url": "https://github.com/mukul975/anthropic-cybersecurity-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dorlando1997",
+        "text": "3/ Instalas con `npx skills add mukul975/Anthropic-Cybersecurity-Skills`.\nEstándar https://t.co/DvbqEN9Fyv — funciona en Claude Code, Cursor, Codex CLI y 20+ plataformas.\nNo es repo oficial de Anthropic. Es playbook de analista senior, no prompts sueltos.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2069813148127997964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2069813148127997964"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2069929127361024230",
+      "author": "thdxr",
+      "text": "mcp is so tied to the idea of 1 process = 1 session\n\nthere's some things in the spec that force you to spawn a new MCP server for every active session you have\n\nridiculous overhead - this is why i kept saying it's too early to standardize",
+      "likes": 856,
+      "views": 0,
+      "url": "https://x.com/i/status/2069929127361024230",
+      "is_kol": false,
+      "score": 2688.0
+    },
+    {
+      "id": "2070018147986612541",
+      "author": "satyaXBT",
+      "text": "siapa di sini yang mau belajar AI, tapi masih bingung harus mulai dari mana, belajarnya apa, dan urutannya gimana?\n\nGue baru bikin Nurai, platform belajar AI gratis yang isinya cukup banyak\n\ndi sini lu bisa:\n\n‣ cek level skill AI  \n‣ belajar dari 39 lesson\n‣ akses 60 prompt siap ",
+      "likes": 391,
+      "views": 0,
+      "url": "https://x.com/i/status/2070018147986612541",
+      "is_kol": false,
+      "score": 1528.0
+    },
+    {
+      "id": "2069753998132027495",
+      "author": "trythreews",
+      "text": "Body, Wallet, Conscience: three.ws Publishes 31 MCP Servers | Anthropic MCP Registry",
+      "likes": 237,
+      "views": 0,
+      "url": "https://x.com/i/status/2069753998132027495",
+      "is_kol": false,
+      "score": 1121.0
+    },
+    {
+      "id": "2070016711341040054",
+      "author": "aiedge_",
+      "text": "I can't believe I didn't find this sooner.\n\nThis anti-slop AI frontend framework is cracked.\n\nFeed this \"Taste\" skill to your Hermes agent, Claude Code, or Codex to get rid of generic AI-slop.\n\nDesign skills, image generation skills &amp; more:\n\nhttps://t.co/INbQ4ZqQGe https://t.",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2070016711341040054",
+      "is_kol": false,
+      "score": 605.0
+    },
+    {
+      "id": "2069904934674506009",
+      "author": "cwolferesearch",
+      "text": "What is an agent? The definition can be pretty simple: it’s just an LLM that runs within an agentic loop.\n\nTo make this definition more concrete, an agent-system has a few high-level components:\n\n1. The LLM backbone.\n2. Instructions.\n3. Tools.\n4. The environment.\n\nGiven an initia",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2069904934674506009",
+      "is_kol": false,
+      "score": 393.0
+    },
+    {
+      "id": "2069788673995116996",
+      "author": "ranimth07",
+      "text": "Bikin Claude AI kamu bisa Transact, Trade, Lend & Mint di @base Network\n\nTutorialnya:\n1. Pengaturan > Connectors > Add Custom Connector  \n   Name: Base MCP  \n   Remote MCP server URL: https://t.co/uLv5yNzdEW  \n   → ADD\n\n2. Download skill-nya di sini: https://t.co/xzAqfgk38N\n\n3. U",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2069788673995116996",
+      "is_kol": false,
+      "score": 354.0
+    },
+    {
+      "id": "2070022008155603346",
+      "author": "kashish3097",
+      "text": "🎯𝟯𝟬 𝗠𝘂𝘀𝘁 𝗞𝗻𝗼𝘄 𝗧𝗲𝗿𝗺𝘀 𝗶𝗻 𝗖𝗹𝗮𝘂𝗱𝗲\n\nDiscover the language of Claude in simple words.\n\nSave this guide before your next AI conversation.\n\n➡️ 𝗣𝗿𝗼𝗺𝗽𝘁: The text you send Claude.\n\n➡️ 𝗢𝗽𝘂𝘀: The smartest model. For hard tasks.\n\n➡️ 𝗦𝗼𝗻𝗻𝗲𝘁: The mid-tier model. For quick tasks.\n\n➡️ 𝗛𝗮𝗶𝗸𝘂: The c",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2070022008155603346",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2069874615791603928",
+      "author": "smalkalbani",
+      "text": "الصين 🇨🇳… تضرب بقوة\n\nاطلقوا نموذج Qwen-AgentWorld (لمحاكاة العوالم في 7 بيئات) داخل رأسه يقدر يتدرب ويفكر فيه\n\nالبيئات الـ7 اللي يحاكيها:\n•  MCP (tool calling)\n•  Search\n•  Terminal\n•  SWE (Software Engineering)\n•  Web\n•  OS (نظام التشغيل، بما في ذلك GUI)\n•  Android\n\nيعني\nبدل ما ",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2069874615791603928",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2070065136442933407",
+      "author": "DerekNee",
+      "text": "everyone is talking about agent loops, harnesses, and self-evolving agents.\n\nbut almost no one is talking about the actual hard part:\n\nyou cannot run a company on one giant agent with every tool, every file, and no accountability. that's not autonomy. that's a fog machine.\n\nhere'",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2070065136442933407",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2069769865305399445",
+      "author": "Stan_leeCrypto",
+      "text": "In Just one year INJECTIVE has accomplished what many Blockchains couldn't in years\n\nHere are 7 groundbreaking accomplishments by Injective from Jan till date:\n\n➲  In January was a major tokenomics overhaul called the \"Supply squeeze\"\n\nwhich has already led to millions of Inj bur",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2069769865305399445",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2069849146916294666",
+      "author": "AlfieJCarter",
+      "text": "R.I.P. switching tabs every time your GTM team needs an answer from Claude.\n\nA properly configured Claude Tag setup turns Slack into a multiplayer AI teammate your entire team delegates to.\n\nIt is not as easy as just adding a bot to your workspace and hoping it figures out the co",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2069849146916294666",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2069825155321540827",
+      "author": "0xDragoonLab",
+      "text": "today i shipped a bunch of cool updates to gridform.\n\nthe latest updates ↓\n\n1. inspiration → creation\n\n• inspire tab for saving references, styles & ideas\n• drag any reference directly onto the canvas\n• generate complete designs from saved references\n• creative memory that powers",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2069825155321540827",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2069984373294924155",
+      "author": "HumanBeing1099",
+      "text": "Here is a list of new updates/upgrades the dev completed for $three today! @trythreews\n\n06/24/2026\n\n•Agora — the Commons\n•Docs · SAS Credentialed Attestations\n•18 @three-ws SDKs are live on npm — and the x402 wallet now pays in $THREE\n•Add Funds stops watching forever for a depos",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2069984373294924155",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2070094109109567845",
+      "author": "expertwith_AI",
+      "text": "Google just dropped a FREE 421-page playbook for AI agents.\n\nInside:\n\n→ Prompt chaining\n→ Memory & routing\n→ MCP + multi-agent systems\n→ Planning & guardrails\n→ Code-backed examples\n\nThis isn't a blog post.\n\nIt's an AI engineering curriculum.\n\n🚨 GIVEAWAY\n\n• 3 premium AI tool subs",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2070094109109567845",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2070049358851011045",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.142.2 is out.\n\nHighlights:\n- MCP tools now use tool search by default when supported\n- macOS clients can honor system proxy, PAC, and WPAD settings when respect_system_proxy is enabled\n- PowerShell commands with executable AST regions the safety classifier cannot insp",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2070049358851011045",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2070023843658207333",
+      "author": "leopardracer",
+      "text": "Jensen Huang, CEO Nvidia:\n\n“imagine millions of these things connected together working as one”\n\nmost developers are still prompting their coding agents by hand, type wait read repeat, 9 out of 10 have never written a single loop that prompts the agent for them\n\nthe leverage poin",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2070023843658207333",
+      "is_kol": false,
+      "score": 147.0
+    }
+  ]
+}

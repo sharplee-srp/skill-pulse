@@ -3958,5 +3958,49 @@
   "nvidia-bionemo/bionemo-agent-toolkit": {
     "first_seen": "2026-06-24",
     "tier": 3
+  },
+  "index365usa/agent-skills": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "timescale/pg-aiguide": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "bozhoudev/codex-orange-book": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "mrgizmo212/make-no-mistakes": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "vibhasdutta/loop-engineer": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "kali-decoder/midnight-skills": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "zenstackhq/skills": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "jasper0122/monid-skills": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "impactbrussels/ainativeos": {
+    "first_seen": "2026-06-25",
+    "tier": 3
+  },
+  "kouzt123/ad-image-localization-codex": {
+    "first_seen": "2026-06-25",
+    "tier": 3
   }
 }
