@@ -1,0 +1,433 @@
+{
+  "date": "2026-06-26",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 162,
+    "tweets_with_repos": 16,
+    "unique_repos": 11,
+    "new_repos": 8,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "neerajdad123-byte/-constraints",
+      "github_url": "https://github.com/neerajdad123-byte/-constraints",
+      "tier": 1,
+      "is_new": true,
+      "score": 606.0,
+      "mention_count": 6,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neeraj___ai",
+        "text": "@JohnnyNel_ Exactly. Governance is the whole point. Budgets per agent so they stop before burning cash. Org charts so they know who reports to who. I pair it with /constraints for hard file boundaries on top. npx skills add neerajdad123-byte/-constraints",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070361180477223095"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070361180477223095",
+        "https://x.com/i/status/2070355508553490474",
+        "https://x.com/i/status/2070355144731164944",
+        "https://x.com/i/status/2070355055774179662",
+        "https://x.com/i/status/2070354603993153976",
+        "https://x.com/i/status/2070354540663394620"
+      ]
+    },
+    {
+      "repo": "github/app",
+      "github_url": "https://github.com/github/app",
+      "tier": 3,
+      "is_new": true,
+      "score": 171.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotLog",
+        "text": "🚀✨ GitHub Copilot App v1.0.9 released!\n\n23 features & enhancements in this release\n\nTop features:\n• Quick chats now support tool-approval commands (/yolo, /allow-all-tools, /reset-allowed-tools) and session forking, matching code sessions ⚡\n• The Settings → Usage & Plan page now ",
+        "likes": 22,
+        "url": "https://x.com/i/status/2070258264999178253"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070258264999178253"
+      ]
+    },
+    {
+      "repo": "lishuangqiang/backend-agent-resume-scout",
+      "github_url": "https://github.com/lishuangqiang/backend-agent-resume-scout",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "从 GitHub 筛出真正能写进简历、经得起面试追问的后端和 AI Agent 项目，基于源码证据生成简历项目包。\n\nhttps://t.co/VTICByzGeV\n\n牛肉项目雷达是个 Codex 用的 Skill，专门帮后端和 AI Agent 方向找简历项目。它不只是扔一堆链接，而是走完整流程：先联网找一批候选项目，按业务价值过滤，让你确认后再拉源码到本地验证，最后生成 Markdown 和 PDF 格式的简历项目包。",
+        "likes": 3,
+        "url": "https://x.com/i/status/2070421304470048961"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070421304470048961"
+      ]
+    },
+    {
+      "repo": "hiteshbandhu/skills-i-use",
+      "github_url": "https://github.com/hiteshbandhu/skills-i-use",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_hiteshbandhu",
+        "text": "@shadcn here you go guys, the skill to use:\n\nread it here:\nhttps://t.co/h1hSO9k4of\n\ninstall it using this command:\nnpx skills add hiteshbandhu/skills-i-use --skill scroll-engineering",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070439898142916717"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070439898142916717"
+      ]
+    },
+    {
+      "repo": "shubhamsaboo/awesome-llm-apps",
+      "github_url": "https://github.com/shubhamsaboo/awesome-llm-apps",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Awesome Llm Apps\n\n100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.\n\n114.5K GitHub stars - data\nInstall: npx skills add Shubhamsaboo/awesome-llm-apps\n\nhttps://t.co/vtIzQK0CRG\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070432083520962568"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070432083520962568"
+      ]
+    },
+    {
+      "repo": "durcno/durcno",
+      "github_url": "https://github.com/durcno/durcno",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "durcno",
+        "text": "durcno now has agent SKILL with full documentation.\nJust run `npx skills add durcno/durcno --skill durcno`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070398625877020684"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070398625877020684"
+      ]
+    },
+    {
+      "repo": "tommybez/evex",
+      "github_url": "https://github.com/tommybez/evex",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TommyBez85",
+        "text": "How to use it:\n\n1. Star and fork the repo\n2. Ask Codex/Cursor/Claude to create a new eve agent using the skill\n3. Open a PR to add your agent to evex\n\nhttps://t.co/WL2r6PFXXl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070463250433712545"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070463250433712545"
+      ]
+    },
+    {
+      "repo": "unsu0707/interview-dev-loop",
+      "github_url": "https://github.com/unsu0707/interview-dev-loop",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "amecha_ai",
+        "text": "最近流行のLoop  Engineeringについて\n実際のチーム開発の体験を基にしていて\nとてもわかりやすかったのでぜひ読んでください！\n\nすぐに使用したい方はCodexとClaude Codeに\n\n「https://t.co/ndgz9yUdaL の Skill をインストールして」\n\n↓インストール後\n\n「/interview-dev-loop XX画面で◯◯機能を新しく追加する」\n\nこれで自分のしたいことを入力してください！\n\n↓記事のURL\nhttps://t.co/0pQhe4m7il",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070427015153635448"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070427015153635448"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jimliu/baoyu-design",
+      "github_url": "https://github.com/jimliu/baoyu-design",
+      "tier": 2,
+      "is_new": false,
+      "score": 1413.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 346,
+      "total_retweets": 55,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "PPT Master 确实是最好的 PPT Skill\n\n我新的 skill 写PPT也挺好，能导出可编辑版本，可以AI配图，可以在 Agent 内置浏览器中标记编辑\n\nhttps://t.co/POuwOWSuwe",
+        "likes": 346,
+        "url": "https://x.com/i/status/2070379812594606188"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070379812594606188"
+      ]
+    },
+    {
+      "repo": "safishamsi/graphify",
+      "github_url": "https://github.com/safishamsi/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pythontrending",
+        "text": "graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into... https://t.co/XoHWA9cdEy",
+        "likes": 4,
+        "url": "https://x.com/i/status/2070467338437058911"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070467338437058911"
+      ]
+    },
+    {
+      "repo": "educlopez/ui-craft",
+      "github_url": "https://github.com/educlopez/ui-craft",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "educalvolpz",
+        "text": "Same prompt. Same model.\n\nLeft: what an AI agent ships by default.\nRight: the same prompt with a design-quality bar it has to clear before it's \"done\".\n\nTaste isn't the model's job. It's the skill's.\n\nnpx skills add educlopez/ui-craft https://t.co/0kb2MqY09S",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070424373857521732"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070424373857521732"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2070174005709983865",
+      "author": "firecrawl",
+      "text": "We're launching 5x faster document parsing in the Firecrawl MCP.\n\nUse /parse to turn PDFs, spreadsheets, and docs into LLM-ready data for your agents.\n\nSupports running locally or with our hosted MCP server.\n\nTry it out today with no API key required on our free tier! https://t.c",
+      "likes": 410,
+      "views": 0,
+      "url": "https://x.com/i/status/2070174005709983865",
+      "is_kol": false,
+      "score": 1380.0
+    },
+    {
+      "id": "2070311929038680262",
+      "author": "RhysSullivan",
+      "text": "thoughts on why mcp didn't work, what's next",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2070311929038680262",
+      "is_kol": false,
+      "score": 1135.0
+    },
+    {
+      "id": "2070416777000222804",
+      "author": "Chain_GPT",
+      "text": "The Premonition Vault: a sealed-prediction engine on Nox by @iEx_ec, powered by ChainGPT.\n\nCrypto Twitter is full of \"I called it\" posts nobody can verify. Tweets get deleted. Screenshots get faked.\n\nWe built a demo to fix it. Predictions are encrypted client-side via Nox by iExe",
+      "likes": 219,
+      "views": 0,
+      "url": "https://x.com/i/status/2070416777000222804",
+      "is_kol": false,
+      "score": 1022.0
+    },
+    {
+      "id": "2070435796121735631",
+      "author": "Rifat_EE",
+      "text": "You're still refreshing twitter waiting for some lab to save you? its cute.\n\nBut here,  Hermes agents went full rogue and the builders cant stop talking about it,,\n\nThats great for builders, cause?\n\n)- Builders didnt  ask anybody for permission,\n\n)- They just took it and started ",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2070435796121735631",
+      "is_kol": false,
+      "score": 503.0
+    },
+    {
+      "id": "2070296242236576099",
+      "author": "freeCodeCamp",
+      "text": "Modern AI apps typically involve more than one prompt sent to one model.\n\nIn this guide, @sudheeshshetty explains how LLMs connect to tools, MCP servers, and LangChain workflows.\n\nYou'll build Node.js examples for model calls, tool use, MCP integration, and orchestration to help ",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2070296242236576099",
+      "is_kol": false,
+      "score": 486.0
+    },
+    {
+      "id": "2070367709448355841",
+      "author": "milesdeutscher",
+      "text": "This \"Taste\" Skill is cracked.\n\nI can't believe I didn't discover it sooner - everyone should install this.\n\nIt works directly inside Claude Code, Codex, Hermes &amp; more to completely kill AI-generated slop.\n\nIf you send this prompt to your agent, it will automatically install ",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2070367709448355841",
+      "is_kol": false,
+      "score": 373.0
+    },
+    {
+      "id": "2070345103215096104",
+      "author": "NusratJaha07",
+      "text": "🚨 Claude Code vs Cursor vs Codex?\n\nThat's the wrong question.\n\nThe real question is:\n\nWhich tool fits your workflow right now?\n\nToo many people argue about which AI coding tool is \"best.\"\n\nThe truth?\n\nEach one solves a different problem.\n\nHere's the no-hype breakdown 👇\n\n⚡ Claude ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2070345103215096104",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2070185448199131639",
+      "author": "IdleProtocol",
+      "text": "IDLE Protocol is now natively compatible with @LangChain.\n\nAny LangGraph agent can connect to IDLE's distributed compute network via our MCP server - web scraping, inference, DNS, health checks, Solana data queries, agent tasks. All 16 endpoints. Available as tools your agent can",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2070185448199131639",
+      "is_kol": false,
+      "score": 286.0
+    },
+    {
+      "id": "2070445182298837424",
+      "author": "testingcatalog",
+      "text": "Google has a hidden MCP integration config on Gemini for macOS but it is yet unclear if MCPs will ever become available over there. \n\nTbh, I am not getting why it is that challenging to simply enable MCPs across Gemini products. \n\nIt is quite an essential feature that opens up a ",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2070445182298837424",
+      "is_kol": false,
+      "score": 269.0
+    },
+    {
+      "id": "2070317752121016692",
+      "author": "RhysSullivan",
+      "text": "What you guys are referring to as MCP, is in fact a Spec/Protocol, or as I've recently taken to calling it, a Spec plus a Protocol. The spec of an MCP server is flexible, can be represented through lazy loading, code mode, as a CLI whereas the protocol is a fully functioning syst",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2070317752121016692",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2070224600206557639",
+      "author": "neuraiproject",
+      "text": "Sneak Peak: DePIN Privacy Chat\nOne of the new features of the Positronic update is the introduction of a special token called DePIN, which gives the creator greater control over the ownership of this token, it cannot be transferred unless you have the master token. This was desig",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2070224600206557639",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2070315593480466762",
+      "author": "RhysSullivan",
+      "text": "i have a series of articles i've been planning to write on the state of MCP / APIs / integrations and how to push the frontier of tool calling  \n\nthis is the first one, meant to give some background on how we ended up here\nhttps://t.co/CIR28f7JaP",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2070315593480466762",
+      "is_kol": false,
+      "score": 203.0
+    },
+    {
+      "id": "2070170529294692564",
+      "author": "designcoursecom",
+      "text": "Tired of the fake bullshit people are posting about what Figma Motion made?  Here's a real test.\n\nI had Claude Code (Opus 4.8) build a promo video for my upcoming SaaS. It used the Figma MCP server to create this entirely in Figma Motion, and exported it as a video.\n\nAs you can s",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2070170529294692564",
+      "is_kol": false,
+      "score": 188.0
+    },
+    {
+      "id": "2070284466170249385",
+      "author": "arvidkahl",
+      "text": "I offer both with Podscan, and the MCP users are plugging it right into their agentic tools. Claude, ChatGPT, n8n agents. They want their agents to “just use it best,” and since API docs (and often, the auto processes) are wildly different in quality and accuracy, MCPs agent-focu",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2070284466170249385",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2070448795897503979",
+      "author": "MaxwellXPro",
+      "text": "NSTEAD OF WATCHING NETFLIX TONIGHT.     \n\nSpend 1 hour with this.     \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.   \n\nThe people who watch this tonight will wake up tomorrow with a new skill.  \n\nWatch it and Bookmark it now. https://t.co/LMaQlg66B",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2070448795897503979",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2070253709788135617",
+      "author": "amapel",
+      "text": "What a year it's been since the @openintdev acquisition by @Replit .\n\nWe got the chance to circle back, expand our inventory, and massively improve the user experience of integrations at Replit. \n\nReplit offers by far the most advanced set of integration capabilities on the marke",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2070253709788135617",
+      "is_kol": false,
+      "score": 167.0
+    },
+    {
+      "id": "2070220040075649356",
+      "author": "RhysSullivan",
+      "text": "for the love of god please stop putting limitations on allowed redirect urls for your mcp server\n\nespecially on localhost it's crazy stuff lol",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2070220040075649356",
+      "is_kol": false,
+      "score": 162.0
+    },
+    {
+      "id": "2070359533407682720",
+      "author": "CoinMarketCap",
+      "text": "🤖 Let your Agent do research for you\nhttps://t.co/618nxDJSth\n\n1️⃣ Copy the install Command → Paste into your Agent \n2️⃣ Copy the Execution Command → Paste → Skill: daily_market_overview (Try the code yourself)\n\n`````text\nUse daily_market_overview from CMC Skill Hub to execute a t",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2070359533407682720",
+      "is_kol": false,
+      "score": 156.0
+    }
+  ]
+}
