@@ -4034,5 +4034,109 @@
   "unsu0707/interview-dev-loop": {
     "first_seen": "2026-06-26",
     "tier": 3
+  },
+  "evermind-ai/everos": {
+    "first_seen": "2026-06-27",
+    "tier": 2
+  },
+  "clawhunter/threews-bounty-skill": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "cloudflare/security-audit-skill": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-growth-finder": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-launch": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-user-interview": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-b2b-growth": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-skills": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gr-competitor": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-seo-geo": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-aso-growth": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/community-building-playbook": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-opensource": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "gingiris-1031/gingiris-kol-outreach": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "saidsurucu/dergipark-skill": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "swarmone/agentic-swarm-bench": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "vichhka-git/renef-skills": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "pluviobyte/video-production-skills": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "smallest-inc/skills": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "ai-zixun/humanizer-zh": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "unclecode/crawl4ai": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "puppeteer/puppeteer": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "joeseesun/defuddle-skill": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "microsoft/web-dev-for-beginners": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "rasbt/llms-from-scratch": {
+    "first_seen": "2026-06-27",
+    "tier": 3
+  },
+  "jasper0122/monid-honeypot-killer": {
+    "first_seen": "2026-06-27",
+    "tier": 3
   }
 }

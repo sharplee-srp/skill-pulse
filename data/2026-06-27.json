@@ -1,0 +1,945 @@
+{
+  "date": "2026-06-27",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 26,
+    "unique_repos": 35,
+    "new_repos": 26,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "evermind-ai/everos",
+      "github_url": "https://github.com/evermind-ai/everos",
+      "tier": 2,
+      "is_new": true,
+      "score": 839.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 218,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SunNeverSetsX",
+        "text": "我的 Trading Agent 换上了这个大脑后，明显聪明了几个量级！\n\n长期以来，我在使用 Agent 的过程中，都被同一个问题所困扰：它太容易失忆了！\n\n每次开启一个新会话，我都要重新交代背景：\n我是谁、我在做什么项目、我的判断标准是什么、哪些资料已经看过、哪些坑已经踩过、哪些结论已经被推翻过。\n \n这带来的问题非常明显：\n第一、Agent 很难保持连续性。今天它帮我分析了一个项目，明天再问它相关问题，它往往又像第一次接触一样，从零开始推理。\n \n第二、Agent 很难沉淀经验。一次研究中已经证明无效的路径，下次它可能还会重复。而一次写作中已经验证",
+        "likes": 218,
+        "url": "https://x.com/i/status/2070713638319739216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070713638319739216"
+      ]
+    },
+    {
+      "repo": "clawhunter/threews-bounty-skill",
+      "github_url": "https://github.com/clawhunter/threews-bounty-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 432.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "clawhuntersol",
+        "text": "In case you missed it - we published a https://t.co/mOlLy4nUhU skill for Claw Hunter on Github 📃🦞\n\nUse it directly in a $three agent, or fork it as a base for your own custom bounty hunting skill.\n\nhttps://t.co/nYSEOSaI0w https://t.co/yUsNng3gwC",
+        "likes": 36,
+        "url": "https://x.com/i/status/2070740705341833693"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070740705341833693",
+        "https://x.com/i/status/2070481716133638598"
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 296.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xMulight",
+        "text": "上周Agent生态里最大的动静，是两位巨头的下场。\n\nCloudflare推出了安全审计技能，NVIDIA把BioNeMo包装成了Agent工具箱。\n\n翻了翻，比较有代表性的七个：\n\nI cloudflare/security-audit-skill\n多阶段安全审计技能，产出机器可读的独立验证报告。Cloudflare把自己的安全方法论打包成了Agent能直接用的技能文件，审计流程从人工变成Agent驱动，安全团队可以批量跑、批量出报告。\nhttps://t.co/APAV1ElB6Y\n\nI NVIDIA-BioNeMo/bionemo-agent-to",
+        "likes": 62,
+        "url": "https://x.com/i/status/2070714842173132984"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070714842173132984"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-growth-finder",
+      "github_url": "https://github.com/gingiris-1031/gingiris-growth-finder",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-launch",
+      "github_url": "https://github.com/gingiris-1031/gingiris-launch",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-user-interview",
+      "github_url": "https://github.com/gingiris-1031/gingiris-user-interview",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-b2b-growth",
+      "github_url": "https://github.com/gingiris-1031/gingiris-b2b-growth",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-skills",
+      "github_url": "https://github.com/gingiris-1031/gingiris-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gr-competitor",
+      "github_url": "https://github.com/gingiris-1031/gr-competitor",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-seo-geo",
+      "github_url": "https://github.com/gingiris-1031/gingiris-seo-geo",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-aso-growth",
+      "github_url": "https://github.com/gingiris-1031/gingiris-aso-growth",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/community-building-playbook",
+      "github_url": "https://github.com/gingiris-1031/community-building-playbook",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-opensource",
+      "github_url": "https://github.com/gingiris-1031/gingiris-opensource",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-kol-outreach",
+      "github_url": "https://github.com/gingiris-1031/gingiris-kol-outreach",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "我做企业陪跑或者自己用 Claude/Cola 做增长的时候，这10个 Skills 是我自己也经常使用的：\n\n一键装全套：\n`npx skills add Gingiris-1031/gingiris-skills`\n\n按需单装 👇\n\n**发布 & GTM**\n`npx skills add Gingiris-1031/gingiris-launch`\nDay 1 到前100用户的完整打法\n\n`npx skills add Gingiris-1031/gingiris-seo-geo`\nSEO + GEO 双引擎，Google + AI引用一起覆盖\n\n",
+        "likes": 9,
+        "url": "https://x.com/i/status/2070743891591200880"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070744069769199818",
+        "https://x.com/i/status/2070743891591200880"
+      ]
+    },
+    {
+      "repo": "saidsurucu/dergipark-skill",
+      "github_url": "https://github.com/saidsurucu/dergipark-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 217.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yapayzekahocasi",
+        "text": "Akademisyenler için geliştirdiğim Dergipark MCP captcha'dan dolayı düzgün çalışmıyordu. Ben de farklı bir yaklaşım deneyip MCP yerine herkesin kişisel olarak çalıştıracağı bir skill hazırladım. Claude in Chrome ile MCP'nin yaptıklarından daha fazlasını yapabiliyor artık. Github'd",
+        "likes": 34,
+        "url": "https://x.com/i/status/2070795495019008212"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070795495019008212"
+      ]
+    },
+    {
+      "repo": "swarmone/agentic-swarm-bench",
+      "github_url": "https://github.com/swarmone/agentic-swarm-bench",
+      "tier": 3,
+      "is_new": true,
+      "score": 131.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JafarNajafov",
+        "text": "A team just shipped a benchmark that includes a Claude Code skill capable of auto-tuning your entire LLM deployment while you watch.\n\nIt's called AgenticSwarmBench and it measures inference speed under real agentic swarm load, the kind where Claude Code opens a file, reads 2,000 ",
+        "likes": 7,
+        "url": "https://x.com/i/status/2070802202906763529"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070802202906763529"
+      ]
+    },
+    {
+      "repo": "vichhka-git/renef-skills",
+      "github_url": "https://github.com/vichhka-git/renef-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "Agent Skill (Claude Code + OpenCode) for operating https://t.co/Ychy12N4Gj — Android ARM64 dynamic instrumentation: hook native/Java, patch memory, trace syscalls, bypass SSL pinning/root detection; port Frida &amp; GameGuardian scripts to renef Lua. https://t.co/9RazpLzduX",
+        "likes": 5,
+        "url": "https://x.com/i/status/2070800787542864054"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070800787542864054"
+      ]
+    },
+    {
+      "repo": "pluviobyte/video-production-skills",
+      "github_url": "https://github.com/pluviobyte/video-production-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gkxspace",
+        "text": "果然学得够慢就不用学了。。。\n\n不会 Pr、hyperframes、remotion 也能一句话做出炫酷的效果\n\nClaude Code、Codex 都能用，而且还在持续加新的视频风格\n\n装上 skill 后你跟 AI 说\"做个产品介绍短片\"，它就按你想要的风格直接出片，黑底白字逐字打字开场，键盘音效都能同步好\n\n而且还有个复刻质检的功能，扔一个参考视频，它会逐帧帮你对比告诉你哪里没对齐\n\n快去star一下，然后用起来吧😋\nhttps://t.co/BHYH7D0Dyz",
+        "likes": 4,
+        "url": "https://x.com/i/status/2070812003308806231"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070812003308806231"
+      ]
+    },
+    {
+      "repo": "smallest-inc/skills",
+      "github_url": "https://github.com/smallest-inc/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smallest_AI",
+        "text": "Introducing Smallest AI Agent Skills\n\nGive your coding agent the official way to build with Smallest AI. No more fictional endpoints, no more deprecated models - just code that works and gets you building faster.\n\nInstall in one command: npx skills add smallest-inc/skills\n\nYour c",
+        "likes": 3,
+        "url": "https://x.com/i/status/2070819343680913886"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070819343680913886"
+      ]
+    },
+    {
+      "repo": "ai-zixun/humanizer-zh",
+      "github_url": "https://github.com/ai-zixun/humanizer-zh",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Easyidea_",
+        "text": "如何让你的推文，小红书，公众号（中文内容）内容不那么 AI 味儿？ 推荐几个搜到的skills，自取～\n\n1. https://t.co/NmWscu2tEC  \n明确确面向中文博客、评论、产品分析、newsletter、书稿章节。重点处理“翻译腔、模型拼接稿、营销通稿”，还带中文作者声音档案和模式参考。\n适合装成 Codex / Claude Code skill。资料里写到它会清理翻译腔、结构腔、排版腔、判断腔，并按文体控制改写力度，不会把说明文硬改成抒情文。\n\n2. https://t.co/FgJTLKUI3v\n承认英文版 humanizer 的",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070794983599436024"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070794983599436024"
+      ]
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "github_url": "https://github.com/unclecode/crawl4ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Crawl4AI\n\nOpen-source LLM-friendly web crawler and scraper\n\n69.0K GitHub stars - web-automation\nInstall: npx skills add unclecode/crawl4ai\n\nhttps://t.co/tZEodCV6wF\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070794547202855091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070794547202855091"
+      ]
+    },
+    {
+      "repo": "puppeteer/puppeteer",
+      "github_url": "https://github.com/puppeteer/puppeteer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Puppeteer\n\nJavaScript API for Chrome and Firefox\n\n94.8K GitHub stars - coding-agents\nInstall: npx skills add puppeteer/puppeteer\n\nhttps://t.co/CNKRUi3en5\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070749023271530859"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070749023271530859"
+      ]
+    },
+    {
+      "repo": "joeseesun/defuddle-skill",
+      "github_url": "https://github.com/joeseesun/defuddle-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shanchargo",
+        "text": "**Defuddle** 名字怪\n干的事很直白\n\n你丢一个网页链接给 AI\n它把广告、侧边栏、弹窗全扒掉\n只留正文，转成干净的 Markdown\n\nObsidian CEO 写的命令行工具\n@joeseesun 封装成 Skill 了\n\n跟 Agent Reach 搭配挺顺\n一个负责找到页，一个负责把页洗干净\n\n`npx skills add joeseesun/defuddle-skill`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070723560352743850"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070723560352743850"
+      ]
+    },
+    {
+      "repo": "microsoft/web-dev-for-beginners",
+      "github_url": "https://github.com/microsoft/web-dev-for-beginners",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Web Dev For Beginners\n\n24 Lessons, 12 Weeks, Get Started as a Web Developer\n\n95.9K GitHub stars - education\nInstall: npx skills add microsoft/Web-Dev-For-Beginners\n\nhttps://t.co/ZFTIwxd4kp\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070703742089830697"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070703742089830697"
+      ]
+    },
+    {
+      "repo": "rasbt/llms-from-scratch",
+      "github_url": "https://github.com/rasbt/llms-from-scratch",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: LLMs From Scratch\n\nImplement a ChatGPT-like LLM in PyTorch from scratch, step by step\n\n97.3K GitHub stars - ml-automation\nInstall: npx skills add rasbt/LLMs-from-scratch\n\nhttps://t.co/21FCEl7HgV\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070658638864080940"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070658638864080940"
+      ]
+    },
+    {
+      "repo": "jasper0122/monid-honeypot-killer",
+      "github_url": "https://github.com/jasper0122/monid-honeypot-killer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jasperli0122",
+        "text": "All you need:  `npx skills add Jasper0122/monid-honeypot-killer`  Give your AI agent crypto safety powers. Powered by @monid_ai.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070652463057920303"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070652463057920303"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 392.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 59,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "This shouldn't be free.\n\nAnthropic has DOZENS of publicly available AI skills.\n\nFrontend design skills, PDF creation skills, MCP builders &amp; more.\n\nYou can inject these into any AI tool you'd like (Codex, Cursor, etc.)\n\nAccess here.👇\n\nhttps://t.co/oafEzqgvb6 https://t.co/LjSFh",
+        "likes": 49,
+        "url": "https://x.com/i/status/2070718821745528907"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070792062199558434",
+        "https://x.com/i/status/2070718821745528907"
+      ]
+    },
+    {
+      "repo": "calesthio/openmontage",
+      "github_url": "https://github.com/calesthio/openmontage",
+      "tier": 3,
+      "is_new": false,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharbel",
+        "text": "The 10 fastest growing GitHub repos this week:\n\n1. OpenMontage (+17.2K stars)\nWorld's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nhttps://t.co/Eyne4RLb91\n\n2. skil",
+        "likes": 25,
+        "url": "https://x.com/i/status/2070812435653464323"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070812435653464323"
+      ]
+    },
+    {
+      "repo": "adithya-s-k/manim_skill",
+      "github_url": "https://github.com/adithya-s-k/manim_skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 138.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AYi_AInotes",
+        "text": "1. HyperFrames（AI 一键生成 / 文本进 成片出）\n•  GitHub: heygen-com/hyperframes\n•  官方文档: https://t.co/ohTz9ATEr4\n•  安装（推荐）: npx skills add heygen-com/hyperframes（支持 --all 装全部 19 个 skill）\n•  特点：AI agent 写 HTML + CSS/JS 动画 → 确定性渲染成 MP4，专为 agent 设计，适合产品发布、 explainer、motion graphics 等。 \n2. FFmpe",
+        "likes": 11,
+        "url": "https://x.com/i/status/2070790079585436135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070790079585436135"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 138.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AYi_AInotes",
+        "text": "1. HyperFrames（AI 一键生成 / 文本进 成片出）\n•  GitHub: heygen-com/hyperframes\n•  官方文档: https://t.co/ohTz9ATEr4\n•  安装（推荐）: npx skills add heygen-com/hyperframes（支持 --all 装全部 19 个 skill）\n•  特点：AI agent 写 HTML + CSS/JS 动画 → 确定性渲染成 MP4，专为 agent 设计，适合产品发布、 explainer、motion graphics 等。 \n2. FFmpe",
+        "likes": 11,
+        "url": "https://x.com/i/status/2070790079585436135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070790079585436135"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 138.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AYi_AInotes",
+        "text": "1. HyperFrames（AI 一键生成 / 文本进 成片出）\n•  GitHub: heygen-com/hyperframes\n•  官方文档: https://t.co/ohTz9ATEr4\n•  安装（推荐）: npx skills add heygen-com/hyperframes（支持 --all 装全部 19 个 skill）\n•  特点：AI agent 写 HTML + CSS/JS 动画 → 确定性渲染成 MP4，专为 agent 设计，适合产品发布、 explainer、motion graphics 等。 \n2. FFmpe",
+        "likes": 11,
+        "url": "https://x.com/i/status/2070790079585436135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070790079585436135"
+      ]
+    },
+    {
+      "repo": "garrytan/gstack",
+      "github_url": "https://github.com/garrytan/gstack",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_Whisper_X",
+        "text": "这周，我最想安利的 4 个 skill\n\n最近在折腾 coding agent 的人应该越来越多了，如果你也在用 Claude Code、Codex、Cowork、OpenClaw、Hermes 这些，下面几个 skill 值得试一下。\n安装方式巨简单：开个新聊天窗口，把 GitHub 链接丢进去，跟 agent 说“帮我安装这个”就行。\n\nGStack：github 117k stars。Y Combinator CEO Garry Tan 做的。它给你的 agent 搭一支 23 人的虚拟工程团队，有负责压力测试产品创意的 CEO、能识别劣质 AI ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2070807382935163071"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070807382935163071"
+      ]
+    },
+    {
+      "repo": "jimliu/baoyu-skills",
+      "github_url": "https://github.com/jimliu/baoyu-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shanchargo",
+        "text": "**baoyu-skills** \n宝玉开源的那套，人称「一个人的内容工厂」\n\n跟普通 Prompt 合集不一样\n它是按「完整链路」拆 Skill 的\n\n做小红书信息图、压图、Markdown 转 X 长文、发公众号\n每个环节一份说明书\n\n`npx skills add jimliu/baoyu-skills`\n\n建议做自媒体的朋友高低得去扫一眼",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070811877991690669"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070811877991690669"
+      ]
+    },
+    {
+      "repo": "jerlinn/jerlin-weread",
+      "github_url": "https://github.com/jerlinn/jerlin-weread",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cevenif",
+        "text": "说实话，这玩意儿出来的时候我愣了半天——微信读书居然出了官方Skill，可以直接让 Codex 或 Claude Code 帮你操作读书笔记、划线这些功能。不是套壳，是真能调用。\n\n装起来也不复杂：\n\n1️⃣ 官方版本：直接把这条指令复制给AI，让它帮你自动下载安装\n链接：https://t.co/sdVBahXrVD\n2️⃣ 优化版本：X上有个叫 @eviljer 的朋友做了个更顺手的版本，一行命令搞定\nnpx skills add jerlinn/jerlin-weread\n这个版本体验上做了打磨，建议直接用这个。\n\n3️⃣ 需要API Key的话，",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070686300835910010"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070686300835910010"
+      ]
+    },
+    {
+      "repo": "browser-use/video-use",
+      "github_url": "https://github.com/browser-use/video-use",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "Claude Code 现在也可以编辑视频了！\n这个 SKILL 100% 免费且开源。\n\n✓ 自动创建动画\n✓ 生成不同风格的字幕\n✓ 消除静音、错误和填充词\n\nhttps://t.co/JPE1gNwAu5 https://t.co/WVaMtphtXo",
+        "likes": 1,
+        "url": "https://x.com/i/status/2070817068782645459"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070817068782645459"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2070574557728264382",
+      "author": "deedydas",
+      "text": "We hosted an intimate event on Agentic Engineering in SF with speakers at the forefront of AI yesterday.\n\nThree big lessons I took away:\n– @steipete: I now force contributors to OpenClaw to use a skill that pushes their prompt history of the code change to find signal in noise, t",
+      "likes": 998,
+      "views": 0,
+      "url": "https://x.com/i/status/2070574557728264382",
+      "is_kol": false,
+      "score": 3169.0
+    },
+    {
+      "id": "2070505900352356639",
+      "author": "Steve8708",
+      "text": "Introducing the Clips chrome extension - the easiest way to send bug reports to agents with video, transcript, and browser debug info captured automatically.\n\n100% free and open source.\n\nIf you are like me and get tired of manually typing instructions to agents, attaching screens",
+      "likes": 635,
+      "views": 0,
+      "url": "https://x.com/i/status/2070505900352356639",
+      "is_kol": false,
+      "score": 2165.0
+    },
+    {
+      "id": "2070537172722032671",
+      "author": "tan_stack",
+      "text": "MCP tools have only ever returned text for the model to read.\n\nNow they return interactive UI. 🪄\n\nTanStack AI's new MCP Apps support renders ui:// widgets right in the chat - static or fully interactive, with a client/server bridge. https://t.co/FFfMskdVo5",
+      "likes": 608,
+      "views": 0,
+      "url": "https://x.com/i/status/2070537172722032671",
+      "is_kol": false,
+      "score": 2024.0
+    },
+    {
+      "id": "2070679666336403684",
+      "author": "Tanaypawar27",
+      "text": "🎯𝟯𝟬 𝗠𝘂𝘀𝘁 𝗞𝗻𝗼𝘄 𝗧𝗲𝗿𝗺𝘀 𝗶𝗻 𝗖𝗹𝗮𝘂𝗱𝗲\n\nDiscover the language of Claude in simple words.\n\nSave this guide before your next AI conversation.\n\n➡️ 𝗣𝗿𝗼𝗺𝗽𝘁: The text you send Claude.\n\n➡️ 𝗢𝗽𝘂𝘀: The smartest model. For hard tasks.\n\n➡️ 𝗦𝗼𝗻𝗻𝗲𝘁: The mid-tier model. For quick tasks.\n\n➡️ 𝗛𝗮𝗶𝗸𝘂: The c",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2070679666336403684",
+      "is_kol": false,
+      "score": 482.0
+    },
+    {
+      "id": "2070683460113723608",
+      "author": "u1",
+      "text": "データベースのセマンティックレイヤー､わざわざDB側に持たせなくても今ならSkillとしてAgent側に持たせるほうがレビューしやすいしロードもしやすいし､何よりもデータアクセス以外のセマンティックレイヤーとも統合出来るし利点大きいと思うんだけど､なんでみんなDB側に持たせたがるんだろう?\n\nSkill + OKFで全部巻き取れるような気もしてるんだけどなんか自分が認識出来てない話があるのだろうか･･･",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2070683460113723608",
+      "is_kol": false,
+      "score": 481.0
+    },
+    {
+      "id": "2070720495365050648",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update with many new features, improvements, and bug fixes\n\nRelease Notes: v0.2.69 — 2026-06-26\n\nFeatures:\n• The agent dashboard now shows each agent's model and mode in the peek panel, lets you cycle modes with Shift+Tab, collapses the Inactive sectio",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2070720495365050648",
+      "is_kol": false,
+      "score": 398.0
+    },
+    {
+      "id": "2070432952287154337",
+      "author": "AIVibecode",
+      "text": "المبرمجين تعودوا على الـ API، اللي هو واجهة برمجة التطبيقات التقليدية. هذه الواجهة ممتازة، ووظيفتها واضحة جداً. أنت كمبرمج تكتب كود يرسل طلب محدد إلى سيرفر معين، ويستلم رد محدد. كل شيء معروف مسبقاً، وأنت اللي تحدد كل خطوة في مسار التطبيق.\n\nلكن مع انتشار AI Agents، ظهر نوع مختلف م",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2070432952287154337",
+      "is_kol": false,
+      "score": 396.0
+    },
+    {
+      "id": "2070688566364303698",
+      "author": "MeenakshiYACS",
+      "text": "🚀 𝗧𝗼𝗽 𝟭𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀 𝗧𝗵𝗮𝘁 𝗧𝘂𝗿𝗻 𝗖𝗹𝗮𝘂𝗱𝗲 𝗜𝗻𝘁𝗼 𝗔 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲\n\n⚡ Turn Claude from a simple AI assistant into a powerful workflow engine.\n\nThese GitHub repos help you automate, build, research, and ship faster.\n\n🔹 𝗢𝟭. 𝗥𝗲𝗽𝗼𝗺𝗶𝘅\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗱𝗼𝗲𝘀: Packs your full codebase into one AI",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2070688566364303698",
+      "is_kol": false,
+      "score": 387.0
+    },
+    {
+      "id": "2070610750289351013",
+      "author": "shannholmberg",
+      "text": "model routing for non coding work (marketing)\n\na skill thats not talked about enough is knowing which model to run when, especially through model routing\n\nsay you have an agent running your marketing workflows, content for example.\n\nthere's a ton happening behind one good post: r",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2070610750289351013",
+      "is_kol": false,
+      "score": 351.0
+    },
+    {
+      "id": "2070530432857190824",
+      "author": "cameroncooper",
+      "text": "Massive Coinset Update\n\nOver the last several months I've been building some big updates to https://t.co/rNCgnkkKDK \n\n- Transaction parsing\n- Balances\n- NFTs\n- CATs\n- Webhooks\n- Live mempool view\n- Agent friendly - MCP server, markdown pages\n\nHope you like it!",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2070530432857190824",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2070676401574015058",
+      "author": "lwastuargo",
+      "text": "Game is just for-loop\nNation is just relationship\nFiber optic is just cable\nAirplane is just aluminium\nElectricity is just electron moving\n\nSoftware engineering is a lot of abstraction. The inability to l337speak and understand in the right level of abstraction shows less about t",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2070676401574015058",
+      "is_kol": false,
+      "score": 321.0
+    },
+    {
+      "id": "2070706266205466685",
+      "author": "okcamars",
+      "text": "Presti is a great GM but his best skill is probably player &amp; agent relationships\n\nMeanwhile you got other people backdooring",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2070706266205466685",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2070580600029712650",
+      "author": "DanKornas",
+      "text": "Claude Code architecture is hard to study from scattered threads. This repo gives you the map.\n\nlearn-coding-agent is a public research and learning repo for developers studying CLI coding-agent architecture, with a focus on public information around Claude Code.\n\nIt helps you un",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2070580600029712650",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2070474520113164630",
+      "author": "slash1sol",
+      "text": "YOUR AGENT IS OUT HUNTING PAID BOUNTIES WHILE YOU SLEEP\n\nSomebody turned every AI agent into a bounty hunter. \nIt gets paid in real USDC -- Solana or Base.\n\nClaw Hunter from @clawhuntersol pulls crypto bounties from every venue and AI-triages each one. \n\nYour agent works off a cl",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2070474520113164630",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2070429997194530897",
+      "author": "zeuuss_01",
+      "text": "5 GITHUB REPOS THAT TURN CLAUDE CODE INTO A FULL YOUTUBE TEAM.\n\nThe article shows the system. \n\nThese are the open-source bricks that run it - all free, all MCP-ready.\n\n→ 1. mrchevyceleb/youtube-mcp\nGives Claude Code full control of your channel - 21 tools for video ops, playlist",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2070429997194530897",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2070760567149928742",
+      "author": "shubham_crazy08",
+      "text": "🚨 THE BIGGEST AI SKILL IN 2026 🚨\n\nMost people ask Claude for answers.\n\nThe highest-paid people ask Claude to make decisions.\n\nThat's the real competitive edge.\n\nHere are 8 Claude prompts that upgrade your thinking instead of just giving you answers 👇",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2070760567149928742",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2070632301168415103",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.69! 🚀\n\nChangelog v0.2.69\n\nFeatures:\n• The agent dashboard now shows each agent's model and mode in the peek panel, lets you cycle modes with Shift+Tab, collapses the Inactive section by default, and hides older idle agents behind a \"N m",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2070632301168415103",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2070538038992875648",
+      "author": "nrqa__",
+      "text": "40 GITHUB REPOS THAT ARE ACTUALLY USEFUL: \n\n1. public-apis — free APIs for everything\n2. build-your-own-x — learn by building\n3. developer-roadmap — learn any tech skill\n4. free-programming-books — thousands free books\n5. the-art-of-command-line — master terminal\n6. project-based",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2070538038992875648",
+      "is_kol": false,
+      "score": 195.0
+    }
+  ]
+}
