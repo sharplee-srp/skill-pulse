@@ -4138,5 +4138,49 @@
   "jasper0122/monid-honeypot-killer": {
     "first_seen": "2026-06-27",
     "tier": 3
+  },
+  "omnigent-ai/omnigent": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "kagent-dev/kagent": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "capminal/agent-skills": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "opensensenova/sensenova-skills": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "svetlyoh/web-wallet": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "kageroumado/adrafinil": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "vibeflowing-inc/vibe_figma": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "eliaalberti/dcode-agent-kit": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "growsera/magento2-lead-engineer": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "vercel/next.js": {
+    "first_seen": "2026-06-28",
+    "tier": 3
+  },
+  "xbtlin/ai-berkshire": {
+    "first_seen": "2026-06-28",
+    "tier": 3
   }
 }

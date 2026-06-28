@@ -1,0 +1,611 @@
+{
+  "date": "2026-06-28",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 24,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "omnigent-ai/omnigent",
+      "github_url": "https://github.com/omnigent-ai/omnigent",
+      "tier": 3,
+      "is_new": true,
+      "score": 238.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "omnigent_ai",
+        "text": "We are happy to announce #Omnigent v0.3.0!\n\nMajor new features\n\n🤖 Seven new agent harnesses: #Hermes (SDK + native TUI), #GitHub #Copilot (SDK), #OpenCode, #Goose, #QwenCode, #Kiro, and #KimiCode; plus #Antigravity promoted to a full SDK + native #agy CLI harness\n\n🪢  Native-harne",
+        "likes": 36,
+        "url": "https://x.com/i/status/2071035185739726906"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071035185739726906"
+      ]
+    },
+    {
+      "repo": "kagent-dev/kagent",
+      "github_url": "https://github.com/kagent-dev/kagent",
+      "tier": 3,
+      "is_new": true,
+      "score": 211.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devopscube",
+        "text": "DevOps Tool of the Week: Kagent 🛠️\n\nRunning them like any other Kubernetes workload is the hard part.\n\nThat is where kagent helps.\n\nIt is open-source framework that lets you build and run AI agents as native Kubernetes resources.\n\nInstead of managing agents outside your platform,",
+        "likes": 27,
+        "url": "https://x.com/i/status/2071100540071596204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071100540071596204"
+      ]
+    },
+    {
+      "repo": "capminal/agent-skills",
+      "github_url": "https://github.com/capminal/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AndreaPN",
+        "text": "1/3 Base B20 document available 🟦\n\nI just created a skill so any personal AI Agent (openclaw, hermes, etc.) can launch a @base B20 token the moment it goes live on Base Mainnet.\n\nThe skill is called 'morse-launch-b20'. You can install it now, then wait for B20 to activate on Base",
+        "likes": 7,
+        "url": "https://x.com/i/status/2071169178376290370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071169178376290370"
+      ]
+    },
+    {
+      "repo": "opensensenova/sensenova-skills",
+      "github_url": "https://github.com/opensensenova/sensenova-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gaoren7716",
+        "text": "我以为Agent Skill就是帮你写写文案、回回消息\n\n装了这套之后发现理解有点浅\n\n扔进去一个Excel，它自己读多张表、清洗数据、跨表聚合，最后给你一份完整分析报告+可视化图表\n\n说\"帮我做行业研究\"，它先出研究计划，\n再分维度搜证据，最后交叉验证写成正式报告\n\nPPT、信息图、数据分析、深度研究，\n四个方向，15个Skill，全部模块化，\n装进OpenClaw或者hermes-agent直接跑\n\n商汤出品，MIT协议，4.6k星\n\n👉 https://t.co/4nxKfDmXiA\n\n你现在Agent跑办公任务用的是哪套Skill？\n\n#Agen",
+        "likes": 3,
+        "url": "https://x.com/i/status/2071055231585321361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071055231585321361"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "kageroumado/adrafinil",
+      "github_url": "https://github.com/kageroumado/adrafinil",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "danteisshipping",
+        "text": "## dante's AI News\n\n1. Vercel shipped AI SDK 7 with a lot of agent plumbing builders usually have to assemble themselves: reasoning control, typed tool context, file and skill uploads, MCP Apps, tool approvals, durable WorkflowAgent runs, timeouts, sandbox support, tracing, and a",
+        "likes": 2,
+        "url": "https://x.com/i/status/2071163858761507122"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071163858761507122"
+      ]
+    },
+    {
+      "repo": "vibeflowing-inc/vibe_figma",
+      "github_url": "https://github.com/vibeflowing-inc/vibe_figma",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TeksCreate",
+        "text": "Figma → production React in one command. No design handoff. No guesswork.\n\nVibeFigma converts Figma designs directly into React + Tailwind CSS components. Not screenshots — real Figma API extraction with accurate positioning, styling, and asset export.\n\n```\nnpx vibefigma \"https:/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071086320881934821"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071086320881934821"
+      ]
+    },
+    {
+      "repo": "eliaalberti/dcode-agent-kit",
+      "github_url": "https://github.com/eliaalberti/dcode-agent-kit",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliaAlberti",
+        "text": "@rohanpaul_ai Would it find this skill? 😜\n\nhttps://t.co/V32tkUQzA3\n\nOne skill to create a fully working AI Agent (bye bye @Hermes @openclaw )\n\nWorks with ANY LLMs including local ones.\nAdd any MCPs \nAdd any Skills to it\n\nUp and running in less than 5min\n\nYour own AI Agent ready!",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071184045283975667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071184045283975667"
+      ]
+    },
+    {
+      "repo": "growsera/magento2-lead-engineer",
+      "github_url": "https://github.com/growsera/magento2-lead-engineer",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HireGrowsera",
+        "text": "Free Agent Skill for Magento 2 devs.\n\nIt makes Claude Code, Codex, and Cursor write upgrade-safe Magento code: plugins over preferences, no ObjectManager, no core or vendor edits, environment-aware.\n\nOpen source, MIT. Star it:\nhttps://t.co/YUtBiPDJHK\n\n#Magento #AdobeCommerce http",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071181887389765997"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071181887389765997"
+      ]
+    },
+    {
+      "repo": "vercel/next.js",
+      "github_url": "https://github.com/vercel/next.js",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vibecodingth",
+        "text": "ของจริงอย่างที่ 2 · Skill ที่สอนวิธีทำงานให้ agent\n\nตัวเด่นคือ next-dev-loop ให้ agent แก้โค้ดแล้วสั่งให้ browser เปิดดูผลจริง อ่าน console ตรวจโครงสร้างหน้าเอง\n\nไม่ใช่แก้มั่วแล้วหวังว่าถูก แต่แก้แล้วเช็กผลเลย\n\nลง npx skills add vercel/next.js --skill next-dev-loop\n\n4/10",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071044562815275296"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071044562815275296"
+      ]
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "github_url": "https://github.com/xbtlin/ai-berkshire",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "superdoccimo",
+        "text": "https://t.co/pbjhZLopL9\n\nこれは、投資判断をAIに丸投げするものではなく、\nCodex / Claude Code に投資調査の工程をSkillとして持たせるOSS\nとして見るとかなり強いです。\n財務確認、ニュース帰因、反対意見、複数Agent分析、最後の人間確認。\n投資AIで大事なのは、\n「買うか売るかを当てる」ことより、\n調査工程の抜け漏れを減らすこと\nだと思います。\n\nAI Berkshireは、その設計思想がかなり参考になります。\n\n丸ごと信じるな。\n構造を盗め。\n数字は照合しろ。\n最後は人間が判断しろ。\n#AI #生成A",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071181023262470287"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071181023262470287"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "calesthio/openmontage",
+      "github_url": "https://github.com/calesthio/openmontage",
+      "tier": 2,
+      "is_new": false,
+      "score": 7604.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2073,
+      "total_retweets": 257,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharbel",
+        "text": "The 10 fastest growing GitHub repos this week:\n\n1. OpenMontage (+17.2K stars)\nWorld's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nhttps://t.co/Eyne4RLb91\n\n2. skil",
+        "likes": 2073,
+        "url": "https://x.com/i/status/2070812435653464323"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070812435653464323"
+      ]
+    },
+    {
+      "repo": "mcncarl/yichen-skills",
+      "github_url": "https://github.com/mcncarl/yichen-skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1723.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 411,
+      "total_retweets": 78,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gengdaJ",
+        "text": "我是不是最迟把Codex接入微信里面的人。。。\n\n1.本机安装并启动 OpenClaw Gateway\n地址是 http://127.0.0.1:18789/，作为微信和 Codex 之间的中转。\n2.安装微信插件\n安装 @tencent-weixin/openclaw-weixin（用图四的那串可以复制的提示词，扔给Codex），然后用微信扫码绑定。第一次扫错号，后来重新扫码，只保留了新账号。\n3.安装 Codex 插件\n安装 @openclaw/codex，让 OpenClaw 可以调用 （直接让Codex安装）Codex runtime。\n4.登录",
+        "likes": 411,
+        "url": "https://x.com/i/status/2071061503764226193"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071061503764226193"
+      ]
+    },
+    {
+      "repo": "clawhunter/threews-bounty-skill",
+      "github_url": "https://github.com/clawhunter/threews-bounty-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 527.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "clawhuntersol",
+        "text": "In case you missed it - we published a https://t.co/mOlLy4nUhU skill for Claw Hunter on Github 📃🦞\n\nUse it directly in a $three agent, or fork it as a base for your own custom bounty hunting skill.\n\nhttps://t.co/nYSEOSaI0w https://t.co/yUsNng3gwC",
+        "likes": 55,
+        "url": "https://x.com/i/status/2070740705341833693"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070740705341833693",
+        "https://x.com/i/status/2070481716133638598"
+      ]
+    },
+    {
+      "repo": "nvidia/skills",
+      "github_url": "https://github.com/nvidia/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buildwithhassan",
+        "text": "first google shipped agent skills. now NVIDIA. 110 verified skills across 24 products.\n\none command:\nnpx skills add nvidia/skills\n\nyour coding agent instantly knows CUDA, cuDF, NeMo, Megatron-Core, RAG pipelines, medical AI, quantum computing, and 18 more NVIDIA products.\n\nworks ",
+        "likes": 3,
+        "url": "https://x.com/i/status/2071071344247132670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071183586686812354",
+        "https://x.com/i/status/2071071344247132670"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sam_mk87",
+        "text": "Claude Code now has its own App Store.\n\nInstall find-skills once, then ask: \"Is there a good skill for [my goal]?\" Claude searches the entire ecosystem and recommends the right one.\n\nOne prompt away from the right tool.\n\nnpx skills add vercel-labs/skills@find-skills -g https://t.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071153469633736972"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071153469633736972",
+        "https://x.com/i/status/2071042619837190186"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "minervacosmetic",
+        "text": "text-to-lottieのスキルが大幅アップグレード。Claude Code、Codex、CursorでLottieアニメーションを高品質生成できる。コマンド1行「npx skills add diffusionstudio/lottie」で導入完了。デザインの質と動きが改善され、修正回数も減った。アニメーション制作のコストと時間が一気に落ちる。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071044156949164067"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071044156949164067",
+        "https://x.com/i/status/2070966327314112676"
+      ]
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "github_url": "https://github.com/kepano/obsidian-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VincentLogic",
+        "text": "当 Obsidian 的 CEO 开始亲自教 AI 怎么使用 Obsidian，这件事比 3.8 万个 Star 更值得关注。\n\n这两天刷到一个仓库：obsidian-skills。\n\n作者 kepano，也就是 Obsidian CEO Steph Ango。\n\n里面包含5个 Skill：\n\n1. obsidian-markdown\n让 AI 写真正的 Obsidian Markdown，包括双链、嵌入、Callout、属性、Mermaid 和 LaTeX。\n2. obsidian-bases\n一句人话生成 .base 数据库视图，自动完成筛选、排序、",
+        "likes": 3,
+        "url": "https://x.com/i/status/2071145810834911242"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071145810834911242"
+      ]
+    },
+    {
+      "repo": "tauricresearch/tradingagents",
+      "github_url": "https://github.com/tauricresearch/tradingagents",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: TradingAgents\n\nTradingAgents: Multi-Agents LLM Financial Trading Framework\n\n86.0K GitHub stars - finance\nInstall: npx skills add TauricResearch/TradingAgents\n\nhttps://t.co/C95PlHOTWf\n\n#AIAgents #AgentSkills",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070975516375400952"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070975516375400952"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@mattworkman Tell to your AI agent that install the latest hyperframes skills with npx skills add heygen-com/hyperframes and it'll make a video for you 🤣",
+        "likes": 0,
+        "url": "https://x.com/i/status/2070973499598917649"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070973499598917649"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2070904316550902078",
+      "author": "FellMentKE",
+      "text": "How To Make $5k+/Month With AI Girls Using Claude + Fanvue MCP 📘",
+      "likes": 221,
+      "views": 0,
+      "url": "https://x.com/i/status/2070904316550902078",
+      "is_kol": false,
+      "score": 1183.0
+    },
+    {
+      "id": "2070910488335229205",
+      "author": "ClusterProtocol",
+      "text": "MCP, A2A, x402: The Open Stack Nobody Owns",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2070910488335229205",
+      "is_kol": false,
+      "score": 953.0
+    },
+    {
+      "id": "2071049179124633800",
+      "author": "QwolfAi",
+      "text": "20 minutes from clone to first working skill, which is the real flex. most agent frameworks make you fight the abstractions for a whole afternoon before anything runs. this one just gets out of your way",
+      "likes": 114,
+      "views": 0,
+      "url": "https://x.com/i/status/2071049179124633800",
+      "is_kol": false,
+      "score": 897.0
+    },
+    {
+      "id": "2070853591192195076",
+      "author": "ZahidulIsl65224",
+      "text": "How to Learn Claude in 12 Days\n\n(This will save you 2+ hours every day)\n\nMost people use Claude like a chatbot.\n\nAsk a question. Get an answer. Repeat.\n\nBig mistake.\n\nClaude is becoming an operating system for knowledge work.\n\nHere's a 12-day roadmap based on real Claude workflow",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2070853591192195076",
+      "is_kol": false,
+      "score": 657.0
+    },
+    {
+      "id": "2071153298950799868",
+      "author": "mattpocockuk",
+      "text": "Folks are asking me to make a /research skill, but I'm not sure.\n\nThe skill would:\n\n- Run a research agent in the background\n- Tell it to save its results to a .md file\n- Tell it to continue its original activity (probably grilling) if possible\n\nI tend to just say that verbatim -",
+      "likes": 190,
+      "views": 0,
+      "url": "https://x.com/i/status/2071153298950799868",
+      "is_kol": false,
+      "score": 590.0
+    },
+    {
+      "id": "2070885525154902331",
+      "author": "patilvishi",
+      "text": "Evolution of APIs\n\n1960s → Function Calls (same process)\n⬇️\n1970s–1980s → RPC (Remote Procedure Call)\n⬇️\n1990s → SOAP & XML Web Services\n⬇️\n2000s → REST APIs\n⬇️\n2010s → GraphQL & gRPC\n⬇️\n2020s → Event-Driven APIs, Async APIs & AI Tool APIs (MCP)\n\nEvery generation solved a differe",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2070885525154902331",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2070932707970785312",
+      "author": "0x_fokki",
+      "text": "🚨 ANTHROPIC QUIETLY DROPPED THEIR OWN OFFICIAL SKILLS REPO\n\nEveryone's chasing third-party Claude Code configs. Meanwhile Anthropic open-sourced their own, and it's already at 149,000 stars.\n\nThese are skills: little folders that teach Claude how to do a specific job, the right w",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2070932707970785312",
+      "is_kol": false,
+      "score": 434.0
+    },
+    {
+      "id": "2071141574076178488",
+      "author": "cyrilXBT",
+      "text": "LOOP ENGINEERING IS REPLACING PROMPT ENGINEERING.\n\nPrompt engineering was about writing the perfect instruction once.\n\nLoop engineering is about building the system that prompts itself, checks its own work, and runs without you in the room.\n\nBoris Cherny, who runs Claude Code at ",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2071141574076178488",
+      "is_kol": false,
+      "score": 342.0
+    },
+    {
+      "id": "2071089457046925675",
+      "author": "sripathiteja4",
+      "text": "record a human once, get a reusable agent skill. that's the whole game now. everything else is details.",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2071089457046925675",
+      "is_kol": false,
+      "score": 324.0
+    },
+    {
+      "id": "2071155505699942882",
+      "author": "ZackKorman",
+      "text": "Ways you’ll get hacked by AI:\n1. Openclaw with prod access.\n2. Malicious skill.\n3. Compromised MCP server.\n… \n999. Threat actor with Mythos.",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2071155505699942882",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2070966184967864667",
+      "author": "ridark_eth",
+      "text": "Peter Steinberger Quietly Started A Shift That Makes Claude 35x Cheaper To Run\n\nThe way Claude Code talks to tools matters more than people think. Most use MCP, and it quietly eats tokens, it loads everything into context every time, even tools you never call. One benchmark: MCP ",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2070966184967864667",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2071047272339845593",
+      "author": "Hyde_ai3",
+      "text": "🚀 A Japanese developer discovered the ultimate Claude Code hack before anyone else.\n\nJust install the skill **‘Find Skills’** and ask:\n\n> “Is there any good skill for [YOUR GOAL]?”\n\nClaude instantly applies the perfect skills for your project.\n\nThanks to this trick, his fully aut",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2071047272339845593",
+      "is_kol": false,
+      "score": 298.0
+    },
+    {
+      "id": "2070909224683467032",
+      "author": "UpRockCom",
+      "text": "Let's Ask ChatGPT to Do \nSomething It Definitely Can't Do.\n\n“Watch this video and tell me the top 5 visual gags.”\n\nNot what people said.\nWhat actually happened on screen.\n\nNormally, that's impossible. LLMs can read text. Some can summarize transcripts. But they can't actually *wa",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2070909224683467032",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2071058251701997910",
+      "author": "neil_xbt",
+      "text": "Data center compute costs $30,000/year to run the kind of self-improving AI agent that now fits on a desktop with an RTX 3090!\n\nHermes Agent writes its own skills from experience. Completes a complex task, saves the procedure as a skill file on disk, and the next time it needs to",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2071058251701997910",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2071108863277818216",
+      "author": "Lydia__AI",
+      "text": "One thing that stood out here.\n\nA single human recording can bootstrap a reusable skill for an AI agent.\n\nThis feels closer to the agentic macro moment people have been talking about for years.\n\nWatching this repo closely. Would not be surprised to see it hit GitHub Trending.",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2071108863277818216",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2070909781825740998",
+      "author": "Bober_smart",
+      "text": "How To Make $5k+/Month With AI Girls Using Claude + Fanvue MCP",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2070909781825740998",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2071136501937872956",
+      "author": "makaneko_AI",
+      "text": "【裏技】CodexからGPT-5.5 Proを相談役として呼ぶSkillが便利すぎる",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2071136501937872956",
+      "is_kol": false,
+      "score": 232.0
+    }
+  ]
+}
