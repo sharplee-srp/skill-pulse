@@ -1,0 +1,566 @@
+{
+  "date": "2026-06-29",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 164,
+    "tweets_with_repos": 19,
+    "unique_repos": 18,
+    "new_repos": 12,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "repoprompt/repoprompt-ce",
+      "github_url": "https://github.com/repoprompt/repoprompt-ce",
+      "tier": 2,
+      "is_new": true,
+      "score": 1869.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 473,
+      "total_retweets": 70,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dotey",
+        "text": "RepoPrompt 已经开源了，社区版（Community Edition）已上线 GitHub。\n\n背后的故事是这样的：几个月前，OpenAI 开发者体验负责人 Romain Huet 找到 Provencher，邀请他加入 OpenAI 团队。Provencher 答应之前提了一个条件，要先安排好现有付费用户。于是 Repo Prompt 先免费开放，现在彻底开源。\n\nRepo Prompt 最初只做一件事：帮开发者从代码仓库里挑选文件，拼成一段高质量的 prompt，然后复制粘贴到 ChatGPT 或 Claude 里。听起来很简单，但它切中了一",
+        "likes": 473,
+        "url": "https://x.com/i/status/2071348102263378085"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071348102263378085"
+      ]
+    },
+    {
+      "repo": "cobusgreyling/loop-engineering",
+      "github_url": "https://github.com/cobusgreyling/loop-engineering",
+      "tier": 3,
+      "is_new": true,
+      "score": 405.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mikenevermiss",
+        "text": "this is f*cking dangerous\n\nsomeone just open sourced the entire \"LOOP ENGINEERING\" framework for free\n\nthe guy who built Claude Code at Anthropic said it himself:\n\n\"I don't prompt Claude anymore. I have loops running that prompt Claude. My job is to write loops.\n\nstop prompting y",
+        "likes": 90,
+        "url": "https://x.com/i/status/2071513914504802525"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071513914504802525"
+      ]
+    },
+    {
+      "repo": "pavelevich/llm-checker",
+      "github_url": "https://github.com/pavelevich/llm-checker",
+      "tier": 3,
+      "is_new": true,
+      "score": 358.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "🤖 LLM Checker – Find the Best Local AI Model for Your Hardware\n\nLLM Checker is an open-source CLI that analyzes your hardware and recommends the best local Large Language Models (LLMs) based on VRAM, RAM, GPU, CPU, memory bandwidth, and runtime compatibility. It uses a determinis",
+        "likes": 66,
+        "url": "https://x.com/i/status/2071309562255384779"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071309562255384779"
+      ]
+    },
+    {
+      "repo": "vibheksoni/stealth-browser-mcp",
+      "github_url": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 196.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "🤖 Stealth Browser MCP – Undetectable Browser Automation for AI Agents\n\nStealth Browser MCP is an open-source MCP server that gives AI agents undetectable browser automation using Chrome DevTools Protocol and nodriver. It bypasses Cloudflare, Queue-It, and other anti-bot protectio",
+        "likes": 32,
+        "url": "https://x.com/i/status/2071488916969103628"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071488916969103628"
+      ]
+    },
+    {
+      "repo": "jessastrid/matchclaws",
+      "github_url": "https://github.com/jessastrid/matchclaws",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adJAstra",
+        "text": "With 1.6k+ downloads on ClawHub from the @openclaw community, MatchClaws is now on skills sh and @NousResearch Hermes skills tap add too! \n\nYou can now just \"npx skills add jessastrid/matchclaws\" and ask any agents to equip the MatchClaws skill. \n\nIf you have Hermes, tell your ag",
+        "likes": 4,
+        "url": "https://x.com/i/status/2071572666595909687"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071572666595909687"
+      ]
+    },
+    {
+      "repo": "gromykoss/hermes-skills",
+      "github_url": "https://github.com/gromykoss/hermes-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RobotsTJ500",
+        "text": "🜁 Paperclip now ships Hermes Agent as a built-in adapter. So I published our production skills on https://t.co/dRORpnik3c.\n\n6 battle-tested patterns from the Hermes Agent ecosystem:\n\n• loop-engineering — autonomous agent loops\n• context-optimization — 4 context engineering strate",
+        "likes": 2,
+        "url": "https://x.com/i/status/2071308534826828139"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071308534826828139"
+      ]
+    },
+    {
+      "repo": "ksimback/looper",
+      "github_url": "https://github.com/ksimback/looper",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nghienaivn",
+        "text": "Looper: Công cụ giúp bạn thiết kế Agent Loop trước khi đốt hàng triệu token\n\nGần đây cộng đồng Claude Code và Codex bắt đầu nói nhiều về một khái niệm mới gọi là Loop Engineering.\n\nĐó cũng là lý do Kevin Simback tạo ra Looper. Đây là một skill mã nguồn mở dành cho Claude Code, ho",
+        "likes": 3,
+        "url": "https://x.com/i/status/2071530498388873656"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071530498388873656"
+      ]
+    },
+    {
+      "repo": "tencentcloud/tencentdb-agent-memory",
+      "github_url": "https://github.com/tencentcloud/tencentdb-agent-memory",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ignis_code",
+        "text": "7 powerful GitHub skills/tools I actually use or keep an eye on:\n\n1. TencentDB-Agent-Memory\n   ~6.3k stars\n\nA local long-term memory system for AI agents.\n\nUseful when you want agents like OpenClaw or Hermes to remember workflows, project context, and repeated instructions instea",
+        "likes": 2,
+        "url": "https://x.com/i/status/2071381272287666300"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071381272287666300"
+      ]
+    },
+    {
+      "repo": "imshreekumarops/viral-product-by-marclou",
+      "github_url": "https://github.com/imshreekumarops/viral-product-by-marclou",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imshreekumar",
+        "text": "Turned this principles into skill file for your agent .\n\ninstall it using command.\n\nnpx skills add imshreekumarOPS/viral-product-by-marclou\n\nor get it from here directly , link in reply",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071553913195762162"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071553913195762162"
+      ]
+    },
+    {
+      "repo": "bypass/vibe-coded-detection",
+      "github_url": "https://github.com/bypass/vibe-coded-detection",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "redisMQ",
+        "text": "@vivoplt npx skills add bypass/vibe-coded-detection",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071274826875248703"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071274826875248703"
+      ]
+    },
+    {
+      "repo": "sicksand/electiondata-my-skill",
+      "github_url": "https://github.com/sicksand/electiondata-my-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shafiqmustapa",
+        "text": "Aku buat skill untuk https://t.co/ifW7Sp4RDP dari @Thevesh . So sesiapa yang ada hermes atau openclaw atau mana2 agentic ai, boleh install di sini https://t.co/xqXhcnn3CN (please ⭐) https://t.co/i9kPZ3X5if",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071556297347174853"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071556297347174853"
+      ]
+    },
+    {
+      "repo": "friebetill/skills",
+      "github_url": "https://github.com/friebetill/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TillFriebe",
+        "text": "An UX advisor skill for Claude Code/Codex grounded in 26 books on design, psychology, engagement and learning science, from Don't Make Me Think to Alchemy to Atomic Habits.\n\nhttps://t.co/RuhGLdiKvu",
+        "likes": 0,
+        "url": "https://x.com/i/status/2071525251666628706"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071525251666628706"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 268.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UT_Codex",
+        "text": "【衝撃】\nCodexのtext-to-lottieスキルが大幅アップグレードされた😳\n\nデザインの質・モーションの自然さ・修正回数の3つが同時に改善\n\nhttps://t.co/pQlwaMjKp9\n\n・デザイン判断がランダムでなくなった\n・モーションの完成度が上がった\n・手直しが減った\n\n$ npx skills add diffusionstudio/lottie\nCodex / Claude Code / Cursor、どれからでも使えるスキル形式で配布されている\n\nアニメ素材の修正ループがだいぶ短くなった\nデザイナーなしで試作を回せる段階、そこに",
+        "likes": 21,
+        "url": "https://x.com/i/status/2071349170343186483"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071575886369833349",
+        "https://x.com/i/status/2071349170343186483"
+      ]
+    },
+    {
+      "repo": "capminal/agent-skills",
+      "github_url": "https://github.com/capminal/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AndreaPN",
+        "text": "1/3 Base B20 document available 🟦\n\nI just created a skill so any personal AI Agent (openclaw, hermes, etc.) can launch a @base B20 token the moment it goes live on Base Mainnet.\n\nThe skill is called 'morse-launch-b20'. You can install it now, then wait for B20 to activate on Base",
+        "likes": 17,
+        "url": "https://x.com/i/status/2071169178376290370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071169178376290370"
+      ]
+    },
+    {
+      "repo": "eliaalberti/dcode-agent-kit",
+      "github_url": "https://github.com/eliaalberti/dcode-agent-kit",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliaAlberti",
+        "text": "@rohanpaul_ai Would it find this skill? 😜\n\nhttps://t.co/V32tkUQzA3\n\nOne skill to create a fully working AI Agent (bye bye @Hermes @openclaw )\n\nWorks with ANY LLMs including local ones.\nAdd any MCPs \nAdd any Skills to it\n\nUp and running in less than 5min\n\nYour own AI Agent ready!",
+        "likes": 3,
+        "url": "https://x.com/i/status/2071184045283975667"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071184045283975667"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "whetstoneresearch/doppler-skills",
+      "github_url": "https://github.com/whetstoneresearch/doppler-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dopplerprotocol",
+        "text": "All 7 install in one line ↓\n\nnpx skills add whetstoneresearch/doppler-skills \n\nhttps://t.co/i1ADPf1Pr8",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071576941518594343"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071576941518594343"
+      ]
+    },
+    {
+      "repo": "iamvishal16/swiftui-microinteractions",
+      "github_url": "https://github.com/iamvishal16/swiftui-microinteractions",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamvishal16_ios",
+        "text": "npx skills add iAmVishal16/swiftui-microinteractions \nhttps://t.co/VzRfDE5Xpb",
+        "likes": 1,
+        "url": "https://x.com/i/status/2071277228277543119"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2071277228277543119"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2071491345626403190",
+      "author": "pieverse_io",
+      "text": "Your agent watches the market. 📈\n\nTry asking Purr-Fect Claw: “Check the live xStock price for TSLA.”\n\nUse the @krakenfx Skill to check live xStock prices, review orders, and execute trades right from chat.\n\nTest it out today: https://t.co/hkyMy1xazn https://t.co/KfmWcJ3TAc",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2071491345626403190",
+      "is_kol": false,
+      "score": 1136.0
+    },
+    {
+      "id": "2071427259966058847",
+      "author": "Subit_Crypto",
+      "text": "g m everyone \n\nOne day, someone will search your name.\n\nWhat they find depends on what you do today.\n\nEvery post you write, every skill you learn, every promise you keep, and every person you help becomes part of your reputation.\n\nMost people quit because they expect big results ",
+      "likes": 347,
+      "views": 0,
+      "url": "https://x.com/i/status/2071427259966058847",
+      "is_kol": false,
+      "score": 1056.0
+    },
+    {
+      "id": "2071329359680639283",
+      "author": "AseemShrey",
+      "text": "Agree with Pieter. Since moving my setup to a home server, the workflow has been surprisingly smooth. I just SSH in and work inside a tmux session.\n\nTwo things I’ve added on top:\n\n1. Nginx routing so any app running on a port automatically gets a subdomain, like 3214.<domain>, wi",
+      "likes": 269,
+      "views": 0,
+      "url": "https://x.com/i/status/2071329359680639283",
+      "is_kol": false,
+      "score": 852.0
+    },
+    {
+      "id": "2071400263014056387",
+      "author": "AiwithYasir",
+      "text": "🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS\n\nAndrej Karpathy, co-founder of OpenAI, posted something simple that hit 16 million views. Stop using AI to write code for a minute. Use it to build yourself a second brain instead.\n\nYou point Claude Code at a ",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2071400263014056387",
+      "is_kol": false,
+      "score": 830.0
+    },
+    {
+      "id": "2071430227545251910",
+      "author": "ZachSDaniel1",
+      "text": "I could not disagree more. \n\nYou can scope an agent to a folder. You can arrange a monorepo any way you like. Every team without a monorepo inevitably builds some \"fetch all my repos and provide them to an agent as context\" and then has to open 10 pull requests that must be merge",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2071430227545251910",
+      "is_kol": false,
+      "score": 500.0
+    },
+    {
+      "id": "2071487884880970213",
+      "author": "milesdeutscher",
+      "text": "Turn Claude Code into your personal finance assistant in <60 seconds.\n\nIt can research trending AI subsectors (robotics), analyse tickers like $SPCX, conduct deep research while you sleep & more.\n\nAll directly in your terminal.\n\nHere's how to connect it in just <60 seconds:\n\n1. O",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2071487884880970213",
+      "is_kol": false,
+      "score": 500.0
+    },
+    {
+      "id": "2071413487973380179",
+      "author": "sequencetraders",
+      "text": "Beberapa hari lalu gw cerita soal Second Brain yang gw bikin knowledge base pribadi yang nyimpen semua setup, strategi, diskusi, dan config.\n\nDan gw janji mau bikin tutorialnya.\n\nNah, ini dia. 9 langkah dari 0 sampe Second Brain siap pakai.\n\nMulai dari install Obsidian → plugin →",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2071413487973380179",
+      "is_kol": false,
+      "score": 451.0
+    },
+    {
+      "id": "2071334232585036129",
+      "author": "tom_doerr",
+      "text": "Self-learning Claude Code plugin building permanent memory and workflows from corrections\n\nhttps://t.co/cjSvFofv18 https://t.co/j3f0RT06P9",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2071334232585036129",
+      "is_kol": false,
+      "score": 445.0
+    },
+    {
+      "id": "2071532915046154645",
+      "author": "dappOS_com",
+      "text": "Bubble Code Vs. Centralized AI Coding Tools\n\nBubble Code is not just another AI coding tool. It is a more Web3-native way to build software.\n\nAI coding tools are powerful. They can generate apps, fix code, connect APIs, and help users ship faster.\n\nBut when a product moves from a",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2071532915046154645",
+      "is_kol": false,
+      "score": 425.0
+    },
+    {
+      "id": "2071389228890824718",
+      "author": "RhysSullivan",
+      "text": "Executor 1.5.22 is here, here's everything that shipped!  \n\nToolkits - These let you create an MCP server which exposes a subset of tools to your agent  \n\nStill playing with what the best implementation is here, but it lets you create specialized views to expose subsets of tools ",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2071389228890824718",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2071361444315279674",
+      "author": "DratchCap",
+      "text": "If you have not set up codex personally and started building some repeatable workflows (an AM brief, an X scrape based on your interests, podcast scrape, whatever) I think you are really missing out — especially if you are investing in the space.\n\nSo many of the debates the marke",
+      "likes": 137,
+      "views": 0,
+      "url": "https://x.com/i/status/2071361444315279674",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2071535177126277239",
+      "author": "ryancarson",
+      "text": "Every time you think you need a dashboard to look at data, stop yourself. \n\nDo this instead:\n\n1. Ask your agent to make sure that you have all the data to analyze something actually stored in the database.\n\n2. Ask your agent to write a skill to gather that data.\n\n3. Ask your agen",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2071535177126277239",
+      "is_kol": false,
+      "score": 417.0
+    },
+    {
+      "id": "2071463398919848417",
+      "author": "its_jeenna",
+      "text": "The best market content doesn't come from copying charts.\n\nIt comes from asking better questions.\n\nThat's what I've been using CMC Agent Hub for. With 200+ Skills covering Bitcoin, on-chain data, institutional flows, trading setups, macro trends, and individual coins, it's a prac",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2071463398919848417",
+      "is_kol": false,
+      "score": 375.0
+    },
+    {
+      "id": "2071539446059610459",
+      "author": "fofrAI",
+      "text": "I'm using this skill for everything an agent writes now. Huge quality of life improvement. https://t.co/8SvnhbL6eo",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2071539446059610459",
+      "is_kol": false,
+      "score": 358.0
+    },
+    {
+      "id": "2071510374763934037",
+      "author": "vikktorrrre",
+      "text": "AI is the biggest skill gap of the decade\nand the courses to close it cost $0\n\nhere are 7 free ones anybody can finish in a day\n\n- Anthropic AI fluency course: https://t.co/wg0lbhZkml\n\n> how to think about ai \n> understand the role of ai in a business \n> based around a framework ",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2071510374763934037",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2071418374576566783",
+      "author": "neil_xbt",
+      "text": "Most AI agents forget what worked yesterday. They do not get better with use. They are functions with personalities rather than agents in any meaningful sense!\n\nHermes is different in one specific technical way. \nIt writes its own skills!\n\nWhen Hermes completes a complex task, it",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2071418374576566783",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2071465812150669560",
+      "author": "ai_explorer25",
+      "text": "The MCP Standard That's Quietly Becoming the USB-C of AI",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2071465812150669560",
+      "is_kol": false,
+      "score": 231.0
+    }
+  ]
+}

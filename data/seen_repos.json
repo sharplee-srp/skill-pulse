@@ -4182,5 +4182,53 @@
   "xbtlin/ai-berkshire": {
     "first_seen": "2026-06-28",
     "tier": 3
+  },
+  "repoprompt/repoprompt-ce": {
+    "first_seen": "2026-06-29",
+    "tier": 2
+  },
+  "cobusgreyling/loop-engineering": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "pavelevich/llm-checker": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "vibheksoni/stealth-browser-mcp": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "jessastrid/matchclaws": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "gromykoss/hermes-skills": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "ksimback/looper": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "tencentcloud/tencentdb-agent-memory": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "imshreekumarops/viral-product-by-marclou": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "bypass/vibe-coded-detection": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "sicksand/electiondata-my-skill": {
+    "first_seen": "2026-06-29",
+    "tier": 3
+  },
+  "friebetill/skills": {
+    "first_seen": "2026-06-29",
+    "tier": 3
   }
 }
