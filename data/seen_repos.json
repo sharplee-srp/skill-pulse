@@ -4230,5 +4230,65 @@
   "friebetill/skills": {
     "first_seen": "2026-06-29",
     "tier": 3
+  },
+  "karpathy/442a6bf555914893e9891c11519de94f": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "badchars/darknet-mcp-server": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "emilkowalski/skills": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "zhanlincui/agent-skills-hunter": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "jturntdev/krypton": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "warpdotdev-demos/cloud-factory-demo": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "opensquilla/opensquilla": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "6022-labs/agentic-plugins": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "alok-mad98/solana-multisig-ceremony-skill": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "pengelbrecht/skills": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "danoszz/penthera": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "thedotmack/claude-mem": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "fracazo/don-draper-skill": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "stakekit/agentkit": {
+    "first_seen": "2026-06-30",
+    "tier": 3
+  },
+  "agentchengfeng/chengfeng-videocut-skills": {
+    "first_seen": "2026-06-30",
+    "tier": 3
   }
 }
