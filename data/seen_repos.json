@@ -4290,5 +4290,29 @@
   "agentchengfeng/chengfeng-videocut-skills": {
     "first_seen": "2026-06-30",
     "tier": 3
+  },
+  "lianyanshe-ai/deribit-options-monitor": {
+    "first_seen": "2026-07-01",
+    "tier": 0
+  },
+  "zerob13/skills": {
+    "first_seen": "2026-07-01",
+    "tier": 3
+  },
+  "rebelytics/one-skill-to-rule-them-all": {
+    "first_seen": "2026-07-01",
+    "tier": 3
+  },
+  "video-db/call.md": {
+    "first_seen": "2026-07-01",
+    "tier": 3
+  },
+  "jal-co/shieldcn": {
+    "first_seen": "2026-07-01",
+    "tier": 3
+  },
+  "gitbookio/gitbook-skills": {
+    "first_seen": "2026-07-01",
+    "tier": 3
   }
 }
