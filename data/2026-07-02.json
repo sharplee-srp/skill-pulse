@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-02",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 19,
+    "unique_repos": 19,
+    "new_repos": 13,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "ifixai-ai/ifixai",
+      "github_url": "https://github.com/ifixai-ai/ifixai",
+      "tier": 2,
+      "is_new": true,
+      "score": 1440.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 320,
+      "total_retweets": 76,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivyanshT91162",
+        "text": "50 USEFUL GITHUB REPOS \n\n1. iFixAi — AI misalignment testing\n→ https://t.co/70ZaaoerS3\n\n2. public-apis — free APIs for everything\n→ https://t.co/x0Lqj0ww9B\n\n3. build-your-own-x — learn by building\n→ https://t.co/B90mE5QXL7\n\n4. developer-roadmap — learn any tech skill\n→ https://t.",
+        "likes": 320,
+        "url": "https://x.com/i/status/2072415161374343198"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072415161374343198"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS \n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP…\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https:/",
+        "likes": 25,
+        "url": "https://x.com/i/status/2072618061413417224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072618061413417224"
+      ]
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "github_url": "https://github.com/public-apis/public-apis",
+      "tier": 3,
+      "is_new": true,
+      "score": 153.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smratitiwa86867",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n   → https://t.co/zny7t98k79\n\n2. public-apis — free APIs for everything\n   → https://t.co/x28IFXicmk\n\n3. build-your-own-x — learn by building\n   → https://t.co/xZSvMD9lqk\n\n4. developer-roadmap — learn any tech skill\n   →",
+        "likes": 11,
+        "url": "https://x.com/i/status/2072589257039020068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072589257039020068"
+      ]
+    },
+    {
+      "repo": "zincio/skills",
+      "github_url": "https://github.com/zincio/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ianjanicki",
+        "text": "Need to send donuts to your leads automatically?\n\nJust sent @merit_systems @krispykreme doughnuts doughnuts all via an agent using @zincdotcom's new agent skill\n\nNo clicking. No navigating. Just add: \nnpx skills add zincio/skills --skill universal-checkout https://t.co/ImG0oYIZfR",
+        "likes": 9,
+        "url": "https://x.com/i/status/2072353476298899728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072353476298899728"
+      ]
+    },
+    {
+      "repo": "vendurehq/vendure",
+      "github_url": "https://github.com/vendurehq/vendure",
+      "tier": 3,
+      "is_new": true,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vendure_io",
+        "text": "Vendure Core v3.7 adds first-class CLI commands and Agent Skills.\n\nRun, build, start, and diagnose projects with vendure dev, build, start, and doctor.\n\nAdd Vendure skills to your coding agent with:\n\nnpx skills add vendurehq/vendure https://t.co/Vs9bkz9svY",
+        "likes": 2,
+        "url": "https://x.com/i/status/2072598063584076008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072598063584076008"
+      ]
+    },
+    {
+      "repo": "letstri/permix",
+      "github_url": "https://github.com/letstri/permix",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "letstri",
+        "text": "If anyone still doesn't understand how to get started, this is for you:\n\nnpx skills add letstri/permix",
+        "likes": 5,
+        "url": "https://x.com/i/status/2072618540322951544"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072618540322951544"
+      ]
+    },
+    {
+      "repo": "1771-technologies/lytenyte",
+      "github_url": "https://github.com/1771-technologies/lytenyte",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "silvanrec",
+        "text": "el repo está abierto en github. la instalación es una línea: npx skills add 1771-technologies/lytenyte",
+        "likes": 5,
+        "url": "https://x.com/i/status/2072384282367013003"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072384282367013003"
+      ]
+    },
+    {
+      "repo": "uniswap/uniswap-ai",
+      "github_url": "https://github.com/uniswap/uniswap-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UniswapBuilders",
+        "text": "Open infrastructure for agents\n\nAnyone can ship new apps on Robinhood Chain with Uniswap Skills\n\nnpx skills add Uniswap/uniswap-ai https://t.co/rzyTwjmEZY",
+        "likes": 1,
+        "url": "https://x.com/i/status/2072407504538030175"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072407504538030175"
+      ]
+    },
+    {
+      "repo": "biotender-max/awesome-bio-agent-skills",
+      "github_url": "https://github.com/biotender-max/awesome-bio-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Junioryu136689",
+        "text": "I’ve just updated Awesome Bio Agent Skills with Claude Science-related skills.\nhttps://t.co/5OO7FHpXqK\nWhat makes Claude Science exciting is not that it is another “AI assistant for researchers,” but that Anthropic is turning life science tasks into executable and composable agen",
+        "likes": 1,
+        "url": "https://x.com/i/status/2072435470051807719"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072435470051807719"
+      ]
+    },
+    {
+      "repo": "ryannli/immersive-reading",
+      "github_url": "https://github.com/ryannli/immersive-reading",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Skillselion",
+        "text": "@ranli_thinker vetted + documented on https://t.co/JuZ2ykzCHk - install + the full breakdown:\nhttps://t.co/qLFHVOn2Ae\n\n/plugin marketplace add ryannli/immersive-reading  ·  or  npx skills add ryannli/immersive-reading\nMIT · claude code, codex, cursor + more",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072642813938798630"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072642813938798630"
+      ]
+    },
+    {
+      "repo": "zeddotes/nextjs-to-astro",
+      "github_url": "https://github.com/zeddotes/nextjs-to-astro",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trunkstump",
+        "text": "I did this enough to create a skill for it. \n\nYou probably don't need Next.js for your static site. Install the \"Next.js to Astro\" skill today and make your life easier. \n\nnpx skills add zeddotes/nextjs-to-astro\n\nhttps://t.co/bXZ2ewba8P",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072575340686532648"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072575340686532648"
+      ]
+    },
+    {
+      "repo": "blairhudson/foreman",
+      "github_url": "https://github.com/blairhudson/foreman",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "blairhudson",
+        "text": "Add to Codex, Claude Code, OpenCode etc with \n\nnpx skills add blairhudson/foreman --skill foreman",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072447275847348551"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072447275847348551"
+      ]
+    },
+    {
+      "repo": "agentskillos/skillanything",
+      "github_url": "https://github.com/agentskillos/skillanything",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maksdizzy",
+        "text": "7/ AgentSkillOS/SkillAnything (⭐449): make ANY software skill-native — auto-generate production-ready Agent Skills for Claude Code, OpenClaw &amp; Codex.\nhttps://t.co/1pqp8ehA0I",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072523023622570008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072523023622570008"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "microsoft/skillopt",
+      "github_url": "https://github.com/microsoft/skillopt",
+      "tier": 3,
+      "is_new": false,
+      "score": 178.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DailyDoseOfDS_",
+        "text": "Microsoft open-sourced SkillOpt!\n\nA framework for training agent skills like neural networks:\n\nSkillOpt treats a plain markdown file as the trainable parameter of a frozen LLM agent, applying the same optimization discipline used in weight training: learning rates, validation gat",
+        "likes": 26,
+        "url": "https://x.com/i/status/2072613760028840124"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072613760028840124"
+      ]
+    },
+    {
+      "repo": "hertzflow/hertzflow-skills",
+      "github_url": "https://github.com/hertzflow/hertzflow-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 142.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bigbottle44",
+        "text": "昨天体验了一下 @richpeach888 发我的 @Hertzflow_xyz  的Binance Alpha Skill产品，弄了一下CZ的书 只需要给自己AI添加个\nnpx skills add HertzFlow/hertzflow-skills \n就可以直接帮你装好，你可以输入任何Binance Alpha的CA，几分钟就可以获得这个CA:\n\n- 完整的庄家筹码分析（包括隐藏筹码）\n- 高价值链上异动（包括交易所批量分地址，批量转入）\n- 庄家/内幕获利情况分析\n- 入场位置分析\n#alphaskillcall",
+        "likes": 14,
+        "url": "https://x.com/i/status/2072515892228022405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072515892228022405"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zevweb3",
+        "text": "The dev setup is incredibly clean.\n\nYou can list your agent on a global marketplace with a single command: \"npx skills add okx/onchainos-skills\".\n\nIt works natively with Claude, GPT, OpenClaw, or any MCP-compatible client. No proprietary lock-ins.\n\nThe vision of \"One employee, on",
+        "likes": 2,
+        "url": "https://x.com/i/status/2072506268384886823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072506268384886823"
+      ]
+    },
+    {
+      "repo": "abhivarde/nothify-skill",
+      "github_url": "https://github.com/abhivarde/nothify-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "varde_abhi",
+        "text": "agent skills: `npx skills add abhivarde/nothify-skill`\n@VercelCommunity:  https://t.co/WKUqtH5Fab",
+        "likes": 2,
+        "url": "https://x.com/i/status/2072372951056597206"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072372951056597206"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "panniantong/agent-reach",
+      "github_url": "https://github.com/panniantong/agent-reach",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "k_koga555",
+        "text": "この前さ、バズってるをバグってるって書いてしまって恥ずかしいったらありゃしない笑\n気づいたのが編集可能時間を超えたから消せない😭\nいつもの便利なツール紹介、使ってみた内容もリプライに記載 #Claude #Cursor #Windsurf #OpenClaw #Codex #Hermes\n-------\n# Panniantong/Agent-Reach の機能・使い方・有用性まとめ\n\n## 概要\n\n**Agent Reach** は、Claude Code / Cursor / Windsurf / OpenClaw / Codex などのAIエージェ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2072616770620502299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072616770620502299"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2072479088661651612",
+      "author": "timsneath",
+      "text": "For web developers on Mac, good news! Safari is adding an MCP server so your agent can easily test, preview, and debug web content with @webkit. For example, @claude can now see what it's building without needing Playwright or other tools. More here: https://t.co/xQ38tQ2kGO",
+      "likes": 992,
+      "views": 0,
+      "url": "https://x.com/i/status/2072479088661651612",
+      "is_kol": false,
+      "score": 3556.0
+    },
+    {
+      "id": "2072380699386978492",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT TOKEN COSTS\nDROP SIGNIFICANTLY WITH THESE SETTINGS.\nMOST OF YOUR BILL COMES FROM BACKGROUND TASKS\nYOU SET UP WRONG. NOT FROM ACTIVE USE.\n\na software company ran Hermes across their whole team.\nmoved from OpenAI subscription to OpenRouter.\nfirst time they could see ex",
+      "likes": 581,
+      "views": 0,
+      "url": "https://x.com/i/status/2072380699386978492",
+      "is_kol": false,
+      "score": 2028.0
+    },
+    {
+      "id": "2072493924850028748",
+      "author": "santtiagom_",
+      "text": "algunos de los temas que estuve estudiando estos últimos meses:\n\n- context engineering (memory, RAG, context windows)\n- tool calling (MCP, structured outputs)\n- agent orchestration (workflows, skills, subagents, routing)\n- agent patterns (planner/executor, maker/checker, reflecti",
+      "likes": 559,
+      "views": 0,
+      "url": "https://x.com/i/status/2072493924850028748",
+      "is_kol": false,
+      "score": 1857.0
+    },
+    {
+      "id": "2072391955544412595",
+      "author": "sairahul1",
+      "text": "📂 AI Engineer\n┃\n┣ 📂 Introduction\n┃ ┣ 📂 What is an AI Engineer?\n┃ ┣ 📂 Roles & Responsibilities\n┃ ┣ 📂 Product Development Impact\n┃ ┣ 📂 AI Engineer vs ML Engineer\n┃ ┗ 📂 Career Paths\n┃\n┣ 📂 LLM Fundamentals\n┃ ┣ 📂 AI vs AGI\n┃ ┣ 📂 Large Language Models (LLMs)\n┃ ┣ 📂 Tokens\n┃ ┣ 📂 Context ",
+      "likes": 314,
+      "views": 0,
+      "url": "https://x.com/i/status/2072391955544412595",
+      "is_kol": false,
+      "score": 1307.0
+    },
+    {
+      "id": "2072415320187486635",
+      "author": "aleximarkett",
+      "text": "my timeline is absolutely cooked!!!\n\nAnthropic announces Fable is back and suddenly every AI, SaaS, dev tool, and tech company is like:\n\n“Fable is now live on our platform 🤝” \n“We support Fable MCP” \n“Build with Fable today”\n\nThe marketing was literally built by the internet!\n\nTh",
+      "likes": 307,
+      "views": 0,
+      "url": "https://x.com/i/status/2072415320187486635",
+      "is_kol": false,
+      "score": 941.0
+    },
+    {
+      "id": "2072604174466888073",
+      "author": "AIHighlight",
+      "text": "Loop Engineering: The Skill That Replaced Prompting",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2072604174466888073",
+      "is_kol": false,
+      "score": 599.0
+    },
+    {
+      "id": "2072453461007093870",
+      "author": "N_Taisho",
+      "text": "1PasswordがOpenAIと協業しコーディングエージェントに認証情報を直接渡さずに作業させる仕組みを提供。これいいな\n\n1Password Environments MCP Serverといい、ローカルのMCPサーバ経由で1Passwordに接続し、必要な権限だけをタスクごとに取得。認証情報は1Password側に残り、認可されたプロセスのメモリに注入される。\nhttps://t.co/MKoASeQbnB",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2072453461007093870",
+      "is_kol": false,
+      "score": 553.0
+    },
+    {
+      "id": "2072499557712507190",
+      "author": "rohanpaul_ai",
+      "text": "Very timely paper.\n\nMCP servers need clear design patterns because LLMs get confused when too many tools or vague tools are shown.\n\nThis paper explains how MCP servers should be structured so LLM tools stay useful, safe, and manageable.\n\ns MCP server design is not just normal API",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2072499557712507190",
+      "is_kol": true,
+      "score": 390.0
+    },
+    {
+      "id": "2072398138531541353",
+      "author": "CoinbaseDev",
+      "text": "Cloudflare is helping make x402 a core part of the web.\n\nNow any web page, API, dataset, or MCP tool can charge agents per request, settled in stablecoins like USDC and Open USD. ↓",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2072398138531541353",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2072439942773366840",
+      "author": "9to5mac",
+      "text": "Safari’s new MCP server lets coding agents inspect and debug websites https://t.co/TvsGXemWIM by @mvcmendes",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2072439942773366840",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2072359068522676353",
+      "author": "DataChaz",
+      "text": "🚨 STOP BURNING CLAUDE CODE LIMITS ON LONG DEV LOOPS\n\nYou know it: Claude Code is fantastic at coding, but extended workflows drain your limits fast.\n\nTasks like evaluating prompts, comparing models, debugging RAG, generating datasets, and running experiments get expensive quickly",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2072359068522676353",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2072390907425423419",
+      "author": "Bober_smart",
+      "text": "Analytical Breakdown of Technological Approaches for 2026: AI Trading Bots and Next-Gen Agentic Web3 Infrastructure\n\nThe evolution of automation systems in the crypto industry has led to a transition from rigid algorithmic scripts to open, decentralized execution environments. Be",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2072390907425423419",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2072352955781513373",
+      "author": "tom_doerr",
+      "text": "Markmap MCP Server converts Markdown text into interactive mind maps with export support\n\nhttps://t.co/GT30dwjmZs https://t.co/L9Vv7EE2n0",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2072352955781513373",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2072512389577416766",
+      "author": "ccy1871",
+      "text": "最近圈里都在聊小红书港股 IPO 的话题，但看完他们刚内测的 REDSkill，我觉得二级市场得重新给这家公司重新对标和估值了。以前是遇事不决小红书，它聚合的是高质量的消费决策。而 REDSkill 的出现，意味着它正在切入 AI 时代的原生流量分发权。\n\n目前大厂在 AI Skill 或 Agent 的布局上，普遍陷入了应用商店的传统思维，依赖用户产生明确需求后进行主动检索。这种高门槛的交互逻辑，极大阻碍了 AI 的 Mass Adoption（大众化普及）。\n\n相反小红书走向了内容即分发的路径，它将 AI 组件直接解构并嵌入到原生的笔记内容中。用户在",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2072512389577416766",
+      "is_kol": false,
+      "score": 254.0
+    },
+    {
+      "id": "2072478819911606431",
+      "author": "WuBlockchain",
+      "text": "Cloudflare Opens Waitlist for Stablecoin Monetization Gateway\n\nCloudflare, one of the world’s largest internet infrastructure providers, opened the waitlist for its Monetization Gateway, a new product that lets developers place any web page, dataset, API or MCP tool behind Cloudf",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2072478819911606431",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2072583553662263505",
+      "author": "coder_surya",
+      "text": "The best AI courses in 2026 are free.\n\nYour team has no excuse. Neither do you.\n\nGoogle, Anthropic, Microsoft, OpenAI, NVIDIA, IBM, AWS.\n\nThey’re giving away what used to cost thousands.\n\nHere are 12 free AI courses for leaders, teams, and builders:\n\nFOR LEADERS\n\n1. Google AI Ess",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2072583553662263505",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2072555857930256741",
+      "author": "MetaFinancialAI",
+      "text": "Latest Project Reviewed by Mefai | @BrigidForge\nThis profile is the exact opposite of a typical clone project.\n\nBrigid Forge is a BNB Smart Chain token launch and liquidity locking platform (\"launch your token, lock liquidity, enable real time tracking\"). Unlike many audited proj",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2072555857930256741",
+      "is_kol": false,
+      "score": 190.0
+    },
+    {
+      "id": "2072403011239051359",
+      "author": "Kyrannio",
+      "text": "X launched an MCP server so Claude can finally read my posts and develop the same neurological problems as everyone else",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2072403011239051359",
+      "is_kol": false,
+      "score": 186.0
+    }
+  ]
+}

@@ -4314,5 +4314,57 @@
   "gitbookio/gitbook-skills": {
     "first_seen": "2026-07-01",
     "tier": 3
+  },
+  "ifixai-ai/ifixai": {
+    "first_seen": "2026-07-02",
+    "tier": 2
+  },
+  "ollama/ollama": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "public-apis/public-apis": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "zincio/skills": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "vendurehq/vendure": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "letstri/permix": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "1771-technologies/lytenyte": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "uniswap/uniswap-ai": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "biotender-max/awesome-bio-agent-skills": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "ryannli/immersive-reading": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "zeddotes/nextjs-to-astro": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "blairhudson/foreman": {
+    "first_seen": "2026-07-02",
+    "tier": 3
+  },
+  "agentskillos/skillanything": {
+    "first_seen": "2026-07-02",
+    "tier": 3
   }
 }
