@@ -4366,5 +4366,45 @@
   "agentskillos/skillanything": {
     "first_seen": "2026-07-02",
     "tier": 3
+  },
+  "dabit3/cloud-stacked-diffs": {
+    "first_seen": "2026-07-03",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-ai-access": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "udohjeremiah/skills": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "kulaxyz/self-learning-skills": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "thibaultcastells/skills": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "fabricioctelles/skills": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "joeseesun/yt-search-download": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "valkey-io/valkey-skills": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "sponsors/safishamsi": {
+    "first_seen": "2026-07-03",
+    "tier": 3
+  },
+  "ivankuznetsov/hive": {
+    "first_seen": "2026-07-03",
+    "tier": 3
   }
 }

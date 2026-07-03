@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-03",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 16,
+    "unique_repos": 15,
+    "new_repos": 10,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "dabit3/cloud-stacked-diffs",
+      "github_url": "https://github.com/dabit3/cloud-stacked-diffs",
+      "tier": 2,
+      "is_new": true,
+      "score": 748.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 196,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dabit3",
+        "text": "Published my first agent skill today: Cloud Stacked Diffs ☁️\n\nnpx skills add dabit3/cloud-stacked-diffs\n\nIt orchestrates cloud agents to deliver large long running tasks as a stack of small, dependent draft PRs, reviewed and merged bottom-up instead of one giant PR.\n\nCombined w/ ",
+        "likes": 196,
+        "url": "https://x.com/i/status/2072856484350996496"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072856484350996496"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-ai-access",
+      "github_url": "https://github.com/joeseesun/qiaomu-ai-access",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "哎，为了用好模型，中国用户真的不容易...\n\n基于这个开源写了个检测 Skill，安装指令：\n\nnpx skills add joeseesun/qiaomu-ai-access\n\nSkill 开源地址：\nhttps://t.co/kFGoLawbUO https://t.co/kTpYBsqpQi",
+        "likes": 34,
+        "url": "https://x.com/i/status/2072859796647395377"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072859796647395377"
+      ]
+    },
+    {
+      "repo": "udohjeremiah/skills",
+      "github_url": "https://github.com/udohjeremiah/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "udohjeremiah_",
+        "text": "I just released an open-source collection of Agent Skills for JS/TS dev — ESLint, Prettier, TypeScript & Knip configs that any AI coding agent (Claude Code, Cursor, Codex, opencode...) can install and use.\n\nnpx skills add udohjeremiah/skills --skill ts-code-quality\n\nYou can inspe",
+        "likes": 2,
+        "url": "https://x.com/i/status/2072794662717297115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072869116243767419",
+        "https://x.com/i/status/2072794662717297115"
+      ]
+    },
+    {
+      "repo": "kulaxyz/self-learning-skills",
+      "github_url": "https://github.com/kulaxyz/self-learning-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lc777_eth",
+        "text": "最近看到一個蠻有趣的小工具：self-learning-skills\n\n它主要是給 Claude Code / Cursor / Codex 這類 AI coding agent 用的\n\n簡單講，就是讓 AI 在 Coding 的過程中，把這次學到的東西記下來，變成下次可以直接用的規則。\n\n很多人用 AI 寫 code 應該都有一個感覺：\n\n每次開新 session，AI 都像失憶一樣\n\n前面講過的專案邏輯、怎麼跑、哪些地方踩過坑、什麼做法不要再試，下次可能又要重新講一遍。\n\n這個工具想解決的就是這件事。\n\n它會把開發過程中真的有用的經驗，整理成 ski",
+        "likes": 29,
+        "url": "https://x.com/i/status/2072927020020007376"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072927020020007376"
+      ]
+    },
+    {
+      "repo": "thibaultcastells/skills",
+      "github_url": "https://github.com/thibaultcastells/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thibcastells",
+        "text": "Want to know when your reset credits expire?\n\nI made a skill for that:\n\nnpx skills add ThibaultCastells/skills --skill codex-reset-expiry https://t.co/VeRqfnRALg",
+        "likes": 2,
+        "url": "https://x.com/i/status/2072940144437629356"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072940144437629356"
+      ]
+    },
+    {
+      "repo": "fabricioctelles/skills",
+      "github_url": "https://github.com/fabricioctelles/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fctelles",
+        "text": "@heliotsx Opa!  Tenho uma skill de avaliação de skills, rodei na sua e gerei uma versão atualizada:\n\nnpx skills add fabricioctelles/skills -s revenue-centric-design\n\nAgora o comando traz as referencias, incluindo a licença, os guardrails do Richard embutidos e outras melhorias.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2072834645528310199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072834645528310199"
+      ]
+    },
+    {
+      "repo": "joeseesun/yt-search-download",
+      "github_url": "https://github.com/joeseesun/yt-search-download",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shanchargo",
+        "text": "扒 YouTube 字幕这活儿别接着受苦了兄弟们\n\n**yt-search-download** 这 Skill 名直白，干的就是搜索+下载+字幕\n\n1. npx skills add joeseesun/yt-search-download\n2. 配好 YouTube API Key，yt-dlp 记得常更新\n3. 搜主题最新视频，下字幕，英文标题还能自动翻中文",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072875223980880346"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072875223980880346"
+      ]
+    },
+    {
+      "repo": "valkey-io/valkey-skills",
+      "github_url": "https://github.com/valkey-io/valkey-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "avi_fenesh",
+        "text": "Building anything using @valkey_io, give your agent:\nnpx skills add valkey-io/valkey-skills \n\n#Codex\ncodex plugin marketplace add valkey-io/valkey-skills codex plugin install valkey \n\n#Claude\n/plugin marketplace add valkey-io/valkey-skills \n/plugin install valkey\nlink to repo 👇",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072838718130368744"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072838718130368744"
+      ]
+    },
+    {
+      "repo": "sponsors/safishamsi",
+      "github_url": "https://github.com/sponsors/safishamsi",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Kimberl9633",
+        "text": "今天 GitHub 上 AI agent 项目有三个值得注意的动向：知识图谱、网页代理、跨工具调用。\n\n1. graphify — 把你的代码、SQL schema、文档甚至图片视频直接变成可查询的知识图谱，支持 Claude Code、Codex、Cursor 等主流通用编码 agent。今天 937 stars。\n2. page-agent — 阿里开源的浏览器内 GUI agent，用自然语言控制网页界面。今天 949 stars，网页自动化又多了一个可选工程方案。\n3. codex-plugin-cc — 从 Claude Code 里调用 Co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073008531838841312"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073008531838841312"
+      ]
+    },
+    {
+      "repo": "ivankuznetsov/hive",
+      "github_url": "https://github.com/ivankuznetsov/hive",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ikuznetsov_com",
+        "text": "Hive v0.3.3 is out\n\nYou can run Hivebox web UI alongside the TUI, pair Telegram effortlessly and use the updated /hive OpenClaw skill, and run adversarial multi-agent review on any GitHub PR, even if it wasn’t made by Hive\n\nhttps://t.co/i8EKy1hMyF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072794810986176552"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072794810986176552"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "browser-use/video-use",
+      "github_url": "https://github.com/browser-use/video-use",
+      "tier": 3,
+      "is_new": false,
+      "score": 290.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 60,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_sakata",
+        "text": "you can edit videos with Claude Code 100% free and open source 😳\n\nno presets. no menus.\n\njust tell your agent what you want.\n\nwhat it does:\n\n- cuts filler words (umm, uh) and dead space between takes automatically\n- auto color grades every segment, warm cinematic, neutral punch, ",
+        "likes": 60,
+        "url": "https://x.com/i/status/2072958769521471578"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072958769521471578"
+      ]
+    },
+    {
+      "repo": "opensensenova/sensenova-skills",
+      "github_url": "https://github.com/opensensenova/sensenova-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iam_chonchol",
+        "text": "SenseTime released SenseNova skill library that plugs real office capabilities directly into AI agents — and the results speak for themselves.\n\nI ran a deep research task end-to-end: the agent planned the scope, gathered evidence across multiple sources, cross-validated findings,",
+        "likes": 21,
+        "url": "https://x.com/i/status/2072967819155943553"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072967819155943553"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "jal-co/shieldcn",
+      "github_url": "https://github.com/jal-co/shieldcn",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "solomonneas",
+        "text": "49 repos, 220 badges, all verified live.\n\nbrigade: https://t.co/whDOGF3xUV\nshieldcn: https://t.co/ixUa0Ezy19\n\nnpx skills add jal-co/shieldcn https://t.co/Uz5KWmkiRJ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072789560874967456"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072789560874967456"
+      ]
+    },
+    {
+      "repo": "simonlin1212/a-stock-data",
+      "github_url": "https://github.com/simonlin1212/a-stock-data",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jolyne_AI",
+        "text": "做 A 股数据分析，最麻烦的不是写策略，而是把数据先拿全：行情、研报、龙虎榜、北向、资金流、公告、财报，每一类接口都不一样，还经常改参数。\n\na-stock-data 是一个面向 AI 编程助手的 A 股全栈数据 Skill，把 13 个数据源封装成一套可直接调用的工具。\n\nGitHub：https://t.co/lIIBZlv7yr\n\n它的 README 写得很实在：7 层架构、28 个端点、直连 HTTP API，V3.0 之后彻底移除了 akshare 依赖。\n\n覆盖的数据层很全：\n- 行情层：K 线、五档盘口、逐笔成交、PE / PB / 市值、",
+        "likes": 0,
+        "url": "https://x.com/i/status/2072998290195701916"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2072998290195701916"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2072819391834751312",
+      "author": "RhysSullivan",
+      "text": "launching https://t.co/5F8Xyzg1Hw today!\n\nit's an open source catalog of every products MCP / API / CLI / GraphQL server and how to authenticate to them\n\ndeep links to generate api keys, 1 click copy spec urls, it's still early but i've been loving having it https://t.co/bfVcPwXA",
+      "likes": 1498,
+      "views": 0,
+      "url": "https://x.com/i/status/2072819391834751312",
+      "is_kol": false,
+      "score": 4899.0
+    },
+    {
+      "id": "2072838799600566724",
+      "author": "ARKAscendedNews",
+      "text": "‘ARK: DRAGONTOPIA’ pre-orders are now live for $29.99.\n\nPre-ordering unlocks immediately:\n• Eclipsar Umbra, a legendary obsidian dragon\n• Dragon Skill Tree progression system\n• Drake Claw Grappler for midair dragon mounting\n• Draconic Armor cosmetic set\n\nMore content rolls out be",
+      "likes": 1188,
+      "views": 0,
+      "url": "https://x.com/i/status/2072838799600566724",
+      "is_kol": false,
+      "score": 4259.0
+    },
+    {
+      "id": "2072891163502080053",
+      "author": "XFreeze",
+      "text": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announce",
+      "likes": 872,
+      "views": 0,
+      "url": "https://x.com/i/status/2072891163502080053",
+      "is_kol": false,
+      "score": 3876.0
+    },
+    {
+      "id": "2072933992895336871",
+      "author": "pieverse_io",
+      "text": "Your agent launches tokens. 🚀\n\nAsk Purr-Fect Claw: “Create an AI meme token with a presale.”\n\nUse the @fourdotmemezh Skill to create tokens, set presale and anti-sniper rules, and launch right from chat.\n\nTry it out today: https://t.co/aQJRsiUdQs https://t.co/oBnePk8OXK",
+      "likes": 307,
+      "views": 0,
+      "url": "https://x.com/i/status/2072933992895336871",
+      "is_kol": false,
+      "score": 1361.0
+    },
+    {
+      "id": "2072973167677653222",
+      "author": "WispOfDeFi",
+      "text": "Whales are making moves... but the market hasn't fully caught up yet.\n\nToday I used the monitor_whale_anomalies skill from CoinMarketCap Agent Hub to track unusual whale transfers across BTC, ETH, SOL, and USDT.\n\nHere's what immediately caught my attention:\n\n🔹SOL: led the market ",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2072973167677653222",
+      "is_kol": false,
+      "score": 473.0
+    },
+    {
+      "id": "2072893749655646293",
+      "author": "ice_bearcute",
+      "text": "5 ways to vibecode your portfolio (without making it look AI-generated) 👇\n\n1. @Lovable \n- easiest way to start\n- clean UI out of the box, but burns credits pretty fast\n\n2. AI agent + skill\n- use coding agents (claude, antigravity, codex, cursor,...) with a frontend/design skill l",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2072893749655646293",
+      "is_kol": false,
+      "score": 312.0
+    },
+    {
+      "id": "2072753725093863583",
+      "author": "iamchucky",
+      "text": "the creative agent just moved inside Claude.\n\n@Creatify_AI shipped an MCP server that puts Fable directly into your Claude environment, video ads, product management, memory across runtimes, all from the terminal.\n\n> no more switching between tools\n> your Creatify skills and cont",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2072753725093863583",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2072962580998656385",
+      "author": "shedntcare_",
+      "text": "Anthropic has just launched its first official technical certification.\n\nAnd almost no one knows it exists.\n\nAccenture is already training 30,000 people using it.\nDeloitte has opened up Claude to 470,000 employees.\nCognizant to 350,000.\n\nThat isn't experimenting. That is restruct",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2072962580998656385",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2072778857426682352",
+      "author": "TheRealNesfield",
+      "text": "The gap between marketers and developers is starting to disappear.\n\nCreativy MCP launch is a big reason why.\n\nCreatify putting its Creative Agent inside Claude means your coding agent now understands your marketing workflow too. \n\n> Build, generate video ads, manage products, and",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2072778857426682352",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2072857018948567384",
+      "author": "nowlovepan",
+      "text": "내가 필요한 사용하고싶은 ai도구 깃허브에서 찾는방법\n\n예를 들면 이런 식임\n\nmcp server stars:>100 pushed:>2026-06-01 archived:false\n\nprompt manager stars:>50 pushed:>2025-01-01 archived:false\n\npdf ai reader stars:>50 pushed:>2025-01-01 archived:false\n\nllm cost tracker stars:>50 pushed:>2025-01-01 archived:false",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2072857018948567384",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2072757445051797948",
+      "author": "RimonR23",
+      "text": "this kind of integration, it just makes so much sense.\n\nrun your stack through Claude x @Creatify_AI now, you're already ahead of where most people will be in a few months.\n\nno more starting from scratch every time, your creative agent finally remembers what you've been building.",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2072757445051797948",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2072758544231985406",
+      "author": "IamShakes_",
+      "text": "i think most marketing teams are still running their stack like it’s 2022.\n\none tool for creatives, another for analytics, another for distribution. everything is disconnected, and you’re constantly moving work from one platform to another.\n\nai gets added on top, but it still fee",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2072758544231985406",
+      "is_kol": false,
+      "score": 226.0
+    },
+    {
+      "id": "2072919363611713753",
+      "author": "HackQuest_",
+      "text": "Ready for kickoff? Welcome to the Injective Global Cup ⚽️\n\nBuild to level up your World Cup experience:\n🥷 Craft World Cup tools on @injective\n🥅 Use x402, CCTP, MCP Server or Agent Skills\n🏆 Win prizes + earn mini-game rewards\n🏟️ Launch products fans can actually use\n\n🗓️ Jul 3-19\nP",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2072919363611713753",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2072987979979837620",
+      "author": "xiaohu",
+      "text": "Browser Use 发布其 CLI 3.0\n\n它可以作为 skill 装进 Claude Code、Codex 里，让它们获得操控浏览器的能力\n\n3.0大升级：\n\n体积小 6 倍，更少的token消耗...\n\n直接 CDP 控制： 模型直接用 Chrome 底层协议（CDP）操作浏览器，不再经过 click()、type() 那种封装工具，也不用把整棵网页结构塞进上下文\n\n自我进化：用过的站点技能会沉淀复用，它摸索出来的登录流程、选择器、特殊情况会存成 domain-skills，下次碰到同类网站直接调，越用越顺\n\n缺函数当场自己写（自愈）：遇到没有",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2072987979979837620",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2072752878973051108",
+      "author": "NalyMetaX",
+      "text": "Having Creatify launch an MCP server means your creative execution tool is integrated directly into your central reasoning engine.\n\nYou can now use Claude and Fable to orchestrate your entire performance marketing stack from a single interface.\n\nGenerate high-converting video ads",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2072752878973051108",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2072762114658422827",
+      "author": "Moriarty_winn",
+      "text": "This MCP is about to split performance marketers into two groups, and the difference between them will be quite embarrassing lol.\n\nSince 2024, AI marketing meant tab-switching.\n\n> Prompt one tool for copy,\n> paste into another for video,\n> export, then upload to a third for produ",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2072762114658422827",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2072751683667468642",
+      "author": "darhtch",
+      "text": "This is the update we have all been waiting  for.\n\nMarketer can now but all the skill built with @Creatify_AI on the MCP server and use directly with claude and fable automation\n\n Marketers can now use their creative agent directly  while coding. Automation of marketing performan",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2072751683667468642",
+      "is_kol": false,
+      "score": 197.0
+    },
+    {
+      "id": "2072891060951437322",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.84! 🚀\n\nChangelog v0.2.84\n\nFeatures:\n• Announcements now update live during active sessions without restart or `/new`.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2072891060951437322",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2072761603485782385",
+      "author": "0xValmir",
+      "text": "Ok this MCP is actually useful, not the usual filler\n\nCreatify's creative agent lives inside Claude now, prompt straight to a shipped ad\n\n- One server, five skills\n- No more juggling four tabs for one ad\n\nBeen doing this manually way too long lol",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2072761603485782385",
+      "is_kol": false,
+      "score": 192.0
+    }
+  ]
+}
