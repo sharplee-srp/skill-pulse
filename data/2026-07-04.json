@@ -1,0 +1,598 @@
+{
+  "date": "2026-07-04",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 21,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "kunchenguid/firstmate",
+      "github_url": "https://github.com/kunchenguid/firstmate",
+      "tier": 2,
+      "is_new": true,
+      "score": 513.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 131,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kunchenguid",
+        "text": "not sure when it's okay to clear your context window with /compact or /clear? \n\nintroducing /stow - a context preservation skill that works across agent harnesses\n\ndifferent from compaction which summarizes and drops context, /stow persists it. it sweeps your session for stuff wo",
+        "likes": 131,
+        "url": "https://x.com/i/status/2073167155525509253"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073167155525509253"
+      ]
+    },
+    {
+      "repo": "letta-ai/skills",
+      "github_url": "https://github.com/letta-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sarahwooders",
+        "text": "When I tried Devin, I really liked the remote desktop - it made it easy to try out features the agent built, or for the agent to create demo videos\n\nSo I created a skill that uses @daytonaio to do the same thing, except with any agent (e.g. @Letta_AI)\n\nhttps://t.co/40AsXTAzkq",
+        "likes": 33,
+        "url": "https://x.com/i/status/2073176787916640641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073176787916640641"
+      ]
+    },
+    {
+      "repo": "leffx/universal",
+      "github_url": "https://github.com/leffx/universal",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xleff",
+        "text": "我造了一把万能钥匙，让任何 AI Agent 都能走进https://t.co/pAxHm8CLPl 经济体——不需要绑定任何框架，一行命令搞定。\n\nokxai-universal：开源 MCP 服务器，让 Claude Code / Cursor / Codex / Hermes 和所有 Agent 框架统一接入 https://t.co/wDZiKNfDbU\n\n<我能解决什么>\nhttps://t.co/wDZiKNfDbU 是个三天前刚上线的Agent 大商场——Agent 可以在里面找工作、互相雇佣、用 USDT 结算\n\n但问题是：每个 Agen",
+        "likes": 34,
+        "url": "https://x.com/i/status/2073076688733487233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073076688733487233"
+      ]
+    },
+    {
+      "repo": "gtrabanco/agentic-workflow",
+      "github_url": "https://github.com/gtrabanco/agentic-workflow",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gabrieltrabanco",
+        "text": "¿Prefieres seguir usando modelos de Anthropic con los tiers ajustados a mano por skill (los que este proyecto traía por defecto hasta ahora)? Instala la rama #claude:\n\nnpx skills add gtrabanco/agentic-workflow#claude\n\nTodo lo demás — el workflow, las skills, la disciplina — es id",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073191385243496715"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073191385243496715",
+        "https://x.com/i/status/2073191378935230761"
+      ]
+    },
+    {
+      "repo": "shadcncraft/skills",
+      "github_url": "https://github.com/shadcncraft/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 139.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamncdai",
+        "text": "If you’re using @shadcncraft,\nyou might want to give our skills a try!\n\nnpx skills add shadcncraft/skills",
+        "likes": 13,
+        "url": "https://x.com/i/status/2073070602106380663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073070602106380663"
+      ]
+    },
+    {
+      "repo": "ratel-ai/skills",
+      "github_url": "https://github.com/ratel-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ratelai",
+        "text": "rate your agent 1 to 10.\n\ni expected an 8.\nit scored a 5.8.\n\nturns out giving it 100 tools wasn't smart.\ni wouldn't want to read 100 pages every time someone asked me something either.\n\ncurious what you'd score.\nnpx skills add ratel-ai/skills --all https://t.co/dEyXNGGRqF",
+        "likes": 5,
+        "url": "https://x.com/i/status/2073097901451202681"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073097901451202681"
+      ]
+    },
+    {
+      "repo": "gabrielobholz/corner-smoothing-skill",
+      "github_url": "https://github.com/gabrielobholz/corner-smoothing-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "berryxia",
+        "text": "强迫症患处女座的人大喜！！\n终于可以拯救Codex Claude 在做UI 卡片设计的时候的不可控问题了。\n\n这个Skills 看着不错可以试试，我也安装了完了我试试效果如何。\n\n安装地址：npx skills add gabrielobholz/corner-smoothing-skill",
+        "likes": 4,
+        "url": "https://x.com/i/status/2073070556044550311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073070556044550311"
+      ]
+    },
+    {
+      "repo": "novals83/5min-btc-polymarket",
+      "github_url": "https://github.com/novals83/5min-btc-polymarket",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "Polymarket BTC 5分钟动量交易神器！\n\n在 Polymarket 的 BTC 5分钟 Up/Down 市场里，真正的高胜率机会往往出现在到期前最后几分钟。\n\n这个项目 5min-btc-polymarket 把这种「Momentum into Close」策略做成了可直接运行的 OpenClaw Skill：\n\n•  核心逻辑：到期前约2分钟，如果 BTC 在当前周期出现明显价格冲量（约 $70–$100），且市场偏斜与动量方向一致，就果断入场\n•  严格风控：提供 Conservative / Aggressive 双配置文件，支持单笔风",
+        "likes": 1,
+        "url": "https://x.com/i/status/2073264870104117340"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073264870104117340"
+      ]
+    },
+    {
+      "repo": "haoyiyin/easy-subtitle",
+      "github_url": "https://github.com/haoyiyin/easy-subtitle",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imhaoyi",
+        "text": "i turned my subtitle tool into an agent skill\n\nbuilt a subtitle recognition saas last year. openclaw dropped and it was dead before launch. a lot of people asked why i let it die.\n\ngeneral agents just ate the use case. simple workflows got replaced overnight, and the tools behind",
+        "likes": 1,
+        "url": "https://x.com/i/status/2073042888162996272"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073042888162996272"
+      ]
+    },
+    {
+      "repo": "linearuncle/linearskills",
+      "github_url": "https://github.com/linearuncle/linearskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "写了个小 skill：一键查 Codex 额度的重置次数和到期时间。\n \n一键安装skill：\nnpx skills add linearuncle/linearskills -s codex-rate-limit-reset-credits\n\nhttps://t.co/cl3z0yuTD1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073318238621139009"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073318238621139009"
+      ]
+    },
+    {
+      "repo": "uglyrobot/docsbot-agent-skills",
+      "github_url": "https://github.com/uglyrobot/docsbot-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "uglyrobot",
+        "text": "And if you want your own AI agent like Codex, Claude, Openclaw, Hermes, etc., to be able to fully administer your DocsBot account and bots, including creating, auditing, and optimizing your bot, tell it to install this skill here: https://t.co/hhFnT7jA5Y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073106103714410923"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073106103714410923"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ifixai-ai/ifixai",
+      "github_url": "https://github.com/ifixai-ai/ifixai",
+      "tier": 2,
+      "is_new": false,
+      "score": 629.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 128,
+      "total_retweets": 29,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DAIEvolutionHub",
+        "text": "50 USEFUL GITHUB REPOS \n\n1. iFixAi — AI misalignment testing\n→ https://t.co/iu8Yc7QWnV\n\n2. public-apis — free APIs for everything\n→ https://t.co/1u5LAowSWo\n\n3. build-your-own-x — learn by building\n→ https://t.co/BKnK2mXNu9\n\n4. developer-roadmap — learn any tech skill\n→ https://t.",
+        "likes": 128,
+        "url": "https://x.com/i/status/2073116658164707656"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073116658164707656"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 216.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jomolos",
+        "text": "AI Çağında THREE.JS:   \n\n⭕️Bölüm 5\n\nThree.js Game Skills: Codex ve Claude ile Playable Prototype Üretmek\n\nBu serinin kalbi burası. Çünkü artık tek tek sahne, kamera, input anlatmıyoruz; AI ajanına gerçek bir oyun üretim hattı veriyoruz. Majid Manzarpour’un threejs-game-skills rep",
+        "likes": 22,
+        "url": "https://x.com/i/status/2073309631003103652"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073309631003103652"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leploutos",
+        "text": "Des entreprises forcent Claude et Codex à parler comme des hommes des cavernes pour payer moins cher en tokens.\n\nLe plugin s'appelle caveman, créé en avril par Julius Brussee. Il vire la prose polie du modèle, les \"vous avez tout à fait raison de me corriger\", pour ne garder que ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2073329541632631082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073329541632631082"
+      ]
+    },
+    {
+      "repo": "elfa-ai/skills",
+      "github_url": "https://github.com/elfa-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 134.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elfa_ai",
+        "text": "You can now participate in GMX Masters with your own Hermes, Claude, Openclaw, or any other agent.\n\nJust drop this skill into your agent, with your API key and HMAC secret from https://t.co/zKE9VHiKbL .\n\nSkill: https://t.co/ALhjrP9RaZ",
+        "likes": 8,
+        "url": "https://x.com/i/status/2073292732953657564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073292732953657564"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "servasyy_ai",
+        "text": "你的 AI 做出来的东西为什么一眼假？\n\n不是模型不行，是你没给它审美。\n\n这两天 X 上炸了一个 skill，叫 Taste。67 万粉的 Miles Deutscher 说是他用过最好的 AI skill。一堆人拿它做出来的页面，评论区第一反应都是\"这真是 AI 做的？\"\n\n原理就一句话：把\"什么叫好设计\"写成规则，塞给模型。它就不吐那种烂大街的 AI 味了。\n\n我今天自己也做了个 skill，太有感触：AI 的上限根本不是模型，是你喂给它的标准。\n\n开源，一条命令装，Claude Code / Codex 都能用👇\n\nnpx skills add ",
+        "likes": 4,
+        "url": "https://x.com/i/status/2073340783634375072"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073340783634375072"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iml1s",
+        "text": "Fable 5 最近又能用了。\n\n可以拿 shadcn/improve 試一下。\n\nhttps://t.co/JZHrWPxbeo\n\n我看完 README 的理解是：這個 skill 主要做 audit 跟寫 plan。\n\n它會先掃 repo，整理 findings，然後把你選的項目寫進 plans/。\n每一份 plan 都是 markdown，給人或其他 agent 接著做。\n\n安裝：\n\nnpx skills add shadcn/improve\n\n常用的大概這幾個：\n\n/improve\n完整 audit，最後給 prioritized finding",
+        "likes": 1,
+        "url": "https://x.com/i/status/2073090858455552349"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073090858455552349"
+      ]
+    },
+    {
+      "repo": "uniswap/uniswap-ai",
+      "github_url": "https://github.com/uniswap/uniswap-ai",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Blipege",
+        "text": "2026 = tahun AI Agent nguasain DeFi\n\nBukti? 5 protocol besar udah launch AI Skills dalam 6 bulan terakhir:\n\n1/ Uniswap → 7 AI Skills (swap, liquidity planner, pool deploy) — Feb 2026\n2/ PancakeSwap → Skills buat swap, LP, farming di 8 chain — Mar 2026  \n3/ Solana → Agent Skills +",
+        "likes": 1,
+        "url": "https://x.com/i/status/2073062899317407792"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073062899317407792"
+      ]
+    },
+    {
+      "repo": "fabricioctelles/skills",
+      "github_url": "https://github.com/fabricioctelles/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fctelles",
+        "text": "I built a \"skill evaluation\" skill - and dared to evaluate @mattpocockuk's \"How to Write Great Skills\" - and the result showed that I still have a lot to learn:\n\nhttps://t.co/OqxZRKAk1R  \n\nMy skill: npx skills add fabricioctelles/skills -s skill-evaluation",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073188351465664789"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073188351465664789"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2073130931674595620",
+      "author": "injective",
+      "text": "From intent to signed trade in seconds.\n\nThe Injective MCP Server lets any AI agent trade onchain perpetual futures through plain language, with no API keys and no custom integration. It is open source, ships with 22 tools, and works out of the box with Claude Desktop, Cursor, La",
+      "likes": 251,
+      "views": 0,
+      "url": "https://x.com/i/status/2073130931674595620",
+      "is_kol": false,
+      "score": 908.0
+    },
+    {
+      "id": "2073045093788061789",
+      "author": "cj3214567667",
+      "text": "WorkBuddy 全套 AI 提效实战课\n\nCodex + OpenClaw 自定义 Skill 全教程\n\n🔗：https://t.co/jZU8gmvZXw",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2073045093788061789",
+      "is_kol": false,
+      "score": 471.0
+    },
+    {
+      "id": "2073169839330415071",
+      "author": "singularityhack",
+      "text": "Every new $ClawBank feature gets exposed through an MCP server, a CLI, and a web UI for humans. \n\nOptimized for agents and agent builders. You haven't seen the half of what's coming. @ClawBankHQ ☝️ https://t.co/Ks60FRgeT4",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2073169839330415071",
+      "is_kol": false,
+      "score": 471.0
+    },
+    {
+      "id": "2073186509449224439",
+      "author": "RhysSullivan",
+      "text": "you can now add your own product to https://t.co/XelYqOvqKd!\n\nbut before saying how, i want to first explain the why, because integrations​.sh isn't meant to be a closed registry, it's meant to get people using open protocols anyone can adopt\n\nwhen adding a site to integrations.​",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2073186509449224439",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2073270382921134389",
+      "author": "tonbistudio",
+      "text": "Interesting new optional skill for Hermes Agent called unbroker. I made a quick video showing how to install and set it up, and what results you might see when you run it. \n\nSo what is unbroker? Simply, it finds where data brokers have your personal info exposed online and files ",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2073270382921134389",
+      "is_kol": false,
+      "score": 381.0
+    },
+    {
+      "id": "2073021437963825410",
+      "author": "AiswaryaVenkit1",
+      "text": "An AI agent is only as strong as the stack behind it.\n\nThe model may generate the response, but everything around it determines whether the agent can operate reliably inside an enterprise.\n\nIt needs orchestration to coordinate tasks.\nIt needs protocols to connect with tools and o",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2073021437963825410",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2073079648234438922",
+      "author": "VaibhavSisinty",
+      "text": "Okay this one's interesting. The builder behind OpenClaude shipped a coding agent that runs any model, fully on your machine, and it's fully open source.\n\nIt's called Zero.\n\nThe whole idea is simple. Your model, your machine, your rules.\n\n→ Run whatever model you want. It plugs i",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2073079648234438922",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2073260488926847304",
+      "author": "AYi_AInotes",
+      "text": "我翻完小红书Red Skill最新的Top15数据后背有点发凉,这根本不是什么小功能测试啊。\n\n5月份归藏第一个把PPTSkill传上去的时候,详情页显示只有6个人用,当时我就说这是个大事件,不少人还觉得我小题大做,说什么一个种草APP搞点AI功能蹭热度而已,折腾不出水花。\n\n结果7月3号小红书官方两个更新就甩出来了,直接把所有质疑给打没了。\n\n先是格式全放开,之前还只支持txt和md,现在py/js/html/c++/sql甚至数据库文件全能传,不是只能写提示词给Agent读,是真能跑完整代码做完整功能。\n\n再就是另一项 vibecoding 内嵌交互",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2073260488926847304",
+      "is_kol": false,
+      "score": 345.0
+    },
+    {
+      "id": "2073064975497642295",
+      "author": "karlarboledas",
+      "text": "this is insane. alibaba just dropped an open-source tool called PageAgent, and almost no one in the SaaS world is paying attention yet.\n\n​basically, it’s a javascript AI agent that embeds directly into your webpage. instead of clicking around, users can just talk to your UI and t",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2073064975497642295",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2073281904770781478",
+      "author": "cyrilXBT",
+      "text": "TOP 3 WAYS TO GET ACTUALLY CERTIFIED IN AGENTIC AI.\n\nNot a random Udemy course. Real credentials from real institutions.\n\n1) Johns Hopkins University — Agentic AI Certificate\n16 weeks. 13 CEUs. Four phases from prompt engineering to multi-agent systems. Even includes an Anthropic",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2073281904770781478",
+      "is_kol": false,
+      "score": 326.0
+    },
+    {
+      "id": "2073263038061560187",
+      "author": "GithubProjects",
+      "text": "MaxKB is an open-source platform for building enterprise-grade RAG agents with an integrated pipeline for knowledge retrieval and AI workflows.\n\n- RAG pipeline with automatic text splitting, vectorization, and document ingestion\n- Agentic workflow engine with function library and",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2073263038061560187",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2073273575075975531",
+      "author": "Alacritic_Super",
+      "text": "As a Forward Deployed Engineer,\n\nPlease learn:\n\n• Python, Go or Rust\n• System design & distributed systems\n• APIs (REST, GraphQL, gRPC)\n• SQL, PostgreSQL & Redis\n• Docker, Kubernetes & Terraform\n• AWS, Azure or GCP\n• CI/CD & GitHub Actions\n• Linux, networking & debugging\n• LLMs, ",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2073273575075975531",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2073304234943008996",
+      "author": "promptparag",
+      "text": "Claude is eating up everything. \n\nHere's the full map of what it actually does now:\n\n1. Send it to your team's Slack or group chat.\n2. Most people use 3 features. There are 25+.\n3. To download all infographics: https://t.co/cbfgECvQz7.\n4. Don't pay anything. It's free in the welc",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2073304234943008996",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2073251416161055137",
+      "author": "Arzu_with_Ai",
+      "text": "🚨 Everyone is learning AI.\nVery few are learning how to become AI Engineers.\nThat's the difference that will define careers in 2026.\nWatching tutorials is easy.\nBuilding real AI systems is what creates real opportunities.\nA Practical AI Engineering Roadmap\n🐍 Master Python, APIs, ",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2073251416161055137",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2073102791732531338",
+      "author": "remp0x",
+      "text": "quick rundown of what i've been shipping on the product side of @useAtelier:\n\n- Onboarding + UX overhaul: streamlined the sign-up and first-hire flow, plus a broad set of UI refinements across the app\n\n- Major MCP upgrade: revamped our MCP server so any agent or client (Claude, C",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2073102791732531338",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2073054703298937096",
+      "author": "adtao_ppcrebel",
+      "text": "SN21 AdTAO June Top 10 recap\n\n1) 2 new major franchise customers announced with minimum $120k ARR added, \n\n2) 2 new referral partners added to add to our new business pipeline\n\n3) First 3 full weeks on mainnet paid out $21k to 98 miner wallets\n\n4) Completed a data infrastructure ",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2073054703298937096",
+      "is_kol": false,
+      "score": 168.0
+    }
+  ]
+}

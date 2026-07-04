@@ -4406,5 +4406,49 @@
   "ivankuznetsov/hive": {
     "first_seen": "2026-07-03",
     "tier": 3
+  },
+  "kunchenguid/firstmate": {
+    "first_seen": "2026-07-04",
+    "tier": 2
+  },
+  "letta-ai/skills": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "leffx/universal": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "gtrabanco/agentic-workflow": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "shadcncraft/skills": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "ratel-ai/skills": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "gabrielobholz/corner-smoothing-skill": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "novals83/5min-btc-polymarket": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "haoyiyin/easy-subtitle": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "linearuncle/linearskills": {
+    "first_seen": "2026-07-04",
+    "tier": 3
+  },
+  "uglyrobot/docsbot-agent-skills": {
+    "first_seen": "2026-07-04",
+    "tier": 3
   }
 }
