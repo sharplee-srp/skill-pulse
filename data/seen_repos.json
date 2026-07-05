@@ -4450,5 +4450,53 @@
   "uglyrobot/docsbot-agent-skills": {
     "first_seen": "2026-07-04",
     "tier": 3
+  },
+  "elder-plinius/t3mp3st": {
+    "first_seen": "2026-07-05",
+    "tier": 2
+  },
+  "flowiseai/flowise": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "injectivelabs/mcp-server": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "dzhng/skills": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "planetscale/skills": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "iamshubhransh/framer-to-code": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "vladzima/copy2llm": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "wiiiimm/glass-gl": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "leonvlex/taste-skill": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "emily2040/seedance-2.0": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "playableintelligence/game-creator": {
+    "first_seen": "2026-07-05",
+    "tier": 3
+  },
+  "evanlong-me/skills": {
+    "first_seen": "2026-07-05",
+    "tier": 3
   }
 }

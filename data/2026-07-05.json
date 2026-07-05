@@ -1,0 +1,649 @@
+{
+  "date": "2026-07-05",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 22,
+    "unique_repos": 24,
+    "new_repos": 12,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "elder-plinius/t3mp3st",
+      "github_url": "https://github.com/elder-plinius/t3mp3st",
+      "tier": 2,
+      "is_new": true,
+      "score": 7330.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2130,
+      "total_retweets": 168,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elder_plinius",
+        "text": "⚡ INTRODUCING: T3MP3ST!!! ⚡\n\nAUTONOMOUS HACKBOT STRIKE FORCE 🌩️ BRING THE STORM 🌩️\n\nyour favorite coding agent is now a full-stack red team 🫡⚔️\n\nhttps://t.co/k0SXmPAFaD\n\nthat AI agent already humming in your terminal? well now it has FANGS. strap a full offensive-security harness",
+        "likes": 2130,
+        "url": "https://x.com/i/status/2073579120135664102"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073579120135664102"
+      ]
+    },
+    {
+      "repo": "flowiseai/flowise",
+      "github_url": "https://github.com/flowiseai/flowise",
+      "tier": 3,
+      "is_new": true,
+      "score": 374.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 88,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "The_CoDEFi",
+        "text": "you can build complex AI agents with a drag and drop editor for FREE  no code, no API headaches, no expensive SaaS platform  \n\nflowise is an open source tool (35,000+ stars on GitHub) that lets you visually build LLM apps by connecting nodes.  \n\nit gives your AI agent visual powe",
+        "likes": 88,
+        "url": "https://x.com/i/status/2073632769746555235"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073632769746555235"
+      ]
+    },
+    {
+      "repo": "injectivelabs/mcp-server",
+      "github_url": "https://github.com/injectivelabs/mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 224.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "official_bles1",
+        "text": "In case you haven’t heard about it yet, @injective MCP Server is one of the most important things happening at the intersection of AI and crypto right now.\n\nInjective is the first blockchain to let AI agents trade perpetual futures entirely through natural language.\n\nAnd that’s a",
+        "likes": 38,
+        "url": "https://x.com/i/status/2073365929098911966"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073365929098911966"
+      ]
+    },
+    {
+      "repo": "dzhng/skills",
+      "github_url": "https://github.com/dzhng/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dzhng",
+        "text": "I got tired of using the same prompt to ask fable to use codex as implementor that I added a new implement-with-codex skill: https://t.co/MEL6D1WLL6",
+        "likes": 25,
+        "url": "https://x.com/i/status/2073680424677802257"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073680424677802257"
+      ]
+    },
+    {
+      "repo": "planetscale/skills",
+      "github_url": "https://github.com/planetscale/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kodahhhhh",
+        "text": "yesterday @samlambert  tweeted \"add me to your planetscale org\", and so i did, and a few hours ago he emailed back with an agent skill that audits your whole database\n\nran it with codex against prod. it found 39 duplicate indexes, each one covered by another index that already ex",
+        "likes": 23,
+        "url": "https://x.com/i/status/2073612113449476597"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073612113449476597"
+      ]
+    },
+    {
+      "repo": "iamshubhransh/framer-to-code",
+      "github_url": "https://github.com/iamshubhransh/framer-to-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamshubhransh",
+        "text": "> Shifted my entire website off framer to code\n> Created a skill for anyone who wants to do the same\n\nInstall: npx skills add iamshubhransh/framer-to-code\n\nThere are two skills inside this (normal/pure convert)\nJust paste your framer website's URL and let it run \n\nOr write 'pure ",
+        "likes": 5,
+        "url": "https://x.com/i/status/2073461236088676815"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073461236088676815"
+      ]
+    },
+    {
+      "repo": "vladzima/copy2llm",
+      "github_url": "https://github.com/vladzima/copy2llm",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vladzima",
+        "text": "copy dot computer is not available as a skill\n\nnpx skills add vladzima/copy2llm\nhttps://t.co/Nacwk9yj5M https://t.co/lM9hJwQHQr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073497090920239549"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073497090920239549"
+      ]
+    },
+    {
+      "repo": "wiiiimm/glass-gl",
+      "github_url": "https://github.com/wiiiimm/glass-gl",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wiiiimm",
+        "text": "My `glass-gl` skills and npm package is now ready. Check it out at https://t.co/plIUw6bT2M.\n\nInstall with: npx skills add wiiiimm/glass-gl https://t.co/5DE7LQuFs5",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073725781151514708"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073725781151514708"
+      ]
+    },
+    {
+      "repo": "leonvlex/taste-skill",
+      "github_url": "https://github.com/leonvlex/taste-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nikskld",
+        "text": "YOUR AI DESIGNS LIKE A JUNIOR BECAUSE YOU PROMPT LIKE ONE 🎯\n\nDesigners spent 10 years learning taste.\nYou can install it in 60 seconds.\nHere’s the exact setup — try it right now 👇\n\n1️⃣ Install the design brain: npx skills add pbakaus/impeccable\n\n2️⃣ Install animation taste (built",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073672458222141465"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073672458222141465"
+      ]
+    },
+    {
+      "repo": "emily2040/seedance-2.0",
+      "github_url": "https://github.com/emily2040/seedance-2.0",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zenoware",
+        "text": "@NFTCPS The command is  `npx skills add emily2040/seedance-2.0` if anyone just wants to use it right away.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073662887005196717"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073662887005196717"
+      ]
+    },
+    {
+      "repo": "playableintelligence/game-creator",
+      "github_url": "https://github.com/playableintelligence/game-creator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gamecreatorai",
+        "text": "try this with game creator skill\n\nnpx skills add playableintelligence/game-creator",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073541402059804904"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073541402059804904"
+      ]
+    },
+    {
+      "repo": "evanlong-me/skills",
+      "github_url": "https://github.com/evanlong-me/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "evanlong_me",
+        "text": "给你的 AI agent 装了个 Claude 区域检测小工具 🐶\n\nIP、时区、语言、emoji 风格逐项扫描，一眼看清自己的\"嫌疑值\"。低分安心用，高分知道该调什么。\n\nnpx skills add evanlong-me/skills@fuck-claude-check\n\n也可以通过 cc-switch 远程安装，怎么方便怎么来。\n\nhttps://t.co/M0O6LC7K2E",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073411919051133200"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073411919051133200"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "vibheksoni/stealth-browser-mcp",
+      "github_url": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 361.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivyanshT91162",
+        "text": "This might be the most underrated MCP server I've found this week.\n\nStealth Browser MCP gives AI agents an undetectable browser that can automate sites most browser tools can't.\n\n• Bypasses Cloudflare & anti-bot systems\n• 97 browser automation tools\n• AI-generated network hooks\n•",
+        "likes": 72,
+        "url": "https://x.com/i/status/2073524754003157318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073524754003157318"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 274.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UT_Codex",
+        "text": "【最新】\nCodexで動かせるアニメーション制作スキルが公開された😳\n\nhttps://t.co/PYkqDfiHTn\n\nnpx skills add diffusionstudio/lottie\nこれをCodexに入れるだけで、プロンプトから本番品質のLottieアニメーションが生成できるようになる\n\nLottieはアプリの読み込みアイコンやオンボーディング画面でよく使われる軽量アニメーション形式\nこれまではモーションデザイナーとエンジニアの往復が必要だった工程が、指示を投げるだけで完結するようになる、ということ\n\nUIに動きを足すたびに外注や調整が発",
+        "likes": 53,
+        "url": "https://x.com/i/status/2073617874053435888"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073617874053435888"
+      ]
+    },
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 3,
+      "is_new": false,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yibie",
+        "text": "推荐这个项目，shadcn（shadcn/ui 作者）做了一个 Agent Skill——让最贵的模型做审计和规划，让便宜的模型写代码。这个想法本身不新，但 shadcn 把它做成了一个可安装、可编排、带执行闭环的系统，每个设计决策都很实用。\n\nshadcn/improve：一个 Agent Skill，让最强模型做审计，让便宜模型写代码\n\n核心理念：把智能会累积的那部分——理解代码库、判断什么值得做、写规格——交给最强的模型。执行交给便宜的模型。这个 skill 自己从来不实现任何东西。计划就是产品。\n\n/improve → 全局审计 → 优先级排序的",
+        "likes": 29,
+        "url": "https://x.com/i/status/2073619038056448243"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073619038056448243"
+      ]
+    },
+    {
+      "repo": "ifixai-ai/ifixai",
+      "github_url": "https://github.com/ifixai-ai/ifixai",
+      "tier": 3,
+      "is_new": false,
+      "score": 170.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NainsiDwiv50980",
+        "text": "50 USEFUL GITHUB REPOS \n\n1. iFixAi — AI misalignment testing\n→ https://t.co/sFukPgaysK\n\n2. public-apis — free APIs for everything\n→ https://t.co/6xdfX0PkzB\n\n3. build-your-own-x — learn by building\n→ https://t.co/U1ZYkXVgkc\n\n4. developer-roadmap — learn any tech skill\n→ https://t.",
+        "likes": 15,
+        "url": "https://x.com/i/status/2073653565865025940"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073653565865025940"
+      ]
+    },
+    {
+      "repo": "gabrielobholz/corner-smoothing-skill",
+      "github_url": "https://github.com/gabrielobholz/corner-smoothing-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AliGrids",
+        "text": "If you care about clean, correct corner smoothing in AI-generated designs, install this:\n\nnpx skills add gabrielobholz/corner-smoothing-skill\nSuper useful.\n\nv/@gabriell_lab\n\nhttps://t.co/sGYlz1puGO",
+        "likes": 8,
+        "url": "https://x.com/i/status/2073657593906479274"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073657593906479274"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "camera_fun_2030",
+        "text": "使い方（超要約）\n必要なのは Node.js 22以上、FFmpeg、Claude Code の3つだけ。\n\n① npx skills add heygen-com/hyperframes でClaude Codeにスキルを追加\n② npx hyperframes init my-video でプロジェクト作成\n③ Claude Codeに「/hyperframes を使って、15秒の縦動画を作って。キャプションが下からポンと出る感じで」と日本語で指示\n④ npx hyperframes render でMP4が完成",
+        "likes": 2,
+        "url": "https://x.com/i/status/2073706005939003481"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073706005939003481"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "peesamac",
+        "text": "รีวิวแตกสองฝั่ง ฝั่งเชียร์บอกเป็น skill ที่ดีที่สุดเท่าที่เคยใช้ ฝั่งแซวบอกเว็บ Taste Skill เองก็ยังดูเป็น AI slop อยู่ดี ส่วนผมว่าไอเดียใช่ แต่คำถามคือ taste เขียนเป็นกฎตายตัวได้จริงแค่ไหน\nลองเล่นได้ npx skills add Leonxlnx/taste-skill\nhttps://t.co/wnz0Zzxs1d\n\n#peesamac #TasteSk",
+        "likes": 1,
+        "url": "https://x.com/i/status/2073587761798685054"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073587761798685054"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nikskld",
+        "text": "YOUR AI DESIGNS LIKE A JUNIOR BECAUSE YOU PROMPT LIKE ONE 🎯\n\nDesigners spent 10 years learning taste.\nYou can install it in 60 seconds.\nHere’s the exact setup — try it right now 👇\n\n1️⃣ Install the design brain: npx skills add pbakaus/impeccable\n\n2️⃣ Install animation taste (built",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073672458222141465"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073672458222141465"
+      ]
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nikskld",
+        "text": "YOUR AI DESIGNS LIKE A JUNIOR BECAUSE YOU PROMPT LIKE ONE 🎯\n\nDesigners spent 10 years learning taste.\nYou can install it in 60 seconds.\nHere’s the exact setup — try it right now 👇\n\n1️⃣ Install the design brain: npx skills add pbakaus/impeccable\n\n2️⃣ Install animation taste (built",
+        "likes": 0,
+        "url": "https://x.com/i/status/2073672458222141465"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2073672458222141465"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2073546049424400673",
+      "author": "conikeec",
+      "text": "SkillSpec : Make Skills follow a Plan",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2073546049424400673",
+      "is_kol": false,
+      "score": 3422.0
+    },
+    {
+      "id": "2073616958688547119",
+      "author": "MrMessenger",
+      "text": "เพิ่งได้มีโอกาสย้อนไปดูคลิปสัมภาษณ์ Dario Amodei CEO ของ Anthropic ถึงประเด็นที่น่าสนใจไม่น้อย เลยอยากเอามาเล่าให้ฟังครับ\n\nในการสัมภาษณ์กับ Fox News เมื่อปลายเดือนพฤษภาคมที่ผ่านมา เขาพูดตรง ๆ ว่า AI กำลังจะสร้างวิกฤตการจ้างงานรุนแรง โดยเฉพาะในงานระดับเริ่มต้น (Entry-Level) ของ Wh",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2073616958688547119",
+      "is_kol": false,
+      "score": 958.0
+    },
+    {
+      "id": "2073466719251681605",
+      "author": "nateliason",
+      "text": "Sent this straight to my OpenClaw to make a skill for prompting Fable. \n\nRecommend you do the same.",
+      "likes": 309,
+      "views": 0,
+      "url": "https://x.com/i/status/2073466719251681605",
+      "is_kol": false,
+      "score": 952.0
+    },
+    {
+      "id": "2073650337576022467",
+      "author": "WispOfDeFi",
+      "text": "Macro liquidity often moves before price does. \n\nI used CoinMarketCap Agent Hub to run the assess_macro_liquidity_risk_regime skill and evaluate whether the current macro backdrop is supporting or pressuring crypto markets.\n\nKey insights:\n• Low Risk liquidity regime\n• Net liquidi",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2073650337576022467",
+      "is_kol": false,
+      "score": 655.0
+    },
+    {
+      "id": "2073490805138812970",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT CAN RUN YOUR SEO.\nCONNECT IT TO GOOGLE SEARCH CONSOLE\nAND GOOGLE ANALYTICS.\nIT MONITORS, REPORTS, AND WRITES CONTENT\nBASED ON YOUR ACTUAL DATA.\n\nstop paying an SEO agency.\nstop doing the tedious work yourself.\nHermes handles it 24/7.\n\nWHAT THE SEO AGENT DOES:\n\n→ pull",
+      "likes": 187,
+      "views": 0,
+      "url": "https://x.com/i/status/2073490805138812970",
+      "is_kol": false,
+      "score": 631.0
+    },
+    {
+      "id": "2073621212559974441",
+      "author": "Jeffar_AI",
+      "text": "🚀 The AI landscape is no longer just about picking the best LLM.\n\nThe real advantage comes from building the right AI stack.\n\nHere's what the modern AI ecosystem looks like:\n\n🧠 LLMs\n→ OpenAI, Claude, Gemini, Llama, Mistral, Cohere, Hugging Face, Ollama, vLLM\n\n🤖 AI Agents\n→ LangGr",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2073621212559974441",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2073528277788979608",
+      "author": "coreyganim",
+      "text": "me and @NickSpisak_ current AI stack:\n\n-Codex/Claude code as the \"workbench\"\n-Hermes agents as the \"workforce\"\n-Orgo as the Hermes agent infrastructure\n-Slack as the communication layer\n-Second Brain lives in github\n-composio for tool access\n-GHL for CRM/sales automations/agents\n",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2073528277788979608",
+      "is_kol": false,
+      "score": 365.0
+    },
+    {
+      "id": "2073351393335976097",
+      "author": "NainsiDwiv50980",
+      "text": "Claude, ChatGPT, Gemini, and Grok agree on almost nothing.\n\nThey all quietly agreed on MCP.\n\nHere's the part nobody's telling you: there are 11,000+ MCP servers live right now, and fewer than 5% make a single dollar.\n\nThe plumbing is built. The money isn't picked up yet.\n\nMCP is ",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2073351393335976097",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2073351167686717930",
+      "author": "Suryanshti777",
+      "text": "MCP + LLMs: The New Standard Quietly Reshaping AI",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2073351167686717930",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2073640942226296841",
+      "author": "rubenhassid",
+      "text": "Claude-5 is the smartest AI you've ever used.\n\nAnd you're prompting it like it's ChatGPT in 2023.\n\nHere's how to (actually) prompt the new Claude:\n\n1. Stop re-explaining yourself in chats. Use Project. \nEvery new chat starts at zero, without context.\nYou upload the same PDF to 5 ",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2073640942226296841",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2073637182343151979",
+      "author": "David_TornAI",
+      "text": "🚨 My Claude setup is almost completely EMPTY.\n\nAnd it's the most productive AI system I've ever used.\n\nSounds backwards, right?\n\nMost people keep adding:\n→ More folders\n→ More instructions\n→ More templates\n→ More context\n\nI spent 194 days discovering that the opposite works bette",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2073637182343151979",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2073556673583874483",
+      "author": "Utpalrabhaaa",
+      "text": "Hotstuff just dropped real agentic power \n\nAgents that can actually Trade, Invest & Bank for you live now.\n\nAnd it’s working seamlessly with Claude Chat from day one. MCP server, code + cowork integration… this is the future of DeFi we’ve been waiting for.\n\nExcited to test these ",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2073556673583874483",
+      "is_kol": false,
+      "score": 295.0
+    },
+    {
+      "id": "2073504629963542543",
+      "author": "aiedge_",
+      "text": "Hermes agent literally killed OpenClaw - and for good reason.\n\nIt's hands down the most powerful AI assistant on the market.\n\nIf you haven't set it up yet, you're missing out.\n\nHere's how to set up the world's most powerful AI assistant in <60 seconds:\n\nStep 1. Download Hermes De",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2073504629963542543",
+      "is_kol": false,
+      "score": 283.0
+    },
+    {
+      "id": "2073519721572708422",
+      "author": "Michaelzsguo",
+      "text": "在硅谷科技圈社交的觥筹交错之中，小龙虾之父🦞 @steipete  打开自己的电脑，分享了他和 Agent 一起工作的几个流程。\n\n开篇他就提到：\n\n去年，我受限于 token。\n我通过加入 OpenAI 解决了这个问题。\n后来，我受限于 CPU。\n现在我感觉，真正限制我的其实是注意力。\n\n他点出了我们与 AI 协作方式中正在发生的一个重要转变。\n\n大多数人以为自己在使用 AI。\n但实际上，他们还在做那些未来应该由 agent 接手的协调工作。\n\n我把它整理成一个 7 层阶梯。看看你现在在哪一层。\n\n第 1 层：聊天\n你提问，它回答。其他事情还是你自己做",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2073519721572708422",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2073419944889638941",
+      "author": "Suryanshti777",
+      "text": "You don't need to spend a single dollar to build a production AI system in 2026.\n\nHere's the full stack:\n→ LLM: Ollama + Gemma 4 / Llama 3.3 / Mistral Small 4 (local, free)\n→ Orchestration: LangGraph / CrewAI (open source)\n→ RAG: LlamaIndex + ChromaDB / Qdrant (local)\n→ Tool Laye",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2073419944889638941",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2073633463958491275",
+      "author": "oliverxmedia",
+      "text": "Generates 200+ Viral AI Ads in under 10 Minutes with Claude + Arcads MCP",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2073633463958491275",
+      "is_kol": false,
+      "score": 266.0
+    },
+    {
+      "id": "2073646053359022458",
+      "author": "cyrilXBT",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\n\nWatch my 16 minute tutorial on building cinematic $50K websites with Claude Fable 5.\n\nFull custom sites. Real motion. Agency level polish. All from AI.\n\nBy tomorrow you could have a portfolio piece that used to cost five figures to commission",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2073646053359022458",
+      "is_kol": false,
+      "score": 228.0
+    }
+  ]
+}
