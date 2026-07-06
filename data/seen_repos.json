@@ -4498,5 +4498,41 @@
   "evanlong-me/skills": {
     "first_seen": "2026-07-05",
     "tier": 3
+  },
+  "duyet/build-agent": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "marktechpost-ai-media-inc/ai-agents-projects-tutorials": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "circlefin/skills": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "stirling-tools/stirling-pdf": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "nowork-studio/notfair": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "abrinsmead/skills": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "openclaw/agent-skills": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "andreratzenberger/codex-naked": {
+    "first_seen": "2026-07-06",
+    "tier": 3
+  },
+  "lumen01/agent-bark-notify": {
+    "first_seen": "2026-07-06",
+    "tier": 3
   }
 }
