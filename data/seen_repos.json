@@ -4534,5 +4534,49 @@
   "lumen01/agent-bark-notify": {
     "first_seen": "2026-07-06",
     "tier": 3
+  },
+  "darasoba/agent-skills": {
+    "first_seen": "2026-07-07",
+    "tier": 2
+  },
+  "bepitulaz/obsidian-multivault-mcp": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "pluviobyte/rnskill": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "atomic-mail/atomic-mail-agentic": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "dsb-117/brainblast-fleet": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "grkmyldz148/color-skills": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "akash-joshi/agent-skills": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "mark-life/agent-skills": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "apache/superset": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "caddyserver/caddy": {
+    "first_seen": "2026-07-07",
+    "tier": 3
+  },
+  "ai-synthetic-users/synthetic-users-mcp-skill": {
+    "first_seen": "2026-07-07",
+    "tier": 3
   }
 }

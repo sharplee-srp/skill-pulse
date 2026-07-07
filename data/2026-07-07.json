@@ -1,0 +1,554 @@
+{
+  "date": "2026-07-07",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 165,
+    "tweets_with_repos": 17,
+    "unique_repos": 17,
+    "new_repos": 11,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "darasoba/agent-skills",
+      "github_url": "https://github.com/darasoba/agent-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 675.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 175,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "darasoba",
+        "text": "Install it, try it out and thank me:\n\nnpx skills add darasoba/agent-skills --skill fable-reasoning  --global",
+        "likes": 175,
+        "url": "https://x.com/i/status/2074306358283776410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074306358283776410"
+      ]
+    },
+    {
+      "repo": "bepitulaz/obsidian-multivault-mcp",
+      "github_url": "https://github.com/bepitulaz/obsidian-multivault-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 379.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bepituLaz",
+        "text": "Agar kalian semua tidak perlu buang-buang token untuk bikin hal serupa. Aku jadikan Obsidian MCP serverku sebagai open-source. https://t.co/E0qaAok4hZ\n\nSilakan deploy di server masing-masing.\n\nFitur utama: multiuser dan multi-vault. Detail workflow-ku saat pakai ini nanti menyusu",
+        "likes": 78,
+        "url": "https://x.com/i/status/2074425244287115662"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074425244287115662"
+      ]
+    },
+    {
+      "repo": "pluviobyte/rnskill",
+      "github_url": "https://github.com/pluviobyte/rnskill",
+      "tier": 3,
+      "is_new": true,
+      "score": 275.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 55,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Pluvio9yte",
+        "text": "开源了我的 AI Agent Skill 集合 rnskill，目前 5 个 Skill，分三类。还有几个后续补齐。\n\n写作类一个：\nrn-renhua，专门处理中文 AI 技术文章的去味精修。我写推文和测评稿之前都会过一遍，删掉「不是A而是B」「真正/其实/本质上」这些 AI 壳，把判断和测试细节留下来。\n\n视频类三个。\nrn-motion-director 是导演层，把选题转成动效视频概念，核心是防止做出 PPT 式的视频——每个画面必须有运动，不能只是标题 + 要点 + 渐入。\nrn-dark-saas-video 是暗色 SaaS 产品短片的完整",
+        "likes": 55,
+        "url": "https://x.com/i/status/2074401799260242326"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074401799260242326"
+      ]
+    },
+    {
+      "repo": "atomic-mail/atomic-mail-agentic",
+      "github_url": "https://github.com/atomic-mail/atomic-mail-agentic",
+      "tier": 3,
+      "is_new": true,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_kaize",
+        "text": "Found a GitHub repository that gives your AGENT ITS OWN EMAIL FOR FREE\n\nThe idea is stupidly simple:\n\nInstead of wiring your personal gmail into an agent (app password, oauth scopes, a bot reading your password resets), the agent just registers its own inbox.\n\nWhat's inside:\n\n- A",
+        "likes": 33,
+        "url": "https://x.com/i/status/2074249511916933405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074249511916933405"
+      ]
+    },
+    {
+      "repo": "dsb-117/brainblast-fleet",
+      "github_url": "https://github.com/dsb-117/brainblast-fleet",
+      "tier": 3,
+      "is_new": true,
+      "score": 154.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "brainblast_ai",
+        "text": "OpenClaw Skill → https://t.co/NuOJ1Bk0d8\n\nHermes Skill → Run `npx skills add DSB-117/brainblast-fleet`\n\nOne command to install from your agent harness:\n\nOpenClaw → openclaw skills install brainblast-fleet\nHermes → hermes skills install DSB-117/brainblast-fleet\n\nGH: https://t.co/m",
+        "likes": 13,
+        "url": "https://x.com/i/status/2074218440131559795"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074218440131559795"
+      ]
+    },
+    {
+      "repo": "grkmyldz148/color-skills",
+      "github_url": "https://github.com/grkmyldz148/color-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "uiuxgorkem",
+        "text": "The data kept telling us the same thing: there is no perfect color space. A space that wins one benchmark often loses another.\n\nSo we turned that conclusion into a product: color-skills.\n\nTwo AI skills that teach LLMs to choose the color space that actually performs best for each",
+        "likes": 7,
+        "url": "https://x.com/i/status/2074196987679838297"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074196987679838297"
+      ]
+    },
+    {
+      "repo": "akash-joshi/agent-skills",
+      "github_url": "https://github.com/akash-joshi/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thewritingdev",
+        "text": "I open-sourced my private Claude Code setup, which has completely revolutionised the way I write code, and do cold-outreach 🔥\n\nI have broken it down into five skills you can steal:\n\n🛠️ AGENTS.md — Enforces a structured functional plan.md file along with enforcing stacked commits ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074458276922556897"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074458276922556897"
+      ]
+    },
+    {
+      "repo": "mark-life/agent-skills",
+      "github_url": "https://github.com/mark-life/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mark_life_108",
+        "text": "want your Claude Code behave as Pi?\n\nwell you'll never have it, but you can get closer:\n\nI created a context-doctor skill that analyze what's loaded – tools, MCPs, skills, AGENTS / CLAUDE md and so on – then it recommends exact fixes\n\nworks for any coding agent\nremoved me ton of ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074211304244469928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074211304244469928"
+      ]
+    },
+    {
+      "repo": "apache/superset",
+      "github_url": "https://github.com/apache/superset",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Superset\n\nApache Superset is a Data Visualization and Data Exploration Platform\n\n73.3K GitHub stars - data-analysis\nInstall: npx skills add apache/superset\n\nhttps://t.co/SYK9HXEhG5\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074418401179533602"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074418401179533602"
+      ]
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "github_url": "https://github.com/caddyserver/caddy",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Caddy\n\nFast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS\n\n73.4K GitHub stars - legal-compliance\nInstall: npx skills add caddyserver/caddy\n\nhttps://t.co/GZBXoQS6gY\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074373110170603574"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074373110170603574"
+      ]
+    },
+    {
+      "repo": "ai-synthetic-users/synthetic-users-mcp-skill",
+      "github_url": "https://github.com/ai-synthetic-users/synthetic-users-mcp-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DennisonBertram",
+        "text": "The skill is easy to install: \n\nnpx skills add AI-Synthetic-Users/synthetic-users-mcp-skill\n\nCurrently the service is free to use!\n\nhttps://t.co/k3Wps7mOK5",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074180075805610354"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074180075805610354"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 381.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 57,
+        "url": "https://x.com/i/status/2074325619949904167"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074325619949904167"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 364.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "milesdeutscher",
+        "text": "I recently shared the most powerful way to use Fable 5 for amazing UI/UX design work.\n\nThe problem with AI-generated frontends is that they all look the same.\n\nGeneric layouts, boring components, blocky icons, and the same design patterns are recycled endlessly.\n\nThis Taste Skill",
+        "likes": 78,
+        "url": "https://x.com/i/status/2074378380385067230"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074378380385067230"
+      ]
+    },
+    {
+      "repo": "okx/onchainos-skills",
+      "github_url": "https://github.com/okx/onchainos-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 236.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mike_Banana",
+        "text": "如果你有一个 AI Agent ，那么如何快速接到 https://t.co/WEOf0GY2Dl 变现？？\n\nMike🍌精简版教程来啦！“建议先收藏”  👇\n（适用 OpenClaw/Hermes/Claude Code/Codex）\n\n1：安装 Onchain OS（直接复制丢给 AI ）\nnpx skills add okx/onchainos-skills --yes -g\n\n2：登录 Agentic Wallet\n帮我使用邮箱登录 Onchain OS 的 Agentic Wallet\n\n⚠️3：注册为 ASP\n确定自己要注册 A2A 还是 A",
+        "likes": 37,
+        "url": "https://x.com/i/status/2074364536854081955"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074364536854081955"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "markdown-viewer/skills",
+      "github_url": "https://github.com/markdown-viewer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xicilion",
+        "text": "@8hformy npx skills add markdown-viewer/skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074230952579240080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074230952579240080"
+      ]
+    },
+    {
+      "repo": "eliaalberti/dcode-agent-kit",
+      "github_url": "https://github.com/eliaalberti/dcode-agent-kit",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliaAlberti",
+        "text": "@HowToPrompt__ Now what if you could create your own version of Hermes or OpenClaw…\n\nWell you can! With ONE skill:\n\nhttps://t.co/V32tkUQ1Kv\n\nLangChain Deepagent SDK AI Agent\nWorks with ANY LLM (including locals)\nAdd ANY tool to it MCPs, Skills, Hooks\nSpawns sub-agents!\nReady in M",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074392706273382620"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074392706273382620"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2074232720851652821",
+      "author": "samraaj",
+      "text": "This is Ditto.\n\nIt clones any website in less than 5 minutes.\n\nClean code w/ components, tokens, interactions, hover effects.\n\nFree &amp; open source. REST API and MCP server included. https://t.co/R9mxYTjSvc",
+      "likes": 668,
+      "views": 0,
+      "url": "https://x.com/i/status/2074232720851652821",
+      "is_kol": false,
+      "score": 2204.0
+    },
+    {
+      "id": "2074125418391916641",
+      "author": "Sumanth_077",
+      "text": "The meta-harness for all your AI coding agents!\n\nOmnigent is an open-source orchestration layer that sits above your AI coding agents. Orchestrates Claude Code, Codex, Cursor, OpenCode, Hermes, and Pi through a single interface. Swap or combine harnesses without rewriting anythin",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2074125418391916641",
+      "is_kol": false,
+      "score": 428.0
+    },
+    {
+      "id": "2074138963208491513",
+      "author": "7uanF",
+      "text": "Chrome DevTools ya es un MCP server para que agentes de IA controlen Chrome en vivo. Depura red, saca screenshots, revisa console messages con stack traces y hasta extrae performance insights con CrUX. https://t.co/WLYJReSawR",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2074138963208491513",
+      "is_kol": false,
+      "score": 370.0
+    },
+    {
+      "id": "2074170381812822399",
+      "author": "singularityhack",
+      "text": "ClawBank: We're Going To Give Everyone Superpowers.",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2074170381812822399",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2074317076198776937",
+      "author": "iamlukethedev",
+      "text": "Hermes agents finally have their own inbox\n\nI’m building HermesAgentMail\n\nAn email layer made specifically for Hermes workflows\n\n- Create an agent email address\n- Receive inbound email\n- Wake Hermes with signed webhooks\n- Let your agent read, classify, draft, and route replies\n\nB",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2074317076198776937",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2074206512432689535",
+      "author": "OpenCodeLog",
+      "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.17.14 released. TL;DR: App/Desktop session UX, experimental Code Mode, provider/MCP fixes, and TUI debug tooling.\n\n𝗔𝗴𝗲𝗻𝘁\n• Added experimental OPENCODE_EXPERIMENTAL_CODE_MODE execute tool for confined orchestration scripts over visible MCP tools, with permission checks",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2074206512432689535",
+      "is_kol": false,
+      "score": 272.0
+    },
+    {
+      "id": "2074123969071075679",
+      "author": "caseyjohnellis",
+      "text": "we've been shipping pretty hard on https://t.co/QAoSUxHFg6. https://t.co/mKiROrKciY resolves any asset - domain, ip, package, repo, container, hardware, browser extension - to its real (or best) security contact, vdp, or bug bounty program. and now it drops straight into your rec",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2074123969071075679",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2074189902657544627",
+      "author": "WenboGuo4",
+      "text": "I will be on-leaving from UCSB and joining Meta MSL as an AI Research Scientist, as part of the Virtue AI team!  \n\nI feel extremely lucky and deeply honored to work with our amazing Virtue AI team. I still remember the first time discussing with Bo and Dawn about building an end-",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2074189902657544627",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2074213685913116874",
+      "author": "smratitiwa86867",
+      "text": "🚨 Anthropic just dropped the Claude Architect Certification.\n\nNo open books.\nNo Google.\nNo breaks.\n\nJust 60 multiple-choice questions that test whether you can actually build with Claude—not just prompt it.\n\nHere's the 6-week roadmap I'd follow to pass on the first attempt:\n\nWeek",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2074213685913116874",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2074449618360782909",
+      "author": "heyfredds",
+      "text": "OPENAI ACABA DE LANZAR UNA HERRAMIENTA PARA CLAUDE CODE.\n\nSí, has leído bien. OpenAI construyendo para la herramienta de la competencia.\n\nEl plugin se llama codex-plugin-cc y hace algo muy simple pero muy útil.\n\n→ Ejecuta una revisión de código de Codex sin salir de tu sesión de ",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2074449618360782909",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2074434937919557878",
+      "author": "xby6689",
+      "text": "刚刷到一篇分析小红书 RedSkill 的内容，有个观点我特别认同。\n\n以往各类 AI 技能基本都沉淀在各类技术社区里，普通用户基本接触不到，就算偶然刷到，也看不懂、不会用，门槛特别高。\n\n现在小红书把 RedSkill 直接挂载在笔记下方，大家可以先看博主的真实实操和使用效果，觉得合适再领取，上手成本低了很多。\n\n平台最近的更新节奏也很猛。7 月 3 号已经全面放开 Skill 上传格式，不再局限简单文本，各类代码、复合型工具都能正常发布；本周三还会上线 vibecoding 站内内嵌交互功能，届时不用跳转外部 Agent，在笔记组件里就能半屏调试、全",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2074434937919557878",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2074425356594098629",
+      "author": "socialwithaayan",
+      "text": "This is CRAZY!\n\nwe spxaent billions making AI agents that can reason across million-token contexts and write production-ready code.\n\nand none of them could send an email without a human doing the signup first.\n\nAtomic Mail just solved the most embarrassingly simple problem in AI\n",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2074425356594098629",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2074406816096645561",
+      "author": "RoundtableSpace",
+      "text": "TASTE-SKILL TEACHES YOUR AI FRONTEND AGENT HOW TO STOP DESIGNING SLOP\n\n https://t.co/OoZ1WjB4pO",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2074406816096645561",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2074225614924530014",
+      "author": "0xhades_",
+      "text": "It earns. It thinks. It proves every move on-chain. It talks, and it talks back. Other agents pay it. It pays you in real assets.\n\nNew week, one of the biggest @VaultBags updates yet. $VAULT is now a real AI agent, and this is everything it does. All live, all verifiable.\n\nIT THI",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2074225614924530014",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2074141288987865555",
+      "author": "MystiqueMide",
+      "text": "Hear me out.\n\nClaude Design 🤝\n\n>For demos\n>For frontend\n>For posters\n>For thumbnails\n>For slides\n>For presentations\n\nClaude Design uses HTML artifacts in different creative ways. \n\nYou just need to experiment and find what works.\n\nYou can use it to design your UI, then have Codex",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2074141288987865555",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2074374981056614827",
+      "author": "sergyproject",
+      "text": "Have you ever imagined creating animated icon sets so simply and in such a personalized way that you could integrate them into your workflow without tears or wasted time?\n\nEvery animated icon tool gives you presets. I built the opposite.\n\nANIMA — a living icon system. One motion ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2074374981056614827",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2074132005797741015",
+      "author": "orbserv",
+      "text": "What if AI agents could use OrbWallet directly from their MCP client?\n\nWe're exploring an MCP version of OrbWallet.\n\nAgents could:\n\nCheck balances\nRequest spend authorization\nFollow spending policies\nSend payments\nRead transaction history\n\nWallet infrastructure becomes agent-nati",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2074132005797741015",
+      "is_kol": false,
+      "score": 155.0
+    },
+    {
+      "id": "2074426194418926020",
+      "author": "coreyganim",
+      "text": "xAI just gave every AI voice agent a free phone number.\n\nBuild a voice agent in 2 minutes, and it makes and receives real calls. Getting that from Twilio takes weeks of A2P verification. \n\nAnd it is one of 7 things that dropped this week most people slept on. Me and @AndrewWarner",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2074426194418926020",
+      "is_kol": false,
+      "score": 146.0
+    }
+  ]
+}
