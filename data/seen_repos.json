@@ -4578,5 +4578,65 @@
   "ai-synthetic-users/synthetic-users-mcp-skill": {
     "first_seen": "2026-07-07",
     "tier": 3
+  },
+  "chuspeeism/dashiai-ppt-skill": {
+    "first_seen": "2026-07-08",
+    "tier": 0
+  },
+  "muratcankoylan/agent-skills-for-context-engineering": {
+    "first_seen": "2026-07-08",
+    "tier": 2
+  },
+  "rmarji/chiron-council": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "anthropics/prompt-eng-interactive-tutorial": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "dmytriievp/atlas-research": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "xinian-dada/fuck_my_shit_mountain": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "robotmoney/robotmoney-skills": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "eoeboh/agent-skills": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "daytonaio/daytona": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "blacklanternsecurity/red-run": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "openbb-finance/openbb": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "nektos/act": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "bytedance/deer-flow": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "tribal-memory/tribal": {
+    "first_seen": "2026-07-08",
+    "tier": 3
+  },
+  "dekart-xyz/geosql": {
+    "first_seen": "2026-07-08",
+    "tier": 3
   }
 }

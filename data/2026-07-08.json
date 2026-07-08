@@ -1,0 +1,662 @@
+{
+  "date": "2026-07-08",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 171,
+    "tweets_with_repos": 23,
+    "unique_repos": 22,
+    "new_repos": 15,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "chuspeeism/dashiai-ppt-skill",
+      "github_url": "https://github.com/chuspeeism/dashiai-ppt-skill",
+      "tier": 0,
+      "is_new": true,
+      "score": 781.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "geekbb"
+      ],
+      "total_likes": 52,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekbb",
+        "text": "DashiAI PPT Skill · 大师\n\n一个给 AI Agent 用的 PPT 生成技能，把文档交给 Agent 后产出网页版可编辑 PPT，并支持一键导出成真实的、可编辑的 PPTX 文件。\n\n内置 12 套视觉主题和 1020 个版式页面，覆盖折线、瀑布、桑基等几十种图表，以及 SWOT、波特五力、商业模式画布等分析模型，做汇报常用页面都有现成版式。\n\nhttps://t.co/BLGB8mNGgb",
+        "likes": 52,
+        "url": "https://x.com/i/status/2074772223932379194"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074772223932379194"
+      ]
+    },
+    {
+      "repo": "muratcankoylan/agent-skills-for-context-engineering",
+      "github_url": "https://github.com/muratcankoylan/agent-skills-for-context-engineering",
+      "tier": 2,
+      "is_new": true,
+      "score": 840.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 210,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "muratcan",
+        "text": "We're now building loops that improve the harness itself.\n\nWith strong instruction-following models (e.g. GPT-5.6 Sol), more exploratory models (e.g. Fable 5), and efficient competitive ones (e.g. GLM-5.2), the next bottleneck is meta-harnesses that can safely rewrite their own s",
+        "likes": 210,
+        "url": "https://x.com/i/status/2074730841083621377"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074730841083621377"
+      ]
+    },
+    {
+      "repo": "rmarji/chiron-council",
+      "github_url": "https://github.com/rmarji/chiron-council",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NomadicRayo",
+        "text": "Each is a \"seat\" you add in one line:\n\nnpx skills add rmarji/chiron-council\n\nDistill any mind, real or fictional, into a cited, lint-enforced advisor. Even the detectives are sourced.\n\nhttps://t.co/JPxyrHPEbw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074602110059004261"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074602110059004261",
+        "https://x.com/i/status/2074592222180172204"
+      ]
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "github_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "tier": 3,
+      "is_new": true,
+      "score": 197.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heynavtoor",
+        "text": "10 free AI learning resources that will make you unstoppable in 90 days.\n\n1. Made With ML by Goku Mohandas\nTeaches you how to take an AI project from your laptop to a real product used by real people.\nSite → https://t.co/KvmnhYo4dO\n\n2. The Illustrated Transformer by Jay Alammar\nD",
+        "likes": 29,
+        "url": "https://x.com/i/status/2074750357100749185"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074750357100749185"
+      ]
+    },
+    {
+      "repo": "dmytriievp/atlas-research",
+      "github_url": "https://github.com/dmytriievp/atlas-research",
+      "tier": 3,
+      "is_new": true,
+      "score": 144.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PDmytriiev",
+        "text": "team chatgpt or team claude? for once you don’t have to pick.\n\ni built atlas crypto research, a free assistant that runs a full institutional-style research process on any project. instead of answering “is this coin good?” it works through tokenomics, on-chain metrics, audits, co",
+        "likes": 13,
+        "url": "https://x.com/i/status/2074771558531321871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074771558531321871"
+      ]
+    },
+    {
+      "repo": "xinian-dada/fuck_my_shit_mountain",
+      "github_url": "https://github.com/xinian-dada/fuck_my_shit_mountain",
+      "tier": 3,
+      "is_new": true,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_Caffeine",
+        "text": "코드가 가끔  \n진짜 `똥산`처럼 쌓여 있는 느낌 들 때 있지 않음? ㅋㅋ  \n그럴 때 쓰일 이름부터 강한 Skill 하나 있음.  \n\n「Fuck My Shit Mountain」 💩\n\n이건 Codex, Claude Code, Copilot, Gemini 같은  \nAI 코딩 에이전트용 코드 감사 Skill인데,  \n먼저 프로젝트 전체를 훑고  \n그다음 방향별로 감사를 돌려줌.\n\n보안, 안정성, 성능, 테스트 신뢰성, 유지보수성, 배포 프로세스, 관측성까지 보고,  \n전체 감사도 되고 필요한 항목만 ",
+        "likes": 9,
+        "url": "https://x.com/i/status/2074795376599843262"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074795376599843262"
+      ]
+    },
+    {
+      "repo": "robotmoney/robotmoney-skills",
+      "github_url": "https://github.com/robotmoney/robotmoney-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RobotMoneyAgent",
+        "text": "@monasex_1 npx skills add robotmoney/robotmoney-skills",
+        "likes": 2,
+        "url": "https://x.com/i/status/2074532605916008624"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074532605916008624"
+      ]
+    },
+    {
+      "repo": "eoeboh/agent-skills",
+      "github_url": "https://github.com/eoeboh/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EOEboh",
+        "text": "Has your AI agent ever told you \"done, tests pass\" and it wasn't actually done, or the tests never ran?\n\nI built a small fix for that.\n\nThis is a Review/verification skill. \nYou drop it in a folder, Claude Code reads it automatically, and now before Claude tells you anything is f",
+        "likes": 2,
+        "url": "https://x.com/i/status/2074813342548422789"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074813342548422789"
+      ]
+    },
+    {
+      "repo": "daytonaio/daytona",
+      "github_url": "https://github.com/daytonaio/daytona",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Daytona\n\nDaytona is a Secure and Elastic Infrastructure for Running AI-Generated Code\n\n72.4K GitHub stars - agent-frameworks\nInstall: npx skills add daytonaio/daytona\n\nhttps://t.co/dJLcBc2m0h\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074509053036732788"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074509053036732788"
+      ]
+    },
+    {
+      "repo": "blacklanternsecurity/red-run",
+      "github_url": "https://github.com/blacklanternsecurity/red-run",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MalwareBibleJP",
+        "text": "ペンテストやレッドチームの手順を、AIコーディングエージェント(Claude-Code等)が読み込む「スキル」としてパッケージ化した攻撃的セキュリティ向けのツール群が、GitHubで公開されています。代表例はBlack-Lantern-Security製の「red-run」や、バグバウンティ向けの「Claude-BugHunter」で、偵察から初期アクセス、脆弱性の悪用までを自然言語の指示でエージェントに進めさせる設計です。いずれもMITライセンス等の正規ツールで、利用は書面での認可がある資産に限る前提が明記され、実行前の承認ゲートや人間の関与を挟む作り",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074806959468110320"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074806959468110320"
+      ]
+    },
+    {
+      "repo": "openbb-finance/openbb",
+      "github_url": "https://github.com/openbb-finance/openbb",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: OpenBB\n\nFinancial data platform for analysts, quants and AI agents.\n\n69.5K GitHub stars - finance\nInstall: npx skills add OpenBB-finance/OpenBB\n\nhttps://t.co/yQUbF4m6kr\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074780842170192219"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074780842170192219"
+      ]
+    },
+    {
+      "repo": "nektos/act",
+      "github_url": "https://github.com/nektos/act",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Act\n\nRun your GitHub Actions locally 🚀\n\n70.8K GitHub stars - github-automation\nInstall: npx skills add nektos/act\n\nhttps://t.co/agYqkHCZVr\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074690215210312046"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074690215210312046"
+      ]
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "github_url": "https://github.com/bytedance/deer-flow",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Deer Flow\n\nAn open-source long-horizon SuperAgent harness that researches, codes, and creates. With...\n\n71.1K GitHub stars - agent-frameworks\nInstall: npx skills add bytedance/deer-flow\n\nhttps://t.co/sKkYZuSqOQ\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074644893754884222"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074644893754884222"
+      ]
+    },
+    {
+      "repo": "tribal-memory/tribal",
+      "github_url": "https://github.com/tribal-memory/tribal",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "samvfolo",
+        "text": "@Teddarific I did that with the current (beta) version of my tool:\n\n- npx skills add tribal-memory/tribal\n- \"Set up tribal for me\"\n\nThen it just gets on with it\n\nCould be much cleaner though; working on it",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074624965169541488"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074624965169541488"
+      ]
+    },
+    {
+      "repo": "dekart-xyz/geosql",
+      "github_url": "https://github.com/dekart-xyz/geosql",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RigneySec",
+        "text": "Geosql: A Claude/Codex skill for geospatial data https://t.co/8ZjT9fgbv9 https://t.co/2ZWwFuOSZS",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074799221371527463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074799221371527463"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 159.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L_go_mrk",
+        "text": "🚨AIにUIを作らせると「惜しい見た目」になりがちな人、これ見てください。\n\nHallmarkというopen-source design skillが出ています。\n\nClaude Code / Cursor / Codexに入れて使える、UIやLPをきれいに作るためのデザインスキルです。\n\nAIにコードだけ任せると、動くけど見た目が微妙な画面になりがちですが、こういうskillを渡すと「最初からデザイン感度込み」で作らせやすくなるのが良いです。\n\nインストールはこれだけ。\n\nnpx skills add nutlope/hallmark\n\nClaude ",
+        "likes": 18,
+        "url": "https://x.com/i/status/2074799402888376556"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074799402888376556"
+      ]
+    },
+    {
+      "repo": "pluviobyte/rnskill",
+      "github_url": "https://github.com/pluviobyte/rnskill",
+      "tier": 3,
+      "is_new": false,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QCXINT_",
+        "text": "🚨 Give your AI agents new skills with a single command.\n\nIf you're using Claude Code or Codex...\n\nthis is worth bookmarking.\n\nrnskill is an open-source collection of reusable SKILL.md packs that you can install like npm packages.\n\nOne command:\n\nnpx skills add Pluviobyte/rnskill\n\n",
+        "likes": 5,
+        "url": "https://x.com/i/status/2074629435958104407"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074629435958104407"
+      ]
+    },
+    {
+      "repo": "dominikmartn/nothing-design-skill",
+      "github_url": "https://github.com/dominikmartn/nothing-design-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QCXINT_",
+        "text": "🚨 Want Claude Code to generate UIs in Nothing's design language?\n\nCheck out nothing-design-skill.\n\nA Claude Code Skill that generates interfaces with a monochrome, typographic, industrial aesthetic inspired by Nothing.\n\nPerfect for:\n\n→ Landing pages\n→ Dashboards\n→ SaaS apps\n→ Mod",
+        "likes": 2,
+        "url": "https://x.com/i/status/2074805602434601032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074805602434601032"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "safishamsi/graphify",
+      "github_url": "https://github.com/safishamsi/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Graphify\n\nAI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn...\n\n69.6K GitHub stars - rag-knowledge\nInstall: npx skills add safishamsi/graphify\n\nhttps://t.co/hrpBi2xAbz\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074735540151132581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074735540151132581"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zqkruqw",
+        "text": "@HeyGen $ npx skills add heygen-com/hyperframes\ni   love  HyperFrames",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074666480663187658"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074666480663187658"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gilgoldstein",
+        "text": "mvanhorn/last30days-skill tracks your Claude Code activity over 30 days - nice for spotting patterns in how you work. https://t.co/zKAL32Ds5d",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074810846312608078"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074810846312608078"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2074533418004591077",
+      "author": "GoogleAIStudio",
+      "text": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "likes": 510,
+      "views": 0,
+      "url": "https://x.com/i/status/2074533418004591077",
+      "is_kol": false,
+      "score": 1855.0
+    },
+    {
+      "id": "2074668188651098181",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.143.0 is out.\n\nHighlights:\n- Remote plugins are now enabled by default, with npm marketplace sources and visible remote/local versions.\n- Auth and Responses API traffic can now route through macOS and Windows system proxies, including PAC and WPAD.\n- Amazon Bedrock GP",
+      "likes": 432,
+      "views": 0,
+      "url": "https://x.com/i/status/2074668188651098181",
+      "is_kol": false,
+      "score": 1416.0
+    },
+    {
+      "id": "2074765437049376825",
+      "author": "AITECHio",
+      "text": "Prompt Engineering Was Step One!\n\nThe first wave of AI was about writing better prompts. The next wave is about building systems.\n\nAI agents don't just generate text. They retrieve data, make decisions, call APIs, trigger workflows, and complete tasks.\n\nKnowing how to build those",
+      "likes": 200,
+      "views": 0,
+      "url": "https://x.com/i/status/2074765437049376825",
+      "is_kol": false,
+      "score": 1025.0
+    },
+    {
+      "id": "2074689084530864641",
+      "author": "santtiagom_",
+      "text": "si hoy tuviera que aprender sobre agentes, estos son los temas en los que me enfocaría:\n\n- context engineering\n- memoria\n- orquestación de agentes\n- evals\n- mcp servers\n- observabilidad\n- tool design\n- routing de modelos\n- sandboxing y permisos\n- feedback loops\n\nal final, casi to",
+      "likes": 257,
+      "views": 0,
+      "url": "https://x.com/i/status/2074689084530864641",
+      "is_kol": false,
+      "score": 841.0
+    },
+    {
+      "id": "2074533915038027972",
+      "author": "_philschmid",
+      "text": "Today, we're shipping 4 new capabilities for Managed Agents in the @GoogleDeepMind Gemini API! Background Execution, Remote MCP servers, Custom Function Calling and credentials refresh.\n\n⏱️ Run long-running tasks asynchronously on the server (`background: true`)\n🔌 Connect agents ",
+      "likes": 210,
+      "views": 0,
+      "url": "https://x.com/i/status/2074533915038027972",
+      "is_kol": false,
+      "score": 725.0
+    },
+    {
+      "id": "2074538486762192902",
+      "author": "googleaidevs",
+      "text": "We’re expanding managed agents in the Gemini API with added support for:\n\n1. Long-running background execution: Run interactions asynchronously on the server without needing to hold an open HTTP connection.\n2. Remote MCP server: Connect managed agents directly to private database",
+      "likes": 202,
+      "views": 0,
+      "url": "https://x.com/i/status/2074538486762192902",
+      "is_kol": false,
+      "score": 706.0
+    },
+    {
+      "id": "2074601671569948727",
+      "author": "XFreeze",
+      "text": "Grok Build just received another major update, introducing new session controls, smarter permissions, plugin enhancements, and a long list of reliability improvements\n\nRelease Notes: v0.2.90 — 2026-07-07\n\nFeatures:\n• New /minimal and /fullscreen slash commands let you switch the ",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2074601671569948727",
+      "is_kol": false,
+      "score": 454.0
+    },
+    {
+      "id": "2074764429263344072",
+      "author": "milesdeutscher",
+      "text": "If you use Hermes agent, you need to install this skill.\n\nThere's a free Hermes Agent skill that automatically removes your personal data from every data broker on the internet.\n\nIt's called Unbroker. Here's what it does and how to set it up:\n\nWhat it actually does\n\nData brokers ",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2074764429263344072",
+      "is_kol": false,
+      "score": 375.0
+    },
+    {
+      "id": "2074561458260857298",
+      "author": "kernio",
+      "text": "As we've launched Figma Code Layers, MCP Server, Motion, and generative shaders and plugins, I have been thinking about the role of prompting in the creative process.\n\nIn 1978, Card, English, and Burr at Xerox PARC showed that direct pointing with a mouse outperformed the alterna",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2074561458260857298",
+      "is_kol": false,
+      "score": 363.0
+    },
+    {
+      "id": "2074704410211467294",
+      "author": "pablostanley",
+      "text": "ask claude to do this to save tokens while using fable:\n\n\"create a skill where you (fable) only plan, solve hard logic, and review. delegate production code: opus for taste, sonnet for grunt work. spec them fully, review their diffs yourself, send fixes back to the same agent\"\n\nI",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2074704410211467294",
+      "is_kol": false,
+      "score": 358.0
+    },
+    {
+      "id": "2074732144988135546",
+      "author": "HowToPrompt__",
+      "text": "Microsoft made ChatGPT's accuracy jump from 41% to 80% without touching a single parameter.\n\nThe system is called SkillOpt.\n\nMost people think AI agents improve by writing better prompts or fine-tuning the model itself. But fine-tuning is rigid, slow, and expensive. And \"prompt e",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2074732144988135546",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2074740921334366495",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update, bringing faster image handling, improved session controls, and more reliability enhancements\n\nRelease Notes: v0.2.92 — 2026-07-08\n\nFeatures:\n• /minimal and /fullscreen commands let you switch the current session between minimal and fullscreen m",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2074740921334366495",
+      "is_kol": false,
+      "score": 338.0
+    },
+    {
+      "id": "2074732405743624650",
+      "author": "dotey",
+      "text": "这篇关于如何写出好的 Skill 的文章，大部分还是不错的，也有些不严谨之处。\n\n1. 不要让模型自己写自己的 Skill ❓\n\n文章意思是人类专家写的技能比 AI 写的更好，应该人来写技能而不是让 AI 写 Skill。\n\n> 让智能体自己给自己写 Skill，这个想法非常诱人。SkillsBench 专门测试了这一点：每个任务都在三种条件下运行，无 Skill、专家策划的 Skill、模型自生成的 Skill。专家策划的 Skill 显著提升了通过率。模型自生成的 Skill 完全没有帮助，平均还比无 Skill 基线低 1.3 个点。作者的结论是：",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2074732405743624650",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2074758348264833131",
+      "author": "op7418",
+      "text": "开源一个非常漂亮的文章配图 Skill。  \n\n昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。  \n\n发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。  目前只适配了 GPT-Image-2.0 模型。  \n\n支持将你的文档或文案发进去，生成一个干净漂亮、带标签的 3D 材质配图。",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2074758348264833131",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2074619503489564928",
+      "author": "ErnestoSOFTWARE",
+      "text": "lmao this app makes $600,000/mo with literal TikTok AI dancing slop😭\n\nThis app makes AI dancing videos of people as a \"prank\"\n\nthey run 1,000s of ads, all are the same thing  with a different angle.\n\ntheir whole workflow is basically:\n\n→ find a viral tiktok dance \n→ add a start c",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2074619503489564928",
+      "is_kol": false,
+      "score": 312.0
+    },
+    {
+      "id": "2074493335150993832",
+      "author": "Mikadzyki_NFT",
+      "text": "WHY MAC MINI IS SELLING OUT WORLDWIDE AND WHAT AI HAS TO DO WITH IT\n\nPeople aren’t buying them for regular work. The reason is free software that turns a Mac Mini into an autonomous AI agent running 24/7 with no subscriptions at all\n\nTools like OpenClaw and Hermes install directl",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2074493335150993832",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2074550585932623919",
+      "author": "JackWoth98",
+      "text": "Big release for Gemini Managed Agents today🚀\n\n🔌- Remote MCP server support\n⏱️- Long running background tasks\n🧩- Custom function calling, pass your own tools\n🔑- Refresh credentials and API keys across turns\n\nThese features help make managed agents that much more powerful at accomp",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2074550585932623919",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2074559295660978521",
+      "author": "rohanpaul_ai",
+      "text": "Google Gemini just gave developers much stronger tools for production AI agents.\n\ni.e. Gemini API Managed Agents now are much closer to production with new addition of background tasks, remote MCP, function calls, credential refresh, and free-tier access.\n\nManaged Agents are Goog",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2074559295660978521",
+      "is_kol": true,
+      "score": 280.0
+    }
+  ]
+}
