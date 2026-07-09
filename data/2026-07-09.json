@@ -1,0 +1,607 @@
+{
+  "date": "2026-07-09",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 172,
+    "tweets_with_repos": 20,
+    "unique_repos": 19,
+    "new_repos": 11,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "cloudflare/skills",
+      "github_url": "https://github.com/cloudflare/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 1290.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 370,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "riku720720",
+        "text": "Cloudflare何がすごいのかよくわからん人はとりあえず\n\n'npx skills add cloudflare/skills'\n\nしよう https://t.co/SeQDVkeSj7",
+        "likes": 370,
+        "url": "https://x.com/i/status/2075001929080684869"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075001929080684869"
+      ]
+    },
+    {
+      "repo": "insforge/insforge",
+      "github_url": "https://github.com/insforge/insforge",
+      "tier": 3,
+      "is_new": true,
+      "score": 254.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_avichawla",
+        "text": "I just built a 4-agent software team.\n\nEverything runs from Telegram and is managed on a Kanban board.\n\n- A project manager who plans the work\n- A backend developer\n- A frontend developer\n- And a tester\n\nThe PM reads a goal, breaks it into linked tasks, and assigns each to the ri",
+        "likes": 43,
+        "url": "https://x.com/i/status/2075153041343615361"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075153041343615361"
+      ]
+    },
+    {
+      "repo": "limboinf/cf-drop",
+      "github_url": "https://github.com/limboinf/cf-drop",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "limbopeng",
+        "text": "@BraydenWilmoth npx skills add limboinf/cf-drop\n\nA one-line command to deploy a folder/zip to Cloudflare Drop and get a live, publicly accessible site — no login required, live in seconds, claimable for permanent hosting within 60 minutes.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075146753666695647"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075146753666695647",
+        "https://x.com/i/status/2075146361385947590"
+      ]
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "github_url": "https://github.com/ruvnet/ruflo",
+      "tier": 3,
+      "is_new": true,
+      "score": 199.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CDGalpha",
+        "text": "you can get access to 100+ Ai agents for free 😳\n\none command turns claude code from a single coder into a full team that plans, codes, tests, and audits in parallel. it learns your codebase, remembers across sessions, and routes easy tasks to cheaper models so your bill drops.\n\nr",
+        "likes": 33,
+        "url": "https://x.com/i/status/2075117086720868757"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075117086720868757"
+      ]
+    },
+    {
+      "repo": "sijirama/agent-skills",
+      "github_url": "https://github.com/sijirama/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oluwasijirama",
+        "text": "@darasoba try mine too and let me know -\n\nnpx skills add sijirama/agent-skills --skill fable-reasoning  --global",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075053579673469275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075053579673469275"
+      ]
+    },
+    {
+      "repo": "sumitttt4/glyph-skill",
+      "github_url": "https://github.com/sumitttt4/glyph-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sumitdotme",
+        "text": "Designed with npx skills add sumitttt4/Glyph-Skill in just one prompt \n\n\"build a landing page named Nowar work design apps in minutes  light mode\" https://t.co/awuUishH2Z",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075190001797832986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075190001797832986"
+      ]
+    },
+    {
+      "repo": "scikit-learn/scikit-learn",
+      "github_url": "https://github.com/scikit-learn/scikit-learn",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Scikit Learn\n\nscikit-learn: machine learning in Python\n\n66.4K GitHub stars - data-analysis\nInstall: npx skills add scikit-learn/scikit-learn\n\nhttps://t.co/nh1IiXLFbX\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075188283223540168"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075188283223540168"
+      ]
+    },
+    {
+      "repo": "evanwhl508/ai-agent-skills",
+      "github_url": "https://github.com/evanwhl508/ai-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Evanwon16314650",
+        "text": "Image Generation Infra locks a master reference per subject — the real consistency lever — then builds your style guide, design sheets, and prompts around it.\n\nnpx skills add evanwhl508/ai-agent-skills --skill image-generation-infra\n\nhttps://t.co/mDo8biVrAZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075175804934181055"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075175804934181055"
+      ]
+    },
+    {
+      "repo": "noisemaker111/reduce-tokens",
+      "github_url": "https://github.com/noisemaker111/reduce-tokens",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "noisemakerjon",
+        "text": "@mattpocockuk @JamesHurburgh npx skills add Noisemaker111/reduce-tokens",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074908852001120366"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074908852001120366"
+      ]
+    },
+    {
+      "repo": "agarun/do-the-least",
+      "github_url": "https://github.com/agarun/do-the-least",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "agarune",
+        "text": "prevent your agents from over-engineering\n\nadd /do-the-least to your prompts\n\nnpx skills add agarun/do-the-least\n\n- prune changes until they're as minimal as possible\n- reduce complexity and write idiomatic code\n- reuse existing patterns, solve defects, and tighten footprints",
+        "likes": 0,
+        "url": "https://x.com/i/status/2074902678300180563"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074902678300180563"
+      ]
+    },
+    {
+      "repo": "kunchenguid/lavish-axi",
+      "github_url": "https://github.com/kunchenguid/lavish-axi",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Michaelzsguo",
+        "text": "These days, agents do the heavy lifting. Reviewing what they did and understanding how they did it is becoming the new bottleneck.\n\nWhat makes it worse: when you ask an agent to explain what it did, it comes back with a giant blob of text in 10pt font that you have to scroll thro",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075186553798668367"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075186553798668367"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "elevenlabs/skills",
+      "github_url": "https://github.com/elevenlabs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tonnoz",
+        "text": "Here is how to generate all the sound effects for your game/app in 2 minutes:\n\n1. Enable a subscription on @ElevenLabs\n\n2. Create an API key with SFX generation privileges\n\n3. Run:\n   npx skills add elevenlabs/skills\n\n4. Tell Claude/Codex to find where your app still needs SFX, g",
+        "likes": 12,
+        "url": "https://x.com/i/status/2075047545395662861"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075047545395662861"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "majidmanzarpour",
+        "text": "@threejs Install / update:\n\nnpx skills add majidmanzarpour/threejs-game-skills\n\nalready installed? → npx skills update -g",
+        "likes": 3,
+        "url": "https://x.com/i/status/2075040924338380849"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075040924338380849"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EngMoElgaraihy",
+        "text": "لو بتستخدم الذكاء الاصطناعي عشان يبني لك واجهات مستخدم (UI) أو صفحات هبوط (LP)، وتلاحظ دائمًا إن الكود بيشتغل تمام بس الشكل النهائي بيطلع \"قديم أو مش مريح بصريًا\".. الأداة دي هتحل لك الأزمة دي للأبد!\n\n​تم إطلاق أداة Hallmark، وهي عبارة عن حزمة مهارات تصميمية مفتوحة المصدر (Open-s",
+        "likes": 3,
+        "url": "https://x.com/i/status/2075185737977172140"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075185737977172140"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "gabrielobholz/corner-smoothing-skill",
+      "github_url": "https://github.com/gabrielobholz/corner-smoothing-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCode_UT",
+        "text": "【保存版】\nAppleのアプリでよく見る、角が柔らかく丸まったあの丸め方😳\nこのニュアンス、Claude CodeやCodexに毎回言葉で説明しても伝わらないと、海外デザイナーが投稿している\n\nこの人が作った解決策がこれ👇\n\nhttps://t.co/NcqZK7oOjs\n\n・「60%のコーナースムージング」という角の丸め方を、毎回一から説明していた\n・npx skills add gabrielobholz/corner-smoothing-skill でこの概念をSkillとして登録\n・以降は「radius: 32, smoothing: 60の四角",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075188261019058426"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075188261019058426"
+      ]
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "github_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: AI Agents For Beginners\n\n12 Lessons to Get Started Building AI Agents\n\n67.3K GitHub stars - agent-frameworks\nInstall: npx skills add microsoft/ai-agents-for-beginners\n\nhttps://t.co/61l661iKIb\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2074961776353873947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2074961776353873947"
+      ]
+    },
+    {
+      "repo": "kkkkhazix/khazix-skills",
+      "github_url": "https://github.com/kkkkhazix/khazix-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "16.7K stars and nobody on my timeline has mentioned this.\n\nkhazix-skills is a collection of AI agent skills you can load into Claude Code, Codex, OpenCode, or OpenClaw. Storage analyzer that scans your disk and sorts cleanup decisions by priority. An HV analysis skill that takes ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075142418966659098"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075142418966659098"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Vincent_AINotes",
+        "text": "GitHub：https://t.co/SACXf7ubRd\n\n🛠️ 一条命令安装：\n\nClaude Code：\n/plugin marketplace add mvanhorn/last30days-skill\n\nCodex / Cursor等50+平台：\nnpx skills add mvanhorn/last30days-skill -g\n\n免费源（Reddit/HN/GitHub/arXiv/Techmeme/Digg）开箱即用。\n\n💡 4个真实使用场景：\n\n① 会前调研\n/last30days 某某CEO\n→ 知道对方本月真实动态、PR记录、社",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075058237754532278"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075058237754532278"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2075150468737860021",
+      "author": "DamiDefi",
+      "text": "THIS GUY TESTED 100+ CLAUDE CODE SKILLS SO YOU DON'T HAVE TO.\n\nHis conclusion surprised me.\n\nThe most valuable Claude Code skills aren't flashy AI demos.\n\nThey're the ones that reduce token costs, preserve context, prevent mistakes, and make AI outputs production-ready.\n\nThe 6 wo",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2075150468737860021",
+      "is_kol": false,
+      "score": 540.0
+    },
+    {
+      "id": "2075128457030472110",
+      "author": "shivsakhuja",
+      "text": "Introducing Apple Notes ads in Claude\n\nWe made a skill /goose-video that teaches Claude to one-shot Apple Notes ads like these.\n\nApple Notes ads are doing incredibly well on Meta and TikTok - because they're authentic, easy to understand and drive curiosity.\n\nThis skill teaches C",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2075128457030472110",
+      "is_kol": false,
+      "score": 459.0
+    },
+    {
+      "id": "2075109812413825267",
+      "author": "tetsuoai",
+      "text": "Ray Fernando is actually cracked.\n\nWatched his stream and found this repo github/RayFernando1337/rayfernando-skills\n\nOne of the highest-quality public examples of professional agent skill design I've seen.\n\nClone this and study it.",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2075109812413825267",
+      "is_kol": false,
+      "score": 442.0
+    },
+    {
+      "id": "2075132058586984646",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update today, bringing new workflow enhancements, smarter session management, and a wide range of reliability improvements\n\nThe pace of development on Grok Build is insane.....there’s barely a single day without some improvement landing\n\nRelease Notes:",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2075132058586984646",
+      "is_kol": false,
+      "score": 391.0
+    },
+    {
+      "id": "2075138662312849572",
+      "author": "deathv1per",
+      "text": "Most gaming competitions reward fast hands.\n\n@ClawArenaWorld feels different because the player is your AI agent, not you.\n\nYou set it up, tune its behavior, watch how it performs, then improve it over time. No pro gaming skill needed, no AI background needed, just consistency an",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2075138662312849572",
+      "is_kol": false,
+      "score": 359.0
+    },
+    {
+      "id": "2074901797655679085",
+      "author": "apify",
+      "text": "Before x402: your agent needed an API key, an account, a credit card.\n\nNow: a USDC wallet on @base. Connect to the Apify MCP server, run an Actor, pay per result. Empty run? No charge.\n\n20,000+ Actors. No account needed. https://t.co/3azoHKz0gf",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2074901797655679085",
+      "is_kol": false,
+      "score": 335.0
+    },
+    {
+      "id": "2075118267958469107",
+      "author": "Neyro_network",
+      "text": "No-code Agent Tools are the Future \n\nIntent-based transactions are the Present \n\nUnbeatable Skill Ceilings to Trading are the Past \n\nJoin @Neyro_Network, see where Agentic leads https://t.co/rRmR4wr9d4",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2075118267958469107",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2074949542198255643",
+      "author": "berman66",
+      "text": "This is exactly what we enable our customers to do.\n\nOur process is basically Uber's on steroids.\n\n1. We pair an FDE with your AI champion. Every rollout starts by embedding one of our forward-deployed engineers with the person on your team actually building agents\n\n2. We see wha",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2074949542198255643",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2075116819023643051",
+      "author": "Mapemaofweb3",
+      "text": "not everyone has time (or skill) to grind games all day\n\nbut what if you could still compete anyway?\n\njust came across @ClawArenaWorld\nit’s basically a platform where AI agents play games and compete\n\nyou don’t even need to be good at the game\nyou set up your own agent, tune it, ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2075116819023643051",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2074911157819769257",
+      "author": "xiathis",
+      "text": "spent 3 years opening a separate app every time i needed a video ad.\n\ncontext switch. new tab. new login. wait. export. download. reupload.\n\ndid that today from my terminal instead. never left my editor.\n\ncreatify built an mcp + 5 skills that put their creative agent inside claud",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2074911157819769257",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2075102683133010299",
+      "author": "turingou",
+      "text": "想象一下，现在构建一个新的 AI app：\n1. 核心是围绕对话框的 agent\n2. 对话框的 agent 需要支持所有业务 API 的调用\n3. 对话框的 agent 需要广泛调用不同的 tools（连接器）\n4. 对话框的 agent 还需要在其他的聊天框中可用（比如 codex 或者 claude code）意味着你需要把业务包装成 MCP/Skill\n5. 对话框的 agent 需要生成符合我们产品风格的 UI，并且还需要在其他聊天框中也生成类似的 UI。\n6. 毫无疑问，这个以对话框 agent 为核心的产品还需要跨平台可用。\n\n你能想象到完",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2075102683133010299",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2075093661763686543",
+      "author": "AYi_AInotes",
+      "text": "牛逼，Fable 5 token消耗直接省60%！\nClaude Code里挂载Codex订阅，双模型分工协同跑开发，贵的模型管决策，便宜的模型干体力活。\n\n核心逻辑一句话，Fable 5只做高价值工作，规划架构拆解审查。\n所有代码实现调试重构这类重复劳动，全委派给GPT 5.5执行。\n设置一次永久复用，所有项目通用。\n\n第一步 安装官方插件\n依次执行三条命令：\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2075093661763686543",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2075152858912297284",
+      "author": "MEJ50749",
+      "text": "之前孙哥喊存储的时候,你们不当回事。\n\n现在他又开始看中物理 AI / 人形机器人这条线，我觉得这次真的别再错过了。\n\n很多人看到「物理 AI / 人形机器人」，第一反应都是：很热，未来很大。但真正落到研究上，问题就来了：到底该看哪条产业链？哪一层才是真瓶颈？哪些公司是真的受益，哪些只是蹭概念？\n\n我在𝗘𝗮𝘀𝘆𝗖𝗹𝗮𝘄里用 𝗦𝗲𝗿𝗲𝗻𝗶𝘁𝘆.𝘀𝗸𝗶𝗹𝗹顺手拆了一遍物理 𝗔𝗜，结论比我想象中更清楚。\n\n这个 skill 的方法很简单，但很适合做产业链研究。它不是一上来就丢你一堆股票名单，而是先问：热点背后，系统到底发生了什么变化？系统扩张时，哪一环最难扩产",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2075152858912297284",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2074978207996989876",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.93! 🚀\n\nChangelog v0.2.93\n\nBreaking Changes:\n• Esc no longer cancels a running turn; use Ctrl+C instead. Double-Esc rewind now works while focused on scrollback.\n\nFeatures:\n• MCP permission prompts now show the planned arguments so you c",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2074978207996989876",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2075117928001962256",
+      "author": "a_g_e_n_c",
+      "text": "The AgenC daemon-backed, terminal-native agent is now installable by anyone, one command:\n\ncurl -fsSL https://t.co/dDNN1ZbBP7 | sh\n\nAlso on npm, Homebrew, and https://t.co/AHpbGjCgcA. Five platforms, every runtime tarball sha256-verified before it touches your machine.\n\nAgenC rea",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2075117928001962256",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2074910548328694165",
+      "author": "isamquintero",
+      "text": "the browser-based creative tool is on its way out.\n\nnobody wants to leave their workflow, log into another dashboard, and rebuild the same brand for the hundredth time.\n\n@creatify_ai saw that and did the obvious thing: they moved into the terminal.\n\n1 mcp server. 5 skills. their ",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2074910548328694165",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2075004123943195017",
+      "author": "NathanFlurry",
+      "text": "the next 3 months are going to be really interesting in agent infra, some unfiltered thoughts…\n\nwe started the year with \"give agents linux os\" with sandboxes\n\nnow we’re seeing devs building “virtual operating systems” specific to their use case with actor/sqlite/other interestin",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2075004123943195017",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2074916115902603578",
+      "author": "FareaNFts",
+      "text": "you can bypass every API rate limit with one gateway that routes through 237 providers for free 😳\n\nOmniRoute is trending on GitHub. one local gateway that sits between your agent and every AI provider. when one tier hits a limit, the next takes over in milliseconds\n\nwhat it unloc",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2074916115902603578",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2074901605468471542",
+      "author": "merge_api",
+      "text": "Claude on AWS Bedrock (@awscloud) ships without third-party connectivity.\n\nMerge is now the certified way to add it: hundreds of tools through one IT-managed MCP server, permissions from your IdP. https://t.co/uFO7h2vgIv",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2074901605468471542",
+      "is_kol": false,
+      "score": 162.0
+    }
+  ]
+}

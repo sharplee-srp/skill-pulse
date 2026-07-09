@@ -4638,5 +4638,49 @@
   "dekart-xyz/geosql": {
     "first_seen": "2026-07-08",
     "tier": 3
+  },
+  "cloudflare/skills": {
+    "first_seen": "2026-07-09",
+    "tier": 2
+  },
+  "insforge/insforge": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "limboinf/cf-drop": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "ruvnet/ruflo": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "sijirama/agent-skills": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "sumitttt4/glyph-skill": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "scikit-learn/scikit-learn": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "evanwhl508/ai-agent-skills": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "noisemaker111/reduce-tokens": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "agarun/do-the-least": {
+    "first_seen": "2026-07-09",
+    "tier": 3
+  },
+  "kunchenguid/lavish-axi": {
+    "first_seen": "2026-07-09",
+    "tier": 3
   }
 }
