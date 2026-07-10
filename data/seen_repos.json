@@ -4682,5 +4682,65 @@
   "kunchenguid/lavish-axi": {
     "first_seen": "2026-07-09",
     "tier": 3
+  },
+  "jkawamoto/mcp-youtube-transcript": {
+    "first_seen": "2026-07-10",
+    "tier": 2
+  },
+  "slidevjs/slidev": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "chengzuopeng/stock-sdk": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "sbroenne/mcp-server-excel": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "bradautomates/claude-video": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "openagentinternet/open-agent-connect": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-design": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "agenticros/agenticros": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "keras-team/keras": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "kstevica/captain-claw": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "atdy/maoxuan-product-agent": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "aka-luan/doc-cleanup": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "tablespark/gdpr-compliance-audit": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "isjiamu/gzh-design-skill": {
+    "first_seen": "2026-07-10",
+    "tier": 3
+  },
+  "openclaw/acpx": {
+    "first_seen": "2026-07-10",
+    "tier": 3
   }
 }

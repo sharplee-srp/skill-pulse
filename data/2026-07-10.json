@@ -1,0 +1,682 @@
+{
+  "date": "2026-07-10",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 174,
+    "tweets_with_repos": 25,
+    "unique_repos": 23,
+    "new_repos": 15,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "jkawamoto/mcp-youtube-transcript",
+      "github_url": "https://github.com/jkawamoto/mcp-youtube-transcript",
+      "tier": 2,
+      "is_new": true,
+      "score": 526.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 122,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Retrieves YouTube transcripts via MCP server\n\nhttps://t.co/E3tKWhKVGs https://t.co/S5jaGnPid8",
+        "likes": 122,
+        "url": "https://x.com/i/status/2075271623532229118"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075271623532229118"
+      ]
+    },
+    {
+      "repo": "slidevjs/slidev",
+      "github_url": "https://github.com/slidevjs/slidev",
+      "tier": 3,
+      "is_new": true,
+      "score": 422.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 94,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "antfu7",
+        "text": "@Slidevjs now ships with a built-in MCP server:\nhttps://t.co/5BHAaFsgwP",
+        "likes": 94,
+        "url": "https://x.com/i/status/2075394263320584371"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075394263320584371"
+      ]
+    },
+    {
+      "repo": "chengzuopeng/stock-sdk",
+      "github_url": "https://github.com/chengzuopeng/stock-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 295.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BTCqzy1",
+        "text": "做股票研究，获取数据最麻烦。要么用爬虫，要么依赖后端，要么调用各种API。\n\n分享一个超级实用的 GitHub 项目 —— stock-sdk\n\n这是一个为前端设计的零依赖股票数据 SDK。无需 Python、无需后端，直接在浏览器或 Node.js 中获取 A 股 / 港股 / 美股 / 基金的实时行情、K 线、技术指标、筹码分布。还自带 CLI 和 MCP server，一条命令取行情或接入 Claude / Cursor。\n\n✅核心亮点：\n\n零依赖 + 双端运行 - 浏览器 + Node.js 18+ 都能跑，ESM + CJS 双格式，bundl",
+        "likes": 50,
+        "url": "https://x.com/i/status/2075412616688828641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075412616688828641"
+      ]
+    },
+    {
+      "repo": "sbroenne/mcp-server-excel",
+      "github_url": "https://github.com/sbroenne/mcp-server-excel",
+      "tier": 3,
+      "is_new": true,
+      "score": 250.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "MCP server for Microsoft Excel with 230 operations for AI automation\n\nhttps://t.co/hJejwSSpnR https://t.co/Cmqpxt9Hv0",
+        "likes": 40,
+        "url": "https://x.com/i/status/2075482673431109715"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075482673431109715"
+      ]
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "github_url": "https://github.com/bradautomates/claude-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "israfill",
+        "text": "OpenAi, Anthropic, and Google all decided video understanding was too expensive to ship natively\n\nthen a solo dev open sourced it in a weekend and shipped it as a free claude code plugin 😳\n\nclaude-video /watch - paste any youtube url, claude sees the actual frames, answers ground",
+        "likes": 4,
+        "url": "https://x.com/i/status/2075550358206882292"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075550460434579518",
+        "https://x.com/i/status/2075550358206882292"
+      ]
+    },
+    {
+      "repo": "openagentinternet/open-agent-connect",
+      "github_url": "https://github.com/openagentinternet/open-agent-connect",
+      "tier": 3,
+      "is_new": true,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lufe77Liya77",
+        "text": "@coinbase is spot on,  pivot your AI agents to paying with crypto. \n\nOpen Agent Connect (OAC) goes deeper: it connects local agents (Codex, Claude, OpenClaw etc.) to a permissionless blockchain network as MetaBotswith sovereign MetaID.\n\nKey capabilities:\n- Persistent on-chain ide",
+        "likes": 2,
+        "url": "https://x.com/i/status/2075415263801954515"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075415263801954515"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-design",
+      "github_url": "https://github.com/joeseesun/qiaomu-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "这个设计系统来自IBM，地址 https://t.co/IkMqh0vC8P\n\n已经吸收到乔木设计Skill中\nhttps://t.co/uhPq5NF2um\n\n安装skill指令：\nnpx skills add joeseesun/qiaomu-design",
+        "likes": 3,
+        "url": "https://x.com/i/status/2075393848952475663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075393848952475663"
+      ]
+    },
+    {
+      "repo": "agenticros/agenticros",
+      "github_url": "https://github.com/agenticros/agenticros",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AgenticROS",
+        "text": "Shipped in AgenticROS:\n\n• Fleet-aware robot discovery \n• Pause/resume missions \n• One skill table → OpenClaw, MCP, Gemini • Gemini find/follow parity \n• Nav2 &amp; ROS nodes callable by name\n\nAgents plan in capabilities, not raw topics.\nhttps://t.co/bjbUW3NOHU https://t.co/YtWqJz",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075310257774141480"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075310257774141480"
+      ]
+    },
+    {
+      "repo": "keras-team/keras",
+      "github_url": "https://github.com/keras-team/keras",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Keras\n\nDeep Learning for humans\n\n64.1K GitHub stars - ml-automation\nInstall: npx skills add keras-team/keras\n\nhttps://t.co/i2Psmnh05E\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075550882419134843"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075550882419134843"
+      ]
+    },
+    {
+      "repo": "kstevica/captain-claw",
+      "github_url": "https://github.com/kstevica/captain-claw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DerekColley_",
+        "text": "Captain Claw by @kstevica runs locally, supports OpenAI/Anthropic/Gemini/DeepSeek hosted models plus local via Ollama/OpenRouter. MIT license - fully permissive for commercial use.\n\nInstall: npx skills add kstevica/captain-claw\nGitHub: https://t.co/ooeQ1q5T5f (142 stars and growi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075512358542147753"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075512358542147753"
+      ]
+    },
+    {
+      "repo": "atdy/maoxuan-product-agent",
+      "github_url": "https://github.com/atdy/maoxuan-product-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xuxing0727",
+        "text": "完整测试：36 个真实产品场景 36/36 通过，另有 4 条全新 Claude Code 前向测试。\n\n30 秒安装：\nnpx skills add atdy/maoxuan-product-agent --skill product-decision-agent\n\n在线说明：\nhttps://t.co/fQiMjmf78y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075404502035992709"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075404502035992709"
+      ]
+    },
+    {
+      "repo": "aka-luan/doc-cleanup",
+      "github_url": "https://github.com/aka-luan/doc-cleanup",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tiopicles",
+        "text": "after running it: 1,085 lines of required reading down to 266. nothing lost, 919 lines just moved to docs/archive where they belong\n\nit's one SKILL.md file:\n\nnpx skills add aka-luan/doc-cleanup\n\nif your CLAUDE.md setup is more than a month old, it's probably lying to your agents",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075392679328862362"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075392679328862362"
+      ]
+    },
+    {
+      "repo": "tablespark/gdpr-compliance-audit",
+      "github_url": "https://github.com/tablespark/gdpr-compliance-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KalenZ20",
+        "text": "Every vibe coder should install this skill before they put their project live. 🛑\n\nhttps://t.co/AfWgcNhvDK\n\nAI coding agents have made it absurdly easy to go from idea to launch in a weekend. But there's a step almost everyone skips in the rush: the moment your app collects a sing",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075414774993621109"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075414774993621109"
+      ]
+    },
+    {
+      "repo": "isjiamu/gzh-design-skill",
+      "github_url": "https://github.com/isjiamu/gzh-design-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yujianweilai001",
+        "text": "gzh-design-skill 不是写作工具，也不是发布工具。它是给 Agent 用的公众号排版 Skill：把 Markdown / Word / PDF / 纯文本整理成可粘贴 HTML。\n\n获取：GitHub 搜 isjiamu/gzh-design-skill\n安装：npx skills add https://t.co/K7K24hWCNK\n\n特点：6 套主题、主题生成器、章节编号、目录、关键词下划线、代码块、图片/GIF、脚本校验。\n\n我会把它放在 Codex 工作流末端：先定稿，再排版。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075551124019413207"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075551124019413207"
+      ]
+    },
+    {
+      "repo": "openclaw/acpx",
+      "github_url": "https://github.com/openclaw/acpx",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bkase_",
+        "text": "@debasishg Just tell codex to make you a skill for this and it will work out how to call it for you. I recommend using acp and https://t.co/9Ul0dTd8Ro",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075542096488919434"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075542096488919434"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 602.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 129,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mattpocockuk",
+        "text": "Here's a skill you can run once to set up deep modules in any TypeScript codebase:\n\n- Each 'package' lives at src/packages/<name> (name/path is totally customizable)\n- From outside the package, you can only import from <name>/index.ts\n- Tests for the package live at <name>/tests,",
+        "likes": 128,
+        "url": "https://x.com/i/status/2075505624096350655"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075371545552433336",
+        "https://x.com/i/status/2075505624096350655"
+      ]
+    },
+    {
+      "repo": "browser-act/skills",
+      "github_url": "https://github.com/browser-act/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 277.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "this_is_tasnim",
+        "text": "Your AI agent can write code. But ask it to “check Amazon prices” or “post to LinkedIn,” it says: “I can’t access websites.”\n\nBrowserAct fixes that.\n\nIt’s a free CLI that gives any agent real browser control of login flows, CAPTCHAs, and JavaScript-heavy sites and multi-account s",
+        "likes": 29,
+        "url": "https://x.com/i/status/2075501823272878288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075501823272878288"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotLog",
+        "text": "🚀✨ Copilot CLI v1.0.70 released!\n\n47 features & enhancements in this release\n\nTop features:\n• Add GPT-5.6 model support 🤖\n• Add paginated session.mcp.resources read/list/listTemplates RPCs for MCP server resources\n• Pin plugins to an exact commit SHA using the sha field in plugin",
+        "likes": 23,
+        "url": "https://x.com/i/status/2075392106307158076"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075392106307158076"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yigitakinkaya",
+        "text": "UI TASARIMLARINDA SLOP GÖRÜNME DEVRİ BİTTİ!\n\nHallmark diye açık kaynak bir design skill çıkmış. Claude Code, Cursor veya Codex'e ekleyip kullanabiliyorsun. UI ve landing page'leri baştan itibaren tasarım duyarlılığıyla ürettiriyor.\n\nKurulumu tek satır. Şunu yazman yeterli:\nnpx sk",
+        "likes": 10,
+        "url": "https://x.com/i/status/2075510941131678039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075510941131678039"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "github_url": "https://github.com/diffusionstudio/lottie",
+      "tier": 3,
+      "is_new": false,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Elara200410",
+        "text": "产品里最容易拖慢节奏的细节，往往是一个小动画。\n\n设计想要 Lottie，开发想要 JSON，最后大家卡在来回改动效上。\n\ntext-to-lottie 这个开源工具链值得试。\n\n它把 Skills + Harness 打包好，让 Claude Code、Codex 这类 coding agent 直接按自然语言生成 Lottie 动画。\n\n它适合三类场景。\n\n第一，loading、空状态、引导页这种小动效。\n\n第二，营销页里需要快速试几个视觉节奏的动画。\n\n第三，独立开发者没有动效设计师，但想把产品细节做得更像样。\n\n最快上手方式也很简单。\n\n在项目里",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075418874736943342"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075418874736943342"
+      ]
+    },
+    {
+      "repo": "ratel-ai/skills",
+      "github_url": "https://github.com/ratel-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ratelai",
+        "text": "npx skills add ratel-ai/skills -y --all\n/ratel-assessment",
+        "likes": 2,
+        "url": "https://x.com/i/status/2075529595764310286"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075529595764310286"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Agent Skills\n\nProduction-grade engineering skills for AI coding agents.\n\n65.5K GitHub stars - agent-skills\nInstall: npx skills add addyosmani/agent-skills\n\nhttps://t.co/41YTCLVGpG\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075460074772869192"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075460074772869192"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2075378289284468847",
+      "author": "mikefutia",
+      "text": "I just built a Claude Code plugin that automatically researches viral trends in any niche 🤯\n\nDrop in your niche → and it surfaces the hooks, angles, and topics going viral right now across Reddit, YouTube, TikTok & Reels, so you always know exactly what to post.\n\nAll inside Claud",
+      "likes": 491,
+      "views": 0,
+      "url": "https://x.com/i/status/2075378289284468847",
+      "is_kol": false,
+      "score": 1623.0
+    },
+    {
+      "id": "2075317637526012156",
+      "author": "AbrarTheCrypto_",
+      "text": "The GPT-5.6 headline is getting the attention, but the MCP part is the bit that actually matters.\n\nCreating an AD was never just one step. \nYou needed a ( script tool ⤷  video tool ⤷  brand assets ) then you had to put it all together yourself. \n\nThe agent could plan, but it coul",
+      "likes": 259,
+      "views": 0,
+      "url": "https://x.com/i/status/2075317637526012156",
+      "is_kol": false,
+      "score": 792.0
+    },
+    {
+      "id": "2075321693233410382",
+      "author": "chrispisarski",
+      "text": "our entire GTM/sales operation that got us our first $1M month is run by just 3 people\n\n1) one person focused on inbound (most of our demos come inbound: socials, google, content, referrals)\n\n- creating and distributing content across every channel and constantly tweaking it base",
+      "likes": 234,
+      "views": 0,
+      "url": "https://x.com/i/status/2075321693233410382",
+      "is_kol": false,
+      "score": 727.0
+    },
+    {
+      "id": "2075517958894596472",
+      "author": "yetone",
+      "text": "因为最近吐槽了太多 AI slop 产品了，就想把 AI slop 的特征给做个图鉴，方便大家识别哪些是 AI slop，以便对 AI slop 有个共识。\n\n但细想一下，这是其实是一个特别有风险的工作，因为这个产品本身我肯定也要用 AI 去开发它，所以它本身极有可能成为 AI slop 的一部分，实现了AI slop 的内循环。\n\n后来我又想一下这虽有 AI slop 自举自己打自己脸的风险，但只要它能够对大家产生帮助，也是有价值的。所以我就创造了 kill AI slop 这个网站，来帮助大家识别分辨什么是 AI slop，以及如何优化。这个网站虽然",
+      "likes": 176,
+      "views": 0,
+      "url": "https://x.com/i/status/2075517958894596472",
+      "is_kol": false,
+      "score": 628.0
+    },
+    {
+      "id": "2075345930921091177",
+      "author": "bounceidc",
+      "text": "HE CHARGES $5K FOR SITES THAT LOOK LIKE A NEW YORK STUDIO SHIPPED THEM\n\nsame model everyone else runs, but his claude picks from a real design library instead of guessing, so every build lands with animations, glass morphism and gradients already dialed in\n\nthe two installs:\ngrab",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2075345930921091177",
+      "is_kol": false,
+      "score": 536.0
+    },
+    {
+      "id": "2075320641612341677",
+      "author": "rickdeetweets",
+      "text": "i think ai marketing is moving away from being a tool you use and becoming the teammate that builds with you.\n\nanyone who has worked on ads knows the hardest part is not always the idea, it’s getting everything from concept to execution.\n\nseeing @Creatify_AI integrate with MCP is",
+      "likes": 171,
+      "views": 0,
+      "url": "https://x.com/i/status/2075320641612341677",
+      "is_kol": false,
+      "score": 518.0
+    },
+    {
+      "id": "2075322996139397331",
+      "author": "KMCrypton",
+      "text": "Been editing ad clips and clipping podcast campaigns for months now so this one actually landed for me\n\nCause the annoying part was never the idea, it was always jumping between the brand kit, the video gen tool, and whatever tab had the actual skills I needed that day\n\nAnd if Cr",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2075322996139397331",
+      "is_kol": false,
+      "score": 492.0
+    },
+    {
+      "id": "2075438682753167443",
+      "author": "termix_ai",
+      "text": "Agents that transact - for real.\n\nIn coding agents, natural language drove the @termix_ai skill through the full loop: mint (ERC-8004 identity) → brief → provider stake → escrow → on-chain settlement on @BNBCHAIN. smooth experience, zero clicks.\n\nThe DTCC of the agent world. http",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2075438682753167443",
+      "is_kol": false,
+      "score": 487.0
+    },
+    {
+      "id": "2075507700411351398",
+      "author": "MinoDriven",
+      "text": "差し出がましくて恐縮ですが、僕が作ったagent skillは高い再現性でコードの再生成が出来てるので（コードだけでなくAIによる設計書作成も）、やり方次第ではと考えます。",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2075507700411351398",
+      "is_kol": false,
+      "score": 445.0
+    },
+    {
+      "id": "2075317495821414541",
+      "author": "AbuJojo",
+      "text": "شرح عمنا جبتي لمن اراد:\nهذا المستودع باختصار: مكتبة Skills للوكلاء البرمجيين مثل Claude Code / Codex / غيرهم.\nمو تطبيق، ولا framework كامل. هو مجموعة ملفات SKILL.md تعلّم الوكيل “طريقة شغل” محددة بدل ما يعتمد على برومبت عام.\nالفكرة الأساسية عنده واضحة: استخدام الوكلاء في البرمجة ",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2075317495821414541",
+      "is_kol": false,
+      "score": 370.0
+    },
+    {
+      "id": "2075490546575946187",
+      "author": "freeCodeCamp",
+      "text": "Local AI agents often define their tools right inside one Python script, making them hard to reuse.\n\nIn this tutorial, Darsh explains how to build an MCP server with FastMCP and connect it to a local AI agent.\n\nYou'll use Python + popular AI tools to connect to a remote MCP serve",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2075490546575946187",
+      "is_kol": false,
+      "score": 341.0
+    },
+    {
+      "id": "2075467556501196960",
+      "author": "AiswaryaVenkit1",
+      "text": "Building AI agents on Azure feels overwhelming until you see the full roadmap.\n\nMicrosoft Foundry Agent Service + Microsoft Agent Framework give you everything but only if you follow the right sequence.\n\nHere’s the step-by-step flow:\n\n→ 𝗗𝗲𝗳𝗶𝗻𝗲 𝘁𝗵𝗲 𝗔𝗴𝗲𝗻𝘁 𝗚𝗼𝗮𝗹\nChoose one clear busi",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2075467556501196960",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2075415267069284486",
+      "author": "mweinbach",
+      "text": "Oh so one cool thing about GPT 5.6 Sol is when I asked it to do things like turning the xcode mcp docs tool into a general MCP for non-xcode use, it researched and read the Apple ToS and licensing agreement to see if it was allowed before doing it",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2075415267069284486",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2075272133140513050",
+      "author": "SumitM_X",
+      "text": "If your \"MCP server\" is just exposing REST endpoints... it's probably just an API.",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2075272133140513050",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2075336771643048217",
+      "author": "genrih99999",
+      "text": "Ribbita was early again 🐸⚡\nMonths ago, Ribbita kept talking about LangChain, AutoGen and token factories:\nAI agents writing code. AI agents creating software libraries. AI agents launching token systems. AI agents replacing months of setup with a few lines of Python.\nAt the time,",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2075336771643048217",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2075487456024293511",
+      "author": "yibie",
+      "text": "推荐这篇文章，Anthropic 的 Eugene Yan（前 Amazon/Alibaba ML 团队负责人）把他个人 AI 工作流写成了一份实操指南。不是抽象理念，是具体到你明天就能复制的方法：怎么组织目录让模型更容易检索、怎么写 CLAUDE.md 当行为契约、怎么把每周重复做的事变成 skill、怎么让模型\"看模型\"来防止跑偏。最后一句话道破了这篇文章的另一个层次——这不只是个人工具，也是设计 agent harness、设定团队规范、构建组织基础设施的方式。\n\n如何与 AI 协作并让工作复利\n\n如何有效地与 AI 协作？工作流是什么样的，如何规",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2075487456024293511",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2075246481187971265",
+      "author": "de1lymoon",
+      "text": "Google just published a 5-part roadmap for building AI agents that actually ship:\n\n00:00 - Build your first AI agent and MCP server\n07:37 - Deploy your AI agent on the internet with Cloud Run\n21:10 - Learn how MCP actually works\n29:04 - See why APIs are failing AI agents\n41:24  -",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2075246481187971265",
+      "is_kol": false,
+      "score": 172.0
+    },
+    {
+      "id": "2075317757634302301",
+      "author": "NalyMetaX",
+      "text": "The worst part of modern ad creative is tool fatigue.\n\nYou bounce from ChatGPT for copy, to img video for assets, to video tool for editing.\n\nThis new MCP from Creatify changes that entirely.\n\nRunning GPT-5.6 and calling the ad production stack directly from the chat interface is",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2075317757634302301",
+      "is_kol": false,
+      "score": 162.0
+    }
+  ]
+}
