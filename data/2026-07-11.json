@@ -1,0 +1,459 @@
+{
+  "date": "2026-07-11",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 174,
+    "tweets_with_repos": 12,
+    "unique_repos": 12,
+    "new_repos": 6,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "sene1337/aiaio",
+      "github_url": "https://github.com/sene1337/aiaio",
+      "tier": 3,
+      "is_new": true,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bradmillscan",
+        "text": "AIAIO v 0.2.3.0 of adds Hermes skill.\n\nYour Hermes agent now installs the game, curates the levels based on your LLM sessions (OpenClaw, Hermes, Claude etc ... whatever you tell it to use) \n\nDon't delete your old sessions, have your Hermes agent enrich them into playable levels!\n",
+        "likes": 11,
+        "url": "https://x.com/i/status/2075605707919868098"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075605707919868098"
+      ]
+    },
+    {
+      "repo": "machina-sports/sports-skills",
+      "github_url": "https://github.com/machina-sports/sports-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "seelffff",
+        "text": "YOU CAN BET ON MESSI AND DONT CARE\n\n★ 183, mit, npx skills add machina-sports/sports-skills\n\nthere's an open-source agent skill that reads the actual numbers\ninstead - and it needs zero api keys\n\nsports-skills by machina - a set of SKILL.md files your ai agent\nloads and just uses",
+        "likes": 9,
+        "url": "https://x.com/i/status/2075657711165775876"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075657711165775876"
+      ]
+    },
+    {
+      "repo": "ajmaljalal/tandem",
+      "github_url": "https://github.com/ajmaljalal/tandem",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ajmal_jalal26",
+        "text": "I built Tandem to let multiple AI coding models work together, challenge each other, and review the same code from different angles.\n\nIt is messy sometimes. It is also incredibly useful.\n\nTry it:\n\nnpx skills add ajmaljalal/tandem\n\n#AI #AICoding #LLMs #Tandem",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075652644333649926"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075652644333649926"
+      ]
+    },
+    {
+      "repo": "evanbacon/serve-sim",
+      "github_url": "https://github.com/evanbacon/serve-sim",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MatthewGunnin",
+        "text": "Wish I had found this earlier!\n\nJust run \n\nnpx skills add EvanBacon/serve-sim",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075645610657481129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075645610657481129"
+      ]
+    },
+    {
+      "repo": "zhimin-z/solopreneur",
+      "github_url": "https://github.com/zhimin-z/solopreneur",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ryan95322865",
+        "text": "One-person Company tool | this tool just hidden gems \n\nOne GitHub repo turns your coding agent into a Y Combinator advisor. For free.\n\nIt's not a SaaS boilerplate. It's the entire \"How to Start a Startup\" Stanford course (CS183B) — 20 full lecture transcripts from Sam Altman, Pau",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075884302139597044"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075884302139597044"
+      ]
+    },
+    {
+      "repo": "alphagrid-capital/protocol-monorepo",
+      "github_url": "https://github.com/alphagrid-capital/protocol-monorepo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlphaGridProp",
+        "text": "Prefer to build? Connect over MCP or REST — register, sign trade intents, settle on-chain. One command:\n\nnpx skills add alphagrid-capital/protocol-monorepo\n\nYou bring strategy, wallet, runtime.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075721578214539666"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075721578214539666"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xbardia",
+        "text": "چطور با Hermes Agent از POV درآمد کسب کنیم؟ 🤖💸\n\nاول باید بدونید POV شبیه Polymarket نیست! در POV قرار نیست نتیجه یک اتفاق مشخص شود؛ کاربران روی «نظر و باور فعلی‌شان» معامله می‌کنند\n\n👉 https://t.co/TuvSutJPH1\n\n👉 https://t.co/oXcOvLfBp3\n\nمثلاً:\n\n• آیا سولانا از اتریوم بهتر است؟\n• آ",
+        "likes": 29,
+        "url": "https://x.com/i/status/2075814845082186157"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075814845082186157"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Automate your strategies with Byreal Perps Agent Skills.\n\nInstall with one command 👇\n\nnpx skills add byreal-git/byreal-perps-cli\n\nhttps://t.co/ItQlw3hymv",
+        "likes": 3,
+        "url": "https://x.com/i/status/2075841449070154065"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075841449070154065"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Vincent_AINotes",
+        "text": "项目：\nhttps://t.co/uZ2GODYRnS\n\n安装 Wayfinder：\nnpx skills add mattpocock/skills --skill=wayfinder",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075815523741503687"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075815523741503687"
+      ]
+    },
+    {
+      "repo": "higgsfield-ai/skills",
+      "github_url": "https://github.com/higgsfield-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jasolangi",
+        "text": "One command can add 5 Higgsfield AI skills to Codex, Claude Code or Cursor:\n\nnpx skills add higgsfield-ai/skills\n\nتصویر، ویڈیو، product photography اور website workflows—سب ایک جگہ۔\n\nWatch my new Urdu setup guide. 🎥\n\n#HiggsfieldAI #AIAgents #Codex https://t.co/4WfBKIuN2b",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075803376991027602"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075803376991027602"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@fahmi___omer @aymanfsm @FIFAWorldCup @Remotion try @HyperFrames_ next! it's even easier!\n\nnpx skills add heygen-com/hyperframes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075728929038414089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075728929038414089"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2075822403800932503",
+      "author": "ClaudeCode_UT",
+      "text": "【配布】\nObsidianのCEOが、自分専用に使っていたClaude Code連携のskillを非公開にせず公開した😳\n\nhttps://t.co/yjxsUPcYA1\n\n・skill名は「obsidian-skills」\n・Claude Codeが自分のObsidianのノートを直接読み書きできるようになる\n・スター数は40,240個、ライセンスはMIT\n\nこのCEOは「File over app」という思想の提唱者でもある\nアプリに依存せず、ファイルそのものを資産として持つべきという考え方だ\n\nその本人が、自分のノート環境をClaude Codeの",
+      "likes": 614,
+      "views": 0,
+      "url": "https://x.com/i/status/2075822403800932503",
+      "is_kol": false,
+      "score": 2072.0
+    },
+    {
+      "id": "2075647263427203273",
+      "author": "Nozelcode",
+      "text": "CREARON UN CAPCUT GRATIS Y SIN MARCAS DE AGUA, Y YA TIENE 62K STARS EN GITHUB\n\nCapCut te mete marca de agua, te bloquea funciones y encima te cobra suscripción.\n\nUn grupo de devs se cansó y construyó la alternativa open source y gratuita.\n\nSe llama OpenCut. Te explico todo:\n\nUn e",
+      "likes": 213,
+      "views": 0,
+      "url": "https://x.com/i/status/2075647263427203273",
+      "is_kol": false,
+      "score": 859.0
+    },
+    {
+      "id": "2075564007402991872",
+      "author": "CoinMarketCap",
+      "text": "🤖 Turn your AI agent into a top crypto Analyst & Trader\nhttps://t.co/5GQqtLKpsa\n\n🧠 CMC Agent Hub ships structural market data, powerful analytics, and strategy-ready signals for any AI agent\n\n🔹 200+ Live Skills\n🔹 Smart Routing\n🔹 Claude Code, Cursor, OpenClaw, Codex, etc\n\n1️⃣ Copy",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2075564007402991872",
+      "is_kol": false,
+      "score": 697.0
+    },
+    {
+      "id": "2075675490082590913",
+      "author": "mvanhorn",
+      "text": "TL;DR of my new article: I ran last30days on the 10 biggest trending GitHub repos of the month so you don't have to. \n🎬 OpenMontage (+31.6K) - your coding agent makes a whole video from one prompt, free and local. By @calesthioailabs\n🧠 codebase-memory-mcp (+26K) - indexes your re",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2075675490082590913",
+      "is_kol": false,
+      "score": 585.0
+    },
+    {
+      "id": "2075754103091888430",
+      "author": "LoopOnChain",
+      "text": "So apparently GPT 5.6 Sol might just randomly delete all of the files on your laptop 🚨\n\nHere's how to safeguard yourself against it\n\nPaste this prompt into codex:\n\nProtect this machine from accidental permanent file deletion by Codex.\n\nImplement this as defense in depth, not mere",
+      "likes": 157,
+      "views": 0,
+      "url": "https://x.com/i/status/2075754103091888430",
+      "is_kol": false,
+      "score": 561.0
+    },
+    {
+      "id": "2075807299638014212",
+      "author": "rubenhassid",
+      "text": "Don't upgrade to the $100 Claude plan (yet). \n\nThese 21 hacks make the $20/month plan enough:\n\n1. You upload PDFs raw. One page = 3,000 tokens.\nFix: Paste the text into a Google doc. Download as .md format, then turn it into a Skill.\n\n2. You build files inside Cowork too early.\nF",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2075807299638014212",
+      "is_kol": false,
+      "score": 516.0
+    },
+    {
+      "id": "2075673781679575520",
+      "author": "ecomratpi",
+      "text": "Je suis persuadé que dans l'ombre, il y a des mecs qui ont fully automatisé le lancement de boutique via AI+MCP et qui sont très rentables.\n\nGenre 95 % du pilotage via agent IA (hors logistique), pas juste en mode tool.\n\nDans la sape et les accessoires par exemple, je vois de plu",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2075673781679575520",
+      "is_kol": false,
+      "score": 503.0
+    },
+    {
+      "id": "2075660902553313362",
+      "author": "Sancho_Wizard",
+      "text": "HE MADE 300 UGC ADS FOR $2.57. THE AGENCY QUOTED HIM $2,000.\n\nNo editor. No app. No timeline.\n\nHe hasn't opened a video editor once.\n\nHere's the entire workflow.\n\nFable 5 connected to a video rendering tool through MCP.\n\nHe types one sentence: \"make 10 UGC videos.\"\n\nThen walks aw",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2075660902553313362",
+      "is_kol": false,
+      "score": 433.0
+    },
+    {
+      "id": "2075741240054755738",
+      "author": "_MaxBlade",
+      "text": "meta just dropped a bomb. \n\nMuse Spark 1.1 is 86% cheaper than GPT-5.6 Sol and 91% cheaper than Fable 5 on output tokens \n\n($4.25 vs $30 vs $50 per M)\n\nI thought the model was going to be horrendous, but it ended up being insanely fast, and very capable. \n\nfront end design is VER",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2075741240054755738",
+      "is_kol": false,
+      "score": 377.0
+    },
+    {
+      "id": "2075785148755223023",
+      "author": "Xudong07452910",
+      "text": "现在很多人聊 Research Agent，最容易想象的画面是：\n\n给它一堆论文，让它自己想一个新 idea。\n\n但这篇论文提醒我一个很关键的问题：\n\nidea 的质量，很多时候取决于它有没有被放回真实的文献脉络里。\n\n论文提出了一个系统，叫 ResearchStudio-Idea。它的目标是把 ML 研究里常见的 idea 生成方式，整理成可以复用的 skill。\n\n它主要包含三个部分：Paper-Search 负责找相关论文，Scoop-Check 负责检查 novelty claim 有没有撞车，IdeaSpark 负责真正生成研究想法。\n\n最核心",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2075785148755223023",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2075736363585138767",
+      "author": "nichxbt",
+      "text": "https://t.co/4aUf5cNwI1 is live\n\nIt is no longer just another crypto dashboard. It is now the full live data command center built specifically to give 3D AI agents actual eyes and context on the markets.\n\nBreaking news feed from 192 publishers plus a searchable archive of over 69",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2075736363585138767",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2075817109062345158",
+      "author": "cyrilXBT",
+      "text": "YOUR CHEAP MODEL SHOULD WRITE THE CODE. YOUR EXPENSIVE MODEL SHOULD ONLY MAKE THE CALLS.\n\nFound a free Claude Code plugin built exactly around that idea. Fable Advisor.\n\nSession runs on Sonnet, fast and cheap. At commitment boundaries, architecture decisions, migrations, a refact",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2075817109062345158",
+      "is_kol": false,
+      "score": 321.0
+    },
+    {
+      "id": "2075810650572632224",
+      "author": "XFreeze",
+      "text": "Grok Build just received another major update, introducing Voice Mode for API-key sessions, richer token usage insights, smarter transcript editing, and a long list of reliability improvements\n\nRelease Notes: v0.2.97 — 2026-07-11\n\nFeatures:\n• Headless JSON output now includes tok",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2075810650572632224",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2075772170794619114",
+      "author": "cjzafir",
+      "text": "I did something crazy.\n\n&gt; using Fable 5 inside codex app (Claude Code sub.)\n&gt; using GPT 5.6 Sol extra high as main Orchestrator\n&gt; using GPT 5.6 Sol high as executor/subagents\n\nI built a custom Codex plugin that gets this done. \n\nI will open source that tomorrow. https://",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2075772170794619114",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2075775879813464287",
+      "author": "ZariaTechAI",
+      "text": "Prompt engineering won't be the most valuable AI skill in 2026.\n\nSystem design will.\n\nThis evolution explains why:\n\n🔹 Prompt Engineering\n→ Better prompts\n\n🔹 Context Engineering\n→ Better context\n\n🔹 Harness Engineering\n→ Better AI systems\n\nThe shift is bigger than most people reali",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2075775879813464287",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2075853119431246209",
+      "author": "Tajudeen_10",
+      "text": "the next generation of gamers might never touch a controller.\n\n⟜ everyone is talking about ai replacing jobs.\n\nalmost nobody is talking about ai changing how we compete.\n\nfor decades, gaming has always rewarded one thing.\n\nhuman skill.\n\nfaster reactions.\n\nbetter mechanics.\n\nmore ",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2075853119431246209",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2075728385377177918",
+      "author": "0xSweep",
+      "text": "Someone built a free tool that makes Claude Code burn 10X LESS TOKENS\n\nAI coding agents start every session from zero without memory of your codebase\n\nThe agent searches file after file and burns thousands of tokens just figuring out where things actually are, then next session i",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2075728385377177918",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2075663857536880857",
+      "author": "GithubProjects",
+      "text": "Langflow provides a visual builder for creating AI workflows that can be deployed as APIs or MCP servers.\n\n- Visual interface with interactive playground for testing and refinement\n- Built-in API and MCP server deployment for every workflow\n- Multi-agent orchestration with conver",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2075663857536880857",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2075860196375826435",
+      "author": "cyrilXBT",
+      "text": "YOU CAN RUN FABLE 5 AND GPT-5.6 SOL IN THE SAME LOOP RIGHT NOW.\n\nOpen Claude Code.\nInstall the Codex plugin.\nSwitch your model to Fable 5.\n\nAdd one routing block to your CLAUDE.md telling Fable to orchestrate, plan, decompose, review, and delegate implementation to Codex running ",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2075860196375826435",
+      "is_kol": false,
+      "score": 232.0
+    }
+  ]
+}

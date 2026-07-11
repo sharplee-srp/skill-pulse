@@ -4742,5 +4742,29 @@
   "openclaw/acpx": {
     "first_seen": "2026-07-10",
     "tier": 3
+  },
+  "sene1337/aiaio": {
+    "first_seen": "2026-07-11",
+    "tier": 3
+  },
+  "machina-sports/sports-skills": {
+    "first_seen": "2026-07-11",
+    "tier": 3
+  },
+  "ajmaljalal/tandem": {
+    "first_seen": "2026-07-11",
+    "tier": 3
+  },
+  "evanbacon/serve-sim": {
+    "first_seen": "2026-07-11",
+    "tier": 3
+  },
+  "zhimin-z/solopreneur": {
+    "first_seen": "2026-07-11",
+    "tier": 3
+  },
+  "alphagrid-capital/protocol-monorepo": {
+    "first_seen": "2026-07-11",
+    "tier": 3
   }
 }
