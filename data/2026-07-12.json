@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-12",
+  "stats": {
+    "total_fetched": 334,
+    "unique_tweets": 165,
+    "tweets_with_repos": 16,
+    "unique_repos": 16,
+    "new_repos": 9,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "dietrichgebert/ponytail",
+      "github_url": "https://github.com/dietrichgebert/ponytail",
+      "tier": 2,
+      "is_new": true,
+      "score": 448.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 101,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ArchiveExplorer",
+        "text": "honestly can't understand why everyone hasn't installed this yet.\n\n29 days ago this repo didn't exist. today it has 80,000 stars.\n\nTHE BEST CODE IS THE CODE YOU NEVER WROTE.\n\nthree months I explained to my agent how to write code. It still pulled in flatpickr for a simple date-pi",
+        "likes": 101,
+        "url": "https://x.com/i/status/2075910079434342741"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075910079434342741"
+      ]
+    },
+    {
+      "repo": "yetone/kill-ai-slop",
+      "github_url": "https://github.com/yetone/kill-ai-slop",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dingyi",
+        "text": "哈哈这个好！\n\nnpx skills add yetone/kill-ai-slop",
+        "likes": 10,
+        "url": "https://x.com/i/status/2076183862737289270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076183862737289270"
+      ]
+    },
+    {
+      "repo": "sunboardhq/onboarding-audit",
+      "github_url": "https://github.com/sunboardhq/onboarding-audit",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SeanAnth0ny",
+        "text": "Testing \"skills as marketing\", will report the results.\n\nMade a free skill that has Claude/Codex audit your SaaS onboarding for the classic mistakes: empty states that dead-end, no sense of progress, signup forms asking things it could default etc etc\n\nIt maps your signup to firs",
+        "likes": 3,
+        "url": "https://x.com/i/status/2075998202159894548"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075998202159894548"
+      ]
+    },
+    {
+      "repo": "snapture/picky-skills",
+      "github_url": "https://github.com/snapture/picky-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "snapture_",
+        "text": "npx skills add snapture/picky-skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076127990006874237"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076127990006874237"
+      ]
+    },
+    {
+      "repo": "ghchinoy/agent-skills",
+      "github_url": "https://github.com/ghchinoy/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ghchinoy",
+        "text": "Install it in your coding agent:\nnpx skills add ghchinoy/agent-skills --skill bd-dolt-troubleshooter\n(works with Claude Code, OpenCode, Codex, Cursor + 60 more)",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076083883133849766"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076083883133849766"
+      ]
+    },
+    {
+      "repo": "sac-y/identity-skill",
+      "github_url": "https://github.com/sac-y/identity-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Vincent_AINotes",
+        "text": "安装只需要一条命令：\n\nnpx skills add Sac-Y/identity-skill\n\n装好后可以直接对 Codex 说：\n\n“用 identity-skill 帮我做一个求职网站，这是我的简历和项目资料。”\n\n它目前主要用于个人网站、作品集、创作者主页和个人 IP 站，内置了参考图生成、素材拆分和前端复刻规则。\n\n项目地址放这里：\n\nhttps://t.co/7E1ecKMy0Z",
+        "likes": 1,
+        "url": "https://x.com/i/status/2075949228460044500"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075949228460044500"
+      ]
+    },
+    {
+      "repo": "matchameleon/moneyclaw",
+      "github_url": "https://github.com/matchameleon/moneyclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Atheerium",
+        "text": "Moneyclaw offers openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill. Open source on GitHub. https://t.co/mNjoZIpFTi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076024062963220590"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076024062963220590"
+      ]
+    },
+    {
+      "repo": "p-toni/human-responsibility-mapping",
+      "github_url": "https://github.com/p-toni/human-responsibility-mapping",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ape_toni",
+        "text": "“human in the loop” is not a safety strategy.\n\nfix it:\nnpx skills add p-toni/human-responsibility-mapping\n\nwhat AI does. what humans retain. what evidence is required. how the work architecture has to change.\n\ngithub. com/p-toni/human-responsibility-mapping\n\nbest results with fab",
+        "likes": 0,
+        "url": "https://x.com/i/status/2075943692880257220"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2075943692880257220"
+      ]
+    },
+    {
+      "repo": "nordsym/skillsync",
+      "github_url": "https://github.com/nordsym/skillsync",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HokusPontuz",
+        "text": "Just released skillsync v0.2.0.\n\nIt now detects when an agent has improved a local skill and produces a safe, read-only proposal back to the canonical source. No silent overwrites. No automatic fleet-wide propagation.\n\nBuilt while syncing skills across Claude, Codex, Hermes, Open",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076041595749605398"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076041595749605398"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "shadcn/improve",
+      "github_url": "https://github.com/shadcn/improve",
+      "tier": 2,
+      "is_new": false,
+      "score": 706.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 182,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "REMIX_KSA",
+        "text": "أداة خطيرة للمطورين: Improve من shadcn\n\nتخلي أقوى موديل مثل Fable5 يراجع مشروعك ويطلع خطط تنفيذ دقيقة، ثم تسلّمها لموديل أرخص للتنفيذ.\n\nالتشغيل:\nnpx skills add shadcn/improve\n\nادخل مجلد المشروع وشغّل:\n/improve\nhttps://t.co/ddcP5HTinB",
+        "likes": 182,
+        "url": "https://x.com/i/status/2076040049926320186"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076040049926320186"
+      ]
+    },
+    {
+      "repo": "kunchenguid/firstmate",
+      "github_url": "https://github.com/kunchenguid/firstmate",
+      "tier": 3,
+      "is_new": false,
+      "score": 330.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kunchenguid",
+        "text": "firstmate just crossed 1k stars on github! 🎉\n\nit grew organically as a new way of working with agents. everyone i've talked to that started using firstmate told me they're getting a lot more done and enjoy the experience\n\nnow let me tell you a funny story - up until today, i didn",
+        "likes": 70,
+        "url": "https://x.com/i/status/2076101905869414785"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076101905869414785"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 223.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "This Hermes agent skill scans the entire internet for your personal info and files to remove it for you.\n\nData brokers collect millions of pieces of your personally identifiable information and sell it - leaving you exposed.\n\nThis skill searches every name, alias, email, phone nu",
+        "likes": 36,
+        "url": "https://x.com/i/status/2076124392535507251"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076124392535507251"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 173.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "Why does every AI-generated UI look the same?\n\ntaste-skill fixes that. It's a set of portable agent skills that teach AI to build interfaces with actual taste. Better spacing, proper typography, motion that doesn't feel robotic. Pair it with image generators for reference boards,",
+        "likes": 21,
+        "url": "https://x.com/i/status/2076123382299684981"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076123382299684981"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "buddypia/agent-skills",
+      "github_url": "https://github.com/buddypia/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buddypia",
+        "text": "agent-skillsをgpt-5.6へアップデートしました\n- multi-llm-debate\n- multi-llm-recursive-meta-cognition\n- multi-llm-reflection\n\nインストールはこれ👇\nnpx skills add buddypia/agent-skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076189882733797461"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076189882733797461"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "workingdevshero",
+        "text": "1/ @mvanhorn's /last30days skill hit 51K GitHub stars and #1 on GitHub Trending this week.\n\nOne command. Agent sweeps Reddit, X, YouTube, TikTok, HN, arXiv &amp; Polymarket in parallel. Zero config to start. Runs on both OpenClaw (ClawHub) and Hermes Agent.\n\nhttps://t.co/ZU2ha83p",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076044592604967409"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076044592604967409"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2076001786700394610",
+      "author": "jamonholmgren",
+      "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard wor",
+      "likes": 2274,
+      "views": 0,
+      "url": "https://x.com/i/status/2076001786700394610",
+      "is_kol": false,
+      "score": 7502.0
+    },
+    {
+      "id": "2076157166256591344",
+      "author": "0xRiRoyal",
+      "text": "Sunday reality check,\nThe next leap in AI agents may not come from a smarter model.\n\nIt may come from a better skill stack.\n\nA general model can reason.\n\nA useful agent needs specific abilities it can load, combine, and improve depending on the task.\n\nResearch.\nData handling.\nOnc",
+      "likes": 265,
+      "views": 0,
+      "url": "https://x.com/i/status/2076157166256591344",
+      "is_kol": false,
+      "score": 935.0
+    },
+    {
+      "id": "2076168556161757294",
+      "author": "ansh_chokshi",
+      "text": "i'm a technical founder who had never sold anything to an enterprise, and then i had to run gtm from scratch. no playbook, no coach, just me.\n\nhere's everything i learned taking mireye's gtm from 0 to 1, and the exact loop i'd run again.\n\ntldr: gtm is mostly pattern recognition a",
+      "likes": 174,
+      "views": 0,
+      "url": "https://x.com/i/status/2076168556161757294",
+      "is_kol": false,
+      "score": 542.0
+    },
+    {
+      "id": "2076164031866618063",
+      "author": "Jeffar_AI",
+      "text": "Prompt engineering won't be the most valuable AI skill in 2026.\n\nAI system design will.\n\nThe evolution is happening fast:\n\n🔹 Prompt Engineering → Better prompts\n🔹 Context Engineering → Better context\n🔹 Harness Engineering → Better AI systems\n\nMost people are still optimizing prom",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2076164031866618063",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2076004907359113552",
+      "author": "TheHackersNews",
+      "text": "🛑 ALERT - The official #jscrambler npm package has been compromised.\n\nVersion 8.14.0 drops a Rust infostealer during npm install, stealing cloud keys, crypto wallets, browser logins, and AI coding-tool and MCP credentials.\n\nRead the analysis and find out what to do: https://t.co/",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2076004907359113552",
+      "is_kol": false,
+      "score": 295.0
+    },
+    {
+      "id": "2076173561350520865",
+      "author": "claudecode84",
+      "text": "新しいAgent Skillの/improve-animationsが\nマジでめっちゃ使える！！\nFable5の高額費用にビビることも無くなる！\n👇\n1コマンドでプロジェクト全体をスキャンし\n・不自然なアニメーション\n・動きが硬いUI\n・タイミングのズレ\n・イージング不足\n・過剰、不足なモーション\n\nなどを洗い出し\n改善案をまとめて提案してくれる\n\n「improve」スキルに着想を得て\nアニメーションの改善だけに\n特化したスキルってイメージ\nリプで詳しく👇",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2076173561350520865",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2076017120610058669",
+      "author": "Voxyz_ai",
+      "text": "A lot of people in the replies to my original post said Luna works well for subagents and should be faster, so I ran it head-to-head against Sol.\n\nSame three tasks:\n\n→ fix an async cache\n→ implement an async DAG from scratch with concurrency, retries, and failure propagation\n→ au",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2076017120610058669",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2076019611363877261",
+      "author": "shmidtqq",
+      "text": "OPENSCIENCE JUST KILLED THE FIRST THREE YEARS OF A PhD\n\nYour coding agent can wire up Stripe in 30 seconds and cannot query a single protein database.\n\nOpenScience is a coding agent that went to grad school. Released 7 days ago, already past 350 stars.\n\nYou type: \"does this atten",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2076019611363877261",
+      "is_kol": false,
+      "score": 209.0
+    },
+    {
+      "id": "2076229345346244982",
+      "author": "Ambrose0_X",
+      "text": "🚨 BREAKING: Claude can help you learn almost any skill in 30 days—for free.\n\nUse these prompts to build a personalized learning plan and level up faster.\n\n🔖 Save this post for later. https://t.co/x1EpbDnRNm",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2076229345346244982",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2075765015731474563",
+      "author": "Lonely__MH",
+      "text": "🚀 AI 时代最值得投资的工具：VPS\n\n配置可以将就，线路不能将就。\n\n买 VPS 这么多年，我基本只选 CN2 GIA\n\n什么是 CN2 GIA？\n\n简单来说，它是中国电信的高质量国际线路。\n\n相比普通线路，CN2 GIA 延迟更低、丢包更少、高峰期更稳定。\n\n如果普通线路是绿皮火车，那 CN2 GIA 就是网络界的「高铁商务座」。\n\n🔥目前在用的两家：\n\n1. 搬瓦工：老牌厂商，稳定、省心。\n传送门👉🏻：https://t.co/b4rWf8nVna\n\n2. DMIT： 线路质量一直在线，体验非常不错，最近美西补货，闭眼冲\n传送门👉🏻：https:",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2075765015731474563",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2075815269511971170",
+      "author": "DevJohnWayne",
+      "text": "介绍一下我们做的一些产品\n\n1. ShipSwift — AI-native 全栈组件库。\nhttps://t.co/Y3Ce1fU948\nSwiftUI + Hono + AWS，30+ 动画组件、8 种图表、Auth / Paywall / Chat / 相机等完整模块，全部是生产级代码。一条命令接入 MCP Server，让 Claude / Cursor 直接调 Recipe 写真实 App。\n开源（MIT）+ 付费 Pro Recipe（后端 + 合规 + 踩坑文档）。也接定制开发：48 小时出 Demo，4 周交付上架。\n\n2. 小店 — 帮",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2075815269511971170",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2075923279907545413",
+      "author": "RodmanAi",
+      "text": "Manus lasted weeks behind an invite code.\nSomeone rebuilt it in 3 hours.\n\nMeet OpenManus.\n\n• Free\n• Open source\n• No invite code\n• Works with any LLM\n• MCP support\n• Autonomous web browsing + tool use\n\nAI moves ridiculously fast. https://t.co/FzecTILdT4",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2075923279907545413",
+      "is_kol": false,
+      "score": 175.0
+    },
+    {
+      "id": "2076142714895151460",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.98! 🚀\n\nChangelog v0.2.98\n\nBreaking Changes:\n• You can now pin authentication to API key or OIDC in config.toml; the unpinned method is no longer tried automatically.\n\nFeatures:\n• `/context` now shows token costs for skills and MCP serve",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2076142714895151460",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2075694471740559556",
+      "author": "CodewithVeek",
+      "text": "Day 1 practice as a Cloud Engineer\n\n- Provisioned an ECS Instance on Alibaba Cloud\n- Set up a 4 Cores (vCPUs) 8 GiB 75GB NVMe Instance\n- Set up Firewall Security rules\n- Installed Coolify on the Instance\n- Deployed an MCP Server",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2075694471740559556",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2076052820390728157",
+      "author": "0xwhrrari",
+      "text": "Anthropic x Google just dropped 3 workshops\n\nOn building self-improving agentic systems from zero:\n\n00:01 - Why multi-agent setups are the most expensive mistake of 2026\n38:09 - Why the 2026 skill gap is no longer coding\n1:13:52 - How to build agents that keep working while you s",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2076052820390728157",
+      "is_kol": false,
+      "score": 158.0
+    },
+    {
+      "id": "2075841632025661638",
+      "author": "aibullss",
+      "text": "The Complete AI Trading Stack That Generated $50,000+ in Profit: Claude Code + TradingView MCP + Pin",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2075841632025661638",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2076100069670191562",
+      "author": "shiranui_it",
+      "text": "うおお。うおお。\n\n[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました https://t.co/QtPijBvxc6 #DevelopersIO",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2076100069670191562",
+      "is_kol": false,
+      "score": 153.0
+    }
+  ]
+}

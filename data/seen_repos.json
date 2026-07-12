@@ -4766,5 +4766,41 @@
   "alphagrid-capital/protocol-monorepo": {
     "first_seen": "2026-07-11",
     "tier": 3
+  },
+  "dietrichgebert/ponytail": {
+    "first_seen": "2026-07-12",
+    "tier": 2
+  },
+  "yetone/kill-ai-slop": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "sunboardhq/onboarding-audit": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "snapture/picky-skills": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "ghchinoy/agent-skills": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "sac-y/identity-skill": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "matchameleon/moneyclaw": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "p-toni/human-responsibility-mapping": {
+    "first_seen": "2026-07-12",
+    "tier": 3
+  },
+  "nordsym/skillsync": {
+    "first_seen": "2026-07-12",
+    "tier": 3
   }
 }
