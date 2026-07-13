@@ -4802,5 +4802,53 @@
   "nordsym/skillsync": {
     "first_seen": "2026-07-12",
     "tier": 3
+  },
+  "jakubkrehel/skills": {
+    "first_seen": "2026-07-13",
+    "tier": 2
+  },
+  "henryndubuaku/maths-cs-ai-compendium": {
+    "first_seen": "2026-07-13",
+    "tier": 2
+  },
+  "knockoutez/wigolo": {
+    "first_seen": "2026-07-13",
+    "tier": 2
+  },
+  "jamiebeach/lisp-agent": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "jcodesmore/ai-website-cloner-template": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "neeeophytee/finding-unknowns-skills": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "melvynx/aiblueprint": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "khalidabdi1/swiftship": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "ethanthatonekid/fireship-skills": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "imraywang/wewrite": {
+    "first_seen": "2026-07-13",
+    "tier": 3
+  },
+  "taxueseek/session-digger": {
+    "first_seen": "2026-07-13",
+    "tier": 3
   }
 }
