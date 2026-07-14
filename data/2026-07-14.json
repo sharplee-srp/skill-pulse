@@ -1,0 +1,660 @@
+{
+  "date": "2026-07-14",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 23,
+    "unique_repos": 22,
+    "new_repos": 15,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "joelhooks/aie-loopcraft-workshop-2026",
+      "github_url": "https://github.com/joelhooks/aie-loopcraft-workshop-2026",
+      "tier": 3,
+      "is_new": true,
+      "score": 346.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joelhooks",
+        "text": "This is a fun project Lakedbed, Herdr, Pi, Effect, XState prototyping a looping autonomous agent that monitors issues and clears its own backlog.\n\nThe project is dogfooding an issue tracker into a durable agent that is building the issue tracker its looping over. \n\nIt's an imperf",
+        "likes": 72,
+        "url": "https://x.com/i/status/2076903279536259372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076903279536259372"
+      ]
+    },
+    {
+      "repo": "oil-oil/beautify-github-readme",
+      "github_url": "https://github.com/oil-oil/beautify-github-readme",
+      "tier": 3,
+      "is_new": true,
+      "score": 343.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 71,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_am_oil_oil",
+        "text": "我将昨天发的 GitHub Readme 装修小工具做成了一个 Skill，使用这个 Skill 就可以让 Agent 帮我们优化 GitHub 的 Readme，它可以从从项目本身找到配色、字体和图形语言，再设计 SVG 首屏与展示图，我已经把我自己的很多仓库都使用这个 Skill 优化了一下，看起来很舒服～\n\n仓库地址：https://t.co/32RO04mzSa\n\n希望对大家有帮助！如果大家有尝试出好看的 Case 可以在这个仓库投稿～",
+        "likes": 71,
+        "url": "https://x.com/i/status/2076853247336431898"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076853247336431898"
+      ]
+    },
+    {
+      "repo": "hryhorii77/aero-allocator",
+      "github_url": "https://github.com/hryhorii77/aero-allocator",
+      "tier": 3,
+      "is_new": true,
+      "score": 334.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hryhorii77",
+        "text": "Aerodrome is replacing weekly gauge voting with Predictive Allocation this month: incentives follow where demand is going, not where it was.\n\nSo I built an open-source AI agent for it. Aero-allocator forecasts next-epoch fees for every @AerodromeFi  pool from live onchain data an",
+        "likes": 63,
+        "url": "https://x.com/i/status/2076727018272465123"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076727018272465123"
+      ]
+    },
+    {
+      "repo": "kangarooking/cangjie-skill",
+      "github_url": "https://github.com/kangarooking/cangjie-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 281.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "你敢信？真有人把\"知识提纯\"这件事做到了骨头里。这波操作属实有点狠，直接把你永远看不完的书和长视频，炼成了AI Agent能直接调用的技能包。\n\nGitHub刚冒出来的硬核项目 cangjie-skill 。不搞那种\"一键生成文章摘要\"的虚头巴脑，核心逻辑就一个：高价值内容蒸馏。你扔进去几十万字的大部头、几个小时的播客，它直接给你抽丝剥茧，重组输出可执行的Agent Skills。\n\n榨干高密度信息 ：长视频、硬核播客、专业书，扔进去直接抽干水分。\n\n降维打击式提炼 ：不要废话总结，要能直接干活的\"技能\"。输出的都是AI能看懂的步骤和逻辑。\n\nAgent",
+        "likes": 42,
+        "url": "https://x.com/i/status/2076878099946307956"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076878099946307956"
+      ]
+    },
+    {
+      "repo": "liucongg/liucong-skills",
+      "github_url": "https://github.com/liucongg/liucong-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liucong0120",
+        "text": "开源三渲二视频生成Skill，https://t.co/D1poajDJvK\n前段时间我一直在搓三渲二视频，\n一开始，我也以为把“厚涂、三渲二美漫风格、电影感”写进提示词就够了。\n但实际跑出来经常跟我想的完全不一样，\n有很多规则单独存成提示词很难管理，经常做到下一步就会忘记上一步，\n所以我干脆设计一这个skill，让 Agent 按顺序调用。\n它会先把一句模糊想法整理成剧情，确认故事成立后再设计角色，用人物信息板固定长相、比例和服装，然后按每 15 秒一段拆出动作故事板，把表演、镜头和节奏提前排好，完了之后读取前面已经确认的资产，生成对应的 Seedan",
+        "likes": 21,
+        "url": "https://x.com/i/status/2076873831890014235"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076873831890014235"
+      ]
+    },
+    {
+      "repo": "kitze/council",
+      "github_url": "https://github.com/kitze/council",
+      "tier": 3,
+      "is_new": true,
+      "score": 154.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thekitze",
+        "text": "i made a council skill: the idea is that whatever agent you use (claude, codex, cursor, whatever) you tell it to run council with X turns\n\nmeaning it should consult the other agents and have at least X turns of conversation before they agree on a plan https://t.co/gd1cjjNFqx",
+        "likes": 18,
+        "url": "https://x.com/i/status/2076970047306965142"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076970047306965142"
+      ]
+    },
+    {
+      "repo": "qdrant/skills",
+      "github_url": "https://github.com/qdrant/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kanungle",
+        "text": "The qdrant-advisor skill is now easily installed to any of your coding assistants:\n\nnpx skills add qdrant/skills/meta/qdrant-advisor\n\nInstalling this one skill keeps your agents primed with the latest skills context for your projects and deployments. Even as we continually improv",
+        "likes": 4,
+        "url": "https://x.com/i/status/2076799589190177097"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076799589190177097"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "servasyy_ai",
+        "text": "一个没怎么宣传的项目，自己涨到 4K 多星。\n\n拿下来一试，我明白它凭什么火了\n\n群里兄弟一个 GitHub 项目，没怎么管过自己涨到 4K 多星。今天我拿下来一试，真有点东西\n\n我把自己的项目丢给它，架构直接给我画得明明白白。\n\n它叫 archify，一个能挂在 Claude / Codex 上的 skill。你用大白话描述系统，它就出图：架构、流程、时序、数据流、生命周期，五类图都能画。\n\n出来的是自包含 HTML，带明暗主题，PNG / SVG 一键导出，还能拉到 4 倍分辨率。零依赖，MIT 协议。\n\n要画技术图、写文档还在手搓 https://",
+        "likes": 5,
+        "url": "https://x.com/i/status/2076976686910882209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076976686910882209"
+      ]
+    },
+    {
+      "repo": "wechat-gggithub/wechat-claude-code",
+      "github_url": "https://github.com/wechat-gggithub/wechat-claude-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "onlyonexhj",
+        "text": "微信扫码就能遥控 Claude Code，这个开源 Skill 又更新了\n\n用多了 OpenClaw、Hermes 这些 AI 个人助理之后，最终都会回到 Claude Code 或者 Codex。原因是大部分用到 Agent 的场景都是偏创作和生产力，对 AI Agent 嘘寒问暖、设个定时任务没啥真实诉求，玩一玩热情就退了。\n\n之前开源的 wechat-claude-code Skill 又捡起来迭代了几版，目标是把它做成移动端微信操控电脑上 Claude Code 的最佳方案。\n\n━━━━━━━━━━━━\n\n这个 Skill 干嘛的？\n\n简单说：安",
+        "likes": 2,
+        "url": "https://x.com/i/status/2076958275548189017"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076958275548189017"
+      ]
+    },
+    {
+      "repo": "tandpfun/b73063c8be8fc46644da9925d48b3240",
+      "github_url": "https://github.com/tandpfun/b73063c8be8fc46644da9925d48b3240",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DataChaz",
+        "text": "Here’s the Codex skill, courtesy of @cdngdev, for extracting these images:\n\n→https://t.co/sFi0RAym9Q\n\nJust give it a folder of photos to work from, or ask it to explore your camera roll. https://t.co/RJ4AeAloyg",
+        "likes": 2,
+        "url": "https://x.com/i/status/2076966030577221876"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076966030577221876"
+      ]
+    },
+    {
+      "repo": "bitjaru/styleseed",
+      "github_url": "https://github.com/bitjaru/styleseed",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kiwidigs",
+        "text": "Free + MIT. Paste one prompt into your agent, or npx skills add bitjaru/styleseed\n\n74 rules · a quality gate · 19 skills · 7 brand skins.\n\n→ https://t.co/4dUp9s488e",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076871941437468805"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076871941437468805"
+      ]
+    },
+    {
+      "repo": "marvinamador7/skills",
+      "github_url": "https://github.com/marvinamador7/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "marv_amador",
+        "text": "npx skills add MarvinAmador7/skills https://t.co/drdKLf9rAA",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076809997799895481"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076809997799895481"
+      ]
+    },
+    {
+      "repo": "runtypelabs/skills",
+      "github_url": "https://github.com/runtypelabs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RuntypeLabs",
+        "text": "Runtype Skills are open source. Six composable agent skills for building and operating AI products, installable across 35+ coding agents (Claude Code, Cursor, Copilot, Codex, and more) with one command: npx skills add runtypelabs/skills https://t.co/Ax1nW68oRw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076758563741966765"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076758563741966765"
+      ]
+    },
+    {
+      "repo": "carolinacherry/claude-first-customer-finder-skill",
+      "github_url": "https://github.com/carolinacherry/claude-first-customer-finder-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Daniel_An23",
+        "text": "same skill, now for Claude (MIT): https://t.co/T1PDdiMUWr\n\nnpx skills add carolinacherry/claude-first-customer-finder-skill\ncredit to @Kappaemme1926 for the original https://t.co/JgT4kcqaDx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076729360434733122"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076729360434733122"
+      ]
+    },
+    {
+      "repo": "anneheartrecord/x-operation-skills",
+      "github_url": "https://github.com/anneheartrecord/x-operation-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Charles77xixi",
+        "text": "做 X 运营这几个月，我最烦的环节是复盘。每次都要去 X Analytics 手动下 CSV、拉表，靠感觉猜哪类内容涨粉。我算了下，这套流程一周要搭进去一个多小时，最后还经常下不了结论。\n\n后来干脆全交给 agent，现在我只说一句出X复盘周报就完事了。索性把整套做成了开源 Claude Code skill，从复盘到发帖一条龙，安装方式放在最后。\n\n1️⃣ 数据复盘\n\n拉自己账号的数据，算出每类内容、每个时间段的转化效率，帖子自动分 A/B/C。A 是高曝光高收藏，扩成系列；B 是内容好但曝光没跟上，换个开头重发；C 是双低，这个选题方向直接停掉。\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076972831586586854"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076972831586586854"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_Caffeine",
+        "text": "AI 마케팅에서 제일 비효율적인 순간😱\n\n매번 AI한테  \n“우리 제품이 뭐지?”  \n“타깃 고객은 누구지?”  \n“핵심 셀링포인트가 뭐지?”  \n부터 다시 설명하는 것.\n\nGitHub 3.85만 Star의 `marketingskills`는 AI Agent를 그냥 카피 생성기가 아니라, \n내 제품을 이해하는 마케팅 실행팀으로 바꿔줌. 🔥\n\n제품·고객·포지셔닝·경쟁사 정보를 하나의 공통 컨텍스트로 잡아두면, \n이후 랜딩페이지 전환율 개선, SEO, 광고 소재, 콜드메일, 가격 전략, 리텐션까지 같은",
+        "likes": 28,
+        "url": "https://x.com/i/status/2076857385281569126"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076857385281569126"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "taiyaki_ai3",
+        "text": "めちゃくちゃすごいですね…！😲\n\n外注5万・2週間待つ世界が、本当に過去のものになりそう。\n\n僕も長尺Zoom録画をショートにしたいと思っていたので、HyperFrames今すぐ試してみます！\n\n「npx skills add heygen-com/hyperframes」から入ればOKですよね？\n\n丁寧に解説ありがとうございます！参考にさせていただきます🙏",
+        "likes": 1,
+        "url": "https://x.com/i/status/2076857887708594224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076923644559909046",
+        "https://x.com/i/status/2076857887708594224"
+      ]
+    },
+    {
+      "repo": "linearuncle/linearskills",
+      "github_url": "https://github.com/linearuncle/linearskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "Grok 新出三条命令：/resume-claude、/resume-codex、/resume-cursor，自动读取当前目录下其他 harness 的 JSONL 会话历史，压缩后接管上下文，实现无缝续作。\n\n如何在CC或者codex里使用这 3 条命令？\n\n我用 Fable 5 看了下实现：底层就是三个grok内置 Skills，我已经把它们扒出来了，一条命令即可安装到当前目录：\n\n  npx skills add linearuncle/linearskills -s resume-claude -s resume-codex -s resume",
+        "likes": 2,
+        "url": "https://x.com/i/status/2076973769177096377"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076973769177096377"
+      ]
+    },
+    {
+      "repo": "melvynx/aiblueprint",
+      "github_url": "https://github.com/melvynx/aiblueprint",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "melvynx",
+        "text": "How to get Artifacts in Codex (same as Claude)\n\nInstall this skill:\n\n$ npx skills add Melvynx/aiblueprint --skill use-artifacts\n\nThen ask the AI to create a .html file that shows options, plans or anything\n\nFast and reliable https://t.co/V8mBYIJ0rq",
+        "likes": 5,
+        "url": "https://x.com/i/status/2076969823360438770"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076969823360438770"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "dekart-xyz/geosql",
+      "github_url": "https://github.com/dekart-xyz/geosql",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "maksdizzy",
+        "text": "1/ Geosql — a Claude/Codex skill for geospatial data: SQL queries over geodata straight from your agent. 138 points on HN.\nhttps://t.co/YZk5zeNnvw",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076965202105422295"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076965202105422295"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guangGitHub",
+        "text": "Anthropic 官方设计 Skill\n\nfrontend-design 是 Claude Code 官方插件仓库里的第一个 skill，它能让 Claude 别再生成千篇一律的 AI 风 UI。\n\n属于去除 AI 味儿的老牌 SKill。\n\n打开 SKILL.md 第一段就是先选定一个大胆的审美方向再写代码，逼着 Claude 打造独一无二的视觉风格。\n\n它 Skill 里面约束了具体规则。\n\n比如字体直接点名别用 Inter、Roboto、Arial 这类常见的字体，配色严禁紫色渐变这种已经被用烂的搭配，布局鼓励不对称、错位、对角流动。\n\n它甚至会",
+        "likes": 0,
+        "url": "https://x.com/i/status/2076967439083196817"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2076967439083196817"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2076689880026096089",
+      "author": "HowToPrompt__",
+      "text": "Google has lost the browser war and nobody told them yet.\n\nAn ex-Google engineer open-sourced a privacy-first browser with a native AI agent, MCP server, scheduled tasks, and 40+ app integrations.\n\nFree, private, and it can run entirely on local models.\n\nWhat's inside:\n\n→ 53+ bro",
+      "likes": 564,
+      "views": 0,
+      "url": "https://x.com/i/status/2076689880026096089",
+      "is_kol": false,
+      "score": 2262.0
+    },
+    {
+      "id": "2076906891310190977",
+      "author": "pengchujin",
+      "text": "做了个自动下载视频并翻译好双语字幕的 skill  JZSub：\n1.  支持 YouTube 等 1000+ 视频网站\n2. 下载最佳视频与音频，封装 MP4 格式\n3. 大模型上下文对照翻译，自动烧录好\n 在 Codex、Claude 国内的 WorkBuddy 都非常好用。\n🔗 https://t.co/cGof29TsZP https://t.co/nYYBsSvHBC",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2076906891310190977",
+      "is_kol": false,
+      "score": 652.0
+    },
+    {
+      "id": "2076631846600032652",
+      "author": "childofrose_",
+      "text": "Alternatif CapCut GRATIS tanpa watermark, udah dapet 57k stars di GitHub.\n\nCapCut ada watermark di video, ngelock fitur-fitur tertentu, dan ada biaya langganan.\nada developer yg menciptakan alternatif (open-source).\n→ Editor video lengkap, gaada watermark, gaada limit berbayar (*",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2076631846600032652",
+      "is_kol": false,
+      "score": 565.0
+    },
+    {
+      "id": "2076753042683416639",
+      "author": "tetsuoai",
+      "text": "Read this as: company, does ZDR actually stop them storing your prompts, and what you have to do to turn it on.\n\nRetention is not the enemy. It buys you your own logs for debugging agent tool chains, cheaper batch and caching, and the frontier models that will not run without it.",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2076753042683416639",
+      "is_kol": false,
+      "score": 477.0
+    },
+    {
+      "id": "2076650223666081892",
+      "author": "abhitwt",
+      "text": "Your AI can now publish all your social media posts.\n\nIntroducing the Social0 MCP Server.\n\nConnect Claude, Cursor, OpenClaw, Hermes, or any MCP - compatible AI assistant and simply ask:\n\nWould love your feedback ❤️\nResources down below👇\n\nExample usecases :\n• \"Publish this post to",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2076650223666081892",
+      "is_kol": false,
+      "score": 448.0
+    },
+    {
+      "id": "2076723330460398028",
+      "author": "0xvati",
+      "text": "Muse Spark just launched. We shipped it into Agent Trader and Agent Predict the next day.\n\nNot because it's new. Because it's good. Here's the receipt:\n\n• Intelligence Index: top 5 globally (52), ahead of Sonnet, behind only GPT-5.4, Opus 4.6, and Gemini 3.1\n\n• GPQA Diamond: 89.5",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2076723330460398028",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2076849160234700898",
+      "author": "akhilesh9235",
+      "text": "🚀 𝗧𝗼𝗽 𝟭𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀 𝗧𝗵𝗮𝘁 𝗧𝘂𝗿𝗻 𝗖𝗹𝗮𝘂𝗱𝗲 𝗜𝗻𝘁𝗼 𝗔 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲\n\n⚡ Turn Claude from a simple AI assistant into a powerful workflow engine.\n\nThese GitHub repos help you automate, build, research, and ship faster.\n\n🔹 𝗢𝟭. 𝗥𝗲𝗽𝗼𝗺𝗶𝘅\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗱𝗼𝗲𝘀: Packs your full codebase into one AI",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2076849160234700898",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2076849164982398984",
+      "author": "SolanaHub_",
+      "text": "What are the top Launches on @solana last week? \n\n- @OndoFinance launches 24/7 tokenized stock trading - enabling round-the-clock minting, redemptions, and trading.\n- @jito_sol and @privy_io launch Fullsend - delivering institutional-grade transaction execution on Solana.\n- @Expo",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2076849164982398984",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2076850928414814429",
+      "author": "milesdeutscher",
+      "text": "Hermes Agent killed the AI subscription model months ago.\n\nI don't get why more people aren't using it to cut their AI costs by 50%+.\n\nStop paying monthly just to hit usage caps.\n\nHere's how to use Hermes to significantly cut your token spend:\n\nFirst, understand where your money ",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2076850928414814429",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2076665486159368538",
+      "author": "SamiBizConsult",
+      "text": "تقدر تستخدم بديلا مفتوح المصدر لـ Figma مجانا.\n\nاسمه Penpot.\n\nأداة تصميم مفتوحة المصدر قريبة من Figma في طريقة العمل والواجهات، وتقدر تستضيفها على سيرفرك بنفسك.\n\n→ لديها MCP Server يسمح لوكلاء الذكاء الاصطناعي بالتعامل مع تصاميمك مباشرة\n→ Dev Mode مجاني مع CSS وSVG وHTML\n→ Design",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2076665486159368538",
+      "is_kol": false,
+      "score": 257.0
+    },
+    {
+      "id": "2076963321069355383",
+      "author": "0xRiRoyal",
+      "text": "Adding skills to an agent is easy to celebrate.\n\nThe harder question is: how do users know which skill deserves trust?\n\n@TheARCTERMINAL lets ANIMA install 20 preconfigured skills or build custom ones.\n\nThat creates a new product challenge.\n\nEvery skill should eventually be judged",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2076963321069355383",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2076875759063347201",
+      "author": "codi_fyy",
+      "text": "Anthropic just launched the Claude Architect Certification!\n\nYou’ll have to complete 60 multiple-choice questions across five competency areas in a single session. No external resources or breaks.\n\nHere’s how I’m planning to prepare for it (steal my roadmap):\n\nWeek 1\nComplete the",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2076875759063347201",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2076953396674699672",
+      "author": "elewachii",
+      "text": "Today marks 1 year since I started working as an AI Agent Developer.\n\nBut the journey started before that.\n\nOn April 27th, 2025 I started learning AI Automation.\n\nI had no idea where it would lead.\n\nI just knew I wanted to bet on myself.\n\nI spent months learning, building, breaki",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2076953396674699672",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2076954786990293467",
+      "author": "Revix_AI",
+      "text": "AI agents evolved faster than most people realized.\n\nWith that shift came the new language everyone needs to understand.\n\nSharing these 20 Must-Know Agentic AI Terms compiled by @Revix_AI\n\n1. MCP (Model Context Protocol)\n\nThink of it as the USB-C of AI.\n\nA universal standard conn",
+      "likes": 27,
+      "views": 0,
+      "url": "https://x.com/i/status/2076954786990293467",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2076758566828904868",
+      "author": "SamiBizConsult",
+      "text": "قد تكون هذه أول مرة أشوف متصفح يجعل Chrome يبدو متأخرا .\n\nمهندس سابق في Google فتح مصدر متصفح يضع وكيل ذكاء اصطناعي داخل المتصفح نفسه، مع تركيز على الخصوصية وإمكانية تشغيله بالكامل على نماذج محلية.\n\nماذا يقدم؟\n\n- أكثر من 53 أداة لأتمتة المتصفح باللغة الطبيعية\n- MCP Server مدمج لل",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2076758566828904868",
+      "is_kol": false,
+      "score": 163.0
+    },
+    {
+      "id": "2076727010110419151",
+      "author": "mojeskoqq",
+      "text": "Your coding agent doesn't get worse over time.\n\nIt gets worse at a specific context fill. You have just never measured which one.\n\ncontextrot reads the session transcripts Claude Code already writes to your disk and finds your number.\n\nNot a benchmark. Your projects, your MCP set",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2076727010110419151",
+      "is_kol": false,
+      "score": 163.0
+    },
+    {
+      "id": "2076686721216090485",
+      "author": "DivyanshT91162",
+      "text": "Stop treating database backups as an afterthought.\n\nOne failed server, one accidental delete, or one ransomware attack can wipe out everything.\n\nDatabasement is a modern, 100% open-source, self-hosted database backup platform that makes protecting your data effortless.\n\nIt suppor",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2076686721216090485",
+      "is_kol": false,
+      "score": 156.0
+    },
+    {
+      "id": "2076697733084418262",
+      "author": "HeyAnjula",
+      "text": "Web scraping will never be the same.\n\n(100% open-source visual search at scale)\n\nPixelRAG is a retrieval system that skips HTML parsing completely.\n\nInstead of scraping a page into text and embedding chunks, it screenshots the page and retrieves the image. A vision-language model",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2076697733084418262",
+      "is_kol": false,
+      "score": 148.0
+    }
+  ]
+}
