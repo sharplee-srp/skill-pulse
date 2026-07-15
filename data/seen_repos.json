@@ -4910,5 +4910,53 @@
   "anneheartrecord/x-operation-skills": {
     "first_seen": "2026-07-14",
     "tier": 3
+  },
+  "claude-world/notebooklm-skill": {
+    "first_seen": "2026-07-15",
+    "tier": 0
+  },
+  "xyper-market/xyper-agent": {
+    "first_seen": "2026-07-15",
+    "tier": 2
+  },
+  "oil-oil/video-publisher-skill": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-tiny-gif": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "snapture-inc/picky-skills": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "xmanrui/openclaw-bot-review": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "franparga/brevity": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "getlabs/linear-ui-performance": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "kasuncfdo/ghost-headless-blog-skill": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "ogulcancelik/herdr": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "risingtides-dev/ocean-skills": {
+    "first_seen": "2026-07-15",
+    "tier": 3
+  },
+  "morluto/rea": {
+    "first_seen": "2026-07-15",
+    "tier": 3
   }
 }

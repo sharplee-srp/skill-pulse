@@ -1,0 +1,608 @@
+{
+  "date": "2026-07-15",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 178,
+    "tweets_with_repos": 19,
+    "unique_repos": 19,
+    "new_repos": 12,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "claude-world/notebooklm-skill",
+      "github_url": "https://github.com/claude-world/notebooklm-skill",
+      "tier": 0,
+      "is_new": true,
+      "score": 683.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 21,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "notebooklm-skill 这个技能将 NotebookLM 的调研能力，与 Claude Code 结合来起来。\n\n只需扔给它一批网址、PDF 或者热点话题，就能自动创建笔记、做研究，整理成结构化的信息。\n\n再拿着这份内容，给 Claude 接着写文章、发推文、Newsletter，想要什么文本格式都可以。\n\nGitHub：https://t.co/0keOyq80jz\n\n除了能当 Claude Code 的 Skill 用，也能当独立的 MCP 服务跑，接进自己 Agent 工作流。\n\n还能顺手生成播客音频、幻灯片、思维导图这些，能帮做自媒体的",
+        "likes": 21,
+        "url": "https://x.com/i/status/2077241766240260537"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077241766240260537"
+      ]
+    },
+    {
+      "repo": "xyper-market/xyper-agent",
+      "github_url": "https://github.com/xyper-market/xyper-agent",
+      "tier": 2,
+      "is_new": true,
+      "score": 433.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 106,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SaleemLabs",
+        "text": "Most AI agents still stop at output: write this, summarize that, generate a post, wait for the human to do the rest.\n\n@Xypermarket is a more interesting direction.\n\nThe Xyper agent skill gives an agent a full earning workflow: wallet auth, campaign discovery, content creation, X ",
+        "likes": 106,
+        "url": "https://x.com/i/status/2077306118146044299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077306118146044299"
+      ]
+    },
+    {
+      "repo": "oil-oil/video-publisher-skill",
+      "github_url": "https://github.com/oil-oil/video-publisher-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 264.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_am_oil_oil",
+        "text": "分享一个自动化发布内容的 Skill：https://t.co/v5pfmeZ9yo\n\n如果多平台发布内容的国内博主应该有和我类似的困扰，就是每次要将内容发布到不同平台都得花不少时间，逐个平台上传，写标题，写 Tag，上传封面，勾选各种声明。发一个视频至少得十几二十分钟。\n\n由于国内的生态会比较闭塞一点，导致我们很难找到一些很稳定的 API 用来自动化发布内容。我们第一反应肯定是用 AI 浏览器自动化来解决这个问题，但在我自己实际测试的过程中发现即便是最强的模型，效率也实在太低了，而且会踩各种坑，实际发布的时候。各种弹窗问题，上传失败问题太常见了。\n\n我",
+        "likes": 48,
+        "url": "https://x.com/i/status/2077226946061295747"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077226946061295747"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-tiny-gif",
+      "github_url": "https://github.com/joeseesun/qiaomu-tiny-gif",
+      "tier": 3,
+      "is_new": true,
+      "score": 148.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "写了个 Gif 压缩Skill，用于满足公众号插入需求。\n\n公众号 GIF 大小限制为 10M，而且超过300 帧也不行。\n\n尺寸建议：宽度控制在 640 像素左右，帧率控制在12 - 20 fps 之间。\n\nSkill安装指令：npx skills add joeseesun/qiaomu-tiny-gif\n\n开源Github见评论，演示网站也在评论区 https://t.co/YuY05wDpf3",
+        "likes": 16,
+        "url": "https://x.com/i/status/2077242458627289494"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077242458627289494"
+      ]
+    },
+    {
+      "repo": "snapture-inc/picky-skills",
+      "github_url": "https://github.com/snapture-inc/picky-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "snapture_",
+        "text": "Install our skill. Be Picky..\n`npx skills add snapture-inc/picky-skills`\n\nYou can't rate an agent you never paid.\nYou can't vote twice from one purchase.\n\nPicky is an agent service provider on OKXAI marketplace. Try it now.\n\n👉 More details at https://t.co/cNcGL78e9k\n#OKXAI https:",
+        "likes": 4,
+        "url": "https://x.com/i/status/2077185011326042333"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077185011326042333"
+      ]
+    },
+    {
+      "repo": "xmanrui/openclaw-bot-review",
+      "github_url": "https://github.com/xmanrui/openclaw-bot-review",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "🖥️ Monitor All Your OpenClaw Agents from One Dashboard\n\nOpenClaw Dashboard is a lightweight, open-source web interface that lets you monitor every OpenClaw bot, model, session, and platform from a single place. Instead of manually checking configuration files, it reads your local",
+        "likes": 5,
+        "url": "https://x.com/i/status/2077107501053735212"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077107501053735212"
+      ]
+    },
+    {
+      "repo": "franparga/brevity",
+      "github_url": "https://github.com/franparga/brevity",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Parga_Fran",
+        "text": "In 1940, Churchill ordered the British government to write shorter reports.\n\nI turned his one-page “Brevity” memo into an AI skill.\n\nMain points first. Short, crisp paragraphs. No corporate padding. Save tokens.\n\nInstall: npx skills add franparga/brevity\nhttps://t.co/p0XPYJh89c h",
+        "likes": 2,
+        "url": "https://x.com/i/status/2077292252368400672"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077292252368400672"
+      ]
+    },
+    {
+      "repo": "getlabs/linear-ui-performance",
+      "github_url": "https://github.com/getlabs/linear-ui-performance",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eugen_JS",
+        "text": "Introducing new skill: linear-ui-performance\n\nTired of your AI generating slow lists and janky UIs?\n\nThis skill fixes that:\n\nnpx skills add getlabs/linear-ui-performance\n\nBased on how Linear actually ships fast interfaces (local-first + optimistic everything).",
+        "likes": 1,
+        "url": "https://x.com/i/status/2077142177864441891"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077142177864441891"
+      ]
+    },
+    {
+      "repo": "kasuncfdo/ghost-headless-blog-skill",
+      "github_url": "https://github.com/kasuncfdo/ghost-headless-blog-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kasuncfdo",
+        "text": "Install:\n\nnpx skills add kasuncfdo/ghost-headless-blog-skill\n\nOr as a Claude Code plugin:\n\n/plugin marketplace add kasuncfdo/ghost-headless-blog-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077212182459437245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077212182459437245"
+      ]
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "github_url": "https://github.com/ogulcancelik/herdr",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lumendriada",
+        "text": "@jordanrstout just install skill via `npx skills add ogulcancelik/herdr --skill herdr -g`\n\nor tell your agent to look for herdr cli, which is agent friendly and your agent can take over from there and help you to do anything you want within herdr :)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077197048726667290"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077197048726667290"
+      ]
+    },
+    {
+      "repo": "risingtides-dev/ocean-skills",
+      "github_url": "https://github.com/risingtides-dev/ocean-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "risingtidesdev",
+        "text": "Agents have your nested rounded corners looking \"off\" even with equal padding? apple made a video breaking it down so i asked gpt-5.6 sol to make it a skill:\n\n npx skills add risingtides-dev/ocean-skills https://t.co/5nLKTw17fF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077169324188393924"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077169324188393924"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "morluto",
+        "text": "@mel_sol1 @sama it works pretty well! there's a skill as well\nnpx skills add morluto/rea",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077164925794009406"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077164925794009406"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 22,
+        "url": "https://x.com/i/status/2077330053416038884"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077330053416038884"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.18.0 released. TL;DR: fresh desktop installs move to v2; Home removes per-project request fan-out; permissions become server-scoped; timeline and focus regressions are fixed.\n\n𝗔𝗽𝗽\nChanged\n• Changed fresh desktop installs to use the tab-based v2 interface by default; e",
+        "likes": 30,
+        "url": "https://x.com/i/status/2077129643535073386"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077129643535073386"
+      ]
+    },
+    {
+      "repo": "jcodesmore/ai-website-cloner-template",
+      "github_url": "https://github.com/jcodesmore/ai-website-cloner-template",
+      "tier": 3,
+      "is_new": false,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DAIEvolutionHub",
+        "text": "6 GitHub repos every AI engineer needs.\n\n1. AI Website Cloner Template\nClone and reverse-engineer almost any website using reusable AI workflows.\nhttps://t.co/n6YXWKIL5R\n\n2. Recordly\nAn open-source alternative to Screen Studio with auto-zoom, smooth cursor movement, and polished ",
+        "likes": 20,
+        "url": "https://x.com/i/status/2077274912809758791"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077274912809758791"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xEightshyt",
+        "text": "Coding agent lo bisa generate halaman full dalam detik. Tapi coba perhatiin: gradient yang sama, font pairing yang aman, layout yang keliatan kayak template. Karena emang itu yang dilakuin — agent nge-match pattern dari training data, bukan nge-desain dari brief lo.\n\nHallmark (ht",
+        "likes": 4,
+        "url": "https://x.com/i/status/2077312484185432138"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077312484185432138"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "bitjaru/styleseed",
+      "github_url": "https://github.com/bitjaru/styleseed",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kiwidigs",
+        "text": "It's open source and MIT.\n\nThe full receipt (the 58 → 86 breakdown): https://t.co/QxWhjCjvmH\n\nInstall: npx skills add bitjaru/styleseed\n→ https://t.co/4dUp9s488e",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077305121005044133"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077305121005044133"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sitinme",
+        "text": "怎么安装\n\n需要先安装 Node.js、npm/npx 和 Git。Skills CLI 不需要单独全局安装，但会通过 Git 下载仓库。\n\n安装全部技能：\nnpx skills@latest add emilkowalski/skills\n\n只安装主技能：\nnpx skills add https://t.co/Ulm7Y7mqZ4 --skill emil-design-eng\n\n只安装动画审查：\nnpx skills add https://t.co/Ulm7Y7mqZ4 --skill review-animations\n\nhttps://t.c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077216112111206696"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077216112111206696"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2077208614692131139",
+      "author": "MinoDriven",
+      "text": "何かとてつもないagent skillが作り上げられたようです。\nざっと見始めたところですが、よくここまで僕の設計思想を掘り起こしてトレースしたものだと驚いています。\nさっきから「すごい」というセリフしか出てこない。",
+      "likes": 769,
+      "views": 0,
+      "url": "https://x.com/i/status/2077208614692131139",
+      "is_kol": false,
+      "score": 2612.0
+    },
+    {
+      "id": "2077114326985687525",
+      "author": "pbakaus",
+      "text": "The Dark Arts of Skill Engineering",
+      "likes": 265,
+      "views": 0,
+      "url": "https://x.com/i/status/2077114326985687525",
+      "is_kol": false,
+      "score": 915.0
+    },
+    {
+      "id": "2077302465180147807",
+      "author": "dfinity",
+      "text": "Internet Identity is getting an MCP server.\n\nWe sat down with Arshavir Ter-Gabrielyan to understand what it is and why it matters.\n\nHe starts with the problem: an AI agent runs in a cloud sandbox. No access to your device. No safe way to hold your keys.\n\nThe MCP server is the ans",
+      "likes": 185,
+      "views": 0,
+      "url": "https://x.com/i/status/2077302465180147807",
+      "is_kol": false,
+      "score": 750.0
+    },
+    {
+      "id": "2077098340001436013",
+      "author": "ErnestoSOFTWARE",
+      "text": "Our app makes $50,000/ week  \nbetween IOS and android. \n\nAt this rate thats $200,000/mo\n\nThis is the exact tool stack we use \nto rank #7 and beat companies \n\nThat have millions in funding \nAs a Bootstrapped team of 2\n\n✅ Rork: using fable 5 to update the app and quickly beta test ",
+      "likes": 214,
+      "views": 0,
+      "url": "https://x.com/i/status/2077098340001436013",
+      "is_kol": false,
+      "score": 732.0
+    },
+    {
+      "id": "2077262640272019475",
+      "author": "milesdeutscher",
+      "text": "I built a trading bot with Claude that made +$168,236.\n\nIt's a complete cheat code, and the entire strategy was built using Fable 5.\n\nNo dev experience required.\n\nHere's exactly how to build & backtest profitable trading strategies using AI (nfa):\n\nStep 1. Extract your strategy r",
+      "likes": 199,
+      "views": 0,
+      "url": "https://x.com/i/status/2077262640272019475",
+      "is_kol": false,
+      "score": 717.0
+    },
+    {
+      "id": "2077073312392339929",
+      "author": "GPUOpen",
+      "text": "Post-mortem GPU crash debugging with LLMs is here! 🔍\n\nNew AMD Radeon GPU Detective (RGD) MCP Server:\n\n🤖 Connect LLMs to the AMD crash analysis pipeline.\n⚡ From crash dump to root cause in minutes.\n🔧 Proposes targeted source-code fixes.\n\nRead more ⬇️\n\nhttps://t.co/yArC2aIDLT",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2077073312392339929",
+      "is_kol": false,
+      "score": 389.0
+    },
+    {
+      "id": "2077070726499340795",
+      "author": "RodmanAi",
+      "text": "The browser war quietly ended.\n\nGoogle just hasn't realized it yet.\n\nAn ex-Google engineer just open-sourced a Chromium browser with AI built into the browser itself not as another extension.\n\nIt comes with:\n• Native AI agents\n• Built-in MCP server\n• Local LLM support via Ollama\n",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2077070726499340795",
+      "is_kol": false,
+      "score": 362.0
+    },
+    {
+      "id": "2077214071599099927",
+      "author": "milesdeutscher",
+      "text": "How to vibe code custom trading indicators with the TradingView MCP + Claude Fable 5.\n\nI'm not technical at all, and I was able to use the TradingView MCP to create wildly effective market indicators.\n\nEvery trader should set this up.\n\nNobody else on the timeline is talking about",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2077214071599099927",
+      "is_kol": false,
+      "score": 361.0
+    },
+    {
+      "id": "2077105899022532671",
+      "author": "kmeanskaran",
+      "text": "Hi guys, I'm Karan 👋\n\nJust started learning AI/ML. If you are into:\n&gt; Python\n&gt; LangChain\n&gt; Agentic AI\n&gt; Prompt Engineering\n&gt; MCP\n&gt; PyTorch\n\nThen let's connect.\n\nAlso, which vibe coding tool is better Claude or Codex?\n#Connect",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2077105899022532671",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2077115267943907627",
+      "author": "ClawBankHQ",
+      "text": "ClawBank Earn Is Here. Starting With the First LP Position Ever Minted From a Text Message.",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2077115267943907627",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2077225080027775206",
+      "author": "dotey",
+      "text": "这个 App 最开始是自己用的，是走的 LLM 方案，先整体翻译，然后按句子配对，再 LLM 拆分，但是拆分效果总是不理想。\n\n另外走 LLM 还有一个问题，就是要配置 API Key，这其实对普通人不友好，另外就是成本其实不低，Gemini 3.5 Flash 一部长一点视频都几美元。\n\n最后发现还是 Agent + Skill 路线最好：\n\n1. Agent 有很好的纠错能力，哪怕你不给它这样的工具，它自己都能一边翻译一边纠错，质量不错。\n\n2. 把 App 的能力封装成 cli，让 Agent 可以通过命令行调用 App 的功能\n\n3. 配合一个 ",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2077225080027775206",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2077270435385717171",
+      "author": "polydao",
+      "text": "THE LOOP ENGINEERING SETUP THAT LETS CLAUDE RUN YOUR WORK FOR HOURS WITHOUT YOU\n\nwhile you babysit it prompt by prompt, other people set the loop up once and let Claude plan, act, verify, and fix its own work with no one at the keyboard\n\nthat gap is the whole skill of loop engine",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2077270435385717171",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2077069813965328529",
+      "author": "0x_beni_",
+      "text": "A lot of Hackathon deadlines are coming up this week  \n\nHere are some of the biggest ones closing soon 👇\n\n➤ OKX AI Genesis Hackathon\n\nDeadline: July 17, 2026 | Prize Pool: $100,000\nBuild an Agent Service Provider for @okx tools, workflow templates, custom solutions or always on s",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2077069813965328529",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2077006991017296214",
+      "author": "AethirCloud",
+      "text": "Crypto moves 24/7. Humans don’t.\n\nThat’s why Aethir Claw introduced CARA: a pre-built crypto AI agent designed for market monitoring, wallet tracking, project research, social feeds, and Web3 workflows.\n\nNo manual skill setup.\n\nNo complex deployment.\n\nJust a crypto-native agent r",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2077006991017296214",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2077060702754500967",
+      "author": "aisdk",
+      "text": "AI SDK now provides the functions 𝚏𝚒𝚗𝚐𝚎𝚛𝚙𝚛𝚒𝚗𝚝𝚃𝚘𝚘𝚕𝚜() and\n𝚍𝚎𝚝𝚎𝚌𝚝𝚃𝚘𝚘𝚕𝙳𝚛𝚒𝚏𝚝() to help catch silent MCP tool rewrites before they reach the model. https://t.co/RhOqZjCWYW",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2077060702754500967",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2077272917386420638",
+      "author": "rubenhassid",
+      "text": "Delete your 33 unread Claude guides bookmarks.\n\nThis (stupid simple) roadmap is all you need:\n\n→ Quick Start - 20 mins: Get going.\n\nThe basics of Claude: https://t.co/HNa5MrCLVU\nPrompt better: https://t.co/EE46WHU8vg\nUse Projects: https://t.co/Q7AN9CZAbO\nGet free certified: https",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2077272917386420638",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2077041488794673544",
+      "author": "TechByNagma",
+      "text": "My OpenClaw just generated a fully animated AI video with a single Telegram message 🤯\n\nThis is V2. And it's a completely different beast.\n\nV1 went viral — type a topic, get a fun animated video back. Educational content, silly food characters, entertainment stuff.\n\nV2 turns it in",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2077041488794673544",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2077068115725455551",
+      "author": "GithubProjects",
+      "text": "The Flux Operator is a Kubernetes CRD controller that automates installation, configuration, and upgrades of Flux CD across fleets of clusters.\n\n- Declarative API for managing Flux lifecycle across multiple clusters\n- Self-service environments via ResourceSet API with PR-based ep",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2077068115725455551",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2077281462433223043",
+      "author": "dotey",
+      "text": "我在开发 BaoCut 这个 App 的时候，是基于一个 Loop 来的：\n\n1. 在开发新功能之前先设计原型（参考图1），借助的是 baoyu-design skill （https://t.co/d2EaYV6q7j ），配合 Claude Code App 内置的浏览器实施预览调整，模型 Opus 4.8 就很好了，都不需要 Fable 5.\n\nGPT 5.6 Sol 设计能力还是不如 Opus 4.8\n\n2. 原型打磨好了后，只需要在同一会话内，让 Claude Code 基于新的 UI 设计去实现功能即可，这块 Claude 做的很好，Fabl",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2077281462433223043",
+      "is_kol": false,
+      "score": 207.0
+    }
+  ]
+}
