@@ -1,0 +1,452 @@
+{
+  "date": "2026-07-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 15,
+    "unique_repos": 12,
+    "new_repos": 5,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "abhishek-b-r/social0-cli",
+      "github_url": "https://github.com/abhishek-b-r/social0-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 214.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abhitwt",
+        "text": "@EshanBhat11 yes, just give this skill to ur openclaw, hermes, claudecode, or any other agent and its gonna post for u🥳\n\nnpx skills add abhishek-b-r/social0-cli",
+        "likes": 1,
+        "url": "https://x.com/i/status/2077658260396744908"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077658260396744908",
+        "https://x.com/i/status/2077642614397121012"
+      ]
+    },
+    {
+      "repo": "exa-labs/agent-skills",
+      "github_url": "https://github.com/exa-labs/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 173.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExaDevelopers",
+        "text": "We're releasing a set of skills that we use internally at Exa across GTM, Recruiting, and Engineering\n\nRun in terminal: npx skills add exa-labs/agent-skills https://t.co/wAfhu0O06m",
+        "likes": 21,
+        "url": "https://x.com/i/status/2077438984775733583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077438984775733583"
+      ]
+    },
+    {
+      "repo": "manish-uxai/design-review",
+      "github_url": "https://github.com/manish-uxai/design-review",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomaruxai",
+        "text": "Releasing my most used skill for everyone .\n\nnpx skills add manish-uxai/design-review -y\n\nThree months ago I turned my personal drift checklist into a skill: /design-review. It audits a whole codebase or a single screen against 11 design-integrity dimensions and cites file and li",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077699666590978235"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077699666590978235"
+      ]
+    },
+    {
+      "repo": "shanev/skills",
+      "github_url": "https://github.com/shanev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shan3v",
+        "text": "My skills unslopify and decomplect are now language-agnostic and can be installed across all your agents:\n\nnpx skills add shanev/skills --all -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077513076673257689"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077513076673257689"
+      ]
+    },
+    {
+      "repo": "jeet-ganguly/birdy-edwards-lite",
+      "github_url": "https://github.com/jeet-ganguly/birdy-edwards-lite",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Cyber_Sudo",
+        "text": "🔴 Investigate Facebook Profiles Automatically with This Tool\n\nMost investigators manually examine Facebook profiles, which takes a lot of time.\n\nWhat if I told you there's a tool that automatically gathers all publicly available information and analyzes it for you?\n\nIt runs local",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077711307935985731"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077711307935985731"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 1221.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 222,
+      "total_retweets": 71,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 207,
+        "url": "https://x.com/i/status/2077330053416038884"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077698204876099985",
+        "https://x.com/i/status/2077330053416038884"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 263.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alex_verem",
+        "text": "This open source skill makes AI-coded landing pages stop looking AI-generated.\n\nIt's called Hallmark. Plugs into Claude Code, Cursor, or Codex. One command: npx skills add nutlope/hallmark\n\n20 themes. 57 anti-slop gates. A self-critique layer that scores its own output on 6 axes ",
+        "likes": 16,
+        "url": "https://x.com/i/status/2077487126581751886"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077685921454194990",
+        "https://x.com/i/status/2077487126581751886"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 182.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Hartdrawss",
+        "text": "I found a site with 5,800+ Official Skills and 500+ Agent Repos\n\nIts literally ONE COMMAND :\n\n- pick a skill built by anthropic, stripe, cloudflare, shopify, sentry or 90+ other companies\n- run npx skills add owner/repo and your agent instantly knows how to use that tool properly",
+        "likes": 19,
+        "url": "https://x.com/i/status/2077634556350308720"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077634556350308720"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-design",
+      "github_url": "https://github.com/alchaincyf/huashu-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vibecodingth",
+        "text": "ติดตั้งด้วยคำสั่งเดียว โดยพิมพ์ใน terminal (หน้าต่างพิมพ์คำสั่ง)\n\nnpx skills add alchaincyf/huashu-design\n\nguizang-ppt-skill ก็ลงแบบเดียวกัน\n\nลองทำสไลด์แค่หน้าเดียวจากเรื่องที่จะพูดสัปดาห์หน้า\nจากที่เคยเสียเวลาจัดหน้าหาสีทั้งบ่าย เหลือแค่พิมพ์บอกว่าอยากเล่าอะไร\n\n#ClaudeCode\n\n9/9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077663762648326623"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077663762648326623"
+      ]
+    },
+    {
+      "repo": "vladzima/copy2llm",
+      "github_url": "https://github.com/vladzima/copy2llm",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vladzima",
+        "text": "https://t.co/GF8JMtS3Ow\n\nnpx skills add vladzima/copy2llm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077488845298586084"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077488845298586084"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-tiny-gif",
+      "github_url": "https://github.com/joeseesun/qiaomu-tiny-gif",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hppzyy",
+        "text": "写了个 Gif 压缩Skill，用于满足公众号插入需求。 公众号 GIF 大小限制为 10M，而且超过300 帧也不行。 尺寸建议：宽度控制在 640 像素左右，帧率控制在12 - 20 fps 之间。 Skill安装指令：npx skills add joeseesun/qiaomu-tiny-gif 开源Github见评论，演示网站也在评论区 https://t.co/I2E3nF7Wey",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077448303206412646"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077448303206412646"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2077426314890371332",
+      "author": "fmontes",
+      "text": "Si un reclutador te pide 5 años de experiencia de MCP servers usted le dice que tienes 10 años de experiencia con MCP server.",
+      "likes": 186,
+      "views": 0,
+      "url": "https://x.com/i/status/2077426314890371332",
+      "is_kol": false,
+      "score": 598.0
+    },
+    {
+      "id": "2077395455005131005",
+      "author": "0xWast3",
+      "text": "ONE PROMPT AND ONE BUTTON NOW BUILDS A FULL SYSTEM, DATABASE, BACKEND, AND FRONTEND INCLUDED\n\nMost people still picture AI as something you ask questions to, then copy the answer into your own code by hand.\n\nA builder wired Claude into Obsidian through MCP instead, so a single wr",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2077395455005131005",
+      "is_kol": false,
+      "score": 530.0
+    },
+    {
+      "id": "2077477721840697385",
+      "author": "nuits_jp",
+      "text": "今年も無事、Microsoft MCP Awarded を、いただく事ができました。カテゴリーが変わって .NET とDeveloper Toolの二部門になりました。\n\n今後も有用な情報を発信し続けられるよう頑張ります。\n\n#MVPBuzz https://t.co/7fbKfofkwL",
+      "likes": 147,
+      "views": 0,
+      "url": "https://x.com/i/status/2077477721840697385",
+      "is_kol": false,
+      "score": 466.0
+    },
+    {
+      "id": "2077671830941585880",
+      "author": "DamiDefi",
+      "text": "THIS GUY SHARED HOW HE TURNED CLAUDE INTO A SECOND BRAIN THAT KNOWS HIS BUSINESS BETTER THAN HE DOES.\n\nThe Four C's framework: Context (who you are), Connections (live data via APIs), Capabilities (skills and automations), Cadence (runs while you sleep).\n\nFolders and files. That'",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2077671830941585880",
+      "is_kol": false,
+      "score": 455.0
+    },
+    {
+      "id": "2077427982013186471",
+      "author": "BuildOnStellar",
+      "text": "Stellar Developers Meeting is back this week, and it's a big one.\n\nJoin @0xkaankacar as he introduces Raven, the Stellar MCP server for AI agents.\n\nWith guests @kalepail, @brianawylde, @Rawritude, and @boxthebuilder.\n\nLive at 6pm UTC. Set a reminder: https://t.co/g0A7CF9p4O https",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2077427982013186471",
+      "is_kol": false,
+      "score": 379.0
+    },
+    {
+      "id": "2077393154181914794",
+      "author": "Revix_AI",
+      "text": "Anthropic is offering 13 AI courses & certificates.\n\nIt's free by following these 13 links:\n\n1 - Claude 101. Learn Claude for everyday work. Core features and best practices.\n\n↳ https://t.co/czuOrojSDp\n\n2 - AI Fluency: Framework & Foundations. The foundational thinking course. Mu",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2077393154181914794",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2077397476412146009",
+      "author": "gippp69",
+      "text": "THIS DEVELOPER CONNECTED CLAUDE TO A TINY DESKTOP ROBOT AND MADE IT SEE, THINK, AND MOVE IN REAL TIME\n\n00:03 he launches ROS MCP Server, an open source bridge that connects Claude, GPT, or Gemini to existing ROS 1 and ROS 2 robots without rebuilding the entire stack.\n\nsetup stays",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2077397476412146009",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2077580737050788098",
+      "author": "Saboo_Shubham_",
+      "text": "Google just dropped a new way for AI agents to self-improve.\n\nAn agent evals skill that finds quality bugs in your AI agents, fixes them, and proves the fix worked.\n\nWorks with Antigravity, Claude Code, and Codex. https://t.co/EPIMiApFBo",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2077580737050788098",
+      "is_kol": false,
+      "score": 286.0
+    },
+    {
+      "id": "2077627059434905973",
+      "author": "satyaXBT",
+      "text": "website AI slop bikin sakit mata\n\npurple gradient, semua text di tengah, font Inter, card 3 kolom, navbar template. ganti nama produk doang, hasilnya tetep website yang sama\n\ncoba pasang Hallmark\n\nini design skill buat Claude Code, Cursor, dan Codex yang maksa coding agent keluar",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2077627059434905973",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2077581486958792724",
+      "author": "heyitsurya",
+      "text": "I use 5 Claude features that most people\nhave never opened once.\n\nThey change how the entire tool works.\n\nHere is what each one does (save this):\n\n𝟭. 𝗠𝗲𝗺𝗼𝗿𝘆 (Free, all plans)\n↳ Claude remembers your work context across chats\n↳ Settings > Capabilities > Generate memory\n↳ You stop ",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2077581486958792724",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2077409091245289830",
+      "author": "superwhisper",
+      "text": "The Superwhisper CLI + MCP server are here. Check out our full walkthrough on both of these new features ✨ https://t.co/qDvqs0VOAq",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2077409091245289830",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2077690956393181386",
+      "author": "cyrilXBT",
+      "text": "Every department, installable.\n\nDevelopers\n- Superpowers → https://t.co/FVh1NdS6yi\n- Context7 → https://t.co/nappHZ4r7s\n- Skill Creator → https://t.co/qCcC3DEwAo\n- MCP Builder → https://t.co/qCcC3DEwAo\n- Webapp Testing → https://t.co/qCcC3DEwAo\n- Claude-Mem → https://t.co/1XI7Odu",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2077690956393181386",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2077634081370849312",
+      "author": "AI_Caffeine",
+      "text": "🚨 Claude용 트레이딩 Skill 모음 나왔음.\n\nAI에게 종목 찍어달라는 도구가 아님.  \n오히려 매매에서 제일 중요하지만 감정 때문에 제일 쉽게 무너지는\n\"판단 절차와 리스크 관리\"를 Claude에게 맡기는 방식.\n\n`50여개 트레이딩 Skill`로 \n- 시장 추세·시장 폭 체크, \n- ETF·배당주·장기 포트폴리오 점검, \n- 스윙 기회 필터링, 포지션 \n- 사이즈·손실 한도·진입 전 체크, \n- 매매일지·사후 복기, \n- 전략 리서치·백테스트까지 한 흐름으로 커버함.\n\n핵심은 “다음 급",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2077634081370849312",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2077440546897846676",
+      "author": "AnthonyLoera_",
+      "text": "🚨 An AI agent just hit a paywall, paid $1.00 in DigiDollar, and walked through. No human in the loop. No custodian. The receipt is a transaction on the chain.\n\nAn independent builder @mikeeshift, a holder and oracle operator, not a core dev, built the whole stack in two days: \n\na",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2077440546897846676",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2077509762338488409",
+      "author": "RoundtableSpace",
+      "text": "A developer connected Claude to a desktop robot using ROS MCP Server, letting it read the robot's state, plan a move and send commands in real time.\n\nhttps://t.co/PeGJZwhGBo",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2077509762338488409",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2077561221138747615",
+      "author": "mvanhorn",
+      "text": "SpaceXAI open-sourced Grok Build yesterday: the CLI, agent runtime, tools, and TUI. I pointed my agent at all 1.3M lines and asked for the cleverest things inside. Tl;dr of my new article:\n⚖️ It has an appeals court. /goal mode won't let the agent call itself done. Three adversar",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2077561221138747615",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2077391265155752407",
+      "author": "Vincent_AINotes",
+      "text": "AI 资料合集（持续更新）：\n\n全自动 AI 短视频工厂、n8n 工作流、Seedance 2.0 短剧与短视频创作、AI 萌宠科普 IP、Shopify 建站、视频号中老年赛道、TikTok 短剧批量做号、WorkBuddy AI 提效、Codex 与 OpenClaw 自定义 Skill、小程序开发与推广……\n\nhttps://t.co/WupdIn6u4K https://t.co/YAX6qs9khR",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2077391265155752407",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2077465681612959859",
+      "author": "VivekIntel",
+      "text": "OpenOSINT? AI-Powered OSINT Investigation Platform with 18 built-in OSINT tools 💥💀\n\nOpenOSINT is an open-source OSINT framework that combines 18 powerful investigation tools behind a natural language interface. Use it as a CLI, Web UI, REPL, or MCP server to automate intelligence",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2077465681612959859",
+      "is_kol": false,
+      "score": 180.0
+    }
+  ]
+}
