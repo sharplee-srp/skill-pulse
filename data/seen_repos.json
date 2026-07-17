@@ -4978,5 +4978,89 @@
   "jeet-ganguly/birdy-edwards-lite": {
     "first_seen": "2026-07-16",
     "tier": 3
+  },
+  "rohitg00/kubectl-mcp-server": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "mehvetero/move-test-gen": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "addsumtech/slides_maker": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "openai/playwright": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "anthropic/canvas-design": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "vercel/vercel-deploy-claimable": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "anthropic/webapp-testing": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "vercel/react-best-practices": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "openai/figma-implement-design": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "vercel/web-design-guidelines": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "anthropic/brand-guidelines": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "openai/frontend-skill": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "slidum/skills": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "biw/skills": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "alibaba-flyai/flyai-skill": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "yila-ai/sci-ssci-skills": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "yiyang-hakimide/paper-and-book-to-visual-learning": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "wuyoscar/gpt-image2-skill": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "eshwarvijay/agent-architecture": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "codedrobe/skills": {
+    "first_seen": "2026-07-17",
+    "tier": 3
+  },
+  "usestrix/strix": {
+    "first_seen": "2026-07-17",
+    "tier": 3
   }
 }

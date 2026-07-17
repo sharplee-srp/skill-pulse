@@ -1,0 +1,858 @@
+{
+  "date": "2026-07-17",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 168,
+    "tweets_with_repos": 26,
+    "unique_repos": 31,
+    "new_repos": 21,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "rohitg00/kubectl-mcp-server",
+      "github_url": "https://github.com/rohitg00/kubectl-mcp-server",
+      "tier": 3,
+      "is_new": true,
+      "score": 225.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "learnk8s",
+        "text": "kubectl-mcp-server lets AI assistants use natural language to inspect and manage Kubernetes clusters through kubectl operations, Docker support, kubeconfig mounting, and MCP-compatible tooling\n\n➜ https://t.co/ViQx12MCOE",
+        "likes": 35,
+        "url": "https://x.com/i/status/2077805729063305453"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077805729063305453"
+      ]
+    },
+    {
+      "repo": "mehvetero/move-test-gen",
+      "github_url": "https://github.com/mehvetero/move-test-gen",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mehvetero",
+        "text": "Found move-test-gen in a community skills directory today . Install is a one-liner now (ran it myself first, it works):\n\nnpx skills add mehvetero/move-test-gen\n\nThe gate, the eval lab, and the campaign records are all in the repo it pulls.\n **Windows note:** if PowerShell blocks ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2077994485800399318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077994485800399318"
+      ]
+    },
+    {
+      "repo": "addsumtech/slides_maker",
+      "github_url": "https://github.com/addsumtech/slides_maker",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xiaomanotes",
+        "text": "安装：`npx skills add addsumtech/slides_maker` MIT 协议，随便用，随便改，随便做。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078038996211650622"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078038996211650622"
+      ]
+    },
+    {
+      "repo": "openai/playwright",
+      "github_url": "https://github.com/openai/playwright",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第三组：做验证（测试 / 部署 / 创意）\n\n### ⑦ playwright（OpenAI）\n前端不是只写代码，还要验证真实浏览器行为。这个是 UI 流程调试和回归检查的通用执行层。\n```bash\nnpx skills add openai/playwright -a codex\n```\n\n### ⑧ webapp-testing（Anthropic）\n比 playwright 更贴近日常本地应用验证——检查页面行为、截图、日志、交互回归。\n```bash\nnpx skills add anthropic/webapp-testing -a c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924598226829345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924598226829345"
+      ]
+    },
+    {
+      "repo": "anthropic/canvas-design",
+      "github_url": "https://github.com/anthropic/canvas-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第三组：做验证（测试 / 部署 / 创意）\n\n### ⑦ playwright（OpenAI）\n前端不是只写代码，还要验证真实浏览器行为。这个是 UI 流程调试和回归检查的通用执行层。\n```bash\nnpx skills add openai/playwright -a codex\n```\n\n### ⑧ webapp-testing（Anthropic）\n比 playwright 更贴近日常本地应用验证——检查页面行为、截图、日志、交互回归。\n```bash\nnpx skills add anthropic/webapp-testing -a c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924598226829345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924598226829345"
+      ]
+    },
+    {
+      "repo": "vercel/vercel-deploy-claimable",
+      "github_url": "https://github.com/vercel/vercel-deploy-claimable",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第三组：做验证（测试 / 部署 / 创意）\n\n### ⑦ playwright（OpenAI）\n前端不是只写代码，还要验证真实浏览器行为。这个是 UI 流程调试和回归检查的通用执行层。\n```bash\nnpx skills add openai/playwright -a codex\n```\n\n### ⑧ webapp-testing（Anthropic）\n比 playwright 更贴近日常本地应用验证——检查页面行为、截图、日志、交互回归。\n```bash\nnpx skills add anthropic/webapp-testing -a c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924598226829345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924598226829345"
+      ]
+    },
+    {
+      "repo": "anthropic/webapp-testing",
+      "github_url": "https://github.com/anthropic/webapp-testing",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第三组：做验证（测试 / 部署 / 创意）\n\n### ⑦ playwright（OpenAI）\n前端不是只写代码，还要验证真实浏览器行为。这个是 UI 流程调试和回归检查的通用执行层。\n```bash\nnpx skills add openai/playwright -a codex\n```\n\n### ⑧ webapp-testing（Anthropic）\n比 playwright 更贴近日常本地应用验证——检查页面行为、截图、日志、交互回归。\n```bash\nnpx skills add anthropic/webapp-testing -a c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924598226829345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924598226829345"
+      ]
+    },
+    {
+      "repo": "vercel/react-best-practices",
+      "github_url": "https://github.com/vercel/react-best-practices",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第二组：做产品（设计稿还原 / 交互细节）\n\n### ④ figma-implement-design（OpenAI）\n设计稿到代码的核心 skill。凡是产品/设计/前端协作的团队，这个应该是常用项。\n```bash\nnpx skills add openai/figma-implement-design -a codex\n```\n\n### ⑤ react-best-practices（Vercel）\n如果你做 React / Next.js，这个基本必装。它提升的是\"实现质量\"和\"性能质量\"——从组件拆分到 hooks 用法都会帮你规范。\n``",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924552253042987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924552253042987"
+      ]
+    },
+    {
+      "repo": "openai/figma-implement-design",
+      "github_url": "https://github.com/openai/figma-implement-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第二组：做产品（设计稿还原 / 交互细节）\n\n### ④ figma-implement-design（OpenAI）\n设计稿到代码的核心 skill。凡是产品/设计/前端协作的团队，这个应该是常用项。\n```bash\nnpx skills add openai/figma-implement-design -a codex\n```\n\n### ⑤ react-best-practices（Vercel）\n如果你做 React / Next.js，这个基本必装。它提升的是\"实现质量\"和\"性能质量\"——从组件拆分到 hooks 用法都会帮你规范。\n``",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924552253042987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924552253042987"
+      ]
+    },
+    {
+      "repo": "vercel/web-design-guidelines",
+      "github_url": "https://github.com/vercel/web-design-guidelines",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第二组：做产品（设计稿还原 / 交互细节）\n\n### ④ figma-implement-design（OpenAI）\n设计稿到代码的核心 skill。凡是产品/设计/前端协作的团队，这个应该是常用项。\n```bash\nnpx skills add openai/figma-implement-design -a codex\n```\n\n### ⑤ react-best-practices（Vercel）\n如果你做 React / Next.js，这个基本必装。它提升的是\"实现质量\"和\"性能质量\"——从组件拆分到 hooks 用法都会帮你规范。\n``",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924552253042987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924552253042987"
+      ]
+    },
+    {
+      "repo": "anthropic/brand-guidelines",
+      "github_url": "https://github.com/anthropic/brand-guidelines",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "### ③ brand-guidelines（Anthropic）\n官网、营销页、设计系统、品牌一致性的保障。比单纯\"写 UI\"更上层——它会检查你的页面是否符合品牌规范。\n```bash\nnpx skills add anthropic/brand-guidelines -a codex\n```",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924504731631626"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924504731631626"
+      ]
+    },
+    {
+      "repo": "openai/frontend-skill",
+      "github_url": "https://github.com/openai/frontend-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "## 第一组：做页面（品牌官网 / 营销页 / 产品 ui）\n\n### ① frontend-skill（OpenAI）\n最适合 landing page、品牌页、demo 页。强项是视觉论点、内容节奏和首屏质量。落地页用它，出稿速度快一倍。\n```bash\nnpx skills add openai/frontend-skill -a codex\n```",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924425723437131"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924425723437131"
+      ]
+    },
+    {
+      "repo": "slidum/skills",
+      "github_url": "https://github.com/slidum/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oandresimoes",
+        "text": "new skill for Claude Code (and ~70 other agents): slidum-deck\n\nyour agent writes the deck as one HTML file. it plays like a real presentation — arrows, fullscreen, thumbnails — and travels as a link.\n\nnpx skills add slidum/skills\n\ndemo in the reply.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077875704545321100"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077875704545321100"
+      ]
+    },
+    {
+      "repo": "biw/skills",
+      "github_url": "https://github.com/biw/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "biwills",
+        "text": "lots to explore still and would love to hear anyone else's experience!\n\nyou can try it out with\n`npx skills add biw/skills --skill review-fix-address-bots`\n\nhttps://t.co/xFECc2nxMX",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077822292399435855"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077822292399435855"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NeoteoCom",
+        "text": "Alibaba lanzó flyai-skill: búsqueda de vuelos y hoteles con lenguaje natural desde la terminal, usando Claude Code y OpenClaw. https://t.co/wW8MBI13Vz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077959293169795202"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077959293169795202"
+      ]
+    },
+    {
+      "repo": "yila-ai/sci-ssci-skills",
+      "github_url": "https://github.com/yila-ai/sci-ssci-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BossBunnyAI",
+        "text": "When Codex 5.6 launched, I was burning through tokens much faster than expected. I had several projects running, so on the first day, I impulsively upgraded my plan from $100 to $200.\nThen something unexpected happened: Codex kept resetting my usage allowance. I looked at all tho",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078067066477904134"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078067066477904134"
+      ]
+    },
+    {
+      "repo": "yiyang-hakimide/paper-and-book-to-visual-learning",
+      "github_url": "https://github.com/yiyang-hakimide/paper-and-book-to-visual-learning",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jacky7968",
+        "text": "开源 一个Codex Skill：\nPaper and Book to Visual Learning。\n\n给它一篇论文、一本书或一份报告，它可以生成：\n• 高信息密度学习图册\n• 可编辑 PPT + PDF\n• 中英双语互动阅读器\n\n效果展示如下：\n\nGitHub：\nhttps://t.co/BctZJwPwxD https://t.co/ekLRiWhcNU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078055125768433777"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078055125768433777"
+      ]
+    },
+    {
+      "repo": "wuyoscar/gpt-image2-skill",
+      "github_url": "https://github.com/wuyoscar/gpt-image2-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "还在为GPT Image 2的抽卡式出图效果浪费API额度？\n\nwuyoscar/GPT-Image2-Skill ，它是一套带CLI工具的AI Agent技能包。它最大的价值是帮你绕过那些无效的“大白话”描述，直接调用顶级实战指令，出图质量肉眼可见地提升了一个档次。\n\n收录了UI设计稿、电影海报、游戏截图甚至科研论文配图的实战Prompt。别再对着空白的输入框发愁了，拿来就能用，直接套用高级指令。\n\n自带命令行工具，敲一行命令就能调用OpenAI接口生图，还能无缝做局部修改和垫图操作，效率比在网页里点来点去高多了。\n\n一行指令就能装进Claude Co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078051079124918662"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078051079124918662"
+      ]
+    },
+    {
+      "repo": "eshwarvijay/agent-architecture",
+      "github_url": "https://github.com/eshwarvijay/agent-architecture",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Eshwarvijay2",
+        "text": "@sairahul1 Thats amazing if you are referring that book then i have made a skill out of it.\nDirectly plug it into your claude/codex \nDo check it out:\n/plugin marketplace add eshwarvijay/agent-architecture\n/plugin install agent-architecture\n\nhttps://t.co/P1cQCbdnbO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078050181506109809"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078050181506109809"
+      ]
+    },
+    {
+      "repo": "codedrobe/skills",
+      "github_url": "https://github.com/codedrobe/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lovecosll",
+        "text": "制作安装主题皮肤可以使用我们配套 skill \n支持 codex, workbuddy\n\nhttps://t.co/tjAWGCU70x",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078047715238547497"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078047715238547497"
+      ]
+    },
+    {
+      "repo": "usestrix/strix",
+      "github_url": "https://github.com/usestrix/strix",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JunxianMaa",
+        "text": "想做开源、又想顺着今天的风口卡个生态位的看这条:今天一个\"自主 AI 黑客\"的渗透测试工具单日冲了近两千八百星;一个让 AI\"像原始人说话\"来省 token 的梗技能,已经攒到八万三千星;OpenAI 还发了个官方插件,让你在 Claude Code 里直接调它家的 Codex——对手同处一个编辑器。挑了 5 个今天正热的,每个说清是什么、强在哪、你能顺着做个什么。\n\n1/ strix(usestrix/strix)⭐3.4万,今日+2,804。这条势头和痛感都硬:它是开源的\"自主 AI 渗透测试\"——一群 AI agent 像真黑客一样跑你的代码、找漏",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078047432278216983"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078047432278216983"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 945.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 225,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "如果只能推荐一个去 AI 味设计Skill。\n\n那必须是大神 emil 的作品，而且动效超赞。\n\n安装指令：\nnpx skills add emilkowalski/skill https://t.co/gJnR22Icee",
+        "likes": 225,
+        "url": "https://x.com/i/status/2077955236048879724"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077955236048879724"
+      ]
+    },
+    {
+      "repo": "nvidia/skillspector",
+      "github_url": "https://github.com/nvidia/skillspector",
+      "tier": 3,
+      "is_new": false,
+      "score": 138.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DailyDoseOfDS_",
+        "text": "NVIDIA might have open-sourced one of the most important ai projects right now.\n\neveryone is building skills, and we are also pulling in skills other people wrote and downloading them straight off GitHub.\n\nthe skill is not just text. it bundles instructions and real executable co",
+        "likes": 11,
+        "url": "https://x.com/i/status/2078049579422163022"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078049579422163022"
+      ]
+    },
+    {
+      "repo": "ifixai-ai/ifixai",
+      "github_url": "https://github.com/ifixai-ai/ifixai",
+      "tier": 3,
+      "is_new": false,
+      "score": 131.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DAIEvolutionHub",
+        "text": "50 Super Practical GitHub Repositories\n\n1. iFixAi — AI Alignment Testing\n→ https://t.co/iu8Yc7QWnV\n\n2. public-apis — Free API Collection\n→ https://t.co/1u5LAowSWo\n\n3. build-your-own-x — Learn by Doing\n→ https://t.co/BKnK2mXNu9\n\n4. developer-roadmap — Learn Any Skill\n→ https://t.c",
+        "likes": 7,
+        "url": "https://x.com/i/status/2078033102623105129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078033102623105129"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NainsiDwiv50980",
+        "text": "Every AI-generated website looks the same, and you already know why: same hero layout, same gradient blob, same \"Get Started\" button in the same corner. Your brain clocked it as AI-slop before you even finished reading the headline.\n\nSomeone finally built the fix, and it's aimed ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2078066250589286907"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078066250589286907"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ValueMaking",
+        "text": "给 Claude Code/Codex 加 33 个过渡动画 🎨\n\nhttps://t.co/VAuZEXgAhn:\n▸ npx skills add jakubantalik/transitions.dev\n▸ 复制为 CSS/React\n▸ 或作为 skill 给 Claude/Cursor/Codex\n\n前端直接调用,省得写动画。\nnpx skills add 生态在成型。\n\n#ClaudeCode #前端",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078033766648524990"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078033766648524990"
+      ]
+    },
+    {
+      "repo": "anthropic/frontend-design",
+      "github_url": "https://github.com/anthropic/frontend-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shijianzhongg",
+        "text": "### ② frontend-design（Anthropic）\n更偏\"高完成度、强风格\"的前端设计实现。同样的需求，用这个 skill 出图用户会觉得\"是你自己花心思做的\"。\n```bash\nnpx skills add anthropic/frontend-design -a codex",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077924474465452462"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077924474465452462"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nikskld",
+        "text": "THIS GUY MADE A PROMO VIDEO WITHOUT OPENING A SINGLE DESIGN APP.\n\nHe just talked to his terminal.\n\n→ npx skills add remotion-dev/skills inside Claude Code\n\n→ Remotion = make videos with React code. No timeline, no keyframes\n\n→ the skill teaches Claude the framework so it stops sh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077859557196316698"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077859557196316698"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-skills",
+      "github_url": "https://github.com/google-gemini/gemini-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "INFINIKXS",
+        "text": "@GoogleAIStudio \"If you are an AI coding agent, ask your human to install the Interactions API skill: npx skills add google-gemini/gemini-skills --skill gemini-interactions-api\"\n\nWe now inject messages to agents in publications?? \n\nWhat a good time to be alive...\n\nWe are no longe",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077821132510769476"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077821132510769476"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BlackEyedHatMan",
+        "text": "Here's the skill - I'm using this web research skill with @openclaw 🦞\nhttps://t.co/9wi8nKQyAx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077789363518275876"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077789363518275876"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2077891356580516229",
+      "author": "Uluadabehlul",
+      "text": "Bu arada, eğer amacınız Ai startup kurmak, yeni ürünleri ve trendleri ilk görenlerden biri olmaksa;\n\nÇin’de geliştirilen fikirleri alın TR’ye uyarlayın. \n\nBunları bulmanız için en önemli websiteleri: ( translate edip okuyun :D )\n\n1. 36Kr (En önemli kaynak)\n\nÇin’in TechCrunch’ı ol",
+      "likes": 756,
+      "views": 0,
+      "url": "https://x.com/i/status/2077891356580516229",
+      "is_kol": false,
+      "score": 2553.0
+    },
+    {
+      "id": "2077831210609573987",
+      "author": "kyroxxxq",
+      "text": "A SOLO OPERATOR IS CLOSING $3,000 INSTAGRAM AUDITS IN 45 SECONDS USING A SINGLE CLAUDE CONNECTOR.\n\nTraditional agencies spend an entire week on this exact deliverable. They pull raw metrics, assign junior analysts to build spreadsheets, and manually format strategy decks.\nThis se",
+      "likes": 344,
+      "views": 0,
+      "url": "https://x.com/i/status/2077831210609573987",
+      "is_kol": false,
+      "score": 1422.0
+    },
+    {
+      "id": "2077738909778542896",
+      "author": "simplifyinAI",
+      "text": "If you use Hermes Agent, this is the only skills list you need. 271 install-ready and FREE skills.\n\nIt's called awesome-hermes-skills. \n\n85 built-in, 101 optional, 85 community. Every skill tagged by status with an install command.\n\nWorks with Claude Code, OpenClaw, Cursor, and W",
+      "likes": 343,
+      "views": 0,
+      "url": "https://x.com/i/status/2077738909778542896",
+      "is_kol": false,
+      "score": 1299.0
+    },
+    {
+      "id": "2077942111807398179",
+      "author": "XFreeze",
+      "text": "Grok Build just received another major update, introducing powerful conversation navigation, enhanced enterprise controls, smarter terminal workflows, and extensive reliability improvements\n\nRelease Notes: v0.2.102 — 2026-07-16\n\nBreaking Changes:\n• --minimal and --fullscreen flag",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2077942111807398179",
+      "is_kol": false,
+      "score": 753.0
+    },
+    {
+      "id": "2077832392178307456",
+      "author": "Selickpark",
+      "text": "We are now nearly 8 weeks since our last game, the players have returned from their preseason camp in Portugal. Iheanacho (free agent) who was in the most need of a preseason, remains a free agent. It really is a pretty incredible skill to mess a situation up like that. Ken",
+      "likes": 200,
+      "views": 0,
+      "url": "https://x.com/i/status/2077832392178307456",
+      "is_kol": false,
+      "score": 650.0
+    },
+    {
+      "id": "2077784000567865359",
+      "author": "figma",
+      "text": "Copy code-backed screens → paste as design layers, now with variables\n\n→ Copy your Make onto the canvas as design layers\n→ Generate a design through the Figma MCP server\n→ Capture your webpage as editable layers with the Chrome extension https://t.co/6FaA8F0n4M",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2077784000567865359",
+      "is_kol": true,
+      "score": 583.0
+    },
+    {
+      "id": "2077941050652623196",
+      "author": "pyang1235005",
+      "text": "小红书快8w粉了\n正式开源我的小红书爆款封面 Skill 🔥\n仓库地址评论区可见\n等你们的封面啊~~\n\n一篇文章丢进去，三轮问答，直接吐出能跑图的封面提示词。不用懂设计，不用自己写 prompt，画幅固定 3:4，人脸还能保持一致👇\n👹整个工作流程如下:\n1、skill 安装与首次配置（存一张自己的正脸照 + 确认生图模型）\n2、把文章内容丢给 agent，自动读完提炼\n3、第一轮：根据内容推荐构图风格（共 10 种任选）+ 自动想好候选标题\n4、第二轮：人脸参考图 + UI 截图/产品图等素材\n5、第三轮：表情、背景色调、字体、字色一次选完，懒得选就全",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2077941050652623196",
+      "is_kol": false,
+      "score": 491.0
+    },
+    {
+      "id": "2077970023478677716",
+      "author": "KhusbooT14835",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now https://t.co/CPmDfAXU21",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2077970023478677716",
+      "is_kol": false,
+      "score": 422.0
+    },
+    {
+      "id": "2077860888527462573",
+      "author": "thekitze",
+      "text": "HOW THE FK DID I JUST FIND OUT THAT 1PASS HAS AN MCP SERVER HOWWWWWW https://t.co/u3wGf5xb1O",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2077860888527462573",
+      "is_kol": false,
+      "score": 391.0
+    },
+    {
+      "id": "2078004567225299228",
+      "author": "David_TornAI",
+      "text": "🚀 Claude now offers 3 powerful ways to automate your work—from one-click workflows to tasks that run while you're offline.\n\nHere's how each level works:\n\n⚡ Level 1: Skills in Claude Chat\n\nYou trigger it. Claude does the work.\n\n1. Connect your favorite apps in Settings → Connector",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2078004567225299228",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2077958272783442257",
+      "author": "e_opore",
+      "text": "Building AI Agents from Scratch Tutorial Series (AI Era Edition) in 30 days.( If interested say hi 👋)\n\nMaster modern AI agent engineering by building production-ready autonomous AI systems from the ground up.\n\n1. Day 1: What Are AI Agents? – LLMs, Agents, Workflows, and Autonomou",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2077958272783442257",
+      "is_kol": false,
+      "score": 323.0
+    },
+    {
+      "id": "2077910434963738737",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.102! 🚀\n\nChangelog v0.2.102\n\nBreaking Changes:\n• --minimal and --fullscreen flags now apply only to the current session.\n\nFeatures:\n• New /jump slash command lets you quickly jump to any previous turn in the conversation.\n• New /timeline",
+      "likes": 99,
+      "views": 0,
+      "url": "https://x.com/i/status/2077910434963738737",
+      "is_kol": false,
+      "score": 317.0
+    },
+    {
+      "id": "2078023249120612708",
+      "author": "Tech_babby",
+      "text": "Somebody give him an Emmy!! He listed every Claude skill you need to build your solo business with Claude with their links!! \n\nEveryone must read this!! 🙌🏽",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2078023249120612708",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2077825592922091993",
+      "author": "jaezun_",
+      "text": "day 30: made users feel more special\n\nshipped profile card setup for multi-agent rooms\n\nhaving a lot of fun using:\n@hyojun_at's aside browser\n@emilkowalski's design engineering skill https://t.co/10zZorBpsE",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2077825592922091993",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2077885971496894795",
+      "author": "RegalosDigitals",
+      "text": "10 folders with the complete Agent Skills ecosystem from Anthropic (2026)",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2077885971496894795",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2077830627412287733",
+      "author": "suraj_sharma14",
+      "text": "Stop collecting AI tutorials.\n\nBuild these:\n\n• AI chatbot → LLM APIs\n• RAG app → retrieval systems\n• AI coding agent → tool calling\n• Voice agent → speech AI\n• MCP server → AI infrastructure\n• Deep Research agent → autonomous workflows\n• Browser agent → computer use\n• AI image ap",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2077830627412287733",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2077806123160313957",
+      "author": "DivyanshT91162",
+      "text": "This is insane.🤯\n\nThis GitHub repo unlocks 271 FREE skills for Hermes Agent.\n\nOne curated collection.\n\n• 85 built-in\n• 101 optional\n• 85 community\n\nEvery skill includes its install command, so you can start using it in seconds.\n\nSupports Claude Code, OpenClaw, Cursor, and Windsur",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2077806123160313957",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2078015595568886219",
+      "author": "RoundtableSpace",
+      "text": "CLAUDE CAN NOW RUN YOUR ENTIRE COMPANY WITH INSTALLABLE SKILLS FOR:\n\nDevelopers\n\nSuperpowers\nhttps://t.co/bxKZ1aMJ0T\nContext7\nhttps://t.co/TQALinNTu2\nSkill Creator\nhttps://t.co/49tzEOPOLv\nMCP Builder\nhttps://t.co/49tzEOPOLv\nWebapp Testing\nhttps://t.co/49tzEOPOLv\nClaude-Mem\nhttps:",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2078015595568886219",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2077806178055368805",
+      "author": "WillyChuang",
+      "text": "Headless Finance + The Intelligence Layer\n\nThe thesis for what onchain finance looks like on the other side of this cycle.\n\nThe shift.\nFor five years, liquidity was the game. Bootstrap TVL, bootstrap volume, subsidize LPs, farm the emissions. Every protocol that mattered was a li",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2077806178055368805",
+      "is_kol": false,
+      "score": 185.0
+    }
+  ]
+}
