@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-18",
+  "stats": {
+    "total_fetched": 356,
+    "unique_tweets": 167,
+    "tweets_with_repos": 16,
+    "unique_repos": 15,
+    "new_repos": 6,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "zeropointrepo/awesome-hermes-skills",
+      "github_url": "https://github.com/zeropointrepo/awesome-hermes-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 388.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_peditx",
+        "text": "دوستان برای کار کردن با هرمس در استفاده از این اسکیل ها خسیس بازی در نیارید !\n\nلینک رو بدید بهش بگید لیست کنه براتون و نصب کنه \n\nبعدا احتمالا ازم تشکر می کنین چون نیازتون رو تا ۸۰٪ از mcp server اضافه برطرف میکنه\n\nhttps://t.co/qwyEa0hEB1",
+        "likes": 53,
+        "url": "https://x.com/i/status/2078374894299951334"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078167982694351083",
+        "https://x.com/i/status/2078374894299951334"
+      ]
+    },
+    {
+      "repo": "ogulcancelik/agent-skills",
+      "github_url": "https://github.com/ogulcancelik/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 237.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lumendriada",
+        "text": "npx skills add ogulcancelik/agent-skills --skill web-search\n\nwill try to move some more skills that i'm testing and using privately here if anyone is interested.\n\nhttps://t.co/hqGvYSdSw2",
+        "likes": 44,
+        "url": "https://x.com/i/status/2078172955738001616"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078172955738001616"
+      ]
+    },
+    {
+      "repo": "egoist/gpt-image",
+      "github_url": "https://github.com/egoist/gpt-image",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "localhost_5173",
+        "text": "Wrote a skill for generating images, supporting both ChatGPT subscription and API key\n\nnpx skills add egoist/gpt-image",
+        "likes": 2,
+        "url": "https://x.com/i/status/2078128656736722986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078128656736722986"
+      ]
+    },
+    {
+      "repo": "inklate/social-skills",
+      "github_url": "https://github.com/inklate/social-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamya6av",
+        "text": "Introducing Inklate!\n\nAn open source social skills to make platform-native format — posts, threads, carousels, even ad copy.\n\nWorks in Claude Code, Cursor, and Codex.\n\nnpx skills add inklate/social-skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2078412379403272438"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078412379403272438"
+      ]
+    },
+    {
+      "repo": "tomimalamud/github-review-heartbeat",
+      "github_url": "https://github.com/tomimalamud/github-review-heartbeat",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomasmalamud",
+        "text": "y se instala con `npx skills add TomiMalamud/github-review-heartbeat`",
+        "likes": 1,
+        "url": "https://x.com/i/status/2078184659452567637"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078184659452567637"
+      ]
+    },
+    {
+      "repo": "chrislaupama/threejs-game-studio",
+      "github_url": "https://github.com/chrislaupama/threejs-game-studio",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chrislaupama",
+        "text": "npx skills add chrislaupama/threejs-game-studio",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078244657608437785"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078244657608437785"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ifixai-ai/ifixai",
+      "github_url": "https://github.com/ifixai-ai/ifixai",
+      "tier": 3,
+      "is_new": false,
+      "score": 220.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DAIEvolutionHub",
+        "text": "50 Super Practical GitHub Repositories\n\n1. iFixAi — AI Alignment Testing\n→ https://t.co/iu8Yc7QWnV\n\n2. public-apis — Free API Collection\n→ https://t.co/1u5LAowSWo\n\n3. build-your-own-x — Learn by Doing\n→ https://t.co/BKnK2mXNu9\n\n4. developer-roadmap — Learn Any Skill\n→ https://t.c",
+        "likes": 30,
+        "url": "https://x.com/i/status/2078033102623105129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078033102623105129"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 164.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wayen_ai",
+        "text": "谷歌 Gemini 团队主管 Addy Osmani 开源的 Agent Skills\n\n它不是给你一堆 prompt，是把“高级工程师怎么干活”这件事，封装成了 24 个可复用的技能。\n\n覆盖了完整开发链路：\n\n1. Define（定义）\n/spec → 需求澄清，把模糊想法变成 PRD\n/interview-me → 像产品经理一样追问你，直到目标清晰\n\n2. Plan（规划）\n/plan → 把需求拆成可执行的小任务\n\n3. Build（构建）\n/build → 增量实现，一个切片一个切片来\n/test → TDD 红绿重构，强制测试驱动\n/sou",
+        "likes": 13,
+        "url": "https://x.com/i/status/2078306068401107031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078306068401107031"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "amanmaqsood",
+        "text": "Most people use Claude Code and Codex at 20% of what they can do.\n\nThe other 80% is skills. Here are the 10 worth installing right now:\n\n𝟭𝟬. /𝗹𝗼𝗼𝗽𝘆\nhttps://t.co/TZOpUka28k\n\nTurns one-shot prompts into self-improving workflows. Scans your codebase for repeated work and converts th",
+        "likes": 4,
+        "url": "https://x.com/i/status/2078275301948215526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078275301948215526"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hata_AI_master",
+        "text": "AIっぽさを消したデザインSkillを1つだけ選ぶなら、間違いなくemil大神の作品。\n\nデザインのクオリティが一気に上がるだけでなく、動きもめちゃくちゃ気持ちいい。\n\nインストールはこちら👇\n\nnpx skills add emilkowalski/skill https://t.co/U0thdKGt1H",
+        "likes": 3,
+        "url": "https://x.com/i/status/2078385123414999417"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078385123414999417"
+      ]
+    },
+    {
+      "repo": "jerlinn/jerlin-weread",
+      "github_url": "https://github.com/jerlinn/jerlin-weread",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Huahuazo",
+        "text": "微信读书出了官方Skill这事，我第一反应是“假的吧”，结果真能让 Codex 或 Claude Code 直接操作笔记和划线，不是套壳，是真调用。\n\n装法两条路：官方版复制指令让AI自动装，或者直接用 X 上 eviljer 优化的版本（一行 npx skills add jerlinn/jerlin-weread 搞定，体验更顺）。API Key 去微信官方页面申请就行，不复杂。\n\n装完之后，直接对AI说“调用微信读书skill，查《被讨厌的勇气》的高亮划线”，它真能把当年划的句子全翻出来。等于你散在各本书里的笔记和想法，现在全被AI串成了一张你自己",
+        "likes": 2,
+        "url": "https://x.com/i/status/2078197795899748756"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078197795899748756"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "kulaxyz/self-learning-skills",
+      "github_url": "https://github.com/kulaxyz/self-learning-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oss_zukan",
+        "text": "導入は npx skills add kulaxyz/self-learning-skills（70+エージェント対応）や Claude Code プラグイン。Cursor は .cursor/rules、AGENTS.md 系はファイル追記で入る。\n安全面も明記：収集した skill は共有・コミットされるので、秘密の値そのものは絶対に書かず\"どこにあるか\"だけ記録する設計。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078215716877259250"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078215716877259250"
+      ]
+    },
+    {
+      "repo": "celo-org/celopedia-skills",
+      "github_url": "https://github.com/celo-org/celopedia-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UniqueBeing404",
+        "text": "@defimessiah1 npx skills add celo-org/celopedia-skills is the hack for building better, smarter and faster on celo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078134602586009795"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078134602586009795"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NeoteoCom",
+        "text": "Alibaba lanzó flyai-skill: búsqueda de vuelos y hoteles con lenguaje natural desde la terminal, usando Claude Code y OpenClaw. https://t.co/wW8MBI13Vz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2077959293169795202"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2077959293169795202"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2078143909125923137",
+      "author": "openshipio",
+      "text": "Introducing OpenShip.\n\nAn open-source application platform for building, deploying, operating, and scaling applications on infrastructure you own.\n\nReplace deployment tools, managed services, and infrastructure workflows with one open-source platform.\n\nAvailable today:\n\n- Mail Se",
+      "likes": 667,
+      "views": 0,
+      "url": "https://x.com/i/status/2078143909125923137",
+      "is_kol": false,
+      "score": 2296.0
+    },
+    {
+      "id": "2078308274399834157",
+      "author": "cyrilXBT",
+      "text": "MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.\n\n1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast",
+      "likes": 238,
+      "views": 0,
+      "url": "https://x.com/i/status/2078308274399834157",
+      "is_kol": false,
+      "score": 899.0
+    },
+    {
+      "id": "2078094872717017107",
+      "author": "pauliusztin_",
+      "text": "\"Memory for agents is still early, with little to no standards... but one common pattern is emerging: wiki memory.\"\n\nThis is how @hwchase17 (co-founder of @LangChain) recently described the current state of agent memory.\n\nOver the past year, I've been building two separate system",
+      "likes": 219,
+      "views": 0,
+      "url": "https://x.com/i/status/2078094872717017107",
+      "is_kol": false,
+      "score": 877.0
+    },
+    {
+      "id": "2078337974669042159",
+      "author": "claudecode84",
+      "text": "Claude Code はこのプラグインを入れないと\n全く使い物にならないんです。\nAnthropic の公式プラグインの\nインストールが必須です\n👇\nclaude-code-setup   \nどんな自動化をセットアップ\nできるかを教えてくれて　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n\nステップバイステップで\n設定方法を説明してくれます。\n\n基本的にあなたのプロジェクトを分析して\n何を有効化すべきかを提案してくれます。\n",
+      "likes": 206,
+      "views": 0,
+      "url": "https://x.com/i/status/2078337974669042159",
+      "is_kol": false,
+      "score": 718.0
+    },
+    {
+      "id": "2078260384499179601",
+      "author": "claudecode_lab",
+      "text": "【朗報】\n1PasswordとAnthropicが連携を発表！\n\nMCP serverを用いて、パスワードやワンタイムパスワード、API keyなどを安全にClaudeに渡して、ログインや認証が必要な操作をさせることができるようになりました。\n\n何も話題になっていませんが、5月にはすでにCodexと連携していたようで、Claudeでも対応した形と思われます。\nhttps://t.co/EKE1xjkFtl",
+      "likes": 206,
+      "views": 0,
+      "url": "https://x.com/i/status/2078260384499179601",
+      "is_kol": false,
+      "score": 713.0
+    },
+    {
+      "id": "2078096630318833885",
+      "author": "NOWNodes",
+      "text": "The NOWNodes MCP Server is live.\n\nInstead of digging through API docs, сonnect #Cursor, #Claude, VS Code, or any compatible AI coding assistant to our #MCPServer. \n\nGenerate production-ready API requests based on the latest NOWNodes documentation, saving up to 30% of tokens compa",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2078096630318833885",
+      "is_kol": false,
+      "score": 510.0
+    },
+    {
+      "id": "2078166241454473534",
+      "author": "dr_cintas",
+      "text": "I just built my second brain with Hermes Agent.\n\nIt remembers people, companies, projects, and decisions. It pulls from meeting notes, docs, anything I feed it, and cites the source every time.\n\nIt's this repo called Gbrain, open-sourced by Y Combinator president Garry Tan.\n\ninst",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2078166241454473534",
+      "is_kol": false,
+      "score": 444.0
+    },
+    {
+      "id": "2078120184121098266",
+      "author": "Suryanshti777",
+      "text": "You're not behind because you use the wrong AI model.\n\nYou're behind because you're still using AI like a chatbot.\n\nThe people pulling ahead are building systems around it.\n\nAgents. MCP servers. Memory. Automation. Reusable workflows.\n\nThat's the real leverage.\n\nI spent hours dig",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2078120184121098266",
+      "is_kol": false,
+      "score": 433.0
+    },
+    {
+      "id": "2078083256709444055",
+      "author": "TawohAwa",
+      "text": "A guy paid $1200 for Claude Max over the last six months.\n\nHe mostly used it to summarize PDFs, write emails, and ask random questions.\n\nSome days he’d open Claude, type one prompt, close the tab, and wonder why everyone on the internet kept calling it the best AI tool available.",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2078083256709444055",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2078236723905982836",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.103! 🚀\n\nChangelog v0.2.103\n\nFeatures:\n• New require_sha option prevents remote plugins from tracking mutable branches or tags.\n• Local sessions now inherit full rc environment, cwd, and exports across tool calls (configurable).\n• MCP se",
+      "likes": 99,
+      "views": 0,
+      "url": "https://x.com/i/status/2078236723905982836",
+      "is_kol": false,
+      "score": 322.0
+    },
+    {
+      "id": "2078200870416810151",
+      "author": "tonbistudio",
+      "text": "Make a 3D game right in Hermes! I made a quick video showing how to connect Unreal Engine with Hermes Agent using this MCP server and skill, and made a simple forest scene.\n\nI'll do a full project for my YouTube channel, so be sure to subscribe!\n\nhttps://t.co/Jp9bA8A414 https://t",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2078200870416810151",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2078082671885078915",
+      "author": "itsharmanjot",
+      "text": "Your AI coding agent doesn’t actually understand your codebase. It’s guessing at relationships between files every time it edits one.\n\nThere’s a tool that fixes that, entirely in your browser, with zero code ever leaving your machine.\n\nIt’s called GitNexus. Drop in a repo or a ZI",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2078082671885078915",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2078102029575057658",
+      "author": "OOBEonSol",
+      "text": "SAP MCP lets you run a payment system for your agent on your own terms.\n\nTwo commands and it’s live.\n\nYour agent can charge for its services, settle payments through infrastructure you control, and keep the funds without a middleman taking a cut or holding them.\n\nWe’ve also renew",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2078102029575057658",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2078090596976300459",
+      "author": "VikramK38703637",
+      "text": "Everyone is comparing AI models.\n\nClaude vs ChatGPT. GPT-5 vs Claude. Bigger context windows. Better reasoning.\n\nBut I think we're overlooking something much bigger.\n\nThe real bottleneck isn't the model anymore it's context.\n\nEvery time you switch AI tools, you have to start over",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2078090596976300459",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2078248933004923341",
+      "author": "Biggopp_",
+      "text": "Two agents can already shake hands on a deal in seconds. ERC-8004 confirms who they are. A2A gets them to terms. x402 moves the money.\n\nNone of that tells you what happens the moment execution finishes and the two sides disagree on whether it actually finished right.\n\nThat gap is",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2078248933004923341",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2078106192857940413",
+      "author": "Igor_Buinevici",
+      "text": "AI agents aren't chatbots with better marketing.\n\nYet many people still use the terms interchangeably.\n\nSharing great insights from Rakesh Gohel on what truly defines Agentic AI.\n\nMost people still struggle to distinguish an AI Agent from an advanced chatbot.\n\nAnd in 2026, that m",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2078106192857940413",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2078362481031066013",
+      "author": "humzaakhalid",
+      "text": "SOMEONE JUST TURNED CLAUDE INTO AN ENTIRE TEAM WITH 122 SKILLS WITHOUT ANY HUMAN\n\nIf I had this setup a year ago, I would've skipped hiring for half these roles.\n\n(Bookmark this before everyone notices it)\n\nHere's every department, and where to get each one:\n\nDevelopers\nSuperpowe",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2078362481031066013",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2078245747229937902",
+      "author": "levifikri",
+      "text": "Rethinking code/PR review\n\nKarena code sudah 100% AI generated, code review itu sekarang utamanya lebih buat dua hal:\n\n1. Human memahami systemnya => belajar\n2. Human  memverifikasi hasilnya\n\nIbarat punya orang super smart di pocket kita, kita harus selalu upgrade pengetahuan kit",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2078245747229937902",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2078079392224628882",
+      "author": "isle_ai_biz",
+      "text": "売上約2,864万円、118件の契約。\n\nOpenClaw向けのAI設定テンプレを販売する「Claw Mart」がかなり参考になる。\n\n売っているのは作業代行ではなく、\n\n・AIの振る舞いを決める設定ファイル\n・特定業務を実行するSkill\n・ツールやMCPの接続設定\n・仕事の進め方をまとめた手順書\n\nなど、AIエージェントが実務をこなすための設定一式。\n\n受託で毎回ゼロから構築すると工数が重いが、一度作った設定やノウハウをテンプレート化すれば、デジタル商品として何度も販売できる\n\nこの考え方はOpenClawに限らず、CodexやClaude Code",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2078079392224628882",
+      "is_kol": false,
+      "score": 202.0
+    }
+  ]
+}

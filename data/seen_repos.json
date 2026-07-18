@@ -5062,5 +5062,29 @@
   "usestrix/strix": {
     "first_seen": "2026-07-17",
     "tier": 3
+  },
+  "zeropointrepo/awesome-hermes-skills": {
+    "first_seen": "2026-07-18",
+    "tier": 3
+  },
+  "ogulcancelik/agent-skills": {
+    "first_seen": "2026-07-18",
+    "tier": 3
+  },
+  "egoist/gpt-image": {
+    "first_seen": "2026-07-18",
+    "tier": 3
+  },
+  "inklate/social-skills": {
+    "first_seen": "2026-07-18",
+    "tier": 3
+  },
+  "tomimalamud/github-review-heartbeat": {
+    "first_seen": "2026-07-18",
+    "tier": 3
+  },
+  "chrislaupama/threejs-game-studio": {
+    "first_seen": "2026-07-18",
+    "tier": 3
   }
 }
