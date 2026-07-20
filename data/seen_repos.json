@@ -5142,5 +5142,49 @@
   "varaddurge/argus": {
     "first_seen": "2026-07-19",
     "tier": 3
+  },
+  "pashov/skills": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "oblien/openship": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "huangchihhungleo/claude-real-video": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "opencut-app/opencut": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "yulonghe97/wireframe-skill": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "rmonier/agent-smith": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "hugohe3/ppt-master": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "monswag/nodecue-blender-node-skills": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "pathwaycom/pathway": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "jasoncolapietro/suede-creator-skills": {
+    "first_seen": "2026-07-20",
+    "tier": 3
+  },
+  "dunctk/video-agent-skills": {
+    "first_seen": "2026-07-20",
+    "tier": 3
   }
 }

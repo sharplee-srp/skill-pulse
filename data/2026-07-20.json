@@ -1,0 +1,629 @@
+{
+  "date": "2026-07-20",
+  "stats": {
+    "total_fetched": 354,
+    "unique_tweets": 165,
+    "tweets_with_repos": 21,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "pashov/skills",
+      "github_url": "https://github.com/pashov/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 456.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 97,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x3b33",
+        "text": "The best AI audit tools I've used 🧵\n\n> All free \n> All on GitHub\nAll built by actual auditors \n(4 of them Bulgarian, we are so back)\n\nSave this one 👇\n\n1⃣ Pashov skills by @pashovkrum\n\nFast, cheap and efficient. 2 skills:\n\n📌solidity-auditor - security feedback on your changes in u",
+        "likes": 97,
+        "url": "https://x.com/i/status/2079081043760488721"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079081043760488721"
+      ]
+    },
+    {
+      "repo": "oblien/openship",
+      "github_url": "https://github.com/oblien/openship",
+      "tier": 3,
+      "is_new": true,
+      "score": 437.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 94,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vikingmute",
+        "text": "最近最火的开源项目莫非这个 OpenShip 所属了：https://t.co/uFv2jmWjAW\n看起来和 Coolify 和 Dokploy 很像，但是创新的地方仿佛是内置完整的 Mail Server，自托管的邮件基础设施  加一个 Web 客户端。还有就是提供了MCP 支持，可以通过 AI 直接控制整个程序\n\n同时还有提供了一个原生应用，比只用 Web 用起来丝滑一点。感兴趣的朋友可以关注下，没多久就 3.2K 个 stars，现在 star 和不要钱一样。",
+        "likes": 94,
+        "url": "https://x.com/i/status/2079022945582895338"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079022945582895338"
+      ]
+    },
+    {
+      "repo": "huangchihhungleo/claude-real-video",
+      "github_url": "https://github.com/huangchihhungleo/claude-real-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_sakata",
+        "text": "you can make Claude (or any LLM) actually WATCH a video with zero cloud upload 🤯\n\nno fixed 1fps sampling. no missing fast cuts. no sending your video to someone's server.\n\nwhat it does:\n\n- extracts every scene change instead of grabbing every Nth frame\n- transcribes audio with Wh",
+        "likes": 23,
+        "url": "https://x.com/i/status/2079157984698208457"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079157984698208457"
+      ]
+    },
+    {
+      "repo": "opencut-app/opencut",
+      "github_url": "https://github.com/opencut-app/opencut",
+      "tier": 3,
+      "is_new": true,
+      "score": 156.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nykdotdev",
+        "text": "10 open-source AI repos worth checking this week:\n\nOpenCut, awesome-hermes-agent, Hallmark, Council of High Intelligence, OpenMontage, OfficeCLI, unmachined, code-review-graph, Codex, and awesome-llm-apps.\n\nSave this list:\n\n1) OpenCut - 76,130 stars\nAn open-source CapCut alternat",
+        "likes": 12,
+        "url": "https://x.com/i/status/2079141507953795380"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079141507953795380"
+      ]
+    },
+    {
+      "repo": "yulonghe97/wireframe-skill",
+      "github_url": "https://github.com/yulonghe97/wireframe-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yulong_97",
+        "text": "Build your first interactive wireframe:\n\nnpx skills add yulonghe97/wireframe-skill\nAsk: “/wireframe a customer feedback app”\n\nOpen wireframe.html, every click works, notes toggle on, mobile in one tap.\n\nFree &amp; open source: https://t.co/l2PYWdRteN",
+        "likes": 2,
+        "url": "https://x.com/i/status/2079145640383402187"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079145640383402187"
+      ]
+    },
+    {
+      "repo": "rmonier/agent-smith",
+      "github_url": "https://github.com/rmonier/agent-smith",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rm0nier",
+        "text": "npx skills add rmonier/agent-smith --all",
+        "likes": 1,
+        "url": "https://x.com/i/status/2078925605261742132"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078925605261742132"
+      ]
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "github_url": "https://github.com/hugohe3/ppt-master",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Web3rika",
+        "text": "以前做一份客户汇报 PPT，改结构、调字号、找素材，半天就过去了。  \n\n现在我把需求和素材交给 Codex，再用 PPT Skill 完成结构、设计和调整。\n\n视频里是我的完整工作流👇\n🔗 https://t.co/FokNiqyguE https://t.co/C5LguosZeI",
+        "likes": 1,
+        "url": "https://x.com/i/status/2079165997420798370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079165997420798370"
+      ]
+    },
+    {
+      "repo": "monswag/nodecue-blender-node-skills",
+      "github_url": "https://github.com/monswag/nodecue-blender-node-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jiangshunqi",
+        "text": "支持 Blender 5.2 官方 MCP，也支持社区的 blender-mcp。\n\n安装：\nnpx skills add monswag/nodecue-blender-node-skills\n\nGitHub：\nhttps://t.co/nSqsHJa2gH",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079131649657483365"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079131649657483365"
+      ]
+    },
+    {
+      "repo": "pathwaycom/pathway",
+      "github_url": "https://github.com/pathwaycom/pathway",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Pathway\n\nPython ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.\n\n62.9K GitHub stars - data-analysis\nInstall: npx skills add pathwaycom/pathway\n\nhttps://t.co/mkYmNHcilj\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079083907786457246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079083907786457246"
+      ]
+    },
+    {
+      "repo": "jasoncolapietro/suede-creator-skills",
+      "github_url": "https://github.com/jasoncolapietro/suede-creator-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SuedeAgent",
+        "text": "Using Cursor, Copilot, or Windsurf instead of Claude Code or Codex? npx skills add JasonColapietro/suede-creator-skills installs the pack into 25+ agents.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2078940949929926683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078940949929926683"
+      ]
+    },
+    {
+      "repo": "dunctk/video-agent-skills",
+      "github_url": "https://github.com/dunctk/video-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "innermaps",
+        "text": "With these it's helpful for your agent to be able to do a self feedback loop.\n\nCodex and Claude Code can't do that natively (they can't 'see' the video, only still frames so can't diagnose motion issues). So I made a Skill that uses Gemini to actually watch the video and provide ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079165070659964992"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079165070659964992"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 2,
+      "is_new": false,
+      "score": 535.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 105,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zhuanfgghjnb",
+        "text": "币安出了一个 Agentic Wallet，能让你用 AI 直接交易美股代币化证券，BSC 链上，自托管。刚完整跑通，教程放这了\n\n1. 装 CLI 和 Skills\n\n代码：npm install -g @binance/agentic-wallet\n\nnpx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet --yes\n\nnpx skills add binance/binance-skills-hub/skills/binance-web",
+        "likes": 73,
+        "url": "https://x.com/i/status/2079036456539242633"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079072288650232074",
+        "https://x.com/i/status/2079036456539242633"
+      ]
+    },
+    {
+      "repo": "hkuds/openspace",
+      "github_url": "https://github.com/hkuds/openspace",
+      "tier": 3,
+      "is_new": false,
+      "score": 384.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huang_chao4969",
+        "text": "OpenSpace v2 is now released 🚀\n\nThe Quality-First Skill Hub for AI Agents.\n\nToday’s agents can run tasks, call tools, and write code. But they still lack one critical layer: knowing which skills actually work in the real world.\n\nOpenSpace v2 turns agent skills from “files in a fo",
+        "likes": 78,
+        "url": "https://x.com/i/status/2078879870428586490"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078879870428586490"
+      ]
+    },
+    {
+      "repo": "inklate/social-skills",
+      "github_url": "https://github.com/inklate/social-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamya6av",
+        "text": "Social media skills that let any AI agent write like you\n\n→ npx skills add inklate/social-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079067481256468873"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079067481256468873",
+        "https://x.com/i/status/2079061083097342220"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xmomonifty",
+        "text": "在使用 AI 写前端的时候有个很烦的点，写出来的界面永远长一个样，特别是 Codex 那个理工男味道的页面真的是一言难尽\n\n最近我在使用 Nutlope/hallmark 这个 Skill 来增强我的 Codex 前端能力\n\n怎么使用 -> 在你的 Agent 中告诉他\n\n'npx skills add nutlope/hallmark'\n\n他主要做了什么\n\nhallmark 给 Claude/Cursor/Codex 加了四个动作：\n\n➤build（默认）：选一套结构框架，套一个主题，运行 57 道\"AI 味检测门禁\"，发出去之前自己 critique",
+        "likes": 7,
+        "url": "https://x.com/i/status/2079127909915357203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079127909915357203"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "jerlinn/jerlin-weread",
+      "github_url": "https://github.com/jerlinn/jerlin-weread",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Huahuazo",
+        "text": "有没有想过，微信读书里的那些笔记和划线，现在居然能被AI助手直接调用了？\n\n微信读书官方推出了一款Skill，能让Codex、Claude Code这类AI工具直接读取你的个人读书数据——不是那种简单的网页套壳，而是真正打通了你的笔记库。\n\n官方渠道：把下面这行指令扔给AI，它就会自动帮你搞定下载安装——\nnpx skills add Tencent/WeChatReading -g\n社区优化版：X上的用户 eviljer 搞了个体验更丝滑的版本，一行命令直接跑：\nnpx skills add jerlinn/jerlin-weread\n这个版本在交互细",
+        "likes": 1,
+        "url": "https://x.com/i/status/2079129939270398089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079129939270398089"
+      ]
+    },
+    {
+      "repo": "tencent/wechatreading",
+      "github_url": "https://github.com/tencent/wechatreading",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Huahuazo",
+        "text": "有没有想过，微信读书里的那些笔记和划线，现在居然能被AI助手直接调用了？\n\n微信读书官方推出了一款Skill，能让Codex、Claude Code这类AI工具直接读取你的个人读书数据——不是那种简单的网页套壳，而是真正打通了你的笔记库。\n\n官方渠道：把下面这行指令扔给AI，它就会自动帮你搞定下载安装——\nnpx skills add Tencent/WeChatReading -g\n社区优化版：X上的用户 eviljer 搞了个体验更丝滑的版本，一行命令直接跑：\nnpx skills add jerlinn/jerlin-weread\n这个版本在交互细",
+        "likes": 1,
+        "url": "https://x.com/i/status/2079129939270398089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079129939270398089"
+      ]
+    },
+    {
+      "repo": "riponcm/projectmem",
+      "github_url": "https://github.com/riponcm/projectmem",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "superdoccimo",
+        "text": "スキル登録例プロンプト\nこのスキル配布PCの canonical Skill Registry\n/home/mamu/agent-skill-registry\nへ、projectmemを新しい導入候補として登録してください。\n\n対象：\nhttps://t.co/DQrjSpZQ38\n\nprojectmemは、AIエージェントの作業履歴、失敗、判断、訂正、未解決事項を記録し、\n次回の作業前に過去の失敗や注意点を提示するためのOSSです。\n\n今回は本番環境への導入ではなく、候補登録と調査まで進めてください。\n\nお願いしたいこと：\n\n・リポジトリ、README",
+        "likes": 1,
+        "url": "https://x.com/i/status/2078757605712048493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2078757605712048493"
+      ]
+    },
+    {
+      "repo": "superdesigndev/superdesign-skill",
+      "github_url": "https://github.com/superdesigndev/superdesign-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SuperDesignDev",
+        "text": "yeah, \"average in, average out\" nails it. the thing most design skills still miss: they raise the floor by telling the model what to avoid (no purple, no giant radius), but it still can't see what it's choosing between, so taste stays a guess. what moved it for us was giving it s",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079051951803867590"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079051951803867590"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2078961574589718702",
+      "author": "VaibhavSisinty",
+      "text": "This is wild. Someone just open-sourced an entire platform that replaces Vercel, Heroku, Supabase, SendGrid, and half a dozen other paid services. In one self-hosted tool.\n\nIt's called OpenShip. Deploy anything. Own everything. Run it on your own server.\n\n→ Git push to deploy. Au",
+      "likes": 378,
+      "views": 0,
+      "url": "https://x.com/i/status/2078961574589718702",
+      "is_kol": false,
+      "score": 1289.0
+    },
+    {
+      "id": "2078861703006335364",
+      "author": "shivam74689",
+      "text": "Day 53 — Becoming AI Engineer\n\nToday I built my first CI/CD pipeline for an AI system and learned how production AI applications are not just built — they are continuously tested, deployed, monitored, and improved.\n\nBefore learning CI/CD, my understanding was simple:\n\nCode → Test",
+      "likes": 335,
+      "views": 0,
+      "url": "https://x.com/i/status/2078861703006335364",
+      "is_kol": false,
+      "score": 1250.0
+    },
+    {
+      "id": "2079048442073280524",
+      "author": "Saboo_Shubham_",
+      "text": "Someone just created an ADHD agent skill for Claude Code. 100% Opensource. https://t.co/YEiHT3cyxL",
+      "likes": 329,
+      "views": 0,
+      "url": "https://x.com/i/status/2079048442073280524",
+      "is_kol": false,
+      "score": 1117.0
+    },
+    {
+      "id": "2078862591888372024",
+      "author": "Suryanshti777",
+      "text": "The biggest AI opportunity in 2026 isn't building another chatbot.\n\nIt's becoming the engineer who builds the systems behind them.\n\nMost people are still learning prompts.\n\nThe top 1% are learning: • LLMs • RAG • Agents • MCP • Memory • Tool calling • AI workflows • Production AI",
+      "likes": 201,
+      "views": 0,
+      "url": "https://x.com/i/status/2078862591888372024",
+      "is_kol": false,
+      "score": 818.0
+    },
+    {
+      "id": "2078906171616878881",
+      "author": "AdelDeveloperX",
+      "text": "🚨أنت متخيل حجم اللي وصلنا له بسبب الذكاء الاصطناعي؟ \n\nحقيقي أنا مصدوم من السرعة الرهيبة اللي بنتحرك بيها ومستحيل أستوعب إن كل ده بيحصل! \n\nتخيل إنك بمجرد أمر برمجى بسيط تقدر تخلي Claude يتكلم بنبرة صوتك أنت بالملي، ويترجم كلامك لـ 23 لغة مختلفة، والجميل في الموضوع إن كل ده بيحصل ع",
+      "likes": 169,
+      "views": 0,
+      "url": "https://x.com/i/status/2078906171616878881",
+      "is_kol": false,
+      "score": 667.0
+    },
+    {
+      "id": "2079086652925075849",
+      "author": "leploutos",
+      "text": "Il y a deux jours, je vous demandais si je devais quitter Notion pour Obsidian.\n\nVous avez mis une énorme pièce dans la machine. J'ai donc monté une première version complète de mon second cerveau.\n\nLe setup :\n\n- Un vault Obsidian sur mon Mac\n- Un repository GitHub privé\n- Une co",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2079086652925075849",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2078859081947726251",
+      "author": "RobinWifHat",
+      "text": "✨ What Your WIF ERC-8004 Agent Will Do on Robinhood Chain:\n\nOwn a Verifiable On-Chain Identity — Each agent is a unique ERC-721 NFT with a permanent Agent ID, rich metadata (name, description, image, and capabilities), and full ownership portability. Transfer it, sell it, or hand",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2078859081947726251",
+      "is_kol": false,
+      "score": 484.0
+    },
+    {
+      "id": "2078945939474313685",
+      "author": "zerqfer",
+      "text": "A 21 YEAR OLD JUST REVEALED HER EMERGENCY SURVIVAL PLAN. IF SHE WENT BROKE TODAY, SHE WOULD LET CHATGPT RUN A FULLY AUTOMATED YOUTUBE CHANNEL.\n\nShe posts a video breaking down her exact workflow. She says it is the easiest $690 she has ever made in a single week.\n\nShe opens ChatG",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2078945939474313685",
+      "is_kol": false,
+      "score": 394.0
+    },
+    {
+      "id": "2078921133475402230",
+      "author": "Atenov_D",
+      "text": "FREE $70 in credits for Opus 4.8, GPT-5.5, GLM 5.2, and Kimi K2.7 Code. And you can stack more just by clicking around the interface.\n\nIt's called PromptQL. Web workspace, upload your entire project archive and let the model read the whole codebase at once.\n\nInside:\n\n→ Opus 4.8, ",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2078921133475402230",
+      "is_kol": false,
+      "score": 357.0
+    },
+    {
+      "id": "2078920067723751686",
+      "author": "OffChainSol",
+      "text": "OffChain MCP is now live.\n\nSpend your crypto on real-world things right inside Claude (or any MCP client). No app switching, no browser.\n\nWhat it is:\nAn MCP server that plugs your OffChain wallet into any AI assistant like @claudeai or @ChatGPTapp . Just ask in plain English and ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2078920067723751686",
+      "is_kol": false,
+      "score": 357.0
+    },
+    {
+      "id": "2079115708387250246",
+      "author": "socialwithaayan",
+      "text": "🚨 OpenClaw and Hermes showed what an operator agent should look like. Someone just built the version that runs 100% on your machine 🤯\n\nIt's called Atomic Agent.\n\nBrowser control. File management. Shell commands. Document parsing. Scheduled tasks. Persistent memory. All through ll",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2079115708387250246",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2079105478383280545",
+      "author": "aaliya_va",
+      "text": "You can now turn internet tutorials into agent skills.\nMicrosoft released Resource2Skill as an open paper and code drop.\n\nIt distills videos, repos, articles, and reference files into a Skill Wiki.\n\nAgents browse those entries, then run them through real software tools.\n\nThe same",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2079105478383280545",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2079098743379694005",
+      "author": "RobinDexRH",
+      "text": "Gm Robindex community. Day 6 of building $RDEX.\n\nYesterday we released our MCP server, which lets AI agents browse, view, buy, and list tokens directly on Robindex.\n\nToday we're adding Robindex Offer. Instead of depositing the token as collateral, a user can open a P2P order back",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2079098743379694005",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2078855257686196399",
+      "author": "MAXdeg0",
+      "text": "Someone put Kimi K3 through 5 real UI/UX and logo design tests using Claude Code + the Figma MCP server  \n\nhere's how it held up.\n\n-> Landing page rebuild: took 39 min, decent layout, some repetitive parts. Cost $4.20/prompt.\n\n-> Hero section redesign: leaned dark mode again, but",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2078855257686196399",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2079093612910919881",
+      "author": "horkays",
+      "text": "it’s a new week, new grind, new targets \n\nback to base, World Cup shenanigans are done time to continue building \n\n-livestream w/beautiful creator this Friday \n-participating in bounties \n-bullposting solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump to 1B\n-editing ugc content ",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2079093612910919881",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2078864306901553636",
+      "author": "TechTerminalx",
+      "text": "Latest News - $OOBE\n\n@OOBEonSol has rapidly advanced its SAP MCP tool from version 0.1.0 to 0.9.10 in under three weeks, significantly enhancing its capabilities as full-stack infrastructure for on-chain agents on Solana. \n\nThe update delivers easier installation through a deskto",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2078864306901553636",
+      "is_kol": false,
+      "score": 191.0
+    },
+    {
+      "id": "2079132513398587508",
+      "author": "bahr4m",
+      "text": "🎨 اگر از AI توقع «طراحی در سطح اپل» دارید، فقط پرامپت بهتر کافی نیست؛ باید اصولی را بشناسید که پشت تصمیم‌های طراحی‌اند.\nیک skill متن‌باز به نام apple-design منتشر شده که ۱۷ اصل را از WWDC جمع‌آوری کرده: از پاسخ‌گویی و حرکت طبیعی تا تایپوگرافی، متریال، سادگی و دسترس‌پذیری.\nنکتهٔ م",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2079132513398587508",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2078895482894700722",
+      "author": "h100envy",
+      "text": "Anthropic engineer who co-created MCP explained where agents are going in 2026 in 19 minutes - better than any $500 protocol course.\n\nmodel connects to any tool via MCP -> server exposes resources -> prompts and sampling flow through one protocol -> Claude, GPT-5, Gemini, Cursor ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2078895482894700722",
+      "is_kol": false,
+      "score": 165.0
+    },
+    {
+      "id": "2079132825044095414",
+      "author": "PiyushhVish",
+      "text": "AGENTIC AI\n├── 01. AI Foundations\n├── 02. RAG Systems\n├── 03. Agent Fundamentals\n├── 04. MCP\n├── 05. AI Memory\n├── 06. Agent Frameworks\n├── 07. Tool Integration\n├── 08. Multi-Agent Systems\n├── 09. Deployment\n├── 10. Production AI https://t.co/RPQKr0GE7C",
+      "likes": 26,
+      "views": 0,
+      "url": "https://x.com/i/status/2079132825044095414",
+      "is_kol": false,
+      "score": 148.0
+    }
+  ]
+}
