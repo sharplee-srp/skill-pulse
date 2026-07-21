@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-21",
+  "stats": {
+    "total_fetched": 355,
+    "unique_tweets": 174,
+    "tweets_with_repos": 20,
+    "unique_repos": 20,
+    "new_repos": 9,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "maillab/cloud-mail",
+      "github_url": "https://github.com/maillab/cloud-mail",
+      "tier": 2,
+      "is_new": true,
+      "score": 475.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 100,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OxbfnoHome",
+        "text": "postingan ini pasti di benci oleh seller apikey\n\nkemarin udah gw jelasin gimana caranya untuk membuat domain dan mendaftarkannya ke claudflare, kalian bisa check postingan gw di bawah ini 👇\nhttps://t.co/DPVxZwvRNu\n\njika sudah lu lakuin sesuai di vidio yang gw share, lu bisa masuk",
+        "likes": 100,
+        "url": "https://x.com/i/status/2079448064172126686"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079448064172126686"
+      ]
+    },
+    {
+      "repo": "jangviktor-web/nihaixia",
+      "github_url": "https://github.com/jangviktor-web/nihaixia",
+      "tier": 3,
+      "is_new": true,
+      "score": 273.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "近2500页讲义、3.5M字精萃、850个临床医案、129条伤寒论条文、345味本草、71篇黄帝内经、23篇金匮要略——这些东西被压缩进一个Agent Skill里，说一句\"倪海厦\"就能激活。\n\n不是简单地把古籍电子化，而是把倪师的六经辨证、经方选药、脉舌诊法、七步走思维模式做了结构化蒸馏。\n8个诊断公式，从太阳到厥阴，每经都有IF-THEN式的辨证规则，合病并病怎么处理、真寒假热怎么鉴别，都切成了可查询的模块。\n\n调用方式很简单。ClawHub或SkillHub一键安装，安卓端有离线IMA App扫知识码直接用。手动安装也就一行clone的事，把ski",
+        "likes": 36,
+        "url": "https://x.com/i/status/2079358191973122221"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079358191973122221"
+      ]
+    },
+    {
+      "repo": "dannyjpwilliams/code-crit",
+      "github_url": "https://github.com/dannyjpwilliams/code-crit",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dannyjpwilliams",
+        "text": "Skill 2: /code-crit\n\nafter getting a plan dialed-in i'll spin up a new coding agent to implement the plan \n\nonce code is written and there’s a PR open, i run /code-crit\n\nthis spins up another panel of agents to review the code across things like correctness, maintainability, secu",
+        "likes": 5,
+        "url": "https://x.com/i/status/2079247472506110311"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079247472506110311"
+      ]
+    },
+    {
+      "repo": "ariana979/sharky-online-skill",
+      "github_url": "https://github.com/ariana979/sharky-online-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharkydev001",
+        "text": "share a little experiment these past two days: gave Codex (GPT-5.6 Sol) and Kimi K3 (@Kimi_Moonshot) the same game design doc, the same prompt, and the same two agent skills — and had each build a multiplayer 3D web game.\n\nVerdict first: Codex trusts the spec. Kimi trusts its own",
+        "likes": 3,
+        "url": "https://x.com/i/status/2079505513239474177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079505513239474177"
+      ]
+    },
+    {
+      "repo": "scrapy/scrapy",
+      "github_url": "https://github.com/scrapy/scrapy",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Scrapy\n\nScrapy, a fast high-level web crawling &amp; scraping framework for Python.\n\n62.2K GitHub stars - web-automation\nInstall: npx skills add scrapy/scrapy\n\nhttps://t.co/pZJTmkvJPu\n\n#AIAgents #AgentSkills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2079355698811469858"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079355698811469858"
+      ]
+    },
+    {
+      "repo": "hcjmartin/skill-set",
+      "github_url": "https://github.com/hcjmartin/skill-set",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HCJMartin",
+        "text": "skill-set is the new agent skills format we've all been waiting for\n\nShare collections of complementary agent skills &amp; install them together https://t.co/hhqIfsfw1S\n\nOpen source, verifiable sets anyone can host. Add the skill to build yours: npx skills add hcjmartin/skill-set",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079521831585784044"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079521831585784044"
+      ]
+    },
+    {
+      "repo": "brickhu/markai",
+      "github_url": "https://github.com/brickhu/markai",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fei1919",
+        "text": "npx skills add brickhu/markai\n\n🤖 ChatGPT remembers, Claude doesn't. 🧩 Drop fragments into MarkAI → shared memory across every agent.\n\n🔒 Local \n💸 Free \n🧱 Zero deps\n\n 🔗 https://t.co/0wuQwd2EZA\n\n #LocalFirst #MemoryLayer #agents",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079517121521053698"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079517121521053698"
+      ]
+    },
+    {
+      "repo": "oekazuma/svelte-meta-tags",
+      "github_url": "https://github.com/oekazuma/svelte-meta-tags",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oekazuma",
+        "text": "svelte-meta-tags now ships Agent Skills 🤖\n\n🛠️ svelte-meta-tags-setup — scaffolds the right SvelteKit pattern\n✅ svelte-meta-tags-companion — catches common mistakes as you code\n\nnpx skills add oekazuma/svelte-meta-tags\n\nhttps://t.co/mSJe7274uM https://t.co/rBcvA6TEvi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079428073221693866"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079428073221693866"
+      ]
+    },
+    {
+      "repo": "stealth-engine/skills",
+      "github_url": "https://github.com/stealth-engine/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wiiiimm",
+        "text": "Here is my new agent skill: a free DIY reimplementation of @Vercel's $150/mo Advanced Deployment Protection  that also adds fully custom branding to the unlock page.\n\nhttps://t.co/vnV7cg1kfJ\n\nAny framework, previews or prod, zero prod cost. Your AI agent wires it in:\nnpx skills a",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079272575843398021"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079272575843398021"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "github_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 543.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 121,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "梁鸽的deepseek v4 系列真的好用，便宜量大管饱的flash 就能把ts 写的agent 还原到源码级别。\n\n用了推友这个skill，我没有使用其他技巧。\n\nhttps://t.co/j1YxBgMtfk",
+        "likes": 121,
+        "url": "https://x.com/i/status/2079382927830651286"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079382927830651286"
+      ]
+    },
+    {
+      "repo": "google/agents-cli",
+      "github_url": "https://github.com/google/agents-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 337.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akshay_pachaar",
+        "text": "Karpathy said something you'll regret ignoring:\n\n\"You are still responsible for your software, just as before. You are not allowed to introduce vulnerabilities because of vibe coding. \"\n\nHe said it while drawing the line between vibe coding and agentic engineering. Agents write m",
+        "likes": 74,
+        "url": "https://x.com/i/status/2079484561139057150"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079484561139057150"
+      ]
+    },
+    {
+      "repo": "danny-avila/librechat",
+      "github_url": "https://github.com/danny-avila/librechat",
+      "tier": 3,
+      "is_new": false,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CDGalpha",
+        "text": "these three free github repos can help you save $100/month!\n\nall three are free to run. what you pay for is compute and api keys, not the software.\n\n1. librechat (41k stars, MIT)\none interface for gpt, claude, gemini, deepseek, groq, and more. self-hosted, multi-user, with agents",
+        "likes": 34,
+        "url": "https://x.com/i/status/2079451890312790404"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079451890312790404"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ricouii",
+        "text": "这个交互 SKILL（ https://t.co/vvcbqc3Lbj） 暂时作为我主要使用的动效技能库，足够基础，所以基本所有项目都可以先引入。\n\n开源 2.2K star，设计了 27 个常用的交互动效，设计规范统一，整体更加克制和简约，官网提供了动效预览，以及 css/react 代码，推荐使用。\n\n一键安装：npx skills add Jakubantalik/transitions.dev",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079415411741970676"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079415411741970676"
+      ]
+    },
+    {
+      "repo": "googleworkspace/cli",
+      "github_url": "https://github.com/googleworkspace/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotetsu_0321",
+        "text": "▼おまけ：爆伸び中のGoogle Workspace公式スキル\nGmailやカレンダーをClaude Codeから直接操作できるようになります。\n\n詳細 → https://t.co/YQiw82OaT0\n導入 → npx skills add googleworkspace/cli",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079400175425163651"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079400175425163651"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotetsu_0321",
+        "text": "▼5位 agent-browser（Vercel公式）\nAIが自分でブラウザを操作。フォーム入力・スクショ・動作確認まで任せられます。\n\n詳細 → https://t.co/o5Ml2EG4Ix\n導入 → npx skills add vercel-labs/agent-browser",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079400133368918036"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079400133368918036"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotetsu_0321",
+        "text": "▼4位 react-best-practices（Vercel公式）\nReact/Next.jsの性能最適化ルール70個をAIに叩き込むスキル。\n\n詳細 → https://t.co/ulXdiRf1sA\n導入 → npx skills add vercel-labs/agent-skills@react-best-practices",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079400090180231653"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079400090180231653"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotetsu_0321",
+        "text": "▼3位 grill-me（Matt Pocock氏）\n実装前にAIが質問攻めしてくるスキル。相棒の grilling とセットで動きます。\n\n詳細 → https://t.co/mNc5ljkmxR\n導入 → npx skills add mattpocock/skills --skill grill-me --skill grilling",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079400035595473304"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079400035595473304"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kotetsu_0321",
+        "text": "▼2位 frontend-design（Anthropic公式）\nAIが作るUIの「テンプレ感」を消して、意図のあるデザインに寄せるスキル。\n\n詳細 → https://t.co/LFOi851AMp\n導入 → npx skills add anthropics/skills@frontend-design",
+        "likes": 0,
+        "url": "https://x.com/i/status/2079399896940171301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079399896940171301"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2079389530260414898",
+      "author": "unity",
+      "text": "We’re excited to introduce the Unity CLI, our new terminal-native path for connecting coding agents, CI pipelines, and custom tooling to Unity.\n\nUnity MCP remains fully supported for your existing setups but to help with the transition, the CLI includes an \"MCP Mode,\" allowing yo",
+      "likes": 2148,
+      "views": 0,
+      "url": "https://x.com/i/status/2079389530260414898",
+      "is_kol": false,
+      "score": 7624.0
+    },
+    {
+      "id": "2079215128621338703",
+      "author": "0xJokker",
+      "text": "CREARON UN CAPCUT GRATIS Y SIN MARCAS DE AGUA, Y YA TIENE 76K STARS EN GITHUB\n\nCapCut te mete marca de agua, te bloquea funciones y encima te cobra suscripcion\n\nUn grupo de devs se canso y construyo la alternativa open source y gratuita\n\nSe llama OpenCut\n\nY es un editor de video ",
+      "likes": 1398,
+      "views": 0,
+      "url": "https://x.com/i/status/2079215128621338703",
+      "is_kol": false,
+      "score": 5309.0
+    },
+    {
+      "id": "2079297663066099943",
+      "author": "Nozelcode",
+      "text": "Un desarrollador japonés encontró el truco definitivo de Claude Code antes que nadie\n\nInstala la skill ‘Find Skills’ y pregunta:\n\n«¿Hay alguna skill buena para [TU OBJETIVO]?»\n\nClaude enseguida aplica las skills perfectas para el proyecto.\n\nGracias a eso, su sistema automatizado ",
+      "likes": 776,
+      "views": 0,
+      "url": "https://x.com/i/status/2079297663066099943",
+      "is_kol": false,
+      "score": 2828.0
+    },
+    {
+      "id": "2079195919904383321",
+      "author": "RobinhoodApp",
+      "text": "Add the Robinhood MCP server to your agentic platform. Instructions vary by platform. Find yours here:  https://t.co/7mCYxOSuOl\n\nThe whole setup takes under a minute. https://t.co/tR6oIlrnEn",
+      "likes": 341,
+      "views": 0,
+      "url": "https://x.com/i/status/2079195919904383321",
+      "is_kol": false,
+      "score": 1093.0
+    },
+    {
+      "id": "2079278061585907968",
+      "author": "contraben",
+      "text": "What is the best video editing agent for short form social? Does it actually work?\n\nWe watched professional video editors, step by step, as they built short-form social reels in Adobe Premiere Pro.\n\nToday we're open-sourcing this preview dataset on @huggingface, to make AI agents",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2079278061585907968",
+      "is_kol": false,
+      "score": 620.0
+    },
+    {
+      "id": "2079351037966815593",
+      "author": "pvergadia",
+      "text": "Forward Deployed Engineer (FDE): Skills and Complete 90 Day Roadmap",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2079351037966815593",
+      "is_kol": false,
+      "score": 487.0
+    },
+    {
+      "id": "2079486844257833203",
+      "author": "ChemistDeFi",
+      "text": "AI agents got wallets before they got brakes.\n\n2026 is the year crypto is trying to fix that in real time \n\n1 - The setup\n\nAgentic wallets went from concept to product category in a matter of months:\n\n→ @coinbase  | Agentic Wallets, Feb. 11\nAutonomous spending, earning and tradin",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2079486844257833203",
+      "is_kol": false,
+      "score": 414.0
+    },
+    {
+      "id": "2079385875838877977",
+      "author": "akhilesh9235",
+      "text": "Most people think RAG, MCP, and AI Agents are competing technologies.\n\nThey're not.\n\nThey solve 3 completely different problems in an AI system:\n\n🧠 RAG → Gives AI the right knowledge\n🔌 MCP → Connects AI to tools & data\n🤖 AI Agents → Plan, decide, and execute tasks\n\nThink of it li",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2079385875838877977",
+      "is_kol": false,
+      "score": 329.0
+    },
+    {
+      "id": "2079227091380539873",
+      "author": "shivam74689",
+      "text": "Day 54 — Becoming AI Engineer\n\nToday I built my first MCP-based service by converting my existing SQL Agent into a reusable MCP Database Server and learned how production AI systems separate intelligence from capabilities.\n\nBefore learning MCP, my understanding was simple:\n\nAgent",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2079227091380539873",
+      "is_kol": false,
+      "score": 320.0
+    },
+    {
+      "id": "2079271234517479796",
+      "author": "TheHackersNews",
+      "text": "7,600 malicious GitHub repositories are spreading SmartLoader malware.\n\nResearchers found 800+ fake AI Skills and MCP server repos using copied projects, fake profiles, and READMEs to deliver malware.\n\nRead the full analysis: https://t.co/3xuNd2X8Br https://t.co/keGm8zWenQ",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2079271234517479796",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2079205873617183099",
+      "author": "RobinHub_xyz",
+      "text": "BREAKING: Robinhood launched Agentic Trading\n\nIt is now allowing users to create dedicated accounts and connect third-party AI agents via the Model Context Protocol (MCP) server for autonomous market research, portfolio building, and executing trades in equities and options.\n\nSet",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2079205873617183099",
+      "is_kol": false,
+      "score": 284.0
+    },
+    {
+      "id": "2079211070217220189",
+      "author": "CMC_Intern",
+      "text": "🏆 ANNOUNCEMENT: The CMC Agent Hub Creator Competition winners are official.\n\nWhen we launched this, we asked one thing, take an Agent Hub Skill and make something that's yours. What came back was better than we hoped. After scoring all finalists, here are your winners, and trust ",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2079211070217220189",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2079209357586366660",
+      "author": "DOLAK1NG",
+      "text": "Robinhood just handed the keys to AI agents.\n\nConnect Claude, ChatGPT, or Grok and let it trade your money for you.\n\n→ 7 platforms live at launch\n→ agent reads every account, position, and order you have\n→ it can place trades without asking you first\n→ one MCP link and you're in\n",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2079209357586366660",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2079198788040753272",
+      "author": "OOBEonSol",
+      "text": "Meet Solking, a new spot-trading agent built by our team member @Solkingchad, now live on Synapse Agent Protocol.\n\nWith SAP MCP, anyone can launch an agent without writing code and equip it with dedicated capabilities from across the OOBE stack.\n\nDownload the wizard, connect it t",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2079198788040753272",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2079363507674566971",
+      "author": "GoSailGlobal",
+      "text": "微软刚开源了一个项目，叫 Resource2Skill，还配了篇 arXiv 论文\n名字就是它干的事：Resource → Skill\n\n它回答的，是 skill 这件事一直没人正面碰的问题：skill 到底从哪来\n以前靠人一个个手写\n它把人类已经做好的东西，教程视频、文章、代码、参考资料\n自动蒸馏成 agent 能直接跑的可执行 skill\n\n而且不是纸上谈兵：agent 能浏览、组合、运行这些 skill\n真做出网页、PPT、Excel、Blender 场景、甚至编曲音频\n\n· skill 正在从「人手写」，进入「从人类资源里自动提炼」的阶段\n· 这",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2079363507674566971",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2079233857581199551",
+      "author": "dbabbs",
+      "text": "Profound is now an official @AnthropicAI connector, and with today's announcement we're unveiling all new capabilities.\n\nYou could already surface the analytics you get in @tryprofound via the MCP, so you can run analysis without leaving your conversation with @ClaudeAI. \n\nNow yo",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2079233857581199551",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2079362629806838008",
+      "author": "aigclink",
+      "text": "Open-seo： 传统seo工具Semrush/Ahrefs 的开源替代、按量付费、无订阅的平替，还内置 MCP——你可以直接让 Claude Code 帮你查关键词、盯排名、做站点审计，也可 fork 一份 vibe code 出自己的 SEO 工具、还支持GEO。\n\n它想解决的通电是 SEO 工具两个老毛病：贵，和臃肿：\n\n1、无订阅、按量付费：核心数据靠你自带 DataForSEO 的 API key，用多少付多少、直接付给数据方——不用为一堆用不上的功能交年费（这是这个工具里唯一需要为数据付费的地方）；\n\n2、不做大而全的套件，只做聚焦工作流：",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2079362629806838008",
+      "is_kol": true,
+      "score": 193.0
+    },
+    {
+      "id": "2079452637431570719",
+      "author": "humzaakhalid",
+      "text": "Stop hiring employees if you have Claude\n\nYou can build a one-person company with 128 claude skills:\n\n(Bookmark this before everyone notices it)\n\nHere's every department, and exactly where to get each one:\n\n☑️ 1. Developers (6 skills)\n\nSuperpowers → https://t.co/g0ILgjUyXK\nContex",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2079452637431570719",
+      "is_kol": false,
+      "score": 186.0
+    }
+  ]
+}

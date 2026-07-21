@@ -5186,5 +5186,41 @@
   "dunctk/video-agent-skills": {
     "first_seen": "2026-07-20",
     "tier": 3
+  },
+  "maillab/cloud-mail": {
+    "first_seen": "2026-07-21",
+    "tier": 2
+  },
+  "jangviktor-web/nihaixia": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "dannyjpwilliams/code-crit": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "ariana979/sharky-online-skill": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "scrapy/scrapy": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "hcjmartin/skill-set": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "brickhu/markai": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "oekazuma/svelte-meta-tags": {
+    "first_seen": "2026-07-21",
+    "tier": 3
+  },
+  "stealth-engine/skills": {
+    "first_seen": "2026-07-21",
+    "tier": 3
   }
 }
