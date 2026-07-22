@@ -5222,5 +5222,37 @@
   "stealth-engine/skills": {
     "first_seen": "2026-07-21",
     "tier": 3
+  },
+  "pireel/pireel-agent": {
+    "first_seen": "2026-07-22",
+    "tier": 1
+  },
+  "koala73/worldmonitor": {
+    "first_seen": "2026-07-22",
+    "tier": 2
+  },
+  "aldinokemal/go-whatsapp-web-multidevice": {
+    "first_seen": "2026-07-22",
+    "tier": 2
+  },
+  "zjp1997720/zhijian-skills": {
+    "first_seen": "2026-07-22",
+    "tier": 3
+  },
+  "ted0321/kotetsu-work-ai-skills": {
+    "first_seen": "2026-07-22",
+    "tier": 3
+  },
+  "mykclawd/openclaw-smart-router": {
+    "first_seen": "2026-07-22",
+    "tier": 3
+  },
+  "camwest/skills": {
+    "first_seen": "2026-07-22",
+    "tier": 3
+  },
+  "bitfenceai/bitfence": {
+    "first_seen": "2026-07-22",
+    "tier": 3
   }
 }
