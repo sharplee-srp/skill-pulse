@@ -5254,5 +5254,37 @@
   "bitfenceai/bitfence": {
     "first_seen": "2026-07-22",
     "tier": 3
+  },
+  "joeseesun/qiaomu-wx-video": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-youtube-download": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "starslingdev/skills": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "vincentwei1021/video-shotcraft": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "svix/ai": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "bing-bryan/skills-by-bing": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "rivet-dev/skills": {
+    "first_seen": "2026-07-23",
+    "tier": 3
+  },
+  "zach-sndr/agentic-founder": {
+    "first_seen": "2026-07-23",
+    "tier": 3
   }
 }

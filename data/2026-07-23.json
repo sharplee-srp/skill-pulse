@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-23",
+  "stats": {
+    "total_fetched": 347,
+    "unique_tweets": 166,
+    "tweets_with_repos": 11,
+    "unique_repos": 11,
+    "new_repos": 8,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-wx-video",
+      "github_url": "https://github.com/joeseesun/qiaomu-wx-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 246.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "经常能发现一些优秀的视频号内容，但下载很麻烦。\n\n直到发现了一个开源库和工具\nhttps://t.co/QwvwUqBPhG\n\n顺手用这个库写了一个视频号下载Skill\n\n不需要安装任何客户端，只需要说：“帮我下载这个视频号：【URL，URL获取方法->分享->复制链接】”\n\nSkill安装地址：\nnpx skills add joeseesun/qiaomu-wx-video\n\n开源地址：\nhttps://t.co/VHMgRTA617\n\n为保证稳定性，建议大家自己也部署一套自己的程序用。",
+        "likes": 37,
+        "url": "https://x.com/i/status/2080110136635654404"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080110136635654404"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-youtube-download",
+      "github_url": "https://github.com/joeseesun/qiaomu-youtube-download",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "今天有朋友问，有没有稳定的下载Youtube视频的Skill？\n\n其实都基于yt-dlp，问题是这个库要跟 Youtube对抗，得经常更新，所以写了一个Skill解决这个问题。\n\n支持Youtube short和视频多种分辨率下载。\n\n如果想支持搜索查看频道，可申请youtube API加进去。\n\n安装指令：npx skills add joeseesun/qiaomu-youtube-download\n\n开源地址：https://t.co/nSqwbK1Fko",
+        "likes": 35,
+        "url": "https://x.com/i/status/2080150051872276990"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080150051872276990"
+      ]
+    },
+    {
+      "repo": "starslingdev/skills",
+      "github_url": "https://github.com/starslingdev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 138.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yonasbe",
+        "text": "Introducing /ci-speedup\n\nAgents write a lot of tests which slow down your GitHub Actions over time. This fixes that.\n\nWorks with any runners, uses the gh CLI and any coding agent.\n\nnpx skills add starslingdev/skills https://t.co/bqnLMn1x53",
+        "likes": 11,
+        "url": "https://x.com/i/status/2079994132576211291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2079994132576211291"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sitinme",
+        "text": "如果你在用 Claude Code 或 Codex，video-shotcraft 可以直接当成一个“产品视频 Skill”来用。\n\n安装方式很简单：\n\nnpx skills add Vincentwei1021/video-shotcraft\n\n装好后，不要让 Agent 直接开始写代码。更稳妥的方式是先让它读取 SKILL.md、模板、镜头卡和对应的 demo 源码，然后先输出：\n\n素材清单/风格方向/镜头卡选择/分镜表\n\n确认方案后，再开始写 Remotion 代码和渲染视频。\n\n如果产品是本地的 Next.js、React 或 Vue 项目，还可",
+        "likes": 1,
+        "url": "https://x.com/i/status/2080182284440027617"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080182284440027617"
+      ]
+    },
+    {
+      "repo": "svix/ai",
+      "github_url": "https://github.com/svix/ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SvixHQ",
+        "text": "lead your agents to the water with our new webhook skills, more to follow soon.\n\nnpx skills add svix/ai\n\nhttps://t.co/zAoCiU0FbB https://t.co/puPjgMDMx9",
+        "likes": 1,
+        "url": "https://x.com/i/status/2080027676027256953"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080027676027256953"
+      ]
+    },
+    {
+      "repo": "bing-bryan/skills-by-bing",
+      "github_url": "https://github.com/bing-bryan/skills-by-bing",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ShaneLee_zzz",
+        "text": "https://t.co/Kbf11eL7DD\n\n安装：\nnpx skills add Bing-Bryan/skills-by-bing --skill parallel-imagegen\n\n适合 2 张以上互不依赖的生图/改图；每张图使用独立 codex exec，自测最多 12 个活动 Worker，失败隔离重试。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080241451687096805"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080241451687096805"
+      ]
+    },
+    {
+      "repo": "rivet-dev/skills",
+      "github_url": "https://github.com/rivet-dev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NathanFlurry",
+        "text": "multiplayer AI is the #1 use case for Rivet (YC W23)\n\nconnect directly to agents with a websocket\n\nagents wake up when connected, sleep when idle, and can run in the background\n\n$ npx skills add rivet-dev/skills https://t.co/h7RcnYSkOj",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080247649287225705"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080247649287225705"
+      ]
+    },
+    {
+      "repo": "zach-sndr/agentic-founder",
+      "github_url": "https://github.com/zach-sndr/agentic-founder",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zach_sndr",
+        "text": "npx skills add zach-sndr/agentic-founder --skill video-input https://t.co/9RrnfV7pVg",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080053799415369974"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080053799415369974"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "https://t.co/Bme4q956rm\n\n$ npx skills add coreyhaines31/marketingskills",
+        "likes": 3,
+        "url": "https://x.com/i/status/2080017316763607312"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080017316763607312"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "neondatabase/agent-skills",
+      "github_url": "https://github.com/neondatabase/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "andrelandgraf",
+        "text": "@ruchernchong @neondatabase npx skills add neondatabase/agent-skills -s neon-postgres 🫡",
+        "likes": 1,
+        "url": "https://x.com/i/status/2080116740034625848"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080116740034625848"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2079948019722752413",
+      "author": "KanidthaO",
+      "text": "เว็บเดียวดูสถานการณ์ทั่วโลกได้แทบทุกมิติ ทั้งข่าว สงคราม เศรษฐกิจ ภัยพิบัติ เที่ยวบิน และตลาดการเงินแบบเรียลไทม์ 🌍\n\nWorld Monitor คือโปรเจกต์ Open Source ที่รวมข้อมูลสำคัญจากทั่วโลกมาแสดงบน Dashboard เดียว พร้อมแผนที่แบบ 3D Globe และแผนที่ WebGL ที่เลือกดูข้อมูลได้มากถึง 56 รูปแบ",
+      "likes": 360,
+      "views": 0,
+      "url": "https://x.com/i/status/2079948019722752413",
+      "is_kol": false,
+      "score": 2670.0
+    },
+    {
+      "id": "2080038493594734780",
+      "author": "tetsuoai",
+      "text": "This is insanely cool. Set this up in Grok Build!\n\nUnity shipped a free terminal Unity CLI for coding agents, CI, and custom tooling. MCP stays supported, the CLI includes MCP Mode for existing MCP agents, and Unity says both the CLI and MCP are free with no concurrency limits on",
+      "likes": 576,
+      "views": 0,
+      "url": "https://x.com/i/status/2080038493594734780",
+      "is_kol": false,
+      "score": 2003.0
+    },
+    {
+      "id": "2079974900702527608",
+      "author": "expo",
+      "text": "Tell your agent to use the Expo MCP Server. It will make your dev experience more smooth and your apps will improve. \n\nhttps://t.co/6w2SfOycaZ https://t.co/wAL8Hisckg",
+      "likes": 310,
+      "views": 0,
+      "url": "https://x.com/i/status/2079974900702527608",
+      "is_kol": false,
+      "score": 1055.0
+    },
+    {
+      "id": "2080214690744139890",
+      "author": "ETezRyu",
+      "text": "We're building \"this\" model to see if D.A.T. works on Claude Code and it does pretty well!\n\nCheck out the our skills : https://t.co/yn4cdrP9LP https://t.co/3Iuu40IunB",
+      "likes": 244,
+      "views": 0,
+      "url": "https://x.com/i/status/2080214690744139890",
+      "is_kol": false,
+      "score": 927.0
+    },
+    {
+      "id": "2080152220788838563",
+      "author": "ai_ai_ailover",
+      "text": "海外のトップ実務家しか知らない「Agent Skills」の作り方",
+      "likes": 257,
+      "views": 0,
+      "url": "https://x.com/i/status/2080152220788838563",
+      "is_kol": false,
+      "score": 881.0
+    },
+    {
+      "id": "2080150685060936037",
+      "author": "XFreeze",
+      "text": "Grok Build just got major update, giving developers more control over AI tools, better account visibility, built-in diagnostics, stronger session reliability, and lower memory usage for Voice Mode on macOS.\n\nRelease Notes: v0.2.111\n\nFeatures:\n• Users can now disable image generat",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2080150685060936037",
+      "is_kol": false,
+      "score": 771.0
+    },
+    {
+      "id": "2080001455851708453",
+      "author": "matteyeux",
+      "text": "Binary Ninja dev build now ships with an MCP server https://t.co/BPGcRuu0xY",
+      "likes": 189,
+      "views": 0,
+      "url": "https://x.com/i/status/2080001455851708453",
+      "is_kol": false,
+      "score": 622.0
+    },
+    {
+      "id": "2080038397398147284",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.111! 🚀\n\nChangelog v0.2.111\n\nFeatures:\n• Users can now disable image generation and video generation tools (and their slash commands) via config.toml or environment variables.\n• `/session-info` now displays whether the session uses OAuth",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2080038397398147284",
+      "is_kol": false,
+      "score": 482.0
+    },
+    {
+      "id": "2080117243405635832",
+      "author": "RhysSullivan",
+      "text": "there's basically no difference in the effectiveness of MCP and CLIs + skills for agents, agents are equally effective at both\n\nCLIs are fine, but require basically a full sandbox to run making them a non starter for lightweight agents\n\nthey're also lossy - you can't know without",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2080117243405635832",
+      "is_kol": false,
+      "score": 413.0
+    },
+    {
+      "id": "2080062611324821648",
+      "author": "marksuman",
+      "text": "Maple is preparing for the release of a co-working agent. You install it locally and it works with your files, whether it's office work or building websites and apps. It's a turnkey solution, as easy as Claude Code, that keeps your data secure and private, no data sharing with cl",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2080062611324821648",
+      "is_kol": false,
+      "score": 403.0
+    },
+    {
+      "id": "2080074271775412583",
+      "author": "YuHelenYu",
+      "text": "Most security teams secure AI agents with less rigor than they'd apply to a new hire.\n\nNearly two-thirds apply weaker controls to agents than to humans.\n\n@okta's AI Blueprint Tool maps your environment across 3 layers:\n1️⃣Discovery - where your agents are\n2️⃣Connections - what ag",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2080074271775412583",
+      "is_kol": false,
+      "score": 395.0
+    },
+    {
+      "id": "2080145679545229343",
+      "author": "t_wada",
+      "text": "その意味では「どこかから拾ってくる Agent Skill 」で最も役に立つのは skill-creator かもしれない",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2080145679545229343",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2080093855618093364",
+      "author": "tonysimons_",
+      "text": "🚨 Hermes Agent Tip of the Day: Composio  \n\nI just gave Hermes access to a ridiculous stack of over 500 apps in about 30 seconds.  \n\nOne command: \n\nhermes mcp add composio --url https://t.co/h4yPnYovh3 --auth oauth \n\nOne OAuth flow later, Hermes was connected to:  \n\n🔸 Gmail \n🔸 Can",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2080093855618093364",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2079943361558204584",
+      "author": "TechWithTimm",
+      "text": "Anyone can build a basic MCP server in a few lines of Python.\n\nWhat’s hard is adding authentication, persistent storage, and permissions while making sure each user can only see their own data.\n\nLet me show you how to actually build one and connect it to Claude Code.\n\nTimestamps:",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2079943361558204584",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2080121152329134394",
+      "author": "akhilesh9235",
+      "text": "🚀 𝗧𝗼𝗽 𝟭𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀 𝗧𝗵𝗮𝘁 𝗧𝘂𝗿𝗻 𝗖𝗹𝗮𝘂𝗱𝗲 𝗜𝗻𝘁𝗼 𝗔 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲\n\n⚡ Turn Claude from a simple AI assistant into a powerful workflow engine.\n\nThese GitHub repos help you automate, build, research, and ship faster.\n\n🔹 𝗢𝟭. 𝗥𝗲𝗽𝗼𝗺𝗶𝘅\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗱𝗼𝗲𝘀: Packs your full codebase into one AI",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2080121152329134394",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2080189319935864846",
+      "author": "rimtoln",
+      "text": "LOOP ENGINEERING IS OVER. GRAPHS WIN.\n\nai builders are shifting\nfrom single agent loops\nto multi-agent graphs\n                                                                                                                                                                          ",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2080189319935864846",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2079948649518211192",
+      "author": "paleonormie",
+      "text": "I’m in a mad rush to get in early on every api key and mcp server work authorized on the off chance that this will grandfather me in when they inevitable lock stuff down after the first major fuckup from playing so fast and loose with giving agents access to everything",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2079948649518211192",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2080176471260512315",
+      "author": "xuwenjie1988",
+      "text": "今天我只想挑两个项目聊聊：\n\n[OmniRoute](https://t.co/TblI7S0K5L)\n[i-have-adhd](https://t.co/f3rXTS8Gle)\n\n它们一个解决“模型怎么稳定地工作”，一个解决“模型怎么更好地和人沟通”。放在一起看，恰好说明 AI 产品正在跨过一个关键阶段。\n\n## 先看 OmniRoute：模型调用终于不再只是换个 API Key\n\nOmniRoute 是一个开源 AI 网关，面向多家模型提供商与数百个模型提供统一入口；它还提供额度感知的自动回退、上下文压缩，以及 MCP/A2A 等协作能力。\n\n为什",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2080176471260512315",
+      "is_kol": false,
+      "score": 159.0
+    },
+    {
+      "id": "2080240863670944121",
+      "author": "AmanSinhaLaw",
+      "text": "As Leader of the Opposition, you enjoy top government facilities and perks. Even after facing conviction for defamation and spreading falsehoods by competent courts you remain hell-bent on misleading India’s youth and students, attempting to create anarchy and disorder.\n\n1. Discl",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2080240863670944121",
+      "is_kol": false,
+      "score": 153.0
+    }
+  ]
+}
