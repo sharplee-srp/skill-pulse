@@ -1,0 +1,585 @@
+{
+  "date": "2026-07-24",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 162,
+    "tweets_with_repos": 14,
+    "unique_repos": 18,
+    "new_repos": 8,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-website-develop",
+      "github_url": "https://github.com/joeseesun/qiaomu-website-develop",
+      "tier": 3,
+      "is_new": true,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "跟橘子轻松愉快的聊了快1小时，提到的Skill和网站如下。\n\nSkill\n\n1. 视频剪辑Skill：https://t.co/RsUSDJ9e2b\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut\n\n2. 前端设计Skill：https://t.co/EJwTJNHvUz\n\n安装指令：npx skills add joeseesun/qiaomu-design\n\n3. AI PRD生成Skill：https://t.co/FVj0Xn76Cl\n\nnpx skills a",
+        "likes": 20,
+        "url": "https://x.com/i/status/2080438687385768031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080438687385768031"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-model-cli",
+      "github_url": "https://github.com/joeseesun/qiaomu-model-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 150.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "一个大模型的说法不一定可信，需要其他模型帮忙评估。\n\n安装这个Skill，在Codex中调用Grok和Kimi。\n\nnpx skills add joeseesun/qiaomu-model-cli\n\n开源地址见评论，可以增加更多模型 https://t.co/GDEYt6f1UJ",
+        "likes": 15,
+        "url": "https://x.com/i/status/2080466870956880368"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080466870956880368"
+      ]
+    },
+    {
+      "repo": "mohamedkuch/utilia-solana-agent",
+      "github_url": "https://github.com/mohamedkuch/utilia-solana-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "utiliax402",
+        "text": "Solana agents: install a wallet-guarded preflight skill:\n\nnpx skills add mohamedkuch/utilia-solana-agent --skill utilia-solana-preflight -g -y\n\nFees, simulation, tx diagnosis, token risk. x402 USDC, $0.002–$0.008, hard-capped locally.\n\nhttps://t.co/cmFZxr7nnK",
+        "likes": 9,
+        "url": "https://x.com/i/status/2080458366292222272"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080458366292222272"
+      ]
+    },
+    {
+      "repo": "megablacklabel/reiwa-gal",
+      "github_url": "https://github.com/megablacklabel/reiwa-gal",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MegaBlackLabel",
+        "text": "令和ギャルSkillをアップデートしました。\n・自然に令和ギャルに修正\n・英語対応\n・Negative Constraintsをコンパクトに修正\n\nhttps://t.co/slxTHP8kf2\n\nnpx skills add MegaBlackLabel/reiwa-gal\nでインストールできます。",
+        "likes": 5,
+        "url": "https://x.com/i/status/2080558073782075555"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080558073782075555"
+      ]
+    },
+    {
+      "repo": "icebird1998/drawio-scientific-illustrator",
+      "github_url": "https://github.com/icebird1998/drawio-scientific-illustrator",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BkashJosi",
+        "text": "Your AI-generated scientific figure looks finished.\n\nThen you spot one wrong label.\n\nThe Codex skill recreate-scientific-figure-in-drawio rebuilds the reference inside https://t.co/d9kC5uJTZ6 as editable text, shapes and connectors.\n\nHow it works:\n\nIt comes inside https://t.co/3d",
+        "likes": 2,
+        "url": "https://x.com/i/status/2080435102430163037"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080435102430163037"
+      ]
+    },
+    {
+      "repo": "angular/skills",
+      "github_url": "https://github.com/angular/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "laco2net",
+        "text": "npx skills add angular/skills はAngularユーザーは必須 #ng_startup",
+        "likes": 1,
+        "url": "https://x.com/i/status/2080606161762701382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080606161762701382"
+      ]
+    },
+    {
+      "repo": "danilo-znamerovszkij/draw-your-font",
+      "github_url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "danilo_z_j",
+        "text": "2/ how it works:\n\nnpx skills add danilo-znamerovszkij/draw-your-font\n\nthen in claude code: drag in a photo, say \"make my font\"\n\nclaude finds the letters, labels them, builds the font, then critiques its own output and fixes what looks bad",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080561852006711411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080561852006711411"
+      ]
+    },
+    {
+      "repo": "mindgames/skills",
+      "github_url": "https://github.com/mindgames/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mathiiias123",
+        "text": "Efficient way for Codex to always keep an eye on the logs levering persistent sub-agents \n\n$ npx skills add Mindgames/skills@codex-log-monitor -g\n\nhttps://t.co/QxdaXAqZC0 https://t.co/0yNbSdGwGi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080391526400582128"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080391526400582128"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 495.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 65,
+      "total_retweets": 40,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlexRiad84837",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/d47D798REn\n\n2. public-apis — free APIs for everything\n→ https://t.co/dpsZkmbdxw…\n\n3. build-your-own-x — learn by building\n→ https://t.co/9tLc26QLzy…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 65,
+        "url": "https://x.com/i/status/2080468201562128473"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080468201562128473"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-design",
+      "github_url": "https://github.com/joeseesun/qiaomu-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "跟橘子轻松愉快的聊了快1小时，提到的Skill和网站如下。\n\nSkill\n\n1. 视频剪辑Skill：https://t.co/RsUSDJ9e2b\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut\n\n2. 前端设计Skill：https://t.co/EJwTJNHvUz\n\n安装指令：npx skills add joeseesun/qiaomu-design\n\n3. AI PRD生成Skill：https://t.co/FVj0Xn76Cl\n\nnpx skills a",
+        "likes": 20,
+        "url": "https://x.com/i/status/2080438687385768031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080438687385768031"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-cut-skill",
+      "github_url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "跟橘子轻松愉快的聊了快1小时，提到的Skill和网站如下。\n\nSkill\n\n1. 视频剪辑Skill：https://t.co/RsUSDJ9e2b\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut\n\n2. 前端设计Skill：https://t.co/EJwTJNHvUz\n\n安装指令：npx skills add joeseesun/qiaomu-design\n\n3. AI PRD生成Skill：https://t.co/FVj0Xn76Cl\n\nnpx skills a",
+        "likes": 20,
+        "url": "https://x.com/i/status/2080438687385768031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080438687385768031"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-goal-meta-skill",
+      "github_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "跟橘子轻松愉快的聊了快1小时，提到的Skill和网站如下。\n\nSkill\n\n1. 视频剪辑Skill：https://t.co/RsUSDJ9e2b\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut\n\n2. 前端设计Skill：https://t.co/EJwTJNHvUz\n\n安装指令：npx skills add joeseesun/qiaomu-design\n\n3. AI PRD生成Skill：https://t.co/FVj0Xn76Cl\n\nnpx skills a",
+        "likes": 20,
+        "url": "https://x.com/i/status/2080438687385768031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080438687385768031"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-ai-prd",
+      "github_url": "https://github.com/joeseesun/qiaomu-ai-prd",
+      "tier": 3,
+      "is_new": false,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "跟橘子轻松愉快的聊了快1小时，提到的Skill和网站如下。\n\nSkill\n\n1. 视频剪辑Skill：https://t.co/RsUSDJ9e2b\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut\n\n2. 前端设计Skill：https://t.co/EJwTJNHvUz\n\n安装指令：npx skills add joeseesun/qiaomu-design\n\n3. AI PRD生成Skill：https://t.co/FVj0Xn76Cl\n\nnpx skills a",
+        "likes": 20,
+        "url": "https://x.com/i/status/2080438687385768031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080438687385768031"
+      ]
+    },
+    {
+      "repo": "lynx-community/skills",
+      "github_url": "https://github.com/lynx-community/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BitterGourd1020",
+        "text": "No way—Agent Skills × GenUI for @LynxJS_org? Yep.\n\nDescribe a UI. Let your agent speak:\nlynx-a2ui → A2UI v0.9 JSON\nlynx-openui → OpenUI Lang v0.5\n\nInstall both:\nnpx skills add lynx-community/skills -s lynx-a2ui -s lynx-openui\n\nhttps://t.co/nLbKuX2MeG https://t.co/QBgYC5WUjn",
+        "likes": 8,
+        "url": "https://x.com/i/status/2080539270411128977"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080539270411128977"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iambakhtier",
+        "text": "Everyone is calling this a Claude Code feature. it isn't.\n\nRemotion shipped official agent skills. One command:\nnpx skills add remotion-dev/skills\n\nWorks with Claude Code, Codex, Cursor, Kimi.\n\nYour agent now knows remotion timing, compositions, fonts, audio sync, and render pipe",
+        "likes": 3,
+        "url": "https://x.com/i/status/2080472119171752026"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080472119171752026"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "bing-bryan/skills-by-bing",
+      "github_url": "https://github.com/bing-bryan/skills-by-bing",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Bing_Bryan_BRN",
+        "text": "https://t.co/MJzE9VURMV\n\n安装：\nnpx skills add Bing-Bryan/skills-by-bing --skill xianyu-publish\n\n如果你想把闲置挂到闲鱼，但不想自己查价、写文案，可以试试。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080589401504289134"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080589401504289134"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "repocatai_git",
+        "text": "Travel search might no longer require opening a bunch of browser tabs👀\n\nFlyAI, ⭐️~900. A skill that lets you search for travel with an AI agent.\n\nHere’s what it can do👇\n・Search for flights/hotels/tourist attractions and more using natural language\n・Get real-time travel informatio",
+        "likes": 0,
+        "url": "https://x.com/i/status/2080519532935036986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080519532935036986"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2080540517499387912",
+      "author": "KimiDevs",
+      "text": "Kimi Code CLI 0.29.1 \n\nFeatures\n🌟Add global default MCP server timeouts in config.toml and env vars.\n\n🌟Add environment variables to configure the web search and web fetch services without OAuth login.\n\n🌟Add experimental secondary-model bindings for newly spawned subagents, includ",
+      "likes": 351,
+      "views": 0,
+      "url": "https://x.com/i/status/2080540517499387912",
+      "is_kol": false,
+      "score": 1143.0
+    },
+    {
+      "id": "2080298505785217152",
+      "author": "hasantoxr",
+      "text": "I'm deleting every paid document extraction tool because of this.\n\nZipstack built Unstract and it turns any PDF, scan, or image into clean structured JSON using LLMs you already pay for.\n\nYou point it at a document (an invoice, a bank statement, a KYC form, a tax return, a claims",
+      "likes": 295,
+      "views": 0,
+      "url": "https://x.com/i/status/2080298505785217152",
+      "is_kol": false,
+      "score": 1085.0
+    },
+    {
+      "id": "2080406855734657174",
+      "author": "aakashgupta",
+      "text": "These guys literally dropped a masterclass on the basics of technical AI:\n\n3:22 - How LLMs actually work\n5:24 - What temperature is\n7:05 - What context windows are\n7:59 - Building a tool from scratch\n10:28 - Why MCP exists\n12:03 - What makes an agent an agent\n12:43 - The power of",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2080406855734657174",
+      "is_kol": false,
+      "score": 734.0
+    },
+    {
+      "id": "2080527353600483788",
+      "author": "SimplyAnnisa",
+      "text": "If you're a developer, you'll appreciate this.\nBuilding presentations shouldn't feel like another coding task.\nConverting raw Codex or Claude Code output into polished slides wastes valuable time.\n@DokieAI is the Best AI Presentation Plugin for Codex & Claude Code.\nWith Dokie AI ",
+      "likes": 139,
+      "views": 0,
+      "url": "https://x.com/i/status/2080527353600483788",
+      "is_kol": false,
+      "score": 642.0
+    },
+    {
+      "id": "2080312649959821665",
+      "author": "TechByMarkandey",
+      "text": "AI email agents are improving fast.\n\nAtomic Mail tested OpenClaw and Hermes with the same inbox and the same prompt.\n\nWhat matters isn’t just the winner it’s how each agent completes real email tasks.\n\nWith Atomic Mail, you can connect an inbox in under 30 seconds:\n- MCP or Agent",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2080312649959821665",
+      "is_kol": false,
+      "score": 439.0
+    },
+    {
+      "id": "2080308989682762181",
+      "author": "atomic_mail",
+      "text": "Atomic Mail put OpenClaw and Hermes head-to-head\n\nWe gave OpenClaw and Hermes one inbox each and the same prompt: prove you’re better. Who won?\n\nGet your agent an inbox in 30 seconds:\n– Plug in with one prompt via MCP or Agent Skill\n– No CAPTCHA, no signup\n– Run any workflow over",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2080308989682762181",
+      "is_kol": false,
+      "score": 396.0
+    },
+    {
+      "id": "2080438561573388439",
+      "author": "milesdeutscher",
+      "text": "I've tested, built, and automated dozens of trading strategies with AI.\n\nSounds complicated, but it's way easier than you'd imagine.\n\nBuilding used to require technical expertise. Now it just requires Claude.\n\nIf you want to build your first AI trading bot, follow these steps 9 s",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2080438561573388439",
+      "is_kol": false,
+      "score": 380.0
+    },
+    {
+      "id": "2080593138154938462",
+      "author": "jon_d_doe",
+      "text": "The biggest mistake people are making right now is paying to learn only AI video creation.\nAnd here's why..👇🏽\n\nAI is a tool.\nVideo editing is the skill.\nTools will change.\nSkills will always pay.\n\nThat's why my training is different.\nI don't just teach you how to create AI videos",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2080593138154938462",
+      "is_kol": false,
+      "score": 337.0
+    },
+    {
+      "id": "2080404028073357451",
+      "author": "blockchain_goat",
+      "text": "This dev shipping the thing the whole AI agent space is missing.\n\n@EyebrowCC scan writes a hashed lockfile of every skill, MCP, plugin and hook across your tools. \n\neyebrow verify catches anything that rewrote itself since you approved it. ?\n\neyebrow wrap sits in front of your MC",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2080404028073357451",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2080408613449863338",
+      "author": "CantonNetwork",
+      "text": "Building on Canton with Claude?\n\n@CantonFdn has put together a new explainer on several tools available including an MCP Server that gives Claude up-to-date network information, and a Daml Skill for generating idiomatic Canton 3.5 code.\n\nPlus a quick intro into the Dev Hub.\n\n↓",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2080408613449863338",
+      "is_kol": false,
+      "score": 309.0
+    },
+    {
+      "id": "2080360640003359145",
+      "author": "tylerrwayne",
+      "text": "The future of ecommerce marketing is here.\n\nTopview MCP is a full-stack powerhouse that takes you from data-backed insights to final creative production, without leaving the platform.\n\nIt’s the ultimate tool for content teams and creators. @TopviewAIhq",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2080360640003359145",
+      "is_kol": false,
+      "score": 243.0
+    },
+    {
+      "id": "2080525886386798712",
+      "author": "Aicoder786",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.             \n\nSpend 1 hour with this.             \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.             \n\nThe people who watch this tonight will wake up tomorrow with a new skill.             \n\nWatch it and B",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2080525886386798712",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2080329353628692678",
+      "author": "benblumenrose",
+      "text": "Proud to be investing in @paper's $34M Series A alongside @Accel  and @ICONIQCapital!\n\nWe’ve been following their progress for a couple of years but it wasn’t until about five months ago that I had my “oh shit” moment with the product; a moment when I saw the experience I hope to",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2080329353628692678",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2080307560591106550",
+      "author": "AngelList",
+      "text": "Introducing AngelList Link — an MCP server for GPs to turn your fund into something you can talk to.\n\nOne source of truth. Verified answers. Daily financials. Queryable from Claude, ChatGPT, or any AI tool you already work from.\n\nAsk a question about your own fund — capital call ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2080307560591106550",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2080540128452223375",
+      "author": "socialwithaayan",
+      "text": "14 ARXIV PAPERS THAT FINALLY EXPLAIN AI AGENTS\n\n1. AI Agent Systems — the survey that maps the whole\nmodern agent stack in one place.\nhttps://t.co/bSn3mqvNrf\n\n2. Agentic Reasoning — reframes LLMs as agents that\nplan, act, and learn through interaction.\nhttps://t.co/Vz0DtsGEFn\n\n3.",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2080540128452223375",
+      "is_kol": false,
+      "score": 226.0
+    },
+    {
+      "id": "2080577991990751611",
+      "author": "_avichawla",
+      "text": "The next step after Karpathy's autoresearch idea:\n\nTuning an agent is mostly manual work, done by editing prompts, tools, and control flow by hand and rerunning the evals to see what moved.\n\nResearchers have been building several automated optimizers to do that outer loop instead",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2080577991990751611",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2080353647410491845",
+      "author": "BosonJoe",
+      "text": "How to Spark just got a face lift 🚀\n\nIf you own a DGX Spark w/ spare compute, you can set up the MCP server and start contributing:\n\n📊 Evals\n📈 Benchmarks\n📔 Recipes (coming soon)\n\nThe goal is to help Spark owners figure out how smart &amp; fast new models are as soon as they drop!",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2080353647410491845",
+      "is_kol": false,
+      "score": 184.0
+    },
+    {
+      "id": "2080479858405326995",
+      "author": "Saboo_Shubham_",
+      "text": "Every developer needs this new Agent Skill.\n\nSay what you meant to fix. It flags everything else in your GitHub diff.\n\nRuns locally. 100% Open-source. Super cool SHIP by @mvanhorn. https://t.co/ar8HV0vzVl",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2080479858405326995",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2080325944993308892",
+      "author": "kapilansh_twt",
+      "text": "Hermes beat Openclaw in emails \n\nAtomic Mail built an email for AI agents, create a mailbox for your agent in 30 seconds \n\n- Connect MCP or Agent Skill\n- no signup\n- no CAPTCHA",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2080325944993308892",
+      "is_kol": false,
+      "score": 168.0
+    }
+  ]
+}
