@@ -5318,5 +5318,9 @@
   "mindgames/skills": {
     "first_seen": "2026-07-24",
     "tier": 3
+  },
+  "jeudytuanisapps/automatizacion-citas-edus-ccss": {
+    "first_seen": "2026-07-25",
+    "tier": 3
   }
 }

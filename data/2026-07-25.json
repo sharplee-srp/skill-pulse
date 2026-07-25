@@ -1,0 +1,284 @@
+{
+  "date": "2026-07-25",
+  "stats": {
+    "total_fetched": 320,
+    "unique_tweets": 147,
+    "tweets_with_repos": 5,
+    "unique_repos": 4,
+    "new_repos": 1,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "jeudytuanisapps/automatizacion-citas-edus-ccss",
+      "github_url": "https://github.com/jeudytuanisapps/automatizacion-citas-edus-ccss",
+      "tier": 3,
+      "is_new": true,
+      "score": 341.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jeudyx",
+        "text": "Ahora si, comparo el skill que usó mi agente para lograrlo, para que cualquiera con acceso a un Hermes o Openclaw pueda hacerlo.\n\nhttps://t.co/cmNN0MXiiv\n\nAquí combatimos las filas y la burrocracia con tecnología! guiiip guiiiip (grito Guanacasteco porque mañana es 25)",
+        "likes": 72,
+        "url": "https://x.com/i/status/2080671632465547663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080671632465547663"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "openclaw/agent-skills",
+      "github_url": "https://github.com/openclaw/agent-skills",
+      "tier": 0,
+      "is_new": false,
+      "score": 1833.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "steipete"
+      ],
+      "total_likes": 371,
+      "total_retweets": 24,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "steipete",
+        "text": "Hit a new record with our autoreview skill. 66 rounds on a gnarly refactor. https://t.co/zbUjIS2LQQ",
+        "likes": 371,
+        "url": "https://x.com/i/status/2080899298838098034"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080899298838098034"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 763.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 101,
+      "total_retweets": 52,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlexRiad84837",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/d47D798REn\n\n2. public-apis — free APIs for everything\n→ https://t.co/dpsZkmbdxw…\n\n3. build-your-own-x — learn by building\n→ https://t.co/9tLc26QLzy…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 100,
+        "url": "https://x.com/i/status/2080468201562128473"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080734091138244743",
+        "https://x.com/i/status/2080468201562128473"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "repocatai_git",
+        "text": "Travel search might no longer require opening a bunch of browser tabs👀\n\nFlyAI, ⭐️~900. A skill that lets you search for travel with an AI agent.\n\nHere’s what it can do👇\n・Search for flights/hotels/tourist attractions and more using natural language\n・Get real-time travel informatio",
+        "likes": 3,
+        "url": "https://x.com/i/status/2080519532935036986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2080519532935036986"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2080629030319980563",
+      "author": "LunarResearcher",
+      "text": "Google just released a free 1-hour AI engineering course.\n\nHow to build agents in 2026:\n\n00:00 - Context engineering\n10:00 - Building AI agents\n31:52 - Agentic loops\n43:22 - Building an MCP server\n51:20 - Prompt engineering\n59:10 - The future of AI development\n\nMost people learn ",
+      "likes": 1015,
+      "views": 0,
+      "url": "https://x.com/i/status/2080629030319980563",
+      "is_kol": false,
+      "score": 4335.0
+    },
+    {
+      "id": "2080776679035896166",
+      "author": "theo",
+      "text": "We've merged 76 PRs in T3 Code since Monday.\n\n- Added Auto mode for approvals in Claude Code and Codex\n- Added Sidebar v2 beta, a flat thread list with threads that settle when they're done\n- Added thread snoozing to sidebar v2\n- Added t3.json shared project config\n- Added remote",
+      "likes": 774,
+      "views": 0,
+      "url": "https://x.com/i/status/2080776679035896166",
+      "is_kol": false,
+      "score": 2357.0
+    },
+    {
+      "id": "2080710242929697122",
+      "author": "elune0x",
+      "text": "10 agent evals every AI engineer should know\n\n1) golden set\n\na frozen set of cases you run after every prompt model or tool change\n\nuse it as your baseline to see whether the system improved or quietly broke\n\nOpenAI Evals helps you build repeatable benchmark sets and compare mode",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2080710242929697122",
+      "is_kol": false,
+      "score": 1225.0
+    },
+    {
+      "id": "2080778221608656927",
+      "author": "Raullen",
+      "text": "🚀 Rapid-MLX 0.11.0 is out! Making local models on Apple Silicon reliable enough to run your agent workflows, not just demo them.\n\n⚡️ Performance\n• Prefix-cache reuse: 13.1s → 0.51s TTFT (25.6x faster on a repeated 6k-token prefix). Shared system prompts stop paying prefill twice.",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2080778221608656927",
+      "is_kol": false,
+      "score": 1045.0
+    },
+    {
+      "id": "2080827463672737908",
+      "author": "Spectromachina",
+      "text": "I started using Blender through MCP about two weeks ago, and I quickly realized that you can build almost anything with AI.\n\nThis model was created using Blender, Hunyuan3D, Gemini, and ChatGPT.\n\nHere’s how I did it:\n\nI opened Gemini, uploaded an image of the Gundam model, and as",
+      "likes": 244,
+      "views": 0,
+      "url": "https://x.com/i/status/2080827463672737908",
+      "is_kol": false,
+      "score": 887.0
+    },
+    {
+      "id": "2080829838970290395",
+      "author": "XFreeze",
+      "text": "Grok Build new update brings a guided /tutorial tour, smarter search tool overrides, live workflow progress with one-click failed-run resume, and a wide reliability pass across workflows, voice, and tools\n\nRelease Notes: v0.2.112\n\nBreaking Changes:\n• CLI version policy now has se",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2080829838970290395",
+      "is_kol": false,
+      "score": 708.0
+    },
+    {
+      "id": "2080744829907267752",
+      "author": "RobinHubHB",
+      "text": "🪶 Robinhood Daily Recap\n\nInfra\n\n■ @phantom added Robinhood Chain support.\n\n■ @EntropyAdvisors reported the chain is doing ~$66M in annualized fee revenue (7DMA).\n\n■ @RobinhoodCrypto published liquidity docs for Stock Token builders.\n\n■ @RobinhoodApp listed $BILL (Billions Network",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2080744829907267752",
+      "is_kol": false,
+      "score": 702.0
+    },
+    {
+      "id": "2080789847925510427",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.112! 🚀\n\nChangelog v0.2.112\n\nBreaking Changes:\n• CLI version policy now has separate soft update floors/ceilings and hard startup requirements.\n\nFeatures:\n• New /tutorial slash command opens an opt-in nine-topic onboarding tour of Grok.\n",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2080789847925510427",
+      "is_kol": false,
+      "score": 487.0
+    },
+    {
+      "id": "2080594838215381064",
+      "author": "dfinity",
+      "text": "The ICP MCP server is in preview. Test it out now, ahead of general availability: https://t.co/2Os5OHxA9s",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2080594838215381064",
+      "is_kol": false,
+      "score": 352.0
+    },
+    {
+      "id": "2080676127517946026",
+      "author": "chewadot",
+      "text": "THE CEO OF OBSIDIAN JUST SHIPPED THE PATCH THAT LETS CLAUDE CODE DRIVE YOUR VAULT INSTEAD OF JUST READING IT. THE REPO PASSED 12,000 STARS BEFORE THE OFFICIAL ANNOUNCEMENT WENT UP\n\n5 SKILL.md files. 1 MIT license. 0 lines of glue code\n\ndrop .claude/skills/ into any vault. Claude ",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2080676127517946026",
+      "is_kol": false,
+      "score": 349.0
+    },
+    {
+      "id": "2080926283421159911",
+      "author": "freeCodeCamp",
+      "text": "Anthropic's Claude Certified Architect exam focuses on practical AI engineering, not just theory.\n\nIn this course, Andrew helps you prepare by building real-world agent workflows with Claude, MCP, and the Claude Agent SDK.\n\nYou'll learn about agent orchestration, tool design, pro",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2080926283421159911",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2080884927554523448",
+      "author": "claudecode84",
+      "text": "Claude codeを\nまるごと一つの会社に変えました。\n\n42のスキル。\n7つの部署。\n1つのClaudeインスタンス。\n\nすべての部署は本物です。\nすべてのスキルはインストール可能です。\n\nDevelopers\n\nSuperpowers\n→ https://t.co/w50TGdl8KI…\n\nContext7\n→ https://t.co/JRi3IaPAB2…\n\nSkill Creator\n→ https://t.co/Ntu7J7DxMU…\n\nMCP Builder\n→ https://t.co/Ntu7J7DxMU…\n\nWebapp Test",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2080884927554523448",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2080889030036828165",
+      "author": "cyrilXBT",
+      "text": "MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.\n\n1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2080889030036828165",
+      "is_kol": false,
+      "score": 243.0
+    },
+    {
+      "id": "2080700147294511214",
+      "author": "teamcymru_S2",
+      "text": "INTEL DROP\n\nGenerative-AI tooling has moved into the malicious hosting world. In the Total Insights Feed, self-hosted AI stacks (AI agents, LLM front-ends, MCP servers, AI code-audit and API-gateway tools) keep turning up on the same hosts as C2, bulletproof hosting, and recon/of",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2080700147294511214",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2080883884821189054",
+      "author": "heyrohitai",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/LlS53hvxp8",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2080883884821189054",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2080881975448281574",
+      "author": "mohitmishr93531",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.       \n\nSpend 1 hour with this.       \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.     \n\nThe people who watch this tonight will wake up tomorrow with a new skill.    \n\nWatch it and bookmark it now https://t.co/S",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2080881975448281574",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2080611718250557816",
+      "author": "TheCodeMan__",
+      "text": "Do you want to actually use AI as a #dotnet developer - not just read about it?\n\nOver the past year, I've built a full set of resources that take you from \"AI-curious\" to shipping real AI features in .NET. Here's everything in one place. 🚀\n\n𝐅𝐫𝐞𝐞 𝐠𝐮𝐢𝐝𝐞𝐬 & 𝐫𝐨𝐚𝐝𝐦𝐚𝐩𝐬:\n\n• AI Roadmap f",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2080611718250557816",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2080865319065964614",
+      "author": "chatcutapp",
+      "text": "Opus 5 + ChatCut plugin is the AI video editing combo\n\nWe recreated Anthropic’s Opus 5 release video using ChatCut's Claude Code plugin.\n\nYou can brainstorm, write, and edit in the same chat. \n\nChatCut gives Claude Code a real video timeline, so you and your agent can do real edi",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2080865319065964614",
+      "is_kol": false,
+      "score": 166.0
+    }
+  ]
+}
