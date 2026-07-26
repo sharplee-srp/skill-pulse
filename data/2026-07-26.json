@@ -1,0 +1,374 @@
+{
+  "date": "2026-07-26",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 168,
+    "tweets_with_repos": 17,
+    "unique_repos": 9,
+    "new_repos": 4,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "paulovitin/claude-tuneup",
+      "github_url": "https://github.com/paulovitin/claude-tuneup",
+      "tier": 1,
+      "is_new": true,
+      "score": 906.0,
+      "mention_count": 9,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paulovitin",
+        "text": "@kgsi システムプロンプトの削減とコンテキスト最適化は重要ですね！Claude Codeの指示やルールをAnthropicの最新指針に沿って自動で監査・クリーンアップする claude-tuneup (npx skills add paulovitin/claude-tuneup) を作りました 🚀 https://t.co/5nBjDZ7tj0",
+        "likes": 1,
+        "url": "https://x.com/i/status/2081283223930175655"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081285520420696452",
+        "https://x.com/i/status/2081283593318396268",
+        "https://x.com/i/status/2081283487655481713",
+        "https://x.com/i/status/2081283223930175655",
+        "https://x.com/i/status/2081282146455421068",
+        "https://x.com/i/status/2081281054988497147",
+        "https://x.com/i/status/2081281004073808339",
+        "https://x.com/i/status/2081280953830240737",
+        "https://x.com/i/status/2081280835878101066"
+      ]
+    },
+    {
+      "repo": "anil-matcha/open-generative-ai",
+      "github_url": "https://github.com/anil-matcha/open-generative-ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 273.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OxbfnoHome",
+        "text": "Kasih skill ini supaya AI Agent lo bisa generate gambar dan video gratis\n\nselama ini AI Agent cuma berhenti di output teks\npadahal banyak workflow yang butuh aset visual\n\nbayangin satu prompt bisa langsung menghasilkan:\n→ Hero image website\n→ Banner iklan\n→ Thumbnail YouTube\n→ Vi",
+        "likes": 51,
+        "url": "https://x.com/i/status/2081204852542337232"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081204852542337232"
+      ]
+    },
+    {
+      "repo": "sandai-org/vidmuse-skills",
+      "github_url": "https://github.com/sandai-org/vidmuse-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 116.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsyourabdul",
+        "text": "🌌🎥 Your AI, now a Director\nImagine this: you drop one command, and suddenly Claude transforms into a full fledged cinematic or any type of video director. No cameras, no editing suites, no production headaches. Just pure creative flow.\n\nCode:\nnpx skills add SandAI-org/vidmuse-ski",
+        "likes": 2,
+        "url": "https://x.com/i/status/2081314526293864701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081314526293864701"
+      ]
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "github_url": "https://github.com/datawhalechina/hello-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Hello Agents\n\n📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程\n\n59.5K GitHub stars - data\nInstall: npx skills add datawhalechina/hello-agents\n\nhttps://t.co/9wYcXLBT98\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081167674474717477"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081167674474717477"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "koala73/worldmonitor",
+      "github_url": "https://github.com/koala73/worldmonitor",
+      "tier": 3,
+      "is_new": false,
+      "score": 191.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "Top trending GitHub repos of the week (you'll want to save this):\n\nWorld Monitor: An open-source version of Palantir\n\n→ https://t.co/8Aiepa96mO\n\nCode-review-graph: Reducing re-reading of large parts of your codebase on review tasks\n\n→ https://t.co/uSKDMOIxNO\n\nADHD Skill: An agent",
+        "likes": 27,
+        "url": "https://x.com/i/status/2081228020007026894"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081228020007026894"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 189.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that turns one template into a hundred landing pages.\n\nIt finds every \"you vs X\" and \"X alternative\" query with real search volume, writes unique copy for each, generates the pages, deploys, and pings the sitemap.\n\nFrom terminal prompt to ranked pages.\n\nnpx skills ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2081153285936107997"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081153285936107997"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_vmlops",
+        "text": "TURN ANY AI AGENT INTO AN AI SCIENTIST\n\nk-dense's scientific-agent-skills \n\n▪️ 150 ready-to-use skills across biology, chemistry, medicine, drug discovery\n▪️ 100+ scientific databases (PubChem, ChEMBL, UniProt, COSMIC, and more) via a unified lookup skill\n▪️ 70+ optimized python ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2081319082931138600"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081319082931138600"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "zjp1997720/zhijian-skills",
+      "github_url": "https://github.com/zjp1997720/zhijian-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hppzyy",
+        "text": "【兄弟们，应该算是全网最优雅的公众号排版skill了】 今天正式开源！ 核心是克制：8 套主题靠排印和留白建立质感；组件也很克制，只在需要结构化时出现。 最后是 SVG 开场动画，注入微信后台依赖开源项目 OpenCLI。 安装方式： npx skills add zjp1997720/zhijian-skills -g -a codex --skill https://t.co/jsSTENxKrs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081208148673880079"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081208148673880079"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2080948734645690863",
+      "author": "DailyDoseOfDS_",
+      "text": "Web scraping will never be the same.\n\n(100% open-source visual search at scale)\n\nPixelRAG is a retrieval system that skips HTML parsing completely.\n\nInstead of scraping a page into text and embedding chunks, it screenshots the page and retrieves the image. A vision-language model",
+      "likes": 382,
+      "views": 0,
+      "url": "https://x.com/i/status/2080948734645690863",
+      "is_kol": false,
+      "score": 1366.0
+    },
+    {
+      "id": "2081118331097284801",
+      "author": "ShenSeanChen",
+      "text": "I dug into @pidotdev because the greatest projects are usually built on top of one very simple building block. 𝗣𝗶 𝗵𝗮𝘀 𝟳𝟳,𝟬𝟬𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝘀𝘁𝗮𝗿𝘀 𝗮𝗻𝗱 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 𝗳𝗼𝘂𝗿 𝘁𝗼𝗼𝗹𝘀: 𝗿𝗲𝗮𝗱, 𝘄𝗿𝗶𝘁𝗲, 𝗲𝗱𝗶𝘁, 𝗯𝗮𝘀𝗵. 𝗦𝘂𝗽𝗲𝗿 𝘀𝗶𝗺𝗽𝗹𝗲.\n\nNo MCP, no sub agents, no plan mode, no to-dos, no permission popups. Their si",
+      "likes": 280,
+      "views": 0,
+      "url": "https://x.com/i/status/2081118331097284801",
+      "is_kol": false,
+      "score": 940.0
+    },
+    {
+      "id": "2081289263589851181",
+      "author": "techkantoran",
+      "text": "Banyak orang pakai Claude cuma buat nanya-nanya doang.\n\nPadahal engineer yang bikin Claude Code baru saja bagiin cara pakai Claude seperti profesional.\n\nDan percayalah...\nSkill seperti ini pelan-pelan akan jadi pembeda di dunia kerja.\n\nYang bisa AI bukan bakal menggantikan yang t",
+      "likes": 257,
+      "views": 0,
+      "url": "https://x.com/i/status/2081289263589851181",
+      "is_kol": false,
+      "score": 911.0
+    },
+    {
+      "id": "2081167729185472686",
+      "author": "dutradotdev",
+      "text": "Esse Tweet bombou e me surpreendeu MUITO então segue mais algumas dicas pra usar o CC (Claude Code):\n\n1. /insights gera um HTML te informando como você usa o CC e quais oportunidades você tá deixando passar de aperfeiçoar seu workflow diário\n\n2. Acabou uma tarefa? Roda o /clear. ",
+      "likes": 235,
+      "views": 0,
+      "url": "https://x.com/i/status/2081167729185472686",
+      "is_kol": false,
+      "score": 750.0
+    },
+    {
+      "id": "2081068975723536418",
+      "author": "mark_k",
+      "text": "Grok Build: Another MEGA release from @SpaceXAI with the longest changelog ever!\n\nMost important changes:\n\n• New \"/tutorial\" onboarding tour\n• Search tools now support date cutoffs and domain allowlists\n• \"/doctor\" consolidates terminal and environment diagnostics, including tmux",
+      "likes": 199,
+      "views": 0,
+      "url": "https://x.com/i/status/2081068975723536418",
+      "is_kol": false,
+      "score": 652.0
+    },
+    {
+      "id": "2081231787611898133",
+      "author": "yangyi",
+      "text": "现在最好做的行业  是教人做ai自媒体\n很多人失业 或者毕业就失业\n不想铁人三项 唯一认为自己能干的 就是自媒体\n然后又觉得应该学学ai 有热度\n于是第一想法就是ai自媒体\n\n所以教做ai自媒体，是顺势而为\n哪怕你什么都不懂 你只需要使用过hyperframe或者remotion\n甚至你就把推特上各种做视频的skills拿出来\n就开个直播间天天在那演示  底下挂个车都能出单\n\n不需要你真的理解skill 理解ai 理解agent\n只需要演示 每天进账个1，2千  就跟喝水一样\n\n割韭菜？不存在的\n挡住你赚钱的 只有自己的厌蠢症而已",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2081231787611898133",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2081216341747671353",
+      "author": "ajitcodes",
+      "text": "Google just released a free 1-hour AI engineering course.\n\nHow to build agents in 2026:\n\n00:00 - Context engineering\n10:00 - Building AI agents\n31:52 - Agentic loops\n43:22 - Building an MCP server\n51:20 - Prompt engineering\n59:10 - The future of AI development\n\nMost people learn ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2081216341747671353",
+      "is_kol": false,
+      "score": 342.0
+    },
+    {
+      "id": "2081074300506050778",
+      "author": "DivyanshT91162",
+      "text": "10 MCP Servers every AI developer should know in 2026. 🔥\n\nIf you're building AI agents with Claude Code, Codex, Gemini CLI, or Cursor, these MCP servers are worth bookmarking.\n\n1. Filesystem MCP — let AI read & manage local files\n   → https://t.co/6Ci2F4qJH9\n\n2. GitHub MCP — sear",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2081074300506050778",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2081044700484829406",
+      "author": "0xyunss",
+      "text": "kasih kemampuan browsing ke AI agent kalian tanpa API key, tanpa bayar per query.\n\nWigolo adalah MCP tool yang ngasih akses search, fetch, crawl, dan research web langsung ke coding agent kalian (Claude Code, Cursor, Hermes, dll). semua jalan di local, $0 per query.\n\njadi kalau a",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2081044700484829406",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2081192545942679804",
+      "author": "nurijanian",
+      "text": "/structure-problem: a simple skill to make better decisions",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2081192545942679804",
+      "is_kol": false,
+      "score": 280.0
+    },
+    {
+      "id": "2081107226794852464",
+      "author": "aiedge_",
+      "text": "Most people use Hermes for quick tasks.\n\n99% of people are missing Hermes best use case:\n\nTurning Hermes into your personal financial research assistant.\n\nHere's how to set it up as a research analyst that works while you sleep:\n\nStep 1. Connect a financial data source\n\nInside He",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2081107226794852464",
+      "is_kol": false,
+      "score": 280.0
+    },
+    {
+      "id": "2081039958635073586",
+      "author": "zaynmcps",
+      "text": "how I audit a brand's AI visibility in one conversation\n\nthis used to be a $3k deliverable. pull rankings from a dashboard, export to sheets, guess why the brand is missing, send recommendations nobody implements\n\nnow I connect the crowdreply mcp to claude and run the whole thing",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2081039958635073586",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2081307240175194268",
+      "author": "Unfilteredxrp8",
+      "text": "🚨🚨Thinking of moving abroad? Read this before you spend a single penny.\n\nMost people ask, “Which country should I move to?”\n\nThey are asking the wrong question.\n\nBefore you book that flight or pay a visa agent, answer these 4 questions honestly:\n\nWhat skill do I have that makes m",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2081307240175194268",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2081215050220757074",
+      "author": "PromptWi",
+      "text": "Delete every prompt template you ever saved.\n\nYou only need these 3 Claude Skills:\n\n1. /how-to SKILL\n☑ Your universal guide. A → Z on any task.\nType \"/how-to\" + what you want.\nClaude asks the right questions to builds the plan.\n↳ Replaces every \"how do I do this?\" prompt. https:/",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2081215050220757074",
+      "is_kol": false,
+      "score": 263.0
+    },
+    {
+      "id": "2081267710454116727",
+      "author": "KhusbooT14835",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.     \n\nSpend 1 hour with this.     \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.   \n\nThe people who watch this tonight will wake up tomorrow with a new skill.  \n\nWatch it and Bookmark it now https://t.co/lJiik0epf",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2081267710454116727",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2081070034319814755",
+      "author": "SteveTheHead_",
+      "text": "🧵[1/3] SAP MCP by @OOBEonSol has evolved from a tool gateway into a true operating layer for @solana agents..  faster to start, cheaper to use, safer to execute with, and now stateful across sessions\n\nSAP MCP v0.9.18 → v0.9.30\n\n→ 336 tools\n→ 5x faster startup\n→ up to 3x lower pri",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2081070034319814755",
+      "is_kol": false,
+      "score": 252.0
+    }
+  ]
+}

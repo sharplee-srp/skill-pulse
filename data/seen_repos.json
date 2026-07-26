@@ -5322,5 +5322,21 @@
   "jeudytuanisapps/automatizacion-citas-edus-ccss": {
     "first_seen": "2026-07-25",
     "tier": 3
+  },
+  "paulovitin/claude-tuneup": {
+    "first_seen": "2026-07-26",
+    "tier": 1
+  },
+  "anil-matcha/open-generative-ai": {
+    "first_seen": "2026-07-26",
+    "tier": 3
+  },
+  "sandai-org/vidmuse-skills": {
+    "first_seen": "2026-07-26",
+    "tier": 3
+  },
+  "datawhalechina/hello-agents": {
+    "first_seen": "2026-07-26",
+    "tier": 3
   }
 }
