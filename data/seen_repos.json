@@ -5338,5 +5338,45 @@
   "datawhalechina/hello-agents": {
     "first_seen": "2026-07-26",
     "tier": 3
+  },
+  "gokite-ai/passport-skills": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-bento-ppt": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "t8y2/dbx": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "provencher/codex-skills": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "ai-builder-club/skills": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "grafana/skills": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "chrislee121/pitfall-skill": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "ultralytics/yolov5": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "tribal-memory/skills": {
+    "first_seen": "2026-07-27",
+    "tier": 3
+  },
+  "hayatok/estat-cli": {
+    "first_seen": "2026-07-27",
+    "tier": 3
   }
 }

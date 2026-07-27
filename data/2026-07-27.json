@@ -1,0 +1,589 @@
+{
+  "date": "2026-07-27",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 22,
+    "unique_repos": 18,
+    "new_repos": 10,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "gokite-ai/passport-skills",
+      "github_url": "https://github.com/gokite-ai/passport-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 405.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoKiteAI",
+        "text": "If an agent can spend your money, you should be able to read the instructions it follows.\n\nWe have open-sourced Kite Agent Passport Skills: 14 MIT-licensed skills that teach an AI agent how to authenticate a user, request a spending session, and make a paid API request through x4",
+        "likes": 49,
+        "url": "https://x.com/i/status/2081661453657079831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081661453657079831",
+        "https://x.com/i/status/2081661877495451727"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-bento-ppt",
+      "github_url": "https://github.com/joeseesun/qiaomu-bento-ppt",
+      "tier": 3,
+      "is_new": true,
+      "score": 389.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "基于 bento PPT 改造了一个 Skill。\n\n输入内容或主题，自动生成可编辑修改、在线演示，甚至可以发给别人协作的HTML PPT。\n\n安装指令：npx skills add joeseesun/qiaomu-bento-ppt\n\n推荐用前端审美好的模型，比如Kimi K3或Opus 4.8+\n\n开源见评论区 https://t.co/EQozEMbAUx",
+        "likes": 53,
+        "url": "https://x.com/i/status/2081568902241513786"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081590022386401679",
+        "https://x.com/i/status/2081568902241513786"
+      ]
+    },
+    {
+      "repo": "t8y2/dbx",
+      "github_url": "https://github.com/t8y2/dbx",
+      "tier": 3,
+      "is_new": true,
+      "score": 299.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenzeling4",
+        "text": "DBeaver eats 2GB of RAM before you've even connected to anything.\n\ndbx is 20MB and talks to 70+ databases. MySQL, Postgres, Redis, Mongo, DuckDB, SQL Server, Dameng. Desktop, Docker, or CLI. Has a built-in AI assistant and an MCP server baked in.\n\nRust binary. No Java. No Electro",
+        "likes": 58,
+        "url": "https://x.com/i/status/2081530762667696193"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081530762667696193"
+      ]
+    },
+    {
+      "repo": "provencher/codex-skills",
+      "github_url": "https://github.com/provencher/codex-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 242.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yanhua1010",
+        "text": "Codex 现在真的会“带团队”了。\n\n全新的 Multi-Agent V2 不只是多开几个 Agent：主 Agent 会拆任务、定边界、分配工作并验收，子 Agent 则并行调查和执行，最后统一交付。\n\nOpenAI Codex DX 成员 Eric Provencher 推荐使用同一模型家族，只调整推理强度：\n• Scout：GPT-5.6 Sol Light，定位文件、追踪代码路径、查找测试\n• Worker：GPT-5.6 Sol Medium，实施限定范围的修改并运行检查\n• Smart Worker：GPT-5.6 Sol High，处理困",
+        "likes": 39,
+        "url": "https://x.com/i/status/2081668184021852344"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081668184021852344"
+      ]
+    },
+    {
+      "repo": "ai-builder-club/skills",
+      "github_url": "https://github.com/ai-builder-club/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 189.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jasonzhou1993",
+        "text": "I made a skill to apply those learnings, \nand de-cluttered my CLAUDE.md by ~50%:\n\n- catches conflicting instructions across CLAUDE.md/skills/tools\n- finds hard rules that should be judgment\n- flags docs that drifted from the actual codebase\n- quizzes your docs to surface the gotc",
+        "likes": 23,
+        "url": "https://x.com/i/status/2081689174877380668"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081689174877380668"
+      ]
+    },
+    {
+      "repo": "grafana/skills",
+      "github_url": "https://github.com/grafana/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Justshareit518",
+        "text": "📌 AI Agents just got Grafana superpowers 🚀\n\n✨ AI agents + Grafana? Yes, please! 🚀 grafana/skills brings observability superpowers to Claude Code, Cursor, and more. Easily query Prometheus, Loki, and the LGTM stack right from your AI IDE. Run `npx skills add grafana/skills` to sta",
+        "likes": 1,
+        "url": "https://x.com/i/status/2081692322300133714"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081692322300133714"
+      ]
+    },
+    {
+      "repo": "chrislee121/pitfall-skill",
+      "github_url": "https://github.com/chrislee121/pitfall-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChrisLee207",
+        "text": "踩坑.skill v1.0版本正式发布！\n「同类问题第二次出现时，就该写进错题本——短的升级成规则，长的升级成 Skill。」\n\n跨 Agent 通用的踩坑错题本 Skill：基于 Agent Skills 协议，可在 Cursor、Claude Code、Codex、OpenClaw、Hermes、Workbuddy、CodeBuddy、Gemini CLI、OpenCode 等 50+ 兼容 runtime 中使用。\n\n装好后用自然语言触发。同类问题 ≥ 2 次且你确认已解决后：短约束升级成规则，长排障升级成独立 Skill。\n\n仓库地址：https",
+        "likes": 1,
+        "url": "https://x.com/i/status/2081686290177593840"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081686290177593840"
+      ]
+    },
+    {
+      "repo": "ultralytics/yolov5",
+      "github_url": "https://github.com/ultralytics/yolov5",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Yolov5\n\nUltralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite\n\n57.5K GitHub stars - ml-automation\nInstall: npx skills add ultralytics/yolov5\n\nhttps://t.co/ZPpduYos2Y\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081711293275213900"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081711293275213900"
+      ]
+    },
+    {
+      "repo": "tribal-memory/skills",
+      "github_url": "https://github.com/tribal-memory/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "samvfolo",
+        "text": "@adisingh @agentmail you can do that with Tribal\n\nrun \"npx skills add tribal-memory/skills\"\n\nThen ask your harness: \"Set up Tribal for me\"\n\nBYOPostgres",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081624942945145246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081624942945145246"
+      ]
+    },
+    {
+      "repo": "hayatok/estat-cli",
+      "github_url": "https://github.com/hayatok/estat-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hayato__k",
+        "text": "古いMBAにOpenClaw入れて遊んでるけど、web searchツールだとちゃんとした情報が取得できているのかよくわからない。ということで、e-statのAPI使って政府統計データにアクセスできるCLIツールを作った。というかcodexに作ってもらった。\nとりあえず全くコードチェックしてないしテストも碌にしてないけど、軽く触った感じ人口とかCPIとかのデータはちゃんと取れたのでよし。\nAgent Skillまでは用意できたので、あとはOpenClaw側にも適用して試したい。が、この段階でChatGPT Plusの週次リミットが残り60%しかない。。S",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081426538051059944"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081426538051059944"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "whchien/ai-trader",
+      "github_url": "https://github.com/whchien/ai-trader",
+      "tier": 2,
+      "is_new": false,
+      "score": 672.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 159,
+      "total_retweets": 19,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Tests algorithmic trading strategies with configurable workflows and integrates LLMs via a built-in MCP server.\n\nhttps://t.co/18yd3tyR4g https://t.co/mlE3fiJDjI",
+        "likes": 159,
+        "url": "https://x.com/i/status/2081512407461945687"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081512407461945687"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "github_url": "https://github.com/vercel-labs/agent-browser",
+      "tier": 3,
+      "is_new": false,
+      "score": 297.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "israfill",
+        "text": "your agent can use a real browser with saved logins without hijacking your chrome tab 😳\n\nvercel-labs/agent-browser is a rust cli built for coding agents\nsnapshot → click refs → keep auth state across runs\n\nwhat people actually use it for:\n→ test login flows with a dedicated profi",
+        "likes": 24,
+        "url": "https://x.com/i/status/2081676681404956962"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081676681404956962",
+        "https://x.com/i/status/2081676881427124673"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "github_url": "https://github.com/modelcontextprotocol/servers",
+      "tier": 3,
+      "is_new": false,
+      "score": 279.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DAIEvolutionHub",
+        "text": "10 MCP Servers every AI developer should know in 2026. \n\nIf you're building AI agents with Claude Code, Codex, Gemini CLI, Cursor, or any MCP-compatible IDE, these servers are worth adding to your toolkit.\n\n1. Filesystem MCP\n   → Give AI access to local files and project folders.",
+        "likes": 38,
+        "url": "https://x.com/i/status/2081423082611491269"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081423082611491269"
+      ]
+    },
+    {
+      "repo": "fabricioctelles/skills",
+      "github_url": "https://github.com/fabricioctelles/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fctelles",
+        "text": "npx skills add fabricioctelles/skills -s coolify-operator\n\nhttps://t.co/AH8P9aiXEs - Repo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081555956509429970"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081555956509429970",
+        "https://x.com/i/status/2081555555601031176"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.18.6 released. TL;DR:\nApp v1 provider/MCP refresh is fixed, v2 client compatibility is stabilized, and remote reference caches are branch-isolated.\n\n𝗔𝗽𝗽\nChanged\n• Pinned the App and session UI to a versioned @opencode-ai/client v2 snapshot, isolating dual-protocol sup",
+        "likes": 30,
+        "url": "https://x.com/i/status/2081574110975451559"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081574110975451559"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "msjiaozhu",
+        "text": "兄弟们，Vibe Coding 时代品味只会更重要！🤔\n\nHallmark 这个 skill 直接让你的 AI 代理变成设计师——拒绝模板、跑 57 道 slop 测试，同一 prompt 出的页面结构都不一样。\n\n看这几个例子，哪个像机器吐的？😍\n\n按装一句就行：npx skills add nutlope/hallmark\n\n更多 Live demo 见评论👇 https://t.co/YifDLIJRRX",
+        "likes": 6,
+        "url": "https://x.com/i/status/2081561601896030452"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081561601896030452"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "github_url": "https://github.com/garrytan/gbrain",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "so_sthbryan",
+        "text": "Agent memory is becoming infrastructure, and one open source brain already exists.\n\ngbrain is an opinionated memory and skill system for OpenClaw and Hermes agents:\n* Includes recipes, skills, evaluations, and admin tooling\n* Ships a default embedding and reranking stack\n* Provid",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081446451998310581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081446451998310581"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2081532519200244004",
+      "author": "TeksEdge",
+      "text": "🎟️  Major llama.cpp update! A new update adds native stdio MCP support directly to llama-server! 🎉 Llama.cpp is now an agent harness.\n\nThat means a local GGUF model can now connect to tools for:\n📁 Files and code\n🌐 Web search\n🗄️ Databases\n📅 Calendars\n🏠 Home automation\n💻 Agentic co",
+      "likes": 316,
+      "views": 0,
+      "url": "https://x.com/i/status/2081532519200244004",
+      "is_kol": false,
+      "score": 1223.0
+    },
+    {
+      "id": "2081649597986848792",
+      "author": "Canoragent",
+      "text": "• Canor Agent is reinventing social gaming by launching the first AI persuasion game where players go head to head with agents modeled on real crypto and creator economy figures by negotiating, charming, or hustling them into releasing tokens from a pot that grows with every atte",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2081649597986848792",
+      "is_kol": false,
+      "score": 956.0
+    },
+    {
+      "id": "2081457567968989234",
+      "author": "PawelHuryn",
+      "text": "How to connect Claude to any app (no coding).\n\nFour paths. Start at 3 clicks. Here's which one when:\n\n1. The connector, when it does the whole job.\n→ Go to claude[.]ai/customize/connectors\n→ Add → pick the app → authenticate\n→ Hundreds of apps\n→ Gmail, Calendar, Drive, Notion, Sl",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2081457567968989234",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2081613875523305712",
+      "author": "twetsfyp",
+      "text": "Most MCP setups hand your AI one key to everything and hope nothing goes wrong.\n\nStackJack went the other way. Per-user auth, every tool call logged with who called what and when, nothing stored, and a dry-run mode that actually restricts the agent to read-only at runtime instead",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2081613875523305712",
+      "is_kol": false,
+      "score": 268.0
+    },
+    {
+      "id": "2081461228216487997",
+      "author": "EvanZir",
+      "text": "Roblox, can you please update the MCP Server to allow for multiple Studio windows to be focused at a time?   \n\nI want to be able to do updates to two different places at the same time in different sessions🙏",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2081461228216487997",
+      "is_kol": false,
+      "score": 267.0
+    },
+    {
+      "id": "2081655893427450117",
+      "author": "mattpocockuk",
+      "text": "This is a good post and obviously hits a nerve with folks. I think folks are rightly concerned about 'heaviness' of skills, and I have criticised other skill libraries/frameworks for being too heavy-handed.\n\nMy goal is always to make the skills as light as they can possibly be. N",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2081655893427450117",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2081649512444289433",
+      "author": "qiuqiu232",
+      "text": "Robinhood Chain 进阶版扫链Skill：30秒帮你读懂叙事，从此告别rug盘\n\n现在玩R 链项目，光有叙事审美已经不够了，还要看后端代码，看网站UI，甚至要去链上看智能合约，虽然AI已经能快速梳理答案，但响应速度慢且偶尔会有幻觉。\n\n于是，我专门为扫链小伙伴们（我自己）构建了一个【叙事判断Skill】➡️\n\n当你把CA和官网发给Agent后——\n\n🔎 第一步：先看链上有没有真东西\n\n- CA 是否真的部署在 Robinhood Chain\n- DexScreener 是否有真实交易池\n- 流动性、成交量、买卖笔数是否正常\n- 有没有真实卖出",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2081649512444289433",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2081592896214503428",
+      "author": "witcheer",
+      "text": "every MCP and plugin tool in Hermes Agent now sits behind a single search-and-execute tool\n\nwhat scales with your catalogue is the listing:\n\n- a small server keeps every tool name and description in front of the model\n- a big one gets summarised and searched, instead of charging ",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2081592896214503428",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2081587617917972990",
+      "author": "I_am_oil_oil",
+      "text": "我开源了一个让 AI 写好文案的 Skill：https://t.co/5g6yksvuAi\n\n我平时让 AI 写东西时，最烦的是它总想主动制造“文案感”。尤其是一些编程能力强的模型文案写的一般都比较拉。\n\n比如「主流 AI Coding Agent：先选工作方式」，后半句完全是它自己提炼的。直接写「主流 AI Coding Agent 的工作方式」就够了。\n\n还有「单文件 HTML 的结构：简单，但不随意」，看起来有观点，实际什么也没说。改成「单文件 HTML 的基本结构」反而更自然。\n\n它还喜欢写「先把流程搞顺」「让能力跑起来」「真正重要的是……」，",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2081587617917972990",
+      "is_kol": false,
+      "score": 200.0
+    },
+    {
+      "id": "2081682085035544787",
+      "author": "rimtoln",
+      "text": "NOT BETTER PROMPTS. LANGGRAPH SKILL FOLDERS.\n\nmost builders stuff one mega prompt and pray the agent holds it\nlanggraph turns your skills into nodes not one long prompt\neach skills folder = one edge in your agent graph                                                              ",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2081682085035544787",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2081444145407594743",
+      "author": "0xileri",
+      "text": "you can’t send a verification email to an agent.\n\nthat one line shaped most of what i built this month - @LeapsyAi \n\n-> the problem\n\nsay you think btc is much higher in a year. spot ties your money up for the whole year. perps can liquidate you before your thesis is right or wron",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2081444145407594743",
+      "is_kol": false,
+      "score": 188.0
+    },
+    {
+      "id": "2081453775223726176",
+      "author": "insomnia_vip",
+      "text": "A $20,000 SIDE HUSTLE DOESN'T ALWAYS START WITH A CAMERA IT CAN START WITH ZILLOW\n\nMost listings already have high-quality photos, but many agents still don't have cinematic video walkthroughs because filming them takes time. By connecting Claude to Picsart through MCP, he turned",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2081453775223726176",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2081416757680787555",
+      "author": "pauliusztin_",
+      "text": "Treating every server as a direct dependency is a big mistake for MCP.\n\nI prefer one Global MCP Server that sits in the middle.\n\nThe host simply asks for capabilities like:\n\nReview this PR\nGet the diff\nFetch task context\n\nThe Global Server handles the routing.\n\nSwap GitHub for Gi",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2081416757680787555",
+      "is_kol": false,
+      "score": 139.0
+    },
+    {
+      "id": "2081698913547874395",
+      "author": "slash1sol",
+      "text": "Spent a weekend installing Claude skills off viral lists. The 42-skill ones sorted into departments, the ones doing a million views. Installed most of them.\n\nAlready uninstalled half.\n\nNot because they're bad, but because nobody warns you about the actual problem: more skills mak",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2081698913547874395",
+      "is_kol": false,
+      "score": 127.0
+    },
+    {
+      "id": "2081640576278274237",
+      "author": "MengjieXvivi",
+      "text": "我用掉 100 亿 Token 后，最大的变化不是更会写 Prompt。\n\n而是 Codex 已经从一个聊天框，慢慢变成了我的：\n- 自我认识系统\n- 工作系统\n- 信息系统\n- 学习系统\n- 甚至是桌面陪伴系统\n\n我把自己最常用的 20 个技巧整理出来了。\n\n如果你也想把 AI 从“偶尔问一句”变成真正能长期协作的伙伴，建议先收藏。\n\n一、让 Codex 逐渐认识你\n\n1. 每天让它问你一个问题  \n我设了一个自动化：每天问我一个能帮助它更了解我、也帮助我认识自己的问题。它会避开已经问过的话题，围绕一个主题慢慢聊。\n\n2. 把对话当成自我观察  \n现在",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2081640576278274237",
+      "is_kol": false,
+      "score": 125.0
+    },
+    {
+      "id": "2081504401706135676",
+      "author": "connect24h",
+      "text": "MCPの本番運用、やっと普通のHTTPに戻る。かなり熱い。\n7月28日公開のMCP 2026-07-28はprotocol coreをstateless化し、initializeとMcp-Session-Idを廃止。sticky sessionもshared session storeも不要になり、remote MCPをround-robin load balancerの後ろで素直にhorizontal scalingできる。GitHub MCP Serverは先行対応し、Redisへのinitialize時のwriteと各call時のreadまで消した",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2081504401706135676",
+      "is_kol": false,
+      "score": 124.0
+    },
+    {
+      "id": "2081658689853829427",
+      "author": "0xbobaaa",
+      "text": "13 SKILL FOLDERS FOR CLAUDE THAT ACTUALLY WORK",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2081658689853829427",
+      "is_kol": false,
+      "score": 123.0
+    },
+    {
+      "id": "2081658928186679759",
+      "author": "VK_ROXy",
+      "text": "12 boxes. Prompting to autonomous loops. Your $400 seat just became line-item cosplay.\n\n$200-$500 per seat per month. That's what your team pays for the IDE plus premium copilot plus dashboards to babysit the agents. Before anyone writes a line of code.\n\nVILA-Lab tore open the Cl",
+      "likes": 26,
+      "views": 0,
+      "url": "https://x.com/i/status/2081658928186679759",
+      "is_kol": false,
+      "score": 108.0
+    },
+    {
+      "id": "2081675116493283618",
+      "author": "humzaakhalid",
+      "text": "SOMEONE ON REDDIT JUST EXPOSED THE COMPLETE BLUEPRINT FOR BUILDING AI AGENTS WITH THE RIGHT TOOLS\n\nhe builds AI tools and open-source projects for a living.\ndeleted enough failed experiments to know what survives.\n\nthree tiers. that's the whole thing:\n\n> want an agent running tod",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2081675116493283618",
+      "is_kol": false,
+      "score": 104.0
+    }
+  ]
+}
