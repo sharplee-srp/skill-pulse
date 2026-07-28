@@ -5378,5 +5378,17 @@
   "hayatok/estat-cli": {
     "first_seen": "2026-07-27",
     "tier": 3
+  },
+  "hikarioyama/hikari-knowledge": {
+    "first_seen": "2026-07-28",
+    "tier": 3
+  },
+  "codebruinc/pikasim-mcp": {
+    "first_seen": "2026-07-28",
+    "tier": 3
+  },
+  "sofiia7/arc": {
+    "first_seen": "2026-07-28",
+    "tier": 3
   }
 }

@@ -1,0 +1,366 @@
+{
+  "date": "2026-07-28",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 9,
+    "unique_repos": 8,
+    "new_repos": 3,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "hikarioyama/hikari-knowledge",
+      "github_url": "https://github.com/hikarioyama/hikari-knowledge",
+      "tier": 3,
+      "is_new": true,
+      "score": 206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Hikari_07_jp",
+        "text": "I'm publishing my knowledge graph🔥\nPlease pass the repository URL to the agent.\nYou'll get:\n- Markdown files with mutual links\n- An MCP server for efficient agent connections\n- A Skill for updating and organizing files\nIf you're interested in my work, give it a try. I'll keep add",
+        "likes": 27,
+        "url": "https://x.com/i/status/2082036050348949920"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082036050348949920"
+      ]
+    },
+    {
+      "repo": "codebruinc/pikasim-mcp",
+      "github_url": "https://github.com/codebruinc/pikasim-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PikaSim_esim",
+        "text": "Our AI agent can now buy its own connectivity.  \n\nnpx skills add codebruinc/pikasim-mcp  \n\nOne command and any agent knows how to mint a wallet, fund it in sats, and buy an eSIM, a phone number, or an SMS code. No account. No email. No KYC.  \n\nhttps://t.co/V5yIjurbnz \n\nSignup for",
+        "likes": 2,
+        "url": "https://x.com/i/status/2081944145644700012"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081944145644700012"
+      ]
+    },
+    {
+      "repo": "sofiia7/arc",
+      "github_url": "https://github.com/sofiia7/arc",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SofiiaBorozan",
+        "text": "Your agent can start earning today.\n\nFastest way:\n→ Point any MCP client at our official registry server. Zero code needed.\n\nFor builders:\n→ npm i arcbounty-agent-sdk\n→ npx skills add Sofiia7/ARC\n→ REST API at $0.001/call (if you'd rather not install anything)\n\nRaw keys or Circle",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082062892254601628"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082062892254601628"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 530.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SamiBizConsult",
+        "text": "ظهرت منصة قد تغيّر طريقة استخدام وكلاء الذكاء الاصطناعي.\n\nاسمها Skills .sh.\n\nفكرتها تشبه متجر التطبيقات لكن بدل تنزيل تطبيقات تقوم بتثبيت مهارات تضيف قدرات جديدة لوكيلك.\n\nستجد مهارات مثل:\n\n• تصميم المواقع\n• اختبار الكود وإصلاح الأخطاء\n• التحكم بالمتصفح\n• التعامل مع قواعد البيانات",
+        "likes": 86,
+        "url": "https://x.com/i/status/2081892642422739190"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082050775854002543",
+        "https://x.com/i/status/2081892642422739190"
+      ]
+    },
+    {
+      "repo": "rookie-ricardo/erduo-skills",
+      "github_url": "https://github.com/rookie-ricardo/erduo-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 192.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RookieRicardoR",
+        "text": "新研发了一个画图 Skills： anthropic-style-diagram，能够用 Anthropic / Claude 的视觉语言画技术图、架构图。\n\n安装命令： \n```bash npx skills add rookie-ricardo/erduo-skills --skill anthropic-style-diagram ```  \n\nGitHub: https://t.co/udNBPQXRD5 https://t.co/p7ZL5BeFQ4",
+        "likes": 24,
+        "url": "https://x.com/i/status/2081910006287368294"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081910006287368294"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "github_url": "https://github.com/bradautomates/claude-video",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ashtarey_com",
+        "text": "🔗 رابط المشروع الرسمي:\nhttps://t.co/NZ06hvQRoa\n------------------------------\n💻 طريقة التثبيت على Claude Code:\nاكتب هالأوامر:\n\n/plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video\n\n------------------------------\n⚙️ التثبيت على Cursor أو Codex أو G",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082051423194218651"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082051423194218651"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sumika45379",
+        "text": "入れ方はこの1行だけ。\nnpx skills add Jakubantalik/transitions.dev\n配布元はこちら。CSSとReactのコードもここで見られる。\n\nhttps://t.co/d4iPsvZ5hO\n\nわたしはボタンとモーダルの2箇所だけ先に入れ替えるのが好きで、そこだけで完成度の見え方がかなり変わる。\n動きを揃えるのは、結局Skillに何をどう書かせるかの話で、ここを詰めると仕上がりが変わる。\n\n毎日まわしてるSkill20選の記事を置いておきます👇",
+        "likes": 0,
+        "url": "https://x.com/i/status/2081941477899526372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2081941477899526372"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2081945978182262874",
+      "author": "connect24h",
+      "text": "これ、新卒研修の資料ではない。企業の「セキュア開発標準」を、312枚に落とし込んだ教材である。MIXIが2026年度の新卒向けセキュリティ研修資料を公開。本当にありがたい。\n\n率直に言って、内容がかなり濃い。\n\n「パスワードを使い回さない」「怪しいメールを開かない」といった一般的な啓発資料ではない。\n\n新人エンジニアが、サービスを作る側として何を守り、どこで事故を起こし、どう防御するのかを、実際の開発工程に沿って学ぶ構成である。(Speaker Deck)\n\n研修の射程は非常に広い。\n\n・機密性、完全性、可用性\n・CSIRTへの報告と相談\n・自社サービス",
+      "likes": 835,
+      "views": 0,
+      "url": "https://x.com/i/status/2081945978182262874",
+      "is_kol": false,
+      "score": 3060.0
+    },
+    {
+      "id": "2082028549125624164",
+      "author": "mattpocockuk",
+      "text": "Finally, my skills are available as a Claude Code plugin!\n\nclaude plugins install mattpocock-skills\n\nThis means:\n\n- No more manually syncing updates\n- Aliases: mattpocock:code-review means no clashes with Claude built-ins\n\nPerfect for folks tired of tinkering. Install once, never",
+      "likes": 844,
+      "views": 0,
+      "url": "https://x.com/i/status/2082028549125624164",
+      "is_kol": false,
+      "score": 2757.0
+    },
+    {
+      "id": "2081877301894025717",
+      "author": "codyschneider",
+      "text": "GTM engineering today \n\nfind all of your competitors Facebook ad libraries \n\nand then use the apify API to extract all of their creative\n\ntake all of these and use gemini to write descriptions about the images and the videos\n\nspecifically focusing on the angles, the promises and ",
+      "likes": 411,
+      "views": 0,
+      "url": "https://x.com/i/status/2081877301894025717",
+      "is_kol": false,
+      "score": 1308.0
+    },
+    {
+      "id": "2081754611384217704",
+      "author": "unitygames",
+      "text": "You asked, we listened 😉\n\nICYMI: At Unite Seoul last week, we announced that MCP server is now free and there are no longer any limits to concurrency on the MCP server. https://t.co/wNLp4gAxPJ",
+      "likes": 305,
+      "views": 0,
+      "url": "https://x.com/i/status/2081754611384217704",
+      "is_kol": false,
+      "score": 990.0
+    },
+    {
+      "id": "2081772858318197178",
+      "author": "lennysan",
+      "text": "My biggest takeaways from @AnthropicAI's Head of Product for AI research and Labs, Dianne Penn:\n\n1. You need frontier products to feel frontier models. Opus 4.5 wouldn’t have had its breakout moment without a vehicle like Claude Code—and Claude Code wouldn’t have seen that accele",
+      "likes": 220,
+      "views": 0,
+      "url": "https://x.com/i/status/2081772858318197178",
+      "is_kol": false,
+      "score": 830.0
+    },
+    {
+      "id": "2081756500931022971",
+      "author": "DfinityToday",
+      "text": "$ICP Key Events Last Week:\n\n1. Dominic Williams previewed \"Open SaaS\" suite coming to Cloud Engines\n\n2. MULTI/DEX Season I ending set for July 31st with major trader prizes\n\n3. @LiquidiumFi enabled ICP and ckAssets in @oisy Wallet\n\n4. $1M in ICP supplied on @LiquidiumFi, flipping",
+      "likes": 167,
+      "views": 0,
+      "url": "https://x.com/i/status/2081756500931022971",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2081730575367618591",
+      "author": "DamiDefi",
+      "text": "Google built its own AI agent framework to compete with Claude. Its own tool-connection tutorial runs through Anthropic's protocol, not something proprietary.\n\nBuild one MCP server and it already works in both, no rewrite needed when you switch frameworks.\n\nThe build in this walk",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2081730575367618591",
+      "is_kol": false,
+      "score": 616.0
+    },
+    {
+      "id": "2081791559801205061",
+      "author": "RobinHubHB",
+      "text": "🪶 Robinhood Weekly Recap\n\nwhat happened on Robinhood Chain this week\n\nNews\n\n- Robinhood Chain reached $315M DeFi TVL.\n\n- Trading bots generated $155M volume in 24h.\n\n- Stablecoin supply crossed $400M, up 340% since early July.\n\n- Robinhood generated $350K in network fees in 24h, ",
+      "likes": 158,
+      "views": 0,
+      "url": "https://x.com/i/status/2081791559801205061",
+      "is_kol": false,
+      "score": 604.0
+    },
+    {
+      "id": "2081937949013217534",
+      "author": "dotey",
+      "text": "一个暑假，我侄子用两个 Skill 搞明白了 Agent 最难的部分",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2081937949013217534",
+      "is_kol": false,
+      "score": 501.0
+    },
+    {
+      "id": "2081753784045212000",
+      "author": "SantiTorAI",
+      "text": "CURSO COMPLETO DE HERMES AGENT EN 3 HORAS: MONTARLO Y VENDERLO (2026)\n\n2:44 Qué es realmente Hermes Agent\n3:25 Hermes vs OpenClaw: Auto-mejora y gestión de memoria\n5:26 Modelo vs entorno agéntico (la analogía del coche)\n7:06 Lo bueno, lo malo y lo feo\n8:36 CONFIGURACIÓN COMPLETA ",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2081753784045212000",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2082040527919394874",
+      "author": "BSCNews",
+      "text": "Internet Computer Hits New Milestones Across AI DeFi And Performance\n\nInternet Computer capped a busy week with major updates across AI, DeFi, and network performance.\n\nDFINITY (@dfinity) previewed an MCP server to power real time AI applications, while Dominic Williams (@dominic",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2082040527919394874",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2081971662925242428",
+      "author": "RoundtableSpace",
+      "text": "HOW TO RUN YOUR ENTIRE WORKDAY ON AI LOOPS INSTEAD OF REPEATING PROMPTS:\n\n📁 loop-engineering\n┃\n┣📁 Contract\n┃ ┣📁 /claude-md\n┃ ┣📁 /house-rules\n┃ ┣📁 /tone-and-scope\n┃ ┗📁 /stop-conditions\n┃\n┣📁 Loop Types\n┃ ┣📁 /turn-based\n┃ ┣📁 /goal-based\n┃ ┣📁 /time-based\n┃ ┣📁 /proactive\n┃ ┗📁 /auto-mo",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2081971662925242428",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2081944669387137257",
+      "author": "cyrilXBT",
+      "text": "SOMEONE BUILT AN MCP THAT COPIES ANY WEBSITE'S DESIGN INTO YOUR OWN PROJECT.\n\nPoint it at a URL. It fetches the HTML and CSS, extracts the color palette, typography, spacing tokens, even border radius and shadows, and applies it directly to your codebase.\n\nNo screenshots. No manu",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2081944669387137257",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2082016458239050074",
+      "author": "neil_xbt",
+      "text": "When a lab with the resources to build its own standard chooses to build on someone else's instead, the argument over which protocol wins is already settled!\n\nGoogle built an entire competing agent framework to challenge Claude's space, the Agent Development Kit, and spent that e",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2082016458239050074",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2081728173989838988",
+      "author": "AmirAnonn",
+      "text": "ستاپ اولیه خیلی راحته ولی چون گفته بودید، کامل توضیح میدم بعلاوه چند تا نکته که تو پروسه یاد گرفتم!\n\nاول باید belnder رو نصب کنید و با ابزار mcp رسمی وصلش کنید به coding agent خودتون و بهترین راه اینه که از خود ایجنت بخواید که براتون نصبش کنه:\nhttps://t.co/SJcOyrJISk\n\nمن برای این",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2081728173989838988",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2082001862178255071",
+      "author": "RoundtableSpace",
+      "text": "YOU INSTALLED CLAUDE CODE AND STOPPED THERE.\n\nHERE ARE 22 SKILLS ACTUALLY WORTH ADDING:\n\nBUILD\n\n1. superpowers — plans and debugs before writing\n   https://t.co/KmQXWSKn20\n\n2. gstack — 23 skills in one setup\n   https://t.co/VwLP1EgOkN\n\n3. caveman — direct answers with no padding\n",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2082001862178255071",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2081856788119363984",
+      "author": "slash1sol",
+      "text": "Barry Zhang and Mahesh Murag, the two Anthropic engineers who built Claude's Skills system, walked on stage and told a room of AI engineers to stop building agents entirely:\n\n· 0:25 - Their new thesis in four words: code is all we need\n· 1:26 - The tax question that explains why ",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2081856788119363984",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2082046370744353009",
+      "author": "1005Alok85200",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.      \n\nSpend 1 hour with this.          \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.         \n\nThe people who watch this tonight will wake up tomorrow with a new skill.        \n\nWatch it and bookmark it now http",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2082046370744353009",
+      "is_kol": false,
+      "score": 195.0
+    }
+  ]
+}
