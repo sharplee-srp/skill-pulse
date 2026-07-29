@@ -5390,5 +5390,37 @@
   "sofiia7/arc": {
     "first_seen": "2026-07-28",
     "tier": 3
+  },
+  "42-evey/hermes-plugins": {
+    "first_seen": "2026-07-29",
+    "tier": 2
+  },
+  "lissy93/bug-bounties": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "yuwen-cool/ywcrew": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "hissfinance/hiss": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "stewartcelani/skills": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "deepfakes/faceswap": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "img2threejs/img2threejs": {
+    "first_seen": "2026-07-29",
+    "tier": 3
+  },
+  "ifeanyilucky/bachs-skills": {
+    "first_seen": "2026-07-29",
+    "tier": 3
   }
 }

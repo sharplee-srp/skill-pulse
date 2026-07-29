@@ -1,0 +1,522 @@
+{
+  "date": "2026-07-29",
+  "stats": {
+    "total_fetched": 345,
+    "unique_tweets": 154,
+    "tweets_with_repos": 15,
+    "unique_repos": 15,
+    "new_repos": 8,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "42-evey/hermes-plugins",
+      "github_url": "https://github.com/42-evey/hermes-plugins",
+      "tier": 2,
+      "is_new": true,
+      "score": 575.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 125,
+      "total_retweets": 20,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "Hermes 又出现炸裂的插件了🔥\n\n全网玩家把 Hermes 玩成了下一代「目标驱动团队 + 技能自动工厂 + 多 Agent 编排 + 集体进化大脑 + 成本守护者」：\n\n1️⃣ 42-evey/hermes-plugins\n\nhttps://t.co/YRVhhq2aWC\n\n目标管理 + 跨 Agent 桥接 + 模型智能选择 + 成本实时风控。\n“终于有人把 Hermes 当真正团队来管了”！\n\n2️⃣ Romanescu11/hermes-skill-factory\n\nhttps://t.co/EwNBXVsHuN\n\n盯着你真实工作流，自动把“",
+        "likes": 125,
+        "url": "https://x.com/i/status/2082256080965697961"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082256080965697961"
+      ]
+    },
+    {
+      "repo": "lissy93/bug-bounties",
+      "github_url": "https://github.com/lissy93/bug-bounties",
+      "tier": 3,
+      "is_new": true,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VivekIntel",
+        "text": "Bug Bounties — Unified Vulnerability Disclosure Directory 💥💀\n\nA centralized directory of public vulnerability disclosure and bug bounty programs with API, MCP, and web access for security research workflows.\n\n✨ Features:\n• Aggregated listings from major bug bounty platforms\n• Cur",
+        "likes": 36,
+        "url": "https://x.com/i/status/2082348212040728911"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082348212040728911"
+      ]
+    },
+    {
+      "repo": "yuwen-cool/ywcrew",
+      "github_url": "https://github.com/yuwen-cool/ywcrew",
+      "tier": 3,
+      "is_new": true,
+      "score": 154.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gkxspace",
+        "text": "用 Cursor 的子 agent 爽飞了，感觉这就是我一直想要的功能！！！\n\n然后我就想，我 Codex、Grok、Kimi、Claude...... 订阅都付着呢，为什么不能按照这个思路在任何工具里随时调度？\n\n于是写了个 Skill 叫 ywcrew，你在任何一个 AI 工具里说一句话，它就在后台拉起你本地订阅的其他模型去干活。\nClaude / Codex / Grok / Kimi / Antigravity 目前都支持。\n\n想用谁就调谁，偏好设一次后面自动走(模型选择、思考强度、个人偏好等)，也不用每次指定。\n\n细节上还是扣得比较认真的：\n1",
+        "likes": 18,
+        "url": "https://x.com/i/status/2082406616968638871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082406616968638871"
+      ]
+    },
+    {
+      "repo": "hissfinance/hiss",
+      "github_url": "https://github.com/hissfinance/hiss",
+      "tier": 3,
+      "is_new": true,
+      "score": 134.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HissFinance",
+        "text": "npx skills add HissFinance/hiss --all\n\nhttps://t.co/aCpc0GzKe2",
+        "likes": 8,
+        "url": "https://x.com/i/status/2082162164916527441"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082162164916527441"
+      ]
+    },
+    {
+      "repo": "stewartcelani/skills",
+      "github_url": "https://github.com/stewartcelani/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "stewartcelani",
+        "text": "You really don't need a complicated /loop.\n\nHave Fable set itself a monitor + a backup wake-up cron in an environment such as tmux/herdr where it can interact with, supervise and spawn other agents and have it work through a spec/plan overnight. \n\nSimple.\n\nnpx skills add stewartc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2082420274230596014"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082420274230596014"
+      ]
+    },
+    {
+      "repo": "deepfakes/faceswap",
+      "github_url": "https://github.com/deepfakes/faceswap",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Skill pick: Faceswap\n\nDeepfakes Software For All\n\n55.3K GitHub stars - ml-automation\nInstall: npx skills add deepfakes/faceswap\n\nhttps://t.co/XjUVJdFTO5\n\n#AIAgents #AgentSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082164370574802986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082164370574802986"
+      ]
+    },
+    {
+      "repo": "img2threejs/img2threejs",
+      "github_url": "https://github.com/img2threejs/img2threejs",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aehyok",
+        "text": "图生3D，提供一张图，就能给你带来一个能跑能动的3D世界。开源仅仅一周多，这个Skill 就马上就要万星了（7.8Kstar）。\n\n上手成本极低，完全不用懂代码，只需要在  Claude Code、Codex、Grok  这类 AI 编程助手之上，上传一张图片，然后用 Agent 的视觉能力分析这张图片，再用这个Skill 来生成一段代码，其实就是生成一个可以直接预览的网页。\n\n开源项目地址：https://t.co/WEU3AXmEZX\n\n具体用法可以去引用帖子查看",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082427468611498204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082427468611498204"
+      ]
+    },
+    {
+      "repo": "ifeanyilucky/bachs-skills",
+      "github_url": "https://github.com/ifeanyilucky/bachs-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IfeanyiLucas",
+        "text": "Was integrating @bachs_hq into a project today and realized there wasn't a ready-to-use skill for it. Ended up building one. If you're using Codex or Claude Code, feel free to use it.\n\nhttps://t.co/WWfQOuhvDs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082397108473069978"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082397108473069978"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 377.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HyperFrames_",
+        "text": "You can now just ask for the grade instead of dragging every slider yourself.\n\nWheels, curves, every control, then videotape, pixelate, ascii, cross hatch, or bring your own look pack. What you preview is what renders.\n\nnpx skills add heygen-com/hyperframes --full-depth https://t",
+        "likes": 84,
+        "url": "https://x.com/i/status/2082158876133384505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082158876133384505"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v1.18.9 released. TL;DR: MCP 1.x compatibility returns; App navigation and project reordering are more stable; model settings gain persistent collapsible providers.\n\n𝗔𝗽𝗽\nAdded\n• Added collapsible provider groups to model settings, persisted per server; searches temporari",
+        "likes": 26,
+        "url": "https://x.com/i/status/2082169824453759484"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082169824453759484"
+      ]
+    },
+    {
+      "repo": "scayver/marketing-skills",
+      "github_url": "https://github.com/scayver/marketing-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DorcelusAlain",
+        "text": "Marketing Skills OS just got much bigger.\n\nIt is now an open skill library for AI coding agents with:\n\n71 marketing and growth skills.\n\n347 tool integrations.\n\n62 JavaScript CLI tools.\n\nThe library gives your coding agent structured workflows for SEO, CRO, email, social, PR, loca",
+        "likes": 3,
+        "url": "https://x.com/i/status/2082137930005397591"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082137930005397591"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chen_andre71132",
+        "text": "Vibe Coding 用户狂喜：\n\n别再急着给 AI 换更贵的模型。\n\n你的 AI 缺的可能不是智商，而是工程纪律。\n\n这个接近 8 万 Star 的开源项目，给 Claude Code、Codex、Cursor 等编程 Agent 装上了 24 套生产级工程 Skills。\n\n项目叫 Agent Skills。\n\n它不会替换底层模型，而是把资深工程师的软件开发流程，变成 AI 必须遵守的执行规范：\n\n需求定义 → 技术规划 → 增量开发 → 测试验证 → 代码审查 → 安全部署\n\n对应 8 个命令：\n\n/spec：先明确需求，禁止上来就写代码\n/pl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082262634762760197"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082262634762760197"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thedoomguy_ai",
+        "text": "33 transições de UI prontas pra produção. CSS, React, e um comando pra instalar como skill no Claude, Cursor ou Codex. npx skills add jakubantalik/transitions.dev. Menos gambiarra, mais entrega. https://t.co/IvApEYJ1Yn",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082141769504821551"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082141769504821551"
+      ]
+    },
+    {
+      "repo": "hkuds/openspace",
+      "github_url": "https://github.com/hkuds/openspace",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "N0V4Dev",
+        "text": "OpenSpace acts as a skill management layer for AI agents built on Python 3.12+. It handles the full lifecycle of agent capabilities by focusing on retrieval and evaluation. Instead of hardcoding everything, it helps agents find the right tool for a specific task based on actual p",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082405944722411659"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082405944722411659"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2082236605889442109",
+      "author": "startupideaspod",
+      "text": "Buzz is Slack where the agents are teammates instead of integrations.\n\nHere's what that unlocks:\n\nAgents:\n- The ones you start with are just defaults\n- Edit them, add your own, write their instructions like a system prompt\n\nSwappable Harness:\n- This is the killer feature\n- Swap C",
+      "likes": 267,
+      "views": 0,
+      "url": "https://x.com/i/status/2082236605889442109",
+      "is_kol": false,
+      "score": 906.0
+    },
+    {
+      "id": "2082281547080872347",
+      "author": "vista8",
+      "text": "著名开源画布tldraw出了离线版App，且自带Agent Skill。\n\n这样就能用Claude 或Codex直接帮你用tldraw画图。\n\n甚至支持脚本，扩展性超级强，比如让它画图讲解勾股定理。\n\nApp安装后，Skill安装菜单：\nDevelop-&gt;Install Agent Skills\n\n正在探索如何让它直接生成手绘知识讲解演示视频。\n\n下载地址见评论区 https://t.co/I3Jzvil5HK",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2082281547080872347",
+      "is_kol": false,
+      "score": 723.0
+    },
+    {
+      "id": "2082281430206276095",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.146.0 is out!\n\nHighlights:\n- Name sessions with /new or /clear, pin threads, and keep side conversations open when switching\n- Agent Plugin manifests supported, with workspace plugin publishing and new marketplaces for Amazon Bedrock and Claude Code\n- App-server can c",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2082281430206276095",
+      "is_kol": false,
+      "score": 681.0
+    },
+    {
+      "id": "2082214595989782978",
+      "author": "undefinedKi",
+      "text": "Anthropic just released the biggest MCP update yet. Here is what your agents can do now\n\nMCP is the standard that lets a model use tools it does not own. Instead of writing a wrapper for every service, you connect a server once and the tool becomes something the agent can operate",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2082214595989782978",
+      "is_kol": false,
+      "score": 664.0
+    },
+    {
+      "id": "2082278357270687891",
+      "author": "XFreeze",
+      "text": "Another massive Grok Build update just landed, bringing developers more control over MCP servers, lightning-fast cold starts, smarter loop recovery, support for the new SuperGrok Plus tier, and major performance gains for large sessions\n\nRelease Notes: v0.2.113\n\nFeatures:\n• MCP s",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2082278357270687891",
+      "is_kol": false,
+      "score": 598.0
+    },
+    {
+      "id": "2082242761449689334",
+      "author": "dotey",
+      "text": "【少数通用 Agent 通吃】\n不只是通用的吃掉垂直的，通用 Agent 本身也是少数赢家通吃，小的通用 Agent 也没有生存空间。\n\n【基于 Agent 的插件系统至关重要】\n开放和封闭的差别，不在于是不是开源，也不在于能不能自由换模型，而是它的插件生态，就像最受欢迎的 Claude Code 和 Codex，默认都是自家模型，但是没多大影响，何况也都支持你用 API。\n\n现在 Agent 能火爆的原因之一是因为丰富的插件（Skill + MCP）生态，可以帮助完成任务。\n\n【前期的 Agent 更多是在教育用户】\n\n下沉和傲慢是很主观的，Workb",
+      "likes": 148,
+      "views": 0,
+      "url": "https://x.com/i/status/2082242761449689334",
+      "is_kol": false,
+      "score": 519.0
+    },
+    {
+      "id": "2082398498755162397",
+      "author": "0xRiRoyal",
+      "text": "Have a Good day,\n\nThe next AI breakthrough may not be a smarter model.\n\nIt may be an agent that can learn new jobs without waiting for its developer.\n\nThat is why ARC terminals Skills layer matters.\n\n@TheARCTERMINAL lets users equip ANIMA with ready made skills or build their own",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2082398498755162397",
+      "is_kol": false,
+      "score": 460.0
+    },
+    {
+      "id": "2082326502268342546",
+      "author": "Okada_DeFi0x",
+      "text": "Robinhood Chain is moving much faster than I expected\n\nThe network is no longer growing around a single narrative. DeFi liquidity, tokenized stocks, trading agents, prediction markets, and wallet infrastructure are all expanding at the same time.\n\nHere is what is happening across",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2082326502268342546",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2082264296801607959",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.113! 🚀\n\nChangelog v0.2.113\n\nFeatures:\n• MCP servers can now be enabled or disabled directly from the CLI with `grok mcp enable <name>` and `grok mcp disable <name>`.\n• Full plan markdown can now be copied to the clipboard with `y` durin",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2082264296801607959",
+      "is_kol": false,
+      "score": 335.0
+    },
+    {
+      "id": "2082254300542312957",
+      "author": "chen_andre71132",
+      "text": "被AI短剧“抽卡”折磨的人狂喜：我把 GPT Image 2 和 Seedance 2.0 塞进 Flova Skill，终于能一键稳定出片了。\n\n以前用AI做短剧，最痛苦的不是不会生成，而是：\n\n人物反复变脸、镜头风格漂移、提示词不断重写，一段画面不满意就要重新抽卡。\n\n这次我把整套流程封装成了两个 Skill：\n\n1️⃣ 短剧拆解 Skill\n\n把参考视频交给它，自动提取：\n\n✅ 镜头构图\n✅ 拍摄参数\n✅ 运镜方式\n✅ 生图提示词\n✅ 视频关键帧\n✅ 角色动作与情绪\n\n参考片里的创作方法，几乎可以完整拆解出来。\n\n2️⃣ 短剧制作 Skill\n\n把",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2082254300542312957",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2082233613605831112",
+      "author": "nichxbt",
+      "text": "Long before the OpenAI Select Partner announcement, before the free 3D Studio connector went live inside ChatGPT, and before any of the larger logos ever appeared next to our name, there was a quiet, stubborn community that simply refused to accept that artificial intelligence sh",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2082233613605831112",
+      "is_kol": false,
+      "score": 329.0
+    },
+    {
+      "id": "2082302037509964082",
+      "author": "devXritesh",
+      "text": "Want to become an AI Full-Stack Developer?\n\nHere's a 12-week roadmap:\n\nWeek 1: JavaScript + TypeScript fundamentals\nWeek 2: React + Tailwind CSS\nWeek 3: Next.js + Routing + SSR\nWeek 4: Node.js + Express + REST APIs\nWeek 5: PostgreSQL + Prisma + SQL\nWeek 6: Authentication (JWT/OAu",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2082302037509964082",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2082338808042062080",
+      "author": "promptparag",
+      "text": "The biggest AI skill in 2026 won’t be prompt engineering.\n\nIt’ll be designing the system around the model.\n\nThis diagram perfectly shows the evolution:\n\n🔹 Prompt Engineering\n→ Better instructions\n\n🔹 Context Engineering\n→ Better information flow\n\n🔹 Harness Engineering\n→ Better aut",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2082338808042062080",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2082308305989308732",
+      "author": "trevin",
+      "text": "MCP was all the rage until it wasn’t. It felt so janky and clumsy at times: Stateful sessions made scale harder, auth was messy, and too much lived in the core.\n\nThe new spec describes a whack of upgrades: stateless requests, stricter OAuth, cacheable tool lists, and optional ext",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2082308305989308732",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2082271681381634291",
+      "author": "Prince1253432",
+      "text": "R.I.P. guessing which AI tool to use for marketing. Claude is your free marketing team now.\n\nI compiled every agent, every skill, and every prompt we use to run competitive intelligence, reporting, content, and outreach into one playbook. https://t.co/OKQjbOosgU",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2082271681381634291",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2082216771264930232",
+      "author": "rohanpaul_ai",
+      "text": "Some good development on the MCP side from Anthropic. \n\nThey are turning MCP from a session-heavy connection into a simpler request-based protocol that fits normal cloud infrastructure.\n\ni.e. MCP’s official core now moves from ongoing stateful sessions (where MCP server had to re",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2082216771264930232",
+      "is_kol": true,
+      "score": 210.0
+    },
+    {
+      "id": "2082361627282940409",
+      "author": "elayadesigns",
+      "text": "My Landing page design skill, open source \nintake, structure, copy, and a full visual system in one file, for Claude Code, Cursor, and Codex. \n\nhttps://t.co/K1PrFSRr87",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2082361627282940409",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2082193808108986505",
+      "author": "_avichawla",
+      "text": "AI engineers are going to love this!\n\nI built a @huggingface fine-tuning studio that lets you fine-tune any LLM directly from Claude.\n\nThe app connects to the HF Hub for model and dataset search. It handles chat template formatting for the training data, and lets you configure Lo",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2082193808108986505",
+      "is_kol": false,
+      "score": 166.0
+    },
+    {
+      "id": "2082286367581630625",
+      "author": "mr_r0b0t",
+      "text": "if you have a @NousResearch Hermes Agent, definitely check out the tldraw skill!",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2082286367581630625",
+      "is_kol": false,
+      "score": 160.0
+    }
+  ]
+}
