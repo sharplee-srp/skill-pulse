@@ -1,0 +1,575 @@
+{
+  "date": "2026-07-30",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 156,
+    "tweets_with_repos": 17,
+    "unique_repos": 18,
+    "new_repos": 10,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "arsalang75523/contextkit",
+      "github_url": "https://github.com/arsalang75523/contextkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 125.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ArsalanG75523",
+        "text": "ContextKit’s verified AI Skill Marketplace is now LIVE.\n\nConnect ContextKit MCP to Claude Code, Codex, OpenCode, Hermes, Bankr or OpenClaw and turn successful agent work into complete, reusable skill repositories.\n\nContextKit can:\n\n• Capture proven work directly from your IDE age",
+        "likes": 5,
+        "url": "https://x.com/i/status/2082759448892698928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082759448892698928"
+      ]
+    },
+    {
+      "repo": "degenstar/skillspector",
+      "github_url": "https://github.com/degenstar/skillspector",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CryptoStar210",
+        "text": "哈哈，家人们谁懂啊！大家最近是不是都在给自己的 Claude Code、Codex、Openclaw、Hermes 或者各种 MCP 插件疯狂“叠 Buff”，拼命塞第三方“Skills（技能包）”？\n\n🚨但最新研究数据出来直接让人破防：高达 26.1% 的 Agent 技能带有安全漏洞，5.2% 甚至是赤裸裸的“黑客卧底”！\n\n你以为你养的是贴心全能的 AI 小秘书，实际上：\n\n🟤注入一点提示词，它就倒戈相向；\n🟤顺手搬空你的敏感数据，上演“大泄特泄”；\n🟤顺带搞一手供应链投毒，直接把你的系统玩穿！\n\n好家伙，在 AI 时代裸奔了这么久，咱是不是该把这",
+        "likes": 3,
+        "url": "https://x.com/i/status/2082360734714073269"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082360734714073269"
+      ]
+    },
+    {
+      "repo": "shengshu-ai/vidu-skills",
+      "github_url": "https://github.com/shengshu-ai/vidu-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smoermeow",
+        "text": "Quick tutorial: How to use Vidu Omni Pro through the Vidu CLI\n\nA lot of people are asking about the Vidu Omni Pro Model. \n\nYou can use Vidu Omni Pro directly through the official Vidu CLI with Claude Code, Hermes, Codex or another coding agent.\n\nIt uses your normal Vidu account, ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2082782827595149508"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082782827595149508"
+      ]
+    },
+    {
+      "repo": "peterfriese/stratos",
+      "github_url": "https://github.com/peterfriese/stratos",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "peterfriese",
+        "text": "🚀 Teach your AI coding assistant (Claude, Cursor, Gemini) how to design clean Swift &amp; SwiftUI APIs with Stratos!\n\nStratos encodes Progressive Disclosure to keep your APIs intuitive yet fully scalable.\n\nnpx skills add peterfriese/Stratos\n\nhttps://t.co/TaOboaiM0p #AI",
+        "likes": 2,
+        "url": "https://x.com/i/status/2082760614347411661"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082760614347411661"
+      ]
+    },
+    {
+      "repo": "yc/apology-tweet",
+      "github_url": "https://github.com/yc/apology-tweet",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "smakosh",
+        "text": "npx skills add yc/apology-tweet",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082720125132677601"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082720125132677601"
+      ]
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "github_url": "https://github.com/earthtojake/text-to-cad",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chen_andre71132",
+        "text": "CAD 建模圈狂喜：\n\n不会画工程图，也能用一句话让 AI 开始建零件了。\n\n这个开源项目叫 text-to-cad，GitHub 已突破 11.9K Star。\n\n它把 CAD 工作流封装成 Agent Skills，直接告诉 Codex 或 Claude Code：\n\n创建一个 100×60×20mm 的零件，四角开孔，顶部倒角 2mm。\n\nAI 就能自动编写参数化建模代码，并生成可继续修改的 CAD 模型。\n\n功能非常硬核：\n\n✅ 自然语言生成参数化零件\n✅ 支持尺寸、孔位、倒角和结构调整\n✅ 导出 STEP、STL、3MF、DXF、GLB\n✅ 支",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082704572255289402"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082704572255289402"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-seo-geo-agent",
+      "github_url": "https://github.com/gingiris-1031/gingiris-seo-geo-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "👇 两个 skill 直接装：\nnpx skills add Gingiris-1031/gingiris-twitter-agent-ops\nnpx skills add Gingiris-1031/gingiris-seo-geo-agent\n\n所有 skill 合集 → https://t.co/60zdKJriZx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082680408106492152"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082680408106492152"
+      ]
+    },
+    {
+      "repo": "feichuans/skills",
+      "github_url": "https://github.com/feichuans/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Feichuans",
+        "text": "npx skills add feichuans/skills@clarify-my-point -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082667442447564827"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082667442447564827"
+      ]
+    },
+    {
+      "repo": "koahlabs/skills",
+      "github_url": "https://github.com/koahlabs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "guard_if",
+        "text": "npx skills add koahlabs/skills --skill hdr-logo\n\ntry it yourself",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082564939818860810"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082564939818860810"
+      ]
+    },
+    {
+      "repo": "scrimshawlife-ctrl/neon-genie-hermes",
+      "github_url": "https://github.com/scrimshawlife-ctrl/neon-genie-hermes",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AALM1tch",
+        "text": "Neon Genie Hermes v3.1.0 is live. Governed Hermes skill that turns weak signals, blocked transitions, and half-formed products into evidence-bound, externally testable opportunity systems. Will handoff to Wayfinder. Being adapted for OpenClaw as we speak.\n\nhttps://t.co/h4xArnBXd2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082498068042416463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082498068042416463"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 24,
+        "url": "https://x.com/i/status/2082766313689420282"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082766313689420282"
+      ]
+    },
+    {
+      "repo": "celo-org/celopedia-skills",
+      "github_url": "https://github.com/celo-org/celopedia-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CeloDevs",
+        "text": "Install Celopedia now: npx skills add celo-org/celopedia-skills\n\nOnce installed, you are good to go! You can start asking questions inside your coding assistant 🤩\nhttps://t.co/hVw1dPDRTB",
+        "likes": 5,
+        "url": "https://x.com/i/status/2082541696357908568"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082541696357908568"
+      ]
+    },
+    {
+      "repo": "aiming-lab/metaclaw",
+      "github_url": "https://github.com/aiming-lab/metaclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QCXINT_",
+        "text": "🚨 Someone just open-sourced a self-improving wrapper for OpenClaw. 🤯\n\nMeet MetaClaw—an open-source framework that helps OpenClaw learn from real user interactions instead of relying on manual fine-tuning.\n\nInstead of waiting for a data pipeline or retraining cycle, it continuousl",
+        "likes": 3,
+        "url": "https://x.com/i/status/2082393366978007354"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082393366978007354"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shunsuke1226_ai",
+        "text": "【補足】朝の agent-skills、Claude Code 以外でも使えます。\n\nnpx skills add addyosmani/agent-skills\n\nこれ1本で Cursor・Codex・Copilot など70以上のツールに入ります。--list を付ければ、入れる前に中身を見られます。\n\nもう1つ。朝の marketplace add だけでは導入が終わりません。続けて /plugin install agent-skills@addy-agent-skills が必要です。\n\nここで Permission denied (publi",
+        "likes": 2,
+        "url": "https://x.com/i/status/2082707801239941339"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082707801239941339"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "addsumtech/slides_maker",
+      "github_url": "https://github.com/addsumtech/slides_maker",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xiaomanotes",
+        "text": "slide-maker 又更新了，这次主要做了三件事：进一步降低 token 消耗、提升 Codex 生成稳定性、模板从 8 套增加到 12 套。\n\n有用户问我：用这个 Skill 做一份 PPT，费不费 token？我之前的回答是，我们主要靠代码省 token。文字跑出框、元素互相遮挡这类问题，会先由程序自动检查和定位，再交给模型定点修改，不需要从头检查整份 PPT。这次，我们又减少了 AI 检查 PPT 时需要读取的内容。一次对照测试中，token 消耗降低了 27%，原来能发现的问题一个也没漏。\n\nCodex 的生成效果也优化了。现在用 Codex",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082776946728182033"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082776946728182033"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/gingiris-twitter-agent-ops",
+      "github_url": "https://github.com/gingiris-1031/gingiris-twitter-agent-ops",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "👇 两个 skill 直接装：\nnpx skills add Gingiris-1031/gingiris-twitter-agent-ops\nnpx skills add Gingiris-1031/gingiris-seo-geo-agent\n\n所有 skill 合集 → https://t.co/60zdKJriZx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082680408106492152"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082680408106492152"
+      ]
+    },
+    {
+      "repo": "openclaw/agent-skills",
+      "github_url": "https://github.com/openclaw/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Bojan_Ivanac",
+        "text": "@SamuelBeek Just run @coderabbitai &amp; this skill on each PR https://t.co/LVepKdN6nO\n\n&amp; ship straight to prod.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082456171806355635"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082456171806355635"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2082640036949008570",
+      "author": "satyanadella",
+      "text": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings call.\n\nI took the PDF that Brian Nowak at Morgan Stanley put together for Hyperscale ROIC this week and used Copilot code (coming in our new superapp) with a single prompt + skill (/",
+      "likes": 2366,
+      "views": 0,
+      "url": "https://x.com/i/status/2082640036949008570",
+      "is_kol": false,
+      "score": 8288.0
+    },
+    {
+      "id": "2082531480559898727",
+      "author": "CrypSaf",
+      "text": "Paybox Revoke Checklist 📄\n\n1. Remove PayBox from Claude\n- Open Claude → Customize → Connectors\n- Find the PayBox custom connector\n- Click Disconnect, Remove, or the three dots → Remove\n\n2. Remove PayBox from ChatGPT\n- Open the ChatGPT account you used\n- Go to Settings → Apps/Plug",
+      "likes": 1313,
+      "views": 0,
+      "url": "https://x.com/i/status/2082531480559898727",
+      "is_kol": false,
+      "score": 4994.0
+    },
+    {
+      "id": "2082567748391969051",
+      "author": "neerajprasad",
+      "text": "PayBox is non-custodial wallet embedded directly within Claude. \n\nHistorically, this has been difficult because there has been no way to prevent some centralized party - claude, paybox, etc. - from accessing the key.\n\nWe utilize an embedded iframe directly within the Claude/ChatG",
+      "likes": 394,
+      "views": 0,
+      "url": "https://x.com/i/status/2082567748391969051",
+      "is_kol": false,
+      "score": 1392.0
+    },
+    {
+      "id": "2082582856182989263",
+      "author": "Voxyz_ai",
+      "text": "openai just published the five rules that keep their own agent harness cheap:\n\n- deferred discovery: mcp tools, skills and plugins don't all load at the start. the model only sees them when they're needed\n- tool output is capped at 10,000 tokens by default. the model has to ask f",
+      "likes": 376,
+      "views": 0,
+      "url": "https://x.com/i/status/2082582856182989263",
+      "is_kol": false,
+      "score": 1203.0
+    },
+    {
+      "id": "2082669797456720153",
+      "author": "DavidFeder",
+      "text": "PulseChain agent wallets are live.\n\nI open-sourced an MCP server that gives your preferred AI agent their own encrypted wallet on PulseChain.\n\nAgents can:\n• create a wallet\n• check balances\n• send/recieve PLS and other coins\n• make swaps on DEXs\n• review and create smart contract",
+      "likes": 313,
+      "views": 0,
+      "url": "https://x.com/i/status/2082669797456720153",
+      "is_kol": false,
+      "score": 1184.0
+    },
+    {
+      "id": "2082554217651134549",
+      "author": "santtiagom_",
+      "text": "¿qué diferencia hay entre un servidor MCP stateful y uno stateless?\n\nvamo con un poco de system design.\n\nimaginá que un agente necesita buscar mensajes en Slack.\n\nel flujo general es:\nMCP client → servidor MCP de Slack → API de Slack\n\nantes, con una sesión stateful:\n\n1) el client",
+      "likes": 252,
+      "views": 0,
+      "url": "https://x.com/i/status/2082554217651134549",
+      "is_kol": false,
+      "score": 861.0
+    },
+    {
+      "id": "2082644943026442509",
+      "author": "solotop999",
+      "text": "Hướng dẫn revoke sau khi nhận airdrop đây nha ae\n\nPaybox Revoke Checklist 📄\n\n1. Remove PayBox trên Claude\n- Open Claude → Customize → Connectors\n- Chọn PayBox custom connector\n- Click Disconnect, Remove, hoặc dấu 3 chấm → Remove\n\n2. Remove PayBox trên ChatGPT\n- Settings → Apps/Pl",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2082644943026442509",
+      "is_kol": false,
+      "score": 774.0
+    },
+    {
+      "id": "2082596810942730578",
+      "author": "NotionHQ",
+      "text": "If you want it done right the first time, hand it to an Opus model (lowest undo rate). Great for the hard stuff… like work that spans four tools.\n\nPlug in Salesforce, PostHog, Hex, or any tool via MCP. Ask for a report, and you get analysis, interactive charts, and writing you’d ",
+      "likes": 182,
+      "views": 0,
+      "url": "https://x.com/i/status/2082596810942730578",
+      "is_kol": false,
+      "score": 651.0
+    },
+    {
+      "id": "2082752928654209249",
+      "author": "DamiDefi",
+      "text": "Four specific things break an AI agent as it runs, and each one looks different. \n\nAn agent that repeats a fact that was never true is poisoning. \n\nOne that ignores your last instruction and reverts to an old pattern is distraction. \n\nOne that gives a wrong answer even though the",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2082752928654209249",
+      "is_kol": false,
+      "score": 558.0
+    },
+    {
+      "id": "2082574986473287898",
+      "author": "momoblog0214",
+      "text": "Arm Holdings $ARM\n2027年度Q1決算を発表‼️\nデータセンター向けロイヤリティが前年比2倍以上に拡大📈\n株価は時間外で1.5%下落📉\n\n🔸FYE27 Q1業績\n⭕️EPS: 0.45ドル(予想0.40ドル)\n⭕️売上高: 12.89億ドル(予想12.67億ドル)\n📈売上高成長率: +22% Y/Y\n\n🔸FYE27 Q2ガイダンス\n⭕️EPS: 0.47ドル±0.04ドル(予想0.44ドル)\n⭕️売上高: 13.80億ドル±0.5億ドル(予想13.42億ドル)\n✔️Non-GAAP営業費用: 約7.80億ドル\n\n🔸売上構成(Q1 FYE",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2082574986473287898",
+      "is_kol": false,
+      "score": 548.0
+    },
+    {
+      "id": "2082550450373451938",
+      "author": "omarsar0",
+      "text": "After a few more hours, I think I've figured out Opus 5.\n\nOpus 5 is trained to be more agentic than anything I've used. All Claude 5 models are like that.\n\nSo what changes?\n\nThe way to interact with Opus 5 or contextualize it won't work the same way as with other models. \n\nIt lov",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2082550450373451938",
+      "is_kol": false,
+      "score": 543.0
+    },
+    {
+      "id": "2082500548134056063",
+      "author": "SoraiaDev",
+      "text": "if you built something with an mcp server, here's where to list it:\n\n- registry.modelcontextprotocol[.]io\n- platform.openai[.]com/plugins \n- platform.claude[.]com/plugins\n- cursor[.]directory\n- mcpservers[.]org\n- pulsemcp[.]com\n- smithery[.]ai\n- glama[.]ai\n\nbookmark it",
+      "likes": 173,
+      "views": 0,
+      "url": "https://x.com/i/status/2082500548134056063",
+      "is_kol": false,
+      "score": 534.0
+    },
+    {
+      "id": "2082501415352836476",
+      "author": "ourcryptotalk",
+      "text": "While everyone argued price, these Altcoins shipped in 2026.\n\n$ONDO : FINRA cleared its broker-dealer, then launched its own execution layer\n\n$ALGO : dropped a post-quantum roadmap and hired Ripple's former XRPL lead\n\n$GEOD : listed on Coinbase and Upbit, then hit record buybacks",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2082501415352836476",
+      "is_kol": false,
+      "score": 517.0
+    },
+    {
+      "id": "2082561237414740176",
+      "author": "godemodegame",
+      "text": "post for all the ai experts saying to disconnect Paybox:\n\nPAYBOX DOESN’T HAVE ACCESS TO YOUR CONVERSATIONS\n\nnot your past chats, not your future chats\n\nMCP works almost exactly like an API:\nClaude sends a request -> the MCP server processes it -> sends the result back\n\ndont belie",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2082561237414740176",
+      "is_kol": false,
+      "score": 463.0
+    },
+    {
+      "id": "2082673383255216356",
+      "author": "jerryjliu0",
+      "text": "Yesterday I cohosted a dinner with @dexhorthy with a wonderful group of founders, to talk about agent loops and loop engineering.\n\nSome interesting insights:\n* Most of our group was *not* actively using /loop in Codex/Claude Code\n* You can build long-running autonomous agent loop",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2082673383255216356",
+      "is_kol": false,
+      "score": 438.0
+    },
+    {
+      "id": "2082558349715914780",
+      "author": "goyabean_eth",
+      "text": "An AI agent just bought Bitcoin hashpower...\nand it's mining!👀\n\nMy Bankr agent got the word from me, paid $10 USDC over x402 on Base, and 118 TH/s of SHA-256 spun up pointed at its own worker on BASED Pool. \nIt reported back with its order id , it's miner dashboard page, and the ",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2082558349715914780",
+      "is_kol": false,
+      "score": 407.0
+    },
+    {
+      "id": "2017756374751654344",
+      "author": "fomomofosol",
+      "text": "your ai agent (clawd bot / open claw) can now express itself through music.\n\nhumans:\nhttps://t.co/bWrblpt1ae\n\nagent skill:\nhttps://t.co/0CUjlOrFmm https://t.co/QEKN4sjo5G",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2017756374751654344",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2082711820180041978",
+      "author": "Parsats_eth",
+      "text": "Skills are the feature I’ve been waiting for\n\nI spend the first ten minutes of most agent tasks re explaining the same context. the format, the tone, what to avoid. Then next week, same task, same 10 minutes\n\nA Skill turns that setup into something you write once and call wheneve",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2082711820180041978",
+      "is_kol": false,
+      "score": 303.0
+    }
+  ]
+}
