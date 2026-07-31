@@ -1,0 +1,575 @@
+{
+  "date": "2026-07-31",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 16,
+    "unique_repos": 18,
+    "new_repos": 8,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "kostja94/marketing-skills",
+      "github_url": "https://github.com/kostja94/marketing-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 238.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Equip AI agents in Cursor, Claude Code, and OpenClaw with specialized Markdown skill modules for SEO auditing, content strategy, and paid advertising workflows.\n\nhttps://t.co/6ZaWviOgtr https://t.co/lX9cyfmpww",
+        "likes": 31,
+        "url": "https://x.com/i/status/2082852668188373133"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082852668188373133"
+      ]
+    },
+    {
+      "repo": "alvinreal/awesome-openclaw",
+      "github_url": "https://github.com/alvinreal/awesome-openclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 170.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "A curated collection of resources for the OpenClaw ecosystem, offering official tools, workflow automation shells, agent skill registries, and CLI integrations for platforms such as WhatsApp, Slack, and Discord.\n\nhttps://t.co/aTMb3E0acL https://t.co/UUbY0iAuox",
+        "likes": 15,
+        "url": "https://x.com/i/status/2082941682840912281"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082941682840912281"
+      ]
+    },
+    {
+      "repo": "4oko4ow/webview-tuner",
+      "github_url": "https://github.com/4oko4ow/webview-tuner",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "4oko4ow",
+        "text": "npx skills add 4oko4ow/webview-tuner\n\nhttps://t.co/xx3ObEtMhj",
+        "likes": 3,
+        "url": "https://x.com/i/status/2083088336030433740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083088336030433740"
+      ]
+    },
+    {
+      "repo": "leek/agent-skills",
+      "github_url": "https://github.com/leek/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leeked",
+        "text": "Turned https://t.co/SihJxqHNqK (by Marcel Jerzyk) into an AI auditor skill.\n\nIt sweeps your repo through 9 detection lenses, then plays skeptic: every candidate finding must survive the smell's actual definition or it's dropped.\n\nnpx skills add leek/agent-skills --skill code-smel",
+        "likes": 1,
+        "url": "https://x.com/i/status/2082872869575696499"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082872869575696499"
+      ]
+    },
+    {
+      "repo": "mohasarc/mo-skills",
+      "github_url": "https://github.com/mohasarc/mo-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mosyaseen",
+        "text": "find it here -&gt; https://t.co/iitxfjjTur\n\nOr get it via -&gt; npx skills add mohasarc/mo-skills --skill ripple-review",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082948468528521375"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082948468528521375"
+      ]
+    },
+    {
+      "repo": "anthropics/agent-skills",
+      "github_url": "https://github.com/anthropics/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jurlycat",
+        "text": "@undefinedKi npx skills add anthropics/agent-skills --skill pdf",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082912292157767937"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082912292157767937"
+      ]
+    },
+    {
+      "repo": "ttsalpha/agent-skills",
+      "github_url": "https://github.com/ttsalpha/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ttsalpha",
+        "text": "me: siuuu\nmy terminal: SIUUUUUUUUU\nyes I built a whole Claude Code skill for this. no I will not apologize 🤣🤣\n&gt; npx skills add ttsalpha/agent-skills -g --skill siuuu\nGithub: https://t.co/Wiz2uGlerf\n#cristiano @Cristiano #cr7 https://t.co/YlcFFf6zH5",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082883454107369700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082883454107369700"
+      ]
+    },
+    {
+      "repo": "aminblg/simpleenglish",
+      "github_url": "https://github.com/aminblg/simpleenglish",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HelveticVault",
+        "text": "🐇\n\nReality Prism — Jul 31, 2026\n\nToday's scan collapsed through four domains. One pattern emerges: systems that look autonomous from the outside — orca pods, LLM evals, geothermal plants, robot surgeons — all depend on something invisible breaking at the edge. The failure isn't t",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083153528126657022"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083153528126657022"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 1348.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 301,
+      "total_retweets": 69,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 301,
+        "url": "https://x.com/i/status/2082766313689420282"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082766313689420282"
+      ]
+    },
+    {
+      "repo": "addyosmani/web-quality-skills",
+      "github_url": "https://github.com/addyosmani/web-quality-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 422.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "undefinedKi",
+        "text": "Don't prompt: \"make the UI look good\" \n> Install this: npx skills add anthropics/claude-code --skill frontend-design\n\nDon't prompt: \"why is this code broken?\"\n> Install this: npx skills add obra/superpowers --skill systematic-debugging\n\nDon't prompt: \"read this PDF and make me a ",
+        "likes": 84,
+        "url": "https://x.com/i/status/2082899880272392299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082899880272392299"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 422.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "undefinedKi",
+        "text": "Don't prompt: \"make the UI look good\" \n> Install this: npx skills add anthropics/claude-code --skill frontend-design\n\nDon't prompt: \"why is this code broken?\"\n> Install this: npx skills add obra/superpowers --skill systematic-debugging\n\nDon't prompt: \"read this PDF and make me a ",
+        "likes": 84,
+        "url": "https://x.com/i/status/2082899880272392299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082899880272392299"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 422.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "undefinedKi",
+        "text": "Don't prompt: \"make the UI look good\" \n> Install this: npx skills add anthropics/claude-code --skill frontend-design\n\nDon't prompt: \"why is this code broken?\"\n> Install this: npx skills add obra/superpowers --skill systematic-debugging\n\nDon't prompt: \"read this PDF and make me a ",
+        "likes": 84,
+        "url": "https://x.com/i/status/2082899880272392299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082899880272392299"
+      ]
+    },
+    {
+      "repo": "arsalang75523/contextkit",
+      "github_url": "https://github.com/arsalang75523/contextkit",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ArsalanG75523",
+        "text": "ContextKit’s verified AI Skill Marketplace is now LIVE.\n\nConnect ContextKit MCP to Claude Code, Codex, OpenCode, Hermes, Bankr or OpenClaw and turn successful agent work into complete, reusable skill repositories.\n\nContextKit can:\n\n• Capture proven work directly from your IDE age",
+        "likes": 7,
+        "url": "https://x.com/i/status/2082759448892698928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082759448892698928"
+      ]
+    },
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_NearCrypto_",
+        "text": "Surf is making crypto data for AI agents much easier to access\n\nInstead of using dozens of separate APIs, you can install a single Surf Skill:\n\n> npx skills add asksurf-ai/surf-skills --skill surf\n\nThis gives your agent access to:\n\n• real-time prices from 16 exchanges\n• onchain S",
+        "likes": 8,
+        "url": "https://x.com/i/status/2083122394445513177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083122394445513177"
+      ]
+    },
+    {
+      "repo": "superdesigndev/superdesign-skill",
+      "github_url": "https://github.com/superdesigndev/superdesign-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SuperDesignDev",
+        "text": "@rammcodes solid list. most of these hand the agent rules but no place to actually see the output, which is the half that's still missing. we built the canvas side: npx skills add superdesigndev/superdesign-skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083043347669946370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083043347669946370"
+      ]
+    },
+    {
+      "repo": "pixel-point/animate-text",
+      "github_url": "https://github.com/pixel-point/animate-text",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ashergodfrey",
+        "text": "I tested an AI agent skill that builds text animations and it's 100% legit.\n\nEvery single timing curve and spec is engineered by human motion designers, not AI.\n\nnpx skills add pixel-point/animate-text --skill animate-text https://t.co/hhuiuwESdo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083142937290920304"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083142937290920304"
+      ]
+    },
+    {
+      "repo": "github/gh-stack",
+      "github_url": "https://github.com/github/gh-stack",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shibamasa_dev",
+        "text": "npx skills add github/gh-stack",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083126069201400218"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083126069201400218"
+      ]
+    },
+    {
+      "repo": "slidum/skills",
+      "github_url": "https://github.com/slidum/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oandresimoes",
+        "text": "the skill teaches Claude to write decks that play natively in Slidum: full screen, arrows, thumbnails, nothing to fix after.\n\nnpx skills add slidum/skills, then just ask for a presentation.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2082897387710820431"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2082897387710820431"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2082982462012227648",
+      "author": "AlexFinn",
+      "text": "The greatest AI skill you can learn right now is Reverse Prompting\n\nIt’s simple: ChatGPT5.6, Fable, and Grok 4.5 are now smarter than humans. That means you need to have your agent prompting YOU more than you prompt it\n\nYou have your AI ask YOU questions to see what it can do for",
+      "likes": 2101,
+      "views": 0,
+      "url": "https://x.com/i/status/2082982462012227648",
+      "is_kol": false,
+      "score": 7193.0
+    },
+    {
+      "id": "2083048956594971133",
+      "author": "_BillionAireSon",
+      "text": "PayBox Revoke Guide 🧹\n\n1. Disconnect from Claude\n»Claude → Customize → Connectors\n»Find PayBox → Remove/Disconnect.\n\n2. Disconnect from ChatGPT\n\n»Settings → Apps/Plugins\n»Locate PayBox and remove it.\n»If you manually added the MCP server, delete that too.\n\n3. Remove Google access",
+      "likes": 276,
+      "views": 0,
+      "url": "https://x.com/i/status/2083048956594971133",
+      "is_kol": false,
+      "score": 1073.0
+    },
+    {
+      "id": "2083038219319566381",
+      "author": "dok2001",
+      "text": "Twice in nine days. OpenAI's models chained a zero-day to get out of an eval environment. Anthropic just found three incidents of the same shape.\n\nThis is what capable models do. Every reachable path is an invitation. Credit to both for publishing.\n\nWe rebuilt Cloudflare OS, our ",
+      "likes": 212,
+      "views": 0,
+      "url": "https://x.com/i/status/2083038219319566381",
+      "is_kol": false,
+      "score": 726.0
+    },
+    {
+      "id": "2083022814764990949",
+      "author": "Tech_Rose1",
+      "text": "Most people think building an AI agent starts with choosing an LLM.\n\nIn 2026, that's only one part of the equation. 🧩\n\nThe real advantage comes from everything built around the model.\n\nHere's a practical framework for building production-ready AI agents:\n\n🔹 1. Define the Mission\n",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2083022814764990949",
+      "is_kol": false,
+      "score": 552.0
+    },
+    {
+      "id": "2082964448818626920",
+      "author": "recat_125",
+      "text": "Bedrock Managed Knowledge Base (BMKB) の Dive Deep Deck を公開しました！\n\n私の知りうる全てを詰め込んでおり、これ一つで BMKB の基礎から応用 (ACL awareness, MCP Tool 化時の注意点) までを網羅してます。\n\n是非ご活用下さい！(権限制御については blog 化予定です)\nhttps://t.co/aFjfqUXUOD",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2082964448818626920",
+      "is_kol": false,
+      "score": 417.0
+    },
+    {
+      "id": "2083029112051183687",
+      "author": "Thienthien1305",
+      "text": "REVOKE 🚩💥\nLâu lắm mới có nước mưa nên anh em xôn xao hết cả X :))) Ngày xưa cứ tý lại có nước mưa mà giờ hết thời rồi. Ai vào muộn chỉ có nước mắt thui.\n\nLụm xong rồi hãy thu hồi toàn bộ quyền truy cập đã cấp nha anh em.\n\n1. Gỡ PayBox khỏi Claude\nMở Claude.\nVào Customize → Connec",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2083029112051183687",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2082926995558511098",
+      "author": "X2worldtech",
+      "text": "Watch this clip carefully!\n\nYears ago, @dominic_w shared a bold vision: the Internet Computer as a decentralized cloud capable of competing with Big Tech.\n\nToday, @dfinity is bringing that vision to life with MCP Server & AI Agents that can query, update & execute on every app ru",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2082926995558511098",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2083027543133970850",
+      "author": "Mew_web3",
+      "text": "Điều quan trọng tiếp theo anh em cần làm\n\nHướng dẫn revoke sau khi nhận airdrop\n\nPaybox Revoke Checklist 📄\n\n1. Remove PayBox from Claude\n- Open Claude → Customize → Connectors\n- Find the PayBox custom connector\n- Click Disconnect, Remove, or the three dots → Remove\n\n2. Remove Pay",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2083027543133970850",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2082984194829963569",
+      "author": "BHolmesDev",
+      "text": "...Am I the only one hand-rolling my PR review agent?\n\nIt's so easy to do:\n\n- Write a /pr-review skill with the formatting you want\n- Add a GitHub workflow that runs your agent of choice, ideally a different model from your primary agent to find gaps in thinking\n\nDone! https://t.",
+      "likes": 96,
+      "views": 0,
+      "url": "https://x.com/i/status/2082984194829963569",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2082907861928009943",
+      "author": "fermah_xyz",
+      "text": "MCP server compatibility is the new port 80: the interface contract that decides whether an application exists inside the machine economy or outside it.\n\nFrom where Fermah sits in production scheduling, agent-driven proof requests already route around surfaces that aren't MCP-add",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2082907861928009943",
+      "is_kol": false,
+      "score": 302.0
+    },
+    {
+      "id": "2083017918640791832",
+      "author": "GeekCatX",
+      "text": "一周多，700+ Star。\n做这个项目的初衷很简单：\n以前做一条手绘故事视频，要拆文案、画分镜、生成图片、做动画，还要反复调试渲染；\n现在，我想把这一堆麻烦事，压缩成一句自然语言。\nstory-to-handdrawn-video 是一个开源的 Agent Skill。\n\n你只需要交给它一段中文故事，或者一组有序图片，它就能帮你完成分句、分镜、画面生成和动画渲染，最后输出一条可以继续配音、配乐的竖屏手绘视频。\n\n你负责把故事讲出来，Skill 负责让它被画出来、动起来。\n项目开源一周多，已经突破 700 Star。感谢每一位点亮 Star、试用、转发、",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2083017918640791832",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2083003720258977934",
+      "author": "DataChaz",
+      "text": "If you use Cursor for coding, Claude Code for debugging, and local agents for automation, you almost certainly have a context problem.\n\nEvery tool acts like an isolated employee.\n\nOne assistant forgets what the other just learned.\n\nThe biggest bottleneck in multi-agent workflows ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2083003720258977934",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2083130899630350658",
+      "author": "tbvxyz",
+      "text": "HashLock Trading just completed the TBA 30 Day Sprint. 🚀\n\nThe cross-chain OTC market processes billions in daily volume, yet many trades still rely on slow, manual escrow processes that introduce counterparty risk.\n\n@HashlockMarkets is building a trustless settlement layer where ",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2083130899630350658",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2083013528219177097",
+      "author": "neil_xbt",
+      "text": "The part every Higgsfield MCP thread is leaving out:\n\n\"Volume without a review layer is how a retainer turns into a refund request.\"\n\nThe creators actually holding five-figure retainers are not the ones generating the most content. They are the ones who never ship something a cli",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2083013528219177097",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2082950650007052437",
+      "author": "aaronjmars",
+      "text": "$18M raised by web3 security companies today\n\nin a few months, base:0xbf8e8f0e8866a7052f948c16508644347c57aba3 already secured billion dollar orgs like @AlibabaGroup, @vercel or @openclaw 🌟\n\nwe're just getting started\n\nand it's just one skill\nwe're not even a security company 😹 h",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2082950650007052437",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2082828660130935176",
+      "author": "ParkJuwonPH",
+      "text": "[🎬] 260730 - #AHOF | kbsworldtv YT\n\nIDOL Booth Ep. 05 | 🐯 JUWON CUT\n\nIs Their Claw Machine Skill a “RUN”?! 😱 What Are the Chances That None of the Nine Members Are Good at Claw Machines?!\n\nWatch it full here:\n🖇 https://t.co/XP0tKMQI86\n\n#아홉 #박주원 #JUWON\n@AHOF_official https://t.co/",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2082828660130935176",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2083124854853968256",
+      "author": "protosphinx",
+      "text": "SMBwiki - a catalog of how small and medium businesses work.\n\nEach business type is laid out as a graph of its operating parts: skills, roles, documents, metrics + software/statutory licenses. Think bom (bill of materials) but for a business.\n\nEvery business process is also a ski",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2083124854853968256",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2082959519596859817",
+      "author": "tom_doerr",
+      "text": "Manage multiple SSH connections for Claude Code and OpenAI Codex using an MCP server. Execute commands, transfer files, and automate DevOps tasks across remote servers directly from your AI assistant.\n\nhttps://t.co/Z8EjGYpaun https://t.co/yoYCjNQTQu",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2082959519596859817",
+      "is_kol": false,
+      "score": 213.0
+    }
+  ]
+}

@@ -5462,5 +5462,37 @@
   "scrimshawlife-ctrl/neon-genie-hermes": {
     "first_seen": "2026-07-30",
     "tier": 3
+  },
+  "kostja94/marketing-skills": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "alvinreal/awesome-openclaw": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "4oko4ow/webview-tuner": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "leek/agent-skills": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "mohasarc/mo-skills": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "anthropics/agent-skills": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "ttsalpha/agent-skills": {
+    "first_seen": "2026-07-31",
+    "tier": 3
+  },
+  "aminblg/simpleenglish": {
+    "first_seen": "2026-07-31",
+    "tier": 3
   }
 }
