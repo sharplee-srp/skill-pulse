@@ -1,0 +1,612 @@
+{
+  "date": "2026-08-01",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 163,
+    "tweets_with_repos": 20,
+    "unique_repos": 20,
+    "new_repos": 10,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "larashero3-dotcom/lieflat-charts",
+      "github_url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "tier": 0,
+      "is_new": true,
+      "score": 710.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "geekbb"
+      ],
+      "total_likes": 30,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekbb",
+        "text": "一套遵循 Agent Skills 格式的单色数据可视化 skill，把数据快速做成有编辑感、可阅读、可组成完整页面的单色 HTML 图表。\n\nhttps://t.co/XBeWPDi3fO https://t.co/rNSP25l3W0",
+        "likes": 30,
+        "url": "https://x.com/i/status/2083421465743925610"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083421465743925610"
+      ]
+    },
+    {
+      "repo": "opensvm/dexscreener-mcp-server",
+      "github_url": "https://github.com/opensvm/dexscreener-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 688.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 151,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EvanLuthra",
+        "text": "Claude is becoming Bloomberg Terminal for crypto.\n\nThese 7 MCPs turn Claude into a full crypto trading terminal:\n\n1. DexScreener MCP\n\n Find new token launches + track early DEX activity.\n\n  → https://t.co/tx1dhjewTU\n\n2. Nansen MCP\n\nTrack smart money wallets + wallet labels.\n\n→ ht",
+        "likes": 110,
+        "url": "https://x.com/i/status/2083473096959283426"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083473096959283426",
+        "https://x.com/i/status/2083345728207007782"
+      ]
+    },
+    {
+      "repo": "paloaltonetworks/unit42-timely-threat-intel",
+      "github_url": "https://github.com/paloaltonetworks/unit42-timely-threat-intel",
+      "tier": 2,
+      "is_new": true,
+      "score": 587.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 109,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Unit42_Intel",
+        "text": "We've discovered malicious #npm &amp; #PyPI packages on public registries, 65% previously unknown. Attacks include .env credential theft, crypto wallet stealing, RCE droppers, &amp; #MCP server backdoors targeting AI developers. Details on the extracted malware at https://t.co/OY",
+        "likes": 109,
+        "url": "https://x.com/i/status/2083205050449473561"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083205050449473561"
+      ]
+    },
+    {
+      "repo": "davidfeder/pulsechain-mcp",
+      "github_url": "https://github.com/davidfeder/pulsechain-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 452.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 104,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DavidFeder",
+        "text": "Here is an auto-install prompt for the PulseChain MCP &amp;  Wallet for your agent. You can use this prompt:\n\n\"Install the PulseChain MCP server from https://t.co/akF0BxhDrd and set it up so you can use it and use the doctor to get it running without a reload.\" https://t.co/Vxbix",
+        "likes": 104,
+        "url": "https://x.com/i/status/2083361770769416669"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083361770769416669"
+      ]
+    },
+    {
+      "repo": "francyjglisboa/agent-skill-creator",
+      "github_url": "https://github.com/francyjglisboa/agent-skill-creator",
+      "tier": 3,
+      "is_new": true,
+      "score": 290.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trendtech33566",
+        "text": "【朗報】\n「その作業、毎回同じことしてる」をAIスキル化できるOSSがあります👀\n\nAgent Skill Creator、⭐️約2千。\n\n何がいいかというと👇\n・自然文で書いた作業フローをそのままスキル化\n・1つのSKILL.mdで17プラットフォームに対応\n・検証/セキュリティスキャン込みで作ってくれる\n・evalsまで付いて、作って終わりにならない\n\n「自分の定型作業をAIに覚えさせたい」人にかなり刺さるやつです。\n\nhttps://t.co/AX5j3U0QHs",
+        "likes": 50,
+        "url": "https://x.com/i/status/2083319809023041621"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083319809023041621"
+      ]
+    },
+    {
+      "repo": "scallop-io/scallop-skills",
+      "github_url": "https://github.com/scallop-io/scallop-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 251.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sammy_Cryptguy",
+        "text": "Gm CT. It's a New Month and just few months till we approach the end of the year!💪🏽🎉\n\nNow with the adoption of Ai, De-Fi can now work and be ran by users who have access to the required Skills and integrated into their desired LLM's the likes of Claude Code, Codex CLI, Gemini CLI",
+        "likes": 10,
+        "url": "https://x.com/i/status/2083468471187263704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083468471187263704",
+        "https://x.com/i/status/2083196212774055945"
+      ]
+    },
+    {
+      "repo": "0xaxit/skills",
+      "github_url": "https://github.com/0xaxit/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 224.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xaxit",
+        "text": "i read model output ~6 hours a day and my eyes are cooked.\n\nhalf the time i don't read it. i just approve — human in the loop is the real bottleneck.\n\nso i made claude write in bionic reading:\nnpx skills add 0xaxit/skills https://t.co/wSb0ou1ayi",
+        "likes": 7,
+        "url": "https://x.com/i/status/2083271855901946063"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083271859890774335",
+        "https://x.com/i/status/2083271855901946063"
+      ]
+    },
+    {
+      "repo": "moaazsidat/skills",
+      "github_url": "https://github.com/moaazsidat/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "moaazsidat",
+        "text": "found myself repeating patterns when building web apps across a few things:\n\n→ magic link auth\n→ readable urls \n→ file uploads\n\npublished it as a skill for folks to use\n\nnpx skills add moaazsidat/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083377751889772947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083377751889772947"
+      ]
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "github_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "igloude/ds-skills",
+      "github_url": "https://github.com/igloude/ds-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iangloude",
+        "text": "I built 3 skills to help manage & implement design systems:\n\n/ds-doctor\nanalyzes your DS and writes a component manifest\n\n/ds-plan \ninput a feature plan, identifies any gaps in DS\n\n/ds-drift\naudits current state of codebase for DS adherence\n\nAll skills are read-only, outputting p",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083256795888255296"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083256795888255296"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "financial-datasets/mcp-server",
+      "github_url": "https://github.com/financial-datasets/mcp-server",
+      "tier": 3,
+      "is_new": false,
+      "score": 322.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Enable AI assistants like Claude to retrieve income statements, balance sheets, and stock prices via MCP.\n\nhttps://t.co/SZl1PjqHWL https://t.co/7cKOdNYtsf",
+        "likes": 64,
+        "url": "https://x.com/i/status/2083278665396125873"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083278665396125873"
+      ]
+    },
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 181.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_NearCrypto_",
+        "text": "Surf is making crypto data for AI agents much easier to access\n\nInstead of using dozens of separate APIs, you can install a single Surf Skill:\n\n> npx skills add asksurf-ai/surf-skills --skill surf\n\nThis gives your agent access to:\n\n• real-time prices from 16 exchanges\n• onchain S",
+        "likes": 27,
+        "url": "https://x.com/i/status/2083122394445513177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083122394445513177"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 137.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that rebuilds your offer without touching your product.\n\nSame plan, same price — plus a concierge migration, a free conversion audit, a 60-day guarantee, and a value anchor. The trial stopped being generic and started converting.\n\nnpx skills add coreyhaines31/marke",
+        "likes": 9,
+        "url": "https://x.com/i/status/2083326146608079313"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083326146608079313"
+      ]
+    },
+    {
+      "repo": "starslingdev/skills",
+      "github_url": "https://github.com/starslingdev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yonasbe",
+        "text": "Our second agent skill is live! Run /ci-score to check your repo against best practices and let your agent close the gaps.\n\nJust run `npx skills add starslingdev/skills`\n\nhttps://t.co/bI72toxIXh",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083258841257644299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083258841257644299"
+      ]
+    },
+    {
+      "repo": "supabase/agent-skills",
+      "github_url": "https://github.com/supabase/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CarolMonroe",
+        "text": "codex came out on top here, and it was the only one that nailed investigate. that settles something i'd been going back and forth on: between opus and codex for supabase work, i'm staying with codex.\n\ntwo other things i'm changing:\n\nupdating my supabase skills. mine had been sitt",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083293740278723012"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083293740278723012"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "voltagent/awesome-openclaw-skills",
+      "github_url": "https://github.com/voltagent/awesome-openclaw-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xshimei",
+        "text": "给 OpenClaw 装技能的时候发现官方库里塞了几千个社区作品，混着大量刷号、重复和恶意内容，逐个翻根本挑不过来。\n\n某个 skill 专门给官方技能库做筛选：刷号和测试垃圾踢掉 ，重名重复的去掉 ，描述低质的踢出，安全审计查出恶意的也筛掉。\n\n留下 5,400 多个按类别分好，想找哪类能力直接翻对应分类。\n\n挑中的技能可以手动拷到技能目录，也能把仓库链接贴给 AI，让它自己装好。\nhttps://t.co/JvgXxnBS8V",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083160496547520613"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083160496547520613"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2083204522415960437",
+      "author": "base",
+      "text": "Momentum is building on Base.\n\nHere’s 25 things the Base ecosystem launched and announced in July.\n\n1) @morpho launched Morpho Midnight, Fixed Rate Markets, and a new Markets App. Allowing users on Base to lend and borrow at fixed rates.\n\n2) @o1_exchange introduced the B20 launch",
+      "likes": 987,
+      "views": 0,
+      "url": "https://x.com/i/status/2083204522415960437",
+      "is_kol": false,
+      "score": 3951.0
+    },
+    {
+      "id": "2083307300232527996",
+      "author": "mweinbach",
+      "text": "Ok this is sorta sick\n\nI had ChatGPT Work create a ChatGPT Site that has proper oauth and logic to host an MCP server that let's me connect more than one Google account to ChatGPT.\n\nUsing ChatGPT to create an app to fix a shortcoming of ChatGPT https://t.co/CVD4QIqNaG",
+      "likes": 631,
+      "views": 0,
+      "url": "https://x.com/i/status/2083307300232527996",
+      "is_kol": false,
+      "score": 1998.0
+    },
+    {
+      "id": "2083282682746704013",
+      "author": "Solvaix",
+      "text": "3 HOURS OF MANUAL SETUP GOT AN AI BUILDING INSIDE REVIT. AUTODESK'S OWN VERSION STILL CAN'T.\n\nRevit is the software behind most MEP work, the mechanical, electrical, and plumbing systems planned out digitally before a single pipe goes into a real building. Autodesk released Revit",
+      "likes": 468,
+      "views": 0,
+      "url": "https://x.com/i/status/2083282682746704013",
+      "is_kol": false,
+      "score": 1659.0
+    },
+    {
+      "id": "2083178014800490523",
+      "author": "Alacritic_Super",
+      "text": "AI for KiCad just got even more interesting.\n\nAfter KiCAD MCP Server, check out Konnect.\n\nIt's a next-generation AI plugin for KiCad, rebuilt from the ground up in Rust as a native KiCad 10 plugin.\n\nWhy it's exciting:\n\n- Native KiCad 10 plugin\n- Written entirely in Rust\n- Built o",
+      "likes": 278,
+      "views": 0,
+      "url": "https://x.com/i/status/2083178014800490523",
+      "is_kol": false,
+      "score": 1009.0
+    },
+    {
+      "id": "2083500556824580198",
+      "author": "BattleOfTokyo",
+      "text": "┏━━━━━━━━┓\n   BATTLE OF TOKYO \n 　 -Character File-\n┗━━━━━━━━┛\n❒Claude(≠日髙竜太)❒\nJIGGY BOYS≠BALLISTIK BOYZ\n読み：クロード\nTEAM SKILL：解析（スキャニング）\nSUB SKILL：プロテクト\n\nチーム最年長にして、最高のスキル使い。\n高速かつ精密な解析能力を持ち、目にしたものの本質を暴く。\n性格は太陽のように明るく前向き。そのうえ頭が切れ、冷静沈着。\n \n父親を殺した真犯人への復讐のため、自分と同じ力を持つ仲間を探していた。\n今は復讐を終え、第二の",
+      "likes": 158,
+      "views": 0,
+      "url": "https://x.com/i/status/2083500556824580198",
+      "is_kol": false,
+      "score": 759.0
+    },
+    {
+      "id": "2083175859020792044",
+      "author": "codyschneider",
+      "text": "new live class for you \n\nhow to build facebook ads AI agent\n\nyou'll learn\n\nstrategy\n\n- andromeda killed interest targeting — the creative + landing page *are* the targeting signal now, so the play is volume of distinct personas/angles rather than audience selection\n- loop is: pub",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2083175859020792044",
+      "is_kol": false,
+      "score": 618.0
+    },
+    {
+      "id": "2083403498918731796",
+      "author": "0xDeployer",
+      "text": "i made a bankr skill to automate token fee distributions to holders. \n\nmeme token paired with a stock? distribute the stock token to top holders. \n\nyou can set your own parameters the agent handles everything. even spins up a public app for transparency. \n\nhttps://t.co/czigD4NkRV",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2083403498918731796",
+      "is_kol": false,
+      "score": 610.0
+    },
+    {
+      "id": "2083221586241339690",
+      "author": "Austen",
+      "text": "Look, the single most important feature your application now has is an easy way to connect with my AI tools. \n\nI don’t care if it’s an API, and MCP server, a plug-in, or other connector. \n\nBut that’s pretty much all I want out of most applications now.",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2083221586241339690",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2083408841518297295",
+      "author": "Tanaypawar27",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/P7MJxt5tyN",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2083408841518297295",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2083314460005916726",
+      "author": "perplexitydevs",
+      "text": "The Perplexity remote MCP server is live.\n\nYou can now connect Perplexity to Claude Code, Cursor, or VS Code with just your API key. Nothing to install.\n\nhttps://t.co/9XJ3gJoATu",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2083314460005916726",
+      "is_kol": false,
+      "score": 400.0
+    },
+    {
+      "id": "2083296041391030625",
+      "author": "jjacky",
+      "text": "pro tip\n\nand it seems absolutely no one knows this\n\nwhen you tell an agent to \"go to [url to a skill] and follow the instructions\"\n\nthere is a non-zero chance of it using webfetch, which summarizes the skill output to ur agent\n\nso ur agent is not getting the full skill\n\nuse curl",
+      "likes": 125,
+      "views": 0,
+      "url": "https://x.com/i/status/2083296041391030625",
+      "is_kol": false,
+      "score": 395.0
+    },
+    {
+      "id": "2083418698073952372",
+      "author": "cyrilXBT",
+      "text": "fireship just covered opus 5, and the real story isn't the model. it's what it means for indie hackers.\n\nanthropic shipped its fourth claude 5 model in under two months. opus 5 specifically: 1 million token context, five effort levels from low to max, coding up 22% over opus 4.7 ",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2083418698073952372",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2083387066700714289",
+      "author": "iamlukethedev",
+      "text": "Hermes merged only 29 PRs today\n\nThat is basically a day off for this team 😂\n\nBut Teknium is at NVIDIA, so I have a feeling this quiet day could lead to something much bigger.\n\nHere is what still shipped:\n\nDESKTOP IMPROVEMENTS\n• Kanban board plugin – Visual task management integr",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2083387066700714289",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2083470539361079770",
+      "author": "cyrilXBT",
+      "text": "Anthropic engineer:\n\nhe \"always use the smartest model\" habit just got expensive for no reason.\n\nopus 5 costs half of fable 5 and now beats it on most measured evals. the gap that used to justify defaulting to fable 5 for everything has mostly closed.\n\nthe actual skill now is kno",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2083470539361079770",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2083161444514734119",
+      "author": "arifgpt",
+      "text": "projeye firebase ekleyip 2 tane dosyayı sürükle bırak yapmamak için mcp, stripe'a 2 ürün ekleyip 2 tane key kopyalamamak için mcp, 2 buton düzeltmemek için figma mcp, paywall düzeltmek için sw mcp, appstore açıklama girmemek için cli, localization için ai, ekran görüntüsü yapmak ",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2083161444514734119",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2083282463413928127",
+      "author": "supabase",
+      "text": "Every scenario runs against a real Supabase environment, so agents call the actual MCP server and CLI. Scored with deterministic checks plus LLM-as-judge.\n\nResults are public, and you can group by agent, product, and stage.\n\nRead the blog → https://t.co/YmgidXp4Br",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2083282463413928127",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2083311234615476612",
+      "author": "CantonFdn",
+      "text": "July Ecosystem Update 👀\n\n◽ Head of Canton Foundation @Viv_Diwakar joined a panel at Out East Summit, digging into whether trillion-dollar finance can actually run on public blockchain rails.\n\n◽ Canton Builders Office Hours returned on July 9th with COO Amanda Martin for a deep di",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2083311234615476612",
+      "is_kol": false,
+      "score": 189.0
+    }
+  ]
+}

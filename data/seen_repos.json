@@ -5494,5 +5494,45 @@
   "aminblg/simpleenglish": {
     "first_seen": "2026-07-31",
     "tier": 3
+  },
+  "larashero3-dotcom/lieflat-charts": {
+    "first_seen": "2026-08-01",
+    "tier": 0
+  },
+  "opensvm/dexscreener-mcp-server": {
+    "first_seen": "2026-08-01",
+    "tier": 2
+  },
+  "paloaltonetworks/unit42-timely-threat-intel": {
+    "first_seen": "2026-08-01",
+    "tier": 2
+  },
+  "davidfeder/pulsechain-mcp": {
+    "first_seen": "2026-08-01",
+    "tier": 2
+  },
+  "francyjglisboa/agent-skill-creator": {
+    "first_seen": "2026-08-01",
+    "tier": 3
+  },
+  "scallop-io/scallop-skills": {
+    "first_seen": "2026-08-01",
+    "tier": 3
+  },
+  "0xaxit/skills": {
+    "first_seen": "2026-08-01",
+    "tier": 3
+  },
+  "moaazsidat/skills": {
+    "first_seen": "2026-08-01",
+    "tier": 3
+  },
+  "forrestchang/andrej-karpathy-skills": {
+    "first_seen": "2026-08-01",
+    "tier": 3
+  },
+  "igloude/ds-skills": {
+    "first_seen": "2026-08-01",
+    "tier": 3
   }
 }
