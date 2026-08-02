@@ -1,0 +1,586 @@
+{
+  "date": "2026-08-02",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 173,
+    "tweets_with_repos": 15,
+    "unique_repos": 19,
+    "new_repos": 9,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "jnsahaj/skills",
+      "github_url": "https://github.com/jnsahaj/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 4885.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1520,
+      "total_retweets": 45,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamsahaj_xyz",
+        "text": "/zero-tech-debt has become one of my favorite and most used skills\n\nI use it for planning features &amp; reviewing code. it's fantastic with 5.6 sol ultra\n\nnpx skills add jnsahaj/skills https://t.co/rFqCtyv5IA",
+        "likes": 1520,
+        "url": "https://x.com/i/status/2083558922452152740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083558922452152740"
+      ]
+    },
+    {
+      "repo": "oso95/scroll-world",
+      "github_url": "https://github.com/oso95/scroll-world",
+      "tier": 3,
+      "is_new": true,
+      "score": 338.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neil_xbt",
+        "text": "A storytelling agency charges $15,000 to $100,000 and three to six months to build the kind of scroll-driven product site Apple made famous! \n\nThe camera flying through a 3D world with no cuts, scenes dissolving into each other as you scroll. \n\nA senior freelancer with Awwwards c",
+        "likes": 61,
+        "url": "https://x.com/i/status/2083752396774388215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083752396774388215"
+      ]
+    },
+    {
+      "repo": "bholmesdev/skills",
+      "github_url": "https://github.com/bholmesdev/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 159.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BHolmesDev",
+        "text": "Here's the skill. Contributions welcome based on your own experience using it!\n\n&gt; npx skills add bholmesdev/skills --skill simplify\n\nhttps://t.co/DhyGStWlUR",
+        "likes": 18,
+        "url": "https://x.com/i/status/2083678125142016332"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083678125142016332"
+      ]
+    },
+    {
+      "repo": "youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+      "github_url": "https://github.com/youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 125.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Uses smart semantic search to find image prompts from 10,000+ Nano Banana Pro examples. This skill works with OpenClaw and Claude Code to return the top three matches alongside sample visuals.\n\nhttps://t.co/5FSgfzzjiK https://t.co/uXNTtCWpS5",
+        "likes": 5,
+        "url": "https://x.com/i/status/2083827746833129666"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083827746833129666"
+      ]
+    },
+    {
+      "repo": "kylrix/kylrix",
+      "github_url": "https://github.com/kylrix/kylrix",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nathfavour_",
+        "text": "Connect @Kylrixsuite to Claude code/codex in 5 seconds to brainstorm features/ideas right in terminal\n\nnpx skills add kylrix/kylrix/api https://t.co/LBbT2iJGFk",
+        "likes": 5,
+        "url": "https://x.com/i/status/2083595584812818714"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083595584812818714"
+      ]
+    },
+    {
+      "repo": "lassejlv/loora",
+      "github_url": "https://github.com/lassejlv/loora",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lassejv",
+        "text": "If you use loora with mcp server make sure to install the loora skill.\n\n`npx skills add lassejlv/loora`",
+        "likes": 3,
+        "url": "https://x.com/i/status/2083554476045009144"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083554476045009144"
+      ]
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "github_url": "https://github.com/citrolabs/ego-lite",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sitinme",
+        "text": "怎么用\n\n安装很轻，可以直接下 macOS 的 app，也可以用一行 npx 把 ego-browser 这个 skill 加给 agent：\n\nnpx skills add citrolabs/ego-lite\n\n装完之后，ego-browser 这个 skill 会进到你机器上每个 agent 的 skills 目录里。\n\n第一次启动时它会问你要不要迁移 Chrome 数据，选是，现有的登录态、cookie、扩展、书签就全被 agent 继承过去了。\n\n用起来就是在 agent CLI 里敲 /ego-browser，然后拿大白话描述要干嘛：\n\neg",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083740043425005626"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083740043425005626"
+      ]
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "github_url": "https://github.com/remotion-dev/remotion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ryosukeuni",
+        "text": "1.  ターミナル画面の初期作成 「新しいコマンド “npx skills add remotion-dev/remotion” のRemotionアニメーションを作ります。まずは1280x1000pxのmacOSターミナル風コンソールで、空のプロンプトがあるライトテーマの新しいコンポジションを作成してください」 → ターミナルコンポーネントとコンポジションを作成。\n2.  背景とフォントの調整 「いい感じです。背景を消して、フォントサイズをもっと大きくしてください」 「それでも余白は少し入れて、透明のままにしてください」 → 背景を削除し、フォントを大",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083767251145240716"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083767251145240716"
+      ]
+    },
+    {
+      "repo": "xiaozhenliu/micro-eval",
+      "github_url": "https://github.com/xiaozhenliu/micro-eval",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poolmoon6",
+        "text": "GitHub ID：xiaozhenliu⁠￼\n\n开源代表作：micro-eval⁠\n地址：https://t.co/1a87WtEet3\n\n一个本地优先的 Agent / Skill Eval 工具。将不同 Agent CLI 作为可替换的黑盒适配器，通过 tasks × configurations × repetitions 矩阵进行可复现评测，并提供 workspace/sandbox 隔离、同起点快照、artifact/evidence/trace 链、确定性校验、pass@k等能力。\n\n项目目前包含 Python CLI、Web UI、Tea",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083730712243691611"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083730712243691611"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "minimax-ai/cli",
+      "github_url": "https://github.com/minimax-ai/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RyanLeeMiniMax",
+        "text": "run H3 in any agent\n\nRun npx skills add MiniMax-AI/cli -y -gm\n\nMy MiniMax API Key is: &lt;YOUR_API_KEY&gt;",
+        "likes": 32,
+        "url": "https://x.com/i/status/2083610076120769017"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083610076120769017"
+      ]
+    },
+    {
+      "repo": "scallop-io/scallop-skills",
+      "github_url": "https://github.com/scallop-io/scallop-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 189.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sammy_Cryptguy",
+        "text": "Gm CT. It's a New Month and just few months till we approach the end of the year!💪🏽🎉\n\nNow with the adoption of Ai, De-Fi can now work and be ran by users who have access to the required Skills and integrated into their desired LLM's the likes of Claude Code, Codex CLI, Gemini CLI",
+        "likes": 23,
+        "url": "https://x.com/i/status/2083468471187263704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083468471187263704"
+      ]
+    },
+    {
+      "repo": "moaazsidat/skills",
+      "github_url": "https://github.com/moaazsidat/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "moaazsidat",
+        "text": "found myself repeating patterns when building web apps across a few things:\n\n→ magic link auth\n→ readable urls \n→ file uploads\n\npublished it as a skill for folks to use\n\nnpx skills add moaazsidat/skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083377751889772947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083377751889772947"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "github_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akokoi1",
+        "text": "Claude Code 最值得安装的5个 Skills：\n\n1️⃣ Superpowers \n最出圈的一个，40K+ stars。把完整的开发流程做成了 skill：brainstorming 讨论需求 → 写计划 → TDD → sub-agents 执行 → review。\n 安装：npx skills add obra/superpowers\n\n2️⃣ frontend-design（Anthropic 官方） \n专治\"一眼AI\"的界面。强制大胆的排版、配色系统和空间构图，生成的前端不再是千篇一律的紫色渐变+圆角卡片。周安装量11万+，官方出品里最",
+        "likes": 2,
+        "url": "https://x.com/i/status/2083441217094996263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083441217094996263"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "av/skills",
+      "github_url": "https://github.com/av/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Everlier",
+        "text": "Publishing my autoresearch skill today.\n\n@0xSero recently told that autoresearch can be used for anything that has a hill-climbing shape and that's true, it makes sense to live right within your coding agent reach.\n\n- llama.cpp inference speed - autoresearch with TPS as a metric\n",
+        "likes": 1,
+        "url": "https://x.com/i/status/2083828721539068065"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083828721539068065"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ryosukeuni",
+        "text": "1.  ターミナル画面の初期作成 「新しいコマンド “npx skills add remotion-dev/remotion” のRemotionアニメーションを作ります。まずは1280x1000pxのmacOSターミナル風コンソールで、空のプロンプトがあるライトテーマの新しいコンポジションを作成してください」 → ターミナルコンポーネントとコンポジションを作成。\n2.  背景とフォントの調整 「いい感じです。背景を消して、フォントサイズをもっと大きくしてください」 「それでも余白は少し入れて、透明のままにしてください」 → 背景を削除し、フォントを大",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083767251145240716"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083767251145240716"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2083672831158874223",
+      "author": "connect24h",
+      "text": "「人が一度やった作業」を、そのままAIエージェントのSkillに変える。MicrosoftのSkill Recorderは発想が面白い。RPAマジでいらんがな。\n\n画面操作を録画すると、GitHub Copilotが「何をしたか」ではなく「何を達成しようとしたか」を解析し、再利用可能なSKILL.mdやAutomationへ変換する。クリックを再生するRPAではなく、目的を理解して汎化するのが特徴だ。\n\n例えば、\n\nAWSへデプロイ\n障害調査\nリリース作業\nGitHub Issue作成\n定例オペレーション\n\nを一度実演するだけで、次回以降はAIエージェン",
+      "likes": 662,
+      "views": 0,
+      "url": "https://x.com/i/status/2083672831158874223",
+      "is_kol": false,
+      "score": 2471.0
+    },
+    {
+      "id": "2083614969845977311",
+      "author": "Solvaix",
+      "text": "34,547 ELEMENTS. 34 WARNINGS. 7 DUPLICATE ELEMENTS REVIT'S OWN SCHEDULE NEVER CAUGHT.\n\nOne prompt, one live Revit model, one Claude session through the MCP connection. No plugins, no exported schedules to reformat by hand.\n\nClaude walked the model tree: rooms, families, sheets, e",
+      "likes": 242,
+      "views": 0,
+      "url": "https://x.com/i/status/2083614969845977311",
+      "is_kol": false,
+      "score": 831.0
+    },
+    {
+      "id": "2083612709333913913",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT HAS ONE PROMPT\nTHAT FINDS YOUR BIGGEST TIME WASTERS\nIN 5 MINUTES.\nPASTE IT AND ANSWER THE QUESTIONS.\n\nopen Hermes. paste this:\n\n\"interview me about my daily work routine.\nask me 5-7 questions one at a time.\nwhat tasks I repeat weekly.\nwhat takes the longest.\nwhat I f",
+      "likes": 208,
+      "views": 0,
+      "url": "https://x.com/i/status/2083612709333913913",
+      "is_kol": false,
+      "score": 704.0
+    },
+    {
+      "id": "2083559478902083773",
+      "author": "StudentOffersHQ",
+      "text": "$100 in free AI agent credits. No card. This week only.\n\n@coastyai gives you an AI agent with its own computer in the cloud. Real desktop — it browses, clicks and types like a human. Type the task, watch it work live, even from your phone.\n\nWhat people are building with it:\n\n• jo",
+      "likes": 148,
+      "views": 0,
+      "url": "https://x.com/i/status/2083559478902083773",
+      "is_kol": false,
+      "score": 469.0
+    },
+    {
+      "id": "2083666109874753797",
+      "author": "0xwhrrari",
+      "text": "Google just dropped a free 1-hour course\n\nOn building complete agent systems from scratch:\n\n07:02 - Build your first AI agent\n13:34 - Give every agent a specialized skill\n23:08 - Engineer the right context\n32:56 - Connect agents into graphs\n54:11 - Run 1,000 agents in autonomous ",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2083666109874753797",
+      "is_kol": false,
+      "score": 436.0
+    },
+    {
+      "id": "2083636090791936206",
+      "author": "elshayib_",
+      "text": "Here's DeepSeek V4 Flash result using the same prompt @0xPaulius used but i did it with Hermes Agent /goal, his result is much better obviously but he used Opus 5 running 12Hrs as he claimed and god knows how much that cost, Meanwhile...\n\nDeepSeek direct api cost: 0.33$\nTime spen",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2083636090791936206",
+      "is_kol": false,
+      "score": 379.0
+    },
+    {
+      "id": "2083776052598321233",
+      "author": "RoundtableSpace",
+      "text": "Someone built a fully autonomous, self-evolving AI operating system powered by Claude running 24/7 on its own dedicated server, and it's trending on r/ClaudeAI.\n\nInstead of running Claude inside a temporary terminal window that forgets context the moment you close the tab, this s",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2083776052598321233",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2083661300425539591",
+      "author": "fermah_xyz",
+      "text": "The integration bottleneck has shifted from wallet connectivity to MCP-layer composability.\n\nProtocols without a machine-callable surface are structurally invisible to the agent economy -- regardless of how capable their onchain logic is.\n\nFermah ships MCP-native execution so age",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2083661300425539591",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2083659035191185643",
+      "author": "startupideaspod",
+      "text": "Skill chaining is one of the keys to running AI native org\n\nHere's how a proposal takes us minutes instead of days:\n\nA prospect asks for a proposal. \n\nThat request gets picked up in a meeting transcript or my inbox and fires a chain — one skill calling the next:\n\n1) Builds the pr",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2083659035191185643",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2083775009802318271",
+      "author": "nykdotdev",
+      "text": "I'm not a filmmaker.\n\nI wanted to try my luck, play around with FLUX 3, and see if I could turn a broken pipe into a tiny story.\n\nThe hard part wasn't generating a pretty shot. It was making the cause and effect readable: one collar breaks, the same collar returns, one turn close",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2083775009802318271",
+      "is_kol": false,
+      "score": 298.0
+    },
+    {
+      "id": "2083494056332796276",
+      "author": "cattodata",
+      "text": "ขอบคุณทุกคนที่เข้ามาฟังไลฟ์กันนะค้าบบ สนุกมากๆๆ 🐱🙏💕ตามสัญญา เปิดตัวคอร์สใหม่ของเรา กับ DathTH⚡️Vibe Coding Pro\n\nพร้อมโปร Super Early Bird เฉพาะ 48 ชั่วโมงแรก 🐱🔥 มาเรียนด้วยกันน้า รอๆๆ \n\nคอร์สนี้เราจะสอนการใช้ Vibe Coding ร่วมกับ Agentic AI เพื่อเปลี่ยน “ไอเดีย” ในหัวให้กลายเป็นขอ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2083494056332796276",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2083630739287908516",
+      "author": "alistaiir",
+      "text": "I made a UK Trains MCP Server so you can find out if your train is delayed with Claude!\n\nRun:\n  claude mcp add --scope user --transport http trainiac https://t.co/ZMzlkOjS8b\n\nI also re-deployed the Grafana dashboard at https://t.co/aSami5lJPL https://t.co/2w2Kz1DLgi",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2083630739287908516",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2083782595674837092",
+      "author": "neil_xbt",
+      "text": "Most AI agent courses charging $500 teach you prompting tricks that stop working the moment your agent needs real memory or tools!\n\nGoogle just released a free 1-hour course that actually builds context engineering from scratch, the skill that separates agents that fall apart aft",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2083782595674837092",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2083815836003996033",
+      "author": "akshay_pachaar",
+      "text": "Google and Anthropic agree on one thing about retrieval.\n\nThey both moved it out of the app and turned it into a standalone service that agents invoke.\n\n- Anthropic's MCP exposes retrieval as a tool that an agent invokes.\n- Google ships it similarly, with its RAG Engine sitting u",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2083815836003996033",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2083602545998709068",
+      "author": "Alacritic_Super",
+      "text": "AI is coming to embedded development. Arduino-Agent is a glimpse of what's next.\n\nArduino-Agent is an open-source MCP server that connects AI assistants to the Arduino ecosystem, allowing them to write, compile, upload, and debug firmware using the Arduino CLI.\n\nWhat It Can Do\n\n-",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2083602545998709068",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2083713029741683133",
+      "author": "daweifs",
+      "text": "字节跳动开源 AI 超级员工\n\n近 8 万 GitHub Stars，能研究、写代码、做网页、生成 PPT，还会自己组建 AI 团队，DeerFlow 2.0 部署教程。\n\n字节跳动开源了一个真正能“干活”的 AI：DeerFlow 2.0 🦌\n\n它不只是陪你聊天。给它一个目标，它会：拆解任务 → 调用工具 → 分配子智能体 → 执行代码 → 检查结果 → 交付文件\n\nGitHub 已接近 8 万 Stars，下面教你 5 分钟部署👇\n\nDeerFlow 可以理解成：一个运行在自己电脑上的 AI 工作团队。\n\n普通 AI：你问一句，它回答一句。\n\nDee",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2083713029741683133",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2083764730892796097",
+      "author": "QuantumTransf",
+      "text": "我觉得 agent 发展到今天，真的还是「看山是山 -> 看山不是山 -> 看山还是山」\n\n最早没有 tool 的时候，是 dify 的上下文管道和各种靠 json 解析的 multiagent workflow\n\n后来从 claude code 到 openclaw，大家觉得龙虾 / hermes + skill 可以做任何事情，实在不行我们还有 harness 自进化 skill，多么诱人的前景，app 不存在了！\n\n现在又慢慢意识到，agent app 不是 agent + cli 那么简单，而是要真实去做一套和 base agent 关系不那么大",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2083764730892796097",
+      "is_kol": false,
+      "score": 219.0
+    }
+  ]
+}

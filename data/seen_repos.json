@@ -5534,5 +5534,41 @@
   "igloude/ds-skills": {
     "first_seen": "2026-08-01",
     "tier": 3
+  },
+  "jnsahaj/skills": {
+    "first_seen": "2026-08-02",
+    "tier": 2
+  },
+  "oso95/scroll-world": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "bholmesdev/skills": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "youmind-openlab/nano-banana-pro-prompts-recommend-skill": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "kylrix/kylrix": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "lassejlv/loora": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "citrolabs/ego-lite": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "remotion-dev/remotion": {
+    "first_seen": "2026-08-02",
+    "tier": 3
+  },
+  "xiaozhenliu/micro-eval": {
+    "first_seen": "2026-08-02",
+    "tier": 3
   }
 }
