@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-03",
+  "stats": {
+    "total_fetched": 341,
+    "unique_tweets": 143,
+    "tweets_with_repos": 16,
+    "unique_repos": 15,
+    "new_repos": 8,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-seo",
+      "github_url": "https://github.com/joeseesun/qiaomu-seo",
+      "tier": 3,
+      "is_new": true,
+      "score": 347.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "上周跟几个做 AI 创业的朋友聊，发现最稳定获取流量的方法还是传统的 SEO。\n\n让 AI 调用多个主流的SEO Skill，加上谷歌2026白皮书参考，生成一个SEO Skill。\n\n每次开发完网站，一句话优化网站 SEO，非常省心。\n\n安装指令：\nnpx skills add joeseesun/qiaomu-seo\n\n开源地址：\nhttps://t.co/0aAD6JUJTJ",
+        "likes": 69,
+        "url": "https://x.com/i/status/2084220465921609784"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084220465921609784"
+      ]
+    },
+    {
+      "repo": "jide/jide-skills",
+      "github_url": "https://github.com/jide/jide-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 223.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jidefr",
+        "text": "The missing image toolbox for vibe-coding.\n\nEvery common image operation you actually need when building apps &amp; sites: asset isolation, icon sets, design sheets, transparency, surgical edits, vision &amp; bounding boxes… - as agent skills.\n\nnpx skills add jide/jide-skills htt",
+        "likes": 5,
+        "url": "https://x.com/i/status/2084068950355120339"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084069000779092332",
+        "https://x.com/i/status/2084068950355120339"
+      ]
+    },
+    {
+      "repo": "zhulinsen/daily_stock_analysis",
+      "github_url": "https://github.com/zhulinsen/daily_stock_analysis",
+      "tier": 3,
+      "is_new": true,
+      "score": 197.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_zheergen",
+        "text": "买不起专业投研团队，不代表只能自己盯盘、翻财报、手写回测。\n\n我把 GitHub 上 4 个开源金融项目交给 Codex，结果真能拼出一套：\n\n「市场扫描 + 金融数据 + 多 Agent 研究 + 量化验证」的私人投研工作流。\n\n用到的四个项目：\n\ndaily_stock_analysis  60K star\nhttps://t.co/hGi3SlrIMm\n\n负责第一轮市场扫描。聚合多市场行情、技术指标、新闻和基本面，输出候选标的、趋势判断和风险警报。\n\nOpenBB  71.3K star\nhttps://t.co/UY6ykltcTR\n\n开放金融数",
+        "likes": 24,
+        "url": "https://x.com/i/status/2084156334036144216"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084156334036144216"
+      ]
+    },
+    {
+      "repo": "chenjin-cmd/agent-skills-launch-pack_",
+      "github_url": "https://github.com/chenjin-cmd/agent-skills-launch-pack_",
+      "tier": 3,
+      "is_new": true,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MoonInAI",
+        "text": "做自媒体起号最难的是什么？不是写不出第一条，是不知道\"该往哪写、写给谁看、发完怎么复盘\"\n\n我把踩坑经验整理成一套 agent skill，开源了agent-skills-launch-pack，一组给你\"陪跑\"的内容运营 skill，覆盖公众号、小红书、抖音、视频号、X/Twitter\n\n直接把起号拆成可执行的步骤：账号怎么定位、人设怎么立、选题库怎么搭、内容日历怎么排、数据怎么复盘，最实用的是X 的冷启动连回复区怎么混脸熟、主贴怎么转成关注都写进去了\n\nhttps://t.co/j7p27589Z8",
+        "likes": 21,
+        "url": "https://x.com/i/status/2084122192900444249"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084122192900444249"
+      ]
+    },
+    {
+      "repo": "visualgptio/seedance-25-prompt-writer",
+      "github_url": "https://github.com/visualgptio/seedance-25-prompt-writer",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KevinLau2333",
+        "text": "🚀 Stop wrestling with video prompts. This Skill writes them for you.\n\nWorks with Claude Code / Codex.\nInstall:\nnpx skills add visualgptio/seedance-25-prompt-writer\nRepo: https://t.co/rPiOYS3ojX\n#AIVideo #Seedance #PromptEngineering #AgentSkills #Dreamina https://t.co/v0HltADmqE",
+        "likes": 3,
+        "url": "https://x.com/i/status/2084224651165884672"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084224651165884672"
+      ]
+    },
+    {
+      "repo": "confident-ai/deepeval",
+      "github_url": "https://github.com/confident-ai/deepeval",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "juampitech",
+        "text": "@JustinPerea @reach_vb npx skills add confident-ai/deepeval --skill \"deepeval\"",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084256328046805063"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084256328046805063"
+      ]
+    },
+    {
+      "repo": "doublewater777/water-skills",
+      "github_url": "https://github.com/doublewater777/water-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PanYang0203",
+        "text": "I open-sourced a Codex skill I actually use daily:\n\nchatgpt-pr-review-loop\n\nIt turns ChatGPT PR review into a disciplined loop:\n1. push task work to a review branch/PR\n2. pull the latest findings\n3. reproduce → fix → add regression tests\n4. re-request review\n5. stop only on expli",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084218200556789861"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084218200556789861"
+      ]
+    },
+    {
+      "repo": "luth-v/skills",
+      "github_url": "https://github.com/luth-v/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "madewithv",
+        "text": "Skill buat modelmaxxing ada disini:\nhttps://t.co/z3KX3ZGmTH\n\nBisa install pake skill .sh\nnpx skills add luth-v/skills --all -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083964371387175275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083964371387175275"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tencentcloud/tencentdb-agent-memory",
+      "github_url": "https://github.com/tencentcloud/tencentdb-agent-memory",
+      "tier": 3,
+      "is_new": false,
+      "score": 319.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 58,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "connect24h",
+        "text": "Agentの記憶、ここまで資産として扱えるなら強い。自分の環境でも、前やったこと忘れてGrepする癖が残っているので、これ参考に改善したい。改善したら記事にでもするかな。\n\nTencentDB Agent Memoryは会話・文書・コードをChat Memory、Skill、LLM-Wiki、CodeGraphの4資産へ変換する。10,705★、直近1日で 604も納得。\n\n刺さったのは、ただのRAG置き場ではなく、version・所有者・Agentへの割り当て・private/team/restrictedのACLまで持つこと。Agentが増えるほど「",
+        "likes": 58,
+        "url": "https://x.com/i/status/2084043025765023890"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084043025765023890"
+      ]
+    },
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OxbfnoHome",
+        "text": "Kasih skill ini ke AI Agent lo biar gak ai slop lagi\n\nBanyak AI Agent sekarang udah bisa riset, browsing, sampai nulis artikel secara otomatis, tapi begitu hasilnya dibaca, sering kali masih terasa seperti tulisan AI, terlalu formal,banyak frasa yang berulang, kalimatnya terlalu ",
+        "likes": 23,
+        "url": "https://x.com/i/status/2084214077371617701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084214077371617701"
+      ]
+    },
+    {
+      "repo": "kunchenguid/firstmate",
+      "github_url": "https://github.com/kunchenguid/firstmate",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ssbrouhard",
+        "text": "@g_br_l Try /stow skill from @kunchenguid.\n\nIt scans the chat for the useful decisions, lessons, open next steps and writes them to local files. Then u can clear the session without losing the important things. Very useful! \n\nInstall:\nnpx skills add kunchenguid/firstmate --skill ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2084106003713331704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084106003713331704"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "点进https://t.co/xyoqWxucdz之前我以为就是个普通工具库，逛了十分钟发现完全不是一回事。\n\nVercel给AI代理做了一个应用商店。搜索框里敲进去想让它擅长的东西：设计网站、查修bug、测试代码、控制浏览器、做视频、处理数据库、写营销文案……每一条都对应一个技能包。\n\n点开一个技能，创建者、源代码、安装次数、支持哪些代理、安全审计结果全都列得清清楚楚。一条命令npx skills add owner/repo装完，代理就多了一套精准的操作指南，不用每次重新解释工作流，它知道走什么步骤、避什么坑、最后给出什么成品。\n\n支持Claude ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2083928054250795101"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2083928054250795101"
+      ]
+    },
+    {
+      "repo": "akash-joshi/agent-skills",
+      "github_url": "https://github.com/akash-joshi/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thewritingdev",
+        "text": "🎤🤖 I built a skill that lets me chat with my @voicenotesai using any AI agent - Claude Code, Hermes, whatever you want!\n\nThis is useful for Product Managers, Engineering Managers or just Software Engineers! Anyone who wants to chat with their notes to get useful insights or plans",
+        "likes": 1,
+        "url": "https://x.com/i/status/2084236401516712296"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084236401516712296"
+      ]
+    },
+    {
+      "repo": "minimax-ai/cli",
+      "github_url": "https://github.com/minimax-ai/cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_BrightRay",
+        "text": "MiniMax offers an official CLI that lets AI agents like Claude Code and Codex call MiniMax H3 for video generation.\nInstall with one command:\nnpx skills add MiniMax-AI/cli -y -gm\nCreate an API Key on MiniMax Platform, add it to your Agent, and start generating videos.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084118987840032821"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084118987840032821"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2083899759295975530",
+      "author": "CycleDecoded",
+      "text": "给黑客和扫号脚本直接整不会了，国内顶尖安全大厂长亭科技把他们家的商业级 Web 防火墙给开源了，这波白嫖党真的狂喜！\n\n这是 GitHub 上目前最火的开源自部署 WAF 防火墙系统 SafeLine（雷池），斩获了 2.2 万星。基于 GPL-3.0 协议开源，采用 Nginx 反向代理架构。不像传统防火墙死板地匹配规则，它直接上语义分析引擎，一条 Docker 命令就能给你的网站加个“防弹衣”。\n\n🔥 核心卖点：\n\n一键爆改反代：单条命令 3 分钟部署，傻瓜式上屏\n\n智能语义拦截：精准秒杀 SQL 注入、XSS 和零日漏洞\n\n人机挑战抗刷：内置验证码",
+      "likes": 285,
+      "views": 0,
+      "url": "https://x.com/i/status/2083899759295975530",
+      "is_kol": false,
+      "score": 1140.0
+    },
+    {
+      "id": "2083897856113717478",
+      "author": "_jaydeepkarale",
+      "text": "Context Engineering & Understanding AGENTS.md & SKILLS.md & CLAUDE.md",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2083897856113717478",
+      "is_kol": false,
+      "score": 568.0
+    },
+    {
+      "id": "2083924228462842049",
+      "author": "anya_yfa7",
+      "text": "Building onchain AI agents just got significantly simpler\n\nThe @injective AI Agent SDK is now live\n\nAnd the setup is just one command that connects cursor directly to Injective is MCP server\n\n—\n\nOnce connected, the agent can do three things from a single workflow:\n\n• Read Injecti",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2083924228462842049",
+      "is_kol": false,
+      "score": 389.0
+    },
+    {
+      "id": "2084095409216000407",
+      "author": "iamlukethedev",
+      "text": "Call them workaholics. I call it a normal Sunday at Hermes\n\n104 PRs merged today\n\nHere’s what actually matters ↓\n\nFEATURES (18)\n• Fact-checking mode for grounded-citations\n• Session activity heartbeats with stall watchdog\n• Recoverable terminal truncation with output spillage\n• A",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2084095409216000407",
+      "is_kol": false,
+      "score": 388.0
+    },
+    {
+      "id": "2083956097527005503",
+      "author": "userofintellect",
+      "text": "🔥 FINN 2.0 IS LIVE 🔥\n\nThe first native AI connector APP / Software for TradingView just got a massive upgrade... and it’s about to change the way you trade.\n\n106 powerful tools:\n• 84 TradingView control tools... completely free\n• 22 EZPZ intelligence tools\n\nFinn can now control y",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2083956097527005503",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2084209160829497614",
+      "author": "CrypMvs",
+      "text": "🚨 PulseChain Weekly Monster Thread #65 🚨\n\nRichard's Safety Tips, LiberPulco In Serbia, Malaysia Blockchain Week, PulseChain AI Agents & More Monster Moves! 🔥\n\nCheck out @EMITfarm & @TruDeFi_io for the best farming options. 📡\n\nReady for your free weekly MONSTER NEWS? 🧵👀\n\nRichard's",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2084209160829497614",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2084006583256985799",
+      "author": "CFchangelog",
+      "text": "MCP server portals now support static OAuth credentials. Connect to Slack, GitHub, and other providers without Dynamic Client Registration.\n\nhttps://t.co/Y69HACetMG",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2084006583256985799",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2084129443552055479",
+      "author": "nykdotdev",
+      "text": "After building across control planes, research tools, migration paths, and local-first workflows, one pattern keeps surviving: a useful agent repo reduces the cost of the next real run.\n\nThese are the 10 public repositories I own or maintain that best represent that work right no",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2084129443552055479",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2084104475460108711",
+      "author": "GithubProjects",
+      "text": "HiveChat is a self-hosted AI chat app for small teams, with admin-managed model access and token limits per user group.\n\n- Supports DeepSeek, OpenAI, Claude, Gemini, and 10+ other providers, plus custom OpenAI-compatible endpoints\n- Per-group model visibility and monthly token qu",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2084104475460108711",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2084160837904724333",
+      "author": "neil_xbt",
+      "text": "The actual finding is this: \n\n\"Taste Skill is an open-source skill built to reduce the generic-looking frontend output that AI coding agents tend to produce by default.\"\n\n> Works across popular agents including Claude Code, Codex, Cursor, Gemini CLI, Lovable, and v0\n> Doesn't req",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2084160837904724333",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2084003270776041697",
+      "author": "witcheer",
+      "text": "Hermes Wingtips #38: hermes doctor\n\nyour Hermes Agent ships with its own health check. one command reads your whole setup and prints a pass/fail report:\n\n- security advisories and a MCP server audit\n- python environment and version consistency\n- config files, deprecated keys and ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2084003270776041697",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2084083326923817183",
+      "author": "FinnTsai88",
+      "text": "个人 Agent 很好做，公司 Agent 才是地狱难度。\n权限边界、记忆归属、Skill 如何变成组织资产、失败后谁接管……这些才是真正卡住落地的地方。\n\nYC 自己用 QM 跑财务、法务、工程，还拿它开发自己，已经是最好的实践样本。",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2084083326923817183",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2083938999970734220",
+      "author": "starmexxx",
+      "text": "ANTHROPIC IS LYING ABOUT LAYER 2 AND YOU'RE PAYING $200/MO FOR THE COVER-UP\n\nevery \"opus 5 got worse\" post is really a layer 2 bug. anthropic will let you believe otherwise\n\nold way: rewrite the ask 47 times and pray\n-> new way: five files, each one names the real break\n\nL1 promp",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2083938999970734220",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2083876536004784610",
+      "author": "q_dome",
+      "text": "zrobiłem mcp server zbiorkomu xD https://t.co/9GzWMg59EY",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2083876536004784610",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2084146038781415755",
+      "author": "karanbuidls",
+      "text": "Completed the FastAPI &amp; FastMCP modules &amp; implementation today :)\n\nOne analogy that made MCP click:\n- FastAPI -&gt; HTTP APIs\n- FastMCP -&gt; AI Tool APIs\n- Routes -&gt; Tools\n- HTTP Client -&gt; MCP Client\n\nSuprising thing? MCP being a whole client-server application in ",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2084146038781415755",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2084113075805057402",
+      "author": "MrDennisV",
+      "text": "Could agents be a useful tool for testing Chia Gaming? Why not find out?\n\nI built an MCP server and put Claude and Codex in a heads-up Texas Hold’em match, each using its own Chia wallet.\n\nNo human decisions in this test.\n\nWatch the room:\nhttps://t.co/Jj1pvOOaP2\nFirst agent-vs-ag",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2084113075805057402",
+      "is_kol": false,
+      "score": 131.0
+    },
+    {
+      "id": "2083858281110384761",
+      "author": "thekuchh",
+      "text": "this FREE MCP server cuts the cost of your AI agents by 95%\n\nthe secret: it compresses what the agent reads before the model ever sees it, not after\n\nwhy do you need this:\n\n→ compress raw log dumps before a debugging agent has to read through all of them\n→ shrink JSON tool output",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2083858281110384761",
+      "is_kol": false,
+      "score": 131.0
+    }
+  ]
+}
