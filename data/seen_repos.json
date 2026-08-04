@@ -5602,5 +5602,17 @@
   "luth-v/skills": {
     "first_seen": "2026-08-03",
     "tier": 3
+  },
+  "amd/skills": {
+    "first_seen": "2026-08-04",
+    "tier": 2
+  },
+  "superset-sh/skills": {
+    "first_seen": "2026-08-04",
+    "tier": 3
+  },
+  "modelcontextprotocol/modelcontextprotocol": {
+    "first_seen": "2026-08-04",
+    "tier": 3
   }
 }

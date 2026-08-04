@@ -1,0 +1,433 @@
+{
+  "date": "2026-08-04",
+  "stats": {
+    "total_fetched": 357,
+    "unique_tweets": 159,
+    "tweets_with_repos": 16,
+    "unique_repos": 12,
+    "new_repos": 3,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "amd/skills",
+      "github_url": "https://github.com/amd/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 742.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 134,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIatAMD",
+        "text": "Meet AMD Skills: A growing catalog of agent skills that helps AI coding assistants work more effectively with AMD hardware and software. \n\nCompatible with coding agents including Cursor, Claude Code, OpenAI Codex, and Gemini CLI, AMD Skills provides the knowledge, scripts, and be",
+        "likes": 134,
+        "url": "https://x.com/i/status/2084376136985764032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084551196447322343",
+        "https://x.com/i/status/2084376136985764032"
+      ]
+    },
+    {
+      "repo": "superset-sh/skills",
+      "github_url": "https://github.com/superset-sh/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 194.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FlyaKiet",
+        "text": "What we shipped the last three weeks @superset_sh 🛳️\n\n1. Orchestrator skill 🕹️\n\nYour agents can now start orchestrating Superset: Create new workspace, spin up and manage other agents, etc. \n\nTry it with: npx skills add superset-sh/skills\n\n2. Pin and bulk-manage workspaces 📌\n\nAs ",
+        "likes": 28,
+        "url": "https://x.com/i/status/2084378264643252670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084378264643252670"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/modelcontextprotocol",
+      "github_url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oliviersm199",
+        "text": "@dsp_ I enjoyed your talk on the MCP roadmap for 2026. Your comment that structured outputs are a “misunderstood concept\" stood out to me.\n\nhttps://t.co/PgGK11oMBK\n\nWhat do you think people misunderstand about them?\n\nAdoption does appear fairly low, even though the feature seems ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084602731126300672"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084602731126300672"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 647.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 39,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rosemoni18",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/nCoDlO2Qri\n\n2. public-apis — free APIs for everything\n→ https://t.co/YXTvX65lhn…\n\n3. build-your-own-x — learn by building\n→ https://t.co/ZSdLP1dESc…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 73,
+        "url": "https://x.com/i/status/2084485735621804503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084500568601686467",
+        "https://x.com/i/status/2084485735621804503"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-seo",
+      "github_url": "https://github.com/joeseesun/qiaomu-seo",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paramiao",
+        "text": "📢 2026-08-04 AI日更 | 从会聊到会办事：本地个人 Agent 与全双工语音走到前台\n\n> 今天的主线是 AI 从对话界面走向执行系统：OpenClaw 代表本地优先个人 Agent 的落地尝试，实时语音 AI 则把交互焦点推进到全双工与低延迟。与此同时，评估可信度、端侧模型和模型定价分化继续成为产业变量。\n\n🔹 📖 本期 Watch List 深度导读\n\n今天最值得追的是“智能体从聊天走向执行”。OpenClaw 相关访谈与论文同时出现，前者呈现本地运行、接入邮件/日历/文件的开源助手愿景，后者尝试把推理、编排、执行拆成可评估的全栈架构，",
+        "likes": 2,
+        "url": "https://x.com/i/status/2084521816073322627"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084521816073322627",
+        "https://x.com/i/status/2084521815083495757"
+      ]
+    },
+    {
+      "repo": "luth-v/skills",
+      "github_url": "https://github.com/luth-v/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "madewithv",
+        "text": "versi indonya\n\n/anjing\n\nnpx skills add luth-v/skills --skill anjing https://t.co/y4UJoIckbE",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084591592128786905"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084591592128786905",
+        "https://x.com/i/status/2084588317233078548"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsdizcorvus",
+        "text": "Tiap ngerjain website client gw suka banget pake skill superpowers buat AI agent gw, baik itu di antigravity/opencode/openclaw/hermes.\n\nJadi outputnya pasti rapi+professional.plans sama implementation plans mulai dari framework, tujuan pembuatan website/app, struktur, dll lengkap",
+        "likes": 4,
+        "url": "https://x.com/i/status/2084563214923338055"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084563214923338055"
+      ]
+    },
+    {
+      "repo": "stewartcelani/skills",
+      "github_url": "https://github.com/stewartcelani/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "stewartcelani",
+        "text": "@mweinbach @maria_rcks npx skills add stewartcelani/skills --list\n\nThere is a /codex-session /grok-session and /claude-session in  my repo here. Can give any model the know-how to just read the log file off any conversation so you can pick u p or continue a side thread in any.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2084378358503378977"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084378358503378977"
+      ]
+    },
+    {
+      "repo": "buddypia/agent-skills",
+      "github_url": "https://github.com/buddypia/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buddypia",
+        "text": "サイバーエージェント Developer Blogの記事を1番目にご紹介いただきました！大変光栄です。😆🎉\n\nご紹介いただいたのは、1つのLLMに依存せず、Gemini・Claude・GPTを「討論・推敲・メタ認知」させる「Agent Skills」の開発記事です。\n\n👇 インストール方法\nnpx skills add buddypia/agent-skills\n\nAIが生成したコードを同じAIに検証させると「自己評価の偏り」が生じがちですが、ベンダーを変えることで学習データや推論の癖の違いを利用できます。\nそれぞれの誤りを「互いに独立した誤り」とし、片",
+        "likes": 1,
+        "url": "https://x.com/i/status/2084460412901171494"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084460412901171494"
+      ]
+    },
+    {
+      "repo": "uditakhourii/adhd",
+      "github_url": "https://github.com/uditakhourii/adhd",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RaoulDukeDegen",
+        "text": "@techNmak pretty cool you just do npx skills add uditakhourii/adhd for most agents",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084570627420119257"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084570627420119257"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "the_osps",
+        "text": "• Install skills with `npx skills add owner/repo`\n• Use skills without installing via `npx skills use`\n• Search for skills interactively with `npx skills find`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084361426546897319"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084361426546897319"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "AI编程工具用了几个月，我发现一个规律：提问方式决定了代码质量的上限。\n\nMatt Pocock在GitHub上开源的这套Agent Skills，就是冲着这个痛点来的。他管它叫\"真实工程师的技能包\"，每个技能只解决一个问题，拼起来就是一个完整工作流。\n\n需求对不齐？/grill-me和/grill-with-docs把对话拉回正轨。代码写烂了？/tdd拉你走一遍红绿重构。\n\n架构开始变味了？/improve-codebase-architecture帮忙兜底。连沟通效率都有专门工具，用CONTEXT.md给项目建一套统一话术。\n\nClaude Code",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084602750881476902"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084602750881476902"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2084537270519164996",
+      "author": "gengdaJ",
+      "text": "把我自用的8个Skills一口气全部开源了，最全的一次！兄弟们随意逛逛，挑点对自己有用的就好😋\n\n1. yichen-web-research Skill：全网搜索、链接下载、收藏导出、音频转写一体。\nhttps://t.co/VE3MQMpGN8\n\n2. Codex和Claude Code共用的记忆系统Skill：Markdown格式储存，可编辑，自进化。\nhttps://t.co/23reFZ14fa\n\n3. 微信Skill：聊天记录、联系人、朋友圈、收藏夹全部可导出，可增量查询。Mac和Windows均可，数据在Mac本地，很安全。\nhttps:/",
+      "likes": 278,
+      "views": 0,
+      "url": "https://x.com/i/status/2084537270519164996",
+      "is_kol": false,
+      "score": 1034.0
+    },
+    {
+      "id": "2084258526189199386",
+      "author": "anaisbetts",
+      "text": "5. In DevTools, right-click a request =&gt; \"Copy all as HAR\", save the clipboard output as a file\n6. \"Copy all as fetch\" =&gt; same\n7. Dump it in an empty Bun project, Plan Mode \"Read these archives and make a TypeScript API and MCP server\"",
+      "likes": 246,
+      "views": 0,
+      "url": "https://x.com/i/status/2084258526189199386",
+      "is_kol": false,
+      "score": 748.0
+    },
+    {
+      "id": "2084345938089316582",
+      "author": "posthog",
+      "text": "What nobody tells you about writing agent skills",
+      "likes": 232,
+      "views": 0,
+      "url": "https://x.com/i/status/2084345938089316582",
+      "is_kol": false,
+      "score": 746.0
+    },
+    {
+      "id": "2084388055709061377",
+      "author": "geekfujiwara",
+      "text": "🚀 新しい Copilot Studio が一般提供になりました\n\n見た目が新しくなっただけではありません。後ろのエンジンが入れ替わっています 🔧\n\n🧠 新エンジンの正体は GitHub Copilot harness\nGitHub Copilot coding agent や Copilot Cowork を動かしているのと同じコーディングと推論の力が、そのまま業務エージェントに載りました\n\n🎯 エンジンが変わると何ができるか\n・ステップが多い、参照先が多い、判断が曖昧、そんな今まで届かなかった業務プロセスを丸ごとお任せ\n・Opus 5 と GPT-5",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2084388055709061377",
+      "is_kol": false,
+      "score": 606.0
+    },
+    {
+      "id": "2084564623752106269",
+      "author": "BlaqOnyemauche",
+      "text": "Automation becomes limited the moment a workflow reaches a tool the platform cannot access.\n\nThat is the gap Actionist is designed to close.\n\n.@ActionModelAI is building a community-owned Large Action Model, an AI system focused on taking action across computers instead of only g",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2084564623752106269",
+      "is_kol": false,
+      "score": 431.0
+    },
+    {
+      "id": "2084401722022379527",
+      "author": "Mho_23",
+      "text": "this video is 100% AI Generated..\n\nmany of the top AI UGC platforms are actively using my content in their marketing materials without my permission lol\n\ni still haven't seen any AI UGC platform replicate my quality or costs..\n\nill soon be releasing my own specialized MCP that le",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2084401722022379527",
+      "is_kol": false,
+      "score": 410.0
+    },
+    {
+      "id": "2084504770736222669",
+      "author": "lidangzzz",
+      "text": "我不用deepseek，不用GLM，不用kimi，不用qwen，我只用盘古大模型。\n\n建议华为AI Agent叫做女娲智能体，配上华为盘古大模型，后羿docker，共工MCP，伏羲cli，黄帝skill marketplace，炎帝plugin marketplace，蚩尤goal（完全抄袭党哥goal driven），配上鸿蒙os和方舟编译器，一起打包进国产信创。",
+      "likes": 131,
+      "views": 0,
+      "url": "https://x.com/i/status/2084504770736222669",
+      "is_kol": false,
+      "score": 408.0
+    },
+    {
+      "id": "2084369982918406433",
+      "author": "codyschneider",
+      "text": "everything you need to deploy AI agents for marketing and not some reddit comment slop machine that just raised $4M\n\n- data pipeline\n\n- data warehouse\n\n- cloud Server (deploy dashboards, interactive apps etc)\n\n- media Storage (Images, Videos)\n\n- databases for agents (Postgres dat",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2084369982918406433",
+      "is_kol": false,
+      "score": 360.0
+    },
+    {
+      "id": "2084479805815148835",
+      "author": "0xYdv_James",
+      "text": "GM, Gkite ☀️ 🪁 💜\n\nKite is optimizing for \"funds should never move unless the system is confident they should.\"\n\nmost of the people will look at this update and see deposit warnings, skill updates, and a brief network pause.\n\nI see something else.\n\n@GoKiteAI is building for a futu",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2084479805815148835",
+      "is_kol": false,
+      "score": 334.0
+    },
+    {
+      "id": "2084322708050125237",
+      "author": "haydenbleasel",
+      "text": "Blume 1.3 just dropped.\n\nYour docs are now even more discoverable and usable by AI agents.\n\n→ discovery headers + API catalogs\n→ Agent Skills + WebMCP\n→ MCP Server Cards + Web Bot Auth\n→ DNS-AID audits\n\nAlmost everything is zero-config. ↓ https://t.co/C9ajr28s4K",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2084322708050125237",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2084246030124822978",
+      "author": "0xZackBh",
+      "text": "Tarik kembali last update tentang moonpay nya ,ternyata ada anomali dan keselamatan akun X lo juga \n\nLo mau akun X di Hack jadi Miabi 😭\n\nBerikut tutorial singkatnya \n\n1. Hapus PayBox dari Claude\n• Buka Claude → Kustomisasi → Konektor\n• Cari konektor kustom PayBox\n• Klik Putuskan ",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2084246030124822978",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2084466855494734232",
+      "author": "heyitsurya",
+      "text": "Claude Code ships with 5 architectural layers most engineers never open.\n\nNot features. Not settings. Layers — each solving a distinct problem that LLMs alone can't solve. And four of them have nothing to do with prompting.\nHere's the full Agent Development Kit:\n\nLayer 1 — CLAUDE",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2084466855494734232",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2084449316735987918",
+      "author": "Zen_with_AI",
+      "text": "最近越来越觉得：\n\nAI 真正的竞争，很可能已经不是模型，而是 Harness。\n\n如果把 Harness 看成 AI 的操作系统（OS），很多东西一下就想通了。\n\n模型（LLM）越来越像 CPU。\n\n真正决定 Agent 上限的，不再只是模型，而是 Harness。\n\n未来 Harness 至少要解决六件事：\n\n1. Process Management（进程管理）\n不是 Multi-Agent，而是真正的进程调度。\nSub-agent = Process，有创建、调度、暂停、恢复、Checkpoint、资源配额、失败重试。\n\n2. File Syst",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2084449316735987918",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2084309430854664644",
+      "author": "anaisbetts",
+      "text": "Here's an example of using this trick: https://t.co/RHfL1IvMLJ - an MCP server and TypeScript API for my terrible brokerage that doesn't even have Kubera / Plaid integrations",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2084309430854664644",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2084573544630133096",
+      "author": "alanaanastasya",
+      "text": "🗣️ bikin CV pake aplikasi apaa\n\naku ga pake aplikasi, aku 100% pake AI Claude \n\nkalo gamau kena limit di Claude, langsung aja bikin perintah\n\nini prompt yang aku pake 👇🏼\n\nbuatkan saya CV dengan Informasi berikut :\n\n(nama lengkap)\n(nomor telepon)\n(email)\n(alamat lengkap)\n(nama kam",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2084573544630133096",
+      "is_kol": false,
+      "score": 200.0
+    },
+    {
+      "id": "2084556419915792770",
+      "author": "halilkutukk",
+      "text": "8 aydır Claude Code'a aynı şeyleri baştan anlatıyormuşum.\n\nHer yeni oturum sıfırdan başlıyor. Dün düzelttiğim alışkanlığı bugün yine yapıyor.\n\nBugün Affaan M tarafından geliştirilen ve GitHub'da kısa sürede 237 bin yıldıza ulaşan ECC adlı ücretsiz bir eklenti keşfettim. ( daha ön",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2084556419915792770",
+      "is_kol": false,
+      "score": 198.0
+    }
+  ]
+}
