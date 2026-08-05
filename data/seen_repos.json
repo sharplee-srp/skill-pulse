@@ -5614,5 +5614,37 @@
   "modelcontextprotocol/modelcontextprotocol": {
     "first_seen": "2026-08-04",
     "tier": 3
+  },
+  "sorrycc/skills": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "alexzio00/sovereign-skills": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "szybnev/dev-skills": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "firecrawl/anydoc": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "brickhu/skills": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "sdlll/claude-for-safari": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "reindent/agent-talk": {
+    "first_seen": "2026-08-05",
+    "tier": 3
+  },
+  "krushiraj/code-threat-scan": {
+    "first_seen": "2026-08-05",
+    "tier": 3
   }
 }

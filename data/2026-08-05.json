@@ -1,0 +1,483 @@
+{
+  "date": "2026-08-05",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 155,
+    "tweets_with_repos": 16,
+    "unique_repos": 14,
+    "new_repos": 8,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "sorrycc/skills",
+      "github_url": "https://github.com/sorrycc/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 293.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenchengpro",
+        "text": "我是这么管理 Skills 的。\n\nSkill 有两个痛点。\n\n一个是同步。如何保持一个源，让它在项目、全局、以及远程机器上保持一致。\n\n另一个是上下文爆炸。我见过装了两千多个 skill 的用户，然后回过头来问我们，为啥 code agent 这么慢。\n\n我的解法：一个中央仓库，一个 sync 脚本，绝大多数 skill 加 disable-model-invocation: true。\n\n1\\ 只有一个源头\n\n维护了一个 ~/Projects/cc-skills/，60+ skills，实验性质的不在这。改只在这里改，别处都是副本。\n\n2\\ 分发交给",
+        "likes": 61,
+        "url": "https://x.com/i/status/2084894203092607299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084894203092607299"
+      ]
+    },
+    {
+      "repo": "alexzio00/sovereign-skills",
+      "github_url": "https://github.com/alexzio00/sovereign-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 234.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlexZio00",
+        "text": "sovereign-skills v6.5.8 is out.\n\n20 skills covering the full Claude Code project lifecycle. setup, session management, code review, governance. 7 skills updated this release:\n\nsession-checkpoint — new CT promotion queue: deterministic token-overlap detection of repeatedly-mention",
+        "likes": 3,
+        "url": "https://x.com/i/status/2084874804218515491"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084874804218515491",
+        "https://x.com/i/status/2084874577663123935"
+      ]
+    },
+    {
+      "repo": "szybnev/dev-skills",
+      "github_url": "https://github.com/szybnev/dev-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "szybnev",
+        "text": "@KingBootoshi ADRs capture taste and invariants. Skills capture recurring failure modes (moves, lifetimes, races, deps). Both beat re-explaining in every chat. Public set for systems work: npx skills add szybnev/dev-skills · https://t.co/aPihH00fSs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084751936465621300"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084751936465621300",
+        "https://x.com/i/status/2084751660346220974"
+      ]
+    },
+    {
+      "repo": "firecrawl/anydoc",
+      "github_url": "https://github.com/firecrawl/anydoc",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomaxxing",
+        "text": "we’ve just launched a cli and agent skill\n\nnow your claude can instantly read any document\n\nnpx skills add firecrawl/anydoc",
+        "likes": 5,
+        "url": "https://x.com/i/status/2084757951886057669"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084757951886057669"
+      ]
+    },
+    {
+      "repo": "brickhu/skills",
+      "github_url": "https://github.com/brickhu/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fei1919",
+        "text": "All the best component libraries are #React-only — but your stack is #SolidJS/#Svelte? 💔\n\n📋: npx skills add brickhu/skills/recomp \n\n#SKILL /recomp : paste a component library docs link → component for YOUR #framework. No install, just code. 🧩\n\nhttps://t.co/sULnXlLiGJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2084921336829554900"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084921336829554900"
+      ]
+    },
+    {
+      "repo": "sdlll/claude-for-safari",
+      "github_url": "https://github.com/sdlll/claude-for-safari",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sergeonsamui",
+        "text": "Control Safari from Claude Code, Cursor or Windsurf via AppleScript — no extensions, no separate browser. 10 ops: tabs, JS eval, screenshots, clicks, scroll. Install: npx skills add SDLLL/claude-for-safari\n\nhttps://t.co/uczV3WfAEZ https://t.co/m7oaXcOzqU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084882868753293364"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084882868753293364"
+      ]
+    },
+    {
+      "repo": "reindent/agent-talk",
+      "github_url": "https://github.com/reindent/agent-talk",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daraosn",
+        "text": "The skill is published.\n\nInstall it: npx skills add reindent/agent-talk\nDocs: https://t.co/a1w9yEjZhs\nSource: https://t.co/2KpwfDuM55\n\nFun fact: the website for this skill was handed off and built by two agents talking over the protocol itself.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084878789998252278"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084878789998252278"
+      ]
+    },
+    {
+      "repo": "krushiraj/code-threat-scan",
+      "github_url": "https://github.com/krushiraj/code-threat-scan",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krushiraj123",
+        "text": "Wrote a skill to tackle such cases\n\n`npx skills add krushiraj/code-threat-scan`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084748784207356284"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084748784207356284"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 2,
+      "is_new": false,
+      "score": 889.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 218,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsdizcorvus",
+        "text": "Tiap ngerjain website client gw suka banget pake skill superpowers buat AI agent gw, baik itu di antigravity/opencode/openclaw/hermes.\n\nJadi outputnya pasti rapi+professional.plans sama implementation plans mulai dari framework, tujuan pembuatan website/app, struktur, dll lengkap",
+        "likes": 218,
+        "url": "https://x.com/i/status/2084563214923338055"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084563214923338055"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 388.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kashish3097",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/pxNRPv4qJA\n\n2. public-apis — free APIs for everything\n→ https://t.co/BEsFiLGBxI…\n\n3. build-your-own-x — learn by building\n→ https://t.co/pcA8PxFo0m…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 61,
+        "url": "https://x.com/i/status/2084879975472300339"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084879975472300339"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-seo",
+      "github_url": "https://github.com/joeseesun/qiaomu-seo",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "paramiao",
+        "text": "📢 2026-08-04 AI日更 | 从会聊到会办事：本地个人 Agent 与全双工语音走到前台\n\n> 今天的主线是 AI 从对话界面走向执行系统：OpenClaw 代表本地优先个人 Agent 的落地尝试，实时语音 AI 则把交互焦点推进到全双工与低延迟。与此同时，评估可信度、端侧模型和模型定价分化继续成为产业变量。\n\n🔹 📖 本期 Watch List 深度导读\n\n今天最值得追的是“智能体从聊天走向执行”。OpenClaw 相关访谈与论文同时出现，前者呈现本地运行、接入邮件/日历/文件的开源助手愿景，后者尝试把推理、编排、执行拆成可评估的全栈架构，",
+        "likes": 2,
+        "url": "https://x.com/i/status/2084521816073322627"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084521816073322627"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Create your own U.S. equity basket with Byreal Perps Agent Skills.\n\nTrade $GME, $NFLX, $NOW, and $BX in one workflow - long, short, or hedge through a single agent execution setup. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/NWsDIZsnfZ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2084840678606213494"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084840678606213494"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kemu_aii",
+        "text": "④Hallmark\n\nデザイン担当です。AIにUIを作らせると動くけど見た目が惜しい、が解決します。\n\nnpx skills add nutlope/hallmark\n\n最初からこれを渡しておくと、後から手直しする手間がなくなります。オープンソースなので無料です。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084746498441621799"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084746498441621799"
+      ]
+    },
+    {
+      "repo": "chrislee121/pitfall-skill",
+      "github_url": "https://github.com/chrislee121/pitfall-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChrisLee207",
+        "text": "Agent 修过的 Bug，换个对话又重来一遍，你是不是也烦死了？\n\n我给自己做了个「踩坑.skill」：\n说一句「把这个坑记一下」，它就写进 .pitfalls/\n同类问题第二次出现 + 你确认已解决 → 自动升级成 Rule 或独立 Skill\n\nCursor / Claude Code / Codex / OpenClaw 都能用，不挑环境。\n\nGitHub：https://t.co/vhELVx4pnf",
+        "likes": 0,
+        "url": "https://x.com/i/status/2084671040219992525"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2084671040219992525"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2084941367659168064",
+      "author": "mattpocockuk",
+      "text": "This didn't really work. A passive instruction never does that much to alter output tone.\n\nSo I'm shipping a new skill in v1.2: /wait-what\n\nFor when you have no clue what the agent is saying",
+      "likes": 370,
+      "views": 0,
+      "url": "https://x.com/i/status/2084941367659168064",
+      "is_kol": false,
+      "score": 1140.0
+    },
+    {
+      "id": "2084935574943576532",
+      "author": "mattpocockuk",
+      "text": "What are you guys using to let your agent spawn other agents?\n\nI.e. NOT subagents, but to open more tmux/herdr panes, or claude agents?\n\nI have a /claude-handoff skill which I use a LOT, and I'm debating making it into /spawn\n\n/spawn would detect what tool you use (tmux/cmux etc)",
+      "likes": 249,
+      "views": 0,
+      "url": "https://x.com/i/status/2084935574943576532",
+      "is_kol": false,
+      "score": 757.0
+    },
+    {
+      "id": "2084919577562255639",
+      "author": "Khazix0918",
+      "text": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2084919577562255639",
+      "is_kol": false,
+      "score": 468.0
+    },
+    {
+      "id": "2084795673141272770",
+      "author": "IamEmily2050",
+      "text": "Seedance V2.5 \n\nI love drama more than action clips because you can tell more stories and explore people emotion.\n\nI will update the Skill and add Seedance V2.5 when I feel I got hold of all the tricks.\n\nJapanese live action TV drama style, photoreal. A young couple in their mid ",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2084795673141272770",
+      "is_kol": false,
+      "score": 355.0
+    },
+    {
+      "id": "2084876389983916130",
+      "author": "OlivercrestAI",
+      "text": "Claude Cowork is locked behind a paid Claude plan.\n\nPro: $20 a month\nMax: $100 to $200 a month\n\nOpenWork does the same thing on your own machine.\n\nFor free.\n\nAnd it works with every agent you already use.\n\nClaude Code. Cursor. Codex. OpenCode.\n\nOne MCP command and every skill, pl",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2084876389983916130",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2084720012858941737",
+      "author": "0xtega_",
+      "text": "Missed out on what happened on @injective\nLast week, welp I got you covered \n\nHere is literally the major happenings\n.\n.\n➮ POSCO International and LG CNS have selected Injective to power its first ever blockchain-based trade finance pilot.\nhttps://t.co/tL03g5twT8\n\n➮ With just One",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2084720012858941737",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2084740355291836734",
+      "author": "lincolixavier",
+      "text": "Refiz meu site do zero. Zero dependências no build.\n\nSem framework, sem bundler, sem node_modules. Um gerador estático em Node puro.\n\n→ Parser de Markdown \n→ Syntax highlighting no build\n→ Minificador de CSS\n→ Gerador de OG image por artigo\n→ Views, Likes e Newsletter: serverless",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2084740355291836734",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2084939754383057094",
+      "author": "Shihoron_media",
+      "text": "𝗕𝗶𝗴 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗘𝗰𝗼𝗻𝗼𝗺𝘆!\n\nFinChip has officially introduced ERC-8338, a new Ethereum ERC standard designed to solve a fundamental problem that AI agents have faced from the beginning:\n\n\"How can anyone verify what Skill an AI agent is actually executing?\"\n\nUntil now",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2084939754383057094",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2084927030907351480",
+      "author": "BlaqOnyemauche",
+      "text": "Automation becomes limited the moment a workflow reaches a tool the platform cannot access.\n\nThat is the gap Actionist is designed to close.\n\n.@ActionModelAI is building a community-owned Large Action Model, an AI system focused on taking action across computers instead of only g",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2084927030907351480",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2084656170082451687",
+      "author": "bygodgiven",
+      "text": "Anthropic and OpenAI just agreed on the same UI spec, and it takes the funnel away from every app that adopts it.\n\nMCP Apps is official now. Your server returns HTML, the chat renders it in a sandbox, your brand survives the trip. That is the part they sell.\n\nThe part that is not",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2084656170082451687",
+      "is_kol": false,
+      "score": 203.0
+    },
+    {
+      "id": "2084746413309608415",
+      "author": "dotnet",
+      "text": "SQL MCP Server = safe AI access to real data. 🤖🔐\nLLMs give intent, SQL MCP builds deterministic T‑SQL.\nOn‑behalf‑of auth = no “shovel with its own identity.”\nSeven tools, no hallucination soup.\nEmbeddings + semantic search coming next.\n👉 Watch: https://t.co/7cE3Bg8fzq https://t.c",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2084746413309608415",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2084773254997123402",
+      "author": "Udoh_Graceee",
+      "text": "Day 16/30.\n\nGoogle's Agent Identity, Agent Registry, and Agent Gateway went generally available this year, and I think it's one of the most important validations the agent identity thesis has received from outside the crypto industry.\n\nHere's what they actually built.\n\nAgent Iden",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2084773254997123402",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2084674571274535049",
+      "author": "AlphaSeeker21",
+      "text": "Picked up $AEMU @AemulusAI sub $20k MC \n\nWhat is it? \n\nBrowser automation is about to get a massive upgrade.\n\nIt’s building verifiable browser automation where AI agents can:\n• Learn tasks from a single demonstration\n• Self-repair when websites change\n• Generate tamper-proof proo",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2084674571274535049",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2084744376727859516",
+      "author": "benhylak",
+      "text": "codex can finally write coherent sentences.\n\ni made a tool so i can bring kimi/opus (or any other model) into codex (or any other app) via mcp\n\nsupports vercel ai gateway and/or @OpenRouter https://t.co/5UfFg03VEJ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2084744376727859516",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2084946385619845182",
+      "author": "paraschopra",
+      "text": "Most people don’t use AI agents daily because delegation (to another human) is a learned skill.\n\nUsing AI agents is actually a lot like doing natural language programming: specifying requirements, verifying outputs, guiding the flow, giving context.\n\nAlso, using an AI agent requi",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2084946385619845182",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2084891595917361277",
+      "author": "alex_atoms",
+      "text": "I have compiled a list of 5 useful AI repos on GitHub that could be useful to you\n\n1) https://t.co/eu2KF6PyFx ( 48k stars ) :\n\nAI pentester that confirms vulnerabilities with PoC exploits instead of just scanning\n\n2) https://t.co/n56snGRtMZ ( 37k stars ) :\n\nMCP server with a know",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2084891595917361277",
+      "is_kol": false,
+      "score": 159.0
+    },
+    {
+      "id": "2084647798541103358",
+      "author": "bipulsinha",
+      "text": "RUBRIK UNVEILS AGENT IDENTITY\n\nRubrik Agent Cloud now monitors every agent and MCP server, controls access per tool call, and prevents unwanted actions\n\nRubrik Agent Cloud delivers complete agent security:\n- Agent Observability\n- Agent Identity\n- Agent Runtime Security\n- Agent Re",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2084647798541103358",
+      "is_kol": false,
+      "score": 147.0
+    }
+  ]
+}
