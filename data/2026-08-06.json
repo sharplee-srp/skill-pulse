@@ -1,0 +1,534 @@
+{
+  "date": "2026-08-06",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 159,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 8,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-campus-resume",
+      "github_url": "https://github.com/joeseesun/qiaomu-campus-resume",
+      "tier": 3,
+      "is_new": true,
+      "score": 341.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 67,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "刚写了一个给大学生找工作写简历的 skill。\n\n借鉴了 grillme 思想，通过问题访谈生成 PDF 简历。\n\n或提供 JD 针对性修改简历、优化已有简历的排版。\n\n支持一次性生成不同风格。\n\n简历优化参考了清华、MIT、伯克利等知名学校的就业中心的最佳实践。\n\nSkill 安装指令：npx skills add joeseesun/qiaomu-campus-resume\n\n开源地址：https://t.co/CjrYOI0Z7z",
+        "likes": 67,
+        "url": "https://x.com/i/status/2085201450276360204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085201450276360204"
+      ]
+    },
+    {
+      "repo": "arjunkshah12345-hash/gauntlet-loop-skill",
+      "github_url": "https://github.com/arjunkshah12345-hash/gauntlet-loop-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arjunkshah21",
+        "text": "I turned @mattshumer_'s Gauntlet Loop method into a skill that you can give to your coding agent.\n\nIt's super lightweight, just one MD file, but supercharges your coding agent.\n\nIt's open-source and installable via https://t.co/m8ktKgrZEB\n\nnpx skills add arjunkshah12345-hash/gaun",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085305912554901630"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085305912554901630",
+        "https://x.com/i/status/2085321485993001037"
+      ]
+    },
+    {
+      "repo": "recoupable/skills",
+      "github_url": "https://github.com/recoupable/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "recoupai",
+        "text": "Yesterday our number undervalued @CallMeLatasha's onchain earnings by $151,294.\n\nHer Zora V1 sales measure $234,732.\n\nWe still need to analyze Sound, later Zora, Catalog and Sotheby's.\n\nAnalyze your own NFT earnings:\n\nnpx skills add recoupable/skills --skill recoup-nft-valuation ",
+        "likes": 5,
+        "url": "https://x.com/i/status/2085128955841970404"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085128955841970404"
+      ]
+    },
+    {
+      "repo": "sebuzdugan/frai-skills",
+      "github_url": "https://github.com/sebuzdugan/frai-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sebuzdugan",
+        "text": "The best part: frai-gate draft points an agent at your repo and it writes the gate FROM your code.\n\nOn this demo it caught customer emails going to OpenAI. With file and line numbers.\n\nOpen source: https://t.co/YQx1DnHFwr\nAgent skill: npx skills add sebuzdugan/frai-skills",
+        "likes": 5,
+        "url": "https://x.com/i/status/2085274508555153527"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085274508555153527"
+      ]
+    },
+    {
+      "repo": "agentsorg/design",
+      "github_url": "https://github.com/agentsorg/design",
+      "tier": 3,
+      "is_new": true,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@agentsorgin npx skills add AgentsORG/DESIGN --skill design\nhttps://t.co/TNODwRiIpO",
+        "likes": 3,
+        "url": "https://x.com/i/status/2085062948658332154"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085062948658332154"
+      ]
+    },
+    {
+      "repo": "nexu-io/open-design",
+      "github_url": "https://github.com/nexu-io/open-design",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kokorojwa3tk",
+        "text": "GitHubでStar数の多い「AI Agent Skills」関連リポジトリ30選、第2回です！\n\nSkill本体、Skill集、Agent向けプラグイン、Skillの仕様・カタログ系リポジトリを対象に、GitHub Starの多い順で整理しています。今回は総合ランキング11〜20位です。\n\n※カタログ型リポジトリに掲載されている個別Skillの対応言語、ライセンス、安全性、外部サービス要件はそれぞれ異なります。\n\n11）nexu-io/open-design\n約8.3万⭐\nhttps://t.co/h4YDocetxF\nAIコーディングエージェントを",
+        "likes": 4,
+        "url": "https://x.com/i/status/2085263300905054470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085263300905054470"
+      ]
+    },
+    {
+      "repo": "brickhu/recomp",
+      "github_url": "https://github.com/brickhu/recomp",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fei1919",
+        "text": "Just recorded: replicating a React component into SolidJS with #SKILL recomp — adapted perfectly to my framework AND my styles. 🧩\n\n👉 npx skills add brickhu/recomp\n\nIt can do far more than you'd imagine 👀 https://t.co/iCKZVvV6Pt",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085306401342333183"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085306401342333183"
+      ]
+    },
+    {
+      "repo": "clipcat-ai/clipcat-skill",
+      "github_url": "https://github.com/clipcat-ai/clipcat-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Wchenhao001",
+        "text": "在github上发现一个针对做tiktok非常好用的skill-Clipcat\n\nClipcat是一款TikTok电商AI视频创作技能， 任何人工智能代理都可以集成 — Claude Code、OpenClaw、Cursor 或您自己的定制代理。它作为单一跨平台发布 clipcat CLI 加一个 SKILL.md 清单：代理调用 clipcat 命令即可完成病毒式视频发现、TikTok Shop 市场情报、视频分析、病毒式复制、产品视频生成、AI 图像生成和 TikTok 视频下载 - 所有这些都在一个工作流程中完成。\n\nhttps://t.co/Z1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085241939402833992"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085241939402833992"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 304.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "srishtiberi",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/jHnJSm8bhz\n\n2. public-apis — free APIs for everything\n→ https://t.co/PwIEteujmU…\n\n3. build-your-own-x — learn by building\n→ https://t.co/opaUsgczHv…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 43,
+        "url": "https://x.com/i/status/2085249670788624665"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085249670788624665"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 245.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 45,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that turns your plain blue Google listing into a rich result.\n\nIt writes the JSON-LD from your real data — product, ratings, FAQs — validates it, and ships it. Same ranking position, three times the pixels.\n\nnpx skills add coreyhaines31/marketingskills https://t.co",
+        "likes": 45,
+        "url": "https://x.com/i/status/2085130743865659787"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085130743865659787"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sabuuuuu69",
+        "text": "🔥 今週の急上昇AIオープンソース（成長率・急増重視）\n1. K-Dense-AI/scientific-agent-skills - ★32.7k（直近も科学系スキル需要で堅調成長）\n•主な機能：AIエージェントを「AIサイエンティスト」に変える158のスキル＋100超の科学DB連携\n•おすすめポイント：薬剤師業務でPK/PDモデリング、薬物相互作用チェック、https://t.co/5vU6z6KpXlやChEMBL活用の文献調査がエージェント化可能。 病院内の非公開データと組み合わせればプライバシーを守りつつ、マーケティング側では医療コンテンツの根",
+        "likes": 4,
+        "url": "https://x.com/i/status/2085121926452990245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085121926452990245"
+      ]
+    },
+    {
+      "repo": "markdown-viewer/skills",
+      "github_url": "https://github.com/markdown-viewer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xicilion",
+        "text": "@rediasChao @QuantumTransf npx skills add markdown-viewer/skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085075018090938536"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085075018090938536"
+      ]
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "github_url": "https://github.com/bradautomates/claude-video",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Trorram",
+        "text": "Claude agora assiste vídeos — e responde sobre o que realmente viu e ouviu.\n\nO repositório bradautomates/claude-video (14 mil estrelas, licença MIT) entrega o comando /watch: uma skill de agente que baixa, extrai frames e transcreve qualquer vídeo para o Claude analisar de verdad",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085306481327456317"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085306481327456317"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Automate your TP/SL orders with Byreal Perps Agent Skills. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\n\nhttps://t.co/NWsDIZsnfZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085210483070841291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085210483070841291"
+      ]
+    },
+    {
+      "repo": "danilo-znamerovszkij/draw-your-font",
+      "github_url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AZASLab",
+        "text": "気になる方は、以下のコマンドを実行するだけです（すべてローカル動作）。\nnpx skills add danilo-znamerovszkij/draw-your-font\n\nあとは写真をドラッグして「フォントにして」と伝えるだけ。\nコツは濃いペンで文字を重ねずに書くこと。まずは試してみてはいかがでしょう？",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085199369834508324"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085199369834508324"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oentoro_",
+        "text": "Installing it takes one command: npx skills add emilkowalski/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085186394985750831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085186394985750831"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2085121879950381352",
+      "author": "cb_doge",
+      "text": "🚨 NEW GROK BUILD UPDATE 🚨\n\nv0.2.121 — 2026-08-05\n\nFeatures:\n• Dashboard rows now show a short summary of what the agent did in the previous turn.\n• The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills.\n• When a subagent runs ",
+      "likes": 993,
+      "views": 0,
+      "url": "https://x.com/i/status/2085121879950381352",
+      "is_kol": false,
+      "score": 4009.0
+    },
+    {
+      "id": "2085247437741129810",
+      "author": "sagit_ai",
+      "text": "Sagit v2.9 — Connect & Oversee 🔌\n\nSagit Code now reaches beyond your project folder: plug in any MCP server and its tools join the agent's hands. Databases, GitHub, monitoring — thousands of servers, one paste.\n\nAnd with that, the six pillars are complete. A thread on what Sagit ",
+      "likes": 245,
+      "views": 0,
+      "url": "https://x.com/i/status/2085247437741129810",
+      "is_kol": false,
+      "score": 1310.0
+    },
+    {
+      "id": "2085055175438516590",
+      "author": "playwrightweb",
+      "text": "🎭 Catching up on Playwright releases — v1.60, v1.61 and v1.62 are out!\n\nHighlights:\n\n🔑 WebAuthn passkeys — a virtual authenticator lets you test passkey sign-in in every browser, no hardware key needed\n🛑 AbortSignal support — cancel actions, navigations and assertions with a stan",
+      "likes": 201,
+      "views": 0,
+      "url": "https://x.com/i/status/2085055175438516590",
+      "is_kol": false,
+      "score": 673.0
+    },
+    {
+      "id": "2085065549541748907",
+      "author": "Casper_Network",
+      "text": "One of our Buildathon finalists built the coolest site EVER! \n\nAnd everything runs on Casper.\n\nTriarchy, from @mod_minimal, is an economic operating system for AI agents. Do yourself a favor and check it out:\n\n→ https://t.co/o8EuPt5MEA\n\nTriarchy is built for a world where agents ",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2085065549541748907",
+      "is_kol": false,
+      "score": 517.0
+    },
+    {
+      "id": "2085192143425925459",
+      "author": "XFreeze",
+      "text": "This is a big Grok Build quality leap - dashboard rows now summarize the last turn, you can reattach to a running session without replaying the whole transcript, Auto theme works over SSH and tmux, Always-clear permission prompts expand with Ctrl-F, /feedback gets a real report b",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2085192143425925459",
+      "is_kol": false,
+      "score": 476.0
+    },
+    {
+      "id": "2085267066756493601",
+      "author": "tom_doerr",
+      "text": "Generates 27 types of diagrams including flowcharts and architecture charts that automatically match your website's fonts and colors using a Claude Code skill.\n\nhttps://t.co/tTRZ3P0lF2 https://t.co/XHv0pahxek",
+      "likes": 122,
+      "views": 0,
+      "url": "https://x.com/i/status/2085267066756493601",
+      "is_kol": false,
+      "score": 451.0
+    },
+    {
+      "id": "2084988622797672491",
+      "author": "_ashleypeacock",
+      "text": "Cloudflare Agents Week day 3 is upon us, and today is all about Cloudflare OS and securing/managing AI agents. On the roster today is:\n\n🌎 Open Sourcing Cloudflare OS\n💰 Identity-aware AI Gateway with cost controls\n🛡️ WriteGuard: fine-grained controls for MCP\n💭 The Agent Access mod",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2084988622797672491",
+      "is_kol": false,
+      "score": 370.0
+    },
+    {
+      "id": "2085208409230504040",
+      "author": "Zenith_coder",
+      "text": "🚨 Claude Code vs Cursor vs Codex?\n\nThat's the wrong question.\n\nThe real question is:\n\nWhich tool fits your workflow right now?\n\nToo many people argue about which AI coding tool is \"best.\"\n\nThe truth?\n\nEach one solves a different problem.\n\nHere's the no-hype breakdown 👇\n\n⚡ Claude ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2085208409230504040",
+      "is_kol": false,
+      "score": 366.0
+    },
+    {
+      "id": "2085272380759581092",
+      "author": "TencentAI_News",
+      "text": "🤯Introducing Team Memory, same idea as Agent Memory, except your teammates' agents can read it too\n\n2.0.0 beta out today, and the repo hit #1 on github's typescript trending this week\n\nHighlights:\n>  Solo builders: one place to manage memory across all your agents and AI tools, c",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2085272380759581092",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2085109596579123200",
+      "author": "EXM7777",
+      "text": "this tool turns any API into a working CLI for your agents...\n\nAPIs don't come with an interface agents can just pick up... CLIs are the format you want for agentic workflows\n\ni'm using PrintingPress ALL THE TIME, this is how it works:\n\n> point it at an API or a website with no p",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2085109596579123200",
+      "is_kol": false,
+      "score": 317.0
+    },
+    {
+      "id": "2085198878161408089",
+      "author": "willccbb",
+      "text": "@somewheresy it's a fully general coding++ recursive multi-agent harness that does everything via ipython\n\npi is the core but the experience for the model and user is v different (incl. from other agents)\n\nthere's one skill for \"doing prime intellect stuff\" which you can rip out ",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2085198878161408089",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2085284450963787852",
+      "author": "Krypto_Bishop",
+      "text": "Hey family , I found a powerful skill that helps Claude (and other AI agents) design websites that actually feel Apple-level.\n\nIt translates Apple’s interface and motion principles into practical rules for the web:\n→ Fluid, physical spring animations\n→ Proper gesture & interrupti",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2085284450963787852",
+      "is_kol": false,
+      "score": 267.0
+    },
+    {
+      "id": "2085010028717814065",
+      "author": "TheHackersNews",
+      "text": "🚨 Veeam, Terraform MCP, and Django patched 11 flaws exposing credentials, crossing tenant boundaries, and enabling file writes.\n\nVeeam fixed CVE-2026-58073, which can expose managed-agent credentials without authentication, and CVE-2026-58072, a file-write flaw that can lead to R",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2085010028717814065",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2085206226850271740",
+      "author": "code_bytein",
+      "text": "Backend Roadmap (Part 11/11): AI Engineering \n\nAI won't replace backend engineers.\nBackend engineers who use AI will. \nThis is the final skill - and possibly the most important one for 2026 and beyond.\n\nIn this post, I covered everything you need to build intelligent backend syst",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2085206226850271740",
+      "is_kol": false,
+      "score": 203.0
+    },
+    {
+      "id": "2085103275024482606",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v0.2.121! 🚀\n\nChangelog v0.2.121\n\nFeatures:\n• Dashboard rows now show a short summary of what the agent did in the previous turn.\n• The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills.\n•",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2085103275024482606",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2085263326700056988",
+      "author": "AmitSha77280075",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.    \n\nSpend 1 hour with this.    \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.    \n\nThe people who watch this tonight will wake up tomorrow with a new skill.    \n\nWatch it and Bookmark it now https://t.co/XkPx04Dp",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2085263326700056988",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2085224378942255441",
+      "author": "Suryanshti777",
+      "text": "You opened Claude and typed \"help me write.\"\n\nThat's not a prompt. That's a wish, and Claude has no idea what you actually want, so it guesses, and the output feels generic because the input was generic.\n\nHere are 20 prompts I actually run daily, the ones that hold my whole conte",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2085224378942255441",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2085281819512185221",
+      "author": "delumengyu678",
+      "text": "在这里说一声抱歉，因为一直在火车，好多小伙伴私聊跟我要狙击ponsv2那个脚本没发，这边统一回复下，大概要等一段时间了，因为这段时间要去大西北旅游，我看好多小伙伴对lp挺感兴趣，给大家大概理一下大体思路学习吧\n\n小时候老师总说考试不能抄，长大才知道大部分成功我们都得去抄！我是在推特上看到\n@0xphilo 和@Yishi_Zain 这两位老师发的帖子一个是做meme区间，另一个是做bstocks区间，经过分析，前者更倾向于高回报博弈，后者更倾向于低回报稳定性投资\n\n昨天上火车开始，我先是截图他们的nft编号，让ai去定位他们的仓位来定位链上钱包，去分析他",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2085281819512185221",
+      "is_kol": false,
+      "score": 181.0
+    }
+  ]
+}

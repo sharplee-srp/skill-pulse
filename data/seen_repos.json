@@ -5646,5 +5646,37 @@
   "krushiraj/code-threat-scan": {
     "first_seen": "2026-08-05",
     "tier": 3
+  },
+  "joeseesun/qiaomu-campus-resume": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "arjunkshah12345-hash/gauntlet-loop-skill": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "recoupable/skills": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "sebuzdugan/frai-skills": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "agentsorg/design": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "nexu-io/open-design": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "brickhu/recomp": {
+    "first_seen": "2026-08-06",
+    "tier": 3
+  },
+  "clipcat-ai/clipcat-skill": {
+    "first_seen": "2026-08-06",
+    "tier": 3
   }
 }
