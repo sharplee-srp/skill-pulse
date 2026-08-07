@@ -2,8 +2,9 @@
 # track.sh — Track hot AI skills from X, extract repos, rank by buzz
 #
 # Usage:
-#   Local (opencli):  ./track.sh
-#   CI    (bird):     BIRD_AUTH_TOKEN=xxx BIRD_CT0=yyy ./track.sh
+#   Local (opencli):       ./track.sh
+#   CI    (bird):          BIRD_AUTH_TOKEN=xxx BIRD_CT0=yyy ./track.sh
+#   Hermes Tweet / Xquik:  SKILL_PULSE_BACKEND=hermes-tweet XQUIK_API_KEY=xq_... ./track.sh
 #
 # Output: data/YYYY-MM-DD.json  (today's ranked skill repos + tweets)
 #         data/seen_repos.json  (cumulative repo dedup index)
@@ -71,8 +72,14 @@ QUERIES=(
 
 LIMIT=15  # per query
 
+REQUESTED_BACKEND="${SKILL_PULSE_BACKEND:-${TWITTER_BACKEND:-}}"
+REQUESTED_BACKEND="$(printf '%s' "$REQUESTED_BACKEND" | tr '[:upper:]_' '[:lower:]-')"
+
 # --- Detect backend ---
-if [[ -n "${BIRD_AUTH_TOKEN:-}" && -n "${BIRD_CT0:-}" ]]; then
+if [[ "$REQUESTED_BACKEND" == "hermes-tweet" || "$REQUESTED_BACKEND" == "xquik" ]]; then
+  BACKEND="xquik"
+  echo "[info] Using Hermes Tweet / Xquik backend"
+elif [[ -n "${BIRD_AUTH_TOKEN:-}" && -n "${BIRD_CT0:-}" ]]; then
   BACKEND="bird"
   echo "[info] Using bird backend (CI mode)"
 else
@@ -86,7 +93,10 @@ search_tweets() {
   local limit="$2"
   local outfile="$3"
 
-  if [[ "$BACKEND" == "bird" ]]; then
+  if [[ "$BACKEND" == "xquik" ]]; then
+    python3 "$SCRIPT_DIR/hermes_tweet_backend.py" search "$query" "$limit" \
+      > "$outfile" || echo '[]' > "$outfile"
+  elif [[ "$BACKEND" == "bird" ]]; then
     bird search "$query" \
       --count "$limit" \
       --json \
@@ -107,7 +117,10 @@ fetch_kol_tweets() {
   local username="$1"
   local outfile="$2"
 
-  if [[ "$BACKEND" == "bird" ]]; then
+  if [[ "$BACKEND" == "xquik" ]]; then
+    python3 "$SCRIPT_DIR/hermes_tweet_backend.py" search "from:${username} skill OR mcp OR plugin OR tool OR agent" 10 \
+      > "$outfile" || echo '[]' > "$outfile"
+  elif [[ "$BACKEND" == "bird" ]]; then
     bird search "from:${username} skill OR mcp OR plugin OR tool OR agent" \
       --count 10 \
       --json \
