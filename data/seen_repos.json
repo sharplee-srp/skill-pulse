@@ -5678,5 +5678,29 @@
   "clipcat-ai/clipcat-skill": {
     "first_seen": "2026-08-06",
     "tier": 3
+  },
+  "nathanab/corpus-skill": {
+    "first_seen": "2026-08-07",
+    "tier": 3
+  },
+  "skillgate-io/skillgate": {
+    "first_seen": "2026-08-07",
+    "tier": 3
+  },
+  "nomadamas/healthmes-agent": {
+    "first_seen": "2026-08-07",
+    "tier": 3
+  },
+  "upsonic/upsonic": {
+    "first_seen": "2026-08-07",
+    "tier": 3
+  },
+  "brucelanlan/augur": {
+    "first_seen": "2026-08-07",
+    "tier": 3
+  },
+  "randalschwartz/blocsignal": {
+    "first_seen": "2026-08-07",
+    "tier": 3
   }
 }

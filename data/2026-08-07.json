@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-07",
+  "stats": {
+    "total_fetched": 358,
+    "unique_tweets": 158,
+    "tweets_with_repos": 14,
+    "unique_repos": 14,
+    "new_repos": 6,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "nathanab/corpus-skill",
+      "github_url": "https://github.com/nathanab/corpus-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dukeofdolma",
+        "text": "I'm releasing Corpus, a knowledge base for your agents.\n\nCorpus ingests any source documents you give it - books, articles, pdfs, etc - and indexes everything into a library that your agents will proactively reference in their daily work.\n\nGive it a try:\nnpx skills add NathanAB/c",
+        "likes": 7,
+        "url": "https://x.com/i/status/2085500642554961964"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085500642554961964"
+      ]
+    },
+    {
+      "repo": "skillgate-io/skillgate",
+      "github_url": "https://github.com/skillgate-io/skillgate",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hisevenih",
+        "text": "SkillGate：给 Agent Skill 装个杀毒软件\n\n前段时间大家疯狂给Claude、Codex、OpenClaw装Skill。\n\n现在第二阶段来了：\n\n装之前，先看看它会不会搞你。\n\nSkillGate做的事情很直接：\n\n检查Skill有没有读取密钥、调用异常网络、修改文件、执行危险Shell命令等行为。\n\n甚至可以在Agent真正执行操作之前把它拦下来。\n\n以前安装浏览器插件，我们担心代码里有没有病毒。\n\n现在安装Agent Skill，还得担心自然语言和工具权限里有没有病毒。\n\nAgent生态越繁荣，我反而越觉得：\n\n未来Skill商店最",
+        "likes": 3,
+        "url": "https://x.com/i/status/2085640588267794599"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085640588267794599"
+      ]
+    },
+    {
+      "repo": "nomadamas/healthmes-agent",
+      "github_url": "https://github.com/nomadamas/healthmes-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "developermarker",
+        "text": "We're building an agent infrastructure project called HealthMes.\n\nThe idea:\n\nOpenClaw/Hermes-style extensibility, but with a wellness-native data and decision layer.\n\nHealthMes currently connects:\n\n• 11 wearable providers\n• calendar\n• food / health logs\n• app activity\n• longitudi",
+        "likes": 3,
+        "url": "https://x.com/i/status/2085585674519097388"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085585674519097388"
+      ]
+    },
+    {
+      "repo": "upsonic/upsonic",
+      "github_url": "https://github.com/upsonic/upsonic",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CycleDecoded",
+        "text": "这是一个极度干练的 Python 自主 AI 框架，专门用来搞自动跑任务的 Agent（像 OpenClaw、Claude Cowork 这类）。目前 GitHub 已收割 7.9k Star，采用开源 MIT 协议。\n\n💡 核心杀招：\n• 安全沙盒隔离：原生防越权，防止 AI 跑 Shell 或文件时把本地系统干废\n• 技能极速加载：支持直接从 GitHub 抓取封装好的 Skill，几秒搞定预置 Agent\n• MCP 与生态通吃：全面接入 MCP 协议，自带 OCR、RAG 和多 Agent 协同机制\n• 全网模型调优：零成本对接 OpenAI、C",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085577713822388528"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085577713822388528"
+      ]
+    },
+    {
+      "repo": "brucelanlan/augur",
+      "github_url": "https://github.com/brucelanlan/augur",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BruceBlue",
+        "text": "GitHub ID: BruceLanLan\n项目地址：https://t.co/1Z2Z6mNTpw\n\nAugur 是一个开源的 Multi-Agent 投资分析系统（Orchestrator + Aggregator）：\n- 18位虚拟投资大师独立分析同一标的，再做加权共识 + Kelly 仓位\n- 原生 MCP Server（13个工具），已对接 Hermes / Claude Desktop / OpenClaw\n- 带 Bloomberg 风格 Web Dashboard（UI）\n- 每位大师可单独作为 Hermes Skill 使用\n\n希望能",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085570929879588986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085570929879588986"
+      ]
+    },
+    {
+      "repo": "randalschwartz/blocsignal",
+      "github_url": "https://github.com/randalschwartz/blocsignal",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RandalSchwartz",
+        "text": "@kingswordmaster Yes, the README of each package explains how to install the skill.  Something like npx skills add RandalSchwartz/BlocSignal",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085435296464961922"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085435296464961922"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gkxspace",
+        "text": "Matt 这套 skills 雀食好用，其中 /grilling 是我用的最多的\n\n你说要做个东西，它会反过来一轮轮问你：\n这里怎么处理？这个边界要不要管？每个问题还附上它的推荐答案，然后多轮讨论下来确定最终版。\n\n你会发现，用了它之后，被问了两轮就发现需求根本没想透，怪不得以前 AI 老跑偏。。。\n\n整套东西很轻（比 superpowers 好多了）：\nnpx skills add mattpocock/skills",
+        "likes": 36,
+        "url": "https://x.com/i/status/2085562237268435044"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085562237268435044"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 216.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that rewrites your homepage in your customers' words.\n\nIt reads your customer interviews, notices nobody actually says \"powerful\" or \"easy,\" and rewrites the hero around what they do say. Watch the page rewrite itself live.\n\nnpx skills add coreyhaines31/marketingsk",
+        "likes": 37,
+        "url": "https://x.com/i/status/2085502191859888436"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085502191859888436"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "exodiaaaaa_",
+        "text": "Collection of Skills for your AI agent with over 82,000 stars on GitHub.\n\nspec → plan → build → test → review → ship\n✓ 24 engineering flows (TDD, security, webperf...)\n✓ For Claude Code, Cursor, Codex and more\n\nnpx skills add addyosmani/agent-skills https://t.co/GkgjepU8Ag",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085431872604287086"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085431872604287086"
+      ]
+    },
+    {
+      "repo": "tencentcloud/tencentdb-agent-memory",
+      "github_url": "https://github.com/tencentcloud/tencentdb-agent-memory",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xluffy_eth",
+        "text": "AI总是重复\"之前不是说过吗\"的问题，\n终于有了解决方案。\n\n短短数月获得【1.5万Star】的神级项目，\n名叫\"TencentDB Agent Memory\"\n\n不是改进AI模型本身，\n而是为AI代理建立\"外挂记忆系统\"——\n保存过往对话、用户偏好、工作方式、成功步骤。\n\n使用方法超简单。\nOpenClaw只需：\nopenclaw plugins install @tencentdb-agent-memory/memory-tencentdb\nopenclaw gateway restart\n\n就完成了。\n\n不是把整个对话塞给AI，\n而是分4个层级：\n",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085657202145350097"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085657202145350097"
+      ]
+    },
+    {
+      "repo": "voltagent/awesome-agent-skills",
+      "github_url": "https://github.com/voltagent/awesome-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kokorojwa3tk",
+        "text": "GitHubでStar数の多い「AI Agent Skills」関連リポジトリ30選、最終回です！\n\nSkill本体、Skill集、Agent向けプラグイン、Skillの仕様・カタログ系リポジトリを対象に、GitHub Starの多い順で整理しています。今回は総合ランキング21〜30位です。\n\n※リポジトリが無料で公開されていても、AIモデル、API、外部サービス、ローカル環境などの準備が別途必要になる場合があります。\n\n21）VoltAgent/awesome-agent-skills\n約3.0万⭐\nhttps://t.co/S71BbmkRQL\n公式",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085596195452559831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085596195452559831"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Long or short, set up with Byreal Perps Agent Skills. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\n\nhttps://t.co/NWsDIZsnfZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085667541930975410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085667541930975410"
+      ]
+    },
+    {
+      "repo": "rebelytics/one-skill-to-rule-them-all",
+      "github_url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qiuqiu232",
+        "text": "npx skills add rebelytics/one-skill-to-rule-them-all --skill task-observer --agent codex -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085585285807833241"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085585285807833241"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2085587302726742073",
+      "author": "cb_doge",
+      "text": "🚨 NEW GROK BUILD UPDATE 🚨\n\nGrok Build v1.0.0 is now live.\n\nSpaceXAI is pushing new Grok Build updates almost daily.\n\nUpdates:\nUI & navigation\n• Dashboard rows show a short summary of what the agent did in the previous turn\n• Extensions modal groups items alphabetically with colla",
+      "likes": 552,
+      "views": 0,
+      "url": "https://x.com/i/status/2085587302726742073",
+      "is_kol": false,
+      "score": 2071.0
+    },
+    {
+      "id": "2085594014481359104",
+      "author": "XFreeze",
+      "text": "Grok Build officially reaches v1.0.0, rapidly becoming one of the most powerful coding harnesses in the world\n\nAfter 100+ updates in just over 10 weeks, SpaceXAI’s coding agent has hit a major milestone.......with a smarter dashboard, a more polished developer experience, stronge",
+      "likes": 235,
+      "views": 0,
+      "url": "https://x.com/i/status/2085594014481359104",
+      "is_kol": false,
+      "score": 875.0
+    },
+    {
+      "id": "2085639979011891445",
+      "author": "theo",
+      "text": "In the last two weeks, we merged over 250 PRs into T3 Code. Here's an overview of the most important ones.\n\n- Added subagent and workflow observability, so you can see what your agents spawn\n- Added libghostty-vt as the terminal renderer\n- Added configurable fonts and sizes under",
+      "likes": 215,
+      "views": 0,
+      "url": "https://x.com/i/status/2085639979011891445",
+      "is_kol": false,
+      "score": 675.0
+    },
+    {
+      "id": "2085620051323793605",
+      "author": "DamiDefi",
+      "text": "I Ruled Out 8 AI Machines and Bought the One That Costs Half. Here's Why.",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2085620051323793605",
+      "is_kol": false,
+      "score": 656.0
+    },
+    {
+      "id": "2085542973891121187",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.147.0 is out!\n\nHighlights:\n- Portable Agent Plugins can now be installed and searched across local, personal, workspace, and remote catalogs\n- Conversations can be organized into persistent, manually ordered sections; long transcripts now load incrementally\n- New --ap",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2085542973891121187",
+      "is_kol": false,
+      "score": 570.0
+    },
+    {
+      "id": "2085607350317285637",
+      "author": "magnific",
+      "text": "Seedance 2.5 is here\n\nThe model, plus everything it was missing only at Magnific\n\n→ NEW 3D motion control tool by Magnific\n→ Up to 50 references, and 30 second generations\n→ Edit, extend and upscale to 4K in one workflow\n\nAvailable on Magnific, MCP, Spaces, Plugins and API https:",
+      "likes": 131,
+      "views": 0,
+      "url": "https://x.com/i/status/2085607350317285637",
+      "is_kol": false,
+      "score": 548.0
+    },
+    {
+      "id": "2085452738201108629",
+      "author": "HelloTelos",
+      "text": "Telos is now agent-ready.\n\nIntroducing the open-source Telos Network Skill: reusable network context for skill-capable workflows across Hermes, OpenClaw, ChatGPT, Claude and more.\n\nInstall it. Put it to work. Build and grow Telos with us. ↓ https://t.co/hOeCwS4QOo",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2085452738201108629",
+      "is_kol": false,
+      "score": 478.0
+    },
+    {
+      "id": "2085539195007684926",
+      "author": "GrokInsider",
+      "text": "Grok Build CLI just got an update with v1.0.0! 🚀\n\nChangelog v1.0.0\n\nFeatures:\n• Dashboard rows show a short summary of what the agent did in the previous turn\n• Extensions modal groups items alphabetically with collapsible Skills sections\n• Grok skips the project-directory prompt",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2085539195007684926",
+      "is_kol": false,
+      "score": 442.0
+    },
+    {
+      "id": "2085571428020015371",
+      "author": "GookieNft",
+      "text": "Good morning, Ninjas 🥷\n\n«𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗙𝗶𝗻𝗮𝗻𝗰𝗲»\n\nAgentic finance is one of the three engines Eric Chen talked about at the summit.\n\nOne feature of Injective's AI agents is that they don't trade anonymously.\n\nEach one gets a soulbound NFT identity via ERC-8004, a passport for AI with po",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2085571428020015371",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2085482546809462941",
+      "author": "CantonNetwork",
+      "text": "The Canton MCP server gives AI models a curated, auto-updating knowledge base on Canton's dev stack, refreshed hourly, so builders get current guidance instead of outdated documentation links.\n\n@CantonFdn explains.",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2085482546809462941",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2085558984929620238",
+      "author": "GuteslaX",
+      "text": "[Agentic AI를 설계한다는 것은 AX를 설계하는 것과 같은 일이다]\n\n요즘 기업들은 앞다투어 Agentic AI를 이야기한다.\n\n어떤 LLM을 사용할 것인지, 어떤 Agent Framework를 선택할 것인지, MCP를 어떻게 연결할 것인지, Multi-Agent를 어떻게 구성할 것인지가 주요 관심사가 되었다.\n\n하지만 실제 산업 현장에서 AX(AI Transformation)를 추진해 본 사람이라면 조금 다른 질문을 던질 것이다.\n\n“Agent를 만들기 전에, 과연 이 기업은 Agent가",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2085558984929620238",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2085597162923327702",
+      "author": "project_miko",
+      "text": "MIKO runs inside ChatGPT too.\n\n☑️ Switch on developer mode first \nSettings → Plugins → Developer mode → Developer mode on (Plus and up, web only)\n\n☑️ Add the connector\nPlugins → '+' → Paste https://t.co/AZTileNP9B and sign with the wallet holding your $MIKO.\n\n☑️ Turn it on in the",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2085597162923327702",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2085567098349330643",
+      "author": "yibie",
+      "text": "开源 agent 框架 Mastra 的联合创始人 Sam Bhagwat：编码 agent 能不能跑数小时，取决于 harness 把对话当成什么——函数调用会死，永远开放的通道不会；压缩是 agent 的坟场，观察记忆才是解药。\n\n《解剖 harness：构建一个能连续运行数小时的编码 agent》\n\n压缩是编码 agent 的坟场。你没法把目标丢给 harness 然后去睡觉，如果它每 40 分钟就把自己阉割一次的话。\n\n一个 agent 要升级成 harness，必须独自做到三件事：管理自己的上下文、扛过重启、在没有人在旁边纠错的情况下守住之前的",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2085567098349330643",
+      "is_kol": false,
+      "score": 268.0
+    },
+    {
+      "id": "2085595541379891328",
+      "author": "RoundtableSpace",
+      "text": "BOOK-TO-SKILL TURNS ANY TECHNICAL BOOK INTO A CLAUDE SKILL, SO YOUR AGENT CAN USE THE BOOK’S KNOWLEDGE WITHOUT RE-READING HUNDREDS OF PAGES EVERY TIME. https://t.co/UwDybGgFY1",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2085595541379891328",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2085617449576038855",
+      "author": "bi_9527zx",
+      "text": "币圈每天最不缺的就是信息，最缺的是把信息串起来的工具。\n\n一个热点突然起来，你得同时翻新闻、行情、项目官网、团队背景、融资方和人物关系。\n\n等你把这些信息拼完整，市场可能已经走完一段了。\n\n最近我体验了下 Qoory，它不是普通的行情网站，更像一个 Crypto 和股票市场的情报搜索引擎。\n\n新闻、行情、项目、公司、人物和市场叙事，都能顺着关系继续往下查。\n\n比如看到某个 AI、RWA 或稳定币叙事突然升温，可以从一条新闻开始，继续查相关项目、公司和人物，不用在十几个网页之间来回切换。\n\n我比较关注的还有它的 MCP、API 和 AI Skill，可以把",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2085617449576038855",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2085549160275816459",
+      "author": "iamlukethedev",
+      "text": "Hermes only merged 18 PRs today\n\nAnd somehow, that makes me happy 😎\n\nDEVELOPER TOOLS & SKILLS\n\n• Polymarket to optional skills – Polymarket skill moved to optional installation since it's no longer included by default due to community feedback, keeping your core installation clea",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2085549160275816459",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2085531370688778303",
+      "author": "pvergadia",
+      "text": "🚀 51 AI Terms explained in 14 minutes: Let's play the game together! Video in comments, let me know how you like this format, I had a lot of fun recording it! \n\n▶️ Artificial Intelligence (AI)  \n▶️ Machine Learning (ML)  \n▶️  Deep Learning  \n▶️  Large Language Model (LLM)  \n▶️  S",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2085531370688778303",
+      "is_kol": false,
+      "score": 172.0
+    },
+    {
+      "id": "2085557289822405007",
+      "author": "weiwei5126181",
+      "text": "🔥 Crypto 研究的下一阶段，可能不是信息更多，而是信息连接更智能。\n\n做 Web3 研究的人都有一个痛点：\n\n每天面对大量新闻、行情、项目资料、人物动态，但真正困难的是——\n\n如何把这些碎片信息串起来，找到背后的市场逻辑。\n\n最近体验了 @QooryAI，一个面向 Crypto 和股票市场的情报引擎。\n\n它把：\n✅ 新闻\n✅ 市场数据\n✅ 项目与公司信息\n✅ 人物关系\n✅ 市场叙事\n连接到同一个研究流程里。\n比如研究一个热门赛道时，不只是看价格变化，而是可以进一步追踪：\n为什么这个叙事出现？\n有哪些项目、公司和人物参与？\n市场关注点正在如何变化？\n",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2085557289822405007",
+      "is_kol": false,
+      "score": 154.0
+    }
+  ]
+}
