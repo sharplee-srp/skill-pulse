@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-08",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 164,
+    "tweets_with_repos": 11,
+    "unique_repos": 11,
+    "new_repos": 5,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "herdrdev/herdr",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "tier": 3,
+      "is_new": true,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "herdrdev",
+        "text": "@feulf easiest way: tell your agent \"use herdr cli to talk to codex\"\n\nyou can also use the herdr skill which is available at \"npx skills add herdrdev/herdr --skill herdr -g\"\n\nor\n\nherdr --skill",
+        "likes": 26,
+        "url": "https://x.com/i/status/2085868574720041225"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085868574720041225"
+      ]
+    },
+    {
+      "repo": "antalphaai/meme-token-analyzer",
+      "github_url": "https://github.com/antalphaai/meme-token-analyzer",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hisevenih",
+        "text": "有人已经把“Meme研究Agent”做成 Skill了\n\n最近看到一个挺对味的 Skill：\n\nMeme Token Analyzer。\n\n你给它一个Token，它会自己：\n\n搜最新新闻；\n\n找社交讨论；\n\n分析市场情绪；\n\n整理叙事；\n\n甚至生成一张对应的Meme图，再让多模态模型一起判断。\n\n最后给一个所谓的“财富基因”评级。\n\n评级我肯定不会当交易依据。\n\n但这个思路值得抄：\n\nMeme研究本身特别适合Agent。\n\n因为人工最烦的就是同时开：\n\nX、Google、GMGN、DEX、项目官网、社区。\n\n然后自己拼故事。\n\n未来真正有用的Meme A",
+        "likes": 6,
+        "url": "https://x.com/i/status/2086022354006941881"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086022354006941881"
+      ]
+    },
+    {
+      "repo": "skcache/edn",
+      "github_url": "https://github.com/skcache/edn",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "skcache",
+        "text": "Biggest thing I’m trying to fix with agentic coding rn is not letting the agent own the architecture just because it owns the implementation\n\nI kept losing track of system decisions after many loops of just endless prompting\n\nSo I made a little #skill\n\nnpx skills add skcache/edn",
+        "likes": 3,
+        "url": "https://x.com/i/status/2085942941739331862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085942941739331862"
+      ]
+    },
+    {
+      "repo": "veronalabs/qa-loop-skill",
+      "github_url": "https://github.com/veronalabs/qa-loop-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mostafa_soufi",
+        "text": "hunt → fix → retest\n\nall three are skills I wrote:\n\nnpx skills add veronalabs/qa-loop-skill\nhttps://t.co/Jo0ZJxykor",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085978817441525961"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085978817441525961"
+      ]
+    },
+    {
+      "repo": "agentskills/agentskills",
+      "github_url": "https://github.com/agentskills/agentskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hefnerdotpro",
+        "text": "@evalstate It's supported by `npx skills add` and is/will be supported by `openclaw skill install`.\n\nIt's also hosted by Mintlify: https://t.co/bphyfuk9j9 -- see the endpoint for https://t.co/ILLLdxnzMN.\n\nPR is still open: https://t.co/KIB86cYBD5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085820479898517969"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085820479898517969"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 272.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 34,
+        "url": "https://x.com/i/status/2085948046328930728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085948046328930728"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zw2867759575009",
+        "text": "如果说2025年的AI工具竞争还停留在“谁的对话更聪明”，那么到了2026年，战场已经彻底转移，可复用的智能体技能（Agent Skills） 成为衡量工具优劣的核心标尺。\n\n单纯依赖即时对话的模型不再稀缺，真正拉开代际差距的，是那些将特定工作流、行业最佳实践与可执行脚本封装为标准化“技能包”的能力。这些技能包遇任务自动激活，输出稳定专业，一次安装即可在Claude、Cursor、Codex、GitHub Copilot等数十个主流平台间无缝流转。\n\n本文将立足实用视角，精选当前最具价值的AI工具，并重点附上核心Skill链接与上手指南，助你快速构建面向",
+        "likes": 36,
+        "url": "https://x.com/i/status/2085897657189625986"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085897657189625986"
+      ]
+    },
+    {
+      "repo": "tencentcloud/tencentdb-agent-memory",
+      "github_url": "https://github.com/tencentcloud/tencentdb-agent-memory",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xluffy_eth",
+        "text": "AI总是重复\"之前不是说过吗\"的问题，\n终于有了解决方案。\n\n短短数月获得【1.5万Star】的神级项目，\n名叫\"TencentDB Agent Memory\"\n\n不是改进AI模型本身，\n而是为AI代理建立\"外挂记忆系统\"——\n保存过往对话、用户偏好、工作方式、成功步骤。\n\n使用方法超简单。\nOpenClaw只需：\nopenclaw plugins install @tencentdb-agent-memory/memory-tencentdb\nopenclaw gateway restart\n\n就完成了。\n\n不是把整个对话塞给AI，\n而是分4个层级：\n",
+        "likes": 2,
+        "url": "https://x.com/i/status/2085657202145350097"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085657202145350097"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kurono_ai_ura",
+        "text": "【朗報】\nAIに作らせたサイトやLP、なんか「いかにもAI感」出て萎えたことない?\nそれコマンド1行で直る無料ツールが海外で話題になってた👇\nhttps://t.co/crK4JpnA3p\n\n「npx skills add Leonxlnx/taste-skill」を打つだけで導入完了\n\n・Claude CodeやCursorとか主要AIコーディングツールに対応済み\n・入れた状態でAIに作らせると、いつもの「量産型テンプレ感」が抜けたデザインになる\n・完全無料のオープンソースで、GitHubにはもう7万人以上がスターつけてる\n\n正直、AI副業で一番もった",
+        "likes": 1,
+        "url": "https://x.com/i/status/2085923958575010272"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085923958575010272"
+      ]
+    },
+    {
+      "repo": "aomi-labs/skills",
+      "github_url": "https://github.com/aomi-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aomi_labs",
+        "text": "@biddaddy_lc try\nnpx skills add aomi-labs/skills\nhttps://t.co/VxHTWATCuv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085865659309695264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085865659309695264"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Justshareit518",
+        "text": "📌 Build AI agents easily with Google's Agent Skills!\n\n✨ Google released official Agent Skills to automate cloud setup, AI agent deployment, and data workflows! 🚀\n\nEasily add them using `npx skills add google/skills` and upgrade your dev stack today! 🔥\n\n✦ Official Agent Skills for",
+        "likes": 0,
+        "url": "https://x.com/i/status/2085819769153114493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085819769153114493"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2085865399195779308",
+      "author": "thdxr",
+      "text": "opencode2 has tool search and codemode built in\n\nthis means it can handle infinite mcps, custom tools, apis, etc\n\nand it's the simplest implementation we've seen https://t.co/GgRJiIhaYX",
+      "likes": 1193,
+      "views": 0,
+      "url": "https://x.com/i/status/2085865399195779308",
+      "is_kol": false,
+      "score": 3799.0
+    },
+    {
+      "id": "2085745437458538887",
+      "author": "adamlyttleapps",
+      "text": "I built a free tool to track your app rankings in Google search results\n\n- Tracks your app rankings\n- Tracks your competitors rankings\n- Indepth keyword research\n\nPlus: it has a built-in MCP server\n\nYou just need to create an account with DataForSEO and link your account and it d",
+      "likes": 355,
+      "views": 0,
+      "url": "https://x.com/i/status/2085745437458538887",
+      "is_kol": false,
+      "score": 1100.0
+    },
+    {
+      "id": "2085733516126646543",
+      "author": "Sumanth_077",
+      "text": "Andrew Ng open-sourced an AI coworker!\n\nOpenWorker is a desktop app that delivers finished work, not just chat. You describe the outcome you want - a customer brief, a triaged inbox, a calendar update, a release status across Jira and GitHub - and it works across your files, term",
+      "likes": 269,
+      "views": 0,
+      "url": "https://x.com/i/status/2085733516126646543",
+      "is_kol": false,
+      "score": 1002.0
+    },
+    {
+      "id": "2085897783022915963",
+      "author": "XAMTO_AI",
+      "text": "有个亲戚靠做电影解说一年搞了10万，但我现在要是把下面这玩意儿甩给他，他今晚八成睡不着了。\n\n一个叫 narrator-ai-cli-skill 的开源项目，往 Claude Code 这类 Agent 里一塞，你跟它说“帮我做《霸王别姬》解说”，它自己能跑完全流程：\n\n① 脚本自动生成\n② 片段自动匹配\n③ 63种配音+声音克隆\n④ 90多款视觉模板\n⑤ 146首BGM自动卡点\n⑥ 成品直接导出\n\n内置92部经典片库，成本提前算好，工程化相当到位。\n批量搞影视号的，人工成本约等于零。\n\n🔗 https://t.co/uyzFQ2vi54",
+      "likes": 232,
+      "views": 0,
+      "url": "https://x.com/i/status/2085897783022915963",
+      "is_kol": false,
+      "score": 936.0
+    },
+    {
+      "id": "2085747859505254780",
+      "author": "Solvaix",
+      "text": "A CLASH CAUGHT IN THE MODEL COSTS $500. THE SAME CLASH CAUGHT ON SITE COSTS $17,000. A NUMBER THAT TRACES BACK TO AUTODESK'S OWN RESEARCH, NOT A GUESS.\n\nThis isn't an early sketch of a building system, it's the final version: cooling towers, pumps, heat exchangers, pipe runs call",
+      "likes": 217,
+      "views": 0,
+      "url": "https://x.com/i/status/2085747859505254780",
+      "is_kol": false,
+      "score": 801.0
+    },
+    {
+      "id": "2085791632457433119",
+      "author": "akshay_pachaar",
+      "text": "Google, Microsoft, OpenAI, Cursor, and Vercel just standardized how to package MCP and skills as a plugin for AI Agents.\n\nwrite a skill once and every one of them can now load it.\n\nthere are two ways to give a coding agent new abilities today. a skill is a folder of written instr",
+      "likes": 182,
+      "views": 0,
+      "url": "https://x.com/i/status/2085791632457433119",
+      "is_kol": false,
+      "score": 671.0
+    },
+    {
+      "id": "2085929995415769385",
+      "author": "cyrilXBT",
+      "text": "Don't waste 2 years learning to use LLMs like Claude & ChatGPT.\n\nAndrej Karpathy one of the clearest minds in AI just released a 2‑hour breakdown of how he actually uses LLMs every day.\n\n• 00:00 — LLMs, explained like you’re busy\n• 22:49 — picking the right model (for real)\n• 42:",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2085929995415769385",
+      "is_kol": false,
+      "score": 472.0
+    },
+    {
+      "id": "2085874193569337528",
+      "author": "simplifyinAI",
+      "text": "AI coding agents re-explore the same codebase every single session.\n\nRepowise indexes a repo once and gives Claude Code, Codex, or any MCP agent a real dependency graph, git history, and a bug-predictive code health score. \n\nNo re-grepping the same files. No stale docs. No guessi",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2085874193569337528",
+      "is_kol": false,
+      "score": 437.0
+    },
+    {
+      "id": "2085916405547815162",
+      "author": "AmitSha77280075",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.             \n\nSpend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/McgPVy3BHZ",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2085916405547815162",
+      "is_kol": false,
+      "score": 410.0
+    },
+    {
+      "id": "2085789245281874320",
+      "author": "project_miko",
+      "text": "Nobody needs us to explain the chart. So we won't.\n\nYou know the usual shape of a stalled project: a roadmap full of promises and nothing you can actually touch. MIKO is the opposite shape. Everything is already built, live, and publicly checkable — and all of it comes with simpl",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2085789245281874320",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2085966485802107232",
+      "author": "cyrilXBT",
+      "text": "Most people using claude code have no idea there's a skill for what they're trying to do, so they just build it from scratch every time.\n\nfind skills fixes that. describe what you're trying to achieve, and it searches skills. sh and the broader ecosystem, checks install counts an",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2085966485802107232",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2085837939506819079",
+      "author": "GhostUEP",
+      "text": "Want to duplicate devices, setup Verse devices in minutes?!⭐\n\nHow to install and use MCP Server with UEFN and Claude Code!\n\nDownload on GitHub GhostUEP\nLink on the replies!🧩\n\nLike and RT are appreciated!❤️\n\n#Fortnite #UEFN #Verse https://t.co/x8aClRk1bQ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2085837939506819079",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2085924040578154658",
+      "author": "ajitcodes",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.     \n\nSpend 1 hour with this.     \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.    \n\nThe people who watch this tonight will wake up tomorrow with a new skill.    \n\nWatch it and Bookmark it now. https://t.co/Zi5Fa",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2085924040578154658",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2085769484531372032",
+      "author": "minchoi",
+      "text": "Grok Build 1.0.0 just dropped.\n\nAnd it’s a pretty big cleanup of the stuff that actually matters when you live inside an AI coding agent all day.\n\nBiggest upgrades:\n\n> Better agent visibility - dashboard now summarizes what the agent did on the previous turn\n\n> Safer execution - ",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2085769484531372032",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2085923026143756295",
+      "author": "claudecode84",
+      "text": "Claudeを開いて、\n「文章を書いて」\nと頼んでいませんか？\n\nそれはプロンプトではなく、\nほぼ『願い事』です。\n\n目的も、条件も、\n完成形も伝えていないため、\nClaudeは推測するしかありません。\n\n入力が曖昧なら、\n出力も曖昧になります。\n\nそこで今回は、\n私がコンテンツ制作で使う\n20個のClaudeプロンプトを\n1枚にまとめました。\n\n① まず計画する\n[タスク]の手順を整理し、\n私の承認を待ってください。\n\n② プロジェクトを始める\n[作業内容]のプロジェクトを作り、\n前提や文脈を維持してください。\n\n③ Skillを構築する\n[繰り返し作",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2085923026143756295",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2085819058004570597",
+      "author": "tonysimons_",
+      "text": "Hermes Agent `/refine`: Turn Conversations Into Memory and Skills",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2085819058004570597",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2085758636383748189",
+      "author": "allenzhou101",
+      "text": "turn any MCP server into tools for your https://t.co/gykHcKP9w8 agent\n\neve connects to the server, discovers its tools with progressive disclosure, and lets you filter which remote tools the model can call\n\nand auth handled with https://t.co/04HWK3FZqS https://t.co/gp9kKRt1Pg",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2085758636383748189",
+      "is_kol": false,
+      "score": 170.0
+    },
+    {
+      "id": "2085773307832348832",
+      "author": "GhostUEP",
+      "text": "I'll be releasing a tool I made to install MCP Server for UEFN and your projects that I made with AI, so it will be free via GitHub with the repo and everything!",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2085773307832348832",
+      "is_kol": false,
+      "score": 142.0
+    }
+  ]
+}

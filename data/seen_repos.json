@@ -5702,5 +5702,25 @@
   "randalschwartz/blocsignal": {
     "first_seen": "2026-08-07",
     "tier": 3
+  },
+  "herdrdev/herdr": {
+    "first_seen": "2026-08-08",
+    "tier": 3
+  },
+  "antalphaai/meme-token-analyzer": {
+    "first_seen": "2026-08-08",
+    "tier": 3
+  },
+  "skcache/edn": {
+    "first_seen": "2026-08-08",
+    "tier": 3
+  },
+  "veronalabs/qa-loop-skill": {
+    "first_seen": "2026-08-08",
+    "tier": 3
+  },
+  "agentskills/agentskills": {
+    "first_seen": "2026-08-08",
+    "tier": 3
   }
 }
