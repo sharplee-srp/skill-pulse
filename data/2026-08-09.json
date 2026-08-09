@@ -1,0 +1,324 @@
+{
+  "date": "2026-08-09",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 165,
+    "tweets_with_repos": 7,
+    "unique_repos": 7,
+    "new_repos": 2,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "mmedhat1910/skills",
+      "github_url": "https://github.com/mmedhat1910/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mmedhat1910",
+        "text": "Looking for a System Design Audit Skill?\n\nnpx skills add mmedhat1910/skills \n\nI’ve been working on a project and wanted to run a system design audit on it to ensure it follows good practices and principles, tried to find a Claude skill to do so but didn’t find the one in my mind ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086089522530365622"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086089522530365622"
+      ]
+    },
+    {
+      "repo": "dembsky/propmotion",
+      "github_url": "https://github.com/dembsky/propmotion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIskillacademy",
+        "text": "必要なものは、\n\n・Mac\n・Xcode\n・Claude Code\n・Node.js\n・SwiftUIプロジェクト\n\nプロジェクトのフォルダでターミナルを開き、こちらを実行👇\n\nnpx skills add dembsky/PropMotion\n\n表示されたら「Claude Code」を選びます。\n\nhttps://t.co/K2HgJBOjHm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2086376957617623124"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086376957617623124"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 1445.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 300,
+      "total_retweets": 89,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 300,
+        "url": "https://x.com/i/status/2085948046328930728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2085948046328930728"
+      ]
+    },
+    {
+      "repo": "antalphaai/meme-token-analyzer",
+      "github_url": "https://github.com/antalphaai/meme-token-analyzer",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hisevenih",
+        "text": "有人已经把“Meme研究Agent”做成 Skill了\n\n最近看到一个挺对味的 Skill：\n\nMeme Token Analyzer。\n\n你给它一个Token，它会自己：\n\n搜最新新闻；\n\n找社交讨论；\n\n分析市场情绪；\n\n整理叙事；\n\n甚至生成一张对应的Meme图，再让多模态模型一起判断。\n\n最后给一个所谓的“财富基因”评级。\n\n评级我肯定不会当交易依据。\n\n但这个思路值得抄：\n\nMeme研究本身特别适合Agent。\n\n因为人工最烦的就是同时开：\n\nX、Google、GMGN、DEX、项目官网、社区。\n\n然后自己拼故事。\n\n未来真正有用的Meme A",
+        "likes": 32,
+        "url": "https://x.com/i/status/2086022354006941881"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086022354006941881"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sabir_huss50540",
+        "text": "🚨BREAKING: Google just open-sourced the instruction packs that stop your AI agent from hallucinating Google Cloud commands.\n\nIt's called Agent Skills.\n\nAsk a coding agent to spin up a GKE cluster or write a BigQuery pipeline and it'll answer with total confidence, in the syntax o",
+        "likes": 2,
+        "url": "https://x.com/i/status/2086332099804397806"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086332099804397806"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thedoomguy_ai",
+        "text": "Funciona em Claude Code, Cursor, Codex, Copilot, Gemini CLI e mais de 70 agentes. Instala em uma linha: npx skills add addyosmani/agent-skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086271544301375878"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086271544301375878"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-perps-cli",
+      "github_url": "https://github.com/byreal-git/byreal-perps-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Create your own Asia equity basket with Byreal Perps Agent Skills.\n\nTrade $JP225, $EWJ, and $KR200 in one workflow - long, short, or hedge through a single agent execution setup. 🤖\n\nnpx skills add byreal-git/byreal-perps-cli\nhttps://t.co/NWsDIZsnfZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2086271272980549904"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086271272980549904"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2086199509026242801",
+      "author": "yuliaisc",
+      "text": "Un desarrollador japonés encontró el truco definitivo de Claude Code antes que nadie\n\nInstala la skill ‘Find Skills’ y pregunta:\n\n«¿Hay alguna skill buena para [TU OBJETIVO]?»\n\nClaude enseguida aplica las skills perfectas para el proyecto.\n\nGracias a eso, su sistema automatizado ",
+      "likes": 584,
+      "views": 0,
+      "url": "https://x.com/i/status/2086199509026242801",
+      "is_kol": false,
+      "score": 2162.0
+    },
+    {
+      "id": "2086144247388905833",
+      "author": "dotey",
+      "text": "我在开发项目是，第一版本会先用 Claude Design 设计好 UI 原型/设计，打磨好后放到本地，配合 Baoyu-Design Skill 去维护，每次开发新功能前，不是先去实现功能，而是先修改本地的原型，原型修改确认好了后再去修改功能。\n\n后来直接把规则放到了 Agents.md/claude.md 里面，只要说修改或者增加什么功能，默认会先帮我修改原型。所以到现在为止，原型和实际功能都是保持一致的。\n\n这带来的好处是可以先低成本通过原型验证产品设计和 UI 设计。\n\n另一个好处就是 Claude Design 产出物是 React 代码和结构",
+      "likes": 294,
+      "views": 0,
+      "url": "https://x.com/i/status/2086144247388905833",
+      "is_kol": false,
+      "score": 1057.0
+    },
+    {
+      "id": "2086073812035203356",
+      "author": "arpit_bhayani",
+      "text": "Fun fact: swapping UUIDs for plain integers in your MCP tool parameters cuts agent errors.\n\nWhen you compare UUID-based tool parameters against integer alternatives, you get several errors, and the reason is simple ...\n\nA UUID like a3f9c1e2-88b4-4d1e-9c77-... is not something the",
+      "likes": 331,
+      "views": 0,
+      "url": "https://x.com/i/status/2086073812035203356",
+      "is_kol": false,
+      "score": 1008.0
+    },
+    {
+      "id": "2085959997276795124",
+      "author": "yagiryuuu",
+      "text": "【保存版】Cloudflareが出した「Web MCP」の対応についてまとめ",
+      "likes": 208,
+      "views": 0,
+      "url": "https://x.com/i/status/2085959997276795124",
+      "is_kol": false,
+      "score": 684.0
+    },
+    {
+      "id": "2086075247930011711",
+      "author": "simonAI_X",
+      "text": "Building an AI Agent in 2026 is no longer just about picking an LLM.\n\nThe real magic happens in the system around the model. 🤖\n\nThis roadmap perfectly breaks down how modern AI agents are actually built from scratch. 👇\n\nA production-ready AI agent needs 8 core layers:\n\n1️⃣ Define",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2086075247930011711",
+      "is_kol": false,
+      "score": 529.0
+    },
+    {
+      "id": "2086299015013183554",
+      "author": "claudecode84",
+      "text": "Claude Codeは、\nAIのトッププレイヤーが\n公開しているノウハウを\nエージェントSkill化しました。\n\n最初に生成されたのは、\n大量のSkillファイルと\n約800行の指示。\n\nその後、\nそのSkillを使って\nClaude Code自身に\n自己レビュー・自己改善を実行。\n\n結果\n\n約800行あった指示は、\n本質だけを残した\n約70行の洗練された\nエージェントSkillへ。\n\n重要なのは、\n「AIに作らせる」\nことではありません。\n\nAIにレビューさせ、\n改善ループを回すこと。\n\nこのSkillを導入すると\n\n•プロンプトを書き直す回数が激減",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2086299015013183554",
+      "is_kol": false,
+      "score": 420.0
+    },
+    {
+      "id": "2086161272077250756",
+      "author": "expo",
+      "text": "Point your agent at Expo's skills:\n\nSkills teach agents how Expo works, so it stops inventing CLI flags. \n\n𝚋𝚞𝚗𝚡 𝚊𝚍𝚍-𝚜𝚔𝚒𝚕𝚕 𝚎𝚡𝚙𝚘/𝚜𝚔𝚒𝚕𝚕𝚜\n\nThe MCP server gives agents hands to trigger a build, check status, read config: https://t.co/1swijI0Dzu",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2086161272077250756",
+      "is_kol": false,
+      "score": 375.0
+    },
+    {
+      "id": "2086177599705977138",
+      "author": "imryven",
+      "text": "An internal systems note just mapped out how to build an AI that never stops learning.\n\none goal. one diagram. eight agents.\n\n\"build an AI that never stops learning and compounds its capabilities.\"\n\nthe problem it solves is simple.\n\nevery new capability your agent gets today requ",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2086177599705977138",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2086044318117073045",
+      "author": "gippp69",
+      "text": "I JUST FOUND A F**KING INTERESTING 90+ STAR REPO ALMOST NOBODY HAS SEEN, AND IT TURNS ONE AI WORKSPACE INTO A SELF-HOSTED SWARM WITH ITS OWN BI CONTROL PLANE\n\nthe AgentSwarms-fyi team built it so agents can work together instead of living inside separate chats, with a visual swar",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2086044318117073045",
+      "is_kol": false,
+      "score": 362.0
+    },
+    {
+      "id": "2086136869138428059",
+      "author": "learnk8s",
+      "text": "Kubernetes MCP Server lets Claude, VS Code, Cursor, and other MCP clients inspect and manage Kubernetes or OpenShift resources through a native Go server\n\n➤ https://t.co/d1gwxqrwj6",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2086136869138428059",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2086101209484775561",
+      "author": "alex_verem",
+      "text": "Most people paying $179.99 a year for CapCut don't know the free version of it lives on GitHub.\n\nIt's called OpenCut. Open source video editor for web, desktop, and mobile. 81.5k stars. Runs in your browser at https://t.co/GRrUWMT6s8, no install.\n\nCapCut doubled its price in 2026",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2086101209484775561",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2086316545945350646",
+      "author": "rubenhassid",
+      "text": "Don't make (another) .md file for Claude.\n\nInstead, open Claude Settings → Skills → Create.\n\nThen do this, in order:\n\n1. Name the Claude Skill: \"/How-I-write\"\n2. Paste this template inside (edit the brackets):\n\n\"My voice: [how you talk. e.g: short sentences, direct, no fluff]\nBan",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2086316545945350646",
+      "is_kol": false,
+      "score": 260.0
+    },
+    {
+      "id": "2086233052431454548",
+      "author": "rlaope",
+      "text": "Oh My Hermes (OMH) is the power intelligence layer for hermes-agent. 🚀🧠\n\nYou don’t need to study dozens of plugins. Install it once, and your Hermes Agent instantly evolves into a high-level orchestration engine.\n\nHere is what OMH brings to your workspace:\n\n⚙️ Next-Level Coding &",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2086233052431454548",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2086120296600453341",
+      "author": "TimDraper",
+      "text": "2 years ago our company data lived in 8 Excel sheets and multiple inboxes. Today it's in 1 MCP server that we call Draper Brain. It connects 15,000+ contacts, 450+ portfolio companies, 4,900+ co-investors, and 1,900+ meeting notes.\n\nMy whole investment team uses it and so do I.\n\n",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2086120296600453341",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2086154217060986884",
+      "author": "DivyanshT91162",
+      "text": "30 GitHub repositories you should know right now.\n\nNot the usual repos everyone keeps posting.\n\nThese are the interesting ones worth exploring.\n\n1. ECC — agent harness for Claude Code, Codex & Cursor\n   → https://t.co/NlkTVUDEkd\n\n2. airi — self-hosted AI companion with realtime v",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2086154217060986884",
+      "is_kol": false,
+      "score": 200.0
+    },
+    {
+      "id": "2086038358447309022",
+      "author": "benjamincrozat",
+      "text": "The New Debug Bar for Laravel has been published: https://t.co/Urw30V9Xoh\n\nFor now, it's dev-main, no tagged release.\n\nStill a few things to do, like support for PHP 8.1 and Laravel 10 to add. Let's make sure as many people as possible can use it.\n\nDon't forget to set up the MCP ",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2086038358447309022",
+      "is_kol": false,
+      "score": 197.0
+    }
+  ]
+}

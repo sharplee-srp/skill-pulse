@@ -5722,5 +5722,13 @@
   "agentskills/agentskills": {
     "first_seen": "2026-08-08",
     "tier": 3
+  },
+  "mmedhat1910/skills": {
+    "first_seen": "2026-08-09",
+    "tier": 3
+  },
+  "dembsky/propmotion": {
+    "first_seen": "2026-08-09",
+    "tier": 3
   }
 }
