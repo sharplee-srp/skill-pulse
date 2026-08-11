@@ -5770,5 +5770,37 @@
   "veedstudio/open-edit": {
     "first_seen": "2026-08-10",
     "tier": 3
+  },
+  "diffusionstudio/skills": {
+    "first_seen": "2026-08-11",
+    "tier": 1
+  },
+  "chatwork/chatwork-mcp-server": {
+    "first_seen": "2026-08-11",
+    "tier": 2
+  },
+  "oil-oil/codex-deepseek-subagent": {
+    "first_seen": "2026-08-11",
+    "tier": 3
+  },
+  "tanav29/skills": {
+    "first_seen": "2026-08-11",
+    "tier": 3
+  },
+  "typestoofast/write-for-action": {
+    "first_seen": "2026-08-11",
+    "tier": 3
+  },
+  "xo1otl/agent-skills": {
+    "first_seen": "2026-08-11",
+    "tier": 3
+  },
+  "huangyuchuh/comfyui_skills_openclaw": {
+    "first_seen": "2026-08-11",
+    "tier": 3
+  },
+  "dancingteeth/unified-code-review": {
+    "first_seen": "2026-08-11",
+    "tier": 3
   }
 }

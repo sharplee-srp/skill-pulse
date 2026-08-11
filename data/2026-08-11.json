@@ -1,0 +1,473 @@
+{
+  "date": "2026-08-11",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 171,
+    "tweets_with_repos": 16,
+    "unique_repos": 14,
+    "new_repos": 8,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "diffusionstudio/skills",
+      "github_url": "https://github.com/diffusionstudio/skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 379.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dorukkavcioglu",
+        "text": "Or just get started with:\n\n$ brew install --cask diffusionstudio/tap/editor\n\nThen install our editor skill:\n\n$ npx skills add diffusionstudio/skills -g\n\nhttps://t.co/LI2ZcJFvTU",
+        "likes": 10,
+        "url": "https://x.com/i/status/2086850303203168479"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087113463805935744",
+        "https://x.com/i/status/2086850303203168479",
+        "https://x.com/i/status/2086844233982398503"
+      ]
+    },
+    {
+      "repo": "chatwork/chatwork-mcp-server",
+      "github_url": "https://github.com/chatwork/chatwork-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 2648.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 751,
+      "total_retweets": 59,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ds_nakajima",
+        "text": "Claude Codeでオススメしたい神MCP6選！\n\n1.Chatwork MCP\nhttps://t.co/Gifxj6rYTZ\nChatworkをAIから操作するためのMCP。AIで定期実行するタスクが完了したときにChatwork宛にメッセージ送信すると、めちゃくちゃ便利。\n\n2.X MCP\nhttps://t.co/JJdT4dOJTA\nXの操作ができるMCP。Xに投稿したり、Xから投稿を取得したり・・・アイデア次第で使い方は無限大。\n\n3.Ahrefs MCP\nhttps://t.co/d5LjF8Jijk\nSEOをやっている人には必須のMC",
+        "likes": 751,
+        "url": "https://x.com/i/status/2086799115904860483"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086799115904860483"
+      ]
+    },
+    {
+      "repo": "oil-oil/codex-deepseek-subagent",
+      "github_url": "https://github.com/oil-oil/codex-deepseek-subagent",
+      "tier": 3,
+      "is_new": true,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EngMoElgaraihy",
+        "text": "💡 طريقة التفعيل في أمر واحد:\n\nnpx skills add oil-oil/codex-deepseek-subagent -g -y\n\nأعد تشغيل Codex، واطلب منه: \"set up DeepSeek as a subagent\" وانتهى الأمر!\n\nبدل التوقف عن العمل كل مساء بسبب الـ Rate Limits، استمر برمجتك بسلاسة وبدون انقطاع 🧠⚡️\n\n📌 احفظ التغريدة فوراً لتطبق الأمر",
+        "likes": 11,
+        "url": "https://x.com/i/status/2086934933222691020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086934933222691020"
+      ]
+    },
+    {
+      "repo": "tanav29/skills",
+      "github_url": "https://github.com/tanav29/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tanavtwt",
+        "text": "`npx skills add tanav29/skills --skill codemode-scriptc`\n\nskill that tell agents to use codemode\n\n- agent writes a long instruction in ts\n- scriptc compiles ts -&gt; binary\n\nruns that binary on machine to do a long task with much token consumption",
+        "likes": 1,
+        "url": "https://x.com/i/status/2087052971586761051"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087052971586761051"
+      ]
+    },
+    {
+      "repo": "typestoofast/write-for-action",
+      "github_url": "https://github.com/typestoofast/write-for-action",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dagaadit",
+        "text": "New skill I built this weekend:\n\nnpx skills add typestoofast/write-for-action\n\nWhen an agent does research/data analysis, it produces too much gobbledygook and buries the lead. \n\nPoint the skill at .md file, and it puts the takeaway, decision, and next steps first.  \n\nrepo - http",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086873140479873462"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086873140479873462"
+      ]
+    },
+    {
+      "repo": "xo1otl/agent-skills",
+      "github_url": "https://github.com/xo1otl/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xo10tl",
+        "text": "スキル作ってみた！\n\n# Use Case\nAgenticループが5hリミットを使い果たして止まる (Weeklyは尽きてないのに)。\n\n# Install\n`npx skills add Xo1otl/agent-skills --global --skill claude-usage-guard`\n\n# Usage\nループの前に `/claude-usage-guard` するだけ\n\n# Code\nhttps://t.co/U6R4JD4cg8",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086831192620585099"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086831192620585099"
+      ]
+    },
+    {
+      "repo": "huangyuchuh/comfyui_skills_openclaw",
+      "github_url": "https://github.com/huangyuchuh/comfyui_skills_openclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NeoteoCom",
+        "text": "ComfyUI se vuelve skill para OpenClaw, Hermes Agent, Codex y Claude Code: tus workflows de generación de imágenes se ejecutan como herramientas dentro del agente. https://t.co/zeCPTLJBRx",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086958551080022186"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086958551080022186"
+      ]
+    },
+    {
+      "repo": "dancingteeth/unified-code-review",
+      "github_url": "https://github.com/dancingteeth/unified-code-review",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dancingteeth",
+        "text": "Vibe coders, I've made a skill for reviewing code that will make your life and software quality better - read more here https://t.co/l3s8r3han1 or install it directly through the terminal and share the results - npx skills add dancingteeth/unified-code-review",
+        "likes": 0,
+        "url": "https://x.com/i/status/2086984310238712191"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086984310238712191"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "narratorai-studio/narrator-ai-cli-skill",
+      "github_url": "https://github.com/narratorai-studio/narrator-ai-cli-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 1068.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 241,
+      "total_retweets": 49,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bkdgiffug",
+        "text": "我朋友靠做电影解说一年赚了上千万，但要是现在告诉他这个消息，他估计得失眠。\n\n有个开源项目叫narrator-ai-cli-skill，装进Claude Code之类的Agent里，你只需要说一句“帮我做《肖申克的救赎》解说视频”，AI就能自己把整套活儿干完：\n\n1️⃣ 自动生成解说脚本\n2️⃣ 精准匹配电影片段\n3️⃣ 63种音色配音，还支持声音克隆\n4️⃣ 90+种视觉模板自动套用\n5️⃣ 146首BGM智能匹配\n6️⃣ 直接输出成品视频\n内置93部经典电影素材库，还会提前帮你算好成本，工程化做得非常扎实。想批量做影视号的，人工成本基本直接归零。\n🔗",
+        "likes": 241,
+        "url": "https://x.com/i/status/2086998032881537370"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086998032881537370"
+      ]
+    },
+    {
+      "repo": "shawnpana/phone-harness",
+      "github_url": "https://github.com/shawnpana/phone-harness",
+      "tier": 3,
+      "is_new": false,
+      "score": 199.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UnDrogado_poeta",
+        "text": "I know there's Xcode simulator for dev work, which AI agents are already pretty good at controlling, but I got curious if there's something similar for real devices\n\nTurns out there is:\n\nFeed your agent phone harness - a skill that teaches it how to use macOS iPhone Mirroring to ",
+        "likes": 33,
+        "url": "https://x.com/i/status/2086942070925894036"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086942070925894036"
+      ]
+    },
+    {
+      "repo": "confident-ai/deepeval",
+      "github_url": "https://github.com/confident-ai/deepeval",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "juampitech",
+        "text": "👨🏼‍💻 Want to run your first eval after?\n\n&gt; pip install deepeval\n\n📚 Resources from the video:\n\nQuickstart:\nhttps://t.co/S5gKjz60fz\n\nDeepEval Skills:\nnpx skills add confident-ai/deepeval --skill \"deepeval\"\n\nGitHub:\nhttps://t.co/2S1jXEUvzA",
+        "likes": 2,
+        "url": "https://x.com/i/status/2086829763520315576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086829763520315576"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MajdAICode",
+        "text": "🔗 المستودع:\nhttps://t.co/jzqMzO81vY\nللتجربة مع Codex أو Cursor:\nnpx skills add mvanhorn/last30days-skill -g\n\nبعد التثبيت جرّب البحث عن تقنية أو أداة تتابعها وشاهد ماذا حدث حولها خلال آخر 30 يومًا.\nملاحظة: بعض المصادر مثل X وYouTube تحتاج إعدادًا إضافيًا.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086891958471925857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086891958471925857"
+      ]
+    },
+    {
+      "repo": "openclaw/agent-skills",
+      "github_url": "https://github.com/openclaw/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MarcosHernanz",
+        "text": "@floydophone 2. Run /review in a loop with the autoreview skill\n\nhttps://t.co/iDPZfZEY4b",
+        "likes": 1,
+        "url": "https://x.com/i/status/2086835009529553169"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2086835009529553169"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2086898879359062142",
+      "author": "tanayj",
+      "text": "Interesting to see SaaS companies starting to report MCP usage on earnings calls:\n\n- Datadog: MCP tool calls up 4x q/q, 22x since Q4 2025\n- Figma: MCP write usage up 75% q/q\n- Atlassian: MCP calls up 400% q/q",
+      "likes": 404,
+      "views": 0,
+      "url": "https://x.com/i/status/2086898879359062142",
+      "is_kol": false,
+      "score": 1432.0
+    },
+    {
+      "id": "2087002108662829530",
+      "author": "XFreeze",
+      "text": "Grok Build v1.0.1 just landed with a serious upgrade, bringing safer multi-agent scaling, smarter session management, expanded video generation, stronger reliability, and major performance gains for large-scale development\n\nRelease Notes: v1.0.1\n\nBreaking Changes:\n• /rewind now o",
+      "likes": 338,
+      "views": 0,
+      "url": "https://x.com/i/status/2087002108662829530",
+      "is_kol": false,
+      "score": 1234.0
+    },
+    {
+      "id": "2086880132640428080",
+      "author": "_julianschiavo",
+      "text": "🥳 `sudo xcrun mcp-server enable --unsafe-always-allow-all-agents` https://t.co/GcYe1rDus4",
+      "likes": 149,
+      "views": 0,
+      "url": "https://x.com/i/status/2086880132640428080",
+      "is_kol": false,
+      "score": 542.0
+    },
+    {
+      "id": "2086931006376784130",
+      "author": "ShenSeanChen",
+      "text": "'This guy' has prepared a FULL AI AGENT Playlist which the people downloading and stitching my videos keep calling 'better than $500 courses'. Follow me for more.\n\nAI Agent Harness & Loop Engineering  System Design (LLM Ops, Eval, Tracing, RAG):\nhttps://t.co/vjyMev6rXz\n\nHermes AI",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2086931006376784130",
+      "is_kol": false,
+      "score": 386.0
+    },
+    {
+      "id": "2087013429869686989",
+      "author": "Mystvc",
+      "text": "Free Agent Coach/Analyst for the MW4 season. \n\n- 1x Challengers World Champion 🏆\n- 2x Challengers Major Champion 🏆🏆\n- Teams have cashed over $400,000 in prize earnings\n- In-Depth Data Analytics\n- Extensive managerial experience\n\nI have pioneered a Collegiate Esports program at @I",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2087013429869686989",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2086902064928452983",
+      "author": "twannl",
+      "text": "Xcode 27 beta 5 is now available!\n\nIf you enjoy the coding intelligence features: it now adds a new MCP server experience that runs without requiring an open Xcode workspace.\n\nReally looking forward to giving this a try! https://t.co/r8JiVnJHTs",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2086902064928452983",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2086839488144437646",
+      "author": "_lfausto",
+      "text": "Spawn is evolving, and it's one of the verticals I'm most excited about at Sonic.\n\nIt's becoming a two-sided product: Spawn Studio and Spawn Marketplace.\n\nSpawn Studio is for devs and protocols. Build agentic templates, or apply to have your protocol supported in Sonic's MCP serv",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2086839488144437646",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2087041893850873892",
+      "author": "Leobai825",
+      "text": "发现一个特别有意思的AI助理，特别像“贾维斯”@Jarvixdotlive\n感觉都可以当个人助理了\n装完他还会自己说话整理文件和记录，还能对话\n它会自动地读取你电脑本地的Codex、Claude等AI工作记录\n\n导入完成后，它就知道你最近在做什么\n比如我们前些天做了一个创业skill\n最近又在搭新的GPT的渠道\n\n然后他就懂，他就说你要不要回顾过去，看看都发生了点什么，我和Codex之前做的个人网站，做的自动充值系统，它都可以读到\n\n还是蛮有意思的，还能展望未来\n我的创业skill要不要更新？我的渠道有没有找好？\n\n而且这个UI确实做得很炫酷，操作轨迹、",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2087041893850873892",
+      "is_kol": false,
+      "score": 293.0
+    },
+    {
+      "id": "2086935628768215087",
+      "author": "startupideaspod",
+      "text": "What does an AI agent actually pay for?\n\nData. \n\nSo pick one niche. Pick one city. Track 100 businesses, not more.\n\nFor example: Prices, review counts, top complaints, recent posts, visible ad changes, hiring signals. \n\nThe raw material already exists. It's sitting in Google Maps",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2086935628768215087",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2086936276704669764",
+      "author": "doodlestein",
+      "text": "One of the best parts of programming in Rust is that, if you do things the right way, it's pretty easy to compile your projects to WebAssembly (wasm) so that you can use them in a web browser, often at close to native speeds. \n\nThe benefits are obvious: it's the easiest way in th",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2086936276704669764",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2086836460934554067",
+      "author": "ridark_eth",
+      "text": "I genuinely don't understand why everyone isn't using this yet\n\nOpusClip + Claude = a video editor your agent can call\n\nGreg just showed how to wire the OpusClip MCP server into Claude, Cursor or ChatGPT with 1 connector url\n\nthis setup solves the round trip problem:\n\n> connect -",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2086836460934554067",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2086954812336124139",
+      "author": "Prince_Canuma",
+      "text": "Nativ v0.3.0 is out. 🚀\n\nBiggest release yet — 43 PRs from 6 contributors:\n\n→ Web browsing — your local models can now search the web (Brave, Perplexity & more)\n→ MCP Hub — discover, install & manage MCP servers, with full permission controls\n→ Tools & Skills — image gen as a tool",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2086954812336124139",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2086874878591062427",
+      "author": "mohitmishr93531",
+      "text": "Converting documents shouldn't be complicated.\n\nt0md turns PDF, Word, PowerPoint, HTML & JSON files into clean Markdown in seconds.\n\nNo sign-up. No unnecessary steps.\n\nPlus, it includes an MCP server for AI agents like Claude Code, Cursor & Grok. 🤖\n\n🚀 Free & live on Product Hunt:",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2086874878591062427",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2086912460452155851",
+      "author": "eternia_xx",
+      "text": "It’s been several months now since I deployed the unique 𝐇𝐞𝐫𝐦𝐞𝐬 𝐚𝐠𝐞𝐧𝐭 from @NousResearch on my VPS work server. I connected it to Telegram and chose SuperGrok as the AI backend.\nJust a short while ago – a couple of years back, this would have seemed like science fiction – install",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2086912460452155851",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2087019283523961339",
+      "author": "dotey",
+      "text": "Codex/Claude Code 现在都支持跨session访问会话了，还是挺方便的，比如我昨天在测试我的 App 在 Windows 的运行情况，先在某个测试 Project 中调用 BaoCut Skill 去做转录视频，发现第一次运行时下载模型体验很糟糕。\n\n然后我到 BaoCut 所在源代码项目中，把会话的 Session Id 给它，让它去分析原因并给出优化方案，这样就不需要你自己去让 Agent 自己总结，也不用担心总结的时候会损失上下文，Agent 自己可以去会话中找所需的上下文。",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2087019283523961339",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2086917039537652053",
+      "author": "alex_prompter",
+      "text": "Three files that turn your AI agent from a tool you maintain into a system that maintains itself.\n\nMost agent improvements come top-down. You notice a gap, you write a fix, you update the spec. That works, but it caps improvement at whatever you happen to notice while using the t",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2086917039537652053",
+      "is_kol": false,
+      "score": 158.0
+    }
+  ]
+}
