@@ -5802,5 +5802,41 @@
   "dancingteeth/unified-code-review": {
     "first_seen": "2026-08-11",
     "tier": 3
+  },
+  "lukeberrypi/skills": {
+    "first_seen": "2026-08-12",
+    "tier": 1
+  },
+  "tanevanwifferen/pi-mail": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "sindresorhus/awesome": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "morluto/internalcot": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "transcendr/slopware-skills": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "yushulx/dynamsoft-sdk-skill": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "arustagi101/nativ-docs-skills": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "albertnjobo/job-application-skill": {
+    "first_seen": "2026-08-12",
+    "tier": 3
+  },
+  "qwenlm/qwen-mm-plugins": {
+    "first_seen": "2026-08-12",
+    "tier": 3
   }
 }
