@@ -1,0 +1,482 @@
+{
+  "date": "2026-08-13",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 14,
+    "unique_repos": 14,
+    "new_repos": 7,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "mixelpixx/kicad-mcp-server",
+      "github_url": "https://github.com/mixelpixx/kicad-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 1790.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 455,
+      "total_retweets": 65,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alacritic_Super",
+        "text": "MCP Tools You Should Know If You are Building Hardware\n\n1. KiCad MCP Server: AI-assisted PCB design, schematics, routing and DRC/ERC.\nhttps://t.co/KPKHdqOmJh\n\n2. FreeCAD MCP Server: Use AI to work directly with 3D CAD models.\nhttps://t.co/HdIpeqrDbF\n\n3. blend-ai: Control Blender ",
+        "likes": 455,
+        "url": "https://x.com/i/status/2087574582375174459"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087574582375174459"
+      ]
+    },
+    {
+      "repo": "kelviq/tare",
+      "github_url": "https://github.com/kelviq/tare",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SachinNeravath",
+        "text": "My claude max limits kept running out and I couldn't figure out why.\n\nSo I built a skill that audits my tokens, limits and usage.\n\nIt turned out to be an issue with one of the coding agents I was using.\n\nIt was running Claude sessions in the background. 1,555 sessions in a single",
+        "likes": 33,
+        "url": "https://x.com/i/status/2087758494044971307"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087758494044971307"
+      ]
+    },
+    {
+      "repo": "aiengineerx/meme-scene-explorer",
+      "github_url": "https://github.com/aiengineerx/meme-scene-explorer",
+      "tier": 3,
+      "is_new": true,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DaddyGhost",
+        "text": "Endless content generator\n\nThis is huge!!\n\nI packaged it into a skill so any agent can easily do it.\nhttps://t.co/pjBeZYJzED https://t.co/A8kWndLJZE",
+        "likes": 26,
+        "url": "https://x.com/i/status/2087776040839999597"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087776040839999597"
+      ]
+    },
+    {
+      "repo": "iamshubhransh/lighthouse-max",
+      "github_url": "https://github.com/iamshubhransh/lighthouse-max",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamshubhransh",
+        "text": "or just use these two skills to convert and optimise your framer website into code — never go out of your session \n\n&gt; npx skills add iamshubhransh/framer-to-code\n&gt; npx skills add iamshubhransh/lighthouse-max",
+        "likes": 4,
+        "url": "https://x.com/i/status/2087787754654724552"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087787754654724552"
+      ]
+    },
+    {
+      "repo": "resetnak/domain-availability-skill",
+      "github_url": "https://github.com/resetnak/domain-availability-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "resetnak",
+        "text": "You know when you have an idea and need to check domain name? Well...\nJust shipped a free Agent Skill: check if a domain name is available across TLDs (.com, .io, .ai, .dev, ...)\n\nnpx skills add Resetnak/domain-availability-skill\n\n#ClaudeCode #AIagents #buildinpublic",
+        "likes": 1,
+        "url": "https://x.com/i/status/2087831768036442610"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087831768036442610"
+      ]
+    },
+    {
+      "repo": "furkananter/skills",
+      "github_url": "https://github.com/furkananter/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "furkananter",
+        "text": "Made a small Agent Skill to stop Cursor/Codex/Claude from overengineering simple tasks.\n\nSmallest correct solution. Less speculative abstraction, refactoring, dependencies, and scope creep.\n\nnpx skills add furkananter/skills --skill overengineer\n\nhttps://t.co/zneMf4V59d",
+        "likes": 0,
+        "url": "https://x.com/i/status/2087839180948668462"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087839180948668462"
+      ]
+    },
+    {
+      "repo": "sonitvasipalli/scholarly-contact-finder",
+      "github_url": "https://github.com/sonitvasipalli/scholarly-contact-finder",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sonit_sai",
+        "text": "Send this link to your AI agent of choice : https://t.co/NVUyFemMc3\n\nOr install directly :\nnpx skills add sonitvasipalli/scholarly-contact-finder --skill scholarly-contact-finder -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2087754150578987318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087754150578987318"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 311.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neil_xbt",
+        "text": "A motion design studio charges $2,000+ to produce one cinematic product video! \n\nThis open-source AI skill does it for free, and it already has 4,400 stars!\n\nPoint it at your product and it storyboards, animates, and sound-designs a complete promo, no editor needed.\n\n152 shot rec",
+        "likes": 47,
+        "url": "https://x.com/i/status/2087755021052228020"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087755021052228020"
+      ]
+    },
+    {
+      "repo": "zjp1997720/zhijian-skills",
+      "github_url": "https://github.com/zjp1997720/zhijian-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 287.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zjp1997720",
+        "text": "哈哈哈，grok竟然给黄叔 @PMbackttfuture 推荐了我开源的skill\n\n再次推荐一下，让你的WorkBuddy一键接入cli订阅并且帮你配置好模型\n\nWorkBuddy里面用grok 4.6真的很爽～\n\n开源地址： https://t.co/Gp4mvwSTVU \n\n一键安装： npx skills add zjp1997720/zhijian-skills --skill workbuddy-cli-model-bridge",
+        "likes": 14,
+        "url": "https://x.com/i/status/2087725447962558624"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087725447962558624",
+        "https://x.com/i/status/2087709888994587104"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 155.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "opensourcelab9",
+        "text": "AIに画面を作らせると、毎回どこかで見た顔になる人へ👀\nそれを出す前に止める設計スキルhallmarkが★2.4万。\n\n・21種のテーマと構成から選ばせて、同じ雛形の色違いになるのを避ける\n・出力前に57項目で自己点検させ、AIが好みがちな型を拒否させる\n・npx skills add nutlope/hallmark の1行で入る\n・既存画面の採点、作り直し、見本の分解にも同じスキルで対応する\n\nセンスを自分で言語化できなくても、ダサくなる道を先に塞いでくれるのが効きます。\nオープンソースはこちら👇\n\nhttps://t.co/3rcoqS31SY",
+        "likes": 15,
+        "url": "https://x.com/i/status/2087788749073879148"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087788749073879148"
+      ]
+    },
+    {
+      "repo": "iamshubhransh/framer-to-code",
+      "github_url": "https://github.com/iamshubhransh/framer-to-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iamshubhransh",
+        "text": "or just use these two skills to convert and optimise your framer website into code — never go out of your session \n\n&gt; npx skills add iamshubhransh/framer-to-code\n&gt; npx skills add iamshubhransh/lighthouse-max",
+        "likes": 4,
+        "url": "https://x.com/i/status/2087787754654724552"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087787754654724552"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "k_dense_ai",
+        "text": "@enjojoyy Great overnight run. If you want the next one to handle Entrez fetching, coordinate conventions and plot defaults without you re-explaining them, we open sourced 161 scientific skills that load into Codex or any Agent Skills host: npx skills add K-Dense-AI/scientific-ag",
+        "likes": 2,
+        "url": "https://x.com/i/status/2087694182987203016"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087694182987203016"
+      ]
+    },
+    {
+      "repo": "transcendr/slopware-skills",
+      "github_url": "https://github.com/transcendr/slopware-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aienginerd",
+        "text": "👀 Another real-world example of saving 5.6 from itself...\n\nImplementing simple markdown rendering in an app, 5.6 sol did its usual thing where it wants to add MORE. This time it wanted a non-markdown fallback, an AST allowlist, source-level grammar guard, and all the associated d",
+        "likes": 1,
+        "url": "https://x.com/i/status/2087829625992876529"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087829625992876529"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "3xtihor",
+        "text": "Remotion now has Agent Skills - make videos just with\nClaude Code!  $ npx skills add remotion-dev/skills \nThese animations were created just by prompting 👇 https://t.co/rzktDGLxGC",
+        "likes": 0,
+        "url": "https://x.com/i/status/2087810248157675565"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087810248157675565"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2087703542979014958",
+      "author": "gregisenberg",
+      "text": "The BEST prompt for AI agents I've heard over the last 12 months is ONLY 3 words, and it comes from someone who managed multi-billion dollar P&Ls in AI, led a 100 person org at AWS, and now runs a brilliant AI workforce of 34 agents:\n\n1. Her best prompt is just \"do smart things\"\n",
+      "likes": 468,
+      "views": 0,
+      "url": "https://x.com/i/status/2087703542979014958",
+      "is_kol": false,
+      "score": 1609.0
+    },
+    {
+      "id": "2087580062593823004",
+      "author": "uaghazadae",
+      "text": "INTRODUCING OPEN ANALYTICS\n\nAn open-source, AI-native and privacy-first web analytics platform for understanding your traffic and your revenue, on infrastructure you own or hosted by us.\n\nReplace Google Analytics, your cookie banner, and the spreadsheet where you guess which page",
+      "likes": 440,
+      "views": 0,
+      "url": "https://x.com/i/status/2087580062593823004",
+      "is_kol": false,
+      "score": 1440.0
+    },
+    {
+      "id": "2087548318264029399",
+      "author": "ashleypeacock",
+      "text": "With MCP v2, MCP has become stateless, making it much easier to implement. Cloudflare Workers are the best stateless compute primitive you'll find.\n\nThis is all the code you need to create a stateless MCP server with Cloudflare's Agents SDK! https://t.co/jivDR9WP4d",
+      "likes": 388,
+      "views": 0,
+      "url": "https://x.com/i/status/2087548318264029399",
+      "is_kol": false,
+      "score": 1269.0
+    },
+    {
+      "id": "2087733334617063503",
+      "author": "GoogleCloudTech",
+      "text": "Agent Plugins are the future of Agent Skills",
+      "likes": 256,
+      "views": 0,
+      "url": "https://x.com/i/status/2087733334617063503",
+      "is_kol": false,
+      "score": 963.0
+    },
+    {
+      "id": "2087610098986471707",
+      "author": "birdabo",
+      "text": "‼️found a site that ends AI design slop.\n\nsuperrr is an MCP server that gives your coding agent taste. they measured 132 real landing pages, verified 123 of them and pulled out 17 design directions with exact tokens.\n\nthe agents still writes the code. superrr picks the direction,",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2087610098986471707",
+      "is_kol": false,
+      "score": 584.0
+    },
+    {
+      "id": "2087783863741256149",
+      "author": "dotey",
+      "text": "最近一直在忙着把我的 App 变成跨平台的，试了几种方案还是决定用 Rust + GPUI。\n\n一开始就是用的 Electron，但是视频编辑这种场景纯网页实现性能优化还是挺不容易的，尤其是视频一长、字幕一多就会很卡，内存占用也很夸张。我不怀疑持续优化下去能是能有一个还不错的性能的，但要花不少时间精力。\n\n所以我后来就决定先做一个 Mac 版本（图1），Swift + AppKit，用 Fable 5 开发，效果特别好，跟设计稿几乎一样。必须说 Fable 5 在还原 UI 能力上是最强的，没有之一。\n\n但现在想要支持跨平台，就还得考虑其他方案。先是用 ",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2087783863741256149",
+      "is_kol": false,
+      "score": 492.0
+    },
+    {
+      "id": "2087756697469440442",
+      "author": "divaagurlxw",
+      "text": "Agentic AI Roadmap 2026\n\n↳ 1. LLM Foundations — Transformers, reasoning, function calling, structured output \n\n↳ 2. Context Engineering — Prompting, context management, compression, caching \n\n↳ 3. Tool Use — APIs, function calling, browser, code execution \n\n↳ 4. Agent Architectur",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2087756697469440442",
+      "is_kol": false,
+      "score": 399.0
+    },
+    {
+      "id": "2087821606148272318",
+      "author": "VermaAakash3",
+      "text": "Flova AI + Seedance 2.5: AI Video Is Finally Moving from Generation to Delivery\n\nStop Copying Prompts. Use a Creator's Seedance 2.5 Skill Instead.\n\nWant to create an Odyssey-style cinematic short film? One Product, Multiple Languages, Platforms, and Ad Variations One Flova Skill.",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2087821606148272318",
+      "is_kol": false,
+      "score": 327.0
+    },
+    {
+      "id": "2087770335764681040",
+      "author": "heyrohitai",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/GJrnX7X4Eb",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2087770335764681040",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2087737228160373145",
+      "author": "nykdotdev",
+      "text": "AI agents didn't eliminate management.\n\nThey made every builder a manager.\n\nOpenAI's heaviest internal Codex users are already generating 60+ hours of agent turns per day.\n\nYou physically cannot watch 60 hours of work.\n\nAnd that's the point.\n\nThe next skill isn't prompting harder",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2087737228160373145",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2087568835062706585",
+      "author": "Paul250889",
+      "text": "Why i think $ORBITX has an INSANE POTENTIAL? 👇\n\n@Bloomberg  built the operating system of traditional finance.\nToday it’s worth over $80 billion.\n\n@orbitx_wrld is attempting to do the exact same thing — but for Solana and on-chain trading.\nAnd it’s doing it while $ORBITX is still",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2087568835062706585",
+      "is_kol": false,
+      "score": 249.0
+    },
+    {
+      "id": "2087524265868353760",
+      "author": "_Nosa_",
+      "text": "One of the engineers at Kuda built an MCP server for our new design system.  https://t.co/9WSpGgNsvU",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2087524265868353760",
+      "is_kol": false,
+      "score": 226.0
+    },
+    {
+      "id": "2087577388859195759",
+      "author": "kotlin",
+      "text": "📢 Compose Multiplatform 1.12.0-rc01 is out! \n\nHere are the highlights:\n\n🔤 Automatic font fallback on web\n🤖 MCP server for AI agents in Compose Hot Reload\n🪟 Window and dialog API v2 on desktop\n\nExplore what's new 👇 \nhttps://t.co/hm749afT7b",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2087577388859195759",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2087793909636227291",
+      "author": "bimnttsion",
+      "text": "Beberapa lowongan yang lagi OPEN di Mindrift!!\n\nKalau kalian lagi cari freelance remote, ini bisa banget dicek. Ada beberapa posisi yang lagi buka, mulai dari Brand Designer, Full-Stack Developer, Web Developer, Graphic Designer, Data Scraping, sampai AI/Agent Evaluation dengan r",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2087793909636227291",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2087551315480080892",
+      "author": "MarathiRojgar",
+      "text": "AI specific skill set:\n\nPython\nSQL\nML\nPyTorch\nLLMs\nPrompt\nMCP\nRAG\nEmbeddings\nVector Databases\nAgents\nTool Calling\nLangChain / LangGraph\nFastAPI\nDocker\nLLM Evals\nAI Guardrails\n\n#copied",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2087551315480080892",
+      "is_kol": false,
+      "score": 172.0
+    },
+    {
+      "id": "2087521975556067762",
+      "author": "knoxtwts",
+      "text": "how to cook killer meta ads with ai + higgsfield mcp",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2087521975556067762",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2087594296581255194",
+      "author": "starmexxx",
+      "text": "openai will sell you gpt-5.6 at $200/mo. anthropic will sell you opus 5 at $200/mo. i pulled 138 \"opus 5 regressed\" complaints from my dms over 30 days. 0 were the model. the $12 plan handles every fix once you know which floor to look at\n\n138 tickets, where they actually died:\n\n",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2087594296581255194",
+      "is_kol": false,
+      "score": 159.0
+    }
+  ]
+}

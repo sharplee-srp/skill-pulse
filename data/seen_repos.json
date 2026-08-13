@@ -5838,5 +5838,33 @@
   "qwenlm/qwen-mm-plugins": {
     "first_seen": "2026-08-12",
     "tier": 3
+  },
+  "mixelpixx/kicad-mcp-server": {
+    "first_seen": "2026-08-13",
+    "tier": 2
+  },
+  "kelviq/tare": {
+    "first_seen": "2026-08-13",
+    "tier": 3
+  },
+  "aiengineerx/meme-scene-explorer": {
+    "first_seen": "2026-08-13",
+    "tier": 3
+  },
+  "iamshubhransh/lighthouse-max": {
+    "first_seen": "2026-08-13",
+    "tier": 3
+  },
+  "resetnak/domain-availability-skill": {
+    "first_seen": "2026-08-13",
+    "tier": 3
+  },
+  "furkananter/skills": {
+    "first_seen": "2026-08-13",
+    "tier": 3
+  },
+  "sonitvasipalli/scholarly-contact-finder": {
+    "first_seen": "2026-08-13",
+    "tier": 3
   }
 }
