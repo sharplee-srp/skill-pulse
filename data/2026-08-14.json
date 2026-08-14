@@ -1,0 +1,502 @@
+{
+  "date": "2026-08-14",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 164,
+    "tweets_with_repos": 15,
+    "unique_repos": 15,
+    "new_repos": 9,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "alchaincyf/deepseek-harness-orange-book",
+      "github_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "tier": 2,
+      "is_new": true,
+      "score": 1311.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 327,
+      "total_retweets": 46,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlchainHust",
+        "text": "是的，《DeepSeek Harness橙皮书📙》，总共120页，免费！开源！\nhttps://t.co/PU1BVrhC26\n\n这么短时间内能出这个东西，是的，当然是AI写的。我为啥要用AI写这个呢？\n\n因为我看到DeepSeek Harness说“一切皆插件”的时候，我感到很好奇，尤其想知道这部分插件和skill、MCP等概念之间的关系。\n\n看到他的四种模式：（标准模型、PTC模式、极简模式、创造模式）的时候也很困惑，我想知道这几个模式究竟是指什么，该用哪一个。\n\n以及，当然还有个很基础的问题，这个产品和Codex、Claude Code这样的cod",
+        "likes": 327,
+        "url": "https://x.com/i/status/2088105299328528463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088105299328528463"
+      ]
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "github_url": "https://github.com/rlaope/oh-my-hermes",
+      "tier": 3,
+      "is_new": true,
+      "score": 216.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rlaope",
+        "text": "Oh My Hermes (OMH) is the ultimate engineering intelligence layer for hermes-agent. (Thanks GitHub 1K Stars - 70)\n\nYou don’t need to study dozens of plugins. Install it once, and your Hermes Agent instantly evolves into a high-level orchestration engine.\n\nHere is what OMH brings ",
+        "likes": 32,
+        "url": "https://x.com/i/status/2088128753729692043"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088128753729692043"
+      ]
+    },
+    {
+      "repo": "openclaw/clawpatch",
+      "github_url": "https://github.com/openclaw/clawpatch",
+      "tier": 3,
+      "is_new": true,
+      "score": 150.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trevin",
+        "text": "If you aren’t using Clawpatch by @steipete you are missing out on a sneaky superpower to improve your repos. \n\nhttps://t.co/To1D441gPm\n\nThis is an agent skill you can you in conjunction with it so your agents know how to use it more quickly:\nhttps://t.co/NH7boODKis",
+        "likes": 15,
+        "url": "https://x.com/i/status/2088143007493267804"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088143007493267804"
+      ]
+    },
+    {
+      "repo": "unifapi-agent/agents",
+      "github_url": "https://github.com/unifapi-agent/agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "昨晚和UnifAPI的Jason Meng @desenmeng 聊了UnifAPI Agents：营销 agent，有意思的产品，而且我觉得定价方式很特别\n\n装一个插件，Claude、ChatGPT、Codex、OpenClaw\n 这些都能用 它把营销拆成一堆 skill，全部基于公开数据、只读： \n· SEO 审计、关键词、竞品 \n· GEO / AI 可见性：查你在 ChatGPT 和 AI 搜索的回答里被不被引用，份额被谁抢了 \n· 本地 SEO、KOL 定价、社媒监听、竞品情报 \n· 还按行业分好了：地产、律所、牙科、餐饮、医美、家政\n\n开源项",
+        "likes": 5,
+        "url": "https://x.com/i/status/2088080238068580800"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088080238068580800"
+      ]
+    },
+    {
+      "repo": "asmartbear/asb-skills",
+      "github_url": "https://github.com/asmartbear/asb-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dominus_Kelvin",
+        "text": "Just installed all 18 skills by @asmartbear. Time to find out why these products I am working on are not making $1M/monthly yet 🥹\n\nYou can install them too\n\nnpx skills add asmartbear/asb-skills https://t.co/XikJynoPdF",
+        "likes": 2,
+        "url": "https://x.com/i/status/2088180587127566740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088180587127566740"
+      ]
+    },
+    {
+      "repo": "chloevpin/x-for-you-feed-skill",
+      "github_url": "https://github.com/chloevpin/x-for-you-feed-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chloevalesquez",
+        "text": "1-click install into Claude Code, Cursor, Windsurf, or Copilot:\n\nnpx skills add ChloeVPin/x-for-you-feed-skill\n\nFull open-source skill repository and architecture guides:\nhttps://t.co/r8nvMPihYj",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088053162636632560"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088053162636632560"
+      ]
+    },
+    {
+      "repo": "devosurf/securesend",
+      "github_url": "https://github.com/devosurf/securesend",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liamv1nberg",
+        "text": "You can now send secrets to your coding agents. Paste a securesend link and the agent redeems it in the terminal and pipes it where needed. One read and the link is dead.\n\nAdd the skill so your agent knows what to do with the link:\n\nnpx skills add devosurf/securesend",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088004313620619680"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088004313620619680"
+      ]
+    },
+    {
+      "repo": "humanlayer/skills",
+      "github_url": "https://github.com/humanlayer/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "raja_sudireddy",
+        "text": "Coding agents keep getting better while their explanations can still arrive as walls of jargon. Dex Horthy’s response is /show-me, a skill that asks the agent to use compact visual representations.\n\nThe skill matches the shape to the problem: a component tree, call stack, state o",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088162455654674914"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088162455654674914"
+      ]
+    },
+    {
+      "repo": "pepae/pq-threshold-knowledge-graph",
+      "github_url": "https://github.com/pepae/pq-threshold-knowledge-graph",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bezzenberger",
+        "text": "Webapp: https://t.co/crjDrfjuje\n\nRepo: https://t.co/r8bASwC4y2\n\nAnd skill.md: https://t.co/gfJtPCyYL9\n\nPlug in your agent, contribute to the repo and let's solve it, PRs welcome!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088206961405759978"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088206961405759978"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 145.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that writes welcome sequences that activate instead of annoy.\n\nThree emails, each teaching one thing, only the last one sells — built as a real automation with waits and skip conditions, pushed straight to your ESP.\n\nnpx skills add coreyhaines31/marketingskills htt",
+        "likes": 15,
+        "url": "https://x.com/i/status/2088038907590185273"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088038907590185273"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 142.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mvanhorn",
+        "text": "\"Install the last30days skill and become the last30days bot.\n\nSource: https://t.co/J0QsxMhxLH\n\nDo this:\n1. Install with the Agent Skills CLI, not as a Cursor plugin:\n   npx skills add mvanhorn/last30days-skill -g\n   That should land at ~/.agents/skills/last30days (SKILL.md + scri",
+        "likes": 14,
+        "url": "https://x.com/i/status/2088000182164259228"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088000182164259228"
+      ]
+    },
+    {
+      "repo": "svetlyoh/web-wallet",
+      "github_url": "https://github.com/svetlyoh/web-wallet",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ExcelPrfsnals",
+        "text": "@sugarchain_dev  there is now a Open claw ready skill for coining new words and new AI generated words on the sugarchain network.\nLink to installation instructions github:\nhttps://t.co/A2zHltzIX2 https://t.co/aaY2N837Hl",
+        "likes": 2,
+        "url": "https://x.com/i/status/2070963862275498129"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2070963862275498129"
+      ]
+    },
+    {
+      "repo": "buddypia/agent-skills",
+      "github_url": "https://github.com/buddypia/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buddypia",
+        "text": "Gemini / Claude / GPTを「討論・推敲・メタ認知」させるAgent Skillsが Gemini 3.7 Flash に対応しました！\n\n複数LLMの協調・壁打ちによるアウトプット精度の引き上げが、さらに進化しています🔥\n\n👇 利用方法\nnpx skills add buddypia/agent-skills\n\n📖 詳細記事はこちら\nhttps://t.co/x7AE2D3e27",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088097450179592372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088097450179592372"
+      ]
+    },
+    {
+      "repo": "xo1otl/agent-skills",
+      "github_url": "https://github.com/xo1otl/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xo10tl",
+        "text": "ワイが作ったのと全く同じの秒で出すやんけ。\n\n# Use Case\nAgenticループが適切に休憩を挟むことで、走り続けられるようになります。(Weeklyが尽きるまで)\n\n# Install\n`npx skills add Xo1otl/agent-skills --global --skill claude-usage-guard`\n\n# Usage\nループの前に `/claude-usage-guard` する",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088077209588375678"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088077209588375678"
+      ]
+    },
+    {
+      "repo": "transcendr/slopware-skills",
+      "github_url": "https://github.com/transcendr/slopware-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aienginerd",
+        "text": "ps. I'll be turning this into a skill soon in the slopware-skills repo but since I was in and messing with it anyway, thought I'd just drop it here.\n\nalso, pro tip - works great with my MSW and Timebox skills:\n\nnpx skills add transcendr/slopware-skills --skill timebox -g\n\nnpx ski",
+        "likes": 0,
+        "url": "https://x.com/i/status/2087985065141633035"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2087985065141633035"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2087970746429792282",
+      "author": "JayminSOfficial",
+      "text": "The $7 Billion Note Taker\n\nModa just changed what a sales call produces.\n\nFor a decade, conversation intelligence defined the modern revenue stack. Gong reached a $7.25 Billion valuation recording calls and returning summaries. An entire category built on transcripts, action item",
+      "likes": 491,
+      "views": 0,
+      "url": "https://x.com/i/status/2087970746429792282",
+      "is_kol": false,
+      "score": 1693.0
+    },
+    {
+      "id": "2088019011561005382",
+      "author": "grapeot",
+      "text": "DeepSeek 开源的第一个 agent harness DSH，论文里堆满了范畴论符号，很容易让人觉得又是研究员在真空里搞出来的理论产物。但在仔细读完源码并与 Codex 逐行对照后，我的工程判断很明确：对绝大多数日常写代码的开发者来说，它重得毫无必要；但对探索自进化 agent 的工程团队来说，它搭建了一套目前其他方案完全没有的底层骨架。\n\n架构上最本质的差距在于插件模型的选择。\n\nCodex 代表了典型的声明式路线：插件只是磁盘上的文件夹，贡献的是 Markdown 写的 skill 文件、MCP server 配置或 shell 脚本。插件不进",
+      "likes": 308,
+      "views": 0,
+      "url": "https://x.com/i/status/2088019011561005382",
+      "is_kol": false,
+      "score": 1209.0
+    },
+    {
+      "id": "2087897992665919997",
+      "author": "aigclink",
+      "text": "deepseek-harness重磅开源，采用了一切皆插件的架构，也就是中国版的openclaw，体验了下可以称之为私有化的workbuddy。\n\n场景侧冲击：有了deepseek-harness之后，企业域的私有化code、cowork基本用这个就可以了，直接会冲击workbuddy之类的市场。\n\n之前DeepSeek Harness内测招募，本质是一次开源 Agent 生态大摸底，把全球 Agent 基础设施的家底扫了一遍后，预计后续版本应该会在开放生态上做一些事情。\n\ndsh看点不在\"又一个 Claude Code\"，有3个看点：\n\n1️⃣ 一切皆",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2087897992665919997",
+      "is_kol": true,
+      "score": 781.0
+    },
+    {
+      "id": "2088051348331762012",
+      "author": "UnTalNixon_exe",
+      "text": "🚨 Alibaba acaba de open-sourcear el sandbox que todos los agentes de IA necesitaban… y ya es #1 en GitHub Trending.\n\nOpenSandbox = entornos aislados de verdad para que tus agentes:\n• Ejecuten código\n• Naveguen la web\n• Controlen escritorios completos\n• Corran Claude Code / Cursor",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2088051348331762012",
+      "is_kol": false,
+      "score": 749.0
+    },
+    {
+      "id": "2087958154172866921",
+      "author": "simplifyinAI",
+      "text": "Alibaba just open-sourced its AI agent sandbox platform.\n\nOpenSandbox is a general-purpose sandbox runtime for AI agents. \n\nspin up isolated environments to run code, browse the web, or drive a desktop, with SDKs in five languages and a choice of container backends.\n\nworth knowin",
+      "likes": 196,
+      "views": 0,
+      "url": "https://x.com/i/status/2087958154172866921",
+      "is_kol": false,
+      "score": 738.0
+    },
+    {
+      "id": "2088003040762618289",
+      "author": "XFreeze",
+      "text": "Grok Build v1.0.4 just got a serious upgrade, giving developers more control over agent workflows with smarter follow-ups, powerful tool-input hooks, domain-controlled web search, better session tooling, and lower memory usage for finished subagents\n\nRelease Notes: v1.0.4\n\nFeatur",
+      "likes": 184,
+      "views": 0,
+      "url": "https://x.com/i/status/2088003040762618289",
+      "is_kol": false,
+      "score": 702.0
+    },
+    {
+      "id": "2088007444899463294",
+      "author": "EXM7777",
+      "text": "here are 20 workflows you can run today with Grok Bot:\n\n> seo / aeo audits with the dataforseo mcp\n> outbound researched, scored and queued in smartlead\n> competitor watch running overnight on firecrawl\n> decks designed in paper\n> newsletters drafted in beehiiv\n> social queue man",
+      "likes": 165,
+      "views": 0,
+      "url": "https://x.com/i/status/2088007444899463294",
+      "is_kol": false,
+      "score": 575.0
+    },
+    {
+      "id": "2088130860872565130",
+      "author": "CallMeDiegoJr",
+      "text": "🔸 سالسی: پارسی‌تر بنویس، بی‌آنکه چیزی خراب شود.\n\nابزاری عالی برای پیدا کردن وام‌واژه‌های فارسی و پیشنهاد معادل پارسی‌شون.\n\nویژگی‌ها:\n- بر پایه واژه‌نامه پاسبان (بیش از ۲۰ هزار واژه)\n- اصطلاحات تخصصی، کد و نقل‌قول‌ها رو خراب نمی‌کنه\n- سه سطح: safe، standard و pure\n\nمی‌تونید به‌عنو",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2088130860872565130",
+      "is_kol": false,
+      "score": 555.0
+    },
+    {
+      "id": "2087941515725377948",
+      "author": "iosartem",
+      "text": "Xcode 27 beta 5 can run its MCP server without opening Xcode 🤯\n\nI used Claude Code to create a SwiftUI project, build it, render previews, and verify a flow in the simulator.\n\nSetup, permissions, Apple’s agent skills, and caveats:\nhttps://t.co/wZX02EoYOj\n\n#Xcode27 #SwiftUI #MCP",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2087941515725377948",
+      "is_kol": false,
+      "score": 520.0
+    },
+    {
+      "id": "2088015376399692229",
+      "author": "code",
+      "text": "Build once, use everywhere with Agent Plugins",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2088015376399692229",
+      "is_kol": false,
+      "score": 476.0
+    },
+    {
+      "id": "2088113074503094422",
+      "author": "protosphinx",
+      "text": "Introducing Krawler: a professional network for self-improving AI agents.\n\nYou spawn an agent and it names itself, writes its own bio, posts, follows other agents, endorses their skills.\n\n- open versioned catalog of skills\n- agent reputation from the endorsement graph\n- every ski",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2088113074503094422",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2088150879270785403",
+      "author": "cyrilXBT",
+      "text": "Most people using claude code have no idea there's a skill for what they're trying to do, so they just build it from scratch every time.\n\nfind skills fixes that. describe what you're trying to achieve, and it searches skills. sh and the broader ecosystem, checks install counts an",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2088150879270785403",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2087974495373934727",
+      "author": "ifureJack",
+      "text": "What keeps pulling me back to Concordium is how practical its approach to AI identity is.\n\nCIS-8004 doesn’t demand that agents move to Concordium. An agent can keep running on Ethereum or elsewhere while using @Concordium as an additional accountability anchor.\n\nCIS-8 links exter",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2087974495373934727",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2088001877241676270",
+      "author": "mark_k",
+      "text": "Grok Build release 1.0.4 from @SpaceXAI 🔥\n\nKey features worth noting:\n\n- New StopCancelled hook that reports when a turn ends early (interrupt, permission reject, max turns, etc.)\n- Web search now supports allow/exclude domain lists via config.toml\n- Session search index can be f",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2088001877241676270",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2088017750992073006",
+      "author": "0xRafy",
+      "text": "Google just dropped a 1-hour course on MCP from scratch:\n\n00:00 - Build your own MCP\n08:24 - Give your agent real memory (short, persistent, long)\n28:34 - wire any tool into your agent in minutes\n40:04 - MCP vs API\n\n88 minutes and you'll understand MCP better than most people bui",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2088017750992073006",
+      "is_kol": false,
+      "score": 200.0
+    },
+    {
+      "id": "2088137478066598286",
+      "author": "emmydoj1",
+      "text": "Good morning Guys\n\nInjective Welcomes AdventureX 2026 Winners, Expanding Its Ecosystem of Next Generation Builders\n\n@injective , the high performance Layer 1 blockchain optimized for finance, trading, tokenization, and AI agents, has officially welcomed the standout projects from",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2088137478066598286",
+      "is_kol": false,
+      "score": 187.0
+    },
+    {
+      "id": "2087923234578866525",
+      "author": "x402_Layer",
+      "text": "Singularity Processors are LIVE.\n\nA new way for Humans and AI Agents to create, deploy, use and sell software capabilities.\n\nLaunch one for free. Earn USDC on every use.\n\nEvery Processor ships with its own MCP server + a paid x402 API endpoint.\n\nBuilt for @x402 on @solana, @base ",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2087923234578866525",
+      "is_kol": false,
+      "score": 185.0
+    }
+  ]
+}

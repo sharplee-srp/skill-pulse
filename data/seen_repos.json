@@ -5866,5 +5866,41 @@
   "sonitvasipalli/scholarly-contact-finder": {
     "first_seen": "2026-08-13",
     "tier": 3
+  },
+  "alchaincyf/deepseek-harness-orange-book": {
+    "first_seen": "2026-08-14",
+    "tier": 2
+  },
+  "rlaope/oh-my-hermes": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "openclaw/clawpatch": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "unifapi-agent/agents": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "asmartbear/asb-skills": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "chloevpin/x-for-you-feed-skill": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "devosurf/securesend": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "humanlayer/skills": {
+    "first_seen": "2026-08-14",
+    "tier": 3
+  },
+  "pepae/pq-threshold-knowledge-graph": {
+    "first_seen": "2026-08-14",
+    "tier": 3
   }
 }
