@@ -1,0 +1,493 @@
+{
+  "date": "2026-08-15",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 16,
+    "unique_repos": 14,
+    "new_repos": 11,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "elder-plinius/cl4r1t4s",
+      "github_url": "https://github.com/elder-plinius/cl4r1t4s",
+      "tier": 2,
+      "is_new": true,
+      "score": 1957.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 549,
+      "total_retweets": 42,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elder_plinius",
+        "text": "🌊 SYS PROMPT LEAK 🌊\n\nGot the full system prompts, tools, and skills for ZAI's ZCode: GLM-5.3! \n\nFull files (nearly 400k characters total!) are up on CL4R1T4S: \n\nhttps://t.co/M3NmSClzig \n\n• 391,439 characters\n• All captured prompts\n• 15 skill bodies\n• 24 receipt-verified tool cont",
+        "likes": 549,
+        "url": "https://x.com/i/status/2088459511992582513"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088459511992582513"
+      ]
+    },
+    {
+      "repo": "laravel/mcp",
+      "github_url": "https://github.com/laravel/mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 547.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 124,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pushpak1300",
+        "text": "Laravel MCP v1 is now in beta 🚀\n\nIt brings support for the latest MCP protocol, along with a bunch of improvements.\n\nIt’s beta, so expect a few changes, but it’s already very usable. Try it with your existing MCP server and please report issue if you run into anything 🫡\n\nhttps://",
+        "likes": 124,
+        "url": "https://x.com/i/status/2088308762142810171"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088308762142810171"
+      ]
+    },
+    {
+      "repo": "xintaofei/codeg",
+      "github_url": "https://github.com/xintaofei/codeg",
+      "tier": 3,
+      "is_new": true,
+      "score": 293.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "blmario669",
+        "text": "💡Grok CLI 三方客户端资源贴，建议收藏！！\n\nGrok CLI 真的得安利一波，实在是太抗蹬了。\n\n这两天 Codex 彻底歇菜以后，我基本把 Grok CLI 当主力在用了。大概高强度蹬了一天半，到现在还有一大半周额度没用完，且我手里还有一次额外重置。\n\n不过 Grok CLI 本身目前没有官方桌面客户端，所以如果你也想像用 Codex 一样通过前端傻瓜式操作，那就需要自己安装第三方客户端。\n\n索性我大致把目前能用的一些客户端资源整理了一下，大家可以根据自己的系统和使用习惯去选，基本都可以直接去 GitHub 仓库下载最新版安装。\n\n═════",
+        "likes": 56,
+        "url": "https://x.com/i/status/2088455036926095397"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088455036926095397"
+      ]
+    },
+    {
+      "repo": "neardefi/agent-payments-skill",
+      "github_url": "https://github.com/neardefi/agent-payments-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 215.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "proximityfi",
+        "text": "The skill is designed to work across Claude Code, OpenClaw, and most agent frameworks, with support for multiple agent wallet setups.\n\nSkill available at:\n\nhttps://t.co/nillf9cRty",
+        "likes": 4,
+        "url": "https://x.com/i/status/2088317685566472329"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088431113077469366",
+        "https://x.com/i/status/2088317685566472329"
+      ]
+    },
+    {
+      "repo": "lumpcode/skills",
+      "github_url": "https://github.com/lumpcode/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ddyods",
+        "text": "Lumpcode update v0.1.1 🐡 : An agent skill, and squashable marker commits.\n\n1. A lumpcode skill is now available !\n\nYour coding agent does not know current Lumpcode unless you give it current docs and some context. So I created a skill for this.\n\n`npx skills add lumpcode/skills`\n\n",
+        "likes": 3,
+        "url": "https://x.com/i/status/2088304462557290819"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088304462557290819"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain-skills",
+      "github_url": "https://github.com/langchain-ai/langchain-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MAXIMISEART",
+        "text": "https://t.co/W2WPsxwe5U\n\nnpx skills add langchain-ai/langchain-skills --skill eval-engineering --yes",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088421462424027285"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088421462424027285"
+      ]
+    },
+    {
+      "repo": "zanwei/design-dna",
+      "github_url": "https://github.com/zanwei/design-dna",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flowoodzx",
+        "text": "레퍼런스 사이트 스크린샷 던지고 이런 느낌으로 만들어줘 했는데 결과물이 매번 기본 템플릿처럼 나온 경험, 다들 한 번씩 있으실 거예요.\n\ndesign-dna라는 에이전트 스킬을 직접 설치해서 확인해봤습니다. `npx skills add zanwei/design-dna -a claude-code -g -y` 한 줄이면 10초 만에 끝나고, 클로드 코드 스킬 폴더에 144KB짜리 스킬이 들어갑니다. 태그를 보니 커서와 코덱스도 지원 대상이더라고요.\n\n레퍼런스 사이트나 스크린샷을 넣으면 색상, 폰트, ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088302991703158974"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088302991703158974"
+      ]
+    },
+    {
+      "repo": "hancengiz/tokenomics-coach-claude-code",
+      "github_url": "https://github.com/hancengiz/tokenomics-coach-claude-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hancengiz",
+        "text": "npx skills add hancengiz/tokenomics-coach-claude-code\n\nhttps://t.co/zJy1NBS2ws",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088249034502709596"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088249034502709596"
+      ]
+    },
+    {
+      "repo": "kimyx0207/meta_kim",
+      "github_url": "https://github.com/kimyx0207/meta_kim",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KimYx0207",
+        "text": "Meta_Kim 3.0 正式发布 🚀\n\n这次不是简单加功能，而是重做了 AI 编码协作的治理底座：\n\n✅ 先明确目标，再开始执行\n✅ 自动匹配合适的 Agent、Skill 和工具\n✅ 任务拆分、依赖判断与并行调度\n✅ 区分“说完成了”和“证据证明完成了”\n✅ 支持继续、等待、停止、升级处理\n✅ 统一 Claude Code、Codex、Cursor、OpenClaw\n✅ 安装更新更安全，不覆盖用户自己的配置\n✅ 每次执行都能审查、验证，并沉淀可复用经验\n\n一句话：让 AI 编码从“模型自己发挥”，变成一套可执行、可审查、可验证、可持续进化的协作系统。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088322489202151918"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088322489202151918"
+      ]
+    },
+    {
+      "repo": "marketingskills/creative-multiverse",
+      "github_url": "https://github.com/marketingskills/creative-multiverse",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "innermaps",
+        "text": "@BrianRoemmele Had a go at turning it into a Skill: npx skills add marketingskills/creative-multiverse\n\nhttps://t.co/wQh9ROwgGO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088261341823828143"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088261341823828143"
+      ]
+    },
+    {
+      "repo": "slashman413/cowork",
+      "github_url": "https://github.com/slashman413/cowork",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KWC59125740",
+        "text": "285 AI agents. One dashboard. 🤯\n\nClaude + Gemini + Codex + Hermes, coordinating via one open-source MCP server + web UI.\n\nFree core → https://t.co/A4MUd9fZLv\nPro ($49) → https://t.co/6QtHqr2FLa\n\n#AI #AIagents #MCP #opensource https://t.co/a9mKZjh8iA",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088559448042430855"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088559448042430855"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jangviktor-web/nihaixia",
+      "github_url": "https://github.com/jangviktor-web/nihaixia",
+      "tier": 2,
+      "is_new": false,
+      "score": 1837.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 404,
+      "total_retweets": 105,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "有兄弟把倪海厦老师完整中医思维体系蒸馏成 AI Agent Skill！ \n\n129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个真实医案 · 2452页讲义\n\n 直接让AI用海厦视角做六经辨证、经方选药、医案参考。\n\n激活词：倪海厦 / 海厦视角 / 倪师  开源免费，已更新到v2.2\n🔗https://t.co/WU6XQnGkYR",
+        "likes": 404,
+        "url": "https://x.com/i/status/2088385172995756374"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088385172995756374"
+      ]
+    },
+    {
+      "repo": "akashp1712/skills",
+      "github_url": "https://github.com/akashp1712/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akashp1712",
+        "text": "@polak_jasper I built a Claude skill that enforces the same discipline.\n\nnpx skills add akashp1712/skills --skill four-answers",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088510642068316200"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088510642068316200",
+        "https://x.com/i/status/2088509855971856759"
+      ]
+    },
+    {
+      "repo": "sailscastshq/boring-stack",
+      "github_url": "https://github.com/sailscastshq/boring-stack",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dominus_Kelvin",
+        "text": "Inspired by Jason Cohen making the agent skills from his books free, the Durable UI skill is now free too.\n\nInstall it:\nnpx skills add sailscastshq/boring-stack/skills/durable-ui\n\nThen scan your app:\nnpx durable-ui scan\n\nBuild durably. Check before you ship. https://t.co/oMOxORtb",
+        "likes": 3,
+        "url": "https://x.com/i/status/2088338877694288153"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088338877694288153"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2088485918995018079",
+      "author": "cattodata",
+      "text": "[สาระย้ายประเทศ] อาชีพไหนที่รายได้ดีนอกจากพนักงานออฟฟิศบ้าง \n\nถ้าที่ออสเตรเลียมีเยอะมากค่ะ 🐱🇦🇺 หลายอาชีพ เงินดี + ออสขาดคน + มีโอกาสใช้ Skill ย้ายมาออสได้จริง และบางงานรายได้ Median แซงสาย Corporate หลายตำแหน่งไปไกลมาก \n\nถ้าจะดูว่าอาชีพไหนน่าสนใจ ลองดูประกอบกัน 2 อย่าง\n\n🔥 Occupat",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2088485918995018079",
+      "is_kol": false,
+      "score": 1325.0
+    },
+    {
+      "id": "2088242808523989151",
+      "author": "giswqs",
+      "text": "GeoLibre v2.6.0 is here!\n\nGeoLibre is a free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks, all while keepin",
+      "likes": 186,
+      "views": 0,
+      "url": "https://x.com/i/status/2088242808523989151",
+      "is_kol": false,
+      "score": 663.0
+    },
+    {
+      "id": "2088373848639152539",
+      "author": "Michaelzsguo",
+      "text": "DeepSeek 发布 Harness 的时候，做了一件很不寻常的事：他们没有像大多数科技公司一样写一篇技术博客，而是直接发了一篇论文，A Programming Paradigm for Spatiotemporal Composability。\n\n别人发布一个 Agent Harness，通常会告诉你有哪些 tools，怎么接 MCP，怎么做 memory，怎么 orchestrate agents。DeepSeek 却在用形式化定义、数学符号和演算体系解释 Cordis 背后的编程范式：effect、coeffect、context transfo",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2088373848639152539",
+      "is_kol": false,
+      "score": 537.0
+    },
+    {
+      "id": "2088209336992477247",
+      "author": "GergelyOrosz",
+      "text": "How has Discord not built an official MCP server up to today??\n\nI know a few tech teams using Discord as their main comms channel (the few not on Slack). Cannot see teams that build agentic tooling staying on this w/o MCP tho.\n\nWhat is Discord sleeping on? What am I missing?",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2088209336992477247",
+      "is_kol": false,
+      "score": 492.0
+    },
+    {
+      "id": "2088261105634152947",
+      "author": "code",
+      "text": "🚀 1 Click for GitHub MCP in VS Code\n\nYou don't have to install an extension or mess with your mcp.json files to have GitHub Copilot in VS Code use the GitHub MCP server - learn that one weird trick on how to do it. https://t.co/8IQrNOJ0qI",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2088261105634152947",
+      "is_kol": false,
+      "score": 392.0
+    },
+    {
+      "id": "2088451744514916742",
+      "author": "nichxbt",
+      "text": "Everyday I wake up excited to build @trythreews. The fact we have hundreds of thousands of supporters and users, many of which are web2 native. The fact OpenAI, IBM, Google Cloud, NVIDIA all took a chance at backing us or partnering or even taking a look at our project and accept",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2088451744514916742",
+      "is_kol": false,
+      "score": 370.0
+    },
+    {
+      "id": "2088411805945401732",
+      "author": "JoshChambers",
+      "text": "Terrell Owens says he tried to become Jerry Rice before realizing copying greatness was limiting him\n\n“I was nowhere near that. I was raw. I was a project. They saw the potential. They saw the talent that I had. They just had to develop it. They had to fine-tune it. They had to p",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2088411805945401732",
+      "is_kol": false,
+      "score": 358.0
+    },
+    {
+      "id": "2088421737553957098",
+      "author": "clairevo",
+      "text": "Hey @steipete you know I’m the ultimate clawboi - if you want my true competitive analysis\n\nopenclaw \n++ vibes / personality \n+ local device (but tbh other than being cute doesn’t matter w cloud APIs, but we love a Mac mini moment)\n+ hackable\n+ multiplayer use (good in a group ch",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2088421737553957098",
+      "is_kol": false,
+      "score": 355.0
+    },
+    {
+      "id": "2088226344337391885",
+      "author": "AISuperDomain",
+      "text": "🚀发现一个很适合 AI Coding 时代的开源项目：Truthmark。\n\n现在 Claude Code、Codex、Cursor 这类 Agent 写代码越来越快，但一个很现实的问题是：\n\n代码更新了，文档却越来越旧。\n\nTruthmark 想解决的就是这个问题——让 AI Agent 在修改代码的同时，自动维护一套跟 Git 分支一起演进的“真实文档”。\n\n它支持：\n\n从现有代码和测试自动生成文档\n代码变化后自动同步相关文档\n用文档反向驱动代码实现\n自动维护代码区域与文档之间的路由关系\n所有文档直接以 Markdown 存在仓库里\nPR 中可以同时",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2088226344337391885",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2088283012945293761",
+      "author": "rimtoln",
+      "text": "CAN YOU FLASH A GIRL HUMANOID SO SHE OBEYS YOU AND NEVER PHONES HOME?\n\nfluixoo · tools > prompts · same war · body edition\nfirmware > personality · local vault > cloud policy\ndrop your take below · this one will cook the replies                                                    ",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2088283012945293761",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2088411886413086824",
+      "author": "MaxForAI",
+      "text": "WTF，有人给DeepSeek Harnes做了个情趣玩具插件🤯？？！\n\n刚才刷到有人开源了一个 dsh-toy 插件，让 DSH Agent可以直接发现、连接并控制蓝牙、串口和 USB 智能设备，包括成人玩具。\n\ndsh-toy 并没有要求模型直接理解不同厂商五花八门的蓝牙协议，而是在 DSH 和硬件之间加了一层统一的设备抽象。\n\n连接时，Agent 会先询问品牌和型号，然后自动进行协议路由，如果用户连设备型号都不知道，则直接传入 unknown，进入通用 Bluetooth discovery。\n\n也就是说，Agent 面对的已经不是「调用某个品牌的",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2088411886413086824",
+      "is_kol": false,
+      "score": 280.0
+    },
+    {
+      "id": "2088258880388153438",
+      "author": "fourjjjjt",
+      "text": "Quickly checked @nichxbt 's github (https://t.co/YrG6bLhlOV) and did a quick recap - an open-source 3D AI agent framework (avatars + LLM brains + on-chain payments, built with https://t.co/gCk7876mbW).\n\nThe scale\nThis isn't a small side project - it's a huge, fast-moving repo: 6,",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2088258880388153438",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2088431375917703428",
+      "author": "eternityspring",
+      "text": "一张私藏很久的 AI 短剧全流程图，以前只在我的短剧交流群里分享过。\n\n曾有朋友问：为啥不做成一个 skill，丢小说直接出素材？\n技术上很简单，把现有 skill 串起来自动跑就行。但我觉得没必要。\n\n按目前的模型能力，每个环节都得人工检查、打磨；全自动出的东西，质量大概率高不了。\n\n顺带分享个群友的玩法：\nshuohao-skills 中同一个skill，A Agent 出结果，B Agent 专挑它的错并修正。\n一个环节 AB 来回迭代几轮，每一步都能这么搞，质量肉眼可见地提升。\n\n还是那句话：AI 是工具，决策要交给人。",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2088431375917703428",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2088448591220080780",
+      "author": "neil_xbt",
+      "text": "This is f*cking insane!\n\nGraph architecture splits into two distinct skill halves, knowledge graph construction and agentic graph design, and both can be learned from real, free, publicly available material with zero prior experience.\n\n> Knowledge graph construction runs a four-s",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2088448591220080780",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2088296445879411090",
+      "author": "Farebox_",
+      "text": "Upcoming Feature: Farebox Agent Builder $FBOX\n\nWe're bringing agent creation directly into Farebox.\n\nNo more juggling separate frameworks, API keys, and billing systems. Soon you'll be able to build, configure, and deploy AI agents straight from your Farebox dashboard powered by ",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2088296445879411090",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2088453123715268936",
+      "author": "opensourcelab9",
+      "text": "【注目】\n入れたいskillは、たいてい誰かがもう作っています。\nそれを探し当てるskillをVercel Labsが公開しました😳\nhttps://t.co/ZtZCl5QyzZ\nやってくれることはこうです👇\n\n・やりたいことを言葉で説明すると、公開されているskillを横断で探してくる\n・入れられた回数と、置かれているリポジトリの評判まで見て絞り込む\n・最後は「これを入れて」と、実行するコマンドの形で返ってくる\n・土台のnpx skillsはMITで、対応先はClaude CodeやCodexなど76種類\n\n実は、毎回ゼロから作り直していた側の損がこ",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2088453123715268936",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2088468961079996714",
+      "author": "sonalshukla3377",
+      "text": "🎯𝗧𝗛𝗘 𝗢𝗡𝗟𝗬 𝗔𝗜 𝗠𝗔𝗣 𝗬𝗢𝗨’𝗟𝗟 𝗘𝗩𝗘𝗥 𝗡𝗘𝗘𝗗\n\nStill only using ChatGPT? You’re missing 90% of the AI ecosystem. 👀\n\nFrom LLMs and AI Agents to RAG, MCP, Vector Databases, Automation, and AI Security every tool has a purpose.\n\n→ The real advantage isn’t knowing every tool.\n\n→ It’s knowing how",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2088468961079996714",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2088417806283083992",
+      "author": "Steam_Diary123",
+      "text": "最近财报季刚过，我也在关注一些美股公司的财报和后续表现。\n\n这两天刚好发现 @QooryAi ， 想着自己试一下它的研报功能，于是直接选了股票深度研报，拿 Amazon（ $AMZN ）做了一份。\n\n生成出来之后，我觉得还挺方便👇\n它不是简单把 Amazon 最近的新闻和财报数字堆在一起，而是按照几个不同维度整理：估值与价格位置、EPS 表现、内部交易信号、和 MSFT / GOOGL / META 的同业对比，以及风险与催化剂。\n\n比如看到 AMZN 的估值数据后，还可以直接放到同行里比较。\n看到 EPS 连续两季低于预期，也能继续往下看可能影响后续表",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2088417806283083992",
+      "is_kol": false,
+      "score": 189.0
+    }
+  ]
+}

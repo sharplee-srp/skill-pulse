@@ -5902,5 +5902,49 @@
   "pepae/pq-threshold-knowledge-graph": {
     "first_seen": "2026-08-14",
     "tier": 3
+  },
+  "elder-plinius/cl4r1t4s": {
+    "first_seen": "2026-08-15",
+    "tier": 2
+  },
+  "laravel/mcp": {
+    "first_seen": "2026-08-15",
+    "tier": 2
+  },
+  "xintaofei/codeg": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "neardefi/agent-payments-skill": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "lumpcode/skills": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "langchain-ai/langchain-skills": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "zanwei/design-dna": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "hancengiz/tokenomics-coach-claude-code": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "kimyx0207/meta_kim": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "marketingskills/creative-multiverse": {
+    "first_seen": "2026-08-15",
+    "tier": 3
+  },
+  "slashman413/cowork": {
+    "first_seen": "2026-08-15",
+    "tier": 3
   }
 }
