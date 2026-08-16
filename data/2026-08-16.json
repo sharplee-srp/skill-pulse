@@ -1,0 +1,516 @@
+{
+  "date": "2026-08-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 10,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "cneuralnetwork/diagrams",
+      "github_url": "https://github.com/cneuralnetwork/diagrams",
+      "tier": 2,
+      "is_new": true,
+      "score": 599.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 153,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cneuralnetwork",
+        "text": "if you wanna make cool diagrams like this \nYou can use my skill which I use to make this \n\nnpx skills add cneuralnetwork/diagrams",
+        "likes": 153,
+        "url": "https://x.com/i/status/2088607353986019362"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088607353986019362"
+      ]
+    },
+    {
+      "repo": "leutenegger/book-to-skill",
+      "github_url": "https://github.com/leutenegger/book-to-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 307.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neil_xbt",
+        "text": "If you're using AI to study a technical book right now, you're probably burning money and getting worse answers for it!\n\n> Full-context dumping wastes tokens on pages you'll never ask about\n> Summarising loses the exact details you actually needed\n> Long books blow past context l",
+        "likes": 49,
+        "url": "https://x.com/i/status/2088841681214803985"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088841681214803985"
+      ]
+    },
+    {
+      "repo": "forward-future/loop-library",
+      "github_url": "https://github.com/forward-future/loop-library",
+      "tier": 3,
+      "is_new": true,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 36,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "github_url": "https://github.com/dmmulroy/anti-slop",
+      "tier": 3,
+      "is_new": true,
+      "score": 233.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ajanraj25",
+        "text": "@JLarky @dillon_mulroy npx skills add dmmulroy/anti-slop --skill install-anti-slop\n\nhttps://t.co/LoYrFP4dHk",
+        "likes": 6,
+        "url": "https://x.com/i/status/2088752193771864241"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088752193771864241",
+        "https://x.com/i/status/2088752083868475821"
+      ]
+    },
+    {
+      "repo": "zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+      "github_url": "https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+      "tier": 3,
+      "is_new": true,
+      "score": 213.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zjp1997720",
+        "text": "来了来了，《WorkBuddy Harness 技术拆解蓝皮书📘》正式发布，全文免费、开源，支持在线阅读和 PDF 下载。\n\n我越来越确定：想真正用好一个 Agent 产品，光会操作远远不够。你得知道一次请求是怎么把身份、记忆、插件和项目上下文拼在一起的。出了问题，才知道该去哪里找证据，也知道如何用的更好\n\n所以这本书沿着「UI 行为 → 本地文件 → 发给模型的请求」一路往下拆：系统提示词、三层记忆、身份系统、专家、插件、Skill、Connector、SubAgent、会话证据和安全边界。\n\n如果你也遇到过「改了配置为什么不生效」「WorkBuddy",
+        "likes": 21,
+        "url": "https://x.com/i/status/2088874494370721942"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088874494370721942"
+      ]
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "github_url": "https://github.com/greensock/gsap-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 156.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hitu_monke",
+        "text": "If you use Claude Code, Cursor, or Windsurf to build frontend animations, you know the frustration. Models constantly hallucinate GSAP syntax, forget lifecycle cleanups, and output broken layout shifts.\n\nGreenSock just solved this by releasing gsap-skills, an official open-source",
+        "likes": 17,
+        "url": "https://x.com/i/status/2088628371672412244"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088628371672412244"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/makerskills",
+      "github_url": "https://github.com/coreyhaines31/makerskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "https://t.co/8vSTo7MxXJ\n\n$ npx skills add coreyhaines31/makerskills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088633591077232666"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088633591077232666"
+      ]
+    },
+    {
+      "repo": "aidevgtm/gtm-cofounder",
+      "github_url": "https://github.com/aidevgtm/gtm-cofounder",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thegtmcofounder",
+        "text": "skills pay the bills (not really) \n\n1.5K total installs in 2 weeks\n\n'npx skills add aidevgtm/gtm-cofounder'\n\nlet's go! https://t.co/sgJaQoPOHy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088608645437178068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088608645437178068"
+      ]
+    },
+    {
+      "repo": "sipamungkas/skills",
+      "github_url": "https://github.com/sipamungkas/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rgl_pamungkas",
+        "text": "Other people may prefer a different folder structure, and that's totally fine. But for me, this is the most practical and well-organized structure I've found so far.  Add it with \"npx skills add sipamungkas/skills\"  #Skills #AISkills #ReactNativeExpo #ReactNativeExpoSkills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088588729804091779"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088588729804091779"
+      ]
+    },
+    {
+      "repo": "unboundcompute/security-agent-skills",
+      "github_url": "https://github.com/unboundcompute/security-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "riyandhiman14",
+        "text": "MIT licensed. Install as a Claude Code plugin or read the SKILL.md files with any agent.\n\nhttps://t.co/9d9NZZh6MX",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088922328860352751"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088922328860352751"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 36,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 36,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "neardefi/agent-payments-skill",
+      "github_url": "https://github.com/neardefi/agent-payments-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "proximityfi",
+        "text": "The skill is designed to work across Claude Code, OpenClaw, and most agent frameworks, with support for multiple agent wallet setups.\n\nSkill available at:\n\nhttps://t.co/nillf9cRty",
+        "likes": 5,
+        "url": "https://x.com/i/status/2088317685566472329"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088431113077469366",
+        "https://x.com/i/status/2088317685566472329"
+      ]
+    },
+    {
+      "repo": "akashp1712/skills",
+      "github_url": "https://github.com/akashp1712/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akashp1712",
+        "text": "@polak_jasper I built a Claude skill that enforces the same discipline.\n\nnpx skills add akashp1712/skills --skill four-answers",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088510642068316200"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088510642068316200",
+        "https://x.com/i/status/2088509855971856759"
+      ]
+    },
+    {
+      "repo": "kimyx0207/meta_kim",
+      "github_url": "https://github.com/kimyx0207/meta_kim",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KimYx0207",
+        "text": "Meta_Kim 3.0 正式发布 🚀\n\n这次不是简单加功能，而是重做了 AI 编码协作的治理底座：\n\n✅ 先明确目标，再开始执行\n✅ 自动匹配合适的 Agent、Skill 和工具\n✅ 任务拆分、依赖判断与并行调度\n✅ 区分“说完成了”和“证据证明完成了”\n✅ 支持继续、等待、停止、升级处理\n✅ 统一 Claude Code、Codex、Cursor、OpenClaw\n✅ 安装更新更安全，不覆盖用户自己的配置\n✅ 每次执行都能审查、验证，并沉淀可复用经验\n\n一句话：让 AI 编码从“模型自己发挥”，变成一套可执行、可审查、可验证、可持续进化的协作系统。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2088322489202151918"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088322489202151918"
+      ]
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "github_url": "https://github.com/bradautomates/claude-video",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flowoodzx",
+        "text": "별 1.5만 개짜리 클로드 코드 스킬 하나가 눈에 띄었다. claude-video, /watch 명령 하나로 유튜브든 로컬 영상이든 프레임 단위로 뜯어보고 자막까지 붙여서 클로드한테 넘겨준다고 했다.\n\n설치는 한 줄이다.\nnpx skills add bradautomates/claude-video -g\n\n바로 깔고 영상 하나 던져봤다.\n\n프레임 추출 모드 세 개(efficient/balanced/token-burner)가 전부 그 자리에서 죽는다. 에러: Unrecognized option 'vsy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2088614056177619081"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088614056177619081"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2088882316424962120",
+      "author": "IOHK_Charles",
+      "text": "I'm creating a new skill that can be used with most LLMs to strip out the Anthropic watermark. I call it Anthropies (Anthropic Herpies).  I've also included a legal argument about how watermarks and the co-authored by Claude can cause issues down the road https://t.co/6eNx4br1BZ",
+      "likes": 409,
+      "views": 0,
+      "url": "https://x.com/i/status/2088882316424962120",
+      "is_kol": false,
+      "score": 1472.0
+    },
+    {
+      "id": "2088828170946666872",
+      "author": "GithubProjects",
+      "text": "Ponytail is an AI agent skill that cuts code by up to 94% by making agents think like a lazy senior dev.",
+      "likes": 335,
+      "views": 0,
+      "url": "https://x.com/i/status/2088828170946666872",
+      "is_kol": false,
+      "score": 1065.0
+    },
+    {
+      "id": "2088837685964075352",
+      "author": "AYi_AInotes",
+      "text": "你永远可以相信@deepseek_ai 开源的诚意！！！\nDeepSeek 竟然把自己内部工程团队吃饭的家伙直接开源了🤯。。\n\n就算DeepSeek API价格涨价12倍，\n我依然觉得叫一声梁圣他值得！\n\nDeepSeek Harness发布的仓库里，把自己内部工程团队怎么干活的11个真实工程级 Skill，也全部拿出来了，   是他们自己每天在用的Code Review标准、质量门禁、PR验收流程，damn！！！\n\n你可以拿来塞进Agent直接跑：\n等于让你的Agent按DeepSeek内部的工程标准干活，像资深工程师一样工作——知道什么优先、什么该拦",
+      "likes": 183,
+      "views": 0,
+      "url": "https://x.com/i/status/2088837685964075352",
+      "is_kol": false,
+      "score": 684.0
+    },
+    {
+      "id": "2088626767669981398",
+      "author": "Voxyz_ai",
+      "text": "Yesterday, I moved part of my Hermes setup into 𝗚𝗿𝗼𝗸 𝗕𝗼𝘁 and started treating it as a work environment.\n\nI used 𝗖𝗼𝗱𝗲𝘅 to package the profile and related directories I wanted to move into a zip, then added an import prompt. Grok Bot unpacked the zip and read all of it. Most of the",
+      "likes": 195,
+      "views": 0,
+      "url": "https://x.com/i/status/2088626767669981398",
+      "is_kol": false,
+      "score": 660.0
+    },
+    {
+      "id": "2088838461511839844",
+      "author": "dotey",
+      "text": "我最近就发现，即使聪明如 Fable 5，如果你只是给它一个目标让它优化，它可能也就是在既定的框架下想办法帮你优化到极致，但是它很难跳出既定框架，发现一条完全不同的路线。\n\n比如说最近有用户反映使用 BaoCut 转录速度慢，我就反复的用 Codex 去转录视频，然后让 Codex 或者 Fable 去分析瓶颈在哪里，该怎么优化，然后每次它们都能给我一堆理由和看起来靠谱的优化方案。\n\n比如它会建议多开启 workers（subagent），对 workers 预热之类。让它按照方案优化后，似乎有效果但是又不明显。\n\n最后还是自己去分析数据包，发现耗时长还",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2088838461511839844",
+      "is_kol": false,
+      "score": 605.0
+    },
+    {
+      "id": "2088638226177380592",
+      "author": "Sumanth_077",
+      "text": "Graph-native infrastructure for AI agents!\n\nSemantica is an open-source infrastructure layer for building context-aware and accountable AI systems. It sits underneath your existing LLM, vector store, and agent framework as a deterministic layer - no LLM required for graph constru",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2088638226177380592",
+      "is_kol": false,
+      "score": 560.0
+    },
+    {
+      "id": "2088865837671420256",
+      "author": "XFreeze",
+      "text": "Grok Build just got a new update with smarter configuration control, automatic worktree cleanup, better session continuity, improved multilingual support, and safer limits for image and video generation\n\nRelease Notes: v1.0.5\n\nFeatures:\n• GROK_CONFIG and GROK_CONFIG_PATH now let ",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2088865837671420256",
+      "is_kol": false,
+      "score": 425.0
+    },
+    {
+      "id": "2088627872747401673",
+      "author": "r1VeN2k",
+      "text": "he asked claude to make a youtube shorts video that resembles nunu tv, maybe with a bear instead, that’s the entire creative brief, typed out in the prompt, on camera\nthe setup is openart’s mcp server added to claude as a custom connector, takes about a minute, and it works, the ",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2088627872747401673",
+      "is_kol": false,
+      "score": 342.0
+    },
+    {
+      "id": "2088648942846099586",
+      "author": "starmexxx",
+      "text": "anthropic will sell you opus 5 at $200 a month. openai will sell you gpt-5.6 at $200 a month. neither will tell you one setting stops your agent from touching what it shouldn't and drops the bill to $10\n\ni typed \"tidy up the repo\" into opus 5 with 41 mcp tools and no sandbox. nin",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2088648942846099586",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2088617432986603527",
+      "author": "RishiUvaach",
+      "text": "𝗠𝗼𝘀𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝘁𝗵𝗶𝗻𝗸 𝗔𝗜 = 𝗖𝗵𝗮𝘁𝗚𝗣𝗧.\n\nNot even close.\n\nChatGPT is what you see.\n\nThe real AI revolution is the massive ecosystem being built underneath it.\n\nThis AI Stack Map captures 100+ tools powering modern AI applications.\n\n𝗧𝗵𝗲 𝗺𝗼𝗱𝗲𝗿𝗻 𝗔𝗜 𝘀𝘁𝗮𝗰𝗸 𝗹𝗼𝗼𝗸𝘀 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗹𝗶𝗸𝗲 𝘁𝗵𝗶𝘀:\n\nLLMs → O",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2088617432986603527",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2088846265249677654",
+      "author": "genkAIjokyo",
+      "text": "科研費申請も大詰めのところ申し訳ないのですがClaude Fableを最初のアイディア壁打ちと最後の日本語清書に組み込むskillを追加しました　　\n\nもしよろしければお使いください\nhttps://t.co/wZ8zUkRNG4",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2088846265249677654",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2088873308972532183",
+      "author": "aacle_",
+      "text": "A lot of people asked how to connect Burp Suite MCP with OpenCode after my burpsuite mcp with Claude Code guide.\n\nSo here you go 👇\n\n1. Fire up Burp\n→ Install the MCP extension\n→ Run the required BMCP setup checks\n\n2. Follow the setup guide\n→ BMCP + Claude Code guide\n\n3. Connect i",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2088873308972532183",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2088619285253955590",
+      "author": "elune0x",
+      "text": "your agent has thirty tools\n\nit calls two\n\nthe other twenty eight are not idle\n\nthey are inside every request charging rent and competing for the next action\n\ntool schemas are not labels\n\nthey are descriptions params types required fields and examples\n\nload the whole registry and",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2088619285253955590",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2088861561209212946",
+      "author": "teortaxesTex",
+      "text": "> Haskeller\nunderstandable.\nBy the way. time for my statement on DSH. Consider it a non-technical view from 100K feet; I am a bit high.  \nI wouldn't overindex on \"TypeScript\". It's transient, just like V4's specific clunky design choices (hash router, softplus gating…); it's half",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2088861561209212946",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2088820756100841934",
+      "author": "shjfkd",
+      "text": "「解像度を上げる」は一度で資産化できる — 思考プロセスをSkillとContextに分離する",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2088820756100841934",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2088793614763880855",
+      "author": "neil_xbt",
+      "text": "Software is being rebuilt in real time, and most developers are optimizing for the wrong skill entirely!\n\nThis map, built from 10,000+ job postings, dozens of expert interviews, and survey data, names the four that actually matter.\n\n> Building and deploying AI applications — mast",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2088793614763880855",
+      "is_kol": false,
+      "score": 190.0
+    }
+  ]
+}

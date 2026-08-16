@@ -5946,5 +5946,45 @@
   "slashman413/cowork": {
     "first_seen": "2026-08-15",
     "tier": 3
+  },
+  "cneuralnetwork/diagrams": {
+    "first_seen": "2026-08-16",
+    "tier": 2
+  },
+  "leutenegger/book-to-skill": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "forward-future/loop-library": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "dmmulroy/anti-slop": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "zjp1997720/zhijian-ai-bluebook-workbuddy-harness": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "greensock/gsap-skills": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "coreyhaines31/makerskills": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "aidevgtm/gtm-cofounder": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "sipamungkas/skills": {
+    "first_seen": "2026-08-16",
+    "tier": 3
+  },
+  "unboundcompute/security-agent-skills": {
+    "first_seen": "2026-08-16",
+    "tier": 3
   }
 }
