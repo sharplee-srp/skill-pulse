@@ -5986,5 +5986,53 @@
   "unboundcompute/security-agent-skills": {
     "first_seen": "2026-08-16",
     "tier": 3
+  },
+  "hanliang97/matrixmedia": {
+    "first_seen": "2026-08-17",
+    "tier": 2
+  },
+  "danielealbano/android-remote-control-mcp": {
+    "first_seen": "2026-08-17",
+    "tier": 2
+  },
+  "coji/natural-japanese": {
+    "first_seen": "2026-08-17",
+    "tier": 2
+  },
+  "langchain-ai/open-swe": {
+    "first_seen": "2026-08-17",
+    "tier": 2
+  },
+  "azukiazusa1/skills": {
+    "first_seen": "2026-08-17",
+    "tier": 2
+  },
+  "deepseek-ai/deepseek-harness": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "welttowelt/strk20-skills": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "semantica-agi/semantica": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "cordiverse/cordis": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "tmchow/illo-skill": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "yunyoujun/ak-ui": {
+    "first_seen": "2026-08-17",
+    "tier": 3
+  },
+  "gamers-lab/design-to-unity": {
+    "first_seen": "2026-08-17",
+    "tier": 3
   }
 }

@@ -1,0 +1,621 @@
+{
+  "date": "2026-08-17",
+  "stats": {
+    "total_fetched": 353,
+    "unique_tweets": 170,
+    "tweets_with_repos": 21,
+    "unique_repos": 21,
+    "new_repos": 12,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "hanliang97/matrixmedia",
+      "github_url": "https://github.com/hanliang97/matrixmedia",
+      "tier": 2,
+      "is_new": true,
+      "score": 2740.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 595,
+      "total_retweets": 171,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yiyirats",
+        "text": "做自媒体最累的，不是剪视频。\n\n而是同一个视频，要在七八个平台重复发七八遍。\n\nGitHub这个开源项目MatrixMedia，把这些重复操作全部自动化了。\n\n它把多个自媒体平台的网页发布流程封装成统一接口，目前支持抖音、快手、B站、视频号、小红书、头条、百家号、番茄视频等平台，同时提供GUI、CLI、HTTP API和MCP Server四种使用方式。\n\n不管是手动发布、脚本调用，还是让AI Agent自动执行，都可以接入同一套工作流。\n\n🔗 https://t.co/UBmjTCu1g0",
+        "likes": 595,
+        "url": "https://x.com/i/status/2088923721717489717"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088923721717489717"
+      ]
+    },
+    {
+      "repo": "danielealbano/android-remote-control-mcp",
+      "github_url": "https://github.com/danielealbano/android-remote-control-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 2021.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 477,
+      "total_retweets": 98,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LawrenceW_Zen",
+        "text": "卧槽，Agent 可以直接操作你的安卓手机！📱\n\n介绍一下：android-remote-control-mcp\n\n像人一样操作任何安卓 App手机自己跑 MCP server → 不用 root，不用数据线，不用电脑跑 ADB 中转装一次，人在外面也能遥控家里那台手机读屏、点按钮、划屏幕、打字、开 App、拍照、读通知，57 个工具全给你。\n\n立即开搞👇\nhttps://t.co/sAtV91ZmQW\n\n我在模拟器上从零跑了一遍，读一整屏的 UI 树只有 4000 字符出头，一千个 token 左右，比那些 dump XML 的方案省太多。\n\n下面是完",
+        "likes": 477,
+        "url": "https://x.com/i/status/2088861693292249570"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088861693292249570"
+      ]
+    },
+    {
+      "repo": "coji/natural-japanese",
+      "github_url": "https://github.com/coji/natural-japanese",
+      "tier": 2,
+      "is_new": true,
+      "score": 825.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 180,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "connect24h",
+        "text": "これは文章レビューの筋がいい。154ブクマ、BM力94の「natural-japanese」は、仕事の日本語を直す指示を再利用可能なAgent Skillにした。\n\n議事録、調査レポート、社内ガイド、スライド構成まで扱い、結論の置き方や論旨だけでなく、AI臭さも工程として削る。しかもSudachiPyの形態素解析で、感覚頼みだった違和感を機械検出する。強い。\n\n自分はすでに似たよな機能を全部実装しているけど、まだな人は試してみては？ワンセットで入るので試すにはよいかと。#AI駆動開発\nソース: https://t.co/tWKOgHRoi3",
+        "likes": 180,
+        "url": "https://x.com/i/status/2089207701339603054"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089230069139177927",
+        "https://x.com/i/status/2089207701339603054"
+      ]
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "github_url": "https://github.com/langchain-ai/open-swe",
+      "tier": 2,
+      "is_new": true,
+      "score": 711.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 187,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hwchase17",
+        "text": "totally agree! here's how we architected deepagents to enable this\n\ndeepagents runs connected to a \"backend\". this backend needs to expose filesystem like operations, but it does not have to be a filesystem. it could be a database, object storage, or a real filesystem - it just h",
+        "likes": 187,
+        "url": "https://x.com/i/status/2089029054611837324"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089029054611837324"
+      ]
+    },
+    {
+      "repo": "azukiazusa1/skills",
+      "github_url": "https://github.com/azukiazusa1/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 675.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 175,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "azukiazusa9",
+        "text": "もう https://t.co/aUH1lOHzDZ の更新を待つ必要はありません。\n\n/write-blog-article スキルで azukiazusa の記事構成・文体を再現しながら、気になるトピックについて技術記事を書いて学習できます。\n\nnpx skills add azukiazusa1/skills \\\n  --skill write-blog-article \\\n  --skill article-review \\\n  --skill tech-review\n\nhttps://t.co/veXsuGjenO",
+        "likes": 175,
+        "url": "https://x.com/i/status/2088981496623444312"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088981496623444312"
+      ]
+    },
+    {
+      "repo": "deepseek-ai/deepseek-harness",
+      "github_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "tier": 3,
+      "is_new": true,
+      "score": 327.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realchendahuang",
+        "text": "最近研究 DeepSeek Harness。有一个叫做Preset的概念值得关注。\n\nPreset可以理解为Agent 的分发单位。同一个模型加载不同的 Preset，最后可以变成完全不同的 Agent。\n\nPreset 和 Skill 最大的区别是什么？\n\n一个财报分析 Skill，教 Agent 怎么分析财报。\n\n一个财报分析Preset，可以直接把财报分析 Skill、网页搜索、Browser、PDF、Python、Subagents、研究 Prompt 和上下文策略全部组合好，直接给你一个开箱可用的Agent。\n\n未来很可能会同时出现两层市场。\n",
+        "likes": 28,
+        "url": "https://x.com/i/status/2089206966015176725"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089206966015176725",
+        "https://x.com/i/status/2089268107269529657"
+      ]
+    },
+    {
+      "repo": "welttowelt/strk20-skills",
+      "github_url": "https://github.com/welttowelt/strk20-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 293.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "odin_free",
+        "text": "building with STRK20 takes too much doc archaeology.\n\ni packaged four community agent skills for the pool, Wallet API, Cairo anonymizers and Privacy SDK. i checked each one against the current source pages.\n\nnpx skills add welttowelt/strk20-skills\nhttps://t.co/WlZ5hVAyg1",
+        "likes": 51,
+        "url": "https://x.com/i/status/2088947547624587713"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088947547624587713"
+      ]
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "github_url": "https://github.com/semantica-agi/semantica",
+      "tier": 3,
+      "is_new": true,
+      "score": 270.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "N01ennn",
+        "text": "THIS IS F*CKING INSANE.\n\npicture asking your AI agent why it made a call six months ago, and actually getting the full answer: the data it pulled, the policies that applied, and the exact chain of reasoning that led there. that is Semantica, an open source Palantir for AI agents.",
+        "likes": 50,
+        "url": "https://x.com/i/status/2089096520679448927"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089096520679448927"
+      ]
+    },
+    {
+      "repo": "cordiverse/cordis",
+      "github_url": "https://github.com/cordiverse/cordis",
+      "tier": 3,
+      "is_new": true,
+      "score": 217.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "现在给 AI Agent 加能力已经很容易了。Tool、Skill、MCP、Plugin，接一个就多一个能力。\n\n但一个更麻烦的问题开始出现：加进去的东西，怎么干净地拿掉？\n\n刚看到一个 4.7K ⭐️ 的项目 Cordis。它在做一个挺底层的东西：插件加载时产生的事件、服务、监听器、副作用，都跟着生命周期走。\n\nPlugin 加载\n\n→ 注册能力\n→ 依赖自动就绪\n→ 运行\n→ Reload / Remove\n→ 副作用一起撤销\n\n甚至支持 Hot Module Replacement。我觉得这个方向很有意思。\n\n未来 Agent 如果真的长期运行、不",
+        "likes": 39,
+        "url": "https://x.com/i/status/2089173073811657018"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089173073811657018"
+      ]
+    },
+    {
+      "repo": "tmchow/illo-skill",
+      "github_url": "https://github.com/tmchow/illo-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 182.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trevin",
+        "text": "Got @illo_skill working well with @bot! \n\nStep 1: create a bot called “illo”\n\nStep 2:  install illo with:\n\n“Install the illo skill and all community characters.\n\nnpx skills add tmchow/illo-skill --skill illo -g -y”\n\nStep 3: read more on https://t.co/3jDD0Dcf2v on how to use it",
+        "likes": 24,
+        "url": "https://x.com/i/status/2089047145643118643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089047145643118643"
+      ]
+    },
+    {
+      "repo": "yunyoujun/ak-ui",
+      "github_url": "https://github.com/yunyoujun/ak-ui",
+      "tier": 3,
+      "is_new": true,
+      "score": 150.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "YunYouJun",
+        "text": "七年前咕掉的 ak-ui，被我用 AI 重新启动了。\n\n它是开源、非官方的《明日方舟》风格 UI 设计参考，提供 Token 与零运行时 CSS，可按需接入。\n\n装成 Agent Skill，AI 能理解设计语言，基于 Token 自由衍生组件样式。\n\nnpx skills add YunYouJun/ak-ui --skill ak-ui\nhttps://t.co/EiqlWj9oFk https://t.co/Kmo3ITidqQ",
+        "likes": 15,
+        "url": "https://x.com/i/status/2088996001109696861"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088996001109696861"
+      ]
+    },
+    {
+      "repo": "gamers-lab/design-to-unity",
+      "github_url": "https://github.com/gamers-lab/design-to-unity",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GamersLabRise",
+        "text": "@adalagent @skills Already https://t.co/XlGAztnpK0 ready \"npx skills add Gamers-Lab/design-to-unity --skill design-to-unity -g -a claude-code\"",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089243962863423699"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089243962863423699"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 418.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 86,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "forward-future/loop-library",
+      "github_url": "https://github.com/forward-future/loop-library",
+      "tier": 3,
+      "is_new": false,
+      "score": 418.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 86,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 418.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiedge_",
+        "text": "10 AI skills you NEED to install now:\n\n#10 /loopy: turns any one-shot prompt into a repeatable, self-improving loop. Comes with a public library of ready-made agent loops.\n\nnpx skills add Forward-Future/loop-library --skill loopy --agent claude-code -g -y\n\n#9 Claude-Video: gives ",
+        "likes": 86,
+        "url": "https://x.com/i/status/2088807971975516270"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088807971975516270"
+      ]
+    },
+    {
+      "repo": "opencut-app/opencut",
+      "github_url": "https://github.com/opencut-app/opencut",
+      "tier": 3,
+      "is_new": false,
+      "score": 362.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "OpenCut is being rebuilt from scratch - Rust core, one codebase for desktop, mobile, and browser, and an MCP server so AI agents can edit video directly.\n\nFree, open source, and coming for Premiere.\n\nGithub: https://t.co/OE74gMoIg4 https://t.co/DIhKHlk7ib",
+        "likes": 69,
+        "url": "https://x.com/i/status/2089053325602021645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089053325602021645"
+      ]
+    },
+    {
+      "repo": "dmmulroy/anti-slop",
+      "github_url": "https://github.com/dmmulroy/anti-slop",
+      "tier": 3,
+      "is_new": false,
+      "score": 233.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ajanraj25",
+        "text": "@JLarky @dillon_mulroy npx skills add dmmulroy/anti-slop --skill install-anti-slop\n\nhttps://t.co/LoYrFP4dHk",
+        "likes": 6,
+        "url": "https://x.com/i/status/2088752193771864241"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088752193771864241",
+        "https://x.com/i/status/2088752083868475821"
+      ]
+    },
+    {
+      "repo": "transcendr/slopware-skills",
+      "github_url": "https://github.com/transcendr/slopware-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aienginerd",
+        "text": "Model output without MSL 😵‍💫 (image 1) vs with MSL 😎 (images 2/3)\n\nGive it a go:\n\nnpx skills add transcendr/slopware-skills --skill msl -g\n\nOptional AGENTS.md (hit or miss, as always)\n\"All final output, summaries, bug/issue or fix descriptions, or any other crucial information de",
+        "likes": 2,
+        "url": "https://x.com/i/status/2088937784778039734"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2088937784778039734"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EddyLeBough",
+        "text": "Pour les gens qui font du vibe coding j’ai fait une petite sélection pour vous et faites pas l’erreur d’ajouter toujours plus de skills ca ne rend pas forcément meilleurs.\n\nA chaque semaine son nouveau repo, son nouveau skill “indispensable”, son nouveau truc à installer.\n\nj’ai a",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089011599877059011"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089011599877059011"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EddyLeBough",
+        "text": "Pour les gens qui font du vibe coding j’ai fait une petite sélection pour vous et faites pas l’erreur d’ajouter toujours plus de skills ca ne rend pas forcément meilleurs.\n\nA chaque semaine son nouveau repo, son nouveau skill “indispensable”, son nouveau truc à installer.\n\nj’ai a",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089011599877059011"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089011599877059011"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiyuange",
+        "text": "🔥 【让 AI 帮你拍电影级产品视频，接单效率翻 10 倍】\n\n📌 项目定位：\nvideo-shotcraft 是一个装进 Claude Code / Codex 的 AI 视频技能包。你把产品链接或截图丢给它，它就能自动分镜、生成动画、配乐配音，直接输出一条电影感的宣传片。底层用的是 Remotion（代码生成视频），对小白很友好——不用学剪辑，只要会跟 AI 说话就能干活。\n\n⚡️ 核心优势：\n▫️ 自带 152 张分镜卡片 + 209 种动效预览，AI 直接照着拍，不用你操心创意\n▫️ 内置完整宣传片模板 Ink Press：36.2 秒、1080",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089263394084016378"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089263394084016378"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2089067810131788149",
+      "author": "cb_doge",
+      "text": "🚨 NEW GROK BUILD UPDATE 🚨\n\nGrok Build v1.0.5\n\nFeatures:\n• GROK_CONFIG and GROK_CONFIG_PATH environment variables now let launchers override selected config settings without editing config.toml.\n• Worktrees under ~/.grok/worktrees are now automatically reclaimed when safe, with st",
+      "likes": 553,
+      "views": 0,
+      "url": "https://x.com/i/status/2089067810131788149",
+      "is_kol": false,
+      "score": 2044.0
+    },
+    {
+      "id": "2089148453280702521",
+      "author": "nayakayp",
+      "text": "Gw pengen share gimana cara pakai Claude Code sehari-hari.\n\nSemoga berguna buat yg pertama kali mau pakai dan bikin sesuatu utk vibe code produk digitalnya nanti:\n\n1. Kerja di directory project supaya mudah manage session dan gak tercampur dg project lain.\n2. Selalu pakai Git dan",
+      "likes": 315,
+      "views": 0,
+      "url": "https://x.com/i/status/2089148453280702521",
+      "is_kol": false,
+      "score": 1155.0
+    },
+    {
+      "id": "2089016225183527369",
+      "author": "Nova0xz",
+      "text": "🚨 THIS IS INSANE\n\nA developer has released a free AI voice studio capable of cloning almost any voice in just a few seconds.\n\nIt's called Voicebox.\n\nAnd it has already surpassed 50,500 stars on GitHub.\n\nHere's how it works:\n\n1.- Upload a short audio sample and clone a voice in se",
+      "likes": 314,
+      "views": 0,
+      "url": "https://x.com/i/status/2089016225183527369",
+      "is_kol": false,
+      "score": 1142.0
+    },
+    {
+      "id": "2089100611371545023",
+      "author": "HermesWatcher",
+      "text": "Hermes just had one of its biggest weeks yet.\n\nNot because of one release.\n\nBecause in the span of a few days, Hermes added new ways for agents to run continuously, work together, manage other agents, operate across machines, use tools, and now even organize themselves into actua",
+      "likes": 278,
+      "views": 0,
+      "url": "https://x.com/i/status/2089100611371545023",
+      "is_kol": false,
+      "score": 969.0
+    },
+    {
+      "id": "2089147698796777722",
+      "author": "mikefutia",
+      "text": "Cancel your influencer marketing platform 🤯\n\nClaude Code can now scrape Instagram & TikTok for you \n\nGive it a niche and it goes out, finds the creators, pulls their real engagement metrics, digs up their contact info, and hands you back a live dashboard.\n\nAll inside Claude Code.",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2089147698796777722",
+      "is_kol": false,
+      "score": 595.0
+    },
+    {
+      "id": "2089227731305464150",
+      "author": "poteto",
+      "text": "Much love to the Solid team and congrats on launching Solid 2!\n\nCursor has largely completed this migration from Solid to React. We also have since converted all our scss and Tailwind to @stylexjs, in both Cursor and in @bot. The new agents window is 99% React, with a few straggl",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2089227731305464150",
+      "is_kol": false,
+      "score": 594.0
+    },
+    {
+      "id": "2089202740429783102",
+      "author": "Veeekthorr",
+      "text": "LP management is one of those things where having more context can make a big difference.\n\nBefore adding liquidity, you want to know what you already hold, how those positions are performing, and whether the new position puts too much of your portfolio into the same assets.\n\nWith",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2089202740429783102",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2089254617528049898",
+      "author": "sibyl_labs_",
+      "text": "We are happy to announce the Sibyl Memory Hackathon\n\nBuild an agent or tool that utilizes Sibyl Memory across sessions or as a data layer.\n\nBuilders will compete in a single, high stakes track, earning multipliers for incorporating partner tools like the @base MCP or @Virtuals_io",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2089254617528049898",
+      "is_kol": false,
+      "score": 418.0
+    },
+    {
+      "id": "2089197867135295893",
+      "author": "sakhil_ai",
+      "text": "🎯𝗧𝗛𝗘 𝗢𝗡𝗟𝗬 𝗔𝗜 𝗠𝗔𝗣 𝗬𝗢𝗨’𝗟𝗟 𝗘𝗩𝗘𝗥 𝗡𝗘𝗘𝗗\n\nStill only using ChatGPT? You’re missing 90% of the AI ecosystem. 👀\n\nFrom LLMs and AI Agents to RAG, MCP, Vector Databases, Automation, and AI Security every tool has a purpose.\n\n→ The real advantage isn’t knowing every tool.\n\n→ It’s knowing how",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2089197867135295893",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2089188971720896902",
+      "author": "Ryrenz",
+      "text": "很多程序员和计算机系的学生嘴上天天说学 AI 学 Agent，实际上只是天天玩 Codex，ClaudeCode 做点没人用的软件。\n\n要么就是去拿 AI 写文章，生图 ，做视频，写各种 Skill。\n\n其实这只是在玩儿 AI，没有门槛，没有积累，获得的经验几个月后就随着工具和模型的迭代过时。\n\n更好一点的，在新概念出来的时候，钻研一下 harness engineering，loop engineering，graph engineering，也就到头了，任何一个非计算机专业的门外汉都可以在几周内掌握个七七八八。\n\n真正想搞懂 Agent，必须要懂得 ",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2089188971720896902",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2089184371886690760",
+      "author": "MaxForAI",
+      "text": "如果你身边的人，到现在还没有在讨论：\n\nCodex、Claude Code、WorkBuddy、Cursor、Vibe Coding、Skills、MCP、智能体 Agent、子智能体Subagents、Token、OpenAl、Anthropic、提示词Prompt、Opus、Fable5、黄果短剧、Kimi、sol、JMR、91视频、上下文窗口、Tool Caling 工具调用、Computer Use、Browser Use、RAG、牛来、Memory、API、Al工作流 Workflow、自动化 Automation、本地部署、开源模型、多模态、",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2089184371886690760",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2089239464237515061",
+      "author": "Rizvi_On_X",
+      "text": "GM garc☀️\n\nMost AI agents lock you into their own toolset.\n\nANIMA takes a different approach. Any MCP server can become a tool it calls while your credentials stay encrypted on your side.\n\nYou bring the infrastructure you already trust instead of renting someone else’s stack.\n\nHo",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2089239464237515061",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2089177898695684108",
+      "author": "AiswaryaVenkit1",
+      "text": "The right YouTube channels can become your AI engineering curriculum.\n\nBut the order matters.\n\nStart with the foundations, then move toward models, retrieval, agents, and production workflows.\n\nHere is a practical learning path:\n\n→ Python\n\nLearn from Corey Schafer and ArjanCodes.",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2089177898695684108",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2089196267930800136",
+      "author": "rohanpaul_ai",
+      "text": "Very timely paper. An agent skill can be completely relevant to the task and still make the agent worse.\n\nThis study compares the same tasks under different skill setups while keeping the model, agent framework, repository, and verifier fixed.\n\nAcross 307 confirmed skill-induced ",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2089196267930800136",
+      "is_kol": true,
+      "score": 187.0
+    },
+    {
+      "id": "2089241960036868490",
+      "author": "alver1301",
+      "text": "Your agent closes 63 deals while you sleep.\n\nAt 3:17 a.m., deal 64 stops. The provider marks the job complete. The buyer rejects it. Both have evidence. Then the workflow asks you to make the final decision.\n\nSo who was running the business overnight?\n\nIf every disputed delivery ",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2089241960036868490",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2088921925321904316",
+      "author": "ErenAILab",
+      "text": "Böyle bir video ortalıkta geziyor. Kimi K3 ile 190 odalı, 31 milyon dolarlik bir otelin tüm projesi yapılmış diye.\n\nBen elektrik elektronik mühendisliği öğrencisiyim. AutoCAD, KiCad, Proteus, MATLAB ve Blender’i kullandım ve kullanmaya devam ediyorum.\n\nŞu ana kadar hiçbirinde AI ",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2088921925321904316",
+      "is_kol": false,
+      "score": 177.0
+    }
+  ]
+}
