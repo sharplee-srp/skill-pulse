@@ -1,0 +1,410 @@
+{
+  "date": "2026-08-18",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 12,
+    "unique_repos": 10,
+    "new_repos": 5,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "wecomteam/wecom-unified",
+      "github_url": "https://github.com/wecomteam/wecom-unified",
+      "tier": 1,
+      "is_new": true,
+      "score": 424.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coder_left",
+        "text": "企业微信官方居然开源了 Agent Skill，我真的没想到\n\n以前觉得企微这块一直挺封闭的，结果现在直接把 CLI + Skill 整套丢出来了，覆盖消息、文档、日程、会议、待办、通讯录、微盘这些核心能力\n\n一行命令直接安装，或者把下面命令发给你的 Agent，让他帮你安装：\n\nnpx skills add WecomTeam/wecom-unified -y -g\n\n装完之后，你的 Agent（Cursor、Codex、Claude Code 、WorkBuddy 这些都行）就能直接用自然语言操作企微了\n\n首次用的时候会引导你扫码授权，环境检查也帮你",
+        "likes": 6,
+        "url": "https://x.com/i/status/2089405872204320978"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089642307809316912",
+        "https://x.com/i/status/2089604073586905294",
+        "https://x.com/i/status/2089531746039873550",
+        "https://x.com/i/status/2089405872204320978"
+      ]
+    },
+    {
+      "repo": "harry0703/moneyprinterturbo",
+      "github_url": "https://github.com/harry0703/moneyprinterturbo",
+      "tier": 3,
+      "is_new": true,
+      "score": 189.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "以前做一个短视频账号，最贵的可能不是流量，是产能。\n\n选题、写稿、找素材、配音、字幕、剪辑，一条视频背后全是时间。\n\n但这个 10W+ ⭐️ 的开源项目 MoneyPrinterTurbo，已经可以把主题丢进去，自动完成脚本、素材、配音、字幕和视频合成。现在连 CLI 和 Agent Skill 都有了。\n\n生成完以后，还可以继续自动发布到 TikTok、Instagram 和 YouTube Shorts。\n\n这让我觉得，AI 对内容行业真正大的改变，可能不是“视频更容易做了”。\n\n而是内容生产第一次开始接近软件生产：可以自动化、批量化，甚至 24 小",
+        "likes": 28,
+        "url": "https://x.com/i/status/2089624733788893425"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089624733788893425"
+      ]
+    },
+    {
+      "repo": "wecomteam/wecom-cli",
+      "github_url": "https://github.com/wecomteam/wecom-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "btcup99",
+        "text": "微信也终于是放下了那高傲的姿态，在开放生态迈出了新的一步\n\n企业微信现在可以接入 Codex 、DeepSeek Harness 等更多的三方 Agent了\n\n通过接入 CLI/MCP 与配套 Skill，Agent 可以调用企业微信的核心能力，包括：发送消息、读取邮件、编辑表格、处理文档、创建待办，日程管理等功能\n\n接入方式也非常简单，两种方式：\n\n1⃣和Agent对话完成安装\n\n1.复制提示词给到智能体，自动安装Skill\n帮我安装 npx skills add WecomTeam/wecom-unified -y -g\n2.创建智能机器人，完成安装",
+        "likes": 1,
+        "url": "https://x.com/i/status/2089642307809316912"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089642307809316912"
+      ]
+    },
+    {
+      "repo": "adaptico/adaptico-os",
+      "github_url": "https://github.com/adaptico/adaptico-os",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pashuk",
+        "text": "Today my marketing OS becomes a native Claude Code plugin. Two lines inside Claude Code and all 27 skills are installed - no clone, no script:\n\n/plugin marketplace add adaptico/adaptico-os\n/plugin install adaptico-os\n\nThat's the whole install.\n\nAdaptico OS 0.18.0 is about how you",
+        "likes": 1,
+        "url": "https://x.com/i/status/2089407493742977366"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089407493742977366"
+      ]
+    },
+    {
+      "repo": "ezherielll/generate-design-context",
+      "github_url": "https://github.com/ezherielll/generate-design-context",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Heyziellx",
+        "text": "npx skills add ezherielll/generate-design-context",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089588473644921188"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089588473644921188"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 391.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 52,
+        "url": "https://x.com/i/status/2089373705415843893"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089373705415843893"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that turns your best content into something people trade an email for.\n\nIt finds the post with traffic but zero capture, designs the report, builds the landing page, and gates it with exactly one field.\n\nnpx skills add coreyhaines31/marketingskills https://t.co/szZ",
+        "likes": 20,
+        "url": "https://x.com/i/status/2089525703209570450"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089525703209570450"
+      ]
+    },
+    {
+      "repo": "coinbase/agentic-wallet-skills",
+      "github_url": "https://github.com/coinbase/agentic-wallet-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xCoinacci",
+        "text": "Base Daily Brief works with Coinbase Agentic Wallets.\n\nInstall the skills, then ask your agent:\n\"Pay for the bulletin at https://t.co/V3eqpOKK0M\"\n\nAgent pays $0.01 USDC via x402, gets the full bulletin. No human needed.\n\nnpx skills add coinbase/agentic-wallet-skills\n\ncc @Coinbase",
+        "likes": 20,
+        "url": "https://x.com/i/status/2089418404813734053"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089418404813734053"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pfernan95dev",
+        "text": "Tuesday morning!\n\nToday I'm installing this into my claude code setup: a skills library with 82k+ stars covering spec → plan → build → test → review → ship. 24 workflows, from @addyosmani .\n\nnpx skills add addyosmani/agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089622421938602426"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089622421938602426"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@jjacky @HyperFrames_ is the answer, try it out:\nnpx skills add heygen-com/hyperframes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089573811653849526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089573811653849526"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2089415757734014987",
+      "author": "RobinhoodApp",
+      "text": "Your agent works the night shift now.\n\nAgentic Trading for crypto is rolling out now to eligible users. Connect your agent through the Robinhood MCP server to trade crypto alongside equities and options from a dedicated Agentic Account—using only the funds you deposit. https://t.",
+      "likes": 457,
+      "views": 0,
+      "url": "https://x.com/i/status/2089415757734014987",
+      "is_kol": false,
+      "score": 1651.0
+    },
+    {
+      "id": "2089398580561748312",
+      "author": "simplifyinAI",
+      "text": "This is the world's largest open-source prompt library, and it's free.\n\nprompts chat (formerly Awesome ChatGPT Prompts) is a curated collection of prompts that works with ChatGPT, Claude, Gemini, and more.\n\n> 167k+ GitHub stars, referenced by Harvard and Columbia\n> Works as a CLI",
+      "likes": 246,
+      "views": 0,
+      "url": "https://x.com/i/status/2089398580561748312",
+      "is_kol": false,
+      "score": 908.0
+    },
+    {
+      "id": "2089509583312339450",
+      "author": "milesdeutscher",
+      "text": "Grok Bot feels like an OpenClaw moment.\n\nAnyone who's used it over the past week knows it's actually that good.\n\nI built a Claude Code/Codex prompt that helps transfer all my agent skills, context, and projects into Grok Bot agent swarms.\n\nHands-down, the easiest way to launch ne",
+      "likes": 262,
+      "views": 0,
+      "url": "https://x.com/i/status/2089509583312339450",
+      "is_kol": false,
+      "score": 891.0
+    },
+    {
+      "id": "2089483960028221755",
+      "author": "mhp_guy",
+      "text": "I was quoted $10,000 for a newsletter automation... No thanks. \n\nThis is what I did instead:\n\n1/ I'm on the $200 a month Claude plan and use Fable 5 like it's water in the desert. \n\nIf you think about it, a full time analyst costs way more and works way slower.\n\n2/ I opened Claud",
+      "likes": 227,
+      "views": 0,
+      "url": "https://x.com/i/status/2089483960028221755",
+      "is_kol": false,
+      "score": 711.0
+    },
+    {
+      "id": "2089504401312665703",
+      "author": "onnowpurbo",
+      "text": "WAZUH MCP Karya Pak Nurbawono Auliajati\nhttps://t.co/NinTMTvMLV\nTarget untuk Blue Team\n\nisinya 80+ SOC tools spanning Wazuh SIEM, threat intelligence, alert enrichment, 3-Sum APT correlation, attack graphing, threat hunting, and host forensics.\n\nkayanya menarik buat di coba",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2089504401312665703",
+      "is_kol": false,
+      "score": 541.0
+    },
+    {
+      "id": "2089558898886021423",
+      "author": "ravikiran_dev7",
+      "text": "How to become an AI Engineer in 6 months 🚀\n\nMONTH 1 — Foundations 🐍\n\nLearn:\n• Python properly\n• NumPy + Pandas\n• SQL\n• Git/GitHub\n• APIs + JSON\n• Linux/CLI basics\n• Linear algebra\n• Probability + statistics\n\nBuild:\n→ Data analysis project\n→ ML API with FastAPI\n\nGoal: Become comfo",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2089558898886021423",
+      "is_kol": false,
+      "score": 535.0
+    },
+    {
+      "id": "2089588268023115874",
+      "author": "tashamulti",
+      "text": "𝗪𝗵𝘆 𝗢𝘄𝗻𝗶𝗻𝗴 𝗮𝗻 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹 𝗜𝘀 𝗕𝗲𝘁𝘁𝗲𝗿 𝗧𝗵𝗮𝗻 𝗝𝘂𝘀𝘁 𝗥𝗲𝗻𝘁𝗶𝗻𝗴 𝗢𝗻𝗲\n\nThink about the AI tools you use today.\n\nYou pay for a subscription.\n\nYou use an API.\n\nYou log into a platform.\n\nAnd as long as you keep paying and the platform keeps operating, you have access.\n\nBut what happens when the pr",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2089588268023115874",
+      "is_kol": false,
+      "score": 519.0
+    },
+    {
+      "id": "2089481600308597134",
+      "author": "michaelzixizhou",
+      "text": "we’re launching Codag (@ycombinator S26) - the compression and control layer for agent tools.\n\nwe started with logs. then customers pulled us into searches, tests, builds, and api responses.\n\nthe pattern was always the same: agents burning context on repetitive output, with teams",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2089481600308597134",
+      "is_kol": false,
+      "score": 396.0
+    },
+    {
+      "id": "2089603427093389562",
+      "author": "xanf_ua",
+      "text": "Появился забавный  повод поделиться к чему я пришел в своем познании AI-first разработки и куда направляюсь :)\n\nВчера ко мне впервые в компании пришли и спросили за пятизначный чек на AI за прошлый месяц. Спросили мягко - но я был готов, у меня был уже evergreen документ где были",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2089603427093389562",
+      "is_kol": false,
+      "score": 329.0
+    },
+    {
+      "id": "2089610266925502557",
+      "author": "GOROman",
+      "text": "やったぜ！！！！ 指輪に話しかけるとAIに指示できるのができた！\n\n#Vibe指輪コーディング \n\nPebble Index 01 → iPhone App → MCP Server (Cloudflare Workers)→ 家のMacのCodex https://t.co/dnrVraXyYx",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2089610266925502557",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2089491947740078317",
+      "author": "viticci",
+      "text": "Now for something else that surprised me:\n\nI was an early access user of @bot. I'm impressed with the execution on iOS and underlying idea. Strikes a good balance of \"more intuitive than OpenClaw\" but also flexible enough for power users. I'm using it a quite a bit for non-coding",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2089491947740078317",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2089414958622683145",
+      "author": "BSCNews",
+      "text": "NEAR AI ships IronClaw 1.2 with multi-user agents and open tool connectivity\n\n@NEARProtocol AI released version 1.2 of @IronClawAI, its open-source secure agent platform, adding support for any MCP-ready tool from CRMs to internal APIs. Agents can now work inside Slack channels a",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2089414958622683145",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2089586559586877467",
+      "author": "AiwithDharmik",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/pTlgdh9XYR",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2089586559586877467",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2089434668399739126",
+      "author": "msdev",
+      "text": "Claude in Microsoft Foundry now supports structured outputs, web search, web fetch, MCP connector, and tool search for deployments hosted on @Azure.\n\nThat means less custom work across retrieval, tool routing, and MCP integration, leaving more time to build the agent itself.\nhttp",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2089434668399739126",
+      "is_kol": false,
+      "score": 273.0
+    },
+    {
+      "id": "2089574318631985444",
+      "author": "STVITES",
+      "text": "A three dollar SLA fight between agents cannot cost a hundred thousand dollars or take 344 days.\n\nThat is the human court average.\n\nAgents already moved around eight billion dollars this year.\n\nEvery protocol for payments and identity assumes the happy path.\n\nThe missing layer is",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2089574318631985444",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2089586977196659147",
+      "author": "lami_thefirst",
+      "text": "Most agent deals die the moment one side fails.\n\nNo court. No path.\n\nJust frozen money and lost trust.\n\nI watched this pattern long enough to know demos never build economies.\n\nInternet Court is the open skill that stops that.\n\nAgents set terms before funds move. Payment sits in ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2089586977196659147",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2089638668294136072",
+      "author": "Cointelegraph",
+      "text": "🔥 NEW: Robinhood is rolling out AI agent-powered crypto trading for eligible users via its MCP server. https://t.co/yKnqx3DfJ3",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2089638668294136072",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2089550664099668240",
+      "author": "lami_thefirst",
+      "text": "Most agent stacks still assume every deal goes right.\n\nPayments and identity ship for the happy path.\n\nThe second two agents disagree, the system has nowhere to land.\n\nInternet Court is the open skill that closes the gap.\n\nAny two agents plug in, set terms before funds move, hold",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2089550664099668240",
+      "is_kol": false,
+      "score": 238.0
+    }
+  ]
+}

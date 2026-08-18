@@ -6034,5 +6034,25 @@
   "gamers-lab/design-to-unity": {
     "first_seen": "2026-08-17",
     "tier": 3
+  },
+  "wecomteam/wecom-unified": {
+    "first_seen": "2026-08-18",
+    "tier": 1
+  },
+  "harry0703/moneyprinterturbo": {
+    "first_seen": "2026-08-18",
+    "tier": 3
+  },
+  "wecomteam/wecom-cli": {
+    "first_seen": "2026-08-18",
+    "tier": 3
+  },
+  "adaptico/adaptico-os": {
+    "first_seen": "2026-08-18",
+    "tier": 3
+  },
+  "ezherielll/generate-design-context": {
+    "first_seen": "2026-08-18",
+    "tier": 3
   }
 }
