@@ -6054,5 +6054,45 @@
   "ezherielll/generate-design-context": {
     "first_seen": "2026-08-18",
     "tier": 3
+  },
+  "perplexityai/modelcontextprotocol": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "upstash/skills": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "mizchi/vlmkit": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "zz1358m/agentic-esopt": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "kevmoo/analytica.dart": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "acedatacloud/skills": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "prismnetworksupport/prism-skills": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "lottiefiles/motion-design-skill": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "almendili/skills": {
+    "first_seen": "2026-08-19",
+    "tier": 3
+  },
+  "tcxcx/gateman-analysis": {
+    "first_seen": "2026-08-19",
+    "tier": 3
   }
 }

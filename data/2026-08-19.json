@@ -1,0 +1,534 @@
+{
+  "date": "2026-08-19",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 10,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "perplexityai/modelcontextprotocol",
+      "github_url": "https://github.com/perplexityai/modelcontextprotocol",
+      "tier": 3,
+      "is_new": true,
+      "score": 350.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "perplexitydevs",
+        "text": "The @perplexity_ai API MCP server is now available as an Agent Plugin 🎉\n\nInstall it in Codex, Cursor, VS Code, and other Agent Plugins 1.0.0 conformant clients. Your agent gets real-time web search, reasoning, and research through Perplexity's API.\n\nVisit the repo to get started:",
+        "likes": 70,
+        "url": "https://x.com/i/status/2089835690603512123"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089835690603512123"
+      ]
+    },
+    {
+      "repo": "upstash/skills",
+      "github_url": "https://github.com/upstash/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 237.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "enesakar",
+        "text": "Upstash Skills now supports DeepSeek Harness  + Zed.\n\nDeepseek 👇\ndsh plugin --profile web add github:upstash/skills\n\nZed 👇\nnpx skills add upstash/skills --agent zed\n\nhttps://t.co/XbtR6kzxnv",
+        "likes": 9,
+        "url": "https://x.com/i/status/2089831762411348106"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090007761207620056",
+        "https://x.com/i/status/2089831762411348106"
+      ]
+    },
+    {
+      "repo": "mizchi/vlmkit",
+      "github_url": "https://github.com/mizchi/vlmkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 193.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mizchi",
+        "text": "vlmkitの紹介記事を書いた。\nAIに1人で壊れないDnDのソリティアを作らせることが可能な、UI実装の決定的な検証+ワークフローのスキルが一体化したスキルの組み合わせです。\n\nnpx skills add mizchi/vlmkit\n\nhttps://t.co/fIuhPBfvwG https://t.co/yntkQay3TK",
+        "likes": 26,
+        "url": "https://x.com/i/status/2089958130394484831"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089958130394484831"
+      ]
+    },
+    {
+      "repo": "zz1358m/agentic-esopt",
+      "github_url": "https://github.com/zz1358m/agentic-esopt",
+      "tier": 3,
+      "is_new": true,
+      "score": 193.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zhengzhi20",
+        "text": "🚀 Will Agentic ESOpt Be the Future of Long-Horizon Agentic Fine-Tuning?\n\nExcited to share our new work on Arxiv.\nAgentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Memory Requirements\n\nAs LLM agents become longer-horizon and more branching, conventional Agentic R",
+        "likes": 21,
+        "url": "https://x.com/i/status/2089894713675690259"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089894713675690259"
+      ]
+    },
+    {
+      "repo": "kevmoo/analytica.dart",
+      "github_url": "https://github.com/kevmoo/analytica.dart",
+      "tier": 3,
+      "is_new": true,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kevmoo",
+        "text": "Standard lints only catch unused private (`_`) identifiers. What about all the undead helpers, orphaned test fixtures, and zombie classes lurking in `lib/src/`? 🧟‍♂️\n\nSkill: `npx skills add kevmoo/analytica.dart --skill dart-undead`\n📦 https://t.co/lp1o9e8p8p\n\nTry it out! 🧟‍♀️",
+        "likes": 21,
+        "url": "https://x.com/i/status/2089976141851553885"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089976141851553885"
+      ]
+    },
+    {
+      "repo": "acedatacloud/skills",
+      "github_url": "https://github.com/acedatacloud/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "acedatacloud",
+        "text": "An agent shouldn't have to guess how to use your API.\n\nWith Ace Skills, one command gives your coding agent the information it needs to work with Ace:\n\nnpx skills add acedatacloud/skills\n\nIt gets the actual endpoints, parameters, models and pricing instead of relying on outdated ",
+        "likes": 16,
+        "url": "https://x.com/i/status/2089683647305507057"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089683647305507057"
+      ]
+    },
+    {
+      "repo": "prismnetworksupport/prism-skills",
+      "github_url": "https://github.com/prismnetworksupport/prism-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 155.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "useprismnetwork",
+        "text": "MetaMask Agent Wallet can now pay Prism GPU endpoints directly over x402, gaslessly with one signature @MetaMask. \n\nAgents can buy compute without accounts or API keys:\n\nnpx skills add prismnetworksupport/prism-skills\n\nLive price, user approval, payment, compute. No successful ou",
+        "likes": 15,
+        "url": "https://x.com/i/status/2089715187544621463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089715187544621463"
+      ]
+    },
+    {
+      "repo": "lottiefiles/motion-design-skill",
+      "github_url": "https://github.com/lottiefiles/motion-design-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "reallynattu",
+        "text": "npx skills add LottieFiles/motion-design-skill\n\nhttps://t.co/sT6mEWpOBF",
+        "likes": 11,
+        "url": "https://x.com/i/status/2089721988734759247"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089721988734759247"
+      ]
+    },
+    {
+      "repo": "almendili/skills",
+      "github_url": "https://github.com/almendili/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mah_clarence",
+        "text": "@ALmendili you can make your skill installable via https://t.co/r4dd6ixarx with the repo format here: https://t.co/zkykJq7NO9 (give the page to your agent). then ppl can `npx skills add almendili/skills`",
+        "likes": 1,
+        "url": "https://x.com/i/status/2089908109993267291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089908109993267291"
+      ]
+    },
+    {
+      "repo": "tcxcx/gateman-analysis",
+      "github_url": "https://github.com/tcxcx/gateman-analysis",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arc_fajores",
+        "text": "Segunda demo: análisis de mercado en vivo con la Agent Marketplace API de Circle. $SPCX contra el caso de IPO de Circle.\n\nLo empaquetamos como skill. Corrélo vos:\n\nnpx skills add tcxcx/gateman-analysis --skill gateman-analysis-es\n\n🔗 https://t.co/7wQYAHpbKA",
+        "likes": 0,
+        "url": "https://x.com/i/status/2089760504453501423"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089760504453501423"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "hanliang97/matrixmedia",
+      "github_url": "https://github.com/hanliang97/matrixmedia",
+      "tier": 3,
+      "is_new": false,
+      "score": 302.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kun66666677",
+        "text": "做自媒体最累的，从来不是剪视频，\n而是同一个视频，要在七八个平台重复发布七八遍\n\n开源项目 MatrixMedia（矩媒），就是专门解决这件事的\n\n它把抖音、快手、B站、视频号、小红书、头条、百家号、番茄视频等平台的发布流程，统一封装成一套接口\n\n支持 4 种使用方式：\n\nGUI 图形界面、CLI 命令行、HTTP API、MCP Server（可直接给 AI Agent 调用）\n\n无论你是手动发、脚本批量发，还是直接让 AI Agent 全自动执行，都能接入同一套工作流\n\nGitHub：https://t.co/D5YjHBdMV0",
+        "likes": 49,
+        "url": "https://x.com/i/status/2089924896960979261"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089924896960979261"
+      ]
+    },
+    {
+      "repo": "opencut-app/opencut",
+      "github_url": "https://github.com/opencut-app/opencut",
+      "tier": 3,
+      "is_new": false,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "现在的视频剪辑软件，本质上还是给人用鼠标操作的。\n\n但这个 5W+ ⭐️ 的开源项目 OpenCut，正在走另一个方向。\n\n它最开始被很多人当成“开源版 CapCut”，免费、无水印，而且强调本地处理和隐私。\n\n但我更关注它正在重做的新架构：Editor API、插件系统、MCP Server、Headless Mode，甚至直接在编辑器里写脚本。\n\n这意味着以后 Claude Code / Codex 这类 Agent，理论上不只是帮你写视频脚本。\n\n它还可以直接控制剪辑器：导入素材、改时间线、批量渲染，再把成片交给你。\n\nAI 对创作软件最大的改变，",
+        "likes": 38,
+        "url": "https://x.com/i/status/2089886484472242499"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089886484472242499"
+      ]
+    },
+    {
+      "repo": "helloianneo/ian-xiaohei-illustrations",
+      "github_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "tier": 3,
+      "is_new": false,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CrazyKaomei",
+        "text": "如果你做小红书/自媒体，但不想花钱请设计师——那一定要看看这份【 2026 AI 视觉海报开源 Skill Top 10】榜单👇\n\n里面有把废片变成极简杂志大片的，也有全自动搞定小红书轮播图的。 全部免费、开源、接上就能用。\n\n建议先 🔖 Bookmark，再慢慢看～\n\n1️⃣ 知识博主的神器，自动提炼文章认知生成手绘解释图 (⭐ 9.5k+) \nhttps://t.co/qgp8YHPZDG\n\n2️⃣ 输入一句话/情绪，秒出 Zine 风格海报 (⭐ 6.3k+) \nhttps://t.co/HUm0auJyrP\n\n3️⃣ 提炼原图空间关系，生成极简抽",
+        "likes": 21,
+        "url": "https://x.com/i/status/2089978747789455790"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089978747789455790"
+      ]
+    },
+    {
+      "repo": "wecomteam/wecom-unified",
+      "github_url": "https://github.com/wecomteam/wecom-unified",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yupi996",
+        "text": "企业微信也全面开放 CLI 和 MCP 了。\n\n接入方式很简单：把一行命令 `npx skills add WecomTeam/wecom-unified -y -g` 丢给你的 Agent，就能自动加载企微的全部能力。WorkBuddy、DeepSeek Harness、CodeX 这些主流 Agent 都能直接接。\n\n不过实际使用的话目前每个模块开放的操作其实还比较基础，比如文档只能操作机器人自己创建的。而且企微的 AI 生态整体起步比飞书和钉钉晚，skill 数量和社区活跃度还是有差距。",
+        "likes": 5,
+        "url": "https://x.com/i/status/2089983311137644551"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089983311137644551"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "blackshixin",
+        "text": "币安在搞一个 bStock AI 交易大赛,bStock 是币安发在链上的代币化美股,用 AI agent 直接下单交易,奖池最高 10 万 USDC\n\n参加分三步\n1⃣ 币安 App 里先建 MPC 钱包,再建 Agentic Wallet\n2⃣ 活动页点报名并绑定参赛钱包,只有报名之后的交易才算,钱包一旦确认不能换\n3⃣ 本地装官方 skill,一行 npx skills add binance/binance-skills-hub,然后扫码登录\n\n真正卡人的是规则细节,官方 skill 文档里写得比活动页细:\n\n• 买 bStock 只有 BNB ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2089698532496429091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2089698532496429091"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "11ruka_ai",
+        "text": "find-skillsってやつを1個だけ入れる。\n\nターミナル開いて、これ貼るだけ👇\n\nnpx skills add vercel-labs/skills@find-skills\n\nあとは「◯◯したいんやけど」って言うだけで、125万個の中から合うやつ探してきて、そのまま入れてくれる。\n\nただ1個だけ落とし穴があって、",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090004622220128410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090004622220128410"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2089828083415355806",
+      "author": "vercel_dev",
+      "text": "Introducing fx, a tiny, open, native coding agent from Vercel Labs.\n\nOriginally an internal tool, fx is a harness and CLI written in Zig, optimized for research and embedding in larger systems. Today, we're open sourcing it.\n\nfx is built on three principles:\n\n1. Fast. A single na",
+      "likes": 1989,
+      "views": 0,
+      "url": "https://x.com/i/status/2089828083415355806",
+      "is_kol": false,
+      "score": 6932.0
+    },
+    {
+      "id": "2089761229418221683",
+      "author": "Sabrina_Ramonov",
+      "text": "This 1 Claude Skill fully replaces your Higgsfield subscription (FULL BREAKDOWN)",
+      "likes": 395,
+      "views": 0,
+      "url": "https://x.com/i/status/2089761229418221683",
+      "is_kol": false,
+      "score": 2050.0
+    },
+    {
+      "id": "2089759680025211381",
+      "author": "mlfrg",
+      "text": "Introducing 💾moi: a generative workspace where agents builds their own UI.\n\n✴ Skill for Claude Code, Codex, Hermes & OpenClaw\n✴ Your agent extends the UI with full-stack widgets and pages\n✴ Continues to live as copilot in these apps\n✴ Build live dashboards, personal software, com",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2089759680025211381",
+      "is_kol": false,
+      "score": 735.0
+    },
+    {
+      "id": "2089788891771580435",
+      "author": "hellorob",
+      "text": "ComfyUI is the most used generative AI tool in the professional creative industry — used by teams at the largest studios in the world, like Netflix, Amazon, Nike, and more.\n\nThe barrier for non-technical creatives has always been the learning curve — python envs, model compatibil",
+      "likes": 195,
+      "views": 0,
+      "url": "https://x.com/i/status/2089788891771580435",
+      "is_kol": false,
+      "score": 655.0
+    },
+    {
+      "id": "2089788811504996799",
+      "author": "evedev_",
+      "text": "Expose your eve agent as an MCP server with:\n\n• Durable, session-aware invocations\n• Interactive OAuth for MCP clients\n• Access to your agent's tools, skills, and subagents\n\nhttps://t.co/QSGIv34dIF https://t.co/hL9kQuxJrT",
+      "likes": 183,
+      "views": 0,
+      "url": "https://x.com/i/status/2089788811504996799",
+      "is_kol": false,
+      "score": 614.0
+    },
+    {
+      "id": "2089923309823750382",
+      "author": "milesdeutscher",
+      "text": "25 insanely useful Grok Bot agent use cases (anyone can implement these):\n\n• Personal CFO bot: pulls live portfolio data, gives a morning briefing on overnight moves, upcoming market events, and flags anything worth rebalancing\n\n• YouTube research analyst: scans the top channels ",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2089923309823750382",
+      "is_kol": false,
+      "score": 578.0
+    },
+    {
+      "id": "2089792062690668740",
+      "author": "nickgraynews",
+      "text": "I have been using Grok Bot @bot a lot - 42% of my weekly usage. Here's what I like and don't like so far\n\nThings I like:\n\n1. Having agents without needing a Mac Mini or whatever for Hermes or OpenClaw. Being able to talk to the agents from my phone and my laptop and not being tie",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2089792062690668740",
+      "is_kol": false,
+      "score": 519.0
+    },
+    {
+      "id": "2089736459905368229",
+      "author": "ChuckCook",
+      "text": "I have my grok @bot initially wired now on the 7-day free trial. I am not a grok SuperGrok Heavy or Cursor Ultra user as I can't justify those costs for my use cases.\n\nHaving setup OpenClaw, Hermes, and now Grok Bot, this is by far my favorite so far.  More polished, feels like @",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2089736459905368229",
+      "is_kol": false,
+      "score": 515.0
+    },
+    {
+      "id": "2089788307404116358",
+      "author": "OFFTotemToken",
+      "text": "v0.14 is Live!\n\nTotem LLM now has MCP Server Support\nAND\nComes with the CoinGecko MCP Server in as default.\n\nNo API keys, or changes needed. Your Totem comes with @coingecko free tier MCP Server connected!\n\nAnother step of building on @base. https://t.co/IptE09urc0",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2089788307404116358",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2089832205623144729",
+      "author": "frrazers",
+      "text": "I have released a Developer Products MCP server which allows agents to create and edit developer products without having to use browser automations\n\nDeveloper Forum: https://t.co/imzedegOuM\nInstall: https://t.co/U0WRSUjKWv https://t.co/Ux6SuUhcJr",
+      "likes": 114,
+      "views": 0,
+      "url": "https://x.com/i/status/2089832205623144729",
+      "is_kol": false,
+      "score": 342.0
+    },
+    {
+      "id": "2089910977794085329",
+      "author": "cyrilXBT",
+      "text": "THE CEO OF Y-COMBINATOR JUST SAID SOMETHING THAT SHOULD MAKE EVERY PROMPT ENGINEER UNCOMFORTABLE.\n\n\"When someone asks how I prompt my AI, the answer is: I don't. The skills are the prompts.\"\n\nGarry Tan is not talking about better prompting.\n\nHe is talking about replacing promptin",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2089910977794085329",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2089918763265372482",
+      "author": "sonalshukla3377",
+      "text": "🎯𝟭𝟮 𝗠𝘂𝘀𝘁-𝗞𝗻𝗼𝘄 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗧𝗲𝗿𝗺𝘀\n\nIf you’re building, using, or investing in AI agents, these are the terms you’ll hear everywhere.\n\n❶ 𝗠𝗖𝗣\n🔹️𝗠𝗢𝗗𝗘𝗟 𝗖𝗢𝗡𝗧𝗘𝗫𝗧 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟\n\nOpen standard enabling AI agents to connect to tools, APIs, and data sources through a unified interface.\n\ne.g. Claud",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2089918763265372482",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2089879460896276548",
+      "author": "YSeimei",
+      "text": "【マネックス証券とChatGPTがつながりました！🤩】\n\nマネックス証券が、主要証券会社で初となる「ChatGPTプラグイン」対応の「MONEX MCP Server」を提供開始しました🎉\n\nChatGPTに、\n「いまの資産状況を教えて」\n「保有している投資信託を見たい」\n「今月の入出金は？」\nと話しかけるだけで、ご自身のマネックス証券口座の情報を確認できます✨\n\nAIと自分の資産情報がつながる。\n「AI × 資産形成」で、お金との付き合い方をもっと自由に、もっと自分らしく。\n\n一歩先の「お金との付き合い方」をデザインする、マネックスらしい挑戦がまたひと",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2089879460896276548",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2089737725322617287",
+      "author": "MonacoTrading",
+      "text": "Monaco's MCP server is live on testnet. \n\nGet access to all Monaco markets and data to unlock a new level of trading through Codex, Claude, or any MCP-compatible client. https://t.co/ObM1FJ8yVN",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2089737725322617287",
+      "is_kol": false,
+      "score": 190.0
+    },
+    {
+      "id": "2089825161675448477",
+      "author": "BSCNews",
+      "text": "Travala integrated Amazon's AgentCore payments into its agentic travel booking tool\n\n@travalacom said travelers can connect its Travel MCP in @claudeai, search for a hotel, approve a spending limit in a @coinbase Agentic Wallet provisioned automatically by AgentCore, then fund it",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2089825161675448477",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2089787959952445451",
+      "author": "zodchiii",
+      "text": "XAI JUST OPEN-SOURCED THEIR CLAUDE CODE RIVAL. ALL 844,000 LINES.\n\nIt’s called Grok Build.\n\nThe same CLI that runs their agentic coding stack.\n\nAnd it opens the part nobody publishes:\n\n→ the full agent loop: context assembly, model call, response parsing, tool dispatch\n\n→ the def",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2089787959952445451",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2089750051702575414",
+      "author": "MarcoSalzmann80",
+      "text": "1🧵 Algorand is quietly becoming part of the payment infrastructure for the AI agent economy. \n\n@GoPlausible just expanded its x402 infrastructure with consolidated multi-chain, multi-account merchants.\n\nBut the bigger story is what they’re actually building on @Algorand. 👇\n\nWhat ",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2089750051702575414",
+      "is_kol": false,
+      "score": 165.0
+    },
+    {
+      "id": "2089921999883923820",
+      "author": "ai_xiaomu",
+      "text": "各位在干 fde 的，不要给老板讲啥工作流，agent，skill，偏题了。\n\n他们只关心怎么省钱或者怎么赚钱，围绕这个来讲人话就好了。",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2089921999883923820",
+      "is_kol": false,
+      "score": 164.0
+    }
+  ]
+}
