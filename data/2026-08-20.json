@@ -1,0 +1,450 @@
+{
+  "date": "2026-08-20",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 171,
+    "tweets_with_repos": 13,
+    "unique_repos": 12,
+    "new_repos": 9,
+    "previously_seen_repos": 3
+  },
+  "new_repos": [
+    {
+      "repo": "s1dashu/ip-as-logo-skill",
+      "github_url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 1590.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 395,
+      "total_retweets": 41,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "s1dashu",
+        "text": "没想到 ip-as-logo-skill 发布后这么火。这两天我一直在测试和修补问题：\n\n1. Codex ImageGen 容易因为「logo」一词生成透明背景，现已调整提示词，透明图比例明显降低。\n2. 少数图片曾出现边缘残缺，主要是透明背景生成导致的；调整后已很少出现。\n3. 很多 Agent 没有生图能力，目前 Codex、豆包、Workbuddy、Coze、Youmind 等支持较好。Claude Code  等 Agent 可能会尝试 SVG 绘制，效果不理想，这个问题暂时无法解决。\n\n不过，对于没有 Codex 等 Agent 的用户，可以",
+        "likes": 346,
+        "url": "https://x.com/i/status/2090288159984898097"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090257538688373142",
+        "https://x.com/i/status/2090288159984898097"
+      ]
+    },
+    {
+      "repo": "zzet/gortex",
+      "github_url": "https://github.com/zzet/gortex",
+      "tier": 3,
+      "is_new": true,
+      "score": 466.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 97,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "gortex indexes code into graphs for AI agents and IDEs via CLI and MCP Server\n\nhttps://t.co/NC6oBTNwdw https://t.co/1S9QwqqgYY",
+        "likes": 97,
+        "url": "https://x.com/i/status/2090062320063955006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090062320063955006"
+      ]
+    },
+    {
+      "repo": "leftzzzz/agents-spec-skill",
+      "github_url": "https://github.com/leftzzzz/agents-spec-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coder_left",
+        "text": "Agents Spec Skill 发布了！\n\n我把自己长期使用的 SDD 工作流，整理成了一个可以跨 Agent 使用的 Skill，让 AI Coding 在长期、复杂的项目里能够更稳定地执行任务\n\n一、传统 AI Coding 有什么问题？\n\n我在实际开发中反复遇到三个问题：\n\n1、容易失忆\n任务进行到一半，AI 忘了最初的需求、约束和技术决策，开始偏离目标\n\n2、容易越界\n只想修改一个功能，它却顺手重构其他模块，甚至改变原本没有问题的行为\n\n3、交付质量不稳定\n实现看起来完成了，但验收条件没有真正满足，架构决策和工程约束也没有得到遵守，最后还是需",
+        "likes": 29,
+        "url": "https://x.com/i/status/2090269795333918997"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090269795333918997"
+      ]
+    },
+    {
+      "repo": "adityakodez/hackathon-idea-finder",
+      "github_url": "https://github.com/adityakodez/hackathon-idea-finder",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AdiKodez",
+        "text": "@mittalparth_  this was too good so i turned it into a skill for agents. anti list.  \ncapability audit. judge profiling. the works. thanks for the sauce🫡\n\nrepo : https://t.co/POxst6OGLA\n\nnpx skills add AdityaKodez/hackathon-idea-finder",
+        "likes": 3,
+        "url": "https://x.com/i/status/2090096521299853495"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090096521299853495"
+      ]
+    },
+    {
+      "repo": "vxasi/skills-open",
+      "github_url": "https://github.com/vxasi/skills-open",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VisionaryxAI",
+        "text": "It is open source and works with Codex, Claude Code and Cursor.\n\nInstall:\n\nnpx skills add VxASI/skills-open --skill conversation-insights\n\nFull repo:\n\nhttps://t.co/40kcwz0nAn",
+        "likes": 1,
+        "url": "https://x.com/i/status/2090248673645166979"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090248673645166979"
+      ]
+    },
+    {
+      "repo": "chloevpin/open-agent-skills",
+      "github_url": "https://github.com/chloevpin/open-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chloevalesquez",
+        "text": "A coding agent should not activate every instruction it can find.\n\nIt should choose the smallest complete set of guidance for the task.\n\nOpen Agent Skills includes routing guidance plus focused skills for:\n\n- repository exploration\n- requirements\n- implementation planning\n- debug",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090106763655696523"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090106763655696523"
+      ]
+    },
+    {
+      "repo": "lennondotw/skills",
+      "github_url": "https://github.com/lennondotw/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lennondotw",
+        "text": "npx skills add lennondotw/skills@pointer-drag-release -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090085862587732082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090085862587732082"
+      ]
+    },
+    {
+      "repo": "globalize-now/globalize-skills",
+      "github_url": "https://github.com/globalize-now/globalize-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devhunt_",
+        "text": "Steps to use https://t.co/uIPxTmTLRI:\n⇨ Run npx skills add globalize-now/globalize-skills in your project\n⇨ Let it find hardcoded text and configure your i18n framework\n⇨ Commit and push your code to trigger automatic translation\n⇨ Ship fully localized applications to global user",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090083643486081087"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090083643486081087"
+      ]
+    },
+    {
+      "repo": "jaycheng113/skill-retrieval-mcp",
+      "github_url": "https://github.com/jaycheng113/skill-retrieval-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "danc_danc",
+        "text": "Skill Retrieval MCP: https://t.co/a7TBCryFGd",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090373783408304470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090373783408304470"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 865.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 220,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dani_avila7",
+        "text": "Anthropic shipped a skill called discernment-nudge that does nothing but decide when Claude should second-guess itself in front of you\n\nHere's what's interesting about it, the section on when NOT to fire is 3x longer than when to fire\n\nBest trigger logic writing I've read this ye",
+        "likes": 220,
+        "url": "https://x.com/i/status/2090266638356566321"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090266638356566321"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "多花 10-20% 心思在 UI 上，就是在这个 AI slop 满天飞的时代最大的竞争优势！\n\n太给力了，Together AI 的大神哈桑分享了他是如何用 agents 设计优美 UI 的：\n\n他做了个叫 /Hallmark 的 design skill（25.8k star），把所有 AI slop 套路都列成\"别这么干\"的规则喂给模型，效果很好！\n\n其他心得：\n1. 摸清\"AI 套路\"才能让 agent 避开\n2. 最重要：给 agent 喂参考图和截图\n3. 提示词越长越具体越好\n4. 用便宜小模型迭代——GLM 5.2 效果跟 Opus 几乎",
+        "likes": 24,
+        "url": "https://x.com/i/status/2090273732308931035"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090273732308931035"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 184.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "liuxiaoling933",
+        "text": "如何真正用好 AI，我觉得已经是现在每个交易者都值得体验的一件事。这次币安的 bStocks-AI 交易大赛，我觉得就挺适合拿来实战的。\n\n不是让AI给你看行情，写分析报告就结束了，而是让AI Agent通过Binance Agentic Wallet直接参与 bStock 交易\n\n活动时间： 8 月 17 日—9 月 1 日 UTC\n最高 100000 USDC 奖励池\n最终按照 Realized PnL（已实现盈亏）参与排名\n\n我报名参加了，下面把我自己操作的流程整理出来。从报名 → 创建 Agentic Wallet → 绑定 → AI 配置 → ",
+        "likes": 28,
+        "url": "https://x.com/i/status/2090307065537560620"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090307065537560620"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2090060494858014873",
+      "author": "jakezward",
+      "text": "Pay attention to what Tally is doing in AI search right now because this might be the best playbook for getting recommended by ChatGPT I've seen:\n\n> AI search is now their #1 acquisition channel\n\n> 10,000+ new users every week say they discovered Tally through AI platforms\n\n> the",
+      "likes": 1404,
+      "views": 0,
+      "url": "https://x.com/i/status/2090060494858014873",
+      "is_kol": false,
+      "score": 4467.0
+    },
+    {
+      "id": "2090213954744463691",
+      "author": "XFreeze",
+      "text": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls\n\nRelease Notes: v1.0.7\n\nFeatures:\n• Users hitting startup timeouts ca",
+      "likes": 1029,
+      "views": 0,
+      "url": "https://x.com/i/status/2090213954744463691",
+      "is_kol": false,
+      "score": 3982.0
+    },
+    {
+      "id": "2090014851758542962",
+      "author": "pieverse_io",
+      "text": "Your agent is getting a prediction market skill. 🎯\n\nPieverse is bringing @predictdotfun into the Purr-Fect Claw agent runtime.\n\nAgents can search events and markets, view live quotes, K-line charts and order books, check wallet and position balances, trade YES and NO with market ",
+      "likes": 200,
+      "views": 0,
+      "url": "https://x.com/i/status/2090014851758542962",
+      "is_kol": false,
+      "score": 995.0
+    },
+    {
+      "id": "2090278256306229675",
+      "author": "levie",
+      "text": "There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have the upper hand, and that’s not slowing down.\n\nAI makes it 10X easier to get started with any kind of task. Coding, legal work, research, financial analysis, and s",
+      "likes": 251,
+      "views": 0,
+      "url": "https://x.com/i/status/2090278256306229675",
+      "is_kol": false,
+      "score": 858.0
+    },
+    {
+      "id": "2090293321142874168",
+      "author": "emollick",
+      "text": "Claude's skill creator (literally, just ask it to make a skill) is still the best way to make reusable skills if you care about the details. ChatGPT tends to want to do magic &amp; just do it for you, while Claude does tests and shows results, repeatedly asking for input &amp; fe",
+      "likes": 266,
+      "views": 0,
+      "url": "https://x.com/i/status/2090293321142874168",
+      "is_kol": false,
+      "score": 828.0
+    },
+    {
+      "id": "2090299437361066078",
+      "author": "ApurbaKR3",
+      "text": "Most AI tools today work on a subscription model.\n\nYou pay for ChatGPT, an API, or another AI platform. As long as you keep paying, you have access. Stop paying, and the access usually ends.\n\n@finchip_ai takes a different approach on AI Skill ownership.\n\nWhat is an AI Skill?\n\nAn ",
+      "likes": 172,
+      "views": 0,
+      "url": "https://x.com/i/status/2090299437361066078",
+      "is_kol": false,
+      "score": 811.0
+    },
+    {
+      "id": "2090117882286117136",
+      "author": "eptwts",
+      "text": "Agent Experience Engineering: the skill that'll make 1000's of millionaires in 2027",
+      "likes": 232,
+      "views": 0,
+      "url": "https://x.com/i/status/2090117882286117136",
+      "is_kol": false,
+      "score": 786.0
+    },
+    {
+      "id": "2090146457659854976",
+      "author": "brandon_ai",
+      "text": "I am completely obsessed with Grok @bot .\n\nMind-blown. And I do think it is a major step forward over OpenClaw and Hermes. Not because those are bad. Because of how easy it is to stand up a fleet and actually have it integrate with your life and your business.\n\nIn a few days I st",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2090146457659854976",
+      "is_kol": false,
+      "score": 521.0
+    },
+    {
+      "id": "2090151816923385857",
+      "author": "Voxyz_ai",
+      "text": "One more thing about Grok Bot: three issues keep coming up in my own use and in feedback I’ve seen from other users.\n\n1. Logins are the biggest pain. Web accounts still run into 2FA, passkeys, CAPTCHAs, and security checks. Sites like QuickBooks may keep asking you to log in or b",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2090151816923385857",
+      "is_kol": false,
+      "score": 495.0
+    },
+    {
+      "id": "2090309650721788036",
+      "author": "witcheer",
+      "text": "installing a skill someone else wrote is a trust decision, so your Hermes Agent now gives you a second opinion right where you make it.\n\n- the built-in scanner still enforces install policy, unchanged\n\n- NVIDIA's SkillEvaluator adds an advisory pass: findings with file and line b",
+      "likes": 131,
+      "views": 0,
+      "url": "https://x.com/i/status/2090309650721788036",
+      "is_kol": false,
+      "score": 433.0
+    },
+    {
+      "id": "2090071659692831099",
+      "author": "Sumanth_077",
+      "text": "Open-source harness for building production-ready AI agents!\n\nTrueForge is the runtime infrastructure layer that handles everything around your agent so you can focus on what the agent actually does.\n\nBuilding an agent is straightforward. Running one in production is a different ",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2090071659692831099",
+      "is_kol": false,
+      "score": 321.0
+    },
+    {
+      "id": "2090105011103474068",
+      "author": "twannl",
+      "text": "Big news for iOS devs in one of the latest Xcode 27 beta releases. @iosartem explains what headless Xcode MCP server access means for you when working with agents.\n\nhttps://t.co/GBThm7Yk8n",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2090105011103474068",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2090354219979051269",
+      "author": "vikktorrrre",
+      "text": "you'll never need to come up with a tweet hook on your own again.\n\nI just discovered a Claude skill that writes banger title text for any topic based on the data.\n\nMost people don't realize the title text is actually the most important part of your hook.\n\nHere's how it works.\n\n- ",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2090354219979051269",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2090103154893291716",
+      "author": "bysfdev",
+      "text": "it's insane that this is free\n\nthe animation wizard dropped a new skill for mobile apps\n\n&gt; agents do not know how to build animations with taste\n&gt; npx skills@latest add emilkowalski/skills\n&gt; 10x your current UX\n\nthank me later",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2090103154893291716",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2090163086447550864",
+      "author": "robrtcode",
+      "text": "TRUEFOUNDRY JUST OPEN SOURCED THE HARNESS THEY RUN THEIR OWN AGENTS ON\n\nTrueForge. MIT licensed, vendor neutral, runs on your infra.\n\nThey benchmarked it on 14 DevRev Enterprise-Bench tasks. Same tasks, same three MCP servers, fresh session per task, blind LLM judge:\n\n→ Claude Ma",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2090163086447550864",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2090137966861598940",
+      "author": "0xMiraqle",
+      "text": "xAI Developer: \"Grok Bot is the next GEN of agents, smoking hermes and openclaw at all\".\n\nHere's the layer nobody's talking about, the wiring that decides whether six bots beat one or just cost you six times more, and it's a single message inside the app you already pay for:\n\n!gi",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2090137966861598940",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2090220342640054408",
+      "author": "bankrbot",
+      "text": "Bankr Builder Spotlight @deluquant\n\nDelu looks at any coin and tells you whether it's worth trading.\n\nGive it a ticker, and it comes back with a clear call: buy, watch, or stay away, along with the reasoning behind it.\n\nUnder the hood, specialized sub-agents scout for opportuniti",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2090220342640054408",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2090196967687102647",
+      "author": "LukasHozda",
+      "text": "What makes Autolith unique as a harness (long list):\n- Self-modifiable, self-introspectable live image\n- Both user and model can redefine essentially any part of the running system\n- Much closer to Emacs-ish live extensibility than a conventional agent CLI\n- Automatic recovery-im",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2090196967687102647",
+      "is_kol": false,
+      "score": 225.0
+    }
+  ]
+}

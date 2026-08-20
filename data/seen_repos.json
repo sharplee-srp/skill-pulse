@@ -6094,5 +6094,41 @@
   "tcxcx/gateman-analysis": {
     "first_seen": "2026-08-19",
     "tier": 3
+  },
+  "s1dashu/ip-as-logo-skill": {
+    "first_seen": "2026-08-20",
+    "tier": 2
+  },
+  "zzet/gortex": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "leftzzzz/agents-spec-skill": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "adityakodez/hackathon-idea-finder": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "vxasi/skills-open": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "chloevpin/open-agent-skills": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "lennondotw/skills": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "globalize-now/globalize-skills": {
+    "first_seen": "2026-08-20",
+    "tier": 3
+  },
+  "jaycheng113/skill-retrieval-mcp": {
+    "first_seen": "2026-08-20",
+    "tier": 3
   }
 }
