@@ -6130,5 +6130,33 @@
   "jaycheng113/skill-retrieval-mcp": {
     "first_seen": "2026-08-20",
     "tier": 3
+  },
+  "nutlope/variate": {
+    "first_seen": "2026-08-21",
+    "tier": 2
+  },
+  "flornkm/skills": {
+    "first_seen": "2026-08-21",
+    "tier": 2
+  },
+  "zcaceres/markdownify-mcp": {
+    "first_seen": "2026-08-21",
+    "tier": 3
+  },
+  "adamanz/grok-bot-skill": {
+    "first_seen": "2026-08-21",
+    "tier": 3
+  },
+  "mia-cx/skills": {
+    "first_seen": "2026-08-21",
+    "tier": 3
+  },
+  "galfrevn/reel": {
+    "first_seen": "2026-08-21",
+    "tier": 3
+  },
+  "restatedev/skills": {
+    "first_seen": "2026-08-21",
+    "tier": 3
   }
 }
