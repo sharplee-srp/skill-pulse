@@ -6158,5 +6158,37 @@
   "restatedev/skills": {
     "first_seen": "2026-08-21",
     "tier": 3
+  },
+  "anthropics/claude-plugins-community": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "alamops/skills": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "block/berd": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "warpdotdev/common-skills": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "kemiljk/skills": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "itsmay21/agent-expression": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "pgflow-dev/pgflow": {
+    "first_seen": "2026-08-22",
+    "tier": 3
+  },
+  "timekeepur/recruit-me": {
+    "first_seen": "2026-08-22",
+    "tier": 3
   }
 }

@@ -1,0 +1,461 @@
+{
+  "date": "2026-08-22",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 158,
+    "tweets_with_repos": 14,
+    "unique_repos": 13,
+    "new_repos": 8,
+    "previously_seen_repos": 5
+  },
+  "new_repos": [
+    {
+      "repo": "anthropics/claude-plugins-community",
+      "github_url": "https://github.com/anthropics/claude-plugins-community",
+      "tier": 3,
+      "is_new": true,
+      "score": 275.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "claude组Thariq 小哥的explain like I'm 5这个skill今天爆火。\n研究了一下，超级简单，整个skill 就一句话：\n\n`用一个包含大图片和少量文字的 HTML 作品来解释，就像是在向一个对这个主题一无所知的人讲解一样。`\n\n可以给任何agent和其他模型使用，下载地址：\nhttps://t.co/n4hOoeigJX\n\n实测其他模型效果都没有Claude模型的效果好！\n\n也可以嫁接到tldraw-offline白板上，提示词：\n\n`/tldraw-offline explain like I'm someone who kn",
+        "likes": 20,
+        "url": "https://x.com/i/status/2091010163503501710"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091006501628551389",
+        "https://x.com/i/status/2091010163503501710"
+      ]
+    },
+    {
+      "repo": "alamops/skills",
+      "github_url": "https://github.com/alamops/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 244.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AISuperDomain",
+        "text": "有人把「反复盯着 AI 编程」做成了一个 /implement Skill。\n\n它不是新的 coding agent，而是一套完整的多 Agent 开发流水线：\n\n调查 → 规划 → 实现 → 审查 → 测试 → 修复 → 总结\n\n各阶段可分配给 Claude 子代理或 Codex、Gemini、Aider 等外部 CLI，同时保留人工审批。\n\n适合想让 AI 开发更稳定、可复用，又不愿放弃人工把关的开发者。\n\n项目：https://t.co/GAMC1PODnG",
+        "likes": 38,
+        "url": "https://x.com/i/status/2090965618862297142"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090965618862297142"
+      ]
+    },
+    {
+      "repo": "block/berd",
+      "github_url": "https://github.com/block/berd",
+      "tier": 3,
+      "is_new": true,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "morganmartn",
+        "text": "Berd to Buzz handoff skill is live! Update your apps and install using: npx skills add block/berd --skill buzz-handoff -g",
+        "likes": 20,
+        "url": "https://x.com/i/status/2090923042583220701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090923042583220701"
+      ]
+    },
+    {
+      "repo": "warpdotdev/common-skills",
+      "github_url": "https://github.com/warpdotdev/common-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BHolmesDev",
+        "text": "Update: /skill-doctor is shipped! \n\nnpx skills add warpdotdev/common-skills --skill skill-doctor\n\nWorks with CC, Codex, and Warp so far. Try it and tell me how it goes. You can share your report card on X while you're at it. The doctor was... very critical of my skills 🫠 https://",
+        "likes": 9,
+        "url": "https://x.com/i/status/2090966813563654608"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090966813563654608"
+      ]
+    },
+    {
+      "repo": "kemiljk/skills",
+      "github_url": "https://github.com/kemiljk/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_kejk",
+        "text": "Like most people using AI, I’ve consistently shared the same feedback with it like “use native HTML”, “follow the tokens”, “fix the motion”, “harden the happy path”.\n\nSo of course I turned this into 11 installable skills, plus one command that runs the full review.\n\nnpx skills ad",
+        "likes": 0,
+        "url": "https://x.com/i/status/2091084533336518890"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091084533336518890"
+      ]
+    },
+    {
+      "repo": "itsmay21/agent-expression",
+      "github_url": "https://github.com/itsmay21/agent-expression",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yak_MANx",
+        "text": "@zhizhuxia22 add this if you want reader-first UI/prompt/code. npx skills add itsMay21/agent-expression",
+        "likes": 0,
+        "url": "https://x.com/i/status/2091062632325296327"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091062632325296327"
+      ]
+    },
+    {
+      "repo": "pgflow-dev/pgflow",
+      "github_url": "https://github.com/pgflow-dev/pgflow",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pgflow_dev",
+        "text": "pgflow-docs agent skill is out: \n\nnpx skills add pgflow-dev/pgflow --skill pgflow-docs\n\nStructured docs for your AI agents",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090975402147594269"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090975402147594269"
+      ]
+    },
+    {
+      "repo": "timekeepur/recruit-me",
+      "github_url": "https://github.com/timekeepur/recruit-me",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "timekeepur",
+        "text": "New skill alert! 🚨 \"Recruit Me\"\n\nRun this skill on your portfolio website to improve discoverability for recruiter agents. Very easy to follow as you will be asked to enter your PDF resume, YouTube channel, research papers, etc. - https://t.co/UA2r79SlyF\n\n👉🏽 npx skills add timeke",
+        "likes": 0,
+        "url": "https://x.com/i/status/2090906796894646452"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2090906796894646452"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "github_url": "https://github.com/virgiliojr94/book-to-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 326.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Turns technical books into unified agent skills for Claude Code, Copilot CLI, and Amp.\n\nhttps://t.co/GFnX15PgCP https://t.co/52ESYCEZXg",
+        "likes": 57,
+        "url": "https://x.com/i/status/2091002343772889264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091002343772889264"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hisevenih",
+        "text": "这个6K Star的skill，直接让 Codex 帮你做产品宣传片\n\n做产品视频的可以留一下这个 Skill。\n\nvideo-shotcraft。\n\n它不是简单给你生成一段随机 AI 视频。\n\n而是把产品宣传片常见的镜头做成了 152 张“镜头配方”。\n\n另外还有 209 个动态效果预览。\n\n你可以先去 Gallery 挑喜欢的效果。\n\n然后直接跟 Codex 或 Claude Code 说：\n\n给这个产品做一条宣传片。\n\n它会继续处理：\n\n分镜、页面截图、镜头运动、字幕、转场、\n音效、音乐节奏、最后用 Remotion 渲染视频。\n\n甚至已经准备了一",
+        "likes": 10,
+        "url": "https://x.com/i/status/2091050737526579629"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091050737526579629"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "1. install /design-engineering:\nnpx skills add AgentsORG/design-engineering\nnpx plugins add AgentsORG/design-engineering\n\n2. type /design-engineering\n\n3. describe the design change the way you normally would\n\n4. let your agent translate your design intent into code\nhttps://t.co/g",
+        "likes": 1,
+        "url": "https://x.com/i/status/2091093704216088745"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091093704216088745"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OzairAkhtar5",
+        "text": "step 1. install it, then just talk to it.\n\none command: npx skills add heygen-com/hyperframes\n\nthen hand it the clips and say what you want\n\nfor captions, use the command:\n/captions-overlay",
+        "likes": 1,
+        "url": "https://x.com/i/status/2091037062380355752"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091037062380355752"
+      ]
+    },
+    {
+      "repo": "chloevpin/open-agent-skills",
+      "github_url": "https://github.com/chloevpin/open-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chloevalesquez",
+        "text": "4/ They are vendor-neutral and installable with the open skills CLI:\n\nnpx skills add ChloeVPin/open-agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2091026834297114899"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2091026834297114899"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2090852084371611965",
+      "author": "nickgomez",
+      "text": "LLM wikis now have a standard format: the Open Knowledge Format (OKF). \n\nToday we released our open-source plugin to make it easy to create and maintain wikis in this format. It's part linter, part skill, part MCP tools.\n\nOKF was introduced by Google back in June as a specificati",
+      "likes": 438,
+      "views": 0,
+      "url": "https://x.com/i/status/2090852084371611965",
+      "is_kol": false,
+      "score": 1429.0
+    },
+    {
+      "id": "2090885073532825794",
+      "author": "NEARProtocol",
+      "text": "IronClaw 1.2 connects your agent to any MCP-ready tool, and every new tool routes through the same guard, inheriting every protection automatically.\n\nIn Slack and Telegram, IronClaw treats channel history as quoted content, never as instructions.",
+      "likes": 301,
+      "views": 0,
+      "url": "https://x.com/i/status/2090885073532825794",
+      "is_kol": false,
+      "score": 1113.0
+    },
+    {
+      "id": "2091004314668122575",
+      "author": "shinoyu___",
+      "text": "やっぱデザインさせるならFableですよ。\nこれはCursorのFable に、Claude CodeのFrontend Design Pluginを引っ張ってきて適用したもの。いい感じにしてくれてます。 https://t.co/32IsVVBt72",
+      "likes": 236,
+      "views": 0,
+      "url": "https://x.com/i/status/2091004314668122575",
+      "is_kol": false,
+      "score": 788.0
+    },
+    {
+      "id": "2090794320076984452",
+      "author": "SpikeCalls",
+      "text": "GROK BOT WIRED INTO OBSIDIAN JUST CHEWED THROUGH 4,200 NOTES IN 9 MINUTES AND FOUND 3 IDEAS I ALREADY FORGOT I HAD\n\nX amateurs still paste prompts into a chat window and copy the answer back by hand while pros give the agent write access to the vault and walk away\n\nyour second br",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2090794320076984452",
+      "is_kol": false,
+      "score": 714.0
+    },
+    {
+      "id": "2090812424219726027",
+      "author": "rcxdata",
+      "text": "EXCLUSIVA: UN GRUPO DE DEVS CREO UN CAPCUT GRATIS SIN MARCAS DE AGUA NI SUSCRIPCION\n\nasi funciona el sistema:\n\n> editor completo con linea de tiempo y multipista\n> plugins nativos para expandir lo que puede hacer\n> una sola app para web escritorio y movil\n> mcp server, automatiza",
+      "likes": 173,
+      "views": 0,
+      "url": "https://x.com/i/status/2090812424219726027",
+      "is_kol": false,
+      "score": 709.0
+    },
+    {
+      "id": "2090966669204341076",
+      "author": "_zheergen",
+      "text": "卧槽！同花顺官方下场了——A 股数据服务正式开源，一个 API Key 全搞定，AI Agent、量化、开发全支持！\n\n以前做 A 股量化，数据来源永远是块心病：爬虫怕封、第三方数据贵、Tushare 免费额度不够用。\n\n现在同花顺自己把数据服务开源了，实时行情、财务报表、估值、涨跌停池、龙虎榜、集合竞价——全市场数据一个 Key 打通。\n\n覆盖的能力很全：\n\n1️⃣ 实时行情、历史 K 线、财务报表、估值快照\n2️⃣ 集合竞价、涨停/炸板、龙虎榜、热榜等特色数据\n3️⃣ 指数、板块、公募基金资料与净值\n4️⃣ 支持 REST API、Python SD",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2090966669204341076",
+      "is_kol": false,
+      "score": 627.0
+    },
+    {
+      "id": "2090840059654373590",
+      "author": "Lovable",
+      "text": "Lovable can build an MCP server for any app. Here's how our team uses it:\n\nRoman pulls GitHub, Linear, and https://t.co/jBRaEL9DF5 into one Lovable app. \n\nHe asks his agent if anything is broken, and gets answers without opening new tabs. https://t.co/YBv9ot5hmv",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2090840059654373590",
+      "is_kol": false,
+      "score": 410.0
+    },
+    {
+      "id": "2090976030383395233",
+      "author": "rahulbais136",
+      "text": "Most People Use Claude To Work Faster.\n\nUse Claude To Become Dangerously Overeducated In 2026.\n\nDisappear For 1 Hours Per Day.\n\nUse These Prompts To Become Harder To Replace.\n\nSave this. Build your future skill stack. 🔖 https://t.co/WriyTo38P2",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2090976030383395233",
+      "is_kol": false,
+      "score": 394.0
+    },
+    {
+      "id": "2090788269491421378",
+      "author": "Investeraren",
+      "text": "NYHET‼️🔥 I mars lanserade vi på Montrose Europas första MCP-server för aktier och fonder. Nu lanserar vi en rejäl uppgradering!🥳\n\nNu kan ditt AI-gränssnitt även få tillgång till:\n\n✅ Transaktioner (köp, sälj, utdelningar m.m.)\n✅ Belåningsvärden på innehav\n✅ Din belåningsgrad och r",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2090788269491421378",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2090899976130064411",
+      "author": "ImmatureGamer",
+      "text": "🚨 Epic just did a nearly 2-hour \"Creating in Fortnite\" stream focused on the new MCP tools in UEFN.\n\nDan hosted with Magnus from Epic driving Claude Code.\n\nIf you already saw the MCP announcement, this stream filled in a lot of the blanks. Here are my biggest takeaways for creato",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2090899976130064411",
+      "is_kol": false,
+      "score": 331.0
+    },
+    {
+      "id": "2090841556660183199",
+      "author": "jeff_weinstein",
+      "text": "The @stripe MCP (likely already available in your favorite agentic tool) can now query all your Stripe data.",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2090841556660183199",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2090864211509276704",
+      "author": "tarunsachdeva",
+      "text": "Introducing the Traces MCP\n\nAnyone in your team can now access information from your past sessions - from every decision to tool call. \n\nA multiplayer team memory, available to any Traces user (individual or org). \n\nJust point your agent to https://t.co/qeRAKH4LFc",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2090864211509276704",
+      "is_kol": false,
+      "score": 329.0
+    },
+    {
+      "id": "2090823231103987869",
+      "author": "RodmanAi",
+      "text": "I really love it when apps work together nicely. On top of Slack integration, Viktor now has an OpenAI native integration and MCP server, so you can get going super fast. Spend your time building, not connecting backends!",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2090823231103987869",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2091035690733801844",
+      "author": "heyrohitai",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/b1MTadWCee",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2091035690733801844",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2090942536559075336",
+      "author": "aakashgupta",
+      "text": "She literally breaks down he she gets 5 inbound job opportunities a week on LinkedIn:\n\n3:47 - Profile, content, networking.\n4:25 - 3 ways hiring managers find you\n6:58 - Live demo of mining JDs for keywords\n13:27 - The LinkedIn profile writer skill\n21:57 - Reviewing the rewritten",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2090942536559075336",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2090920477384720557",
+      "author": "MaxForAI",
+      "text": "WOW，Vercel 开始给网站做 Agent SEO 了！\n\n刚刚，Vercel Developers 推出了一个叫 https://t.co/WH28yFaQ17 的工具，专门测试你的网站到底有多适合被 AI Agent 使用。\n\n它会对网站跑 100 多项检查，最后给出一个 Agent Readiness Score。\n\n目前官方展示的一批网站里：\n\nOra：98 / 100\nVercel：90 / 100\nStripe：80 / 100\nOpenAI：72 / 100\nGitHub：72 / 100\nLinear：64 / 100\nAnthrop",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2090920477384720557",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2090951601284661741",
+      "author": "stevederico",
+      "text": "7 quotes from @dhh that made me switch to @OmarchyLinux\n\n0:00 love computers\n1:10 agentic os\n2:33 your computer\n3:24 plugins\n4:57 omakase\n5:35 manuals\n6:05 year of linux\n\n\"this is a computer for people that love computers\"\n\n• it's fun, a new challenge\n• the keyboard drives\n• tili",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2090951601284661741",
+      "is_kol": false,
+      "score": 237.0
+    }
+  ]
+}
