@@ -6190,5 +6190,41 @@
   "timekeepur/recruit-me": {
     "first_seen": "2026-08-22",
     "tier": 3
+  },
+  "ericzakariasson/scandinavian-design": {
+    "first_seen": "2026-08-23",
+    "tier": 2
+  },
+  "randalschwartz/dart-sdk-skills": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "musoyangrigor/scroll-video-website-skill": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "cloudflare/vinext": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "jondotsoy/skills": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "ian-yeh/tendo": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "aassoiants/thought-tracks": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "kayforkind/reimagine-it": {
+    "first_seen": "2026-08-23",
+    "tier": 3
+  },
+  "tencent/ai-infra-guard": {
+    "first_seen": "2026-08-23",
+    "tier": 3
   }
 }
