@@ -6226,5 +6226,45 @@
   "tencent/ai-infra-guard": {
     "first_seen": "2026-08-23",
     "tier": 3
+  },
+  "inkboard/system-atlas": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "igorwarzocha/howaboua-pi-stuff": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "minimax-ai/minimax-h3": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "ptmrio/harness-subagent": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "horosheff/yandex-metrika-assistant": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "yuzaicn/biz-partner": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "amanktyr/tailor": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "dlyzzt/check-codex-credits-skill": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "1sadjlk/bounty-hunter-skill": {
+    "first_seen": "2026-08-24",
+    "tier": 3
+  },
+  "openclaw/nix-openclaw": {
+    "first_seen": "2026-08-24",
+    "tier": 3
   }
 }
