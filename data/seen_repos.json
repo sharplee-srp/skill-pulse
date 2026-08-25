@@ -6266,5 +6266,41 @@
   "openclaw/nix-openclaw": {
     "first_seen": "2026-08-24",
     "tier": 3
+  },
+  "bagelhole/devops-security-agent-skills": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "coderabbitai/skills": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "ledgerhq/agent-skills": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "vdmcb/thinking-os": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "gmi-software/better-skills": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "xnydl/claude-code-guard": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "roadsidedev/technocore-did-starter-skill": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "yawbtng/skills": {
+    "first_seen": "2026-08-25",
+    "tier": 3
+  },
+  "nicolasakf/agentize": {
+    "first_seen": "2026-08-25",
+    "tier": 3
   }
 }
