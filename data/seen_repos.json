@@ -6302,5 +6302,37 @@
   "nicolasakf/agentize": {
     "first_seen": "2026-08-25",
     "tier": 3
+  },
+  "gen-verse/recuris": {
+    "first_seen": "2026-08-26",
+    "tier": 2
+  },
+  "gnipbao/dao-skill": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "caiodomingues/agent-ready-seo": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "jimmysadek/youtube-fetcher-to-markdown": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "dancingteeth/figma-design-system-handoff": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "plannotator/effective-html": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "butaji/coding-skills": {
+    "first_seen": "2026-08-26",
+    "tier": 3
+  },
+  "qodo-ai/qodo-skills": {
+    "first_seen": "2026-08-26",
+    "tier": 3
   }
 }

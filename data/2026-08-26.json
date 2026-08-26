@@ -1,0 +1,554 @@
+{
+  "date": "2026-08-26",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 17,
+    "unique_repos": 17,
+    "new_repos": 8,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "gen-verse/recuris",
+      "github_url": "https://github.com/gen-verse/recuris",
+      "tier": 2,
+      "is_new": true,
+      "score": 814.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 188,
+      "total_retweets": 30,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LingYang_PU",
+        "text": "Can an agent recursively improve—without updating a single model weight?\n\nToday, we introduce Recuris: Recursive Experiential–Working Memory Evolution for Long-Horizon Agent Harnesses.\n\nRecuris enables recursive self-improvement through two tightly coupled loops around a frozen L",
+        "likes": 188,
+        "url": "https://x.com/i/status/2092432103954841925"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092432103954841925"
+      ]
+    },
+    {
+      "repo": "gnipbao/dao-skill",
+      "github_url": "https://github.com/gnipbao/dao-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 247.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gengdaJ",
+        "text": "这个创建Skill的元Skill有点牛逼啊，比Codex自带的Skill-creator强多了！\n\n六个步骤把一个完整的工作流沉淀下来。\n\n一、找根问题\n如果用户说“做一个写作 Skill”，Dao-Skill 会先判断用户创建Skill的核心目的，避免Skill核心模糊——用户真正需要的是提炼文风、选题判断、文章生产，还是一整套内容创作系统？\n\n二、找核心张力\n用户在创建Skill的时候，总是既要又要，但是结果就是Agent执行Skill后，输出的结果很差。\n\n比如以下几个场景是用户经常都想要一个Skill同时涵盖的两个功能👇\n写作：自由发挥 vs 输",
+        "likes": 34,
+        "url": "https://x.com/i/status/2092488002555838493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092488002555838493"
+      ]
+    },
+    {
+      "repo": "caiodomingues/agent-ready-seo",
+      "github_url": "https://github.com/caiodomingues/agent-ready-seo",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "caio_dss",
+        "text": "@Luskadsn @devjuninho npx skills add caiodomingues/agent-ready-seo",
+        "likes": 1,
+        "url": "https://x.com/i/status/2092455925571268981"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092455925571268981"
+      ]
+    },
+    {
+      "repo": "jimmysadek/youtube-fetcher-to-markdown",
+      "github_url": "https://github.com/jimmysadek/youtube-fetcher-to-markdown",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Trorram",
+        "text": "🚨 Acabou o sofrimento com transcrição crua do YouTube (YT).\n\nA skill youtube-fetcher-to-markdown (JimmySadek, 198⭐, MIT) transforma QUALQUER vídeo em nota archival estruturada pro Obsidian (vault de notas / notes):\n\n📋 YAML frontmatter (FF) com title, channel, duration, upload_dat",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092548668679143934"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092548668679143934"
+      ]
+    },
+    {
+      "repo": "dancingteeth/figma-design-system-handoff",
+      "github_url": "https://github.com/dancingteeth/figma-design-system-handoff",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dancingteeth",
+        "text": "npx skills add dancingteeth/figma-design-system-handoff\nhttps://t.co/u22EUjLHfr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092502511890395534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092502511890395534"
+      ]
+    },
+    {
+      "repo": "plannotator/effective-html",
+      "github_url": "https://github.com/plannotator/effective-html",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sergeonsamui",
+        "text": "Six agent skills for building self-contained HTML artifacts — wireframes, prototypes, plans, diagrams — with responsive, accessible, browser-tested output. Install via `npx skills add plannotator/effective-html` for @claudeai Code or @OpenAI.\n\nhttps://t.co/SjqBxWhGY2 https://t.co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092492286428844307"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092492286428844307"
+      ]
+    },
+    {
+      "repo": "butaji/coding-skills",
+      "github_url": "https://github.com/butaji/coding-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "butaji",
+        "text": "Just ask your clanker to review your codebase with this skill, its making surprises\n\nnpx skills add butaji/coding-skills@lisp-mindset -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092449563474883031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092449563474883031"
+      ]
+    },
+    {
+      "repo": "qodo-ai/qodo-skills",
+      "github_url": "https://github.com/qodo-ai/qodo-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeMakeDevs",
+        "text": "Here is a guide to get you started quickly with The Agent Harness Hackathon🛠️\n\nHere’s the workflow👇\n\nStep 1: Set up @QodoAI for your hackathon repository.\nOne teammate with GitHub admin access can do this once for the entire team.\n\nLog in to Qodo → Integrations → SaaS → GitHub → ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092528772868423691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092528772868423691"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1311.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 387,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jakubkrehel",
+        "text": "I added 2 new skills to the collection.\n\n/break\n\nIt renders a component you choose in every state and scenario on a temporary page and stress tests it.\n\nIt’s a great way to find issues in your design system that you might not be aware of.\n\n/variant\n\nBuilds multiple variants of an",
+        "likes": 387,
+        "url": "https://x.com/i/status/2092323505387745540"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092323505387745540"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 322.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 59,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Delroy715",
+        "text": "发现一个好东西，专门治 Agent 做出来的 AI 味 UI\n它最有用的不是说自己多高级\n而是直接限制那些乱用渐变、大圆角、没意义阴影、模板化 Hero 的东西\n\n这个叫 Hallmark，GitHub 已经 2.7 万星了\n装上之后，Claude Code、Cursor、Codex 写出来的页面，真的会干净很多\n安装就一行：\nnpx skills add nutlope/hallmark\n\n做前端页面落地页的可以试试\n链接地址我放评论区了👇",
+        "likes": 59,
+        "url": "https://x.com/i/status/2092469570757861863"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092469570757861863"
+      ]
+    },
+    {
+      "repo": "roadsidedev/technocore-did-starter-skill",
+      "github_url": "https://github.com/roadsidedev/technocore-did-starter-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tonywtf__",
+        "text": "forked Zun’s guide and made it a pluggable agent skill that you can point to your agentsto run @flop_labs DID task. \n\nit works on : \n\n- hermes, openclaw, claude code, codex, opencode etc\n\n- posts , sets up cron job for consistent interaction on technocore chat. \n\n- remember to sa",
+        "likes": 4,
+        "url": "https://x.com/i/status/2092179916192137310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092179916192137310"
+      ]
+    },
+    {
+      "repo": "av/skills",
+      "github_url": "https://github.com/av/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Everlier",
+        "text": "Introducing factual communication skill.\n\n- restates content as a flat list of atomic claims, one per line, minimal but sufficient\n- style modeled on av/facts fact sheets (https://t.co/sIMHc3vkXu)\n- installable via \"npx skills add av/skills --skill factual-communication\" https://",
+        "likes": 2,
+        "url": "https://x.com/i/status/2092542809991422150"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092542809991422150"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "npx skills add coreyhaines31/marketingskills\n\n→ https://t.co/7i6xKBJt5I",
+        "likes": 2,
+        "url": "https://x.com/i/status/2092344385820295382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092344385820295382"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jglcn1991",
+        "text": "产品宣传片还在找外包，或者自己肝 AE？Claude Code 现在能自己干了。\n\n安利一个 6.4k star 的开源项目：video-shotcraft。\n\n它是一个 AI Agent Skill，装上之后你的 Claude Code / Codex 就是一流动效工作室：丢给它产品页面，它自己分镜、做动画、配音效，用 Remotion 渲出一条电影感的产品宣传片——真实页面截图、2.5D 运镜、卡点剪辑全都有。\n\n弹药库相当足： 🎬 152 张分镜配方卡 + 209 个动效在线预览 🎞️ 一套验证过的成片模板：36 秒、10 镜头、含完整音效轨 🔊 ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092536511912657089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092536511912657089"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pulpmatrix",
+        "text": "Checks out. https://t.co/8CUCHD1qOo is Vercel's directory built on Anthropic's open Agent Skills format. npx skills add owner/repo drops a SKILL.md into.claude/skills, 20+ clients supported. Vet unknown owners like you would npm install.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092516723492819027"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092516723492819027"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xincctnnq",
+        "text": "先在币安 App 里建好 MPC 钱包，没有它创建不了 Agentic Wallet。\n\n然后本机装 Node 18 以上，跟你的 AI Agent 说这一句:\n\nnpx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet\n\n或者直接把这个链接发给 ai ：\nhttps://t.co/p2xHvydDnG\n\n装完对它说“ Sign in to Binance Agentic Wallet ”,它会吐一个登录链接，手机点开直接跳币安 App,电脑上",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092470988160245864"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092470988160245864"
+      ]
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "github_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Angle1991Ai",
+        "text": "补几个细节：532 个案例拆成 1-165、166-532 两册画廊，配套 20+ 套工业模板；风格库就是一份 data/style-library.json，网站和 skill 吃同一份数据，改一处两边同步。MIT 协议，4/25 建仓，昨天还在推提交。装法：npx skills add freestylefly/awesome-gpt-image-2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092312859908903052"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092312859908903052"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2092455706582499815",
+      "author": "theo",
+      "text": "Huge T3 Code release just dropped. Over 380 changes. Quick highlight reel of my favorites:\n\n- in-app PR reviews\n- `npx t3 triage` to debug and fix issues with T3 Code\n- `npx t3 connect` support on Mac (run 1 command to make a Mac into a remote dev machine)\n- 93.8%+ performance im",
+      "likes": 817,
+      "views": 0,
+      "url": "https://x.com/i/status/2092455706582499815",
+      "is_kol": false,
+      "score": 2486.0
+    },
+    {
+      "id": "2092500605348765769",
+      "author": "poteto",
+      "text": "i think to build mastery in anything you need to put in the hours and do something a thousand times. there's no substitute for that. if you build a compiler 1000 times, you will definitely learn something.\n\nthe question i think, is whether that mastery in understanding the code s",
+      "likes": 224,
+      "views": 0,
+      "url": "https://x.com/i/status/2092500605348765769",
+      "is_kol": false,
+      "score": 787.0
+    },
+    {
+      "id": "2092501059147358436",
+      "author": "chenchengpro",
+      "text": "5 个最近讨论比较多的 skill：\n\n1/ eli5\nhttps://t.co/SlzpHhSiwc\n\n2/ show-me\nhttps://t.co/KHSJjetZWw\n\n3/ skill-doctor\nhttps://t.co/56hWhwHoV1\n\n4/ retro\nhttps://t.co/uFiRBivwHM\n\n5/ unslop\nhttps://t.co/CIlou9KzPQ",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2092501059147358436",
+      "is_kol": false,
+      "score": 657.0
+    },
+    {
+      "id": "2092328615153488336",
+      "author": "HermesWatcher",
+      "text": "This is a ridiculous integration drop for Hermes.\n\n44 new remote MCPs just landed in main, including Canva, Dropbox, GitLab, ClickUp, and Cloudflare.\n\nFull list below 👇\n\nBut the number is only part of what makes this interesting.\n\nHermes can now plug into a much bigger chunk of t",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2092328615153488336",
+      "is_kol": false,
+      "score": 590.0
+    },
+    {
+      "id": "2092413842747998464",
+      "author": "trythreews",
+      "text": "We just hit 100 stars on https://t.co/RTUVeYlv9W GitHub repo. 1222 stars between all of our https://t.co/RTUVeYlv9W adjacent repos.\n\nThank you to everyone who starred, forked, opened an issue, or shipped a PR. Everything https://t.co/RTUVeYlv9W ships is open source, and here is w",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2092413842747998464",
+      "is_kol": false,
+      "score": 505.0
+    },
+    {
+      "id": "2092316763019002150",
+      "author": "Solvaix",
+      "text": "A three-story office build. The MEP coordination model behind it cost around $8,000 and caught 40 clashes before construction started.\n\nKimi K3 can already read a model like this through Revit's official MCP: flag clashes, cross-check disciplines, nothing more, the server stays r",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2092316763019002150",
+      "is_kol": false,
+      "score": 440.0
+    },
+    {
+      "id": "2092319145539039396",
+      "author": "techyoutbe",
+      "text": "MCP is becoming the USB-C of AI—but how does it actually work?\n\nThese 4 visual guides break down:\n→ What MCP solves\n→ Lifecycle &amp; transports\n→ Tools, resources &amp; prompts\n→ Host, client &amp; server architecture\n→ Security &amp; discovery\n\nSave this one. https://t.co/oBtxS",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2092319145539039396",
+      "is_kol": false,
+      "score": 426.0
+    },
+    {
+      "id": "2092370405168414951",
+      "author": "ashpreetbedi",
+      "text": "There is a popular twitterpinion going around that companies should stop building agents and only expose MCPs/CLIs. I agree the old way of clicking through a UI is going away but this take is short sighted and misses nuance.\n\nIt is almost impossible to expose the full strength of",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2092370405168414951",
+      "is_kol": false,
+      "score": 397.0
+    },
+    {
+      "id": "2092306512203206969",
+      "author": "BharukaShraddha",
+      "text": "AI engineering is no longer just about knowing how to use an LLM.\n\nThe model is only one piece of the system.\n\nOnce you start building AI applications that actually need to work in production, the stack gets much bigger:\n\n→ LLMs for reasoning and generation\n→ RAG for grounding re",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2092306512203206969",
+      "is_kol": false,
+      "score": 326.0
+    },
+    {
+      "id": "2092451757234471051",
+      "author": "Zenith_coder",
+      "text": "🎯 𝗧𝗛𝗘 𝗔𝗜 𝗘𝗖𝗢𝗦𝗬𝗦𝗧𝗘𝗠 𝗠𝗔𝗣 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗜𝗡 𝟮𝟬𝟮𝟲\n\nStill using AI like it’s just ChatGPT?\nYou’re barely scratching the surface. 👀\n\nThe AI ecosystem now spans LLMs, agents, RAG, MCP, automation, vector databases, security, memory, and much more.\n\nThe real skill isn’t knowing every tool.\n\n👉 ",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2092451757234471051",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2092449789204185506",
+      "author": "ajitcodes",
+      "text": "Google just released a free 1-hour AI engineering course.\n\nHow to build agents in 2026:\n\n00:00 - Context engineering\n10:00 - Building AI agents\n31:52 - Agentic loops\n43:22 - Building an MCP server\n51:20 - Prompt engineering\n59:10 - The future of AI development\n\nMost people learn ",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2092449789204185506",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2092477142151876888",
+      "author": "rubenhassid",
+      "text": "Everyone teaching Claude \"tips\" is a year behind. \nFolders? Dead. MD file? Dead. Global instructions? Empty. Here's what (actually) works in 2026:\n\nEverything on the image + 146 more Claude tips: https://t.co/dR6q4TRKHV\n\n(go to the link first, then read this)\n\n✦ The Claude model ",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2092477142151876888",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2092530911611101350",
+      "author": "zarazhangrui",
+      "text": "The gap between a 10x AI user and a mediocre one comes down to two abilities:\n\n1. Domain expertise. You know what a great result looks like because you've done the work for years. This is your ceiling, and it becomes the agent's ceiling\n2. Translation. You can pass your taste and",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2092530911611101350",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2092471639774761129",
+      "author": "AiwithDharmik",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and bookmark it now https://t.co/HqRe8CY700",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2092471639774761129",
+      "is_kol": false,
+      "score": 260.0
+    },
+    {
+      "id": "2092468612883956009",
+      "author": "KinGao476942",
+      "text": "一个 SKILL，让你的 Agent 从此永久学会「下载视频号」！微信视频号，大概是全网最难下载的视频平台。 \n但今天，我把整套流程做成了一个 Agent Skill，完全开源、永久免费 👇从此，把链接丢给你的 AI Agent，几秒后无水印 MP4 直接出现在你的微信/飞书里，适配 Claude Code / Codex / Cursor 等所有 Agent，欢迎大家转发和 star，开源链接： https://t.co/f5DsixrGwL\n\n操作步骤：\n1️⃣ 把 github 链接发给你的 AI Agent（Claude Code / Codex",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2092468612883956009",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2092433892804588010",
+      "author": "zw2867759575009",
+      "text": "TermiX 是一个被称为“智能体商业层”的协议层项目，其核心规范为 AACP 。\n\n该项目试图解决一个实际存在的问题：当前 AI 智能体已具备编写代码、执行交易、进行研究或设计等能力，但智能体之间在“雇佣、交付、验证、结算”这一完整链条上仍需要人工介入，无法实现完全自主的安全协作。\n\n@termix_ai  提供的是一套链上清算与结算基础设施，使智能体能够作为独立经济主体参与市场活动。\n\n其具体功能包括：通过 ERC-8004 标准铸造链上 .agent 身份，发布服务或任务，进行报价、接单、交付，并通过 ERC-8183 链上托管机制实现自动结算，同",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2092433892804588010",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2092519995331022876",
+      "author": "AamirAnsar94694",
+      "text": "AI is no longer just about choosing the right LLM.\n\nThe real advantage comes from understanding the entire AI ecosystem.\n\nFrom models to agents.\nFrom RAG to memory.\nFrom MCP to automation.\nFrom security to observability.\n\nThis ecosystem map gives you a clear picture of the modern",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2092519995331022876",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2092521956835025059",
+      "author": "aizen76",
+      "text": "UEのLLMとMCP連携が思っていた以上に奥が深そうなので、5.9が出る前にもっとみておかないと。あとUE用スキルをCalude Codeで生成できるEpic公式の公式プラグインがあったんですね。 #UEDevdaysTokyo\n\nhttps://t.co/0UTmJsxMmD",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2092521956835025059",
+      "is_kol": false,
+      "score": 170.0
+    }
+  ]
+}
