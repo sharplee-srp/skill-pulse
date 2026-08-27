@@ -1,0 +1,533 @@
+{
+  "date": "2026-08-27",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 16,
+    "unique_repos": 16,
+    "new_repos": 12,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "agent-clinic/claude-md-doctor",
+      "github_url": "https://github.com/agent-clinic/claude-md-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trisgwync",
+        "text": "Introducing Claude.md doctor\n\nAn agent skill that examines your CLAUDE.md / AGENTS.md, grades it and tells you how to FIX it\n\nIt even backtests your sessions to find the flaws that you can't tell just from the file\n\nFree and open-source. Try it today with just 1 command:\nnpx skil",
+        "likes": 5,
+        "url": "https://x.com/i/status/2093059414999855176"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093059414999855176"
+      ]
+    },
+    {
+      "repo": "raintree-technology/hig-doctor",
+      "github_url": "https://github.com/raintree-technology/hig-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zacharyr0th",
+        "text": "HIG Doctor now has 117 GitHub stars\n\nit includes 431 audit rules across 14 frameworks and 14 Apple HIG skills covering 156 topics\n\nfind reviewable interface issues and get platform-specific guidance.\n\nnpx skills add raintree-technology/hig-doctor\n\nhttps://t.co/wehthT4B9e https://",
+        "likes": 4,
+        "url": "https://x.com/i/status/2093060869261541789"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093060869261541789"
+      ]
+    },
+    {
+      "repo": "kentcdodds/kcd-skills",
+      "github_url": "https://github.com/kentcdodds/kcd-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kentcdodds",
+        "text": "@_overment shipped in: https://t.co/CfgLcXi1IO\n\nnpx skills add kentcdodds/kcd-skills --skill ask-kent",
+        "likes": 4,
+        "url": "https://x.com/i/status/2093031319492301250"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093031319492301250"
+      ]
+    },
+    {
+      "repo": "soderlind/skills",
+      "github_url": "https://github.com/soderlind/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "soderlind",
+        "text": "8/\nFewer round-trips, published faster. Free, MIT.\n\nnpx skills add soderlind/skills --skill wp-org-review -g\n\nhttps://t.co/k7VOqOgThK\n\n#WordPress #WPPlugins #WordPressDev",
+        "likes": 4,
+        "url": "https://x.com/i/status/2093008499017990645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093008499017990645"
+      ]
+    },
+    {
+      "repo": "sentdm/sent-plugin",
+      "github_url": "https://github.com/sentdm/sent-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sentdm",
+        "text": "nobody should have to learn 10DLC\n\nnpx skills add sentdm/sent-plugin --skill sms-10dlc-registration",
+        "likes": 2,
+        "url": "https://x.com/i/status/2093024762427535644"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093024762427535644"
+      ]
+    },
+    {
+      "repo": "leonvanzyl/skills",
+      "github_url": "https://github.com/leonvanzyl/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leonvz",
+        "text": "I took 20 years of full stack dev experience and created agent skills that will create production ready, scalable and secure apps from the get-go.\n\n3 Skills:\n- start-an-app\n- review-an-app\n- deploy-an-app\n\nInstall using 'npx skills add leonvanzyl/skills'\n\nhttps://t.co/u12NOU0Ylc",
+        "likes": 2,
+        "url": "https://x.com/i/status/2092988758492582249"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092988758492582249"
+      ]
+    },
+    {
+      "repo": "imsingee/aidy-models",
+      "github_url": "https://github.com/imsingee/aidy-models",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imsingee",
+        "text": "@Yayoi_no_yume 然后这个库也带了一个粗糙的 skill …… 为啥说粗糙呢，因为我懒得专门搭一个 query API，所以这个 skill 说的就是把整个库（一个巨大的 JSON）下载下来然后自己查\n\nnpx skills add ImSingee/aidy-models",
+        "likes": 1,
+        "url": "https://x.com/i/status/2092972379278561305"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092972379278561305"
+      ]
+    },
+    {
+      "repo": "anhao/jingtian-style",
+      "github_url": "https://github.com/anhao/jingtian-style",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lovecosll",
+        "text": "jingtian-style · 景甜体\n\nnpx skills add anhao/jingtian-style -g -y\n\n装好后对 Agent 说「改成景甜体」。\n\n十六条手法 + 标本原句的手法标注版 + 量化自检表（每 80–120 字一个可核对的数目，「我说好」约每 500 字一次，没有立刻说好——恰好一次）。\n\n只借方法，不借情节。MIT。\n\nhttps://t.co/0cQ0cCK0p0",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093046357628178819"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093046357628178819"
+      ]
+    },
+    {
+      "repo": "bhaumikmistry/pankti",
+      "github_url": "https://github.com/bhaumikmistry/pankti",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bhaumikk9",
+        "text": "Do you like to post quotes on https://t.co/MVjXGMBq3M? what if claude made it easy for you to create those? try\n\nnpx skills add bhaumikmistry/pankti\n\na link like https://t.co/thezHathcZ solves your problem. https://t.co/7sFUXXS2GZ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092986492369133727"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092986492369133727"
+      ]
+    },
+    {
+      "repo": "goodrahstar/evenhub-g2-skill",
+      "github_url": "https://github.com/goodrahstar/evenhub-g2-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rahulbuildsmore",
+        "text": "Plus the gesture budget, VAD tuning, and the store-review triggers that got me rejected twice.\n\nFree &amp; open source 👇\n\nnpx skills add goodrahstar/evenhub-g2-skill  →\n\nhttps://t.co/NJs5CYBpHQ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092930505096237239"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092930505096237239"
+      ]
+    },
+    {
+      "repo": "escoffier-labs/brigade",
+      "github_url": "https://github.com/escoffier-labs/brigade",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "solomonneas",
+        "text": "Here is how brigade runs an mcp server to use grokbot as a \"subagent\". Brigade has a fleet hub in a small lxc container that keeps track of active sessions on all my machines and cloud agents so I've just utilized this to make use of the extra sub usage.\n\nhttps://t.co/ygmOhn5kCH\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093062748817023476"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093062748817023476"
+      ]
+    },
+    {
+      "repo": "memtensor/memmy-agent",
+      "github_url": "https://github.com/memtensor/memmy-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "naralab_th",
+        "text": "ตัวนี้ผมขออวยแรง ๆ\n\nทีม GitHub หมื่นดาวอย่าง MemOS\nที่เป็น memory layer ให้กับ DeepSeek Harness, Hermes, OpenClaw และ Agent อื่น ๆ\nเพิ่งเปิดซอร์สโปรเจกต์ใหม่ชื่อ Memmy\nและผมรู้สึกว่า\nนี่อาจเป็นหนึ่งในโครงสร้างพื้นฐาน AI แบบ local ที่ควรติดตั้งที่สุดของปีนี้\nเพราะมันแก้ปัญหาที่ผมท",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092885742011994458"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092885742011994458"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 1139.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 238,
+      "total_retweets": 65,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Orion_Vers7x",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/tlPAOvR43k\n\n2. public-apis — free APIs for everything\n→ https://t.co/Dz17qJZ16p…\n\n3. build-your-own-x — learn by building\n→ https://t.co/EReB9gjUs0…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 238,
+        "url": "https://x.com/i/status/2092604375944618388"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092604375944618388"
+      ]
+    },
+    {
+      "repo": "conorbronsdon/avoid-ai-writing",
+      "github_url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "tier": 3,
+      "is_new": false,
+      "score": 137.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akaclandestine",
+        "text": "GitHub - conorbronsdon/avoid-ai-writing: Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. · GitHub https://t.co/5XuVOWA2nq",
+        "likes": 9,
+        "url": "https://x.com/i/status/2092976613004603444"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092976613004603444"
+      ]
+    },
+    {
+      "repo": "inkboard/system-atlas",
+      "github_url": "https://github.com/inkboard/system-atlas",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gitgoats",
+        "text": "Useful when a Miro or Lucidchart diagram keeps drifting away from the architecture notes.\n\nThe example built on Windows with Node.js and produced one self-contained HTML file.\n\nRepo: https://t.co/SBmvMqzaKt\nInstall: npx skills add inkboard/system-atlas https://t.co/dHhijR26EO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093030019140612485"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093030019140612485"
+      ]
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "github_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "reddavi59952376",
+        "text": "分享一个非常强悍的的 图片生成skill——awesome-gpt-image-2 ，工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills。\n\n这是专门把模仿参考图片翻译成 AI提示词的skill，可以直接让自己本地电脑上的AI来装就可以了，安装地址：https://t.co/s2VtA6RbSs\n\n让AI直接模仿参考图片是很难的，但是用这个skill工具，就简单和准确很多。\n\nawesome-gpt-image-2 的核心，是把提示词拆成原子化的组件——\n\nsubject（主体）\n\nlighting（光影）\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2092972963327029582"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2092972963327029582"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2093024115620004154",
+      "author": "cb_doge",
+      "text": "BREAKING: SpaceXAI has released a new and improved update for Grok Build.\n\nv1.0.12 — 2026-08-27\n\nPerformance:\n• Worktree creation is faster by skipping stale reflog copies.\n\nBug Fixes:\n• Copying wrapped table cells no longer inserts unwanted spaces at line breaks.\n• MCP server co",
+      "likes": 369,
+      "views": 0,
+      "url": "https://x.com/i/status/2093024115620004154",
+      "is_kol": false,
+      "score": 1417.0
+    },
+    {
+      "id": "2092936681012047914",
+      "author": "franpradasAI",
+      "text": "👋 ADIÓS CAPCUT\n👋 ADIÓS MARCAS DE AGUA\n\nHan creado un Capcut GRATIS.\n\nY tiene +87K estrellas en Github.\n\nSe llama OpenCut y contiene:\n\n→ Editor con línea de tiempo y multipista.\n→ Sistema de plugins para ampliar funciones.\n→ Una sola app para web, escritorio y móvil.\n→ Núcleo cons",
+      "likes": 355,
+      "views": 0,
+      "url": "https://x.com/i/status/2092936681012047914",
+      "is_kol": false,
+      "score": 1390.0
+    },
+    {
+      "id": "2092973180306833697",
+      "author": "arpit_bhayani",
+      "text": "One anti-pattern I keep seeing: mapping MCP tools 1:1 onto a REST API.\n\nTake a typical user API - createUser, updateUser, getUser, listUsers, deleteUser, getUserPermissions, setUserPermissions. If you map that directly onto MCP tools, you get seven entries in the model's context ",
+      "likes": 386,
+      "views": 0,
+      "url": "https://x.com/i/status/2092973180306833697",
+      "is_kol": false,
+      "score": 1193.0
+    },
+    {
+      "id": "2092952771150680387",
+      "author": "Voxyz_ai",
+      "text": "Codex can now read skills directly from MCP servers.\n\nThe tools and the instructions that go with them can now live on the same MCP server. Teams no longer have to install the same skill on every machine and maintain each copy separately.\n\nBefore, teams had to copy SKILL.md to ev",
+      "likes": 351,
+      "views": 0,
+      "url": "https://x.com/i/status/2092952771150680387",
+      "is_kol": false,
+      "score": 1118.0
+    },
+    {
+      "id": "2092774093263098071",
+      "author": "AYi_AInotes",
+      "text": "给 DeepSeek Harness、Hermes、OpenClaw 等Agent做记忆底座的那个 GitHub 万星团队（MemOS）\n刚开源的这个新项目，我真的要吹爆，\n可能是今年最值得装的本地 AI 基础设施之一了，\n\n它解决了一个我使用AI Agent 忍了大半年的痛点问题：\n换一个 AI 工具就要重新解释一遍项目背景、技术选型、踩过的坑。\n\n每天在 Cursor、Claude Code 和 Codex 之间来回切的人，应该都懂那种吃了苍蝇一样的恶心感，\n\n换个工具就等于给AI重新做一遍入职培训， \n项目背景、踩过的坑、做过的重要决策全部要跟它从",
+      "likes": 260,
+      "views": 0,
+      "url": "https://x.com/i/status/2092774093263098071",
+      "is_kol": false,
+      "score": 965.0
+    },
+    {
+      "id": "2093003978833277344",
+      "author": "mxstbr",
+      "text": "there's a nascent trend of hiding MCP tools behind two generic tools: search & execute.\n\ni don't think it's a good default. this basically means implementing tool search & code mode on each MCP server.\n\nbut clients like codex already have tool search & code mode that a/ work acro",
+      "likes": 176,
+      "views": 0,
+      "url": "https://x.com/i/status/2093003978833277344",
+      "is_kol": false,
+      "score": 563.0
+    },
+    {
+      "id": "2092870854136782974",
+      "author": "SubwayBossING07",
+      "text": "THIS IS AWESOME\n\nLeda is our next free story unit!!\n\nshe’s gonna be a Bow Flier (eagle) with a summon Shadow Claw magic skill! \n\nshe’s gonna release right alongside Fortune’s Weave, and she’s bringing a new Betrayal theme with her! https://t.co/97a28opL9g",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2092870854136782974",
+      "is_kol": false,
+      "score": 558.0
+    },
+    {
+      "id": "2093053059580760305",
+      "author": "UnrealEngine",
+      "text": "City Sample just got a major update🏙️\n\nThe new level was built entirely in Unreal Engine, using PCG for procedural world-building, with assistance from an LLM through the new Unreal MCP server.\n\nFully editable. No black boxes: https://t.co/ZbYK33aQf1 https://t.co/S268aBgRwr",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2093053059580760305",
+      "is_kol": false,
+      "score": 524.0
+    },
+    {
+      "id": "2092969203343204660",
+      "author": "jinchenma_ai",
+      "text": "屌爆了！开源一个能一句话批量无痛导出抖音视频逐字稿的 Skill！",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2092969203343204660",
+      "is_kol": false,
+      "score": 497.0
+    },
+    {
+      "id": "2092776334426841332",
+      "author": "destinydou_",
+      "text": "one of the more important @termix_ai updates is easy to miss because it doesn’t look like a marketplace feature.\n\nTermiX is packaging AACP workflows as installable agent skills for environments like Claude Code, Cursor and OpenClaw. the public skill repo covers registration, prov",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2092776334426841332",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2092937808793280615",
+      "author": "grgerwcwetwet",
+      "text": "逆向工程也开始进入 AI Agent 时代了。\n\nx64dbg 很多人都知道，Windows 平台经典的开源调试/逆向工具。\n\n现在有人给它做了个 x64dbg MCP Server，可以把调试能力直接开放给 Claude Code、Codex 这类 Agent，让 AI 调用 x64dbg 辅助分析程序、下断点、读内存和执行调试操作。\n\n以前得自己盯着汇编一点点啃，现在连逆向都开始 Agent 化了。\n\nx64dbg：https://t.co/VYfZnwLyDB\nGitHub：https://t.co/PW0T8PnZRj",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2092937808793280615",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2093027672670588972",
+      "author": "XFreeze",
+      "text": "Grok Build just got way more precise with accurate token and context tracking, smarter background-task handling, automatic MCP recovery, and faster worktree creation make the entire agent loop more dependable\n\nRelease Notes: v1.0.12\n\nBug Fixes:\n• Copying wrapped table cells no lo",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2093027672670588972",
+      "is_kol": false,
+      "score": 312.0
+    },
+    {
+      "id": "2093012602293194981",
+      "author": "rpl_0x",
+      "text": "Mega fajny kurs do nauki wszystkiego związanego z AI za darmo.\n\nPełny interaktywny kurs, na stronie lub na własnym repo, ebooku za darmo, kod, quizy - jak ktoś lubie się uczyć w tak uporządkowany sposób to możliwe że najlepszy kurs nie-video\n\naiengineeringfromscratch . com\n\nlub n",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2093012602293194981",
+      "is_kol": false,
+      "score": 301.0
+    },
+    {
+      "id": "2092994294282060147",
+      "author": "RoundtableSpace",
+      "text": "UI UX Pro Max gives Claude Code and Cursor design intelligence — 79 searchable styles, 95 color palettes, 56 font pairings, 192 reasoning rules.\n\n120k stars. 91k downloads a month. The design layer your AI coder was missing.\n\nGithub Repo: https://t.co/fZ3F9IKPq5 https://t.co/zLXe",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2092994294282060147",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2093012409841774782",
+      "author": "praveenTweets",
+      "text": "Since I previously shared how we are scaling AI usage so quickly without costs rising at the same rate, there’s been a lot of interest in the engineering details.\n\nSo I asked the team to open up the hood and share what we’ve learned.\n\nOne thing we’ve always been very good at @Ube",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2093012409841774782",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2093005273128649077",
+      "author": "AiEvolutio58513",
+      "text": "Elon Musk was asked how fast AI is moving...\n\nHe answered by telling the most aggressive forecaster in tech he wasn't aggressive enough.\n\nMusk: \"I have to give credit to Ray Kurzweil in being actually remarkably accurate in his predictions. If anything, I think he was perhaps a b",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2093005273128649077",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2093020371414856129",
+      "author": "Bency1749379",
+      "text": "Was up late looking through the new @termix_ai skill file and the install process is surprisingly simple.\n\npoint Codex, Claude Code or another agent to the .skill file and it can connect to paid onchain work through AACP, including identity, bidding, escrow and settlement.\n\nthat’",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2093020371414856129",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2092941491492769864",
+      "author": "cxjwin",
+      "text": "今天实习生答辩，听完我有点绷不住了。\n\n好家伙，每个人手里都攒了 5、6 个做需求的 Skill，而且功能还高度重复。\n\n一个需求核心代码可能就 20 行，需求分析 Skill 跑一遍、方案 Skill 跑一遍、开发 Skill 跑一遍、Review Skill 再跑一遍……\n\n工作流一套丝滑连招下来，几十刀 Token 没了，最后产出 20 行代码。\n\n我问：“那你怎么确定 AI 改的是对的？”\n\n实习生：“再让 AI 解释一下它为什么这么改。”\n\n😓\n\n突然感觉 AI Coding 最大的降本增效，不是少写了多少代码，而是成功把 20 行代码包装成了",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2092941491492769864",
+      "is_kol": false,
+      "score": 222.0
+    }
+  ]
+}

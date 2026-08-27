@@ -6334,5 +6334,53 @@
   "qodo-ai/qodo-skills": {
     "first_seen": "2026-08-26",
     "tier": 3
+  },
+  "agent-clinic/claude-md-doctor": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "raintree-technology/hig-doctor": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "kentcdodds/kcd-skills": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "soderlind/skills": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "sentdm/sent-plugin": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "leonvanzyl/skills": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "imsingee/aidy-models": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "anhao/jingtian-style": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "bhaumikmistry/pankti": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "goodrahstar/evenhub-g2-skill": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "escoffier-labs/brigade": {
+    "first_seen": "2026-08-27",
+    "tier": 3
+  },
+  "memtensor/memmy-agent": {
+    "first_seen": "2026-08-27",
+    "tier": 3
   }
 }
