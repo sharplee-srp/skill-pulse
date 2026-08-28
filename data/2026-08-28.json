@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-28",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 16,
+    "unique_repos": 15,
+    "new_repos": 9,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "kacperkapusciak/goldie",
+      "github_url": "https://github.com/kacperkapusciak/goldie",
+      "tier": 2,
+      "is_new": true,
+      "score": 2670.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 765,
+      "total_retweets": 55,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kacperkapusciak",
+        "text": "Introducing Goldie: App Store screenshot generator for coding agents (and humans) ✨\n\n~ / npx skills add kacperkapusciak/goldie https://t.co/hf7wQFkqrA",
+        "likes": 765,
+        "url": "https://x.com/i/status/2093336077964554471"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093336077964554471"
+      ]
+    },
+    {
+      "repo": "oynozan/clean-comment-lines",
+      "github_url": "https://github.com/oynozan/clean-comment-lines",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OzanAndac_",
+        "text": "Before / After\n\nnpx skills add oynozan/clean-comment-lines https://t.co/TZu4jaev2r",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093336181438116209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093336181438116209",
+        "https://x.com/i/status/2093335543677423967"
+      ]
+    },
+    {
+      "repo": "braintrustdata/eval-library",
+      "github_url": "https://github.com/braintrustdata/eval-library",
+      "tier": 3,
+      "is_new": true,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "braintrust",
+        "text": "The Braintrust eval library has a repo of skills your coding agent can read, so you can easily build and run evals on your data.\n\nHere's an example of using a skill in Claude Code to compare the Codex CLI and Pi, both running GPT-5.6 Sol, on a 30-task stratified SWE-bench Verifie",
+        "likes": 9,
+        "url": "https://x.com/i/status/2093418239116079580"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093418239116079580"
+      ]
+    },
+    {
+      "repo": "vercel-labs/vgpu",
+      "github_url": "https://github.com/vercel-labs/vgpu",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rege_dev",
+        "text": "WebGPU library for Agents ✨\n\nnpx skills add vercel-labs/vgpu https://t.co/59q8fIuBHL",
+        "likes": 5,
+        "url": "https://x.com/i/status/2093315634516156524"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093315634516156524"
+      ]
+    },
+    {
+      "repo": "2389-research/review-squad",
+      "github_url": "https://github.com/2389-research/review-squad",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "harper",
+        "text": "You can install it here: \n\nnpx skills add 2389-research/review-squad\n\ndylan wrote up the whole thing: https://t.co/YUwFssWx4g",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093430840139170179"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093430840139170179"
+      ]
+    },
+    {
+      "repo": "notrab/geordie-writer",
+      "github_url": "https://github.com/notrab/geordie-writer",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "notrab",
+        "text": "Not from Newcastle? \n\nDon't worry, you can learn to write like a Geordie! 🤣\n\n`npx skills add notrab/geordie-writer`\n\nhttps://t.co/W1EffsMqzX https://t.co/9w6sqFbHPc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093386461961662579"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093386461961662579"
+      ]
+    },
+    {
+      "repo": "gnyani/dont-assume",
+      "github_url": "https://github.com/gnyani/dont-assume",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gnyani7",
+        "text": "I got fed up with LLMs assuming things and gaslighting me.\n\nSo I built dont-assume.\n\nMissing context? Ask.\nAmbiguous request? Ask.\nDon’t just confidently make shit up.\n\nnpx skills add gnyani/dont-assume -g\n\nOpen source 👇",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093328016730382771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093328016730382771"
+      ]
+    },
+    {
+      "repo": "cyog941/gauntlet-mini",
+      "github_url": "https://github.com/cyog941/gauntlet-mini",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SantiVid",
+        "text": "Works on Claude Code, Codex, and Gemini CLI. Portable version for anything else.\n\nOne command:\nnpx skills add cyog941/gauntlet-mini\n\nMIT licensed. Star it if it's useful:\nhttps://t.co/bIAAmhYVsd",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093317220667441383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093317220667441383"
+      ]
+    },
+    {
+      "repo": "pgrundev/pgbot",
+      "github_url": "https://github.com/pgrundev/pgbot",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thedoomguy_ai",
+        "text": "O skill funciona também no Cursor e no Codex. Instalação global: npx skills add pgrundev/pgbot -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093307741007692107"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093307741007692107"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "public-apis/public-apis",
+      "github_url": "https://github.com/public-apis/public-apis",
+      "tier": 2,
+      "is_new": false,
+      "score": 1056.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 232,
+      "total_retweets": 52,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_AM_AYASHA",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/0HpB11QOOR\n\n2. public-apis — free APIs for everything\n→ https://t.co/P7Y21Bxszm\n\n3. build-your-own-x — learn by building\n→ https://t.co/hzcnO6HFxm\n\n4. developer-roadmap — learn any tech skill\n→ https://t.c",
+        "likes": 232,
+        "url": "https://x.com/i/status/2093137350243291410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093137350243291410"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 238.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "reiraxbt",
+        "text": "I gave Claude the keys to an entire company\n\n7 departments\n120+ installable skills\n1 Claude instance\n0 employees\n\nEvery department has a real operating stack\n\nEvery tool can be installed from the links below\n\nDevelopers\n\nSuperpowers\n→ https://t.co/c7Wb6Y8g0v\n\nContext7\n→ https://t",
+        "likes": 41,
+        "url": "https://x.com/i/status/2093368020865364068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093368020865364068"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 194.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KanikaBK",
+        "text": "STOP Coding Normally: Instead use These 7 GitHub Repos make your AI coding agent 10x better.\n\nAll 100% FREE.\n\n1. Anthropic's implementation of skills for Claude https://t.co/TQrc59B0nh\n\n2. An agentic skills framework & software development methodology that works. https://t.co/e0U",
+        "likes": 23,
+        "url": "https://x.com/i/status/2093352993903296522"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093352993903296522"
+      ]
+    },
+    {
+      "repo": "raintree-technology/hig-doctor",
+      "github_url": "https://github.com/raintree-technology/hig-doctor",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zacharyr0th",
+        "text": "npx skills add raintree-technology/hig-doctor https://t.co/SLExJCKcjI",
+        "likes": 3,
+        "url": "https://x.com/i/status/2093391105509482738"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093391105509482738"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Delroy715",
+        "text": "演示官网：https://t.co/RnSePNQskV\n\n仓库：https://t.co/jJruRSuJkJ\n\n安装：npx skills add tt-a1i/archify -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093361674615226568"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093361674615226568"
+      ]
+    },
+    {
+      "repo": "kostja94/marketing-skills",
+      "github_url": "https://github.com/kostja94/marketing-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Gas1688",
+        "text": "发现想让AI编程助手帮你搞SEO和内容营销，结果给的建议全是正确的废话，没有一步能落地的？\n\nMarketing Skills 直接把160多个营销领域的Skill文件整理好了，装进Codex或Claude Code就能开干。\n\n覆盖SEO、内容策略、付费投放、着陆页生成、冷启动九大类，每个Skill都给你写好了完整执行步骤，不是那种泛泛而谈的空话。\n\nGitHub：https://t.co/0861nYVhm1\n\n配合项目上下文文件一起用，生成的内容直指你的产品本身，跟通用套话彻底划清界限。\n\n独立开发者和小团队最合适——暂时不打算招营销岗位，让AI替",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093432179166425568"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093432179166425568"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2093361425238397392",
+      "author": "PiCoreTeam",
+      "text": "OpenClaw and the Atlassian MCP Server are now featured in SoloHost on Pi Desktop, expanding the range of self-hosted tools users can run locally. \n\nOpenClaw offers a more contained local AI setup with streamlined installation, while the Atlassian MCP Server supports AI-integrated",
+      "likes": 2660,
+      "views": 0,
+      "url": "https://x.com/i/status/2093361425238397392",
+      "is_kol": false,
+      "score": 11050.0
+    },
+    {
+      "id": "2093364108426883166",
+      "author": "BSCNews",
+      "text": "Pi Network Expands SoloHost Ecosystem With AI And Developer Tools\n\n@PiCoreTeam officially integrates OpenClaw and the Atlassian MCP Server into the SoloHost framework on Pi Desktop. \n\nOpenClaw gives Pioneers a local AI environment, while the Atlassian MCP Server provides AI-power",
+      "likes": 387,
+      "views": 0,
+      "url": "https://x.com/i/status/2093364108426883166",
+      "is_kol": false,
+      "score": 1411.0
+    },
+    {
+      "id": "2093414407196012990",
+      "author": "poteto",
+      "text": "if you're new to using pstack, don't forget to run /create-verification-skill! it creates a high quality verification skill for your apps, which is the most important part of creating an agent loop you can trust. \n\nyou can also get grok @bot or a cursor automation to run /maintai",
+      "likes": 374,
+      "views": 0,
+      "url": "https://x.com/i/status/2093414407196012990",
+      "is_kol": false,
+      "score": 1197.0
+    },
+    {
+      "id": "2093330259227918657",
+      "author": "RishiUvaach",
+      "text": "Most people are still asking:\n\nOpus or Sonnet?\n\nThat may already be the wrong question.\n\nClaude is starting to look less like an AI model and more like an AI operating layer.\n\nThe models are only one part of it.\n\nAround them, Anthropic is building the pieces required to move AI f",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2093330259227918657",
+      "is_kol": false,
+      "score": 569.0
+    },
+    {
+      "id": "2093330885374267710",
+      "author": "anderson_ninna",
+      "text": "🚨 BREAKING: PI NETWORK’S LATEST APP HOMEPAGE UPDATE IS BIGGER THAN IT LOOKS 😁💞\n\nPi Network has just highlighted a major new update:\n\nSoloHost is bringing AI and self-hosted applications to Pi Desktop.\n\nBut what does that actually mean?\n\nLet’s make it simple 👇\n\nThink of a Pi Node ",
+      "likes": 124,
+      "views": 0,
+      "url": "https://x.com/i/status/2093330885374267710",
+      "is_kol": false,
+      "score": 482.0
+    },
+    {
+      "id": "2093269859853300155",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft Azure Agentic AI stack\n\nThis is what enterprise AI agents actually need.\n\nNot just an LLM.\nNot just RAG.\nNot just a few tool calls.\n\nA production-ready agent needs an entire system around the model.\n\nHere is how the Microsoft Azure Agentic AI stack comes together:\n\n→ Ch",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2093269859853300155",
+      "is_kol": false,
+      "score": 473.0
+    },
+    {
+      "id": "2093351681618759755",
+      "author": "tonbistudio",
+      "text": "Today’s video is part one of a new series where I am building a @Shopify business from zero using AI coding tools and Hermes agents\n\nI’ll show every step along the way and be transparent with the successes and obstacles \n\nIn this video, I use grill-with-docs by @mattpocockuk to t",
+      "likes": 125,
+      "views": 0,
+      "url": "https://x.com/i/status/2093351681618759755",
+      "is_kol": false,
+      "score": 415.0
+    },
+    {
+      "id": "2093324497952588139",
+      "author": "undefinedKi",
+      "text": "Meta's analytics team built a second brain for one person. It ended up on 63,000 machines. Here is how it works.\n\nFour parts, and you can copy all of them.\n\nThe folders. Tiago Forte's PARA method: Projects for active work, Areas for ongoing responsibilities, Resources for referen",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2093324497952588139",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2093367656539988019",
+      "author": "gzhwi3",
+      "text": "Bro, this isn’t an update — this is a nuclear-level drop！！！💥\nPi officially said it themselves: OpenClaw and the Atlassian MCP Server have officially landed in Pi Desktop’s SoloHost. In plain English: you can now run a more closed-off, cleaner AI locally on your own Pi node/deskto",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2093367656539988019",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2093403037888856222",
+      "author": "Eccentric1206",
+      "text": "I’ve rewritten the same post five times tonight before letting it go out.\n\nNot because it was wrong.\n\nBecause it didn’t feel finished enough yet.\n\nThat instinct kills more good ideas than bad skill ever does.\n\nAgent Tank’s pre hackathon is built against that exact instinct.\n\nYou ",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2093403037888856222",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2093372514651222153",
+      "author": "DrChengdiaoFan",
+      "text": "🚀 NEW SOLOHOST APPS: OPENCLAW + ATLASSIAN MCP SERVER\n\nPi Desktop is expanding its self-hosted capabilities with two new featured apps in SoloHost: OpenClaw and the Atlassian MCP Server.\n\n🤖 OpenClaw — More Contained Local AI\n• Run a local AI agent directly on your computer\n• Suppo",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2093372514651222153",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2093379618359357844",
+      "author": "BrianRoemmele",
+      "text": "Anthropic is at it again.\n\nAnthropic wants you to clap for a research preview that puts language models on robot arms, liquid handlers, microscopes and quantum lasers. \n\nThey call it the Model Hardware Standard. Read the post twice. The pitch is integration time collapsing from w",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2093379618359357844",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2093339474294124912",
+      "author": "amr_nannaware",
+      "text": "What would you run on your Pi Node first? 👀\n\nSoloHost just added OpenClaw and Atlassian MCP Server. 🚀\n\nLocal AI. Developer tools. Your own infrastructure.\n\nPi Nodes may be becoming more than just nodes. 💜⚡\n\n👇 OpenClaw or Atlassian MCP? https://t.co/VcHv9NFB3o",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2093339474294124912",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2093372333155299777",
+      "author": "drnicolas_",
+      "text": "🚀 NEW SOLOHOST APPS: OPENCLAW + ATLASSIAN MCP SERVER\n\nPi Desktop is expanding its self-hosted capabilities with two new featured apps in SoloHost: OpenClaw and the Atlassian MCP Server.\n\n🤖 OpenClaw — More Contained Local AI\n• Run a local AI agent directly on your computer\n• Suppo",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2093372333155299777",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2093364869773111745",
+      "author": "amr_nannaware",
+      "text": "BREAKING: Two new SoloHost apps are now featured on Pi Desktop!\n\nOpenClaw – a more contained local AI setup with streamlined installation, and Atlassian MCP Server – a locally run connection for AI-integrated Jira workflows.\n\nThis is the expansion of SoloHost beyond blockchain in",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2093364869773111745",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2093277427262759008",
+      "author": "suraj_sharma14",
+      "text": "Stop collecting AI courses. Start shipping AI systems.\n\nHere is the only way to actually learn the top 8 AI skills in 2026:\n\n→ RAG \nDon't just build a chatbot. Build a Self-Correcting RAG pipeline with hybrid search, cross-encoder reranking and strict citation enforcement.\n\n→ AI ",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2093277427262759008",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2093342751047946491",
+      "author": "pinode_vietnam",
+      "text": "🚀 Pi Network đang mở rộng vai trò của Pi Node!\n\nSoloHost tiếp tục bổ sung các ứng dụng như OpenClaw và Atlassian MCP Server, biến Pi Desktop/Node thành môi trường có thể chạy Apps + AI + Computing.\n\nTừ Node → Computing → AI → Utilit\n#pinode #pinetwork",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2093342751047946491",
+      "is_kol": false,
+      "score": 212.0
+    }
+  ]
+}

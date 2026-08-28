@@ -6382,5 +6382,41 @@
   "memtensor/memmy-agent": {
     "first_seen": "2026-08-27",
     "tier": 3
+  },
+  "kacperkapusciak/goldie": {
+    "first_seen": "2026-08-28",
+    "tier": 2
+  },
+  "oynozan/clean-comment-lines": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "braintrustdata/eval-library": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "vercel-labs/vgpu": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "2389-research/review-squad": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "notrab/geordie-writer": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "gnyani/dont-assume": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "cyog941/gauntlet-mini": {
+    "first_seen": "2026-08-28",
+    "tier": 3
+  },
+  "pgrundev/pgbot": {
+    "first_seen": "2026-08-28",
+    "tier": 3
   }
 }
