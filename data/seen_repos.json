@@ -6418,5 +6418,45 @@
   "pgrundev/pgbot": {
     "first_seen": "2026-08-28",
     "tier": 3
+  },
+  "stealth-factory/skills": {
+    "first_seen": "2026-08-29",
+    "tier": 1
+  },
+  "duty1g/x64dbg-mcp-server": {
+    "first_seen": "2026-08-29",
+    "tier": 2
+  },
+  "rpmalouin/ai-research-assistant": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "sandroandric/agenthandover": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "qdrant/qdrant": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "vercel/ai": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "massimodeluisa/nerdfonts-skill": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "agentmarkup/agentmarkup": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "linearuncle/linearuncleskills": {
+    "first_seen": "2026-08-29",
+    "tier": 3
+  },
+  "anooplamba/skills": {
+    "first_seen": "2026-08-29",
+    "tier": 3
   }
 }

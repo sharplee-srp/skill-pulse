@@ -1,0 +1,560 @@
+{
+  "date": "2026-08-29",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 156,
+    "tweets_with_repos": 23,
+    "unique_repos": 18,
+    "new_repos": 10,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "stealth-factory/skills",
+      "github_url": "https://github.com/stealth-factory/skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 332.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wiiiimm",
+        "text": "Here is my new agent skill: a free DIY reimplementation of @Vercel's $150/mo Advanced Deployment Protection that also adds fully custom branding to the unlock page.\n\nhttps://t.co/BTfbRdsFu9\n\nAny framework, previews or prod, zero prod cost. Your AI agent wires it in:\n`npx skills a",
+        "likes": 4,
+        "url": "https://x.com/i/status/2093496424680046774"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093496662652244018",
+        "https://x.com/i/status/2093496424680046774",
+        "https://x.com/i/status/2093495404700880931"
+      ]
+    },
+    {
+      "repo": "duty1g/x64dbg-mcp-server",
+      "github_url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 551.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 112,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTCPS",
+        "text": "逆向工程这活儿，以前是硬骨头，现在也要被 AI Agent 接管了。\n\nx64dbg 老玩逆向的都熟，Windows 上经典的开源调试工具，白嫖还能自己写插件。\n\n关键是有人给它整了个 MCP Server，直接把调试能力甩给 Claude Code、Codex 这类 Agent。啥意思？\n\n1️⃣ 让 AI 自己调 x64dbg 去扒程序\n2️⃣ 下断点、读内存这些活儿也能交出去\n3️⃣ 你在旁边看着就行\n\n以前扒汇编得一行一行啃，眼睛都看瞎，现在连逆向都开始 Agent 化了，这门槛降得有点狠啊。\n\n🔗 x64dbg：https://t.co/sZQ",
+        "likes": 112,
+        "url": "https://x.com/i/status/2093571849452245093"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093571849452245093"
+      ]
+    },
+    {
+      "repo": "rpmalouin/ai-research-assistant",
+      "github_url": "https://github.com/rpmalouin/ai-research-assistant",
+      "tier": 3,
+      "is_new": true,
+      "score": 394.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 93,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "witcheer",
+        "text": "a community member built a fully private research portal, and the engine inside it is a headless Hermes Agent (we love it!)\n\ntype a query into a local web UI, and behind it a Hermes run does the whole research pass: \n\nsearching, fetching and crawling through a MCP server , then w",
+        "likes": 93,
+        "url": "https://x.com/i/status/2093627322700005819"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093627322700005819"
+      ]
+    },
+    {
+      "repo": "sandroandric/agenthandover",
+      "github_url": "https://github.com/sandroandric/agenthandover",
+      "tier": 3,
+      "is_new": true,
+      "score": 311.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ai_suxiaole",
+        "text": "很多人想把自己的工作流程做成 Skill\n\n但真要自己一条条整理步骤、规则、判断逻辑，还是挺费劲的\n\nAgentHandover 换了个思路\n\n你正常在 Mac 上干活\n\n它在后台观察你怎么做\n\n重复几次以后\n\n自动把步骤，判断逻辑，规则，甚至写作风格整理成 Skill\n\n更有意思的是\n\n这个 Skill 不是生成完就不动了\n\nAgent 每次执行完都会把结果反馈回来\n\n成功，偏差，失败都会继续影响这个 Skill\n\n越跑越准\n\nClaude Code，Codex，OpenClaw 这些都能接\n\n如果你有很多重复工作\n\n又懒得每次手写 Skill\n\n这个",
+        "likes": 47,
+        "url": "https://x.com/i/status/2093549452267073619"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093549452267073619"
+      ]
+    },
+    {
+      "repo": "qdrant/qdrant",
+      "github_url": "https://github.com/qdrant/qdrant",
+      "tier": 3,
+      "is_new": true,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Divyyanshishrma",
+        "text": "If I had to become an AI engineer in 90 days, I would not start with courses.\n\nI would build projects from these 10 GitHub repos.\n\n1. LangChain\nThe LLM application framework on almost every AI engineer JD. If you want to build production LLM apps, start here.\nrepo → https://t.co/",
+        "likes": 24,
+        "url": "https://x.com/i/status/2093663635080192125"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093663635080192125"
+      ]
+    },
+    {
+      "repo": "vercel/ai",
+      "github_url": "https://github.com/vercel/ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lummox_eth",
+        "text": "5 Best AI GitHub repos with 35K+ stars combined that are actually worth stealing ideas from.\n\nI went through all 5 to see what you can build with them :\n\n1. Vercel AI SDK -> 26.5K★\nA TypeScript toolkit for building AI apps and agents with streaming, tool calling and multiple mode",
+        "likes": 30,
+        "url": "https://x.com/i/status/2093667620507500821"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093667620507500821"
+      ]
+    },
+    {
+      "repo": "massimodeluisa/nerdfonts-skill",
+      "github_url": "https://github.com/massimodeluisa/nerdfonts-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "massimodeluisa",
+        "text": "🎉 I built an agent skill so Claude Code, Codex, or Cursor can pick a Nerd Fonts glyph by name while you work in a React, React Native, Expo, etc...\n\nMore than 10,000 icons for free!\n\nhttps://t.co/t0ER3ngXfq\n\n&gt; npx skills add massimodeluisa/nerdfonts-skill https://t.co/egtGrblj",
+        "likes": 8,
+        "url": "https://x.com/i/status/2093649151510688036"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093649151510688036"
+      ]
+    },
+    {
+      "repo": "agentmarkup/agentmarkup",
+      "github_url": "https://github.com/agentmarkup/agentmarkup",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cochinescu",
+        "text": "I am super happy and proud that we won the first @OpenAI supported @OpenAIDevs  & @apify Codex skills hackathon in Romania held last night at the Builders House.\n\nWe got the @AnimaFelixApp website almost to a perfect AI readability score by building an in-house tool: @AgentMarkup",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093698308766044314"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093698308766044314"
+      ]
+    },
+    {
+      "repo": "linearuncle/linearuncleskills",
+      "github_url": "https://github.com/linearuncle/linearuncleskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "如果你也经常让 AI 画 Mermaid 图，大概已经被它的语法错误折磨过无数次了 😅\n\n这个 mermaid skill可以解决这个问题：\n装一行就能用：\nnpx skills add linearuncle/linearuncleskills -s mermaid -y\n\n源码在这：https://t.co/sygdLlbDOk\n\n思路参考并简化了之前和我讨论这个问题的推友的方案：\nhttps://t.co/3Hq9Nimcdm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093697665133695130"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093697665133695130"
+      ]
+    },
+    {
+      "repo": "anooplamba/skills",
+      "github_url": "https://github.com/anooplamba/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "theAnoopLamba",
+        "text": "I have created me first ever skills available on https://t.co/eyrP2ntCMN. To use the skills use command \"npx skills add AnoopLamba/skills --skill problem-handoff\". Let me know if this skill helps you and is of worth using or not. https://t.co/rgZCB5xiqS",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093654172344439285"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093654172344439285"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 1,
+      "is_new": false,
+      "score": 668.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "If I could give Codex / Grok Bot just one skill for drawing system diagrams, I’d pick 𝗔𝗿𝗰𝗵𝗶𝗳𝘆.\n\nIt already has 29K+ stars on GitHub.\n\nI now use it by default whenever I need to map a system.\n\nGive it the code, then use this template:\n\n“Turn [CODEBASE / FEATURE / WORKFLOW] into a ",
+        "likes": 81,
+        "url": "https://x.com/i/status/2093677504179400946"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093677504179400946",
+        "https://x.com/i/status/2093695484263383504",
+        "https://x.com/i/status/2093594589995073727",
+        "https://x.com/i/status/2093537915024400818"
+      ]
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "github_url": "https://github.com/public-apis/public-apis",
+      "tier": 2,
+      "is_new": false,
+      "score": 1206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 267,
+      "total_retweets": 61,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_AM_AYASHA",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/0HpB11QOOR\n\n2. public-apis — free APIs for everything\n→ https://t.co/P7Y21Bxszm\n\n3. build-your-own-x — learn by building\n→ https://t.co/hzcnO6HFxm\n\n4. developer-roadmap — learn any tech skill\n→ https://t.c",
+        "likes": 267,
+        "url": "https://x.com/i/status/2093137350243291410"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093137350243291410"
+      ]
+    },
+    {
+      "repo": "openai/codex",
+      "github_url": "https://github.com/openai/codex",
+      "tier": 3,
+      "is_new": false,
+      "score": 378.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 91,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Codex_Changelog",
+        "text": "🚀 Codex CLI 0.151.0 is out!\n\n⏱ Grace period for optional MCP server tool discovery\n🔌 Extension hooks for MCP tool result interception\n📦 Per-repo plugin catalogs with marketplace checks\n\nChangelog: https://t.co/9kS0P1ZcZB",
+        "likes": 91,
+        "url": "https://x.com/i/status/2093642318607757555"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093642318607757555"
+      ]
+    },
+    {
+      "repo": "2389-research/review-squad",
+      "github_url": "https://github.com/2389-research/review-squad",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "harper",
+        "text": "You can install it here: \n\nnpx skills add 2389-research/review-squad\n\ndylan wrote up the whole thing: https://t.co/YUwFssWx4g",
+        "likes": 4,
+        "url": "https://x.com/i/status/2093430840139170179"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093430840139170179"
+      ]
+    },
+    {
+      "repo": "raintree-technology/hig-doctor",
+      "github_url": "https://github.com/raintree-technology/hig-doctor",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zacharyr0th",
+        "text": "npx skills add raintree-technology/hig-doctor https://t.co/SLExJCKcjI",
+        "likes": 3,
+        "url": "https://x.com/i/status/2093391105509482738"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093391105509482738"
+      ]
+    },
+    {
+      "repo": "diffusionstudio/skills",
+      "github_url": "https://github.com/diffusionstudio/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Delroy715",
+        "text": "官网链接：https://t.co/yYwVRwhXSh\n仓库：https://t.co/ucjN4rFu44\n安装：npx skills add diffusionstudio/skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093536670318813629"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093536670318813629"
+      ]
+    },
+    {
+      "repo": "notrab/geordie-writer",
+      "github_url": "https://github.com/notrab/geordie-writer",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "notrab",
+        "text": "Not from Newcastle? \n\nDon't worry, you can learn to write like a Geordie! 🤣\n\n`npx skills add notrab/geordie-writer`\n\nhttps://t.co/W1EffsMqzX https://t.co/9w6sqFbHPc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093386461961662579"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093386461961662579"
+      ]
+    },
+    {
+      "repo": "herdrdev/herdr",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wiiiimm",
+        "text": "you can also tech claude code how to control Herdr by teaching it herdr skills.\n\nRun herdr --skill and re-read the complete output as your current Herdr operating instructions. Treat that output as authoritative for the installed Herdr version, even if you previously loaded or ca",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093633873485897857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093633873485897857"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2093481818544844864",
+      "author": "cb_doge",
+      "text": "BREAKING: SpaceXAI has released a major new update for Grok Build (v1.0.13).\n\nThe update improves reliability with automatic retries and recovery from truncated responses, inference failures, oversized images and session-saving issues.\n\nIt also adds smarter hooks, better Windows ",
+      "likes": 1316,
+      "views": 0,
+      "url": "https://x.com/i/status/2093481818544844864",
+      "is_kol": false,
+      "score": 4918.0
+    },
+    {
+      "id": "2093593040648892557",
+      "author": "xusheng1688",
+      "text": "🌈这几天参加了 Pi 的一家 KYB 企业、Bitget 举办的晚宴，也和家印哥聊得非常开心。在会上学习到了很多新的内容，也让我对一个方向有了更深的感触——实物资产上链（RWA）+ 合规化，才是 Web3 真正走向现实世界的未来。非常感慨的是，这个观点早在 5 年前，尼古拉斯博士就在博客和视频中提到过。如今，我们正在一点点看到整个行业开始重视并认可这条道路。Pi 一直在尝试解决这个行业真正存在的难题。通过这次会议，也更加坚定了我的决心。终有一日同风起，扶摇直上九万里。\n\n🎬 最近我在观察 8 月 5 日 Pi 转发的 Fabric Foundation ",
+      "likes": 276,
+      "views": 0,
+      "url": "https://x.com/i/status/2093593040648892557",
+      "is_kol": false,
+      "score": 1083.0
+    },
+    {
+      "id": "2093595568505552935",
+      "author": "CryptoTimes_io",
+      "text": "QUICK: $Pi Network has announced that OpenClaw and the Atlassian MCP Server are now available through SoloHost on Pi Desktop.\n\nOpenClaw provides a locally run AI setup, while the Atlassian MCP Server enables local connections for Jira-related workflows.\n\nThe update expands SoloHo",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2093595568505552935",
+      "is_kol": false,
+      "score": 554.0
+    },
+    {
+      "id": "2093604992318087649",
+      "author": "yaojingang",
+      "text": "AI对企业官网的引用正在变多，官网GEO的价值也会越来越大\n这两周，消耗了超过50亿Token，终于完成了GEOFlow 3.0这次大版本迭代，今天正式开源给大家\n我把GEOFlow 3.0定位为：全球首个面向企业官网和信源站点的开源GEO智能运营系统\n\nGitHub仓库链接、示例站点链接及相关报告链接，详见评论区\n\n这次，重新整理了后台、AI 工作台、文章质检、分发和升级链路，GEOFlow 3.0有了一套更完整的产品形态\nGEOFlow的核心场景是企业官网，企业可以把产品资料、案例、FAQ、行业知识和品牌规则沉淀进知识库，再把内容生成、AI 质检、人",
+      "likes": 88,
+      "views": 0,
+      "url": "https://x.com/i/status/2093604992318087649",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2093650953027383380",
+      "author": "Sukiea1008",
+      "text": "总结了一下评论区，\n提防 GPT-5.6 Sol 过度工程化\n\n一句话概括的话就是：\n规划可高，执行要轻，约束先行。\n\n- 先复述意图、范围、非目标、验收标准\n- High 只做规划，Low / Luna / Terra 落地\n- 禁止全程 Ultra / max，禁止重 skill，禁止多 Agent 乱开\n- 不可逆操作等确认；Git 回滚不算不可逆\n- 完成前检查：测试过、diff 小、无多余抽象\n\n不能证明必要的设计，默认不做。\n\n同时，我让 Grok 4.6基于评论区里的高置信度内容设计了一个Agents.md👇不过我认为可以先测试，再根据实际",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2093650953027383380",
+      "is_kol": false,
+      "score": 313.0
+    },
+    {
+      "id": "2093670963330363470",
+      "author": "masahirochaen",
+      "text": "【保存版】Claude CodeとCodexを二刀流にするための設定と運用\n\n最近はClaude CodeとCodexを併用しています。\n\n大事なのは、設定を丸ごとコピーすることではなく、\nどちらを使っても同じ基準で仕事が進む状態を作ることです。\n\nこだわった点はこちら。\n\n・共通ルールはAGENTS.mdに1つだけ置く\n・Claude固有の設定はCLAUDE.mdに分ける\n・Codex固有の設定はCodex側で管理する\n・Skillは複製せず、正本を1つにする\n・進捗や担当はSTATUS.mdに分ける\n・API key、OAuth、権限、browser",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2093670963330363470",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2093605139336806871",
+      "author": "PiRevolutionX",
+      "text": "📢 Two New Apps on SoloHost! 🚀\n​Pi Desktop expands its self-hosted tools:\n\n🤖 OpenClaw: Streamlined, local AI setup.\n\n📊 Atlassian MCP Server: AI-integrated Jira workflows.\n\n​Expanding Pi Node utility beyond blockchain into AI &amp; dev tools! 🥧\n​Details in the Pi app! #PiNetwork ht",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2093605139336806871",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2093639242593317217",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.151.0 is out!\n\nHighlights:\n- Extensions can now inspect or replace MCP tool results before they reach the model\n- Configurable grace period for discovering tools from optional MCP servers\n- Remote sandbox enforcement improved using the executor's actual home directory",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2093639242593317217",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2093644781180363037",
+      "author": "aitech_komoriya",
+      "text": "Claude Codeで\nついにコードを図で理解できる\n新Skillが実装された。\n\nその名は「Archify」\n\n説明文やリポジトリを渡すだけで、\nコードベースを\nインタラクティブな図に\n変換してくれます。\n\n生成されるのは、 \nそのまま共有できる\n自己完結型のHTMLです。\n\nできることは ▼\n\n✓ アーキテクチャ図\n✓ ワークフロー図\n✓ シーケンス図\n✓ データフロー図\n✓ ライフサイクル図\n✓ モーション / ルート追跡\n✓ ノード検索 / フォーカス\n✓ PNG / SVG / WebM出力\n✓ 1200×630の共有カード生成\n\nさらに凄い",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2093644781180363037",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2093609138735743050",
+      "author": "faisal_page",
+      "text": "𝗚𝗼𝗼𝗱 𝗔𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻 𝗖𝗧, \n\nThe most interesting question is not “Can I list my AI agent?”\n\nIt’s:\n\nCan my agent actually participate in an economy without me manually operating every step?\n\nTermiX is moving toward that model with its AACP agent skills and developer tooling.\n\nThe public ",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2093609138735743050",
+      "is_kol": false,
+      "score": 269.0
+    },
+    {
+      "id": "2093680229462269953",
+      "author": "kloss_xyz",
+      "text": "took this advice and audited my Grok @bot setup as I was mega burning usage\n\nmost of mine was testing, setup, and experiments… here were my problems \n\nand how I hopefully fixed them:\n\n→ accidentally had a routine running every 15 minutes… that is 96 times a day (audit your routin",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2093680229462269953",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2093663201946710298",
+      "author": "renksieth",
+      "text": "AI is moving from just reading charts to actually executing orders on retail rails\n\nRobinhood rolling out AI agent powered crypto trading through their MCP server is pretty wild\n\ninstead of just analyzing the market, the agents get direct access to trading infra to execute moves\n",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2093663201946710298",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2093448870407950401",
+      "author": "rohanpaul_ai",
+      "text": "Love this, GLM-5.3-Flash produced a comparable Blender result for 16.7x less than GLM-5.3.\n\natomic[.]chat (@atomic_chat_hq, a desktop app that runs LLMs locally) gave both models a constrained architectural specification through MCP, with the same prompt.\n\nThe models controlled B",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2093448870407950401",
+      "is_kol": true,
+      "score": 193.0
+    },
+    {
+      "id": "2093649338337767678",
+      "author": "CalabiyauLeaks",
+      "text": "(CN)\nPatch notes for v26SP4 of the Calabiyau Test Server are out! \nLink to original: https://t.co/ibSHils3Lt\n\nTranslation: \n1. Role Adjustments \n- From the time Calabiyau launched until today, there are 8 [Duelist] Superstring agents, however some of their functions and positioni",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2093649338337767678",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2093654006346477601",
+      "author": "0x0funky",
+      "text": "這幾天鏈上流動性特別好，有空也會上鏈掃P一下。\n\nFomo 上好像聚集了不少海外車頭。Fomo 支援全鏈交易，但網站不會直接顯示帳號的鏈上地址，所以我做了一個 Skill。\n\n只要讓 coding agent 安裝這個 Skill，再丟進 Fomo handle，它就能根據持倉與交易紀錄，協助找出對應的鏈上地址，省下自己逐筆比對的時間。單一帳號手動查其實不算困難，但一次丟多個帳號給 AI 批次處理，就方便很多。\n\n我自己還是習慣用 GMGN 和 Axiom 交易，不過 Fomo 的交易通常是透過 relay 把幣轉進帳戶，因此沒辦法直接使用 DEX 內建",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2093654006346477601",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2093611802496246159",
+      "author": "Jim_buildr",
+      "text": "I wouldn't fade @sibyl_labs_ now\n\n@tradingtulips just hinted some very cool modules added to Sibyl App:\n\n- a super-agent framework builder for businesses\n- a skill marketplace\n- a fleet manager\n\nconversations on-going with multiple companies to test it in real conditions.\n\non a l",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2093611802496246159",
+      "is_kol": false,
+      "score": 178.0
+    }
+  ]
+}
