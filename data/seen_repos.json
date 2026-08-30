@@ -6458,5 +6458,17 @@
   "anooplamba/skills": {
     "first_seen": "2026-08-29",
     "tier": 3
+  },
+  "jetbrains/go-modern-guidelines": {
+    "first_seen": "2026-08-30",
+    "tier": 3
+  },
+  "titanwings/distilly": {
+    "first_seen": "2026-08-30",
+    "tier": 3
+  },
+  "iheblaswd/pfe-starter": {
+    "first_seen": "2026-08-30",
+    "tier": 3
   }
 }

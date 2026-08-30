@@ -1,0 +1,369 @@
+{
+  "date": "2026-08-30",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 157,
+    "tweets_with_repos": 10,
+    "unique_repos": 9,
+    "new_repos": 3,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "jetbrains/go-modern-guidelines",
+      "github_url": "https://github.com/jetbrains/go-modern-guidelines",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielZambrini",
+        "text": "1. tt-a1i/archify — Agent skill that compiles typed JSON into self-contained architecture, sequence, and data-flow HTML. Validators run before the file is delivered. 32,564 stars, ~3.9k today, still #1 on https://t.co/MsrYHIHKG6. `npx skills add tt-a1i/archify -g`. Independently ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2094012925119987979"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094012925119987979"
+      ]
+    },
+    {
+      "repo": "titanwings/distilly",
+      "github_url": "https://github.com/titanwings/distilly",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ai_suxiaole",
+        "text": "想把一个人的做事方式，判断习惯，甚至说话风格做成 Skill\n\n现在已经有人把这套做出来了\n\n项目原来叫 Colleague Skill，现在改名 Distilly\n\n把聊天记录，文档，访谈，公开资料丢进去\n\n它会整理成一个 Person Profile，再打包成可以给 Agent 调用的 Skill。\n\n同事，亲密关系，公众人物三种场景都有不同的提取逻辑\n\n工作场景会更偏流程，经验和判断\n\n关系场景会提取表达方式，情绪触发和冲突模式\n\n公众人物则会整理作品，访谈，决策和思维模型。\n\n飞书，钉钉，Slack，微信聊天记录，本地文档这些都能拿来做素材\n\nC",
+        "likes": 1,
+        "url": "https://x.com/i/status/2093980290981249355"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093980290981249355"
+      ]
+    },
+    {
+      "repo": "iheblaswd/pfe-starter",
+      "github_url": "https://github.com/iheblaswd/pfe-starter",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IhebLaswd",
+        "text": "Ton PFE du sujet à la soutenance 🎓 j'ai construit \n\nun skill Claude qui coache les étudiants : cadrage MVP, Gantt auto, stack justifiée, rapport structuré, jury prep — gratuit et open source \n\n→ npx skills add iheblaswd/pfe-starter https://t.co/yza2rRepuK",
+        "likes": 0,
+        "url": "https://x.com/i/status/2093811496421609760"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093811496421609760"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 1,
+      "is_new": false,
+      "score": 306.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielZambrini",
+        "text": "1. tt-a1i/archify — Agent skill that compiles typed JSON into self-contained architecture, sequence, and data-flow HTML. Validators run before the file is delivered. 32,564 stars, ~3.9k today, still #1 on https://t.co/MsrYHIHKG6. `npx skills add tt-a1i/archify -g`. Independently ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2094012925119987979"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094012925119987979",
+        "https://x.com/i/status/2093911738160918719",
+        "https://x.com/i/status/2093834485091684466"
+      ]
+    },
+    {
+      "repo": "gridex/gridex",
+      "github_url": "https://github.com/gridex/gridex",
+      "tier": 2,
+      "is_new": false,
+      "score": 1442.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 354,
+      "total_retweets": 56,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Runs as a native database IDE across macOS, Windows, and Linux without relying on web views. Connects to PostgreSQL, MySQL, SQLite, Redis, MongoDB, SQL Server, and ClickHouse using a unified application featuring a built-in MCP server for AI integration.\n\nhttps://t.co/mptYLA24hj ",
+        "likes": 354,
+        "url": "https://x.com/i/status/2093801956208709983"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093801956208709983"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 334.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "平时拿 Claude Code / Codex 做科研，有个问题挺明显：\n\n它会写 Python，但不一定知道你这个领域该查什么数据库、用什么包，分析流程到底应该怎么走。\n\n最近看到一个挺夸张的开源项目 scientific-agent-skills，GitHub 已经 3.7W+ ⭐️。\n\n说白了，就是给 Agent 装了一套“科研说明书”。\n\n现在里面已经有 160+ 个现成的 Skills，PubMed、ChEMBL、UniProt、https://t.co/PvlkfO4kat 这些数据库能查，RDKit、Scanpy、PyTorch、BioPy",
+        "likes": 42,
+        "url": "https://x.com/i/status/2093866899058937936"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093880887758778747",
+        "https://x.com/i/status/2093866899058937936"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 253.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dr_cintas",
+        "text": "Hunting for agent skills by hand is officially over.\n\nThere's a skill that searches the ENTIRE skills ecosystem to find what you need.\n\nIt's called find-skills.\n\n> npx skills add vercel-labs/skills --skill find-skills\n\nThen:\n\n1. Ask \"is there a skill for X\"\n2. Or run it yourself:",
+        "likes": 41,
+        "url": "https://x.com/i/status/2093786985509061082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093786985509061082"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 253.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dr_cintas",
+        "text": "Hunting for agent skills by hand is officially over.\n\nThere's a skill that searches the ENTIRE skills ecosystem to find what you need.\n\nIt's called find-skills.\n\n> npx skills add vercel-labs/skills --skill find-skills\n\nThen:\n\n1. Ask \"is there a skill for X\"\n2. Or run it yourself:",
+        "likes": 41,
+        "url": "https://x.com/i/status/2093786985509061082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093786985509061082"
+      ]
+    },
+    {
+      "repo": "waishnav/devspace",
+      "github_url": "https://github.com/waishnav/devspace",
+      "tier": 3,
+      "is_new": false,
+      "score": 231.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huoshan007",
+        "text": "兄弟们，Codex 额度烧完别急着续费，我最近试了一下这个，路子挺野很实用。\n\nDevSpace，自己本地起一个 MCP server，把项目文件接到网页端 GPT。\n\n重点来了：网页端 ChatGPT 和 Codex 额度是分开算的。\n\nCodex 干废了，就切网页端继续写，等于硬生生多薅一截。\n\n还能接 GitHub，走分支、PR 改代码，文件和终端都在自己手里。\n\n地址我放这，自己看：https://t.co/L7pQD8hPHf\n\n这玩意儿谁用谁懂……，省下来的是真金白银。",
+        "likes": 37,
+        "url": "https://x.com/i/status/2093911313584148757"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2093911313584148757"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2093801758665715784",
+      "author": "thsottiaux",
+      "text": "We are reseting usage for all paid users of Codex and ChatGPT Work.\n\nPlease continue reading for an update on Codex usage limits. The team has been working around the clock, going through thousands of reports and shipping fixes.\n\nDepending on how you use Codex, you should see you",
+      "likes": 17898,
+      "views": 0,
+      "url": "https://x.com/i/status/2093801758665715784",
+      "is_kol": false,
+      "score": 58469.0
+    },
+    {
+      "id": "2093749877272715636",
+      "author": "akshay_pachaar",
+      "text": "Agents reach websites in 6 ways.\n\n(Google and Microsoft are betting on the same one.)\n\nAsk an agent to buy something and watch it work. It screenshots the page, looks for something shaped like a button, clicks, and screenshots again to see what happened.\n\nYou pay tokens every tim",
+      "likes": 262,
+      "views": 0,
+      "url": "https://x.com/i/status/2093749877272715636",
+      "is_kol": false,
+      "score": 976.0
+    },
+    {
+      "id": "2094032545469849820",
+      "author": "GT_Protocol",
+      "text": "New on the blog: AI Agents Onchain: GT Protocol MCP for Trading\n\nVitalik Buterin's Billboard experiment on Aztec put an AI model inside a real onchain application. GT Protocol applies the same agent pattern to trading through an open MCP server. https://t.co/N3G1CaTkZ5",
+      "likes": 209,
+      "views": 0,
+      "url": "https://x.com/i/status/2094032545469849820",
+      "is_kol": false,
+      "score": 747.0
+    },
+    {
+      "id": "2093984771420610650",
+      "author": "Jason23818126",
+      "text": "做微信公众号的可以直接抄这套作业了\n\n空格老师 @kongge_space 结合他 3 万粉、月赚一两万的经验，又开源了一套公众号 Skill\n\n我把它也做成了一个 Agent，从找选题、写正文到标题、封面和排版，一套直接跑完\n\n以后不用再到处找工具了，想试试的直接安装就能用：https://t.co/stGZ1CjKF0 https://t.co/4mOCftZ9RM",
+      "likes": 172,
+      "views": 0,
+      "url": "https://x.com/i/status/2093984771420610650",
+      "is_kol": false,
+      "score": 681.0
+    },
+    {
+      "id": "2094064099046895845",
+      "author": "Khulood_Almani",
+      "text": "🚨 🤖 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 #𝗔𝗜 𝗥𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗪𝗼𝗻’𝘁 𝗕𝗲 𝗢𝗻𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁. 𝗜𝘁 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗔𝗻 𝗘𝗻𝘁𝗶𝗿𝗲 𝗧𝗲𝗮𝗺 𝗼𝗳 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀.\n\nالثورة القادمة في #الذكاء_الاصطناعي لن تكون مساعدًا واحدًا، بل فريقًا كاملًا من الوكلاء الأذكياء\n\nBy 2030, AI may no longer simply answer our questions⤵️\n\nIt may begin to 𝗽𝗹𝗮𝗻, 𝗱𝗲𝗰𝗶𝗱𝗲, 𝗰𝗼",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2094064099046895845",
+      "is_kol": false,
+      "score": 386.0
+    },
+    {
+      "id": "2093925620443185366",
+      "author": "aakashgupta",
+      "text": "This guy literally dropped how to build a Company OS on Hermes and OpenClaw. It's wild:\n\n4:01 - His entire company as a graph\n7:58 - The one metric he tracks now\n12:14 - What an agentic CPO owns\n15:10 - Half of PM work, deleted\n17:49 - He stopped reading his email\n18:50 - The age",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2093925620443185366",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2093974792487698824",
+      "author": "Trathoa",
+      "text": "apps turned work into interfaces.\nyou opened the tool, learned the menu, and did the job yourself.\n\nagents invert that.\nyou describe the outcome.\na worker with a public history takes the job.\nsettlement happens when delivery is accepted, onchain, in usdc or usdt.\n\nthat inversion ",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2093974792487698824",
+      "is_kol": false,
+      "score": 347.0
+    },
+    {
+      "id": "2094021068675743838",
+      "author": "AndrewBolis",
+      "text": "AI is replacing people without the right skills.\n\nBuild AI skills to future-proof your career.\n\nKnowing AI tools isn’t enough. It’s critical to learn the right AI skills.\n\nThese 9 skills outline how professionals work with AI, from basic interaction to system-level execution.\n\nBu",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2094021068675743838",
+      "is_kol": false,
+      "score": 302.0
+    },
+    {
+      "id": "2093697742304383140",
+      "author": "e_opore",
+      "text": "🤖 Day 13/30 - AI Agents Series\n\nIn the last post, we learned how AI agents can decompose complex objectives into smaller tasks and execute them through multi-step workflows. Today, we'll explore MCP (Model Context Protocol) and how it gives AI agents a standardized way to connect",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2093697742304383140",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2093742183421542651",
+      "author": "AYYILDIZ3253",
+      "text": "OpenClaw ve Atlassian MCP Server uygulamaları artık SoloHost üzerinden Pi Desktop'ta kullanılabiliyor. Bu, kullanım alanını yerel yapay zeka ajanları ve geliştirici araçları gibi alanlara genişletiyor ve kendi kendine barındırılan uygulamaların çalıştırılmasını kolaylaştırıyor. B",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2093742183421542651",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2093987098583876018",
+      "author": "ekinoks_26",
+      "text": "The new Cool Cats Claw Machine campaign splits its reward into two separate paths. Play ten times and collect 70 STAR Points regardless of skill. Hit a 2x multiplier in a single play and collect 30 more on top. Two week window, both paths stackable, credited after September 10.\n\n",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2093987098583876018",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2094032998513492243",
+      "author": "AlanDaitch",
+      "text": "Este es el MEJOR truco que le podés enseñar a la inteligencia artificial!\n\nPrimero, sacale foto a todos tus electrodomésticos (si lográs hacerlo donde se lea el modelo, mucho mejor).\n\nDespués, adjuntalas en una conversación y pegale este prompt: \"De cada foto, extraé o deducí la ",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2094032998513492243",
+      "is_kol": false,
+      "score": 269.0
+    },
+    {
+      "id": "2093822506495004790",
+      "author": "iluciddreaming",
+      "text": "Mac Studio 内存\n我最后选了 64GB\n没上 128\n\n多出来那 64G 要五万多\n当然更舒服\n但我想做的\n不是用 Local LLM 取代 Claude\n是一台 24/7 的 Personal AI Home Server\n\n本地模型当离线大脑和 fallback\n复杂推理继续交给本来就订的旗舰\n再用 Router + MCP\n把家居、日历、项目、知识库串起来\n\n64G 撑得住这套架构\n128G 更像玩具升级\n\n钱我宁可留给两年后换下一代",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2093822506495004790",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2093945562143859184",
+      "author": "neil_xbt",
+      "text": "This is f*cking dangerous!\n\nKimi K3 can spawn 300 sub-agents. 4,000+ tool calls. One orchestrator. ~4.5x faster than single-agent execution, according to Moonshot's own reporting.\n\nRL-trained orchestration — deciding when to fan out is a learned skill, not a hardcoded script\n\nMoo",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2093945562143859184",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2094017294192255196",
+      "author": "rubenhassid",
+      "text": "You think you've mastered Claude. \n\nHere are 7 daily habits proving you haven't (yet):\n\nMistake 1. You build folders and files for Claude.\nFix:  Delete them all. Folders leak old answers & poison your context.  The entire Claude setup should be just Skills + Projects. Don't  over",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2094017294192255196",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2093863340493967537",
+      "author": "MinLiBuilds",
+      "text": "OpenAI 之前真的很草台。\n\n以前 Codex 最大的额度刺客，可能就是 Codex 自己。\n\n这次一口气挖出来这么多东西：\n\n上下文重复压缩\n后台任务停不下来\nGoal 完成后继续执行\n坏工具无限重试\nAutomation 超频运行\nSubagent 擅自升级模型\nSubagent 偷开 /fast\nComputer History 重复总结\n后台摘要持续吃额度\nMCP 结果重复编码\nTool 指令截断重拉\n\n以前每隔一段时间直接给大家 Reset 一次额度，很多问题其实就被暂时压下去了。\n\n额度一清零，大家又能继续跑，感知没那么强。\n\n但一旦不重",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2093863340493967537",
+      "is_kol": false,
+      "score": 191.0
+    }
+  ]
+}
