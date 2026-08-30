@@ -46,7 +46,20 @@ Daily JSON in `data/YYYY-MM-DD.json`:
 
 # CI (uses bird CLI with auth tokens)
 BIRD_AUTH_TOKEN=xxx BIRD_CT0=yyy ./track.sh
+
+# Optional Hermes Tweet / Xquik backend
+SKILL_PULSE_BACKEND=hermes-tweet XQUIK_API_KEY=xq_... ./track.sh
 ```
+
+## Optional Hermes Tweet / Xquik Backend
+
+The default local and CI paths stay unchanged. Set `SKILL_PULSE_BACKEND=hermes-tweet`
+or `TWITTER_BACKEND=hermes-tweet` to fetch KOL and keyword search results through
+[Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet). This uses
+`XQUIK_API_KEY` or `HERMES_TWEET_API_KEY`, plus optional `XQUIK_BASE_URL`.
+
+The adapter writes the same raw tweet shape consumed by `track.sh`, so repo
+extraction, deduplication, tiering, and daily JSON output remain unchanged.
 
 ## GitHub Actions
 
