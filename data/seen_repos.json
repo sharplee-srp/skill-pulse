@@ -6470,5 +6470,33 @@
   "iheblaswd/pfe-starter": {
     "first_seen": "2026-08-30",
     "tier": 3
+  },
+  "lmwilki/civ6-mcp": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "qoderai/better-harness": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "howdeploy/choirboy-prompt": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "0xyph3r/concise": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "etherscan/skills": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "ericlitman/open-pstack": {
+    "first_seen": "2026-08-31",
+    "tier": 3
+  },
+  "poorvith-mp/skills-developer": {
+    "first_seen": "2026-08-31",
+    "tier": 3
   }
 }

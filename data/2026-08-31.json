@@ -1,0 +1,536 @@
+{
+  "date": "2026-08-31",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 156,
+    "tweets_with_repos": 18,
+    "unique_repos": 18,
+    "new_repos": 7,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "lmwilki/civ6-mcp",
+      "github_url": "https://github.com/lmwilki/civ6-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielleFong",
+        "text": "it's the weekend so i'm pushing forward more on the civbench project. trying out the civ6 mcp server -- it works! fable is playing now. we're trying King difficulty. we rolled elanor and cliffs of dover, which is auspicious. \n\nthe sid meier difficult game i was playing earlier wa",
+        "likes": 41,
+        "url": "https://x.com/i/status/2094171542209106081"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094171542209106081"
+      ]
+    },
+    {
+      "repo": "qoderai/better-harness",
+      "github_url": "https://github.com/qoderai/better-harness",
+      "tier": 3,
+      "is_new": true,
+      "score": 243.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "phodal",
+        "text": "Better Harness 0.6.6 来了 😄\nhttps://t.co/GhS1s9L9VW\n早上读到 Uber 的 Software Factory 实践，尤其是他们对 MCP schema 膨胀、Tool Search、CLI 调用和 Code Mode 的成本分析，写得非常好。于是第一时间补进了 Better Harness 的 references：\nhttps://t.co/brJNemmzGC 。\n\n除了这个重要更新，0.6.6 还顺手塞进了三个“不那么重要”的实验性 Inspector 功能：\n1. 展示 prompt 之间的时间间隔",
+        "likes": 36,
+        "url": "https://x.com/i/status/2094432927224619473"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094432927224619473"
+      ]
+    },
+    {
+      "repo": "howdeploy/choirboy-prompt",
+      "github_url": "https://github.com/howdeploy/choirboy-prompt",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "copenzafan",
+        "text": "All my agents can do it with zero restrictions\n\nI taught a choirboy-prompt reverse engineering. \n\nI can also write any prompts, audit smart contracts, and handle any task where you normally get choked by endless safety triggers.\n\nMy skill uses a hook to inject a whole ton of prel",
+        "likes": 5,
+        "url": "https://x.com/i/status/2094445404112760956"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094445404112760956"
+      ]
+    },
+    {
+      "repo": "0xyph3r/concise",
+      "github_url": "https://github.com/0xyph3r/concise",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIModelRanking",
+        "text": "Built CONCISE cuts prose filler from AI coding agent responses.\n\nTrailing summaries, restated context, hedging, over-long preambles: gone. Code, commit messages, analysis depth: untouched.\n\nBefore:\n\"Sure! I'd be happy to help. Let me take a look... Great, I found the issue! [expl",
+        "likes": 3,
+        "url": "https://x.com/i/status/2094456184195494119"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094456184195494119"
+      ]
+    },
+    {
+      "repo": "etherscan/skills",
+      "github_url": "https://github.com/etherscan/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "etherscan",
+        "text": "Etherscan Skills 🛠️\n\nhttps://t.co/mZ54hx2GbY\n\nTeach your agents how to complete a task with the right API calls using:\n• Etherscan Orchestrator\n• Contract Review\n• Transaction Debugger\n• Etherscan Flow\n\nInstall w/ Skills CLI:\n`npx skills add etherscan/skills` https://t.co/1TDiDhU",
+        "likes": 2,
+        "url": "https://x.com/i/status/2094398664798294140"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094398664798294140"
+      ]
+    },
+    {
+      "repo": "ericlitman/open-pstack",
+      "github_url": "https://github.com/ericlitman/open-pstack",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cliffordfajard0",
+        "text": "Using @ericlitman 's open-pstack for the new project.\nhttps://t.co/kcqEupH2iA\n\nProject 1 (new): used open-pstack\n- its a plugin, but honestly prefer it as a skill, will revisit sometime\n\nProject 2 (older): told claude to convert Lauren's pstack cursor plugin to skill that works f",
+        "likes": 1,
+        "url": "https://x.com/i/status/2094460572821770544"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094460572821770544"
+      ]
+    },
+    {
+      "repo": "poorvith-mp/skills-developer",
+      "github_url": "https://github.com/poorvith-mp/skills-developer",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poorvith_mp",
+        "text": "Install the 5 skills you need for today's sprint (`npx skills add poorvith-mp/skills-developer`). Ignore the other eleven repos.\n\nYour agent context stays razor-sharp.\n\nStop stuffing monolithic prompt packs into your config.\n\nIndex: https://t.co/UbF4GpjA9a | https://t.co/Cc4cooIa",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094256864360083592"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094256864360083592"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "h4ckf0r0day/obscura",
+      "github_url": "https://github.com/h4ckf0r0day/obscura",
+      "tier": 2,
+      "is_new": false,
+      "score": 951.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 247,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kangcahyakeren",
+        "text": "Baru nemu proyek Headless Browser yang cukup menarik di Github😅\n\nNamanya \"Obscura\", open-source headless browser yang memang dirancang buat AI agents, browser automation, dan web scraping.\n\nYang bikin menarik itu adalah, Obscura dibangun dengan menggunakan \"Rust\", menjalankan Jav",
+        "likes": 247,
+        "url": "https://x.com/i/status/2094240451108938165"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094240451108938165"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 448.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 39,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Romeocoder11",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/lnfakwcjyS\n\n2. public-apis — free APIs for everything\n→ https://t.co/5onsbnnkQb…\n\n3. build-your-own-x — learn by building\n→ https://t.co/glL0DLqwf9…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 51,
+        "url": "https://x.com/i/status/2094399165786939772"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094399165786939772"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 278.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nykdotdev",
+        "text": "10 AI GitHub Repos You Should Have on Your Radar:\n\nHermes Agent: \nAn open-source agent with persistent memory, reusable skills, scheduled tasks, and messaging integrations. https://t.co/bEjbv5XXDt\n\nSuperpowers\nA software-development methodology packaged as reusable skills for Cla",
+        "likes": 51,
+        "url": "https://x.com/i/status/2094454238957199749"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094454238957199749"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realJohnMK",
+        "text": "The architecture diagram is one HTML file.\n\nNot a Lucid seat. Not a Figma board someone else hosts.\n\ntt-a1i/archify. 34,229 stars. MIT. v2.16.0 shipped Sunday.\n\n1. npx skills add tt-a1i/archify -g\n2. In Cursor: Use Archify to draw: Browser -> API -> Redis cache -> PostgreSQL fall",
+        "likes": 2,
+        "url": "https://x.com/i/status/2094310079860195624"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094394969234477102",
+        "https://x.com/i/status/2094310079860195624"
+      ]
+    },
+    {
+      "repo": "herdrdev/herdr",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RiverAi7z",
+        "text": "1. install herdr: curl -fsSL https://t.co/H1NZPsjdVE | sh\n2. install herdr skill for all agents wth: npx skills add herdrdev/herdr --skill herdr -g\n3. just start herdr and run your agents in herdr panel",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094459029791842427"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094459029791842427",
+        "https://x.com/i/status/2094458903576949011"
+      ]
+    },
+    {
+      "repo": "dietrichgebert/ponytail",
+      "github_url": "https://github.com/dietrichgebert/ponytail",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "Yesterday I posted about Codex turning small tasks into big systems. Several people in the replies pointed to the same tool: 𝗣𝗼𝗻𝘆𝘁𝗮𝗶𝗹.\n\nBesides adding rules to AGENTS.md, you can install this ready-made Skill. It’s like giving Codex / Claude Code a senior developer who’s too lazy",
+        "likes": 3,
+        "url": "https://x.com/i/status/2094462721248948603"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094462721248948603"
+      ]
+    },
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Suryanshti777",
+        "text": "Install with the Vercel Labs CLI. GitHub is the registry, not npm.\n\nnpx skills add blader/humanizer\nnpx skills add nutlope/hallmark\n\nLook before you install:\nnpx skills add owner/repo --list\n\nThen take one thing only:\nnpx skills add owner/repo --skill hallmark -a claude-code -g -",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094446925143740823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094446925143740823"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Suryanshti777",
+        "text": "Install with the Vercel Labs CLI. GitHub is the registry, not npm.\n\nnpx skills add blader/humanizer\nnpx skills add nutlope/hallmark\n\nLook before you install:\nnpx skills add owner/repo --list\n\nThen take one thing only:\nnpx skills add owner/repo --skill hallmark -a claude-code -g -",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094446925143740823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094446925143740823"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Suryanshti777",
+        "text": "Install with the Vercel Labs CLI. GitHub is the registry, not npm.\n\nnpx skills add blader/humanizer\nnpx skills add nutlope/hallmark\n\nLook before you install:\nnpx skills add owner/repo --list\n\nThen take one thing only:\nnpx skills add owner/repo --skill hallmark -a claude-code -g -",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094446925143740823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094446925143740823"
+      ]
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "github_url": "https://github.com/mvanhorn/last30days-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gitgoats",
+        "text": "GitHub: https://t.co/GBsxNSZ3It\n\nInstall for Codex, Cursor or Gemini CLI:\nnpx skills add mvanhorn/last30days-skill -g\n\nReddit and HN work without setup. X, YouTube and some other sources need keys or a signed-in browser session.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094442283999662372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094442283999662372"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2094070897552572656",
+      "author": "HermesWatcher",
+      "text": "Did you know Hermes can be the MCP server too?\n\nMost people think of MCP as the way Hermes connects to outside tools.\n\nBut Hermes can flip that around.\n\nRun:\n\n`hermes mcp serve`\n\nNow another MCP-capable agent can connect to Hermes and use the messaging connections Hermes already ",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2094070897552572656",
+      "is_kol": false,
+      "score": 690.0
+    },
+    {
+      "id": "2094430764930904382",
+      "author": "DamiDefi",
+      "text": "EVERYTHING YOU NEED TO KNOW ON HOW TO FIND THE EXACT AI SKILL YOU'RE WEAKEST IN.\n\nYOU HAVE NO EXCUSES.\n\nThe full framework and the self-assessment prompt are in the article.",
+      "likes": 175,
+      "views": 0,
+      "url": "https://x.com/i/status/2094430764930904382",
+      "is_kol": false,
+      "score": 610.0
+    },
+    {
+      "id": "2094350673169051917",
+      "author": "DamiDefi",
+      "text": "The 8 Skills That Actually Matter for Building With AI Right Now",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2094350673169051917",
+      "is_kol": false,
+      "score": 584.0
+    },
+    {
+      "id": "2094091541878870226",
+      "author": "BIGMayrr",
+      "text": "A 20-year-old turns screenshots into kids YouTube videos that make $8,000 for every 100,000 views.\n\nHe asked Claude to make a YouTube Shorts video that resembles Nunu TV, maybe with a bear instead.\n\nThat’s the entire creative brief, typed out in the prompt, on camera.\n\nThe setup ",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2094091541878870226",
+      "is_kol": false,
+      "score": 554.0
+    },
+    {
+      "id": "2094322706091213195",
+      "author": "Kay2289123",
+      "text": "Uber 这篇讲 AI Coding 降本的文章非常值得看，值得认真思考\n\n和我在组内实验观察一致，绝大多数钱其实浪费在了无意义的 token 上，其中部分技巧我已经在组里推广\n\n我认为有价值、值得学习的一些 trick（改变前后对比）\n\n1/ 所有任务都上最强模型 → 主 Agent 用强模型，Subagent 默认降级，用 benchmark 动态 routing\n\n2/ Context 越长越好 → 1M context 也在 400K 主动 compact，reasoning 默认 Medium\n\n3/  每轮重复读历史 → Prompt Cac",
+      "likes": 132,
+      "views": 0,
+      "url": "https://x.com/i/status/2094322706091213195",
+      "is_kol": false,
+      "score": 526.0
+    },
+    {
+      "id": "2094433652121702533",
+      "author": "liambraus",
+      "text": "163 SKILLS PARA CONVERTIR TU AGENTE EN CIENTÍFICO\n\nUn repo open source acaba de convertir cualquier agente de ia en un científico con acceso a genómica, química computacional y docking molecular sin escribir una sola integración.\n\nSe llama Scientific Agent Skills.\n\nYa lo usan más",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2094433652121702533",
+      "is_kol": false,
+      "score": 515.0
+    },
+    {
+      "id": "2094397892689633628",
+      "author": "EmeriCrypto",
+      "text": "𝗪𝗵𝘆 𝗠𝗼𝘀𝘁 𝗔𝗜 𝗧𝗼𝗼𝗹𝘀 𝗦𝘁𝗮𝘆 𝗜𝘀𝗼𝗹𝗮𝘁𝗲𝗱, 𝗔𝗻𝗱 𝗛𝗼𝘄 𝗙𝗶𝗻𝗖𝗵𝗶𝗽 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝘀 𝗧𝗵𝗲𝗺 𝗜𝗻𝘁𝗼 𝗮 𝗥𝗲𝗮𝗹 𝗘𝗰𝗼𝗻𝗼𝗺𝘆\n\nThere’s no shortage of AI tools today.\n\nThere’s an AI for research, another for coding, another for trading, another for writing, another for data analysis. The problem isn't really finding AI too",
+      "likes": 94,
+      "views": 0,
+      "url": "https://x.com/i/status/2094397892689633628",
+      "is_kol": false,
+      "score": 327.0
+    },
+    {
+      "id": "2094339187218567483",
+      "author": "MarieMartens",
+      "text": "AI growth at @TallyForms. We surpassed 1M AI tool calls in August (MCP + Tally AI assistant combined).\n\nMCP calls:\nApr: 75,135\nMay: 90,007\nJun: 105,507\nJul: 169,985\nAug: 341,795\n\nTally AI calls (phased rollout):\nApr: 85,379\nMay: 82,712\nJun: 383,021\nJul: 688,735\nAug: 766,524\n\nInsp",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2094339187218567483",
+      "is_kol": false,
+      "score": 261.0
+    },
+    {
+      "id": "2094310238836924512",
+      "author": "witcheer",
+      "text": "here's a little list of handful PRs that landed in Hermes Agent this week and that you should be aware of:\n\n(1) repeat web reads stop re-billing you (#94618)\n\nweb_search and web_extract now cache results for 20 minutes. a subagent fan-out re-searching the same query costs one ven",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2094310238836924512",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2094409876067742084",
+      "author": "ChainGPT_Labs",
+      "text": "The best agent tooling gives software more capability without taking control away from the user.\n\n@Chain_GPT’s Claude Code skill does exactly that:\n\nthe agent handles the onchain work, your wallet handles the signature.\n\nUseful infrastructure for anyone building at the AI x Web3 ",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2094409876067742084",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2094398056246743482",
+      "author": "Av1dlive",
+      "text": "holy sh*t this is f**king insane \n\nsomeone figured out how to get 5x usage limits on any chatgpt plan \n\n[here is how to set it up in 3 minutes]\n\n1/ clone the repo 'tokensavings-pro'\n2/ restart codex\n3/ type dualmode and start\n\nif you want ultra-savings for tokens use caveman or a",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2094398056246743482",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2094379489702879265",
+      "author": "Abrar363478",
+      "text": "🚀 THE AI AGENT ENGINEERING ROADMAP\n\nWant to become an AI Agent Engineer? 🤖\nDon’t just learn tools — build the right foundation.\n\n🧠 The Step-by-Step Path:\n\n1️⃣ LLM Fundamentals + Reasoning\n2️⃣ Context Engineering\n3️⃣ Memory Architecture\n4️⃣ Agentic Workflows + Multi-Agent Systems\n",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2094379489702879265",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2094236177414971882",
+      "author": "btsouth",
+      "text": "Toolport's Linux app, rewritten in GTK4 for Omarchy, is now available.\n\nIt reads your theme colors and follows when you switch, tiles like a normal Hyprland window, and updates with pacman.\n\nOne gateway, every MCP server, every AI agent. MIT and free. \n\nhttps://t.co/n6mHuCTbrl ht",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2094236177414971882",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2094100086171271312",
+      "author": "PrajwalTomar_",
+      "text": "Vibe coders are getting sued.\n\nPeople are shipping apps with real users and skipping the boring stuff that kills them.\n\nI updated the pre-launch checklist with what I have learned after helping ship 60+ MVPs at the agency.\n\nDon't skip this:\n\n1. Protect yourself, not just your app",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2094100086171271312",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2094454206459752944",
+      "author": "NusratJaha07",
+      "text": "🚨PEOPLE ARE USING NOTEBOOKLM TO MASS-PRODUCE SPECIALIZED CLAUDE SKILLS IN MINUTES.\n\nInstead of writing the same prompts repeatedly, they use curated knowledge to create reusable \"SKILL▪︎md\" files that help Claude deliver consistent results for specific tasks.\n\nHere's how it works",
+      "likes": 27,
+      "views": 0,
+      "url": "https://x.com/i/status/2094454206459752944",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2094379670116728940",
+      "author": "nico_jeannen",
+      "text": "NEVER ask your agent to use browser to manage your ads, it's not made to be used for automations and you'll get flagged instantly\n\nYou need to use a 3rd party approved tool like AdKit to do it trough MCP/CLI, preferably via a draft system\n\nSame for open source servers using Graph",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2094379670116728940",
+      "is_kol": false,
+      "score": 175.0
+    }
+  ]
+}
