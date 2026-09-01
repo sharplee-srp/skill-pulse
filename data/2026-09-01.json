@@ -1,0 +1,515 @@
+{
+  "date": "2026-09-01",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 163,
+    "tweets_with_repos": 17,
+    "unique_repos": 15,
+    "new_repos": 6,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "zentryhq/zframes",
+      "github_url": "https://github.com/zentryhq/zframes",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zentry",
+        "text": "get started:\n\nnpx skills add zentryhq/zframes\n\ninstall it once, then use zframes with Claude Code, Cursor, Codex, Gemini, or any coding agent that supports Skills. https://t.co/8dDB7qGpli",
+        "likes": 3,
+        "url": "https://x.com/i/status/2094683618094592219"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094683618094592219"
+      ]
+    },
+    {
+      "repo": "phasehq/ai",
+      "github_url": "https://github.com/phasehq/ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "phasedotdev",
+        "text": "You can now deploy Phase on Azure AKS using an AI skill: npx skills add phasehq/ai -s aks\n\nYour agent will ask you about deployment type, private/public instance, and config, then plan the deployment and troubleshoot issues.\n\nThink of it as a Forward Deployed Engineer. https://t.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2094722071737823640"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094722071737823640"
+      ]
+    },
+    {
+      "repo": "peterpme/dotfiles",
+      "github_url": "https://github.com/peterpme/dotfiles",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "peterpme",
+        "text": "I was tired of shitty wifi in the corner of my house so I hooked up Codex to my Unifi API and it fixed it\n\nI wrote a skill for it https://t.co/83koaJVhUS",
+        "likes": 1,
+        "url": "https://x.com/i/status/2094784305381740965"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094784305381740965"
+      ]
+    },
+    {
+      "repo": "shinwood/awesome-dashboard-skill",
+      "github_url": "https://github.com/shinwood/awesome-dashboard-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shinwood",
+        "text": "一条命令安装，Claude Code / Codex / WorkBuddy / Kimi CLI 等都能用:\n\nnpx skills add shinwood/awesome-dashboard-skill\n\nMIT 开源,欢迎 star ⭐ https://t.co/GKEOXUUh3j",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094772513859682408"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094772513859682408"
+      ]
+    },
+    {
+      "repo": "shekkawai/webhud",
+      "github_url": "https://github.com/shekkawai/webhud",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ShekOMP",
+        "text": "I joined the WebMCP Challenge and spent two intense days exploring a simple question:\n\nWhat if smart glasses didn’t need their own AI?\n\nSmart glasses keep trying to replace your AI. I think that’s backwards.\n\nThe glasses should be the projector.\n\nThe web page should be the interf",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094788750085877771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094788750085877771"
+      ]
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "github_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qqinling",
+        "text": "第一次尝试把「什么是 Agent」做成一条视频。\n\n画面用这个开源 Skill 生成：\nhttps://t.co/JFNimYAp98\n配音用了最开始用的evenlabs的声音但是感觉读中文效果一般, 最后使用了minimax的中文男声\n\n从文案, 分镜, 配音到最后合成视频, 全部在codex里完成 https://t.co/DkTkfFvlZE",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094787651635396740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094787651635396740"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 1,
+      "is_new": false,
+      "score": 400.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielZambrini",
+        "text": "1. THU-MAIC/OpenMAIC — One prompt or uploaded materials → slides, quizzes, interactives, PBL, with AI teachers. v1.0.0 (27 Aug) adds a durable agent workbench you can cancel, resume, and steer. Local path via Ollama/Lemonade. OpenClaw skill for chat apps. Live demo at https://t.c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094768149681848330"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094768149681848330",
+        "https://x.com/i/status/2094772859352789012",
+        "https://x.com/i/status/2094660909440332128",
+        "https://x.com/i/status/2094772273660191055"
+      ]
+    },
+    {
+      "repo": "openai/codex",
+      "github_url": "https://github.com/openai/codex",
+      "tier": 2,
+      "is_new": false,
+      "score": 501.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 127,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Codex_Changelog",
+        "text": "🚀 Codex CLI 0.152.0 is out!\n\n🔍 Vim / and ? search in drafts, highlights, n/N repeat\n💳 Rate-limit banners: usage, credits, and plan management\n🔌 MCP server names support :, @, /, and .\n\nChangelog: https://t.co/gqhrNvDTY1",
+        "likes": 127,
+        "url": "https://x.com/i/status/2094610787725660599"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094610787725660599"
+      ]
+    },
+    {
+      "repo": "nvidia/skillspector",
+      "github_url": "https://github.com/nvidia/skillspector",
+      "tier": 2,
+      "is_new": false,
+      "score": 487.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 129,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Krypto_Bishop",
+        "text": "Hey family I found something helpful\n\nNvidia built a free “virus scanner” for AI agent skills.\n\nWhy it matters:\nThey researched 42,000+ skills across AI agent marketplaces and found that about 1 in 4 skills could compromise your system.\n\nSo they released SkillSpector  an open-sou",
+        "likes": 129,
+        "url": "https://x.com/i/status/2094708244845387856"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094708244845387856"
+      ]
+    },
+    {
+      "repo": "kacperkapusciak/goldie",
+      "github_url": "https://github.com/kacperkapusciak/goldie",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kacperkapusciak",
+        "text": "Added Play Store screenshot generation to Goldie ✨\n\nWorks with any Android app 👇\n\n~ / npx skills add kacperkapusciak/goldie https://t.co/tXRETXu0c6",
+        "likes": 25,
+        "url": "https://x.com/i/status/2094782088880812253"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094782088880812253"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 177.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "undefinedKi",
+        "text": "The Claude Code ecosystem you did not know existed\n\n18 repositories, sorted by what they do:\n\nOfficial Anthropic\n\nhttps://t.co/Db3oOzz28V (173k stars) - the official skill library. PDF, DOCX, XLSX, PPTX manipulation and art generation, straight from the source.\n\nhttps://t.co/HA64",
+        "likes": 24,
+        "url": "https://x.com/i/status/2094769939487809565"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094769939487809565"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that fixes your App Store listing.\n\nKeyword research first, then it rewrites the title and subtitle around what people actually search, and turns your screenshots into captions that sell outcomes instead of showing UI.\n\nnpx skills add coreyhaines31/marketingskills ",
+        "likes": 11,
+        "url": "https://x.com/i/status/2094763969517150224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094763969517150224"
+      ]
+    },
+    {
+      "repo": "dembrandt/dembrandt-skills",
+      "github_url": "https://github.com/dembrandt/dembrandt-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CoreyLyn95",
+        "text": "简单几步快速提取网站UI设计风格，复刻任意网站！\n\n最近新发现一个提取设计风格、复刻网站的方法，就是使用 Dembrandt，试用了下感觉效果非常好，而且完全免费！\n\n两行命令搞定安装👇\nnpm i -g dembrandt\ndembrandt install-browser\n\n安装 skills\nnpx skills add dembrandt/dembrandt-skills --all\n\n使用方式也很简单，直接和 Codex、Claude Code 等 Agent 说：\n👉 “提取 https://t.co/S4qnnDGadN 的设计风格”  \n",
+        "likes": 4,
+        "url": "https://x.com/i/status/2094759479602720812"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094759479602720812"
+      ]
+    },
+    {
+      "repo": "0xyph3r/concise",
+      "github_url": "https://github.com/0xyph3r/concise",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIModelRanking",
+        "text": "CONCISE cuts prose filler from AI coding responses (summaries, hedging, re-explaining context). \n\nCode, commits, analysis depth untouched. Live prose-budget bar in your Claude Code statusline.\n\nThis repo is its own plugin marketplace:\n\nclaude plugin marketplace add 0xyph3r/CONCIS",
+        "likes": 5,
+        "url": "https://x.com/i/status/2094769324300873885"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094769324300873885"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielZambrini",
+        "text": "1. THU-MAIC/OpenMAIC — One prompt or uploaded materials → slides, quizzes, interactives, PBL, with AI teachers. v1.0.0 (27 Aug) adds a durable agent workbench you can cancel, resume, and steer. Local path via Ollama/Lemonade. OpenClaw skill for chat apps. Live demo at https://t.c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094768149681848330"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094768149681848330"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2094706049081036950",
+      "author": "paulai_",
+      "text": "creator marketing research usually looks like:\n\n> open twitter\n> open instagram\n> check followers\n> check engagement\n> google the creator\n> open another tool\n> forget why you opened the first tab\n\nFavy:\n\n“find me 20 creators for this campaign and tell me which ones are worth cont",
+      "likes": 263,
+      "views": 0,
+      "url": "https://x.com/i/status/2094706049081036950",
+      "is_kol": false,
+      "score": 794.0
+    },
+    {
+      "id": "2094695176279146696",
+      "author": "RatehopperAI",
+      "text": "Ratehopper + Base MCP, Part 1: The Self-Repay Loan Agent",
+      "likes": 99,
+      "views": 0,
+      "url": "https://x.com/i/status/2094695176279146696",
+      "is_kol": false,
+      "score": 732.0
+    },
+    {
+      "id": "2094748548764234103",
+      "author": "hiraoka_dx",
+      "text": "Gemini omni 凄いな。\n\nエンジニアがskill作ってくれて、Claudeのティザー動画を作らせたら、ポン出しでこうなりました！\n\n※音声も完璧にフィットしてます。 https://t.co/DoMuH9LmLe",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2094748548764234103",
+      "is_kol": false,
+      "score": 518.0
+    },
+    {
+      "id": "2094761611672138114",
+      "author": "XFreeze",
+      "text": "Grok Build just got much stronger for serious long-running agent workflows\n\nThis update brings workspace-level MCP integrations, enterprise model controls, safer recovery from token/network interruptions, more reliable subagent spawning, fixed MCP OAuth flows, and dramatically lo",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2094761611672138114",
+      "is_kol": false,
+      "score": 483.0
+    },
+    {
+      "id": "2094528655297057026",
+      "author": "milesdeutscher",
+      "text": "Here's how to wire custom Hermes agents into the TradingView MCP to create a self-hosted financial research agent swarm.\n\nThe best part is, this setup is extremely cheap and pulls only from live market data (unlike normal Claude/GPT chats).\n\nInstall the MCP server\n\n→  \" uv tool i",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2094528655297057026",
+      "is_kol": false,
+      "score": 482.0
+    },
+    {
+      "id": "2094607054295965834",
+      "author": "CodexReleases",
+      "text": "Codex CLI 0.152.0 is out!\n\nHighlights:\n- Vim mode gains `/` and `?` search in drafts with highlighted matches and `n`/`N` navigation.\n- MCP server names now support `:`, `@`, `/`, and `.` for package-style naming in CLI commands and authentication.\n- Rate-limit banners include ac",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2094607054295965834",
+      "is_kol": false,
+      "score": 453.0
+    },
+    {
+      "id": "2094544616456626583",
+      "author": "Blackwellboy",
+      "text": "Hermes Agent v0.21.0 just dropped, and this is WAY bigger than a normal update.\n\nNous is calling it The Pantheon Release.\n\nThe headline isn’t simply “multi-agent mode.”\n\nHermes is starting to look like an actual society of persistent AI workers.\n\nWhat changed:\n\n🤖 Bot Mode is now ",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2094544616456626583",
+      "is_kol": false,
+      "score": 426.0
+    },
+    {
+      "id": "2094586050509234217",
+      "author": "zachlloydtweets",
+      "text": "software factories should be headless infrastructure\n\nthe right interface for them is tools you are already working in: slack / teams, jira / linear, github / gitlab, sentry / grafana, etc\n\nthe important thing is that the factory itself is tool-independent infrastructure, defined",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2094586050509234217",
+      "is_kol": false,
+      "score": 357.0
+    },
+    {
+      "id": "2094541583307678165",
+      "author": "mxstbr",
+      "text": "MCP is on fire right now\n\ntool calls by ChatGPT users are up 98× (!) in 2026 so far. \n\nin august alone, calls more than doubled: https://t.co/qJCJwJuztp",
+      "likes": 105,
+      "views": 0,
+      "url": "https://x.com/i/status/2094541583307678165",
+      "is_kol": false,
+      "score": 340.0
+    },
+    {
+      "id": "2094713380238196849",
+      "author": "ai_with_orbit",
+      "text": "Most people think prompts are just text.\n\nThey aren’t.\n\nPrompt Master turns prompts into a skill that works across Claude.\n\nI turned this cross‑AI workflow into a step‑by‑step guide.\n\nValued at $81.\n\nFREE for the next 48 hrs.\n\nType “PROMPT”\nFollow me : @ai_with_orbit. https://t.c",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2094713380238196849",
+      "is_kol": false,
+      "score": 293.0
+    },
+    {
+      "id": "2094695251902713904",
+      "author": "zxc68984008",
+      "text": "Hiring an agent used to mean a chat window and a hope that payment would follow.\n\nNow a .agent mint, a listed service, and an escrowed job sit on the same rail while @termix_ai settles USDC or USDT only after delivery clears.\n\nClient posts the brief. Provider stakes and ships. Ev",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2094695251902713904",
+      "is_kol": false,
+      "score": 283.0
+    },
+    {
+      "id": "2094694748619673833",
+      "author": "cyrilXBT",
+      "text": "THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.\n\nNot a plugin.\n\nNot an integration.\n\nA full agent skills system that teaches Claude Code, Codex, and OpenCode to READ, WRITE, and REASON inside your Obsidian vault like a power user.\n\n27,000 GitHub stars in day",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2094694748619673833",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2094745846567026843",
+      "author": "AndrewBolis",
+      "text": "Anyone can build AI agents from scratch.\n\nUse this 10-step roadmap to go from idea to evaluation:\n\n[ bookmark 🔖 this post for later ]\n\nStep 1: Set the Agent’s Purpose and Result\n\n• What will the agent do?\n• Who will it support?\n• What kind of output should it create?\n\n→ Example: ",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2094745846567026843",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2094609924575891790",
+      "author": "KrisUmasimp",
+      "text": "Symboli Kris S is coming to global as SSR stam card!\n\n+ Friendship bonus and Special priority decent\n+ No stam bonus. Guts bonus 2\n+ Has SP bonus 1\n+ Her last event gives Claw Forward - a new late-long skill that trades your stam for 0.4 accel last spurt\n\nUsable from 1LB https://",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2094609924575891790",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2094775729330200911",
+      "author": "NEARProtocol",
+      "text": "In August, the Agent Payments Skill for x402 landed, using NEAR Intents to fund x402 payments in USDC on Base with assets from 30+ chains, so funding and settlement don’t need to happen on the same chain.\n\nhttps://t.co/lx8p1w1D1W",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2094775729330200911",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2094569017206067301",
+      "author": "recat_125",
+      "text": "AWS Agent Registry が GA されました！\n\nResource Access Manager によるクロスアカウント共有, AgentCore Runtime / Gateway 上の Agent や　MCP Server の自動検出とレコード取り込み, Amazon Quick との統合, PrivateLink のサポートなど、新機能も追加されてます！\n\nhttps://t.co/nDUnvWkVwx",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2094569017206067301",
+      "is_kol": false,
+      "score": 197.0
+    },
+    {
+      "id": "2094641989979717840",
+      "author": "Unibase_AI",
+      "text": "Best AI Memory Extensions in 2026: Where Your Chats End Up",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2094641989979717840",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2094617222396211335",
+      "author": "techgirl1908",
+      "text": "Here's how WebMCP differs from an MCP server for a website:\n\n- MCP tools work even when the website isn't open\n\n- WebMCP works on the page you currently have open. They use the page's current state and in your signed in session. Very helpful when you and your agent are collaborat",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2094617222396211335",
+      "is_kol": false,
+      "score": 191.0
+    }
+  ]
+}

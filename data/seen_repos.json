@@ -6498,5 +6498,29 @@
   "poorvith-mp/skills-developer": {
     "first_seen": "2026-08-31",
     "tier": 3
+  },
+  "zentryhq/zframes": {
+    "first_seen": "2026-09-01",
+    "tier": 3
+  },
+  "phasehq/ai": {
+    "first_seen": "2026-09-01",
+    "tier": 3
+  },
+  "peterpme/dotfiles": {
+    "first_seen": "2026-09-01",
+    "tier": 3
+  },
+  "shinwood/awesome-dashboard-skill": {
+    "first_seen": "2026-09-01",
+    "tier": 3
+  },
+  "shekkawai/webhud": {
+    "first_seen": "2026-09-01",
+    "tier": 3
+  },
+  "gnipbao/story-to-handdrawn-video": {
+    "first_seen": "2026-09-01",
+    "tier": 3
   }
 }
