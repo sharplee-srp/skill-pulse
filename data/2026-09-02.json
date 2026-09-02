@@ -1,0 +1,418 @@
+{
+  "date": "2026-09-02",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 163,
+    "tweets_with_repos": 11,
+    "unique_repos": 11,
+    "new_repos": 4,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "gepa-ai/gepa",
+      "github_url": "https://github.com/gepa-ai/gepa",
+      "tier": 3,
+      "is_new": true,
+      "score": 249.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DailyDoseOfDS_",
+        "text": "The next step after Karpathy's autoresearch idea:\n\nTuning an agent is mostly manual work, done by editing prompts, tools, and control flow by hand and rerunning the evals to see what moved.\n\nResearchers have been building several automated optimizers to do that outer loop instead",
+        "likes": 48,
+        "url": "https://x.com/i/status/2095081810032251060"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095081810032251060"
+      ]
+    },
+    {
+      "repo": "coldteadotai/pr-lens",
+      "github_url": "https://github.com/coldteadotai/pr-lens",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OhansEmmanuel",
+        "text": "Every PR is about to come with a screenshot. \nYours can come with the architecture, animated\n\nnpx skills add coldteadotai/pr-lens https://t.co/JSF4EzNwt6",
+        "likes": 5,
+        "url": "https://x.com/i/status/2095124455794040895"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095124455794040895"
+      ]
+    },
+    {
+      "repo": "eyriecommander/codex-skills",
+      "github_url": "https://github.com/eyriecommander/codex-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jialaowai",
+        "text": "Codex dying on you? I expanded my Codex skills pack to fix three failure modes I've been hitting:\n\n• history repair (encrypted content fails after provider-switch)\n• keep-codex-fast (slow sessions, fat logs, safe archival)\n• workspace relink (moved folders, broken task paths)\n\nPl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095073162841198670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095073162841198670"
+      ]
+    },
+    {
+      "repo": "nanako0129/sepia",
+      "github_url": "https://github.com/nanako0129/sepia",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WhinyPuppy98",
+        "text": "Every popular humanizer edits word choice. Sepia works a layer deeper: narrative architecture.\n\nStoryScope: 61,608 stories, humans plus five frontier LLMs.\nNarrative features alone hit 93.2% macro-F1; stripping style barely moved it: 95.5% to 93.9%.\nWhat survives style edits is s",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095134169731088471"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095134169731088471"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 630.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 52,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rosemoni18",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/nCoDlO2Qri\n\n2. public-apis — free APIs for everything\n→ https://t.co/YXTvX65lhn…\n\n3. build-your-own-x — learn by building\n→ https://t.co/ZSdLP1dESc…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 90,
+        "url": "https://x.com/i/status/2095058972885897471"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095058972885897471"
+      ]
+    },
+    {
+      "repo": "simonlin1212/a-stock-data",
+      "github_url": "https://github.com/simonlin1212/a-stock-data",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BTCqzy1",
+        "text": "AI 股票投研，必装这 6 个 Skill。\n\n90% 的人用反了。\n\n一上来就问 Agent：这只票怎么看。\n但真正完整的研究流程，至少要包括：行情数据、财报数据、自动选股、AI 分析、策略回测和盘后复盘。\n\n先把这 6 个装上，搭一套能自己查、自己分析、自己复盘的股票投研系统。\n\n1️⃣a-stock-data\nA股数据底座。行情、资金流、龙虎榜、研报、北向、解禁，直接给 Agent 调。\nhttps://t.co/UgDEesk3kD\n\n2️⃣ global-stock-data\n美港股数据底座。期权链、SEC、财报三表、资金流。做外盘用这个，别和",
+        "likes": 26,
+        "url": "https://x.com/i/status/2095080009815949606"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095080009815949606"
+      ]
+    },
+    {
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "github_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "tier": 3,
+      "is_new": false,
+      "score": 176.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ai_suxiaole",
+        "text": "以前画技术架构图，要么学 Mermaid，要么去 https://t.co/TJwWcxP6GN 里一点点拖，稍微复杂一点，排版就很费时间。\n\nfireworks-tech-graph 省事很多，直接用自然语言描述，比如一句“画一个 RAG 流程图”，就能生成 SVG 和高清 PNG。\n\n现在有 12 种视觉风格，白底、暗黑终端、蓝图、毛玻璃、Claude、OpenAI 风格都有，还支持 14 种 UML 图。\n\nRAG、多 Agent、Memory、Tool Call 这些 AI 架构，也做了专门的图形和布局规则。\n\nCodex 和 Claude Co",
+        "likes": 22,
+        "url": "https://x.com/i/status/2095064938515743089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095064938515743089"
+      ]
+    },
+    {
+      "repo": "kacperkapusciak/goldie",
+      "github_url": "https://github.com/kacperkapusciak/goldie",
+      "tier": 3,
+      "is_new": false,
+      "score": 175.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grokkedd",
+        "text": "Goldie is out - an App Store screenshot generator built for coding agents \n\nYou ask your favorite coding agent to grab App Store screenshots, and Goldie takes over. Using Argent under the hood, it drives the app itself, captures the right frames, and exports them as polished mark",
+        "likes": 25,
+        "url": "https://x.com/i/status/2095075617146306642"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095075617146306642"
+      ]
+    },
+    {
+      "repo": "jessastrid/matchclaws",
+      "github_url": "https://github.com/jessastrid/matchclaws",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "adJAstra",
+        "text": "@boardyai @matchclaws Just npx skills add jessastrid/matchclaws or check out the GitHub repo to start dating on MatchClaws 💕\nhttps://t.co/v0U0xeEaXJ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095122235166183637"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095122235166183637"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PedroSorrentin0",
+        "text": "Llevo años haciendo SEO a base de prueba y error y justo por eso me engancha esto: Corey Haines juntó una colección de skills en formato SKILL.md para agentes de IA, todas enfocadas en marketing. CRO, copywriting, auditoría técnica y on-page, AI-SEO/AEO/GEO, SEO programático, sch",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094966413215617128"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094966413215617128"
+      ]
+    },
+    {
+      "repo": "bagelhole/devops-security-agent-skills",
+      "github_url": "https://github.com/bagelhole/devops-security-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIExplorerTim",
+        "text": "3/ 安装方法\n\n几秒钟就能装好这 160+ 个 skills：\n\n→ 安装全部 skills：\n\n`npx skills add bagelhole/DevOps-Security-Agent-Skills`\n\n→ 查看有哪些可用：\n\n`npx skills add bagelhole/DevOps-Security-Agent-Skills --list`\n\n→ 只装指定的 skills：\n\n`npx skills add bagelhole/DevOps-Security-Agent-Skills --skill kubernetes-ops --",
+        "likes": 0,
+        "url": "https://x.com/i/status/2094958755557626132"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2094958755557626132"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2095002944823607606",
+      "author": "BSCNews",
+      "text": "Pi Network Spotlights SoloHost’s Local AI Potential\n\nPi Network (@PiCoreTeam) is expanding what users can do with their computers through SoloHost.\n\nPi Network says SoloHost could give Pioneers more control over local computing.\n\nThe platform supports local AI agents and speciali",
+      "likes": 679,
+      "views": 0,
+      "url": "https://x.com/i/status/2095002944823607606",
+      "is_kol": false,
+      "score": 2447.0
+    },
+    {
+      "id": "2094879462857073093",
+      "author": "wallstengine",
+      "text": "MONGODB $MDB Q2’27 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $771.8M (Est. $734M) 🟢; +30% YoY\n🔹 Adj. EPS: $1.90 (Est. $1.61) 🟢; +90% YoY\n🔹 RPO: $1.52B; +91% YoY\n🔹 Non-GAAP Operating Margin: 24%; +900 bps YoY\n\nRaises FY27 Guide:\n🔹 Revenue: $2.99B-$3.03B (Est. $2.95B) 🟢\n🔹 Adj. EPS: $6.39-$6.",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2094879462857073093",
+      "is_kol": false,
+      "score": 435.0
+    },
+    {
+      "id": "2095048584026620222",
+      "author": "eyebrowCC",
+      "text": "🚨STRATEGIC PARTNERSHIP ANNOUNCEMENT🚨\n\nToday, we announce a Strategic Partnership between @eyebrowCC and @sibyl_labs_ to enhance AI Agentic compliance and security. This marks a major step toward eyebrow becoming the trusted partner for AI agent security.\n\nSibyl Labs, a renown nam",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2095048584026620222",
+      "is_kol": false,
+      "score": 363.0
+    },
+    {
+      "id": "2094984232078889205",
+      "author": "daniel_brook_ai",
+      "text": "🚨 20 AI Tools You Probably Haven’t Discovered Yet\nEveryone keeps talking about the same ChatGPT, Claude, and Gemini.\n\nMeanwhile, these 20 newer AI tools are quietly doing some seriously impressive things 👀\nhttps://t.co/5Kc8TVLm7P — Dictation that’s up to 4× faster than typing\nhtt",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2094984232078889205",
+      "is_kol": false,
+      "score": 327.0
+    },
+    {
+      "id": "2095131125702381763",
+      "author": "marclou",
+      "text": "I just added these to https://t.co/vjhTLjM5sA:\n\n🔗 API\n🤖 MCP\n🔎 llms.txt\n👂 Webhook\n🫸 Descriptive 404\n🧱 Server-rendered pages\n\nThe MCP has 60+ tools. Every UI can be used by AI.\n\nAll my new SaaS are agent-first now.\n\nAgents, you're welcome!",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2095131125702381763",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2095063178778427564",
+      "author": "witcheer",
+      "text": "managing MCP servers in Hermes Agent is now super user friendly and easy to do.\n\nthis new release added one desktop page where your servers and the whole catalog live together.\n\nwhat it does for you:\n\n(1) adding a server is a paste. drop in what you have and the page imports it.\n",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2095063178778427564",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2094988025411625277",
+      "author": "sanjeevSab17827",
+      "text": "You’ve built a chatbot. Now build an agent that actually ships value. \n\nLet’s kill the hype and talk real engineering. Here is a step-by-step sprint to building production-ready AI Agents:\n\n✓ Level 1: The Foundation (Don't skip this!)\nWe aren't just calling an API. It’s about Rea",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2094988025411625277",
+      "is_kol": false,
+      "score": 272.0
+    },
+    {
+      "id": "2094865364094005561",
+      "author": "FandeTeio_kb",
+      "text": "Che serio: Para que necesitamos la skill de Claw Forward para el Arima con el nuevo On Your Left?\n\nSi tiene mejor procc y sin la desventaja de la stamina https://t.co/s54JBKS0ZM",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2094865364094005561",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2094890990246994408",
+      "author": "onlyonealexia",
+      "text": "HACKATHON ALERT 🚨\n\nMonad just announced the Metropolis Global Hackathon. \n\nIt's a Six weeks hack to build the next wave of startups on @monad_xyz.\n\n💰 $250K+ in prizes\n🗓️ Deadline: October 13\n🌍 Global, solo or team\n\nYou have four tracks to build in:\n• Onchain Finance & Trading\n• C",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2094890990246994408",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2095088773977817471",
+      "author": "akashroy1k",
+      "text": "TermiX Agent Skills   the full end-to-end flow.\n\nSomeone at @termix_ai asked this week whether anyone actually got the agent skill running end to end.\n\nI realized I'd only been reading about it, not installing it.\n\nThis is a plugin not a paste-a-prompt thing.\n\nIn Claude Code :  \n",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2095088773977817471",
+      "is_kol": false,
+      "score": 243.0
+    },
+    {
+      "id": "2095000242831933723",
+      "author": "tofudestiny",
+      "text": "The interesting part of TermiX right now may be less about the marketplace itself and more about how an agent gets into it.\n\nTermiX is pushing its Skill as the fastest integration path: an agent can install the package through OpenClaw, while the official docs also point develope",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2095000242831933723",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2095104460800586187",
+      "author": "rubenhassid",
+      "text": "Delete every prompt template you ever saved.\n\nYou only need these 3 Claude Skills:\n\n1. /how-to SKILL\n☑ Your universal guide. A → Z on any task.\nType \"/how-to\" + what you want.\nClaude asks the right questions to builds the plan.\n↳ Replaces every \"how do I do this?\" prompt.\n\n2. /ab",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2095104460800586187",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2094880400040423816",
+      "author": "mark_k",
+      "text": "New Grok Build release! 🔥\n\n@SpaceXAI just shipped version 1.0.17 with a few useful improvements:\n\n• MCP tools now support the new multi-round-trip elicitation flow, allowing a tool call to return an \"input_required\" state and resume once the missing input is provided.\n• Next-prom",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2094880400040423816",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2095131134183305703",
+      "author": "navaneeth_pk",
+      "text": "Coding agents shouldn't generate code for internal tools.\n\nWe exposed ToolJet over MCP today. Claude Code builds the app by editing a spec, not writing React. Our runtime renders it. Then edit anything by hand in the visual builder.\n\nWorking app in minutes. Use your Claude Code s",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2095131134183305703",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2095064977048490107",
+      "author": "IBuzovskyi",
+      "text": "HERMES AGENT HAS A COMMAND THAT SHOWS\nHOW MANY TOKENS YOU BURN BEFORE YOU TYPE A WORD.\n\nhermes prompt-size\n\nshows your fixed cost per turn:\nsystem prompt + skills + memory + tool schemas.\n\nworks offline. no session needed.\n\nif it shows 8,000 tokens,\nthat's 8,000 tokens on EVERY t",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2095064977048490107",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2094968555527655921",
+      "author": "RHDaily__",
+      "text": "Robinhood Chain - Daily Recap\n\nOfficial News\n🟩 @RobinhoodApp fully rolled out Agentic Trading for crypto to eligible users, allowing AI agents to trade through the Robinhood MCP server using funds from a dedicated Agentic Account.\n🟩 @RobinhoodApp teased a new product with “Someth",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2094968555527655921",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2094941382385230316",
+      "author": "aspnetcore_news",
+      "text": "Building your first MCP server in ASP .NET Core by @AliHamzaAnsar16 https://t.co/92gSd3wPvu #aspnetcore https://t.co/BhtHi5LlX6",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2094941382385230316",
+      "is_kol": false,
+      "score": 163.0
+    }
+  ]
+}

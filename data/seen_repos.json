@@ -6522,5 +6522,21 @@
   "gnipbao/story-to-handdrawn-video": {
     "first_seen": "2026-09-01",
     "tier": 3
+  },
+  "gepa-ai/gepa": {
+    "first_seen": "2026-09-02",
+    "tier": 3
+  },
+  "coldteadotai/pr-lens": {
+    "first_seen": "2026-09-02",
+    "tier": 3
+  },
+  "eyriecommander/codex-skills": {
+    "first_seen": "2026-09-02",
+    "tier": 3
+  },
+  "nanako0129/sepia": {
+    "first_seen": "2026-09-02",
+    "tier": 3
   }
 }
