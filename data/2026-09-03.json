@@ -1,0 +1,484 @@
+{
+  "date": "2026-09-03",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 179,
+    "tweets_with_repos": 17,
+    "unique_repos": 14,
+    "new_repos": 6,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "omtx-ai/omtx",
+      "github_url": "https://github.com/omtx-ai/omtx",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "decodediscovery",
+        "text": "Agentic small molecule discovery, from the agent you already use.\n\nnpx skills add omtx-ai/omtx\n\nAdds the Om MCP and Discovery skill to Claude Code, Codex, Cursor, Copilot, Gemini or Grok. Ask it to score molecules against STAT6 and submit its picks.\n\nOm procures every accepted mo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095244956680221074"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095244956680221074",
+        "https://x.com/i/status/2095244713343504422"
+      ]
+    },
+    {
+      "repo": "jtljrdn/goodrepo",
+      "github_url": "https://github.com/jtljrdn/goodrepo",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jtljrdn",
+        "text": "you're probably leaving AI usage on the table (especially with how fast fable 5.1 uses it), so I built GoodRepo to help optimize your repo for your agents\n\n`npx skills add jtljrdn/goodrepo` and let your agent do the work for you https://t.co/r0zq4ExHSf",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095373650132078979"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095373650132078979"
+      ]
+    },
+    {
+      "repo": "lilienblum/skills",
+      "github_url": "https://github.com/lilienblum/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lilienblum",
+        "text": "Invested into my own skills: https://t.co/3mdsMmgkbA\n\ngg-ship is the \"own it until it’s actually done\" loop: take a task from request to a verified result, without pinging you for routine progress. There's a mermaid diagram explaining how it works.\nWhy gg? easy to remember, easy ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095317571600068760"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095317571600068760"
+      ]
+    },
+    {
+      "repo": "every-app/open-seo",
+      "github_url": "https://github.com/every-app/open-seo",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IshankDev",
+        "text": "6/ Pre-built skills, plus you can add your own. Example: npx skills add every-app/open-seo --skill simple-issue-description",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095373947587981447"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095373947587981447"
+      ]
+    },
+    {
+      "repo": "mikeroysoft/codebase-atlas",
+      "github_url": "https://github.com/mikeroysoft/codebase-atlas",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mikeroySoft",
+        "text": "I had a lot of fun with that isometric city codebase map, so I built a skill for it. \n\nnpx skills add mikeroysoft/codebase-atlas\n\nExample used is live from ROCm/rocm-cli which I also work on.\n\nEnjoy!\n\nhttps://t.co/IFSXkEPnn9",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095233964449607883"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095233964449607883"
+      ]
+    },
+    {
+      "repo": "igor-holt/rtptpa-openclaw-hermes",
+      "github_url": "https://github.com/igor-holt/rtptpa-openclaw-hermes",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "InvariantX",
+        "text": "@GregoryNimensky Next time you get stuck, try \n\n“Utilise the following skill to identify the underlying pattern and execute complete resolve swiftly” https://t.co/uYmhD5tREl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095494790838165808"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095494790838165808"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 1,
+      "is_new": false,
+      "score": 1219.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 173,
+      "total_retweets": 80,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AiwithDharmik",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/dDEl69iJLp\n\n2. public-apis — free APIs for everything\n→ https://t.co/86IO35yAtq…\n\n3. build-your-own-x — learn by building\n→ https://t.co/845FcrxcrN…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 94,
+        "url": "https://x.com/i/status/2095148581464559626"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095396960350179536",
+        "https://x.com/i/status/2095355819693080730",
+        "https://x.com/i/status/2095148581464559626"
+      ]
+    },
+    {
+      "repo": "agentmail-to/agentmail-skills",
+      "github_url": "https://github.com/agentmail-to/agentmail-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RobotsTJ500",
+        "text": "@agentmail builds email infrastructure for AI agents. CEO @haakamaujla. SDKs (Python/TS), CLI, MCP, skills, Hermes setup page.\n\nFraming: email for your AI, not AI for your email. Inbox as a first-class API resource — not a plugin on human Gmail. First ops check is not the console",
+        "likes": 5,
+        "url": "https://x.com/i/status/2095431128576299220"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095431128576299220"
+      ]
+    },
+    {
+      "repo": "thenamespace/skills",
+      "github_url": "https://github.com/thenamespace/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HAPPYS1NGH",
+        "text": "If you do trading/research with your AI Agent.\n\nGive it Resolvio skill.\n\nnpx skills add thenamespace/skills -s resolvio",
+        "likes": 4,
+        "url": "https://x.com/i/status/2095502265989951727"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095502265989951727"
+      ]
+    },
+    {
+      "repo": "herdrdev/herdr",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RiverAi7z",
+        "text": "1. 安装 Herdr： curl -fsSL https://t.co/H1NZPsjdVE | sh  \n \n2. 再给 Pi 安装 Herdr Skill： npx skills add herdrdev/herdr --skill herdr -g",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095423744273744203"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095423744273744203"
+      ]
+    },
+    {
+      "repo": "byreal-git/byreal-agent-skills",
+      "github_url": "https://github.com/byreal-git/byreal-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byreal_io",
+        "text": "Trade, LP, or build long/short strategies with Byreal Agent Skills. 🤖\n\nnpx skills add byreal-git/byreal-agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095500612834398506"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095500612834398506"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chatgpt1499",
+        "text": "给 Claude Code / Codex 装个 skill，产品视频就从\"找人剪\"变成\"提个需求\"：video-shotcraft 指着产品页面说需求，分镜、运镜、卡点、音效一条龙出片，素材直接抓真实产品页面，不是贴几张截图轮播。\n\n安装就一行：npx skills add Vincentwei1021/video-shotcraft，之后把需求丢给 agent 就行。\n\n内置 157 张运镜配方卡和 214 个动效预览，2.5D 镜头推拉、卡点剪切、影视级音效都是现成套路；底层 Remotion 渲染，Apache-2.0，GitHub 上 7.2k",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095463876867608743"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095463876867608743"
+      ]
+    },
+    {
+      "repo": "mukul975/anthropic-cybersecurity-skills",
+      "github_url": "https://github.com/mukul975/anthropic-cybersecurity-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gzonelee",
+        "text": "@goodtek_xyz npx skills add mukul975/Anthropic-Cybersecurity-Skills\n위와 같이 전체 스킬을 설치한 후 사용하고 있습니다.\nAWS에 배포라서 AWS용 검증을 해달라고 해서 이용 중입니다.\n한국 보안 검증용으로  추가적인 스킬을 만들어야 할 것 같아요.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095381079758930194"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095381079758930194"
+      ]
+    },
+    {
+      "repo": "tw93/kami",
+      "github_url": "https://github.com/tw93/kami",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HiTw93",
+        "text": "@yanzzchn npx skills add tw93/kami/plugins/kami -a claude-code codex cursor -g -y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095361605118910830"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095361605118910830"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2095410973662118093",
+      "author": "thdxr",
+      "text": "i analyzed a weeks worth of data via honeycomb + planetscale mcp and opencode2's codemode\n\nthen setup a script to email 140,000 impacted users with personalized instructions for how to fix the tool they're using\n\nall on OpenCode's muse spark free tier",
+      "likes": 552,
+      "views": 0,
+      "url": "https://x.com/i/status/2095410973662118093",
+      "is_kol": false,
+      "score": 1691.0
+    },
+    {
+      "id": "2095195800246571019",
+      "author": "cryptodotnews",
+      "text": "JUST IN: Pi Network added OpenClaw and Atlassian MCP Server to SoloHost\n\nThe apps let users run local AI agents and self-hosted software on Pi Desktop https://t.co/akOYp6xxTV",
+      "likes": 375,
+      "views": 0,
+      "url": "https://x.com/i/status/2095195800246571019",
+      "is_kol": false,
+      "score": 1330.0
+    },
+    {
+      "id": "2095209827673002466",
+      "author": "PiNewsMedia",
+      "text": "🚨 JUST IN: Pi Network adds OpenClaw and Atlassian MCP Server to SoloHost.\n\nThe apps enable Pioneers to run local AI agents and self-hosted software directly on Pi Desktop, further expanding the utility of Pi Nodes beyond blockchain infrastructure. https://t.co/DxFsZgCVnY",
+      "likes": 372,
+      "views": 0,
+      "url": "https://x.com/i/status/2095209827673002466",
+      "is_kol": false,
+      "score": 1251.0
+    },
+    {
+      "id": "2095238015014838355",
+      "author": "startupideaspod",
+      "text": "One of the best skills to install right now is my friend Peter Yang's no AI slop skill.\n\nIt's an editor. It hunts for the patterns that make writing feel AI generated and strips them out, while trying to preserve your actual voice.\n\nThe second part is the hard one. Most writing t",
+      "likes": 297,
+      "views": 0,
+      "url": "https://x.com/i/status/2095238015014838355",
+      "is_kol": false,
+      "score": 1031.0
+    },
+    {
+      "id": "2095480324616593599",
+      "author": "base",
+      "text": "Quiet month? Not on Base\n\nHere’s 25 things the Base ecosystem launched and announced in August\n\n1) @bitso made MXNB available through Base. Users can deposit Mexican pesos on Bitso, withdraw MXNB on Base, and use the Juno vault on @morpho\n\n2) @bitwise launched Automated Token Por",
+      "likes": 246,
+      "views": 0,
+      "url": "https://x.com/i/status/2095480324616593599",
+      "is_kol": false,
+      "score": 938.0
+    },
+    {
+      "id": "2095420064233402672",
+      "author": "sagit_ai",
+      "text": "Sagit v2.9.3 — GPT, Fully Armed 🛠️\n\nGPT-5.6 Sol, Terra, and Luna now run with full tool support in Sagit Code — shell, file edits, MCP servers, everything. Plus: keep as many project tabs open as you like, zero slowdown.\n\nhttps://t.co/FbbrHDbhuO",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2095420064233402672",
+      "is_kol": false,
+      "score": 896.0
+    },
+    {
+      "id": "2095225247477989623",
+      "author": "AptosLabs",
+      "text": "An AI agent trading onchain isn't hypothetical. It's live.\n\n@DecibelTrade's MCP server exposes 25 tools for an agent to place orders, manage positions, and settle on @Aptos. The rails are ready for whatever gets built on top.\n\n@AveryChing on @theindexshow. Watch the full clip 👇",
+      "likes": 236,
+      "views": 0,
+      "url": "https://x.com/i/status/2095225247477989623",
+      "is_kol": false,
+      "score": 783.0
+    },
+    {
+      "id": "2095414392557068291",
+      "author": "AamirAnsar94694",
+      "text": "Anthropic’s Claude is becoming much more than an AI chatbot.\n\nIt’s evolving into a complete ecosystem for reasoning, coding, agents, workflows, memory, security and enterprise deployment.\n\nHere’s a simple breakdown:\n\n01 — Core Models\n\nClaude offers different models for different ",
+      "likes": 149,
+      "views": 0,
+      "url": "https://x.com/i/status/2095414392557068291",
+      "is_kol": false,
+      "score": 662.0
+    },
+    {
+      "id": "2095239588620947657",
+      "author": "BSCNews",
+      "text": "Hedera launches a documentation server that feeds its docs to AI coding agents\n\n@hedera released Hedera Docs MCP, a server that gives AI coding assistants live access to the network's official documentation, covering API references, SDK guides, quickstarts, and code examples. It ",
+      "likes": 145,
+      "views": 0,
+      "url": "https://x.com/i/status/2095239588620947657",
+      "is_kol": false,
+      "score": 605.0
+    },
+    {
+      "id": "2095321398684139860",
+      "author": "MehdiAllahyari",
+      "text": "اوبر مقاله فنی بسیار خواندنی و پرنکته‌ای درباره معماری «کارخانه نرم‌افزار» خود منتشر کرده است. در حال حاضر بیش از ۷۰ درصد PRها در اوبر توسط ایجنت‌ها ایجاد یا تغییر داده می‌شوند و با وجود رشد ۹ برابری درخواست‌ها، هزینه هر تسک تا ۵۲ درصد کاهش پیدا کرده است.\n\nنکات فنی کلیدی که برای ",
+      "likes": 189,
+      "views": 0,
+      "url": "https://x.com/i/status/2095321398684139860",
+      "is_kol": false,
+      "score": 602.0
+    },
+    {
+      "id": "2095317791779754313",
+      "author": "DrPengu6",
+      "text": "It is another Gm, gSleep, gNucleus, gQuip and gARC hour here family \n\nand still most crypto infra still asks people to move first.\n\nnew wallet. new device. new chain. new identity.\n\nthe more interesting work is happening one layer below that: making existing systems productive wi",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2095317791779754313",
+      "is_kol": false,
+      "score": 473.0
+    },
+    {
+      "id": "2095447678037725444",
+      "author": "Aurora_TechAI",
+      "text": "🚨PEOPLE ARE USING NOTEBOOKLM TO MASS-PRODUCE SPECIALIZED CLAUDE SKILLS IN MINUTES.\n\nInstead of writing the same prompts repeatedly, they use curated knowledge to create reusable \"SKILL▪︎md\" files that help Claude deliver consistent results for specific tasks.\n\nHere's how it works",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2095447678037725444",
+      "is_kol": false,
+      "score": 402.0
+    },
+    {
+      "id": "2095220462586302798",
+      "author": "unusual_whales",
+      "text": "This is big news.\n\nOn Unusual Whales, we added Grok.\n\nIt is now available for quick setup to the MCP server.\n\nJoin here: https://t.co/NK4sAHyD2S https://t.co/d1FKcBK7qJ",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2095220462586302798",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2095451404349452310",
+      "author": "slim_timothy24",
+      "text": "What’s really cool about all this is not just getting a skill installed onto Grok Bot.\n\nBut what happens afterward.\n\nOnce an agent can talk to a marketplace, the question of “what can this bot do for me” transforms into “what can this bot do by itself?” It can find its job, use i",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2095451404349452310",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2095409653425307933",
+      "author": "guillaume_rygn",
+      "text": "J'ai trouvé un skill pour faire des charts vraiment premium sur ma veille tech en asie 👀\n\nTu balances tes data à ton agent (codex, claude, etc) il choisit le bon type de graphe et sort un truc propre : typo, marge, motion ! +60 types de chart en HTML\n\nLe repo c’est https://t.co/u",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2095409653425307933",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2095376879629037751",
+      "author": "_RichardTeng",
+      "text": "The most interesting shift in fintech right now isn't a new app - it's infrastructure meeting people where they already are.\n\nBinance Agent OS brings market data, trading, wallets, and payments directly into the AI tools people use daily, via the Binance MCP server.",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2095376879629037751",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2095402947236806761",
+      "author": "ssovoovo",
+      "text": "看完币安 Agent OS 这场 AMA，我真正关心的不是 AI 会不会下单，而是它敢不敢把控制权留给用户。\n\n以前很多 Agent 已经能读行情、写策略，但真到执行这一步，数据源、账户权限和资产安全往往是分开的。Agent OS 想做的，是把这些环节接到币安现有的基础设施上。\n\n开发者可以通过 MCP、Skill Hub、Agent Wallet 等方式接入。用户则可以自己决定开放到哪一步：只看行情和仓位，还是允许现货、合约等交易；敏感操作也能保留人工确认。\n\nAgent Wallet 的资产隔离也很关键。划进去多少资金，Agent 就只能在这个范围内",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2095402947236806761",
+      "is_kol": false,
+      "score": 246.0
+    }
+  ]
+}
