@@ -1,0 +1,537 @@
+{
+  "date": "2026-09-04",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 157,
+    "tweets_with_repos": 20,
+    "unique_repos": 17,
+    "new_repos": 9,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "ahujasid/blender-mcp",
+      "github_url": "https://github.com/ahujasid/blender-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 2633.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 701,
+      "total_retweets": 86,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tarava777",
+        "text": "Tripo3Dで生成したモデルのUVとテクスチャは使い物にならないので、Blender MCP ServerとCodex Lunaを使って自動でパーツ分割して粗UV展開するところまで自動化したよ。\nhttps://t.co/cerxB5qWQI\nMCPはリンク先のものを利用。これでかなり後処理が楽になったかな。もともとは全身がめちゃくちゃなUVだったけれど、靴だけとかって単位で雑UVを開いてパーツごとにパッキングまで出来てる。人間がやったことは自動分割したパーツを靴とかボディとかって統合して、不要なノイズになるメッシュを削除しただけ。\n#b3d #tri",
+        "likes": 701,
+        "url": "https://x.com/i/status/2095643078485045348"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095643078485045348"
+      ]
+    },
+    {
+      "repo": "nutlope/open-customer-insights",
+      "github_url": "https://github.com/nutlope/open-customer-insights",
+      "tier": 2,
+      "is_new": true,
+      "score": 497.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 119,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nutlope",
+        "text": "6 months ago, I started building an internal customer insights tool at Together AI.\n\nIt pulls in our sales calls, slack channels, & support tickets and turns them into searchable customer insights.\n\nToday, I'm open sourcing it. Introducing Open Customer Insights.\n\nWe use it inter",
+        "likes": 119,
+        "url": "https://x.com/i/status/2095562451089596656"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095562451089596656"
+      ]
+    },
+    {
+      "repo": "voxelithicag/mcp",
+      "github_url": "https://github.com/voxelithicag/mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 288.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxelithicag",
+        "text": "Voxelithic is now an MCP server.\n\n{ \"mcpServers\": { \"voxelithic\": { \"command\": \"npx\", \"args\": [\"-y\", \"voxelithic-mcp\"] } } }\n\nOne line of config, no key, nothing to write. Six tools: quote a pair, build the swap, verify the fill, read the canonical token set.\n\nIt cannot spend you",
+        "likes": 51,
+        "url": "https://x.com/i/status/2095546248329830579"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095546248329830579"
+      ]
+    },
+    {
+      "repo": "taserjs/taserjs",
+      "github_url": "https://github.com/taserjs/taserjs",
+      "tier": 3,
+      "is_new": true,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "KaziAhmedDev",
+        "text": "Look at that beauty... 👀\n\n→ Perf-maxing Taser: v0.1.10\n→ Agent skills: `npx skills add taserjs/taserjs`.\n→ QUERY http verb support.\n→ Next.js &amp; Tanstack Start support.\n→ Plugins for esbuild, webpack, rspack and many more.\n→ Bundle size: &lt; 10kb gzipped.\n\nnpm create taserjs ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095829493424562381"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095829493424562381",
+        "https://x.com/i/status/2095616013773721947"
+      ]
+    },
+    {
+      "repo": "xagentai/xagt-plugin",
+      "github_url": "https://github.com/xagentai/xagt-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 206.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAgent_official",
+        "text": "Everyone is vibe coding. Few are building what agents—and real users—will actually call. 🤖\n\nAI has made shipping cheaper than ever. For OPCs, the new scarce resource isn’t productivity. It’s demand, trust, and distribution.\n\nThat’s why we believe the next opportunity is not anoth",
+        "likes": 27,
+        "url": "https://x.com/i/status/2095696189157241114"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095696189157241114"
+      ]
+    },
+    {
+      "repo": "vladzima/colormason",
+      "github_url": "https://github.com/vladzima/colormason",
+      "tier": 3,
+      "is_new": true,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vladzima",
+        "text": "NEW\n\nan agent skill that turns one brand color into a complete, accessible color system\n\nnpx skills add vladzima/colormason https://t.co/7WPMR0aBRs",
+        "likes": 4,
+        "url": "https://x.com/i/status/2095572289048002770"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095572289048002770"
+      ]
+    },
+    {
+      "repo": "debpalash/voicestudio",
+      "github_url": "https://github.com/debpalash/voicestudio",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neneqi2924",
+        "text": "Facts: app AGPL-3.0; model weights keep upstream terms (default OmniVoice = CC-BY-NC — check before commercial ship). Commercial license for proprietary embedding. Install DMG/MSI/AppImage/Docker. npx skills add debpalash/VoiceStudio\nhttps://t.co/xGi5OcG4SR",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095686026811572384"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095686026811572384"
+      ]
+    },
+    {
+      "repo": "saipuneeth2706/ratazilla",
+      "github_url": "https://github.com/saipuneeth2706/ratazilla",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rsaipuneeth",
+        "text": "Ratzilla skill — build browser TUIs with Rust/Wasm. Covers Dom vs Canvas vs WebGL2 backends, trunk builds, event wiring, pitfalls. Grounded in v0.3.1 source. Install: npx skills add saipuneeth2706/ratazilla\n@orhundev @ratatui_rs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095591713494782301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095591713494782301"
+      ]
+    },
+    {
+      "repo": "chenhg5/cc-connect",
+      "github_url": "https://github.com/chenhg5/cc-connect",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chg80333",
+        "text": "cc-connect v1.5.1-beta.1 上桌了(8/28) — v1.5.0 stable 之后 16 个 PR 的 beta。\n\n这一批的实质变化:\n  · weixin send budget 终于能拆开按 agent 算\n  · feishu 大文件下载加了 chunked HTTP Range,bot discovery 改成 fail-closed\n  · claude code /compact 现在能恢复原 session\n  · codex 加了 /list session names + max reasoning effor",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095862834420687016"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095862834420687016"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 1,
+      "is_new": false,
+      "score": 309.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kemu_aii",
+        "text": "①入れ方はコマンド1行です。\n\nnpx skills add blader/humanizer --global\n\nClaude Codeが最新なら、\n /plugin marketplace add blader/humanizer  でもOK\n\n使うときは /humanizer と打って文章を貼るだけで、ファイルごと渡すなら「docs/記事.mdの文章をhumanizeして」で通ります。\n\n元はgithubで以下のサイトで共有されてます。\nhttps://t.co/3OLqJzy3Hj\nここを説明しておくと、",
+        "likes": 3,
+        "url": "https://x.com/i/status/2095780304585896411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095780304585896411",
+        "https://x.com/i/status/2095747767209722211",
+        "https://x.com/i/status/2095854690105995655"
+      ]
+    },
+    {
+      "repo": "nousresearch/hermes-agent",
+      "github_url": "https://github.com/nousresearch/hermes-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 237.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "开始用各种 AI Agent，最头痛的一件事就是：有些东西明明已经教过它一遍，下次碰到类似任务，还得重新解释。\n\n今天刚看到 Nous Research 的 Hermes Agent，GitHub 已经 24.1W+ ⭐️，它刚好在处理这个问题。\n\nHermes 会记住之前的对话，也会自己搜过去的聊天记录。更有意思的是，做完一些复杂任务以后，它可以把过程中学到的东西整理成 Skill。\n\n下次再碰到类似的活，不是从头开始，而是直接把之前那套经验拿出来继续用。\n\n而且 Skill 不是写死的，用的过程中还能继续改。\n\n现在很多 Agent 都在拼模型、To",
+        "likes": 44,
+        "url": "https://x.com/i/status/2095693447198134386"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095693447198134386"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 163.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "UnicornBitcoin",
+        "text": "我知道 OKX Agent Trade Kit 很好用\n但很多人根本不知道怎么用\n\n怎么用我这条来说清楚\n\n把 Claude、Cursor、OpenClaw、Codex 这些 AI 客户端接上你的 OKX 账户，让 AI 能读行情、查持仓、配策略、甚至替你下单（要不要做到下单这步，自己掌控和配置）\n\n工具跑在本地，API Key 攥在你自己手里\n\n1/装起来，两行命令\n\n先在电脑上装 Skills：\n\nnpx skills add okx/agent-skills\n\n2/再装 CLI，这个负责连账户：\n\nnpm i -g @okx_ai/okx-trad",
+        "likes": 21,
+        "url": "https://x.com/i/status/2095830309652804001"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095830309652804001"
+      ]
+    },
+    {
+      "repo": "stirling-tools/stirling-pdf",
+      "github_url": "https://github.com/stirling-tools/stirling-pdf",
+      "tier": 3,
+      "is_new": false,
+      "score": 135.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sumika45379",
+        "text": "各ジャンルで絶対に入れるべきClaude Codeのskillを15個まとめました。\nNVIDIA・Supabase・ByteDanceなど世界の一流チームが自分たちのために作った精鋭で、最大スター120,826。\n業務効率とアウトプットの質を上げたい人は必ず見てください。\n\n━━━━━━\n【資料作成】\n1. ui-before-after\nブランチやプルリクが触った画面を自動で見つけ、変更前と後を撮って重ね、どこが変わったのかを1ピクセル単位で出してくれる。\n\nhttps://t.co/pEt5TpswXM\n\n2. load-github-action",
+        "likes": 10,
+        "url": "https://x.com/i/status/2095851900868731207"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095851900868731207"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that gets you listed everywhere buyers compare tools.\n\nOne master profile — copy, screenshots, pricing, FAQs — adapted and submitted to every directory in your category. No API for those submission forms? It drives the browser and fills them anyway.\n\nnpx skills add",
+        "likes": 6,
+        "url": "https://x.com/i/status/2095852397046464999"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095852397046464999"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "flowoodzx",
+        "text": "디자인 감각 없는 사람이 만든 UI가\n왜 다 비슷하게 밋밋한지 궁금했다.\n\nClaude Code 스킬 저장소\njakubkrehel/skills를\n방금 설치해서 열어봤다.\n별 5천 개짜리 인터페이스 스킬 모음이다.\n\n이 스킬은 \"감\"을 숫자로 박아놨다.\n\n바깥 radius는 안쪽 radius + 패딩.\n버튼 누를 때 scale은 항상 0.96,\n0.95면 과하다고 못 박혀 있다.\n\n아이콘이 바뀔 때는\nopacity, scale(0.25→1),\nblur(4px→0px)를 같이 쓰고\n스프링 바운스는 무",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095660238271807760"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095660238271807760"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-plugins-community",
+      "github_url": "https://github.com/anthropics/claude-plugins-community",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fardakarimov",
+        "text": "claude-plugins-community: Community plugin marketplace for Claude Cowork and Claude Code.\nIt has picked up 97 stars in the last week.\n\nhttps://t.co/XKvvLf7KYy\n#Python #GameDev #OpenSource https://t.co/SRuXUNZLNZ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2095858027479900205"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095858027479900205"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sabuuuuu69",
+        "text": "GitHub週間トレンドと急上昇指標を確認し、病院薬剤師×AIマーケ向けに実用性の高いリポジトリを絞り込みます。実務向きの候補を絞り、各リポジトリの機能と成長指標を確認します。## 🔥 今週の急上昇AIオープンソース（成長率・急増重視）\n1. scientific-agent-skills - ★約4.2万（直近7日 +約6,900）\n•主な機能：医学・薬学・創薬向けAgent Skills（165種）と科学DB接続\n•おすすめポイント： PK/PD、DDI、臨床試験、ファーマコゲノミクスの下調べをAgentに委譲できる。 患者個別の診断・処方はしない設",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095636275269361734"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095636275269361734"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2095668162624618959",
+      "author": "Xudong07452910",
+      "text": "今天已经看到不少人在分享 Stanford 新开的 CS329Z: Engineering AI Agents。\n\n不想再重复介绍课程，我反而更好奇：\n\nStanford 到底把什么算作 2026 年的「Agent Engineering」？\n\n看完整 syllabus，RAG、Tool Use、MCP、Agent Framework 基本都放在前半程，更像 Agent 的基础能力。\n\n真正让我注意的是后半段。\n\n第一节课就把 Agent Engineering 的核心工程问题概括成：\n\nDecomposition、Data、Evaluation。\n\n后",
+      "likes": 855,
+      "views": 0,
+      "url": "https://x.com/i/status/2095668162624618959",
+      "is_kol": false,
+      "score": 3320.0
+    },
+    {
+      "id": "2095804586460332388",
+      "author": "shannholmberg",
+      "text": "we got GPT-6 Astra, here are the first 3 things to run with it\n\nGPT-6 Astra scored 32% higher than Fable 5.1, so its officially the best model out there\n\nhere are the 3 most important things you can do right away:\n\n1. review how you work\n\ngive Astra your session and project histo",
+      "likes": 507,
+      "views": 0,
+      "url": "https://x.com/i/status/2095804586460332388",
+      "is_kol": false,
+      "score": 1666.0
+    },
+    {
+      "id": "2095609195030864347",
+      "author": "hxiao",
+      "text": "Sharing two long-horizon sessions on pi + self-hosted models. first: 16 hours long, zero steering, 99 laps. I used pi + local models to port our upcoming Jina model from bf16 PyTorch into MLX+MTP quants (model J in the sequel). The local model is qwen3.8-flash-next-omlx-q4 from @",
+      "likes": 201,
+      "views": 0,
+      "url": "https://x.com/i/status/2095609195030864347",
+      "is_kol": false,
+      "score": 658.0
+    },
+    {
+      "id": "2095782284393652348",
+      "author": "ersinkoc",
+      "text": "Aylardır kullandığım Claude 20x hesabını önce 5x’e düşürdüm. Şimdi ise haftanın son günü, “Bari verdiğim para tamamen boşa gitmesin” diye zorla iş yaptırmaya çalışmama rağmen kotanın yarısını bile tüketemiyorum.\n\nSebebi daha az kod yazmam değil. Tam tersine, aynı anda daha fazla ",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2095782284393652348",
+      "is_kol": false,
+      "score": 502.0
+    },
+    {
+      "id": "2095803051332284516",
+      "author": "DamiDefi",
+      "text": "SKIP NETFLIX TONIGHT.\n\nSpend 2 hours learning how to make AI do the work for you.\n\nThis Claude AI FULL COURSE shows you how to BUILD, AUTOMATE, and ship almost anything.\n\nThe people who finish it tonight will wake up tomorrow with a skill they can actually use.\n\n2 hours could cha",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2095803051332284516",
+      "is_kol": false,
+      "score": 442.0
+    },
+    {
+      "id": "2095587720168980606",
+      "author": "fivosaresti",
+      "text": "We applied an engineering mindset to our LinkedIn content. \n\nThe result: \n\n• 80+ meetings/mo\n• 1.5M+ impressions/mo\n• 150,000+ followers across our company\n\nHere’s the full 8 part system:\n\n1. Context layer\n\nClaude Code is only as good as the context you give it, so everything get",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2095587720168980606",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2095550289667555342",
+      "author": "frxiaobei",
+      "text": "已购入，比我自己用微信读书 skill+openclaw+telegram 每天推送的一堆文字好看 100 倍。\n\n对于优雅的 App 把持不住！ https://t.co/g2WzqDM8Va",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2095550289667555342",
+      "is_kol": false,
+      "score": 335.0
+    },
+    {
+      "id": "2095561218782277881",
+      "author": "sydneyrunkle",
+      "text": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2095561218782277881",
+      "is_kol": false,
+      "score": 278.0
+    },
+    {
+      "id": "2095807430668239356",
+      "author": "ai_with_orbit",
+      "text": "Most people think prompts are just text.\n\nThey aren’t.\n\nPrompt Master turns prompts into a skill that works across Claude.\n\nI turned this cross‑AI workflow into a step‑by‑step guide.\n\nValued at $81.\n\nFREE for the next 48 hrs.\n\nType “PROMPT”\nFollow me : @ai_with_orbit. https://t.c",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2095807430668239356",
+      "is_kol": false,
+      "score": 263.0
+    },
+    {
+      "id": "2095724094956474852",
+      "author": "madonomori",
+      "text": "無料のGUIツール「LM Studio」でMCPをつかう方法 ～外部のデータとつながってLLMの知識を拡張しよう／「Microsoft Learn MCP Server」からマイクロソフト公式情報を取得してみた【ローカルAIの杜】 https://t.co/oQIUKlTYyU https://t.co/1jdCZqA3Xz",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2095724094956474852",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2095753912313917801",
+      "author": "Suryanshti777",
+      "text": "You installed Claude Code and stopped there.\n\nHere are 22 skills (actually) worth adding:\n\nIf you're just getting started, check out these guides:\n\nEvery one is a GitHub repo. Grouped by what they do:\n\nBUILD\n\nsuperpowers — plans and debugs before it writes\nInstall → https://t.co/",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2095753912313917801",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2095608626631049563",
+      "author": "Udoh_Graceee",
+      "text": "Most safety measures assume a human is still in the loop, catching mistakes before they compound.\n\nThat assumption breaks the moment two agents transact directly with each other at machine speed, with no person watching either side.\n\nThat’s the problem the MCP Server solves.\n\nAny",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2095608626631049563",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2095749729023905880",
+      "author": "1006_amit7481",
+      "text": "Anthropic’s Claude is becoming much more than an AI chatbot.\n\nIt’s evolving into a complete ecosystem for reasoning, coding, agents, workflows, memory, security and enterprise deployment.\n\nHere’s a simple breakdown:\n\n01 — Core Models\n\nClaude offers different models for different ",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2095749729023905880",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2095547786225742183",
+      "author": "signalboundart",
+      "text": "Ethereum is for shipping. So we shipped Signalbound.\n\nSignalbound is a sold-out collection of 6,666 fully onchain Ethereum NFTs built around a simple thesis:\n\nAn NFT can be more than an image.\n\nIn Signalbound, the NFT is the identity, the current holder is the authority, traits c",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2095547786225742183",
+      "is_kol": false,
+      "score": 208.0
+    },
+    {
+      "id": "2095785184117629047",
+      "author": "turanselvi",
+      "text": "big shoutout to @marclou \n\nhttps://t.co/yWz5DfMZFa might be the fastest value i've ever gotten from a tool.\n\nwe were one of the first users and within 10 minutes our slack was going off.\n\nWe found a youtube video comparing us to another platform with 723 views\n\nWe found a hidden ",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2095785184117629047",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2095531380549582863",
+      "author": "ClawBankHQ",
+      "text": "ClawBank is a full-fledged MCP server. You can easily add it to @cursor_ai and have civilizational power exposed to your agents:\n\n- banking\n- entity formation\n- legal contracts\n- trading\n- prediction markets\n- agent-native email\n- x402 resources\n- etc\n\nhttps://t.co/ppPTWWIOiU htt",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2095531380549582863",
+      "is_kol": false,
+      "score": 200.0
+    }
+  ]
+}

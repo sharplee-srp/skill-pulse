@@ -6562,5 +6562,41 @@
   "igor-holt/rtptpa-openclaw-hermes": {
     "first_seen": "2026-09-03",
     "tier": 3
+  },
+  "ahujasid/blender-mcp": {
+    "first_seen": "2026-09-04",
+    "tier": 2
+  },
+  "nutlope/open-customer-insights": {
+    "first_seen": "2026-09-04",
+    "tier": 2
+  },
+  "voxelithicag/mcp": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "taserjs/taserjs": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "xagentai/xagt-plugin": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "vladzima/colormason": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "debpalash/voicestudio": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "saipuneeth2706/ratazilla": {
+    "first_seen": "2026-09-04",
+    "tier": 3
+  },
+  "chenhg5/cc-connect": {
+    "first_seen": "2026-09-04",
+    "tier": 3
   }
 }
