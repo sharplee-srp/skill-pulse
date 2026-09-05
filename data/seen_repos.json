@@ -6598,5 +6598,37 @@
   "chenhg5/cc-connect": {
     "first_seen": "2026-09-04",
     "tier": 3
+  },
+  "facet-llc/shopping-skill": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "echoforge-dev/echomkb": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "durable-workflow/ai": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "ashwinning/refrens-api-skill": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "poorvith-mp/skills-finance": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "esceptico/skills": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "youngyunjeong/mcps": {
+    "first_seen": "2026-09-05",
+    "tier": 3
+  },
+  "goplussecurity/asset-lighthouse": {
+    "first_seen": "2026-09-05",
+    "tier": 3
   }
 }

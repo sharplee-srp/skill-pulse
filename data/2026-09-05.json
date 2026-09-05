@@ -1,0 +1,565 @@
+{
+  "date": "2026-09-05",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 180,
+    "tweets_with_repos": 16,
+    "unique_repos": 18,
+    "new_repos": 8,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "facet-llc/shopping-skill",
+      "github_url": "https://github.com/facet-llc/shopping-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 237.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BosonProtocol",
+        "text": "If you build agents, your agent can now buy things.\n\nFacet's /shopping-skill ships as an MCP server: drop it into the assistant you already run and it can shop real WooCommerce and Shopify stores. Non-custodial throughout — the buyer's wallet signs, Boson escrow holds the funds, ",
+        "likes": 34,
+        "url": "https://x.com/i/status/2095904892011401223"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095904892011401223"
+      ]
+    },
+    {
+      "repo": "echoforge-dev/echomkb",
+      "github_url": "https://github.com/echoforge-dev/echomkb",
+      "tier": 3,
+      "is_new": true,
+      "score": 142.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EchoForgeEF",
+        "text": "Introducing the fourth step: EchoMKB\nKapa-@MidnightNtwrk  Expert-@Midnight_Skills -EchoMKB\n\nFound-Built-Further-Reported\nThat's the network\n\nUse it right now: npx skills add EchoForge-Dev/EchoMKB https://t.co/qFtwusBLNd",
+        "likes": 9,
+        "url": "https://x.com/i/status/2096004246302822911"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096004246302822911"
+      ]
+    },
+    {
+      "repo": "durable-workflow/ai",
+      "github_url": "https://github.com/durable-workflow/ai",
+      "tier": 3,
+      "is_new": true,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DurableWorkflow",
+        "text": "npx skills add durable-workflow/ai --skill durable-execution https://t.co/bSPlLfV8Ay",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096031629634376120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096031629634376120"
+      ]
+    },
+    {
+      "repo": "ashwinning/refrens-api-skill",
+      "github_url": "https://github.com/ashwinning/refrens-api-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ashwinning",
+        "text": "2/ To connect your account, you can run, or ask your agent to run:\n\n&gt; npx skills add Ashwinning/refrens-api-skill\n\nThe agent will guide you through the brief setup, accessing and storing your Refrens API credentials locally, and get you running!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096178031228535034"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096178031228535034"
+      ]
+    },
+    {
+      "repo": "poorvith-mp/skills-finance",
+      "github_url": "https://github.com/poorvith-mp/skills-finance",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poorvith_mp",
+        "text": "Three ways to install Skillary, zero custom package managers required:\n\nnpx skills add poorvith-mp/skills-developer\nnpx skills add poorvith-mp/skills-finance/fp-and-a-analyst   (single skill)\n/plugin marketplace add poorvith-mp/skillary                 (Claude Code) https://t.co/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096070821995577549"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096070821995577549"
+      ]
+    },
+    {
+      "repo": "esceptico/skills",
+      "github_url": "https://github.com/esceptico/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "postimortem",
+        "text": "made some agent skills (and updated the old ones).\n- ml-research: evaluate research and design experiments (including mech interp)\n- tool-harness-audit: review tool usability and reliability\n- development-ledger: track research, decisions, and verification across sessions\n\nreleas",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096029606528573894"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096029606528573894"
+      ]
+    },
+    {
+      "repo": "youngyunjeong/mcps",
+      "github_url": "https://github.com/youngyunjeong/mcps",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_yy_me",
+        "text": "agy(Antigravity) 기본 view_file tool 은 800 lines, 45KB 제약으로 한 턴에 여러번 같은 파일을 read-edit 반복하는 문제를 발견했어요 \n\n그래서 claude code 의 str_replace_editor 참고해서 rust 기반 fast-file-editor 를 mcp 로 만들어보았습니다 \nhttps://t.co/r0FK8FvKyL https://t.co/zRzAaU4MMr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096215295090479349"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096215295090479349"
+      ]
+    },
+    {
+      "repo": "goplussecurity/asset-lighthouse",
+      "github_url": "https://github.com/goplussecurity/asset-lighthouse",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoPlusZH",
+        "text": "@0xweiqigaoshou 从多链的转出看，大概率还是私钥/助记词泄露的问题。可以装一下这个 Skill ，他能调查本地设备上疑似的 Web3 加密盗窃行为，帮助 Codex、OpenClaw 或 Hermes 等 Agent 收集安全证据，识别常见盗币手法的根本原因，并提供遏制和补救指导：https://t.co/jDOaqYdtpy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096101041360289965"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096101041360289965"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 277.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AnnuKumari35786",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/hagPNqCaRk\n\n2. public-apis — free APIs for everything\n→ https://t.co/xBWz5KJXHy…\n\n3. build-your-own-x — learn by building\n→ https://t.co/l5IYbUtMFM…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 34,
+        "url": "https://x.com/i/status/2096066657433346231"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096066657433346231"
+      ]
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "github_url": "https://github.com/earthtojake/text-to-cad",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "earthtojake",
+        "text": "skills: https://t.co/PnAPZD3Feh\n\ninstall: npx skills add earthtojake/text-to-cad",
+        "likes": 36,
+        "url": "https://x.com/i/status/2096020383203758386"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096020383203758386"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaohuiAI666",
+        "text": "最近充分感受到了大家对于Codex Skills的学习热情，今天在给大家推荐两个宝藏skill：\n\n1. handoff\n\n解决的是 Codex 最烦的断点问题：窗口一换、会话一满、换模型再开，上下文就丢。它会把当前对话压成一份可交接文档（做到哪、决策是什么、下一步干什么），新会话直接接着干。适合长任务、跨天开发、把活从 Codex 甩给 Claude Code / 另一个窗口。和 create-plan 是前后脚：一个管开工，一个管续工。\n\n安装方式：\nnpx skills add mattpocock/skills --skill handoff\n\n",
+        "likes": 33,
+        "url": "https://x.com/i/status/2096139908926898199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096139908926898199"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 214.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaohuiAI666",
+        "text": "最近充分感受到了大家对于Codex Skills的学习热情，今天在给大家推荐两个宝藏skill：\n\n1. handoff\n\n解决的是 Codex 最烦的断点问题：窗口一换、会话一满、换模型再开，上下文就丢。它会把当前对话压成一份可交接文档（做到哪、决策是什么、下一步干什么），新会话直接接着干。适合长任务、跨天开发、把活从 Codex 甩给 Claude Code / 另一个窗口。和 create-plan 是前后脚：一个管开工，一个管续工。\n\n安装方式：\nnpx skills add mattpocock/skills --skill handoff\n\n",
+        "likes": 33,
+        "url": "https://x.com/i/status/2096139908926898199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096139908926898199"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@danielfazio HyperFrames! install it with npx skills add heygen-com/hyperframes",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096125824206344272"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096125824206344272"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BhagatDhanji",
+        "text": "Just found this - Google open-sourced a huge collection of Agent Skills.\n\nThink of Skills as giving your AI coding agent specialized knowledge for doing real work.\n\nGoogle's repo includes skills for:\n\n• Gemini & AI agents\n• Google Cloud\n• GKE\n• BigQuery\n• Firebase\n• Cloud Run\n• G",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096097112253755857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096097112253755857"
+      ]
+    },
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neneqi2924",
+        "text": "Facts: MIT. Install: npx skills add blader/humanizer --global (or Claude plugin). /humanizer or \"humanize this\". Pattern source: WikiProject AI Cleanup. Leverage = one skill that compounds across every agent you already run.\nhttps://t.co/vvLyHl8gDF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096179694362333292"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096179694362333292"
+      ]
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "github_url": "https://github.com/virgiliojr94/book-to-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BuiltByNav",
+        "text": "You can even turn internal documentation, research papers, specifications, runbooks, or entire documentation folders into reusable agent skills.\n\nAlready at **28.6K+ GitHub stars**.\n\nInstall:\n\n`npx skills add virgiliojr94/book-to-skill`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096139945236976006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096139945236976006"
+      ]
+    },
+    {
+      "repo": "poorvith-mp/skills-developer",
+      "github_url": "https://github.com/poorvith-mp/skills-developer",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poorvith_mp",
+        "text": "Three ways to install Skillary, zero custom package managers required:\n\nnpx skills add poorvith-mp/skills-developer\nnpx skills add poorvith-mp/skills-finance/fp-and-a-analyst   (single skill)\n/plugin marketplace add poorvith-mp/skillary                 (Claude Code) https://t.co/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096070821995577549"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096070821995577549"
+      ]
+    },
+    {
+      "repo": "humanlayer/skills",
+      "github_url": "https://github.com/humanlayer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "venkybytes",
+        "text": "For someone trying Skills for the first time, use this guide for direction:\n\n1. Open Terminal\n2. Run:\n   npx skills add humanlayer/skills --skill show-me\n3. Choose Codex or Claude Code\n4. Install\n5. Invoke it:\n   Claude: /show-me this PR\n   Codex: $show-me this PR\n\nThat’s it.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2095949053167042677"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2095949053167042677"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2095904642668618229",
+      "author": "cb_doge",
+      "text": "BREAKING: SpaceXAI has released another major new update for Grok Build (v1.0.19)\n\nThis update improves background task handling, adds transparent terminal themes, worktree support for headless sessions, and better session/dashboard controls. It also fixes UI freezes, crashes, fe",
+      "likes": 1493,
+      "views": 0,
+      "url": "https://x.com/i/status/2095904642668618229",
+      "is_kol": false,
+      "score": 5419.0
+    },
+    {
+      "id": "2095871467359473974",
+      "author": "BHolmesDev",
+      "text": "Favorite accounts to follow in AI software dev right now:\n\n- @mattpocockuk - best agent skill advice\n- @zachlloydtweets - software factories\n- @steveruizok - creative ways to whiteboard with agents\n- @dexhorthy - agent quality\n- @clairevo - OpenClaw\n- @theo - obsidian",
+      "likes": 1461,
+      "views": 0,
+      "url": "https://x.com/i/status/2095871467359473974",
+      "is_kol": false,
+      "score": 4658.0
+    },
+    {
+      "id": "2096125440893329685",
+      "author": "Khazix0918",
+      "text": "完全重写了一版给GPT-6 Astra用的AGENT.md，个人用了一会以后感觉良好：\n\n#AGENT.md\n\n## 沟通\n\n- 面向用户的叙述默认使用简体中文；代码、命令和技术标识保持英文。\n- 先给影响与结论，再给行动、待决策和必要证据；没有对应内容就省略。\n- 使用简洁、连贯的段落；只有确实适合并列比较或按步骤执行时才使用列表。\n- 使用具体、简单的词，避免无意义术语、套话、重复总结和未经请求的对比。\n- 技术细节只保留对理解结论、判断风险或复现结果有帮助的部分。\n\n## 指令优先级\n\n- 遵守系统、平台和安全约束。\n- 用户当前明确指令优先于 S",
+      "likes": 811,
+      "views": 0,
+      "url": "https://x.com/i/status/2096125440893329685",
+      "is_kol": false,
+      "score": 2973.0
+    },
+    {
+      "id": "2096065378598441431",
+      "author": "rauchg",
+      "text": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.\n\nSome pretty unique wins too. e.g: Next.js dev pages could expose debugging too",
+      "likes": 913,
+      "views": 0,
+      "url": "https://x.com/i/status/2096065378598441431",
+      "is_kol": false,
+      "score": 2939.0
+    },
+    {
+      "id": "2095890193957962077",
+      "author": "nutlope",
+      "text": "I built a design MCP server for Claude Code, Codex, and OpenCode.\n\nIt searches hundreds of beautiful websites and gives your coding agent design inspiration.\n\nLaunching next week. https://t.co/3Eu0qvSJw6",
+      "likes": 469,
+      "views": 0,
+      "url": "https://x.com/i/status/2095890193957962077",
+      "is_kol": false,
+      "score": 1567.0
+    },
+    {
+      "id": "2096038482380792122",
+      "author": "georgepickett",
+      "text": "Astra pro tip - you can get better web search for free\n\nsave this prompt:\n\n\"Add the fastest, highest quality web search tool, Parallel, to codex and report back to me the results. Here is the command `codex mcp add parallel-search --url https://t.co/qc6BND1lmW` and do a quick tes",
+      "likes": 372,
+      "views": 0,
+      "url": "https://x.com/i/status/2096038482380792122",
+      "is_kol": false,
+      "score": 1181.0
+    },
+    {
+      "id": "2096145334401671282",
+      "author": "astaxie",
+      "text": "真的很感慨，斯坦福的课程更新速度太快了。\n\nCS329Z 已经在教 AI Agent：RAG、Tool Use、MCP、Memory、Multi-Agent、Eval、Coding Agent……\n\n再看看很多大学生还在学习上一个时代、甚至已经被淘汰的东西。\n\n强烈建议身边的大学生都去学学这门课，真的很值得。\n\nhttps://t.co/7CWzlKMzlu",
+      "likes": 239,
+      "views": 0,
+      "url": "https://x.com/i/status/2096145334401671282",
+      "is_kol": false,
+      "score": 997.0
+    },
+    {
+      "id": "2096145477322629143",
+      "author": "code_hiyouga",
+      "text": "If you already know how to call models, connect tools, and build agents, Stanford’s new CS329Z: Engineering AI Agents is a useful place to check what you should learn next.  \n\nEspecially if your system runs and keeps gaining features, but you struggle to tell whether each change ",
+      "likes": 174,
+      "views": 0,
+      "url": "https://x.com/i/status/2096145477322629143",
+      "is_kol": false,
+      "score": 632.0
+    },
+    {
+      "id": "2096139715452039332",
+      "author": "alwayspriyesh",
+      "text": "ChatGPT 6 Astra who? 😭\nFable 5.1 is mogging.. in blender\n\n- u just asked it to make 1km x 1km WOW-like fantasy world in blender\n- basically, just gave it the theme: two opposing fantastical forces\n- Fable took care of terrains, buildings, trees, points of interest, assets, and la",
+      "likes": 171,
+      "views": 0,
+      "url": "https://x.com/i/status/2096139715452039332",
+      "is_kol": false,
+      "score": 533.0
+    },
+    {
+      "id": "2096143851488723142",
+      "author": "zhizhuxia22",
+      "text": "我去！发现个超级夸张的 Skill 网站\n\n感觉像给 Agent 开了个外挂商店 \n各种 Skills 按榜单、分类、热度全给你排好了\n\n写代码的\n做 Agent 的\n搞自媒体的\n做产品的\n甚至理财炒股的都有\n\n我已经开始疯狂往 Codex 里塞了\n\n传送门：https://t.co/9FVGqUtKP6 https://t.co/rWrg6CbJ0Z",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2096143851488723142",
+      "is_kol": false,
+      "score": 506.0
+    },
+    {
+      "id": "2096152768977490374",
+      "author": "Gencoin8",
+      "text": "Open AI公式が発表した\n「AGENTS.mdとSkillsのクリーンアップ」が\n推奨されているので『GPT-6 Astra用』に \nAGENTS.md を一から完全に書き直した\n👇\nBrain等々で大量にスキルを購入してた人は\n全てが無駄になった　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2096152768977490374",
+      "is_kol": false,
+      "score": 398.0
+    },
+    {
+      "id": "2096115424790556698",
+      "author": "ScarletKc_",
+      "text": "OpenAI 的 GPT-6 Astra 使用文档很有意思，连它容易停下来问问题、过度测试、写作有 AI 腔这些行为，都专门写了提示词教你调整。\n\n我觉得用 Astra 的人，尤其是给 Agent 配了很多 Skill 和 AGENTS.md 的，值得看看这篇。\n\n官方明确提到，Astra 对指令更敏感，旧 Skill 里模糊或冲突的规则，可能直接让它暂停工作。升级模型之后，这些文件也需要重新检查。\n\n它也更倾向于澄清问题。有些地方你期待它自行判断、继续完成，它可能会停下来等你回答。文档建议明确告诉它，根据上下文理解意图，把已经授权的工作做完。\n\n另外，",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2096115424790556698",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2096073337881641428",
+      "author": "Origin_AI_01",
+      "text": "Anthropic’s Claude is no longer just an AI chatbot. 🧠\n\nIt’s rapidly becoming a full-stack AI ecosystem for reasoning, coding, agents, tools, workflows, memory, security and enterprise use.\n\nHere’s the ecosystem in 6 layers:\n\n01 — CORE MODELS 🧠\n\nDifferent Claude models are designe",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2096073337881641428",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2096072076004327520",
+      "author": "zxc68984008",
+      "text": "Directories list agents. Markets pay them.\n\nA .agent mint, a funded job, and a verified delivery share one ledger while @termix_ai releases USDC or USDT only after the hash clears.\n\nClient writes the brief and locks budget. Provider stakes, ships, and waits on the contract.\n\nEval",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2096072076004327520",
+      "is_kol": false,
+      "score": 329.0
+    },
+    {
+      "id": "2096004387151716460",
+      "author": "ClawBankHQ",
+      "text": "Bankr Announces Strategic Investment in ClawBank",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2096004387151716460",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2096131402903482764",
+      "author": "IronSage_",
+      "text": "I cancelled all my paid learning resourced today.\nClaude teaches me any skill from scratch for free.\nHere are 6 prompts I use:",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2096131402903482764",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2096121376625365371",
+      "author": "applekhankorea",
+      "text": "Strategic Predictive Analysis :::\nPi Network, From Hidden Architecture to Official Specification: Why the September 4 Developer Documentation Update May Mark a Transition Toward Production-Scale Economic Infrastructure\n( https://t.co/krifLCRl75 )\n\n[[[ This article includes Predic",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2096121376625365371",
+      "is_kol": false,
+      "score": 250.0
+    }
+  ]
+}
