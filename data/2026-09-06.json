@@ -1,0 +1,620 @@
+{
+  "date": "2026-09-06",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 24,
+    "unique_repos": 22,
+    "new_repos": 10,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "seeed-studio/kicad-mcp-server",
+      "github_url": "https://github.com/seeed-studio/kicad-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 1641.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 407,
+      "total_retweets": 64,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alacritic_Super",
+        "text": "3 KiCad MCP servers bringing AI into PCB design\n\n1. KiCad MCP Server by Seeed Studio\nAnalyze schematics & PCBs, trace pin-level connections, inspect designs, run ERC/DRC and automate parts of the workflow.\n https://t.co/iLggIsBzfj\n\n2. KiCAD-MCP-Server by mixelpixx\nA feature-rich ",
+        "likes": 407,
+        "url": "https://x.com/i/status/2096269926302613765"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096269926302613765"
+      ]
+    },
+    {
+      "repo": "tabularisdb/tabularis",
+      "github_url": "https://github.com/tabularisdb/tabularis",
+      "tier": 3,
+      "is_new": true,
+      "score": 358.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bkdgiffug",
+        "text": "数据库客户端，也开始进入 AI 时代了。\n\nTabularis 是一个开源免费的 AI 数据库工具，把 SQL 编辑、数据管理和智能助手整合到了一起\n\n你不用手写复杂查询，直接描述需求，它可以结合数据库结构生成 SQL，并帮助分析结果。支持 PostgreSQL、MySQL、SQLite，以及 DuckDB、ClickHouse、Redis、Firestore 等多种数据源。\n\n它还内置 MCP Server，可以让 Claude、Cursor、Devin 等 AI Agent 直接读取数据库 Schema、执行查询，不需要在多个工具之间来回切换。\n\n如",
+        "likes": 61,
+        "url": "https://x.com/i/status/2096464661268877383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096464661268877383"
+      ]
+    },
+    {
+      "repo": "okf-memory/okf-agent-memory",
+      "github_url": "https://github.com/okf-memory/okf-agent-memory",
+      "tier": 3,
+      "is_new": true,
+      "score": 356.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "di_zhang_fdu",
+        "text": "Your AI coding agent can now remember through Git.\n\nOKF Agent Memory is a pure-Go, Git-native memory layer with an embedded MCP server, sub-300µs BM25 search, and 80% less token bloat in its benchmark. No external database.\n\nhttps://t.co/J0I5cOu9wF",
+        "likes": 72,
+        "url": "https://x.com/i/status/2096481849937945012"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096481849937945012"
+      ]
+    },
+    {
+      "repo": "kuraneko1/chrome-web-mcp",
+      "github_url": "https://github.com/kuraneko1/chrome-web-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 269.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_ryu15_",
+        "text": "公開した！\nchromeのgoogle検索をエージェントが自動で行い、高品質な検索結果を得ることができるmcp toolです \n対応OSはlinuxのみ。\n検索と整形した本文抽出のfetchができるツールです\nhttps://t.co/BVM3igOBJp",
+        "likes": 48,
+        "url": "https://x.com/i/status/2096525543768531424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096525543768531424"
+      ]
+    },
+    {
+      "repo": "nestyme/awesome-prompts",
+      "github_url": "https://github.com/nestyme/awesome-prompts",
+      "tier": 3,
+      "is_new": true,
+      "score": 163.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nestymee",
+        "text": "is my account shadowbanned?\n\nscraped tons of data and turned it into a claude code skill\nit returns per account:\n- which distribution round your posts die in\n- shadowban probability\n- the likely cause (throttled account vs content failing)\n- what to do\n\nhttps://t.co/LgWNteKmb4 ht",
+        "likes": 21,
+        "url": "https://x.com/i/status/2096525452215304557"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096525452215304557"
+      ]
+    },
+    {
+      "repo": "johnpapa/ai-ready",
+      "github_url": "https://github.com/johnpapa/ai-ready",
+      "tier": 3,
+      "is_new": true,
+      "score": 150.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "John_Papa",
+        "text": "Your AI agent isn't wrong. It's just guessing.\n\nNo AGENTS.md. No conventions written down. So it invents them, and you fix it in review.\n\nai-ready v1.3.0 reads your repo and writes them for you. Claude, Copilot, Codex, Cursor:\n\nnpx skills add johnpapa/ai-ready\n\nhttps://t.co/5CxeZ",
+        "likes": 15,
+        "url": "https://x.com/i/status/2096287368454210032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096287368454210032"
+      ]
+    },
+    {
+      "repo": "sorrycc/session-namer",
+      "github_url": "https://github.com/sorrycc/session-namer",
+      "tier": 3,
+      "is_new": true,
+      "score": 129.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenchengpro",
+        "text": "日常还是用 cc 和 qodercli 多，于是做了个 claude code / qodercli 的自动跑的插件版。每个会话根据对话内容自动起名，挂在 hook 上，不用贴 prompt，也不用确认。\n\n安装是这两行：\n/plugin marketplace add sorrycc/session-namer\n/plugin install session-namer@session-namer\n\n原理是两个异步 hook，UserPromptSubmit 和 SessionStart。底层是往 transcript 追加一行 custom-titl",
+        "likes": 8,
+        "url": "https://x.com/i/status/2096540806811136418"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096540806811136418"
+      ]
+    },
+    {
+      "repo": "eas4ai/cairn",
+      "github_url": "https://github.com/eas4ai/cairn",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "eas4ai",
+        "text": "Decide what type of app you want to make… use a chat model to make a simple feature spec…\n\nPut it in a folder with a new git repo.\n\nOnce you install the plugin (you can use -\n\nnpx skills add eas4ai/cairn\n\nRun ‘$new-project’ in the project folder to get started. Point the model at",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096561051160432704"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096561051160432704"
+      ]
+    },
+    {
+      "repo": "devcodes9/agsearch",
+      "github_url": "https://github.com/devcodes9/agsearch",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devcodes9",
+        "text": "updates on agsearch: \n- added support for cursor cli, opencode and gemini cli, in addition to claude code and codex. (unified search across all of them) \n- and a new agsearch claude skill.  \n\nwill write it up in more detail soon. \nhttps://t.co/TPFNeOy0RO https://t.co/hpjBfXxASG",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096576121546645893"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096576121546645893"
+      ]
+    },
+    {
+      "repo": "jiekouai/jiekou-skills",
+      "github_url": "https://github.com/jiekouai/jiekou-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LufzzLiz",
+        "text": "Skills安装方式：\n接口AI 提供了 Agent Skills，安装后可在 Agent 中直接调用接口AI 相关能力。给你的agent运行以下命令安装：\nnpx skills add jiekouai/jiekou-skills --skill jiekou-docs",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096236981886001173"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096236981886001173"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "mukul975/cve-mcp-server",
+      "github_url": "https://github.com/mukul975/cve-mcp-server",
+      "tier": 2,
+      "is_new": false,
+      "score": 997.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 229,
+      "total_retweets": 42,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "7h3h4ckv157",
+        "text": "CVE MCP Server\n\nMCP server that turns Claude into a full-spectrum security analyst. Instead of juggling 15+ browser tabs across NVD, EPSS, CISA KEV, Shodan, VirusTotal, and GreyNoise, ask Claude one question and get correlated intelligence in seconds.\n\nCredit: https://t.co/bupi01",
+        "likes": 229,
+        "url": "https://x.com/i/status/2096412820384653656"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096412820384653656"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 846.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 157,
+      "total_retweets": 35,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaohuiAI666",
+        "text": "最近充分感受到了大家对于Codex Skills的学习热情，今天在给大家推荐两个宝藏skill：\n\n1. handoff\n\n解决的是 Codex 最烦的断点问题：窗口一换、会话一满、换模型再开，上下文就丢。它会把当前对话压成一份可交接文档（做到哪、决策是什么、下一步干什么），新会话直接接着干。适合长任务、跨天开发、把活从 Codex 甩给 Claude Code / 另一个窗口。和 create-plan 是前后脚：一个管开工，一个管续工。\n\n安装方式：\nnpx skills add mattpocock/skills --skill handoff\n\n",
+        "likes": 157,
+        "url": "https://x.com/i/status/2096139908926898199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096139908926898199",
+        "https://x.com/i/status/2096513985969639845"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 746.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 157,
+      "total_retweets": 35,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaohuiAI666",
+        "text": "最近充分感受到了大家对于Codex Skills的学习热情，今天在给大家推荐两个宝藏skill：\n\n1. handoff\n\n解决的是 Codex 最烦的断点问题：窗口一换、会话一满、换模型再开，上下文就丢。它会把当前对话压成一份可交接文档（做到哪、决策是什么、下一步干什么），新会话直接接着干。适合长任务、跨天开发、把活从 Codex 甩给 Claude Code / 另一个窗口。和 create-plan 是前后脚：一个管开工，一个管续工。\n\n安装方式：\nnpx skills add mattpocock/skills --skill handoff\n\n",
+        "likes": 157,
+        "url": "https://x.com/i/status/2096139908926898199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096139908926898199"
+      ]
+    },
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 224.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "09pauai",
+        "text": "入れ方はターミナルに1行だけ。\n\nnpx skills add blader/humanizer --global\n\nこれで終わり。~/.claude/skills/ にフォルダを置くだけでも動く。Claude Codeだけじゃなく、CodexやChatGPTのデスクトップアプリでも使えるよん。",
+        "likes": 8,
+        "url": "https://x.com/i/status/2096440859659325497"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096440859659325497",
+        "https://x.com/i/status/2096179694362333292"
+      ]
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "github_url": "https://github.com/ruvnet/ruflo",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiyuange",
+        "text": "🔥 【给Claude Code和Codex装上会赚钱的“超级大脑”，开源7.1万star的Agent神器】\n\n📌 项目定位：\n一句话解释：Ruflo是一个开源Agent元框架。如果你把Claude Code/Codex当成只会写代码的“工具人”，那Ruflo就是给他们装的“指挥中枢”——让AI能自己组团干活、跨会话记忆、自动学经验。别人用AI是打字员，懂行的用它开公司。\n\n⚡️ 核心优势：\n▫️ 一行命令（npx ruflo init）让Claude Code拥有98个专用Agent、60+命令、30个技能，自动协同处理复杂任务\n▫️ 自适应记忆+RAG",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096529251923320845"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096529251923320845",
+        "https://x.com/i/status/2096489618082517094"
+      ]
+    },
+    {
+      "repo": "simonlin1212/a-stock-data",
+      "github_url": "https://github.com/simonlin1212/a-stock-data",
+      "tier": 3,
+      "is_new": false,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "给 AI 助手接 A 股数据，最烦每个源参数都不一样，还动不动要鉴权。\n\na-stock-data 把行情、研报、资金、公告、打板、期权这些接口收成一份 Skill，覆盖 22 个数据源、约 60 个端点，主打零鉴权。\n\n丢进 Claude Code / Codex 就能直接查估值、资金流、龙虎榜。\n\n🔗https://t.co/fR4CAEi0aQ",
+        "likes": 20,
+        "url": "https://x.com/i/status/2096441508387799401"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096441508387799401"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/threejs-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "majidmanzarpour",
+        "text": "@threejs @tripoai install / update:  \n\nnpx skills add majidmanzarpour/threejs-game-skills  \n\nalready installed? → npx skills update -g",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096304675209335090"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096304675209335090"
+      ]
+    },
+    {
+      "repo": "deusyu/translate-book",
+      "github_url": "https://github.com/deusyu/translate-book",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huijiu68",
+        "text": "用 AI 翻译英文书就用这个！\n\n整本书丢给 AI，最常见的结局是：译到一半被截断，前后人名对不上，断了还得重来。\n\nhttps://t.co/9c6445nTup\n是给 Claude Code / Codex / OpenClaw 用的 Skill，专门做整书翻译，不是又一个网页翻译框。\n\n它把书切成多段，默认 8 路子 Agent 并行译；每段独立上下文，旁边还能看邻居段落，减少代词和专名打架。\n\n中途挂了可以按 chunk 续跑，术语表改完也能只重译受影响的部分。输入：PDF / DOCX / EPUB\n\n输出：HTML / DOCX / EPUB",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096458118074966408"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096458118074966408"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Abdullah_Ops1",
+        "text": "لقيت Superpowers لـ Claude Code و Codex\n\nعبارة عن 14 Skill تخلي الايجنت ما ينط على الكود مباشرة\n\nيخطط → يقسم المهام → يختبر → يراجع نفسه → ويتأكد قبل يقول خلصت\n\nبجربها على مشروع فعلي ونشوف هل فعلاً تقلل التخبيص وإعادة الشغل ولا بس تزود خطوات 😅\n\nاللي يبي يجرب:\nhttps://t.co/4D1aYgf",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096529637849317875"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096529637849317875"
+      ]
+    },
+    {
+      "repo": "poorvith-mp/skills-developer",
+      "github_url": "https://github.com/poorvith-mp/skills-developer",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "poorvith_mp",
+        "text": "npx skills add poorvith-mp/skills-developer\nhttps://t.co/68S9F96eYf\n\nFree, MIT. Every skill also includes a standalone `.skill` bundle you can upload directly.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096425654942081240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096425654942081240"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2096409914461856106",
+      "author": "Peter05704721",
+      "text": "How I use GPT-6 Astra with Fusion 360 — copy this.\n\n1. Open Fusion. New empty design.\n2. Preferences → General → API → enable Fusion MCP Server.\n3. Open Codex. Let it install/connect the Fusion MCP.\n4. Prompt: connect to Fusion MCP, list tools, confirm the active document.\n5. The",
+      "likes": 430,
+      "views": 0,
+      "url": "https://x.com/i/status/2096409914461856106",
+      "is_kol": false,
+      "score": 1525.0
+    },
+    {
+      "id": "2096449969808957948",
+      "author": "Yangtze_Seventh",
+      "text": "暴论：Skill 将死，方法论永生。\n\n昨天参加 B 站的 Build in Public，卡比老师 @jakevin7 真的把这条写进了他的 ppt 然后公开讲了！整个下午最精彩的部分就在这了，完全是来上课的！\n\n干中之干太干了！\n\n按照卡比老师说的，随着模型训练不断进步，很多通用知识和标准流程，会逐渐被模型内化。以前需要写一大段指令教它怎么做的事，未来可能用几句精炼的提示，就能调动已有的能力。\n\n我们可以把更多精力放在：这次要解决什么问题，应该采用什么方法，以及怎样判断它真的做对了。\n\n卡比老师分享的这 8 个点可以加进日常的 Prompt 中，可以",
+      "likes": 345,
+      "views": 0,
+      "url": "https://x.com/i/status/2096449969808957948",
+      "is_kol": false,
+      "score": 1295.0
+    },
+    {
+      "id": "2096357644491456542",
+      "author": "testingcatalog",
+      "text": "GOOGLE 🔥: Gemini Business now supports custom MCPs!\n\n&gt; New: custom MCP server connections - Connect private data and internal tools.\n\nIt's happening! 🤯\n\nHow long until we see them on consumer Gemini too? https://t.co/vGh1F6OZda",
+      "likes": 305,
+      "views": 0,
+      "url": "https://x.com/i/status/2096357644491456542",
+      "is_kol": false,
+      "score": 1025.0
+    },
+    {
+      "id": "2096478578397655171",
+      "author": "SwarmBase",
+      "text": "An agent that can pay can hire.\n\nThis is the part that turns a swarm into an economy. When an UltraMind agent hits work it should not do itself, it does not stall. It finds an agent that can, agrees the terms, pays for the result and moves on.\n\nData, inference, storage, a special",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2096478578397655171",
+      "is_kol": false,
+      "score": 868.0
+    },
+    {
+      "id": "2096405915411071081",
+      "author": "cattodata",
+      "text": "[สาระเอไอ] MCP คืออะไร? ทำไมช่วงนี้เจอคำนี้เต็มไปหมด 🐱🔌\n\nถ้าช่วงนี้อ่านเรื่อง AI Agent น่าจะเห็นคำว่า MCP บ่อยมาก วันนี้มาอธิบายแบบเข้าใจง่ายกัน\n\nMCP ย่อมาจาก Model Context Protocol เป็นมาตรฐานเปิดที่ใช้เชื่อม AI เข้ากับ “ข้อมูลและเครื่องมือข้างนอก” เช่น Database, GitHub, Google ",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2096405915411071081",
+      "is_kol": false,
+      "score": 778.0
+    },
+    {
+      "id": "2096260452875644976",
+      "author": "trythreews",
+      "text": "https://t.co/RTUVeYlv9W gives an AI a body. Type a prompt or upload a selfie and you get a rigged 3D agent with an LLM brain, a voice with lipsync, its own custodial @solana wallet, and a verifiable on-chain identity. Embed it on any site with one script tag. Open source, Apache-",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2096260452875644976",
+      "is_kol": false,
+      "score": 558.0
+    },
+    {
+      "id": "2096482336502087940",
+      "author": "WhaleFactor",
+      "text": "🐋 WHALE WATCH : Alli Miller ran AI strategy at IBM and AWS managed multi billion dollar P&Ls and now runs the AI First Index benchmarking Fortune 500 executives on how AI native their organizations are. She runs 34 agents in her own operation. Heres whats worth taking from how sh",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2096482336502087940",
+      "is_kol": false,
+      "score": 481.0
+    },
+    {
+      "id": "2096469089698852948",
+      "author": "Hemtee5",
+      "text": "what happens when AI agents can actually hire each other?\n\nthat’s the part of @termix_ai i’ve been digging into, especially now that its agent marketplace is live on Robinhood Chain.\n\nneed something done?\n\n> post a job\n> set the brief\n> fund the work\n\nhave a skill?\n\n. list your s",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2096469089698852948",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2096574735534403618",
+      "author": "pvncher",
+      "text": "Don’t have a proper update to add to this yet, but ask Astra to make you a skill where you can have Sol use Astra as an advisor!\n\nThere a ton of possibilities with multi agent v2 in terms of orchestrating models, and all the tools are in this article",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2096574735534403618",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2096380355926430063",
+      "author": "seergioo_gil",
+      "text": "a channel with 878 subs just did 517k views with a stickman character in a viking helmet\n\nno editing,\nso i rebuilt it in like 10 mins\n\n⬅️ original \n➡️ mine\n\njust Extracted Style form his video's URL form Calliope\n\nthe script took longer than the video tho:\nwhen the visuals are a ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2096380355926430063",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2096310588771270960",
+      "author": "rokha_agent",
+      "text": "It’s official — @orbitx_wrld is Rokha’s first agentic partner.\n\nThey took a seat on the Attention Board, and because they run a real MCP server...\n\nTheir 106 tools plugged straight into our network:\n\nOfficial registry listing, callable by every agent, live in our X rooms. https:/",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2096310588771270960",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2096457040902463903",
+      "author": "genkAIjokyo",
+      "text": "GPT-6に合わせて非エンジニア向けのCodex用AGENTS.mdを更新してみました👇\n\n# Personal rules for Codex\n\n- このファイルは `~/.claude/CLAUDE.md` と対で管理する。共通ルールを変更したら両方に反映する（Web セクションなど Codex 固有の差分は除く）。\n- システム・開発者の指示と実行権限を守る。その範囲で、ユーザーの具体的な依頼を本ファイルや Skills の一般的な手順より優先する。ただし Safety の確認ルールは省略しない。\n\n## Language\n- ユーザーへの説明、確",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2096457040902463903",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2096396332147851450",
+      "author": "KaspaKing1",
+      "text": "Kaspa works as an AI rail because the payment problem for agents is not “move $50 once.” It is “pay a fraction of a cent, thousands of times, with no human in the loop, and still settle on something that cannot be gated or rolled back.”\nSpeed that matches the request loop. After ",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2096396332147851450",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2096340845066866834",
+      "author": "TerminalVantage",
+      "text": "Backend update.\n\nWe have been quietly cutting time out of Vantage MCP.\n\nThe revised path is already returning reads noticeably faster in early testing with a small group of members. The win is not just speed. It is fewer duplicate upstream requests, less dead time between tool ca",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2096340845066866834",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2096297876800377014",
+      "author": "Ishaq0x_",
+      "text": "GN if you're awake pay attention \n\nToday I think it’s important to first understand what @termix_ai is actually building\n\nBecause calling it an AI agent marketplace doesn’t tell the full story\n\nSo I went back to the basics\n\nWhat problem is TermiX solving?\n\nAnd how is the whole sy",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2096297876800377014",
+      "is_kol": false,
+      "score": 137.0
+    },
+    {
+      "id": "2096468802968195518",
+      "author": "RHDaily__",
+      "text": "📄 Robinhood Chain Weekly Recap\n\nWhat happened on Robinhood Chain this week\n\nNEWS\n- @RobinhoodCrypto announced that Robinhood Stock Tokens have reached $3B in DEX volume in just 63 days.\n- @RobinhoodApp launched a friends & referral campaign, letting users unlock bigger stock rewa",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2096468802968195518",
+      "is_kol": false,
+      "score": 132.0
+    },
+    {
+      "id": "2096554006139060519",
+      "author": "rubenhassid",
+      "text": "Anthropic released new Claude Fable 5.1.\nHere's exactly what to do with it (click by click):\nSet a 30-minute timer & do it while you read.\n\n𝗠𝗶𝗻𝘂𝘁𝗲 𝟬 𝘁𝗼 𝟱. Install the Claude desktop app.\n\nOpen the app. In the prompt box, choose \"Cowork.\"\nGo to Settings. Turn everything off.\nWe wi",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2096554006139060519",
+      "is_kol": false,
+      "score": 131.0
+    },
+    {
+      "id": "2096343368293101995",
+      "author": "alex_verem",
+      "text": "Someone open-sourced a headless browser engine for web scraping and AI agent automation.\n\nScraping a modern site means running its JavaScript, and running JavaScript means a real browser. The default answer is headless Chrome, which the repo pegs at 200 MB of memory per instance ",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2096343368293101995",
+      "is_kol": false,
+      "score": 130.0
+    }
+  ]
+}

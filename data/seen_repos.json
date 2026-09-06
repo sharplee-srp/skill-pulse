@@ -6630,5 +6630,45 @@
   "goplussecurity/asset-lighthouse": {
     "first_seen": "2026-09-05",
     "tier": 3
+  },
+  "seeed-studio/kicad-mcp-server": {
+    "first_seen": "2026-09-06",
+    "tier": 2
+  },
+  "tabularisdb/tabularis": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "okf-memory/okf-agent-memory": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "kuraneko1/chrome-web-mcp": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "nestyme/awesome-prompts": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "johnpapa/ai-ready": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "sorrycc/session-namer": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "eas4ai/cairn": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "devcodes9/agsearch": {
+    "first_seen": "2026-09-06",
+    "tier": 3
+  },
+  "jiekouai/jiekou-skills": {
+    "first_seen": "2026-09-06",
+    "tier": 3
   }
 }
