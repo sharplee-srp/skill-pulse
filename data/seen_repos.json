@@ -6670,5 +6670,53 @@
   "jiekouai/jiekou-skills": {
     "first_seen": "2026-09-06",
     "tier": 3
+  },
+  "kajisho5/ffmpeg-skill": {
+    "first_seen": "2026-09-07",
+    "tier": 0
+  },
+  "rkiding/awesome-finance-skills": {
+    "first_seen": "2026-09-07",
+    "tier": 0
+  },
+  "parthchilwerwar/agent-direct": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "wbso-ai/omarchy-plugin-security-skill": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "ishk-sftckz/rfastack": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "heygen-com/liveavatar-agent-skills": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "simonwong/skills": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "lokendrakushwah12/ai-visibility": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "nudgen-marketing/mermail-skills": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "uttam282005/lesson-forge": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "tuturama/agent-security": {
+    "first_seen": "2026-09-07",
+    "tier": 3
+  },
+  "ejc3/0104797f285e15ad8dc2559d9abf7386": {
+    "first_seen": "2026-09-07",
+    "tier": 3
   }
 }

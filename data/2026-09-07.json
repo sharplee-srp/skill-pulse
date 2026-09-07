@@ -1,0 +1,666 @@
+{
+  "date": "2026-09-07",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 20,
+    "unique_repos": 22,
+    "new_repos": 12,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "kajisho5/ffmpeg-skill",
+      "github_url": "https://github.com/kajisho5/ffmpeg-skill",
+      "tier": 0,
+      "is_new": true,
+      "score": 718.0,
+      "mention_count": 2,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "让 Agent 用 FFmpeg 剪视频，它上来就猜帧率、乱选编码，明明只需要流复制的活也重新编码一遍，完了不看结果就说搞定。\n\nffmpeg-skill 给 Claude Code、Cursor、Codex 装上一个视频编辑器，21 个工具全在本机跑 FFmpeg，不上云不要 key。\n\n流程定死了，先探测文件再动手，能无损流复制的就不重编码，做完把结果再探测一遍，画面变了还出一张缩略图自己看。\n\nGitHub：https://t.co/hNStm7BS7v\n\n剪切拼接、去静音跳切、适配时长和比例、字幕和卡拉 OK 字幕、水印和字幕条、HDR 转 SD",
+        "likes": 6,
+        "url": "https://x.com/i/status/2096954196692258982"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096964158994755604",
+        "https://x.com/i/status/2096954196692258982"
+      ]
+    },
+    {
+      "repo": "rkiding/awesome-finance-skills",
+      "github_url": "https://github.com/rkiding/awesome-finance-skills",
+      "tier": 0,
+      "is_new": true,
+      "score": 637.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 9,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "问 AI「贵金属跳水对 A 股有什么影响」，它只会泛泛讲几句道理，手上没有实时行情也没有新闻。\n\nAwesome Finance Skills 是一套金融分析的 Agent Skill，装上之后手头的 Agent 就能拉新闻、查行情、算情绪、画传导链路。\n\n一共 8 个 Skill。新闻聚合财联社、华尔街见闻、微博、Polymarket 等 10 多个信源，行情覆盖 A 股、港股、美股，带基本面。\n\nGitHub：https://t.co/sWnJmWfYSZ\n\n情绪分析用 FinBERT 打分，从 -1 到 +1。时序预测用 Kronos 模型，再按新",
+        "likes": 9,
+        "url": "https://x.com/i/status/2096901323660964177"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096901323660964177"
+      ]
+    },
+    {
+      "repo": "parthchilwerwar/agent-direct",
+      "github_url": "https://github.com/parthchilwerwar/agent-direct",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sukipro1v",
+        "text": "Shipped agent-direct — 4 portable Agent Skills that keep AI coding agents scoped, reviewable, and resumable instead of blind-approved.\n\nai-context · ai-guardrails · ai-review · ai-control\n\nWorks with Claude Code, Codex, any Agent Skills tool.\n\n``npx skills add parthchilwerwar/age",
+        "likes": 6,
+        "url": "https://x.com/i/status/2096606303275880582"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096606303275880582"
+      ]
+    },
+    {
+      "repo": "wbso-ai/omarchy-plugin-security-skill",
+      "github_url": "https://github.com/wbso-ai/omarchy-plugin-security-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jankeesvw",
+        "text": "npx skills add wbso-ai/omarchy-plugin-security-skill",
+        "likes": 4,
+        "url": "https://x.com/i/status/2096591829164527623"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096591829164527623"
+      ]
+    },
+    {
+      "repo": "ishk-sftckz/rfastack",
+      "github_url": "https://github.com/ishk-sftckz/rfastack",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ishaklumimpah",
+        "text": "RFAStack now has an agent skill. It gives your agent a guide to follow when planning, building, or refactoring your Next.js app, from deciding which feature owns the logic to handling access checks and caching.\nnpx skills add ishk-sftckz/RFAStack --skill rfastack\nhttps://t.co/RaP",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096868355164811497"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096868355164811497"
+      ]
+    },
+    {
+      "repo": "heygen-com/liveavatar-agent-skills",
+      "github_url": "https://github.com/heygen-com/liveavatar-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wayne_liang_",
+        "text": "And here's the open source project as promised:\nhttps://t.co/zlkY45qih7\nOr simply run\nnpx skills add heygen-com/liveavatar-agent-skills\nSelect liveavatar-demo and your agent, then ask it: \"show me a LiveAvatar sales agent demo.\"",
+        "likes": 1,
+        "url": "https://x.com/i/status/2096639124329689352"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096639124329689352"
+      ]
+    },
+    {
+      "repo": "simonwong/skills",
+      "github_url": "https://github.com/simonwong/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "simonwongio",
+        "text": "我为这个方案做了一个 skill ，可以尝试下\n\n安装：npx skills add simonwong/skills --skill fable-orchestrate\n\n使用 `/fable-orchestrate` 开启，开启后杂活都会交给 subagent（默认 opus）\n\n也可以 `/fable-orchestrate gpt` ，会使用 /codex:codex-rescue 来调用 gpt\n\n也可以使用 herdr ，`/fable-orchestrate herdr codex`，会使用 herdr skill 开启 codex 窗口\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096952378901868987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096952378901868987"
+      ]
+    },
+    {
+      "repo": "lokendrakushwah12/ai-visibility",
+      "github_url": "https://github.com/lokendrakushwah12/ai-visibility",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lokendratwt",
+        "text": "Created a skill for building a self-hosted AI visibility / AEO tracker:\n\n- Log which AI crawlers read your site \n- Which humans arrive from ChatGPT, Claude or Perplexity\n\nnpx skills add Lokendrakushwah12/ai-visibility https://t.co/mGNLx7HWxS",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096964555239010359"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096964555239010359"
+      ]
+    },
+    {
+      "repo": "nudgen-marketing/mermail-skills",
+      "github_url": "https://github.com/nudgen-marketing/mermail-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "meta_grup",
+        "text": "@Mermailapp Skill PR #142: https://t.co/58aKG3LNLD  Install: npx skills add Nudgen-Marketing/mermail-skills  AI client: Claude Code.  PayBox's client-side signing was broken on every surface that day, so the run stops at \"pending my passkey\". No funds moved; bug report sent to Me",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096680632063578313"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096680632063578313"
+      ]
+    },
+    {
+      "repo": "uttam282005/lesson-forge",
+      "github_url": "https://github.com/uttam282005/lesson-forge",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "raj_uttam2005",
+        "text": "just clone it into your .agents/skills/ folder and have fun learning.\n\nhttps://t.co/FGelAuBw57\n\nor\n\njust run\nnpx skills add uttam282005/lesson-forge",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096656329528262933"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096656329528262933"
+      ]
+    },
+    {
+      "repo": "tuturama/agent-security",
+      "github_url": "https://github.com/tuturama/agent-security",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GabrielRondon",
+        "text": "Agents browse, pay and read private data. The security around them lags.\n\nFour audits from real codebases, now Claude Code skills:\n· SSRF gate audit (40 vectors)\n· threat model for agentic spend\n· MCP visibility audit\n· signed audit log + verifier\n\nMIT: https://t.co/W1VM5assRi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096976801436205271"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096976801436205271"
+      ]
+    },
+    {
+      "repo": "ejc3/0104797f285e15ad8dc2559d9abf7386",
+      "github_url": "https://github.com/ejc3/0104797f285e15ad8dc2559d9abf7386",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ejc3",
+        "text": "Absolute best OpenClaw skill I have is family calendar sync, which scans through emails and anything else looking for calendar invites to create or update.\n\nThen it invites appropriate kid and my wife to an invite from my calendar. It saves so much time and tedium.\n\nhttps://t.co/",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096976243497619746"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096976243497619746"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 0,
+      "is_new": false,
+      "score": 1600.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 245,
+      "total_retweets": 53,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shao__meng",
+        "text": "[开源推荐] 从零构建 AI 工程  (52.6K 🌟)\n\n20 个阶段、523 节课、342 小时，从线性代数到自主智能体，为读者提供一条连贯的学习主干，作者 @ghumare64 \nhttps://t.co/w8EJjcICiw\n\n# 课程结构：20 个阶段、523 节课、约 342 小时\n\n依赖关系是分层的，数学是基础，Agent 和生产是上层。\n\n1. 基础 P0–P3\n环境工具、数学基础（22 课）、经典 ML（18 课）、深度学习核心（13 课，含手写 autograd 与 mini 框架）\n\n2. 感知与语言 P4–P9\n计算机视觉（28 ",
+        "likes": 245,
+        "url": "https://x.com/i/status/2096742186297720975"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096742186297720975"
+      ]
+    },
+    {
+      "repo": "coldteadotai/pr-lens",
+      "github_url": "https://github.com/coldteadotai/pr-lens",
+      "tier": 3,
+      "is_new": false,
+      "score": 240.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "anujcodes_21",
+        "text": "I've spent 10 years reading code line by line.\n\n400 changed lines across 12 files. 30 minutes of context-switching. And I still miss the big picture.\n\nPR Lens by @ColdteaAI changes that.\n\nAnd it launches today.\n\nPR Lens draws animated architecture and data flow diagrams of any co",
+        "likes": 35,
+        "url": "https://x.com/i/status/2096899892128227653"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096899892128227653"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XiaoxiVVa",
+        "text": "做营销的，Claude Code 真别只拿来写代码。\n\n最近 GitHub 上有套 Marketing Skills 又冲起来了。\n\n它直接给 Agent 补了一整套营销技能。\n\n里面已经包括：\n\nCRO\nCopywriting\nSEO\nAnalytics\nA/B Test\n广告\n内容策略\n定价\n产品营销\nCold Email\nProgrammatic SEO\nAI SEO\nASO\nAttribution\nChurn\n\n等等。\n\n所以可以直接让 Agent：\n\n审 Landing Page\n\n改转化文案\n\n做 SEO Audit\n\n拆定价\n\n写冷启动邮件",
+        "likes": 21,
+        "url": "https://x.com/i/status/2096767426298077471"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096767426298077471"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sujingshen",
+        "text": "Vibe coding 写前端，模型没审美这件事大家都撞过：紫蓝渐变、Inter、卡片套卡片、图标放圆底上。\n\n别养审美了，先把这包收下。下次写页面翻出来贴命令就行。\n\n按场景抄，不用全装\n\n1. 今晚先出一版、少点 AI 味\nnpx skills add anthropics/skills -s frontend-design\n\n2. 落地页 / 想一句话换风格\nnpx skills add nextlevelbuilder/ui-ux-pro-max-skill\n\n3. 按钮、弹窗、hover 要跟手\nnpx skills add emilkowal",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096793885578351006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096793885578351006"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sujingshen",
+        "text": "Vibe coding 写前端，模型没审美这件事大家都撞过：紫蓝渐变、Inter、卡片套卡片、图标放圆底上。\n\n别养审美了，先把这包收下。下次写页面翻出来贴命令就行。\n\n按场景抄，不用全装\n\n1. 今晚先出一版、少点 AI 味\nnpx skills add anthropics/skills -s frontend-design\n\n2. 落地页 / 想一句话换风格\nnpx skills add nextlevelbuilder/ui-ux-pro-max-skill\n\n3. 按钮、弹窗、hover 要跟手\nnpx skills add emilkowal",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096793885578351006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096793885578351006"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sujingshen",
+        "text": "Vibe coding 写前端，模型没审美这件事大家都撞过：紫蓝渐变、Inter、卡片套卡片、图标放圆底上。\n\n别养审美了，先把这包收下。下次写页面翻出来贴命令就行。\n\n按场景抄，不用全装\n\n1. 今晚先出一版、少点 AI 味\nnpx skills add anthropics/skills -s frontend-design\n\n2. 落地页 / 想一句话换风格\nnpx skills add nextlevelbuilder/ui-ux-pro-max-skill\n\n3. 按钮、弹窗、hover 要跟手\nnpx skills add emilkowal",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096793885578351006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096793885578351006"
+      ]
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "github_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sujingshen",
+        "text": "Vibe coding 写前端，模型没审美这件事大家都撞过：紫蓝渐变、Inter、卡片套卡片、图标放圆底上。\n\n别养审美了，先把这包收下。下次写页面翻出来贴命令就行。\n\n按场景抄，不用全装\n\n1. 今晚先出一版、少点 AI 味\nnpx skills add anthropics/skills -s frontend-design\n\n2. 落地页 / 想一句话换风格\nnpx skills add nextlevelbuilder/ui-ux-pro-max-skill\n\n3. 按钮、弹窗、hover 要跟手\nnpx skills add emilkowal",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096793885578351006"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096793885578351006"
+      ]
+    },
+    {
+      "repo": "deusyu/translate-book",
+      "github_url": "https://github.com/deusyu/translate-book",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huijiu68",
+        "text": "用 AI 翻译英文书就用这个！\n\n整本书丢给 AI，最常见的结局是：译到一半被截断，前后人名对不上，断了还得重来。\n\nhttps://t.co/9c6445nTup\n是给 Claude Code / Codex / OpenClaw 用的 Skill，专门做整书翻译，不是又一个网页翻译框。\n\n它把书切成多段，默认 8 路子 Agent 并行译；每段独立上下文，旁边还能看邻居段落，减少代词和专名打架。\n\n中途挂了可以按 chunk 续跑，术语表改完也能只重译受影响的部分。输入：PDF / DOCX / EPUB\n\n输出：HTML / DOCX / EPUB",
+        "likes": 2,
+        "url": "https://x.com/i/status/2096458118074966408"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096458118074966408"
+      ]
+    },
+    {
+      "repo": "dembrandt/dembrandt-skills",
+      "github_url": "https://github.com/dembrandt/dembrandt-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dembrandtcom",
+        "text": "Bringing a live page back into Figma by hand takes a day\nand still lands a few pixels and two shades off.\n\nMeasured instead of eyeballed, it takes about an hour,\nand what is still wrong comes back as a list.\n\nNew clone-website skill, out now.\n→ npx skills add dembrandt/dembrandt-",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096951469891006806"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096951469891006806"
+      ]
+    },
+    {
+      "repo": "cursor/plugins",
+      "github_url": "https://github.com/cursor/plugins",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mredu000",
+        "text": "@andrevalentim_ A skill que eu mais uso pra codar é o pstack da @poteto,  tem 21 principios de arquitetura, playbooks pra refatorar, bug fix, investigação, tem skills de arquitetura, etc,  ele é um plugin do cursor mas tu consegue portar pro claude/codex https://t.co/x9t82bPLGV",
+        "likes": 0,
+        "url": "https://x.com/i/status/2096976426457075769"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2096976426457075769"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2096850696964325472",
+      "author": "jakevin7",
+      "text": "来个暴论+干货：A➗根本就不懂 Harness.\n\n在harness上，和OpenAI对比起来，A➗更像一个营销公司。\nCodex Desktop 完全领先 Claude Desktop 一个时代。\n\n●codex desktop 的UI UX被所有同行学习，定义了agent GUI的设计规范\n●扎实优雅的架构设计。真正的技术扎实和设计优雅。老早就大幅度重构，实现了统一 runtime host: V2 使用了 app-server 架构，全端统一使用一个runtime。对比之下，CC 架构到现在还是一个 session 一个 bun，天天堆代码屎山。而",
+      "likes": 397,
+      "views": 0,
+      "url": "https://x.com/i/status/2096850696964325472",
+      "is_kol": false,
+      "score": 1371.0
+    },
+    {
+      "id": "2096641942373413163",
+      "author": "mhp_guy",
+      "text": "It has never been easier to run FB Ads. \nYou don't need a course.\nYou don't need a coach. \n\nYou just need to do this:\n\n1. Go into Claude and click on connectors\n\n2. Click add (its a custom connector)\n\n3. Fill in the blanks\nName: \nFB Ads\n\nRemote MCP Server URL: \nhttps : // mcp . f",
+      "likes": 404,
+      "views": 0,
+      "url": "https://x.com/i/status/2096641942373413163",
+      "is_kol": false,
+      "score": 1292.0
+    },
+    {
+      "id": "2096864820100464709",
+      "author": "pieverse_io",
+      "text": "🤓 Did you know? Your Agent can act onchain without ever handling its private key.\n\nWith Purr-Fect Claw, the private key is generated inside a hardware-isolated TEE and never exposed to the skill code, the host OS, or external parties.\n\nThe request goes in, the signed result comes",
+      "likes": 180,
+      "views": 0,
+      "url": "https://x.com/i/status/2096864820100464709",
+      "is_kol": false,
+      "score": 1020.0
+    },
+    {
+      "id": "2096818401985560654",
+      "author": "XFreeze",
+      "text": "Grok Build just got another big update, taking another major step toward becoming a full agent workspace\n\nDesktop app tools now connect through a dedicated first-party MCP server, a new long-running workspace daemon can expose folders to Computer Hub, finished subagents can be co",
+      "likes": 289,
+      "views": 0,
+      "url": "https://x.com/i/status/2096818401985560654",
+      "is_kol": false,
+      "score": 1017.0
+    },
+    {
+      "id": "2096912604945879412",
+      "author": "TawohAwa",
+      "text": "Secret hack to use GPT-6 Astra even if you hate it.\n\n- Open ChatGPT\n- Select Work\n- Choose GPT-6 Astra\n\nPaste this prompt:\n\n“Look at the work I do every week.\nGo through everything I do on my computer emails, documents, spreadsheets, meetings, messages, reports, research, admin, ",
+      "likes": 181,
+      "views": 0,
+      "url": "https://x.com/i/status/2096912604945879412",
+      "is_kol": false,
+      "score": 718.0
+    },
+    {
+      "id": "2096585835399549423",
+      "author": "HeyAnjula",
+      "text": "You installed Claude Code and stopped there.\n\nHere are 22 skills (actually) worth adding:\n\nIf you're just getting started, check out these guides:\n\nEvery one is a GitHub repo. Grouped by what they do:\n\nBUILD\n\nsuperpowers — plans and debugs before it writes\nInstall → https://t.co/",
+      "likes": 153,
+      "views": 0,
+      "url": "https://x.com/i/status/2096585835399549423",
+      "is_kol": false,
+      "score": 649.0
+    },
+    {
+      "id": "2096641003788660950",
+      "author": "anthdm",
+      "text": "I give GPT 6 Astra MCP access to MMT V3 scripting and this is what it did. \n\nThis is all server side computed and rendered by MMT. What you see on the screen is all the output of 1 script.\n\nV3 coming next week. https://t.co/TwLO9wDpRS",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2096641003788660950",
+      "is_kol": false,
+      "score": 543.0
+    },
+    {
+      "id": "2096893577737707553",
+      "author": "therealchaseeb",
+      "text": "In my 6 years of working between Solana Labs and Solana Foundation, I've noticed that hiring from another ecosystem has a much lower chance of success. \n\nNot because of any sort of skill issue, but rather cultural differences and the type of friction that comes with that. If your",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2096893577737707553",
+      "is_kol": false,
+      "score": 454.0
+    },
+    {
+      "id": "2096946215241867275",
+      "author": "Grow_withAI",
+      "text": "Anthropic just released a 60-minute Claude AI course that’s genuinely worth your time.\n\nInstead of wasting the next hour scrolling or watching Netflix, spend it learning how to BUILD, AUTOMATE, and get more done with Claude.\n\n60 minutes today → a powerful AI skill you can put to ",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2096946215241867275",
+      "is_kol": false,
+      "score": 445.0
+    },
+    {
+      "id": "2096928467107622935",
+      "author": "polydao",
+      "text": "Chinese researchers just published a paper with a brutal title: \"The End of Software Engineering.\"\n\ntheir argument: writing code is finished as a skill\n\na human brain holds only so much state and so many dependencies before it stalls\n\nan agent has no such ceiling, and its capacit",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2096928467107622935",
+      "is_kol": false,
+      "score": 441.0
+    },
+    {
+      "id": "2096916390448070932",
+      "author": "rubenhassid",
+      "text": "These are the exact Claude Skills I use every day.\n\nI'm giving you the whole library (for free):\n\n👉 https://t.co/6cHYYfjXEA - get all the skills in a zip file.\n\nA Skill is just a /command that fires itself.\n\nNo more re-explaining who you are.\nNo more \"read this file first.\"\nNo mo",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2096916390448070932",
+      "is_kol": false,
+      "score": 421.0
+    },
+    {
+      "id": "2096936645455155650",
+      "author": "JayBisen473370",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT, spend 2 hours learning a skill that could completely change how you work.\n\nThis Claude AI FULL COURSE is worth bookmarking.\n\nIt teaches you how to use Claude to:\n\n→ Build websites & apps\n→ Write and debug code\n→ Automate repetitive tasks\n→ Ana",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2096936645455155650",
+      "is_kol": false,
+      "score": 378.0
+    },
+    {
+      "id": "2096835046690918741",
+      "author": "Ai_Vaidehi",
+      "text": "Surprising people don't know these 10 AI agent GitHub repos.\n\nI've briefly explained with the link for each.\n\n1. 𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗨𝘀𝗲: 𝗚𝗶𝘃𝗲 𝗔𝗴𝗲𝗻𝘁𝘀 𝗪𝗲𝗯 𝗕𝗿𝗼𝘄𝘀𝗶𝗻𝗴\n• Lets AI agents navigate websites, click buttons, fill forms, extract information, and complete browser-based tasks.\n• Useful wh",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2096835046690918741",
+      "is_kol": false,
+      "score": 347.0
+    },
+    {
+      "id": "2096806459548061745",
+      "author": "HermesWatcher",
+      "text": "Hermes had a ridiculous week.\n\nThe headline alone is hard to ignore:\n\n1,652 subagent tasks.\n111,352 tool calls.\n4,271 commits.\n2,655 files changed.\n\nHermes was used to refactor Hermes itself at massive scale.\n\nAnd that was only part of the week.\n\nHere are the biggest Hermes chang",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2096806459548061745",
+      "is_kol": false,
+      "score": 331.0
+    },
+    {
+      "id": "2096645596493050239",
+      "author": "brandnewnox",
+      "text": "อาจจะไม่ได้พูดถึงข้อเสีย แต่ก็อยากเตือนไว้ว่า ใครใช้ MCP ก็ควร config ให้ดี ๆ เพราะ MCP บางตัวไม่ได้มีแค่สิทธิ์อ่านข้อมูล แต่มี tool ที่สามารถ แก้ไข ลบ หรือสร้างข้อมูลใหม่ได้ด้วย\n\nยิ่งถ้าใช้ MCP จากคนอื่น หรือเอา server แปลก ๆ มารัน ก็ควรเช็กให้ดีว่ามันขอ permission อะไร มี tool ",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2096645596493050239",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2096654948725387736",
+      "author": "csaba_kissi",
+      "text": "If your app doesn't contain an API and an MCP server, you have already lost 50% of your potential customers.",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2096654948725387736",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2096848440755884540",
+      "author": "AiswaryaVenkit1",
+      "text": "Building AI agents on Azure feels overwhelming until you see the full roadmap.\n\nMicrosoft Foundry Agent Service + Microsoft Agent Framework give you everything but only if you follow the right sequence.\n\nHere’s the step-by-step flow:\n\n→ 𝗗𝗲𝗳𝗶𝗻𝗲 𝘁𝗵𝗲 𝗔𝗴𝗲𝗻𝘁 𝗚𝗼𝗮𝗹\nChoose one clear busi",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2096848440755884540",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2096884115073061017",
+      "author": "Paul250889",
+      "text": "solana:2jbdBWTK2MYpuRsmEDJqETU3UMM2nN3WGtete4HUpump starts from a real problem. Tens of thousands of agent skills get published every week, and almost nobody can run them. Recipes everywhere. No kitchen. Rokha is that kitchen: you find a capability, you execute it in a cloud sand",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2096884115073061017",
+      "is_kol": false,
+      "score": 222.0
+    }
+  ]
+}
