@@ -6718,5 +6718,61 @@
   "ejc3/0104797f285e15ad8dc2559d9abf7386": {
     "first_seen": "2026-09-07",
     "tier": 3
+  },
+  "zju-real/easel": {
+    "first_seen": "2026-09-08",
+    "tier": 0
+  },
+  "yyjeqhc/webcodex": {
+    "first_seen": "2026-09-08",
+    "tier": 2
+  },
+  "gentleman-programming/gentle-pi": {
+    "first_seen": "2026-09-08",
+    "tier": 2
+  },
+  "huozhi/sugar-high": {
+    "first_seen": "2026-09-08",
+    "tier": 2
+  },
+  "alchaincyf/loop-engineering-orange-book": {
+    "first_seen": "2026-09-08",
+    "tier": 2
+  },
+  "mrnetwork0001/deltr": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "sugarforever/yummy-pi-extensions": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "evermind-ai/skillcorpus": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "crysta1221/skills": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "catalystbyzoho/agent-skills": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "amazon-ses/skills": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "blaxel-ai/agent-migration-skills": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "massimodeluisa/recursive-decomposition-skill": {
+    "first_seen": "2026-09-08",
+    "tier": 3
+  },
+  "askprateek/skills": {
+    "first_seen": "2026-09-08",
+    "tier": 3
   }
 }
