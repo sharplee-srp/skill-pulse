@@ -1,0 +1,659 @@
+{
+  "date": "2026-09-09",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 177,
+    "tweets_with_repos": 22,
+    "unique_repos": 22,
+    "new_repos": 16,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "git-agni/prod-uae-corporate-tax-skill",
+      "github_url": "https://github.com/git-agni/prod-uae-corporate-tax-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 2369.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 703,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "consumerxai",
+        "text": "registered my dubai company for corporate tax myself yesterday without an agent or the 1,250 AED fee\n\ntold Claude to open the FTA portal and fill the whole form while i watched. ~40 min. approved same day 🫡\n\nopen sourced the skill so you can do it too 👇\nhttps://t.co/05cfAjmpAY ht",
+        "likes": 703,
+        "url": "https://x.com/i/status/2097612209736258028"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097612209736258028"
+      ]
+    },
+    {
+      "repo": "abue-ammar/tinycast",
+      "github_url": "https://github.com/abue-ammar/tinycast",
+      "tier": 2,
+      "is_new": true,
+      "score": 495.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 120,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abue_ammar",
+        "text": "🚀 Tinycast 0.10.15 Stable is here!\n\nThis is a BIG one. 50+ improvements, fixes, and contributions packed into a single release.\n\n✨ Highlights:\n\n• Better app search, including system language and Chinese app names\n• Search fallback commands and Open in Browser\n• Every built in com",
+        "likes": 120,
+        "url": "https://x.com/i/status/2097420934592557106"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097420934592557106"
+      ]
+    },
+    {
+      "repo": "jankeesvw/omarchy-in-omarchy",
+      "github_url": "https://github.com/jankeesvw/omarchy-in-omarchy",
+      "tier": 2,
+      "is_new": true,
+      "score": 477.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 114,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jankeesvw",
+        "text": "Want a VM with Omarchy? @dhh told me to use QEMU. I asked my agent and created a script with a skill so I could make VMs in a minute.\n\n- No installer wizard\n- No disk passphrase\n- No login prompt\n- 18 seconds from boot to desktop\n\nhttps://t.co/Q7ACud2lGj",
+        "likes": 114,
+        "url": "https://x.com/i/status/2097635921457770825"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097635921457770825"
+      ]
+    },
+    {
+      "repo": "mystiquemide/qualto",
+      "github_url": "https://github.com/mystiquemide/qualto",
+      "tier": 3,
+      "is_new": true,
+      "score": 397.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 84,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MystiqueMide",
+        "text": "I built Qualto for the @binance Agent OS Mini Hackathon (Track A).\n\nAI agents are beginning to trade real money. But there’s still one problem I don’t think we talk about enough:\n\nHow do you know the trade your agent says it made actually happened?\n\nAn agent can tell you:\n\n“Bough",
+        "likes": 84,
+        "url": "https://x.com/i/status/2097474244095451324"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097474244095451324"
+      ]
+    },
+    {
+      "repo": "codejunkie99/agentic-stack-desktop",
+      "github_url": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "tier": 3,
+      "is_new": true,
+      "score": 365.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Av1dlive",
+        "text": "i'm leaking my entire coding agent setup...\n\n20 billion tokens and 12,000 sessions later, i got sick of explaining the same project every time i switched tools.\n\nso i built them a shared brain\n\nsteal the prompt \n\n[start prompt]\n\nSet up Agentic Stack as my local second brain and L",
+        "likes": 75,
+        "url": "https://x.com/i/status/2097639365644279857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097639365644279857"
+      ]
+    },
+    {
+      "repo": "hammingdev/haiming-app-monetization",
+      "github_url": "https://github.com/hammingdev/haiming-app-monetization",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "10xmylife",
+        "text": "开源了我的 App 商业化 Skill\n\nhttps://t.co/8My7MKOgWF\n\n这个 Skill 能够分析你的产品，然后给出提高付费转化率的建议，主要围绕几个方向设计：\n1. onboarding\n2. 付费墙\n3. 付费选项\n4. 竞品调研\n...\n\n使用方式很简单，让你的Agent 安装到本地，然后在产品根目录让你的 Agent 分析即可\n\n这个 Skill 是我跟 Astra 讨论了一天做出来的，包括我过去学习、实践过的所有经验、观点、技巧，比如说：\n\n1️⃣ 一个优秀的 onboarding 流程是：\n寻求认同-价值呈现-愿景许诺\n学",
+        "likes": 39,
+        "url": "https://x.com/i/status/2097660145941742064"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097660145941742064"
+      ]
+    },
+    {
+      "repo": "gdg-jp/skills",
+      "github_url": "https://github.com/gdg-jp/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 180.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "harineko_univ",
+        "text": "connpass サイトで使用できる HTML syntax + CSS properties をスキルにしましたよ\n\nnpx skills add gdg-jp/skills --skill connpass-syntax\n\nconnpass サイトは一部の HTML, CSS しかサポートしていないので https://t.co/P7fcnl7y3c",
+        "likes": 20,
+        "url": "https://x.com/i/status/2097502797558370379"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097502797558370379"
+      ]
+    },
+    {
+      "repo": "ezra-y/codex-goal-progress",
+      "github_url": "https://github.com/ezra-y/codex-goal-progress",
+      "tier": 3,
+      "is_new": true,
+      "score": 149.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFT_Chen",
+        "text": "🔥推荐：Codex 跑 /goal 一走就是几十分钟甚至几小时，回来完全不知道做到哪了？一个插件就能直接看原生进度条，而且长得像官方做的！\n\n为什么值得装：\n🔹跟着 Codex 明暗主题、字体、强调色走，观感几乎以假乱真\n🔹开工前先生成 Checklist，再按重要程度和完成情况算总进度/子进度\n🔹重启 Codex 后进度条还能接上\n🔹支持自动/手动检查更新\n\n具体操作步骤：\n1️⃣先确认能用 /goal（目标要可验证，适合长任务）\n\n2️⃣安装插件（任选其一）\n▫️让 AI 装：把「请按照仓库中的 INSTALL-FOR-AI.md，安装并验证 htt",
+        "likes": 8,
+        "url": "https://x.com/i/status/2097650002831299009"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097650002831299009"
+      ]
+    },
+    {
+      "repo": "oxbshw/watch-skill",
+      "github_url": "https://github.com/oxbshw/watch-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "retsu_zone",
+        "text": "Watch Skill面白い\nUIバグの録画をOCR・文字起こしして、タイムスタンプ付きの根拠ごとエージェントに調査・検証させられる\n\nClaude Code、Codex CLI、OpenClawからMCP経由で検索可能\nモデルとは別の検証機構もある\n\nhttps://t.co/Fg26QRseKa",
+        "likes": 2,
+        "url": "https://x.com/i/status/2097537254432686156"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097537254432686156"
+      ]
+    },
+    {
+      "repo": "jay-yangpy/portrait-visual-play",
+      "github_url": "https://github.com/jay-yangpy/portrait-visual-play",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "YangOnchain",
+        "text": "做了个好玩的 人像开放式趣味创作skill\n欢迎自己去CODEX安装体验\nhttps://t.co/3xFLPzvVcF https://t.co/IfTQLqhrGi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2097670637032808542"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097670637032808542"
+      ]
+    },
+    {
+      "repo": "dvcrn/skills",
+      "github_url": "https://github.com/dvcrn/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "davicorn",
+        "text": "Little skill to get AGENTS.md and skills ready for Astra. \nIt scans the file for Astra anti-patterns like over-using imperatives (which it will take very literal) and suggests recommendations \n\nnpx skills add dvcrn/skills --skill astra-ify -g https://t.co/HPHY1mgraD",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097625681492685290"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097625681492685290"
+      ]
+    },
+    {
+      "repo": "gabros20/orchestrate-skill",
+      "github_url": "https://github.com/gabros20/orchestrate-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tamas_gr",
+        "text": "Install:\n\nnpx skills add gabros20/orchestrate-skill -g\n\nOr ./install.sh claude|codex|cursor|hermes|...\n\nGuide: https://t.co/n5ZDtqWsFX\n\nSolo-built. MIT.\nIf your agent \"team\" keeps losing state, start with a strategy layer.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097578251472318823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097578251472318823"
+      ]
+    },
+    {
+      "repo": "ucsandman/dashclaw-skills",
+      "github_url": "https://github.com/ucsandman/dashclaw-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ucsandman",
+        "text": "3/ Install: npx skills add ucsandman/dashclaw-skills --skill muse-governance\n\nGuide: https://t.co/NqEFrpQHhc",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097437272429772891"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097437272429772891"
+      ]
+    },
+    {
+      "repo": "axisrobo/limenora-open",
+      "github_url": "https://github.com/axisrobo/limenora-open",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huiwenhan",
+        "text": "【LIMENORA：连接企业系统，不等于把接口直接交给 Agent】\n\n给 Agent 配置一个 API、数据库连接或 MCP Server，不等于完成企业集成。\n\n企业边界还需要处理：\n\n内外协议转换；\n身份与委托上下文传播；\n数据分类与脱敏；\n请求和响应 Schema 校验；\n限流、熔断与出口控制；\n凭证代理和短期凭证注入；\n全链路审计与证据关联。\n\nLIMENORA 是 Agent 与企业系统之间的治理型集成网关。\n\n它不决定 Agent 是否有业务权限，也不执行 Agent 的推理；它确保获准的调用只能通过受控边界，以允许的协议、数据范围和网络路",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097681135790850446"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097681135790850446"
+      ]
+    },
+    {
+      "repo": "achimala/dream-loop",
+      "github_url": "https://github.com/achimala/dream-loop",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "21_borv",
+        "text": "AGENT SKILL FOR CREATING 3-D VISUALIZATIONS\n\nThe dream-loop repository offers a simple approach to this.\n\nFirst, AI comes up with what the result should look like and creates a visual reference.\n\nThen another agent assembles the scene in Blender or Three.js. The finished result i",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097674886025969666"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097674886025969666"
+      ]
+    },
+    {
+      "repo": "hazat/codex-fusion-360",
+      "github_url": "https://github.com/hazat/codex-fusion-360",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielGri",
+        "text": "For anyone interested, I extracted my flow into a Codex Plugin/skill for anyone to piggyback on\nhttps://t.co/sNIVvuGKL2",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097646484128690629"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097646484128690629"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 241.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "daweifs",
+        "text": "Claude Code 写的代码已经越来越熟练了，但你让它改 Landing Page、做 SEO、写广告，很多时候还是那种“没错，但也没什么用”的 AI 答案。\n\n一个挺火的项目 marketingskills，GitHub 已经 4.8W+ ⭐️。\n\n它做的事很简单：给 Claude Code / Codex 这些 Agent 装一套营销 Skills。\n\n现在里面有 50 个左右，基本把做产品常碰到的营销活都覆盖了。比如你丢一个 Landing Page 给 Claude，让它提高转化率，它会用 CRO 的那套方法去检查；要写首页文案就调 copy",
+        "likes": 47,
+        "url": "https://x.com/i/status/2097566138112905244"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097566138112905244"
+      ]
+    },
+    {
+      "repo": "opensensenova/sensenova-skills",
+      "github_url": "https://github.com/opensensenova/sensenova-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SenseTime_AI",
+        "text": "From raw research and data analytics to fully editable PPT decks and infographics—see how 𝗦𝗲𝗻𝘀𝗲𝗡𝗼𝘃𝗮-𝗦𝗸𝗶𝗹𝗹𝘀 empowers AI Agents with 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝘄𝗼𝗿𝗸𝗽𝗹𝗮𝗰𝗲 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀! \n\nHuge thanks to AiZen Tools for testing our open-source skill suite!\n\n🎥 Full video demo:\nhttps://t.co/dC1ffPeJtp\n",
+        "likes": 4,
+        "url": "https://x.com/i/status/2097339267370684906"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097339267370684906"
+      ]
+    },
+    {
+      "repo": "etherscan/skills",
+      "github_url": "https://github.com/etherscan/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "etherscan",
+        "text": "Install the skill:\n`npx skills add etherscan/skills --skill etherscan-contract-review`\n\nThen prompt your agent:\n\"Review &lt;CONTRACT&gt; on &lt;CHAIN&gt; with etherscan-contract-review\"\n\n📢 Use it with our official MCP and CLI for agent-native onchain data retrieval:\nhttps://t.co/",
+        "likes": 3,
+        "url": "https://x.com/i/status/2097671843402612750"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097671843402612750"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cai_smart",
+        "text": "Most video-as-code tools make you learn React before you can move a title across the screen. This one takes plain HTML.\n\nRecommendation: ★★★★☆\nDifficulty: Intermediate\n\nWhat is it, exactly?\n\nAn open-source TypeScript framework that turns HTML, CSS, media and seekable animations i",
+        "likes": 2,
+        "url": "https://x.com/i/status/2097652566439928090"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097652566439928090"
+      ]
+    },
+    {
+      "repo": "massimodeluisa/nerdfonts-skill",
+      "github_url": "https://github.com/massimodeluisa/nerdfonts-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "massimodeluisa",
+        "text": "Agents keep dropping emoji or\ncrappy icons instead of real icons.\n\nBut there’s a easy solution to that: 10,995 glyphs. Local cheat sheet. No invented codepoints.\n\n&gt; npx skills add massimodeluisa/nerdfonts-skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2097460188164858342"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097460188164858342"
+      ]
+    },
+    {
+      "repo": "askprateek/skills",
+      "github_url": "https://github.com/askprateek/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AskPK123",
+        "text": "Anyone starting can take a look at my Herdr Orchestration Skill. \nHelps manage a fleet of agents easily.\n\nInstall Here: \nnpx skills add askprateek/skills/herdr-orchestration\n\nRepo Here: https://t.co/Z4ITawKIbp",
+        "likes": 0,
+        "url": "https://x.com/i/status/2097560470236594397"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2097560470236594397"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2097638166232457451",
+      "author": "mattpocockuk",
+      "text": "I've been trying to use AI for knowledge work (course planning). Here's what seems to work so far:\n\n1. Give each 'deliverable' a Karpathy-style LLM-wiki\n\n(for me, a deliverable is a course, or a talk. A sizeable piece of work, more than 1 day's labour)\n\n2. Split the deliverable i",
+      "likes": 664,
+      "views": 0,
+      "url": "https://x.com/i/status/2097638166232457451",
+      "is_kol": false,
+      "score": 2117.0
+    },
+    {
+      "id": "2097475417535897980",
+      "author": "freeCodeCamp",
+      "text": "AI assistants are more useful when they can work with real data instead of relying on chat history.\n\nIn this tutorial, Chinedu shows you how to build a scholarship research MCP server with Node.js, Express, and MongoDB.\n\nYou'll create tools for searching, matching, saving, compar",
+      "likes": 267,
+      "views": 0,
+      "url": "https://x.com/i/status/2097475417535897980",
+      "is_kol": false,
+      "score": 976.0
+    },
+    {
+      "id": "2097550577475740040",
+      "author": "HVnS42442600",
+      "text": "While reading the TermiX docs, I came across a pretty cool detail @termix_ai \n\nTermiX features a portable \"Agent Skill.\"\nIt’s not for the agent to simply *read* the marketplace;\nit’s for the agent to actually *run* the marketplace.\n\nWhether acting as a buyer, a seller, or both.\n\n",
+      "likes": 243,
+      "views": 0,
+      "url": "https://x.com/i/status/2097550577475740040",
+      "is_kol": false,
+      "score": 729.0
+    },
+    {
+      "id": "2097421076355768770",
+      "author": "Context7AI",
+      "text": "Context7 is now an OpenCode plugin.\n\nopencode plugin @upstash/context7-opencode\n\nMCP server + a skill that auto-triggers doc lookups. One command, no config.\n\nhttps://t.co/spkmwXmhgL",
+      "likes": 211,
+      "views": 0,
+      "url": "https://x.com/i/status/2097421076355768770",
+      "is_kol": false,
+      "score": 728.0
+    },
+    {
+      "id": "2097527570753278396",
+      "author": "thdxr",
+      "text": "fiend - build 3D stuff with your agent in the browser\n\nconnect the mcp server, ask your agent to make a new scene and get a link. you can point out areas for feedback and prompt it further\n\nworks beautifully with opencode2's codemode https://t.co/V8fZE9FULs",
+      "likes": 228,
+      "views": 0,
+      "url": "https://x.com/i/status/2097527570753278396",
+      "is_kol": false,
+      "score": 694.0
+    },
+    {
+      "id": "2097506526437212593",
+      "author": "ELoghinova",
+      "text": "Good morning Friends.\n\nOne thing I find underrated about @termix_ai  is that they’re not treating agents as simple users of a marketplace.  \nThey’re giving them the tools to actually navigate it.  With the portable Agent Skill, coding agents can understand when and how to interac",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2097506526437212593",
+      "is_kol": false,
+      "score": 430.0
+    },
+    {
+      "id": "2097430195892564296",
+      "author": "RhysSullivan",
+      "text": "I get asked a lot 'how should I build an MCP server?' or 'should i build an MCP or a CLI?', glad to see someone finally doing it right\n\nexcellent example of what to do and how here by Andre w/ Neon, putting a cleaner layer on top of their openapi spec and making that accessible",
+      "likes": 129,
+      "views": 0,
+      "url": "https://x.com/i/status/2097430195892564296",
+      "is_kol": false,
+      "score": 397.0
+    },
+    {
+      "id": "2097425311545897174",
+      "author": "andrelandgraf",
+      "text": "We added 64 new tools to the Neon MCP server and shipped @neon/tools - a new agent tools SDK for MCP, Mastra and Eve. Also, I guess we built a software factory in the process.\n\nNotes:\n\n1. MCP is more important than ever. With progressive tool discovery, large tool lists are much ",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2097425311545897174",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2097413412439347423",
+      "author": "SaharaAI",
+      "text": "Your tools shouldn’t be trapped inside one agent.\n\nSahara AI’s Tools as a Service works with Claude, Codex, Cursor, any MCP client and custom setups, bringing new capabilities into the stack you already use.\n\nModels will keep changing. Your tool layer should stay portable. https:",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2097413412439347423",
+      "is_kol": false,
+      "score": 312.0
+    },
+    {
+      "id": "2097627102749278231",
+      "author": "TheBlockCo",
+      "text": "THE BLOCK: Aave has launched an official MCP server allowing AI agents to access live protocol data and prepare transactions across Aave V3 and V4.\n\nThe server can connect to ChatGPT, Claude, and other MCP-compatible tools, with users retaining control over transaction signing. h",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2097627102749278231",
+      "is_kol": false,
+      "score": 270.0
+    },
+    {
+      "id": "2097628778029826380",
+      "author": "jinbaflow_JP",
+      "text": "反響が大きかったので、使い方を書きます。\n\n① Claude Codeにこう頼む\n「https://t.co/iFbHe7ltvj を ~/.claude/skills に入れて」\n\n② 資料を頼む\n「A社向けのAI導入提案書を15枚で作って」\n「XXの資料を参考にして、YYは調べて、こういうこと伝えたい」とか　できれば、背景情報はたくさん\n\n③ よくある戦略ファームで受ける指摘は一通りAIが気をつけながら資料作成に行う",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2097628778029826380",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2097573216369668539",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric ",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2097573216369668539",
+      "is_kol": false,
+      "score": 240.0
+    },
+    {
+      "id": "2097629395108159708",
+      "author": "lordsgood",
+      "text": "Most of the conversation around AI agent trust assumes a human is checking the agent. But agents increasingly transact with other agents, with no person in that loop at all.\n\n@Concordium's stack accounts for that. Alongside the Agent Registry, they've shipped an MCP server that l",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2097629395108159708",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2097658946618327226",
+      "author": "aehyok",
+      "text": "这是我使用手机移动端 AI Agent 以来，最实用也最惊喜的一个场景。\n最近在手机上玩 @TodayAIofficial，我让它分析自己的 X 账号，并生成一个可直接预览的网页。\n\n第一版生成后我非常不满意，风格、主题、视觉、布局，完全不符合我的要求。随后又调整了三次，才拿到满意的皮肤、排版和视觉效果。\n\n但是真正让我惊喜的是第二次。\n\n我新开了一个会话，让它做完全不同的个人介绍页面。没有重新说这些要求，但它记住了上一个会话中背景、排版以及视觉偏好。\n\n而且它不是照搬上一个页面，而是记住了我的判断偏好。\n这也是我觉得 Personal Context ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2097658946618327226",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2097636823359267236",
+      "author": "JayBisen473370",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT, spend 2 hours learning a skill that could completely change how you work.\n\nThis Claude AI FULL COURSE is worth bookmarking.\n\nIt teaches you how to use Claude to:\n\n→ Build websites & apps\n→ Write and debug code\n→ Automate repetitive tasks\n→ Ana",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2097636823359267236",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2097500406276571384",
+      "author": "MPP32_dev",
+      "text": "1/4 YEAR RECAP🎉\n\nMPP32 went from a live payment proxy into a full agent-economy control plane: catalog, sessions, trust, fair pricing, and a first major listing.\n\nDeveloped by @Antmanonsol \nBusiness by @8055ZKH \nSupported by @cepryl since a week in.\n\nConstantly looking for the ne",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2097500406276571384",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2097421109926715894",
+      "author": "Grindweb3jx",
+      "text": "Colosseum opens Sept 14.\n@GoblinBuilds is taking @rokha_agent in with a live runtime — real MCP runs, traces, USDC payouts. Not a slide deck.\nMost hackathon agents still mime the tool call.\n$ROKHA https://t.co/tWLbSKIB6L\nWho else is entering with receipts?",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2097421109926715894",
+      "is_kol": false,
+      "score": 209.0
+    },
+    {
+      "id": "2097650211770274041",
+      "author": "rossiadam",
+      "text": "Voice-enabled AI is one of the greatest tools every developed for lifelong learners.\n\nWhen I have a 30-minute drive, I turn on ChatGPT or Claude voice mode and work through a challenge I'm wrestling with.\n\nThat might be a technical problem, an esoteric concept I don't fully under",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2097650211770274041",
+      "is_kol": false,
+      "score": 193.0
+    }
+  ]
+}
