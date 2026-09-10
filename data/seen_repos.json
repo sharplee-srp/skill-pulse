@@ -6838,5 +6838,57 @@
   "hazat/codex-fusion-360": {
     "first_seen": "2026-09-09",
     "tier": 3
+  },
+  "googlemaps/agent-skills": {
+    "first_seen": "2026-09-10",
+    "tier": 2
+  },
+  "en/rest": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "pi-node/solohost": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "sunblaze-ucb/vero": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "rami-maalouf/skills": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "harjjotsinghh/jot": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "motherduckdb/agent-skills": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "ansontgn/skills-hub-rs": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "mahdi-salmanzade/iphone-duo-skill": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "freemius/freemius-ai": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "google/mantis": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "tiiny-host/skills": {
+    "first_seen": "2026-09-10",
+    "tier": 3
+  },
+  "secondsky/claude-skills": {
+    "first_seen": "2026-09-10",
+    "tier": 3
   }
 }
