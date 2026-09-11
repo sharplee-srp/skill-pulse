@@ -6890,5 +6890,45 @@
   "secondsky/claude-skills": {
     "first_seen": "2026-09-10",
     "tier": 3
+  },
+  "tomismeta/netstack": {
+    "first_seen": "2026-09-11",
+    "tier": 2
+  },
+  "nvidia/openshell": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "tencent/teamai-cli": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "iamcorey/wake": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "sinan/hemingway": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "matsubo/agent-skills": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "heygen-com/hyperframes-community-skills": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "zju-real/hugagentos": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "stretchcloud/deepscrape": {
+    "first_seen": "2026-09-11",
+    "tier": 3
+  },
+  "thu-maic/openmaic": {
+    "first_seen": "2026-09-11",
+    "tier": 3
   }
 }

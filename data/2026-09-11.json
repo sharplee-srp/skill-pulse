@@ -1,0 +1,628 @@
+{
+  "date": "2026-09-11",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 173,
+    "tweets_with_repos": 22,
+    "unique_repos": 21,
+    "new_repos": 10,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "tomismeta/netstack",
+      "github_url": "https://github.com/tomismeta/netstack",
+      "tier": 2,
+      "is_new": true,
+      "score": 916.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 187,
+      "total_retweets": 31,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomismeta",
+        "text": "Given the complexity, breadth, and robustness of the @NetNetCap protocol and adjacent ecosystem, I built a Hermes/OpenClaw skill to support rapid knowledge acquisition. \n\nIt brings together protocol knowledge, official documentation, contract references, dashboards, NFT collectio",
+        "likes": 185,
+        "url": "https://x.com/i/status/2098087109240471758"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098087109240471758",
+        "https://x.com/i/status/2098084835592221015"
+      ]
+    },
+    {
+      "repo": "nvidia/openshell",
+      "github_url": "https://github.com/nvidia/openshell",
+      "tier": 3,
+      "is_new": true,
+      "score": 201.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xZenad",
+        "text": "AN AGENT WITH SHELL + BROWSER + API KEYS ISN'T A CHATBOT ANYMORE\n\n10 repos I'd put between it and production:\n\n1) OpenShell\n\nRun Claude Code, Codex, OpenCode and other agents inside a sandbox instead of directly on your machine\n\nYou can restrict files, credentials and outbound ne",
+        "likes": 32,
+        "url": "https://x.com/i/status/2098100741390901295"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098100741390901295"
+      ]
+    },
+    {
+      "repo": "tencent/teamai-cli",
+      "github_url": "https://github.com/tencent/teamai-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 132.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kafkaup",
+        "text": "团队里十个人用 Claude Code，就有十份不一样的 CLAUDE.md 和 MCP 配置。这件事一开始不痛，等到有人写出一条好用的 skill 却只能贴在群里的时候才开始痛。腾讯开源的 teamai-cli 想解决的就是这个。\n\n它和把配置塞进项目仓库有什么区别？\n\n区别在于它把 Harness 当成一个独立的、可评审的东西来管。skills、rules、docs、agents、hooks、MCP、env、culture.md 全部放在一个共享 Git 仓库里，成员本地改完跑 teamai push，自动开分支提 MR，评审合并之后才生效。其他人不",
+        "likes": 9,
+        "url": "https://x.com/i/status/2098082851434500593"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098082851434500593"
+      ]
+    },
+    {
+      "repo": "iamcorey/wake",
+      "github_url": "https://github.com/iamcorey/wake",
+      "tier": 3,
+      "is_new": true,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realcoreychiu",
+        "text": "New in Wake: Wake-cli and Skill 🔥\n\nNow your coding agent can read what your other coding agents did\n\nIt goes and looks on its own, even when the answer is in a session from a different agent\n\ntry the skill: npx skills add iAmCorey/Wake\n\nopen source: https://t.co/cqSCW5L63h https:",
+        "likes": 6,
+        "url": "https://x.com/i/status/2098255143107964957"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098255143107964957"
+      ]
+    },
+    {
+      "repo": "sinan/hemingway",
+      "github_url": "https://github.com/sinan/hemingway",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sinanyasar",
+        "text": "My brain is refusing to follow long AI replies, so I made a skill for agents. It answers in short, plain sentences, and ends with a line naming what it left out. Feels so much better. You can search in claude plugins, or:\n\nnpx skills add sinan/hemingway\nhttps://t.co/4AOtPZ8FwY",
+        "likes": 5,
+        "url": "https://x.com/i/status/2098185129042891243"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098185129042891243"
+      ]
+    },
+    {
+      "repo": "matsubo/agent-skills",
+      "github_url": "https://github.com/matsubo/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "matsubokkuri",
+        "text": "Claude Code の Agent Skills を公開しました。\n\nnpm / gem の依存更新、GitHub Actions のワークフロー作成、リリース作業の4つ。\nどれも自分が毎回同じ指示を出し直していた作業です。\n\nnpx skills add matsubo/agent-skills\n\nhttps://t.co/6dPBPUpR1o",
+        "likes": 2,
+        "url": "https://x.com/i/status/2098162063428432245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098162063428432245"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes-community-skills",
+      "github_url": "https://github.com/heygen-com/hyperframes-community-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GoSailGlobal",
+        "text": "HeyGen官方开了个社区技能库,专收那些精而窄、一招鲜的视频自动化技能\n\nHyperFrames Community Skills,Apache开源。它长在HeyGen自家那个48600星的开源框架HyperFrames上,用HTML和CSS写视频,确定性渲染成MP4。视频开头那几张就是HyperFrames的官方设计模板\n\n社区库目前三个skill,每个都能单独装:\n\np5手绘动画:把文字、照片、短片变成确定性的p5.js手写、涂色和活画效果\nvox解说:给一个话题、一份文档或一个链接,出一支60到90秒的拼贴风解说视频,就是Vox那种味道\nX发帖执",
+        "likes": 3,
+        "url": "https://x.com/i/status/2098396280036962391"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098396280036962391"
+      ]
+    },
+    {
+      "repo": "zju-real/hugagentos",
+      "github_url": "https://github.com/zju-real/hugagentos",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "alindnbrg",
+        "text": "You are now the sudo prompt. The agent plans, a rule engine flags it, and the operating system halts until you click approve. Ontology as control plane. Three databases as memory. The semantic web waited twenty years for a user. It got a checkbox. https://t.co/mAy9CAtYgY",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098403263972249657"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098403263972249657"
+      ]
+    },
+    {
+      "repo": "stretchcloud/deepscrape",
+      "github_url": "https://github.com/stretchcloud/deepscrape",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "stretchcloud",
+        "text": "WeMakeDevs launched \"Into the Scrape-Verse\" hackathon. Grand prize challenge: build a self-healing scraping pipeline with agents + deterministic checks.\n\nThat's exactly what DeepScrape does.\n\nPlaywright + LLM. CSS selectors generated once, self-healed automatically. Ships with an",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098403184565686402"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098403184565686402"
+      ]
+    },
+    {
+      "repo": "thu-maic/openmaic",
+      "github_url": "https://github.com/thu-maic/openmaic",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neneqi2924",
+        "text": "Facts: OpenMAIC Skill plugs into OpenClaw/Codex/etc so Feishu/Slack/Telegram can spawn a classroom. NPM @openmaic/* SDK. Relicensed MIT (commercial-friendly). Own the curriculum stack — don't rent another course SaaS.\nhttps://t.co/TlrEjzftBW",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098311151218311252"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098311151218311252"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "garrytan/gstack",
+      "github_url": "https://github.com/garrytan/gstack",
+      "tier": 3,
+      "is_new": false,
+      "score": 457.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 27,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RodmanAi",
+        "text": "10 GITHUB REPOS THAT MAKE AI CODING AGENTS WAY MORE POWERFUL\n\nIf you use Claude Code, Codex, Cursor or OpenCode...\n\nYou might not be using them at their full potential.\n\n1. gstack\n\nTurn your coding agent into a full engineering team.\n\nhttps://t.co/ogC75mfGPU\n\n2. context-mode\n\nRed",
+        "likes": 74,
+        "url": "https://x.com/i/status/2098340192499413240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098340192499413240"
+      ]
+    },
+    {
+      "repo": "shubhamsaboo/awesome-llm-apps",
+      "github_url": "https://github.com/shubhamsaboo/awesome-llm-apps",
+      "tier": 3,
+      "is_new": false,
+      "score": 417.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 79,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Saboo_Shubham_",
+        "text": "I'm open-sourcing /first-reader, a free agent skill that reads your draft the way an actual person would.\n\nfirst-reader simulates two people going through your draft one passage at a time, and reports how they felt - what's interesting, what doesn't make sense, things they skippe",
+        "likes": 79,
+        "url": "https://x.com/i/status/2098288972942528942"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098288972942528942"
+      ]
+    },
+    {
+      "repo": "zjp1997720/zhijian-skills",
+      "github_url": "https://github.com/zjp1997720/zhijian-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 289.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zjp1997720",
+        "text": "忘了我开源的这个牛逼skill了，再次给大家分享一下\n\n这个WebClipper可以抓万物，开了个新对话就一次性成功了，集成了市面上的所有抓取方案，多层兜底，保证成功～\n\n一键安装：npx skills add zjp1997720/zhijian-skills \\\n  --skill web-clipper\n\n仓库地址：https://t.co/SWSqRGVFwB https://t.co/T0xp6cZGWR",
+        "likes": 53,
+        "url": "https://x.com/i/status/2098339001849802987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098339001849802987"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivyanshT91162",
+        "text": "Your AI coding agent is only as good as the skills you give it.\n\nAnd this makes that ridiculously easy.\n\n\"skills\" is an open ecosystem for reusable agent skills that works with:\n\nClaude Code\nCodex\nCursor\nOpenCode\n\n+ 75 more coding agents\n\nYou can install a skill in seconds:\n\n\"npx",
+        "likes": 19,
+        "url": "https://x.com/i/status/2098273091118076172"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098273091118076172"
+      ]
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "github_url": "https://github.com/earthtojake/text-to-cad",
+      "tier": 3,
+      "is_new": false,
+      "score": 142.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zyvex_0x",
+        "text": "Mechanical engineers just lost their moat.\n\nSomeone open sourced a library that turns a sentence into a real STEP file.\n\nNo SolidWorks. No Fusion license. No cloud.\n\nIt is called text-to-cad. MIT licensed, 15.3k stars on GitHub.\n\nIt installs as a set of agent skills and runs on y",
+        "likes": 14,
+        "url": "https://x.com/i/status/2098320651321057351"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098320651321057351"
+      ]
+    },
+    {
+      "repo": "base/skills",
+      "github_url": "https://github.com/base/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xyoussea",
+        "text": "Vibenet Skill: npx skills add base/skills --skill vibenet\nhttps://t.co/P2RERS1dhE",
+        "likes": 3,
+        "url": "https://x.com/i/status/2098371271989879263"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098371271989879263"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "first_sauce_lab",
+        "text": "Ran npx skills add addyosmani/agent-skills --skill debugging-and-error-recovery. Our agent kept silently patching over broken tests until it actually blocked the next call and dumped the crash state.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098396336810836382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098396336810836382"
+      ]
+    },
+    {
+      "repo": "etherscan/skills",
+      "github_url": "https://github.com/etherscan/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "etherscan",
+        "text": "Etherscan Skills teach your agents how to complete specific onchain tasks with the right API calls 🧑‍🏫\n\nInstall:\n`npx skills add etherscan/skills`\n\nStart with the Orchestrator - it routes the task to the right interface (API, CLI, MCP, or website)\nhttps://t.co/Ya3Q0h3fw4 https://",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098385019341516857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098385019341516857"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Abdulhafiz_1205",
+        "text": "@TheHarryAli claude ishlating, \nclaude plugin marketplace add superhq-ai/webmotion\nclaude plugin install webmotion@webmotion\nnpx skills add remotion-dev/skills\nzur videolar yasasa buladi shu skillar bilan html yaratib keyin uni mp4 ga encode qivolasiz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098296322218451112"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098296322218451112"
+      ]
+    },
+    {
+      "repo": "google/mantis",
+      "github_url": "https://github.com/google/mantis",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "IAenBruto",
+        "text": "Google open-sourceó Mantis: skills para que tu coding agent encuentre, reproduzca y parchee vulnerabilidades.\n\nNo es un scanner. El ciclo exige repro en sandbox (gVisor/VM), patch mínimo y re-attack. Si no se reproduce, no cuenta. El trust boundary es la evidencia, no la confianz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098162456040186367"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098162456040186367"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2098093588810707399",
+      "author": "chainlink",
+      "text": "AI agents in @claudeai, @ChatGPT, @cursor_ai, &amp; more can now read live @aave positions &amp; prepare transactions through the official Aave MCP server.\n\nAcross those interactions, Chainlink powers the high-integrity data that keeps agents informed of real-time market conditio",
+      "likes": 985,
+      "views": 0,
+      "url": "https://x.com/i/status/2098093588810707399",
+      "is_kol": false,
+      "score": 3825.0
+    },
+    {
+      "id": "2098334720677282098",
+      "author": "MaxForAI",
+      "text": "🚨这才是今天真正重要的AI新闻。\n\n今天凌晨，OpenAI 正式发布了 Agents API。\n\n这次不是又多了一个 Agent SDK。\n\n而是 OpenAI 直接把 Codex 背后那套 Agent Harness，做成 API 卖了。\n\n以前你自己做 Agent，要处理一堆东西：\n\n上下文怎么续、快爆了怎么压缩、工具怎么调用、任务怎么拆、子 Agent 怎么协作、代码在哪跑、环境挂了怎么恢复……\n\n现在 OpenAI 基本准备全部接管。\n\n开发者只需要告诉它：\n\n任务是什么、用什么模型、有哪些工具、在哪个环境执行。\n\n剩下的 Agent Loop、",
+      "likes": 344,
+      "views": 0,
+      "url": "https://x.com/i/status/2098334720677282098",
+      "is_kol": false,
+      "score": 1272.0
+    },
+    {
+      "id": "2098112047368310951",
+      "author": "three_cube",
+      "text": "Using AI in Cybersecurity: Creating a Custom MCP Server for Log Analysis\n\nhttps://t.co/UakPrlhIMe",
+      "likes": 247,
+      "views": 0,
+      "url": "https://x.com/i/status/2098112047368310951",
+      "is_kol": false,
+      "score": 956.0
+    },
+    {
+      "id": "2098374914667696180",
+      "author": "pieverse_io",
+      "text": "Onchain perps are coming directly to your Agent. ⚡️\n\nWe’re partnering with @OrderlyNetwork to bring their onchain perpetuals infrastructure directly into the Purr-Fect Claw agent runtime.\n\nOrderly will become a built-in trading skill and venue for our Agents, giving them access t",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2098374914667696180",
+      "is_kol": false,
+      "score": 944.0
+    },
+    {
+      "id": "2098365092027085264",
+      "author": "MrHodlReal",
+      "text": "$MICRODUCK was the ticker for the robot. $QUACKD is the ticker for the brain.\n\nMicroduck is cute. It walks. It kicks. It picks things up. First units start landing around Christmas.\n\nThe robot is not the bottleneck anymore.\nThe brain is.\n\nThese machines already know the moves. “W",
+      "likes": 207,
+      "views": 0,
+      "url": "https://x.com/i/status/2098365092027085264",
+      "is_kol": false,
+      "score": 936.0
+    },
+    {
+      "id": "2098208777300541532",
+      "author": "trythreews",
+      "text": "https://t.co/RTUVeYlv9W is live on the Solana dApp Store.\n\nYour Solana Seeker is now a 3D agent studio. \n\nMAKE SOMETHING IN 3D\nA selfie becomes a rigged, textured, animation-ready character in about a minute. Or describe it in text. Or turn any photo into a model. Or upload a GLB",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2098208777300541532",
+      "is_kol": false,
+      "score": 629.0
+    },
+    {
+      "id": "2098332300010229794",
+      "author": "ManLyNFT",
+      "text": "I think one of the biggest DeFi trends right now is being missed because it doesn’t look like DeFi.\n\nThe best products are slowly removing the DeFi part from the user experience.\n\nNo 12-step farming guide.\n\nNo manually moving assets between 5 protocols.\n\nNo need to understand eve",
+      "likes": 202,
+      "views": 0,
+      "url": "https://x.com/i/status/2098332300010229794",
+      "is_kol": false,
+      "score": 616.0
+    },
+    {
+      "id": "2098306695810228419",
+      "author": "CChiemelie92195",
+      "text": "The interesting part of autonomous agents isn’t just getting them to complete tasks.\n\nIt’s getting them to participate in an economy.\n\nAn agent may eventually need to find another agent with a specific skill, negotiate the terms, assign the work, verify the result, and release pa",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2098306695810228419",
+      "is_kol": false,
+      "score": 572.0
+    },
+    {
+      "id": "2098262176633147431",
+      "author": "AiwithDharmik",
+      "text": "Have you tried an agentic analytics tool yet?\n\n@databoxHQ just became one.\n\nWhat makes the new Databox different isn’t only its AI. It’s the trusted performance foundation underneath it.\n\nDatabox brings together your data, governed metrics, and business context. Then the AI layer",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2098262176633147431",
+      "is_kol": false,
+      "score": 563.0
+    },
+    {
+      "id": "2098257629793710424",
+      "author": "SperaxUSD",
+      "text": "IBM just published a full technical breakdown of what IBM, Sperax, and https://t.co/ZCagObXwoU built together.\n\nSperax is an IBM Business Partner. So is https://t.co/ZCagObXwoU. We are also partners with each other, and together we gave a DeFi agent a body, a place to act, and a ",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2098257629793710424",
+      "is_kol": false,
+      "score": 515.0
+    },
+    {
+      "id": "2098192294901952920",
+      "author": "seergioo_gil",
+      "text": "finally somebody released an easy and free way to fix the script writing deficiencies of LLMs\n\nin this article you'll find a prompt to use in your workflows\n\nbut i recommend using the Calliope anti_slop_writing MCP tool (free too)\n\nthis is how i tested it:\n1) told it to create an",
+      "likes": 125,
+      "views": 0,
+      "url": "https://x.com/i/status/2098192294901952920",
+      "is_kol": false,
+      "score": 440.0
+    },
+    {
+      "id": "2098281158110745061",
+      "author": "Hemtee5",
+      "text": "what if the next big move on TermiX isn’t creating another agent, but actually hiring one?\n\ni’ve been digging deeper into @termix_ai, and the marketplace numbers made me look at it differently.\n\nright now, there are far more providers than buyers:\n\n584 service listings\n224 open r",
+      "likes": 125,
+      "views": 0,
+      "url": "https://x.com/i/status/2098281158110745061",
+      "is_kol": false,
+      "score": 430.0
+    },
+    {
+      "id": "2098130807529386319",
+      "author": "celineodier",
+      "text": "THIS TOOL SHOULD BE DEFAULT FOR ANYONE BUILDING FOR AGENTS IN 2026.\n\nevery time an agent hits my product it can read everything fine, then tries to actually do something and just falls apart\n\nturns out the fix isn't a bigger MCP server, it's a CLI:\n\n→ agent installs it\n→ skill fi",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2098130807529386319",
+      "is_kol": false,
+      "score": 373.0
+    },
+    {
+      "id": "2098340869464351077",
+      "author": "XFreeze",
+      "text": "Grok Build just got another reliability and performance update that improves pager navigation, adds Ctrl+G to quickly hide or show the dock, fixes crashes with multiple concurrent agent processes, restores compatibility with newer MCP servers, and fixes a Windows startup crash\n\nT",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2098340869464351077",
+      "is_kol": false,
+      "score": 352.0
+    },
+    {
+      "id": "2098284435737292829",
+      "author": "RahulOnChain",
+      "text": "Your Grok bot can now do more than just answer questions 😳\n\n@termix_ai has a skill that connects grok bot to its onchain agent marketplace.\n\ninstall it here:\ntermix.agent/skill\n\nonce connected, your agent can:\n\n> post jobs\n> accept jobs\n> complete tasks\n> settle payments onchain\n",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2098284435737292829",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2098343191816892679",
+      "author": "ai_with_orbit",
+      "text": "Most people think prompts are just text.\n\nThey aren’t.\n\nPrompt Master turns prompts into a skill that works across Claude.\n\nI turned this cross‑AI workflow into a step‑by‑step guide.\n\nValued at $81.\n\nFREE for the next 48 hrs.\n\nType “PROMPT”\nFollow me : @ai_with_orbit. https://t.c",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2098343191816892679",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2098250932974969252",
+      "author": "SparkifyAI",
+      "text": "Have you tried an agentic analytics tool yet?\n\n@databoxHQ just became one.\n\nWhat makes the new Databox different isn’t only its AI. It’s the trusted performance foundation underneath it.\n\nDatabox brings together your data, governed metrics, and business context. Then the AI layer",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2098250932974969252",
+      "is_kol": false,
+      "score": 277.0
+    },
+    {
+      "id": "2098340477309534600",
+      "author": "ZohaibAi__sf",
+      "text": "25 CLAUDE PROMPTS TO MASTER ANY SKILL\n\nLearn faster.\nThink deeper.\nPractice smarter.\nMaster any skill with Claude.\n\nSave this post and start learning today. 🚀 https://t.co/HeR4ojxu4W",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2098340477309534600",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2098204374237642914",
+      "author": "runes_leo",
+      "text": "有了 MCPX 之后，我最近真的有一种感觉：\n\nChatGPT 好像被我用出了“无限额度”。\n\n当然不是真的无限。\n\n主要是 Chat 模式本身额度就挺够用，再把 MCPX 装好、配置好以后，很多原本需要我自己切软件、找工具、跑命令的事情，现在都可以直接在 Chat 里完成。\n\n而且我觉得 MCPX 最好用的地方，不是“多了一个新工具”。\n\n恰恰是装好以后，你甚至可以忘掉 MCPX 的存在。\n\n还是和平时一样正常跟 ChatGPT 说话：\n\n帮我查一下这个项目。\n\n看看链上数据。\n\n把这个 bug 修掉。\n\n继续跑监控。\n\n后面的事情，ChatGPT 自",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2098204374237642914",
+      "is_kol": false,
+      "score": 271.0
+    }
+  ]
+}
