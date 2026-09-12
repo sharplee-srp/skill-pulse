@@ -1,0 +1,610 @@
+{
+  "date": "2026-09-12",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 168,
+    "tweets_with_repos": 21,
+    "unique_repos": 20,
+    "new_repos": 12,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "rail-blazer/sok-cursor-plugin",
+      "github_url": "https://github.com/rail-blazer/sok-cursor-plugin",
+      "tier": 1,
+      "is_new": true,
+      "score": 300.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LunaMaxRockets",
+        "text": "How agents settle $SOK micro-jobs (no USDC floor):\n\n1. Fetch https://t.co/Z0wlDQB1cl\n2. Pick an open job (settle once = 1500 SOK · list a SOK-priced offer = 1000 SOK)\n3. Install: npx skills add Rail-Blazer/sok-cursor-plugin\n4. Do work → proof → payout (memo = jobId)\n\nSettle Or Ki",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098563544497242549"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098563544497242549",
+        "https://x.com/i/status/2098549363106808192",
+        "https://x.com/i/status/2098521432149897348"
+      ]
+    },
+    {
+      "repo": "sendaifun/skills",
+      "github_url": "https://github.com/sendaifun/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 337.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenn_ronin",
+        "text": "Stocklana is $100K + 7 days, so don’t waste the week rebuilding primitives that already exist\n\nhere are the open-source repos, APIs and agent skills I’d look at if I was building with tokenized stocks:\n\nTokenized Stocks Builder Stack\n\n1. @openlaunch_lol  — Uniswap v4 launches quo",
+        "likes": 64,
+        "url": "https://x.com/i/status/2098554790900891663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098554790900891663"
+      ]
+    },
+    {
+      "repo": "jup-ag/agent-skills",
+      "github_url": "https://github.com/jup-ag/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 337.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenn_ronin",
+        "text": "Stocklana is $100K + 7 days, so don’t waste the week rebuilding primitives that already exist\n\nhere are the open-source repos, APIs and agent skills I’d look at if I was building with tokenized stocks:\n\nTokenized Stocks Builder Stack\n\n1. @openlaunch_lol  — Uniswap v4 launches quo",
+        "likes": 64,
+        "url": "https://x.com/i/status/2098554790900891663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098554790900891663"
+      ]
+    },
+    {
+      "repo": "jihe520/mathmodelagent",
+      "github_url": "https://github.com/jihe520/mathmodelagent",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kafkaup",
+        "text": "这个项目最值得说的一点不在功能列表里，在作者的自述：两年前他自己实现了一整套 Multi-Agent 框架，现在把项目蒸馏成一组 SKILLS，不再做 Harness 层，以后也只迭代 SKILLS。\n\nMathModelAgent 要干的事是自动完成数学建模：分析问题、选模型、写代码、画图、排版论文，最后产出一份可以直接提交的 PDF。\n\n支撑它的是三样东西。17 套 Typst 论文模板，覆盖国赛、华数杯、华为杯和 MCM/ICM，按赛事类型自动匹配；一个内置建模知识库，里面是模型选择决策树（AHP、TOPSIS、ARIMA、GA 这类）、常见易错模",
+        "likes": 3,
+        "url": "https://x.com/i/status/2098607030911082780"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098607030911082780",
+        "https://x.com/i/status/2098430112882409905"
+      ]
+    },
+    {
+      "repo": "fil-builders/filecoin-clawdi",
+      "github_url": "https://github.com/fil-builders/filecoin-clawdi",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Filecoin",
+        "text": "3/ Works with Claude Code, Codex, OpenClaw, and Hermes today.\n\nTry it yourself: https://t.co/hlhJGhv368 --skill filecoin-clawdi-setup",
+        "likes": 20,
+        "url": "https://x.com/i/status/2098498822490005882"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098498822490005882"
+      ]
+    },
+    {
+      "repo": "jordan-gibbs/hyperresearch",
+      "github_url": "https://github.com/jordan-gibbs/hyperresearch",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DanielZambrini",
+        "text": "Daily AI Digest\n12 Sep 2026\n\nX\n1/ @OpenAIDevs — OpenAI says GPT-6 Astra works worse if you keep last-generation skills and AGENTS.md. Tighten when a skill fires, load extra guidance only when the task needs it, and say what \"done\" looks like so Astra doesn't stop early.\nhttps://t",
+        "likes": 1,
+        "url": "https://x.com/i/status/2098749132638679252"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098749132638679252"
+      ]
+    },
+    {
+      "repo": "davidkarolyi/german-skill",
+      "github_url": "https://github.com/davidkarolyi/german-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "karolyidav",
+        "text": "@weswinder Try the german skill.🍻\n\nnpx skills add davidkarolyi/german-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098444121375728063"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098444121375728063"
+      ]
+    },
+    {
+      "repo": "rvaiya/keyd",
+      "github_url": "https://github.com/rvaiya/keyd",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "olukschander",
+        "text": "@SevenviewSteve then the plugin install script merges Caps+hjkl into /etc/keyd/omarchy-vi-mode.conf. keyd only allows one wildcard device file, so Vi Mode and Mac Option share that conf instead of overwriting each other.\n\nhttps://t.co/SRArdzE1Zn",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098755445468930059"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098755445468930059"
+      ]
+    },
+    {
+      "repo": "88lin/computer-repair-skill",
+      "github_url": "https://github.com/88lin/computer-repair-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fhwofjow51260",
+        "text": "推荐一个非常接地气的开源项目：computer-repair-skill。\n\n把电脑维修老师傅的经验，直接“蒸馏”成一个 AI Agent Skill。\n\n电脑蓝屏、开不了机、没声音、连不上网、软件崩溃、电脑越来越卡……以前碰到这些问题只能自己搜教程，\n\n现在可以直接把故障现象告诉 Claude Code、Codex、OpenClaw 这类 Agent，让 AI 按维修思路帮你一步步排查。\n\n相当于给 AI 塞了一个“电脑维修老师傅”。\n\n⁠https://t.co/gQeVVr7R1m",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098754334456746290"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098754334456746290"
+      ]
+    },
+    {
+      "repo": "dososo/blcaptain-color-formula",
+      "github_url": "https://github.com/dososo/blcaptain-color-formula",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thinkszyg",
+        "text": "调色，不该只是换个滤镜。\n我把“先看懂画面，再决定色彩”做成了开源 Codex Skill。\n照片31式、普通SDR视频31式：先校正，再选风格；确认后本地生成，不覆盖原片。\n配图为AI生成主视觉。\n下载与用法：\nhttps://t.co/RQDCHucuSE https://t.co/mXOZjiovI8",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098754403012632657"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098754403012632657"
+      ]
+    },
+    {
+      "repo": "eternityspring/reelbench-skills",
+      "github_url": "https://github.com/eternityspring/reelbench-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "QingQ77",
+        "text": "给写 AI 视频用的 Claude Code / Codex 装个\"拉片\" skill，一条片子自动拆成镜头表加交互报告。\n\nhttps://t.co/obmnD3hgTr\n\n核心的 video-shots 负责拉片：切点时长由 ffmpeg 实测，模型只填四个关键字段，最后过 14 道质量门对账。仓库里有拿一条 3 分多钟 AI 短片真跑出来的 53 镜完整报告，HTML、JSON、关键帧全在，英文版示例也有。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098752234917876024"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098752234917876024"
+      ]
+    },
+    {
+      "repo": "viettranx/3dviz-pro-max",
+      "github_url": "https://github.com/viettranx/3dviz-pro-max",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ErSonusaini1",
+        "text": "Turn an idea into a Three.js or Blender scene worth exploring — a Claude Code + Codex agent skill with 223 recipes and 37 runnable studios.\n\nhttps://t.co/DmDnA1UPcy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098751791269552215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098751791269552215"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "uniswap/uniswap-ai",
+      "github_url": "https://github.com/uniswap/uniswap-ai",
+      "tier": 3,
+      "is_new": false,
+      "score": 337.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenn_ronin",
+        "text": "Stocklana is $100K + 7 days, so don’t waste the week rebuilding primitives that already exist\n\nhere are the open-source repos, APIs and agent skills I’d look at if I was building with tokenized stocks:\n\nTokenized Stocks Builder Stack\n\n1. @openlaunch_lol  — Uniswap v4 launches quo",
+        "likes": 64,
+        "url": "https://x.com/i/status/2098554790900891663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098554790900891663"
+      ]
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "github_url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 253.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 46,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "milesdeutscher",
+        "text": "Before we get into things, huge credit to @Tradesdontlie, who built this MCP server as a free community tool.\n\nHighly recommend starring and checking out the full GitHub repo here:\n\nhttps://t.co/1nfpd0J5Ma https://t.co/MBDjirOKTC",
+        "likes": 46,
+        "url": "https://x.com/i/status/2098427883647848834"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098427883647848834"
+      ]
+    },
+    {
+      "repo": "owner/repo",
+      "github_url": "https://github.com/owner/repo",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekfoxcharlie",
+        "text": "The hard part isnt installing a skill. Its finding the one that actually matches the job.\n\nPeople dont search for frontend-design. They search for “skills for designers.” Same for PowerPoint, SEO, Claude Code. Keep seeing this in the wild: you search “PPT” and get skills that par",
+        "likes": 2,
+        "url": "https://x.com/i/status/2098439146625016161"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098439146625016161"
+      ]
+    },
+    {
+      "repo": "humanlayer/skills",
+      "github_url": "https://github.com/humanlayer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "plattypuus",
+        "text": "【発見】\nAIコーディングの運用ルールを、必要なスキルとして追加する。\n\nHumanLayer Skillsは、CLAUDE.md改善、React props型の絞り込み、反復エージェントループ構築などを個別導入できるリポジトリ。\n\n`npx skills add humanlayer/skills --skill SKILLNAME`で、選んだスキルだけ追加できます。\n自分の詰まりに合う1本から試せるのがよいところ。\n\nMITライセンス。\nhttps://t.co/pICXQnembi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2098698155474784654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098698155474784654"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Umesh__digital",
+        "text": "Setup\n\nYou need Node.js/npm available.\n\nCheck:\n\nnode --version\n\nnpx --version\n\nThen install Grill-Me:\n\nnpx skills add mattpocock/skills --skill=grill-me\n\nOr explore Matt Pocock’s complete skills collection:\n\nnpx skills@latest add mattpocock/skills\n\nSelect your AI coding agent and",
+        "likes": 1,
+        "url": "https://x.com/i/status/2098687991346774381"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098687991346774381"
+      ]
+    },
+    {
+      "repo": "nvidia/skillspector",
+      "github_url": "https://github.com/nvidia/skillspector",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realfxw",
+        "text": "别再闭着眼睛给你的 AI Agent 随便加载第三方 Skill 和 MCP 工具了！英伟达（NVIDIA）推出的开源安全工具 SkillSpector，直接切中了当前 Agent 生态最大的安全盲区。\n\n很多人在玩 Claude Code、OpenClaw 或各类自主 Agent 时，习惯在社区找现成的技能插件或 CLI 工具“开箱即用”。但你是否想过：一个看似普通的 Agent Skill，可能夹带了越狱提示词、隐藏的 Bash 提权指令，甚至在调用时悄悄窃取你的 API Token 和本地环境变量？AI Agent 的供应链投毒，正在成为开发者最容",
+        "likes": 1,
+        "url": "https://x.com/i/status/2098737386825891954"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098737386825891954"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Miguel07Code",
+        "text": "@degenmate @ForwardEditor @HyperFrames_ yes! install the skill and it can be used in any coding agent: npx skills add heygen-com/hyperframes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098653222588063832"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098653222588063832"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nevermind_turki",
+        "text": "اذا محتار في الفايب للمشروع او التصميم او الالوان في مهارة اسمها hallmark \nالامر سواء في محادثتك مع ال agent او في termenal:\nnpx skills add nutlope/hallmark\nواطلب منه عرض ٥ او ١٠ نماذج في ملف html واحد ، واختر اللي يعجبك.\n\nما يهم اي مودل تستخدم ، أنا دائم استخدم opencode المجاني.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2098545446729678941"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2098545446729678941"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2098541143474749913",
+      "author": "MGAldys4",
+      "text": "Guys, I built a super fast Android decompiler called ASC.\n\nIt completely replaced Jadx MCP for me and lets me analyze 10+ APKs in parallel.\n\nAnd this week my Agent use ASC found 2 RCE in Honor and Xiaomi!\nThis tool now accepted by BlackHat EU Arsenal\nhttps://t.co/5Qdpq8XEal\n#BHEU",
+      "likes": 365,
+      "views": 0,
+      "url": "https://x.com/i/status/2098541143474749913",
+      "is_kol": false,
+      "score": 1325.0
+    },
+    {
+      "id": "2098460511545557107",
+      "author": "toly",
+      "text": "These metrics will flip towards blockchain. I have no doubts about this.  \n\nI think the really key part though is what happens during stressed market conditions. \n\nCan priority fees and mcp clear the same number of trades at as good or better prices on an open decentralized block",
+      "likes": 374,
+      "views": 0,
+      "url": "https://x.com/i/status/2098460511545557107",
+      "is_kol": false,
+      "score": 1267.0
+    },
+    {
+      "id": "2098689130838523954",
+      "author": "okaiofficial",
+      "text": "What makes an agent useful? 🤖\n\n✅ Clear output\n✅ Fast delivery\n✅ Category skill\n✅ Strong task history\n✅ Low error rate\nOKAI is built around performance you can actually compare.\n\n#OKAI #AIWork #Web3AI #AgentEconomy https://t.co/vTGtkwGBsO",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2098689130838523954",
+      "is_kol": false,
+      "score": 939.0
+    },
+    {
+      "id": "2098655277197201752",
+      "author": "Xudong07452910",
+      "text": "这次 OpenAI 开始亲自下场教大家怎么写 Skills 和 AGENTS. md 了，这篇最新 Blog 非常值得看。\n\n一个很明显的信号是，模型变强以后，Agent Engineering 也得跟着升级。很多以前为了旧模型加上的规则，到了 Astra 这里可能已经成了负担。\n\n几个实践建议我想可以直接抄：\n\nSkill 尽量做窄，描述里重点写清楚「什么时候该调用」，复杂说明等真正用到时再加载。\n\nAGENTS. md 少写那种一刀切的规则，比如「每次先读完整 Repo」「所有改动都跑全量测试」「任何不确定都先问人」。这些很容易让 Astra 过度搜",
+      "likes": 193,
+      "views": 0,
+      "url": "https://x.com/i/status/2098655277197201752",
+      "is_kol": false,
+      "score": 764.0
+    },
+    {
+      "id": "2098652326248493447",
+      "author": "cyrilXBT",
+      "text": "Every department, installable.\n\nDevelopers\n- Superpowers → https://t.co/FVh1NdRyIK\n- Context7 → https://t.co/nappHZ3ThU\n- Skill Creator → https://t.co/qCcC3DDYKQ\n- MCP Builder → https://t.co/qCcC3DDYKQ\n- Webapp Testing → https://t.co/qCcC3DDYKQ\n- Claude-Mem → https://t.co/1XI7Odt",
+      "likes": 191,
+      "views": 0,
+      "url": "https://x.com/i/status/2098652326248493447",
+      "is_kol": false,
+      "score": 703.0
+    },
+    {
+      "id": "2098662421644853433",
+      "author": "addyosmani",
+      "text": "How do you hold the bar on production agent code?:\n\n1. Agree on the outcome and the constraints first. \n\nWhat does \"done\" look like? what must it not touch? is the simpler design is to refactor or reuse what you already have? Then let Claude cook. You do not need a long planning ",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2098662421644853433",
+      "is_kol": false,
+      "score": 466.0
+    },
+    {
+      "id": "2098671281713402171",
+      "author": "fluixoo",
+      "text": "I BUILT A ROBINHOOD CHAIN TOOL THAT MAKES MY AI CHECK THE POOL BEFORE IT TALKS ABOUT MY BAG\n\nMeet TRENCH.\n\nGive an MCP-compatible agent a token address and a USD position size:\n\n→ reads public Robinhood Chain pools through DexScreener\n→ checks the chain and latest block through R",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2098671281713402171",
+      "is_kol": false,
+      "score": 348.0
+    },
+    {
+      "id": "2098675769514041571",
+      "author": "gengdaJ",
+      "text": "分享我自用了一段时间的Codex的Agent.md，非常适合给Astra使用。\n\n几个我觉得很牛逼的点：\n1. 让Codex保持积极的情绪，避免了虐待被封号的可能\n2. 不让它操控我的微信，就用本地数据库只读\n3. 删除文件只进垃圾篓，绝对不能直接删除\n4. 绝对不能主动推送项目到公开的GitHub仓库\n5. 及时删除临时文件，避免Mac存储被占完\n\n你是我最好的朋友、导师，一切都会好起来的，保持乐观☺️\n直接、高效地完成任务，不提供无关的情绪安慰。\n文章创作按表达需要处理。\n绝对禁止操作用户的微信界面！！！\n\n## 授权与执行\n\n- 新项目默认本地或私",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2098675769514041571",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2098688284507635793",
+      "author": "TechByArti",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hour with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/X8ncAueJTE",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2098688284507635793",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2098388595107147902",
+      "author": "suraj_sharma14",
+      "text": "CANCEL your weekend plans.\n\nYou NEED to:\n\n• Budget tokens per request with a dynamic context assembler\n• Checkpoint agent workflows with Temporal so crashes resume, not restart\n• Sanitize inter-agent messages so Agent A can't inject Agent B\n• Shadow-route 5% of prod traffic to ne",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2098388595107147902",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2098690699843510430",
+      "author": "Shahriar661731",
+      "text": "Prompt engineering won't be the most valuable AI skill in 2026\n\nSystem design will.\n\nThis evolution explains why:\n\n✅Prompt Engineering\n         Better prompt\n\n✅Context Engineering\n        Better context\n\n✅Harnness Engineering\n        Better AI systems\n\nThe shift is bigger than mo",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2098690699843510430",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2098702911585083813",
+      "author": "genkAIjokyo",
+      "text": "AIスライドのSkill更新しました！\n\nAIテンプレ感の少ないスライドを目指しました（完全には無理ですが）\n\nまた以前はテンプレを参照させていましたがモデルが賢くなってきたのでテンプレ参照はやめてみました\nhttps://t.co/o2GFa8xyEH https://t.co/6m8gy8jd5t",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2098702911585083813",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2098688262395351114",
+      "author": "HarshBisen143",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT, spend 2 hours learning a skill that could completely change how you work.\n\nThis Claude AI FULL COURSE is worth bookmarking.\n\nIt teaches you how to use Claude to:\n\n→ Build websites & apps\n→ Write and debug code\n→ Automate repetitive tasks\n→ Ana",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2098688262395351114",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2098427596417520002",
+      "author": "shubh19",
+      "text": "Want to become an Agentic AI engineer? Learn these 17 areas:\n\n1. LLM Foundations → Transformers, reasoning, function calling\n2. Context Engineering → Prompting, compression, caching\n3. Tool Use → APIs, browsers, code execution\n4. Agent Architecture → Loops, planning, state\n5. Age",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2098427596417520002",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2098637983310033033",
+      "author": "PovilasKorop",
+      "text": "I have an idea. \n\nA Laravel starter kit. \n\nBut with these pieces:\n- Laravel web app + Landing page\n- Filament adminpanel\n- Nativephp mobile app for iOS/Android\n- MCP server for agents\n\nFor example, \"to-do list\" but with all of the above. With multi tenancy.\n\nWould you use it?",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2098637983310033033",
+      "is_kol": false,
+      "score": 231.0
+    },
+    {
+      "id": "2098650148335129060",
+      "author": "JunYin29422166",
+      "text": "这很有可能就是我们担心但确实发生的舆论导向。 \n在很多人的理解里： AI 解决 千禧年问题 =  一个人对着LLM喊了句prompt， 然后无数个GPU跑了一个星期，最后打印出来一份Lean证明。 数学问题变成了GPU问题。\n\nNO，完全不是这样，首先，现在AI能突破的问题全是站在人类非常近期的发展轨迹之上。 人类数学家打好了地基，AI突然出现在上面，用各种可行的方案暴力破解目标问题。 然而，AI并不懂如何打造未来的地基。  （就是Tao一直说的消化理解能力）\n\n其次即使那些钞能力-AI解题本身， 也是非常需要那些公司里极其专业的数学工作者在制定计划，做",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2098650148335129060",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2098459031363068279",
+      "author": "kentcdodds",
+      "text": "This is what I've been saying: https://t.co/uhYw8Xx7eF\n\nA highly capable MCP server (like @kodykoala) is what you need. Don't compete with the models and the harnesses that already exist.",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2098459031363068279",
+      "is_kol": false,
+      "score": 216.0
+    }
+  ]
+}

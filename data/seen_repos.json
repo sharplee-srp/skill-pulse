@@ -6930,5 +6930,53 @@
   "thu-maic/openmaic": {
     "first_seen": "2026-09-11",
     "tier": 3
+  },
+  "rail-blazer/sok-cursor-plugin": {
+    "first_seen": "2026-09-12",
+    "tier": 1
+  },
+  "sendaifun/skills": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "jup-ag/agent-skills": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "jihe520/mathmodelagent": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "fil-builders/filecoin-clawdi": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "jordan-gibbs/hyperresearch": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "davidkarolyi/german-skill": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "rvaiya/keyd": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "88lin/computer-repair-skill": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "dososo/blcaptain-color-formula": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "eternityspring/reelbench-skills": {
+    "first_seen": "2026-09-12",
+    "tier": 3
+  },
+  "viettranx/3dviz-pro-max": {
+    "first_seen": "2026-09-12",
+    "tier": 3
   }
 }
