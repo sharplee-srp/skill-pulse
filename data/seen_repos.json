@@ -6978,5 +6978,65 @@
   "viettranx/3dviz-pro-max": {
     "first_seen": "2026-09-12",
     "tier": 3
+  },
+  "alibaba/open-code-review": {
+    "first_seen": "2026-09-13",
+    "tier": 0
+  },
+  "wenyuchiou/awesome-agentic-ai-zh": {
+    "first_seen": "2026-09-13",
+    "tier": 2
+  },
+  "github/spec-kit": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "locus-technologies/locus-pro-plugin": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "termix-official/termix-agent-skills": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "lzwme/finance-quant-skills": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "enigma-137/ship-ready": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "nwylzw/openvid": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "cathrynlavery/diagram-design": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "ciembor/agent-rules-books": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "cmgriffing/isittaken": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "nanocoai/nanoclaw": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "theclaymethod/unslop": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "kharmanskyi/open-steps": {
+    "first_seen": "2026-09-13",
+    "tier": 3
+  },
+  "everettfish/holo-card-studio": {
+    "first_seen": "2026-09-13",
+    "tier": 3
   }
 }
