@@ -7038,5 +7038,41 @@
   "everettfish/holo-card-studio": {
     "first_seen": "2026-09-13",
     "tier": 3
+  },
+  "dmoshehun-prog/learn-from-materials": {
+    "first_seen": "2026-09-14",
+    "tier": 0
+  },
+  "modelcontextprotocol/ext-skills": {
+    "first_seen": "2026-09-14",
+    "tier": 2
+  },
+  "elldeeone/kaspa-x402": {
+    "first_seen": "2026-09-14",
+    "tier": 2
+  },
+  "redhat-et/ripwire": {
+    "first_seen": "2026-09-14",
+    "tier": 3
+  },
+  "tableau/tableau-plugin": {
+    "first_seen": "2026-09-14",
+    "tier": 3
+  },
+  "ayghri/i-have-adhd": {
+    "first_seen": "2026-09-14",
+    "tier": 3
+  },
+  "21st-dev/skill": {
+    "first_seen": "2026-09-14",
+    "tier": 3
+  },
+  "ykuwai/voice-shell": {
+    "first_seen": "2026-09-14",
+    "tier": 3
+  },
+  "mahimailabs/voice-ai-skills": {
+    "first_seen": "2026-09-14",
+    "tier": 3
   }
 }

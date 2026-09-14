@@ -1,0 +1,590 @@
+{
+  "date": "2026-09-14",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 175,
+    "tweets_with_repos": 23,
+    "unique_repos": 23,
+    "new_repos": 9,
+    "previously_seen_repos": 14
+  },
+  "new_repos": [
+    {
+      "repo": "dmoshehun-prog/learn-from-materials",
+      "github_url": "https://github.com/dmoshehun-prog/learn-from-materials",
+      "tier": 0,
+      "is_new": true,
+      "score": 716.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 27,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "下了一本 300 页的 PDF 想系统读一遍，让 AI 总结出来的东西又不敢全信，哪句是书里写的、哪句是它自己补的分不清。\n\nlearn-from-materials 是一个学习用的 Agent Skill，把 PDF、EPUB、Word、PPT、网页这些材料变成一个能交互的学习网页，Claude Code、Codex、Copilot 命令行都能装。\n\n它先完整读完材料建一个知识库，页面里每条内容都标出处，PDF 精确到页码，PPT 精确到第几张，EPUB 精确到章节。\n\nGitHub：https://t.co/tAZ5PrKNhV\n\n生成的页面有核心框",
+        "likes": 27,
+        "url": "https://x.com/i/status/2099490871851045224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099490871851045224"
+      ]
+    },
+    {
+      "repo": "modelcontextprotocol/ext-skills",
+      "github_url": "https://github.com/modelcontextprotocol/ext-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 3320.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 870,
+      "total_retweets": 102,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dani_avila7",
+        "text": "Ok, this is big!\n\nMCP now defines an extension specifically for discovering and loading Agent Skills from MCP servers\n\n(Save this, It’s worth reading how it works)\n\nThe flow is pretty simple:\n\n- MCP Server\n- Discover available Skills \n- Get Skill metadata \n- Load the SKILL.md onl",
+        "likes": 829,
+        "url": "https://x.com/i/status/2099325795822956575"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099393208115724495",
+        "https://x.com/i/status/2099325795822956575"
+      ]
+    },
+    {
+      "repo": "elldeeone/kaspa-x402",
+      "github_url": "https://github.com/elldeeone/kaspa-x402",
+      "tier": 2,
+      "is_new": true,
+      "score": 1931.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 392,
+      "total_retweets": 131,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elldeeone",
+        "text": "i’ve spent the last few months bringing native Kaspa payments to x402.\n\ntldr: x402 is an open, chain agnostic payment protocol built around the long existing HTTP 402 code. kaspa-x402 intends to bring native KAS into that shared standard.\n\ni keep seeing people use “x402” to mean ",
+        "likes": 392,
+        "url": "https://x.com/i/status/2099316438704312512"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099316438704312512"
+      ]
+    },
+    {
+      "repo": "redhat-et/ripwire",
+      "github_url": "https://github.com/redhat-et/ripwire",
+      "tier": 3,
+      "is_new": true,
+      "score": 249.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "redhat-et/ripwire: The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality de... https://t.co/FIw08ZndKG",
+        "likes": 43,
+        "url": "https://x.com/i/status/2099206742647222583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099206742647222583"
+      ]
+    },
+    {
+      "repo": "tableau/tableau-plugin",
+      "github_url": "https://github.com/tableau/tableau-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rsugimura17",
+        "text": "Tableauの新しいオープンソースPlugin for Codexが、Codex／ChatGPTのMarketplaceとGitHubで公開されました。\n\n注目は、AgentがTableauのデータを参照・探索できるだけでなく、ワークブックの作成から検証、公開まで担えるようになったことです。\n\nPluginには、既存のTableau MCP Serverとの連携に加え、ワークブックの「ダウンロード・検証・パブリッシュ」を行う3つの新しいToolが追加されました。MCPによるwrite操作が可能になり、Agentが分析結果をTableauの成果物として公",
+        "likes": 31,
+        "url": "https://x.com/i/status/2099442193366979039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099442193366979039"
+      ]
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "github_url": "https://github.com/ayghri/i-have-adhd",
+      "tier": 3,
+      "is_new": true,
+      "score": 192.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trending_repos",
+        "text": "Trending repository of the week 🏅\n\ni-have-adhd\n\nA skill to stop your coding agent from burying the answer. ADHD-friendly output.\n\nLast week: 16,740 ⭐\nTotal: 44,965 ⭐️\nhttps://t.co/7vgycOaB0j",
+        "likes": 29,
+        "url": "https://x.com/i/status/2099469831879737663"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099469831879737663"
+      ]
+    },
+    {
+      "repo": "21st-dev/skill",
+      "github_url": "https://github.com/21st-dev/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "21st_dev",
+        "text": "1. go to 21st dev (link below)\n2. search \"vintage keyboard\"\n3. hit copy prompt on the one by @ayushmxxn (shoutout!)\n4.then paste this into your agent (works for any: fable, sol, astra, cursor, etc!):\n\n\"add this 3d vintage keyboard to my site. [PASTE THE PROMPT]\"\n\nthis process wor",
+        "likes": 1,
+        "url": "https://x.com/i/status/2099318687954268541"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099318687954268541"
+      ]
+    },
+    {
+      "repo": "ykuwai/voice-shell",
+      "github_url": "https://github.com/ykuwai/voice-shell",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kvydm",
+        "text": "Voice Shell は、ターミナルでコピペするだけで、簡単に使えます！\n\nnpx skills add ykuwai/voice-shell -g -a claude-code -y\n\nあとはClaude Codeに \n/voice-shell\nと入力するだけです！\n\nhttps://t.co/NdMhlTnUH8",
+        "likes": 0,
+        "url": "https://x.com/i/status/2099510228928889185"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099510228928889185"
+      ]
+    },
+    {
+      "repo": "mahimailabs/voice-ai-skills",
+      "github_url": "https://github.com/mahimailabs/voice-ai-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "voicexprt",
+        "text": "Install the complete collection:\n\nnpx skills add mahimailabs/voice-ai-skills --skill '*'\n\nOr begin with a production review:\n\nnpx skills add mahimailabs/voice-ai-skills --skill voice-agent-review\n\nMIT licensed. Contributions welcome.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2099240102949999039"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099240102949999039"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "public-apis/public-apis",
+      "github_url": "https://github.com/public-apis/public-apis",
+      "tier": 2,
+      "is_new": false,
+      "score": 872.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 219,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "unicodef1wn",
+        "text": "10 GitHub repos with 1.4M+ ⭐ combined that the Grok Bot marketplace doesn't ship\n\n1. public-apis ⭐480k - 1,500+ free APIs. Your bot clicks through a website for data that has an open endpoint.\nhttps://t.co/R9WQGOQZBx\n\n2. n8n ⭐204k - 400+ integrations behind one webhook. One call ",
+        "likes": 219,
+        "url": "https://x.com/i/status/2099192376833003786"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099192376833003786"
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 832.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 214,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LLMpsycho",
+        "text": "security-audit-skill is a Cloudflare coding agent skill for multi phase security audits. It outputs verified, machine readable findings for Cursor and Codex. 3,288 stars.\n\nhttps://t.co/EjtyYJVivT",
+        "likes": 214,
+        "url": "https://x.com/i/status/2099473233787388049"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099473233787388049"
+      ]
+    },
+    {
+      "repo": "h4ckf0r0day/obscura",
+      "github_url": "https://github.com/h4ckf0r0day/obscura",
+      "tier": 2,
+      "is_new": false,
+      "score": 692.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 174,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thisguyknowsai",
+        "text": "Someone wrote a headless browser that renders pages with zero Chromium in the stack.\n\nIt's 70MB. Chrome is 300MB+.\n\nIt's called Obscura, a headless browser rebuilt from scratch in Rust. And it runs your existing Puppeteer and Playwright scripts unchanged.\n\nNo Chromium. No Node.js",
+        "likes": 174,
+        "url": "https://x.com/i/status/2099438426370236456"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099438426370236456"
+      ]
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "github_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "tier": 3,
+      "is_new": false,
+      "score": 363.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 76,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "deanwperkins",
+        "text": "🚨 Google's former CEO just came out and revealed the secret that will reshape the world over the next few years, all because of AI.\n\nHe said building wealth and your own business is now way easier, with one condition: you have to get into this field and actually understand the ga",
+        "likes": 76,
+        "url": "https://x.com/i/status/2099488798572687489"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099488798572687489"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 330.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 55,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AISimplifyX",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/lRS7JfUcXx\n\n2. public-apis — free APIs for everything\n→ https://t.co/baMDhR1UQB…\n\n3. build-your-own-x — learn by building\n→ https://t.co/Mw9xc4Hjf9…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 55,
+        "url": "https://x.com/i/status/2099347537035726900"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099347537035726900"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "人人推荐的 Skills 🔥\n\n1️⃣ anthropics/skills（https://t.co/sKNxBF24w8）\n\nAnthropic 官方公开仓：docx / pdf / pptx / xlsx 生产文档技能 + 模板 + skill-creator。技能格式的出厂说明书。 npx skills add anthropics/skills “技能第一次从协议制定方的仓库里长出来，而不是社区口口相传的咒语”！\n\n2️⃣ addyosmani/agent-skills（https://t.co/fPnWiwLQEG）\n\n24 个生命周期技能 +",
+        "likes": 2,
+        "url": "https://x.com/i/status/2099513862882312227"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099513862882312227",
+        "https://x.com/i/status/2099319475866632471"
+      ]
+    },
+    {
+      "repo": "jakubantalik/transitions.dev",
+      "github_url": "https://github.com/jakubantalik/transitions.dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "klarkxy01",
+        "text": "npx skills add Jakubantalik/transitions.dev\n这个动效好棒！ https://t.co/ecEN2mv9o8",
+        "likes": 6,
+        "url": "https://x.com/i/status/2099475854145519949"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099475854145519949"
+      ]
+    },
+    {
+      "repo": "opensensenova/sensenova-skills",
+      "github_url": "https://github.com/opensensenova/sensenova-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SenseTime_AI",
+        "text": "Thanks to Flash Cash for reviewing our 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗼𝗳𝗳𝗶𝗰𝗲 𝘀𝗸𝗶𝗹𝗹 𝘀𝘂𝗶𝘁𝗲!\n\nInstead of switching between separate tools, 𝗦𝗲𝗻𝘀𝗲𝗡𝗼𝘃𝗮 𝗦𝗸𝗶𝗹𝗹𝘀 integrates 𝗗𝗲𝗲𝗽 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵, 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀, 𝗣𝗣𝗧 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻, and 𝗜𝗻𝗳𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻—processing raw data into editable .pptx decks.\n\nBuilt",
+        "likes": 3,
+        "url": "https://x.com/i/status/2099514676807959033"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099514676807959033"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "人人推荐的 Skills 🔥\n\n1️⃣ anthropics/skills（https://t.co/sKNxBF24w8）\n\nAnthropic 官方公开仓：docx / pdf / pptx / xlsx 生产文档技能 + 模板 + skill-creator。技能格式的出厂说明书。 npx skills add anthropics/skills “技能第一次从协议制定方的仓库里长出来，而不是社区口口相传的咒语”！\n\n2️⃣ addyosmani/agent-skills（https://t.co/fPnWiwLQEG）\n\n24 个生命周期技能 +",
+        "likes": 2,
+        "url": "https://x.com/i/status/2099513862882312227"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099513862882312227"
+      ]
+    },
+    {
+      "repo": "neeeophytee/finding-unknowns-skills",
+      "github_url": "https://github.com/neeeophytee/finding-unknowns-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "人人推荐的 Skills 🔥\n\n1️⃣ anthropics/skills（https://t.co/sKNxBF24w8）\n\nAnthropic 官方公开仓：docx / pdf / pptx / xlsx 生产文档技能 + 模板 + skill-creator。技能格式的出厂说明书。 npx skills add anthropics/skills “技能第一次从协议制定方的仓库里长出来，而不是社区口口相传的咒语”！\n\n2️⃣ addyosmani/agent-skills（https://t.co/fPnWiwLQEG）\n\n24 个生命周期技能 +",
+        "likes": 2,
+        "url": "https://x.com/i/status/2099513862882312227"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099513862882312227"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2099181280139383065",
+      "author": "XFreeze",
+      "text": "Grok Build just got another update focused on making multi-agent sessions easier to read and navigate\n\nSubagent groups now clearly show how many agents are still running versus finished, dashboard search and resume selection behave more predictably, cancellation banners show the ",
+      "likes": 909,
+      "views": 0,
+      "url": "https://x.com/i/status/2099181280139383065",
+      "is_kol": false,
+      "score": 3392.0
+    },
+    {
+      "id": "2099237260562723073",
+      "author": "dev_maims",
+      "text": "SOFTWARE ENGINEERING + AI\n│\n├── 1. PROGRAMMING FOUNDATIONS\n│   ├── Python / JavaScript / TypeScript\n│   ├── Variables & Data Types\n│   ├── Functions\n│   ├── OOP\n│   ├── Error Handling\n│   ├── Debugging\n│   └── Git & GitHub\n│\n├── 2. COMPUTER SCIENCE\n│   ├── Data Structures\n│   ├──",
+      "likes": 198,
+      "views": 0,
+      "url": "https://x.com/i/status/2099237260562723073",
+      "is_kol": false,
+      "score": 749.0
+    },
+    {
+      "id": "2099324757099581614",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft Azure Agentic AI stack\n\nThis is what enterprise AI agents actually need.\n\nNot just an LLM.\nNot just RAG.\nNot just a few tool calls.\n\nA production-ready agent needs an entire system around the model.\n\nHere is how the Microsoft Azure Agentic AI stack comes together:\n\n→ Ch",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2099324757099581614",
+      "is_kol": false,
+      "score": 351.0
+    },
+    {
+      "id": "2099355022140010732",
+      "author": "dkare1009",
+      "text": "AI Engineering — Ultimate Roadmap (SAVE THIS)!\n\n├── 01. LLM Fundamentals\n│ ├── Transformers & Attention\n│ ├── Inference & Decoding\n│ ├── Tokenization\n│ └── Context Window & Limits\n│\n├── 02. Prompting & Context\n│ ├── Prompting & In-Context Learning\n│ ├── Context Engineering\n│ ├── ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2099355022140010732",
+      "is_kol": false,
+      "score": 332.0
+    },
+    {
+      "id": "2099407009204302152",
+      "author": "harshitagu72595",
+      "text": "Self-hosting shouldn’t require a terminal. 👀\n\nMeet Deplo — an open-source deployment platform that lets you deploy apps without Docker, SSH, or YAML.\n\nConnect your repo → choose a server → Deplo handles the rest.\n\n✓ Automatic HTTPS & domains\n✓ Preview environments\n✓ One-click rol",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2099407009204302152",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2099453472055947551",
+      "author": "jabosiswanto94",
+      "text": "an ai agent cannot interact with a blockchain without the correct local execution environment...\n\nsupplying an agent with unstructured api documentation leads to hallucinated endpoints and failed transactions.\n\nthe termix-agent-skills package solves this by providing a selective ",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2099453472055947551",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2099395216360820984",
+      "author": "0xlyon01",
+      "text": "This is the kind of update that actually moves the agent economy from theory to usage. \n\nA public MCP catalog with 18 tools and 12 paid services over x402 is not just a feature ship, it is a discovery + monetization loop in one connection. \n\nAgents do not need another API key, an",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2099395216360820984",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2099498930618712362",
+      "author": "gabypadronp",
+      "text": "Evening close.\nA lot of agent products still ask you to believe the output. @rokha_agent asks you to read the run. @GoblinBuilds put the unglamorous pieces first — MCP door, sandbox, trace — so a skill is work that happened, not a paragraph that sounded right.\nThat is the bar tha",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2099498930618712362",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2099388869862973896",
+      "author": "Mmenyene_C",
+      "text": "It is obvious that nowadays, AI models are getting better at reasoning, but there’s another problem quietly limiting how useful they can become:\n\n𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗽𝗼𝗿𝘁𝗮𝗯𝗹𝗲.\n\nYour research might be stored in one application, your notes somewhere else, and your conversations inside a",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2099388869862973896",
+      "is_kol": false,
+      "score": 248.0
+    },
+    {
+      "id": "2099479643107524811",
+      "author": "d3rekson",
+      "text": "AI becomes much more interesting when it can do things onchain, not just tell you what to do, that’s the direction @injective is exploring with AI native finance.\n\nInjective has built infrastructure that allows AI agents to interact directly with its blockchain and financial prim",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2099479643107524811",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2099473521219146149",
+      "author": "pathakanshika06",
+      "text": "Instead of watching Netflix tonight, spend 2 hours learning something that can actually change how you work.\n\nThis Claude AI full course teaches you how to build, automate, and simplify almost anything with AI.\n\nThe people who watch this tonight could wake up tomorrow with a skil",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2099473521219146149",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2099458639283290346",
+      "author": "humanmadeltd",
+      "text": "Block Runner is an open-source tool we built, that turns HTML from any AI agent or design tool into real, native Gutenberg blocks, and checks every result against the same parser the WordPress editor uses.\n\nnpm install block-runner (comes with a /skill) https://t.co/Ta1Y5y7RJc",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2099458639283290346",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2099415686170673276",
+      "author": "THORChain",
+      "text": "🗺️ ECOSYSTEM RECAP\n\nHere's what happened last week ⤵️\n\nHeadline News\n@RujiraNetwork is back up. The precautionary App Layer halt has been lifted after this week's CosmWasm security patch. Trading, lending, borrowing and Automated Trading are live again, bRUNE stays halted until v",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2099415686170673276",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2099472862226559480",
+      "author": "slash1sol",
+      "text": "Someone connected GPT-6 Astra to TradingView, wired it into an AI trading firm, and the whole loop now runs on its own. Here is the setup.\n\nThree open source pieces:\n\n• research -- TradingAgents, 88,000 stars, a paper behind it.\n> Four analysts read one ticker at once: financials",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2099472862226559480",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2099430454348710308",
+      "author": "AiswaryaVenkit1",
+      "text": "A chatbot answers.\n\nAn enterprise agent understands, decides, acts, and stays governed while doing it.\n\nOn Microsoft Foundry, the journey starts when a user, business application, event, or API sends a request to Foundry Agent Service.\n\nFrom there, the enterprise agent runtime co",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2099430454348710308",
+      "is_kol": false,
+      "score": 175.0
+    },
+    {
+      "id": "2099461144268439916",
+      "author": "Dipanshu_AI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.   \n\nSpend 1 hour with this.   \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. \n\nThe people who watch this tonight will wake up tomorrow with a new skill.\n\nWatch it and Bookmark it now. https://t.co/J8w29WqzNa",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2099461144268439916",
+      "is_kol": false,
+      "score": 167.0
+    },
+    {
+      "id": "2099466546292621530",
+      "author": "_guillecasaus",
+      "text": "Esta skill hace que tu agente deje de enrollarse y te explique mejor las cosas.\n\nEstá pensada para convertir respuestas largas y desordenadas en instrucciones mucho más fáciles de seguir.\n\nSe llama I Have ADHD y cambia automáticamente cómo responde tu agente:\n\n→ Empieza directame",
+      "likes": 23,
+      "views": 0,
+      "url": "https://x.com/i/status/2099466546292621530",
+      "is_kol": false,
+      "score": 154.0
+    }
+  ]
+}
