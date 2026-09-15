@@ -7074,5 +7074,41 @@
   "mahimailabs/voice-ai-skills": {
     "first_seen": "2026-09-14",
     "tier": 3
+  },
+  "modelcontextprotocol/servers-archived": {
+    "first_seen": "2026-09-15",
+    "tier": 2
+  },
+  "agenticloops-ai/agentic-ai-engineering": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "snailsploit/claude-red": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "ruby/blade-mcp": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "nwiizo/oi-owarasero": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "rtk-ai/rtk": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "openclaw/clawscan": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "jacob-bd/audio-transcriber": {
+    "first_seen": "2026-09-15",
+    "tier": 3
+  },
+  "motleyai/slayer": {
+    "first_seen": "2026-09-15",
+    "tier": 3
   }
 }
