@@ -7110,5 +7110,53 @@
   "motleyai/slayer": {
     "first_seen": "2026-09-15",
     "tier": 3
+  },
+  "tencent/browserskill": {
+    "first_seen": "2026-09-16",
+    "tier": 0
+  },
+  "simplefarmer69/laura-dashboard": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "tomismeta/srstack": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "lnkiai/m3e-canvas": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "sugarforever/math-coach": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "appandflow/stim": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "smfworks/paste-to-skill": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "lucaswx2/mermaid-for-claude": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "getagentseal/founder-playbook": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "hypit-ai/hypit": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "jmbartelt/c37ba698c56480d69438f8a410f29b0c": {
+    "first_seen": "2026-09-16",
+    "tier": 3
+  },
+  "bigpengsays/bigpeng-hot-gzh": {
+    "first_seen": "2026-09-16",
+    "tier": 3
   }
 }

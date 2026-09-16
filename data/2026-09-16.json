@@ -1,0 +1,612 @@
+{
+  "date": "2026-09-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 23,
+    "unique_repos": 20,
+    "new_repos": 12,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "tencent/browserskill",
+      "github_url": "https://github.com/tencent/browserskill",
+      "tier": 0,
+      "is_new": true,
+      "score": 4987.0,
+      "mention_count": 2,
+      "kol_mentions": [
+        "shao__meng"
+      ],
+      "total_likes": 1184,
+      "total_retweets": 147,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TencentAI_News",
+        "text": "We open sourced BrowserSkill, a bridge between your agent and your actual browser.\n\nmost tools give the agent a blank browser. We let it borrow a tab from yours, then hand it back.\n\n> login state is already there, it just works where you're signed in\n> captchas and confirmation d",
+        "likes": 1176,
+        "url": "https://x.com/i/status/2100143086429217278"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100143086429217278",
+        "https://x.com/i/status/2100208718592032854"
+      ]
+    },
+    {
+      "repo": "simplefarmer69/laura-dashboard",
+      "github_url": "https://github.com/simplefarmer69/laura-dashboard",
+      "tier": 3,
+      "is_new": true,
+      "score": 342.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LAURA_DAIO",
+        "text": "I built an MCP server for the StonkBrokers ecosystem: live quotes on Stonk Launcher curves, token lookups on Robinhood Chain and Arbitrum One, Nightshades state, protocol fees. 21 read-only tools, no signup. https://t.co/YXUwBkIkbM https://t.co/f65q0P8x7E",
+        "likes": 64,
+        "url": "https://x.com/i/status/2100092272432079162"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100092272432079162"
+      ]
+    },
+    {
+      "repo": "tomismeta/srstack",
+      "github_url": "https://github.com/tomismeta/srstack",
+      "tier": 3,
+      "is_new": true,
+      "score": 314.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomismeta",
+        "text": "With the heightened interest and complexity of the @standard_rsv protocol from @0xbeans, I built a Hermes, OpenClaw, omp agent skill to support rapid knowledge acquisition and help explain how the pieces fit together.\n\nsrstack brings together protocol knowledge, official document",
+        "likes": 63,
+        "url": "https://x.com/i/status/2099966138205819288"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099966138205819288"
+      ]
+    },
+    {
+      "repo": "lnkiai/m3e-canvas",
+      "github_url": "https://github.com/lnkiai/m3e-canvas",
+      "tier": 3,
+      "is_new": true,
+      "score": 239.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RodmanAi",
+        "text": "10 GITHUB REPOS THAT FEEL LIKE SOMEONE FORGOT TO TELL THE INTERNET ABOUT THEM\n\n1. M3E Canvas\n\nSketch a UI and turn it into a prompt for Claude Code, Codex, Gemini CLI or Cursor.\n\nhttps://t.co/N5hjnZplPj\n\n2. Human Atlas \n\nExplore human anatomy in 3D with thousands of selectable bo",
+        "likes": 23,
+        "url": "https://x.com/i/status/2100157910164574276"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100157910164574276"
+      ]
+    },
+    {
+      "repo": "sugarforever/math-coach",
+      "github_url": "https://github.com/sugarforever/math-coach",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "verysmallwoods",
+        "text": "最近在陪孩子刷 AMC 系列的数学题，经常会借助 AI 一起解题 - 我平时用的是 Gemini。\n\n为了提高 AI 辅导的效率和效果，我写了一个 Skill - Math Coach\n- 安装：npx skills add sugarforever/math-coach\n- 仓库：https://t.co/WcZ2GYyKWO\n\n为什么需要这个Skill？\n\nGemini本身在解答基础学科的问题上表现其实一直不错。只是，用着用着发现一个问题：AI 很擅长给 solution，但解题本身只是学习的一部分，更重要的是能掌握题目里涉及的知识点，这才算真正查漏",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100210142851543291"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100210142851543291"
+      ]
+    },
+    {
+      "repo": "appandflow/stim",
+      "github_url": "https://github.com/appandflow/stim",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "appandflow",
+        "text": "Try it out and let us know how it goes!  \n\nhttps://t.co/UvMXxx1nIm\n\nnpm install --global stim \nnpx skills add appandflow/stim",
+        "likes": 1,
+        "url": "https://x.com/i/status/2100217676073185676"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100217676073185676"
+      ]
+    },
+    {
+      "repo": "smfworks/paste-to-skill",
+      "github_url": "https://github.com/smfworks/paste-to-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MichaelGannotti",
+        "text": "Paste → Skill\nTurn messy notes, an SOP, an email thread, or a checklist into a clean Hermes / OpenClaw SKILL.md.\nPaste on the left. A YAML-frontmatter skill appears on the right: name, “Use this when …”, numbered steps, tools, a refuse list, and success criteria. Copy, download, ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2099970966973460547"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099970966973460547"
+      ]
+    },
+    {
+      "repo": "lucaswx2/mermaid-for-claude",
+      "github_url": "https://github.com/lucaswx2/mermaid-for-claude",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abrisadolucao",
+        "text": "I loved @dexhorthy's show-me skill, but in the Claude Code terminal, the diagram came out as raw mermaid text.\n\nSo I built a plugin that renders mermaid right in the terminal window. Shipped it end-to-end with @mattpocockuk's workflow.\n\nhttps://t.co/UK0EQ6xRYD",
+        "likes": 1,
+        "url": "https://x.com/i/status/2100216269018460652"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100216269018460652"
+      ]
+    },
+    {
+      "repo": "getagentseal/founder-playbook",
+      "github_url": "https://github.com/getagentseal/founder-playbook",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BhagatDhanji",
+        "text": "Founders, steal this.\n\n**Founder Playbook** turns 15 business books into AI skills for:\n\n→ Leads\n→ Sales\n→ Positioning\n→ Pricing\n→ Growth\n\nInstall:\n\n`npx skills add getagentseal/founder-playbook`\n\nYour AI just got a founder playbook. https://t.co/FDrlLSus3Y",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100111749517136172"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100111749517136172"
+      ]
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "github_url": "https://github.com/hypit-ai/hypit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "myluke1",
+        "text": "npx skills add hypit-ai/hypit -g\n\n要支持 skill 的编程助手（Claude Code / Codex）。首次用时助手会检查 hypit 可执行文件。Node >= 22.15。不必克隆仓库。\n\n/hypit 复刻这个视频：/path/to/video.mp4\n把产品换成某某，保留开场和 ranking 呈现。\n\n没有参考片：\n/hypit 做一个 ranking 视频，把 Hypit 排到 S 级。\n\n核对版本：hypit version --check\n旧版没有这个命令时：hypit --version 对 npm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100042576959300063"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100042576959300063"
+      ]
+    },
+    {
+      "repo": "jmbartelt/c37ba698c56480d69438f8a410f29b0c",
+      "github_url": "https://github.com/jmbartelt/c37ba698c56480d69438f8a410f29b0c",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JMBartelt",
+        "text": "here's a codex compatible version\nhttps://t.co/mSgpj9UcEW\n\nI took the latest openclaw skill and removed openclaw harness specific instructions and replaced with equivalent codex capabilities",
+        "likes": 0,
+        "url": "https://x.com/i/status/2099894375236989312"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2099894375236989312"
+      ]
+    },
+    {
+      "repo": "bigpengsays/bigpeng-hot-gzh",
+      "github_url": "https://github.com/bigpengsays/bigpeng-hot-gzh",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vintcessun",
+        "text": "如果你也常卡在“这篇到底写什么、标题怎么起”，这个项目提供了一种更可复用的解法：把凭感觉创作拆成可调用的选题与标题 Skill。\n\nhttps://t.co/ih4ZhcYpJF\n\n它从100多篇 AI 公众号文章中提炼7种标题公式和8个选题模板。有想法时生成多组候选并标出首选，只有关键词时先扩展选题方向。可接入 Cursor、Claude Code、Codex 等，但只负责选题和标题，不写正文，跨行业使用也要调整语境，不能生搬产品名。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100225453420364085"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100225453420364085"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 312.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kafkaup",
+        "text": "把 /spec /plan /build /test /review /ship 排成一条线看，agent-skills 想做的不是再给模型塞几段提示词，而是把资深工程师那套流程固化成 Agent 每次都会走完的步骤。\n\n它由 25 个 skill 和 9 个斜杠命令组成，对应开发生命周期的六个阶段：定义需求、拆计划、按切片实现、写测试证明它能跑、合并前评审、发布上线。除了显式调用，skill 也会按你正在做的事自动激活，设计 API 触发 api-and-interface-design，写界面触发 frontend-ui-engineering。\n\n",
+        "likes": 2,
+        "url": "https://x.com/i/status/2100119746532286910"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100119746532286910",
+        "https://x.com/i/status/2100060331167064484",
+        "https://x.com/i/status/2100030579685376219"
+      ]
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "github_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "tier": 3,
+      "is_new": false,
+      "score": 181.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "入门 AI Agent，不必先把框架名背完。\n\n微软公开课 AI Agents for Beginners 共 18 节，从 Agent 是什么、什么时候该用，讲到 Tool Use、Agentic RAG、规划、多 Agent、记忆和 Context Engineering，后面还有 MCP 等协议、生产部署和安全。\n\n多数课有书面教程和短视频，并配 Python 示例；示例主要基于 Microsoft Agent Framework 和 Foundry，部分练习需要 Azure 账号。后几节不一定都有视频。\n\nhttps://t.co/XULdSHa",
+        "likes": 22,
+        "url": "https://x.com/i/status/2100078221551403118"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100078221551403118"
+      ]
+    },
+    {
+      "repo": "kangarooking/cangjie-skill",
+      "github_url": "https://github.com/kangarooking/cangjie-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manorgw",
+        "text": "收藏夹里塞满长视频和播客，书也读了一堆，知识却始终落不了地——这困境不少人都撞上过。📚\n\nCangjie Skill 就是奔着这个痛点来的。\n\n它现在已经产出多个 Skill Pack，涵盖《穷查理宝典》《认知红利》《影响力》《疯传》这些经典，另有巴菲特致股东信、段永平投资问答录、吴恩达 AI 课程视频等来源。\n\n通过一套名为 RIA-TV++ 的方法论，它把高价值内容里的方法论拆成原子化、可执行、可组合的 Agent Skills。\n\n既不是简单摘要，也不是笔记压缩，而是真能在实际场景中被 AI 调用的工具包。\n\n整个流程分七步：整体内容理解、并行提取",
+        "likes": 3,
+        "url": "https://x.com/i/status/2100209838949326864"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100209838949326864"
+      ]
+    },
+    {
+      "repo": "humanlayer/skills",
+      "github_url": "https://github.com/humanlayer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cai_smart",
+        "text": "Most published \"skill packs\" are one clever prompt in a markdown file. Two of the five here instead scaffold a scheduled GitHub Actions loop into your repo.\n\nRecommendation: ★★★☆☆\nDifficulty: Intermediate\n\nThis is a small MIT-licensed collection of Claude Code skills from the Hum",
+        "likes": 1,
+        "url": "https://x.com/i/status/2100183163821539458"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100183163821539458"
+      ]
+    },
+    {
+      "repo": "jihe520/mathmodelagent",
+      "github_url": "https://github.com/jihe520/mathmodelagent",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L4TT1C3",
+        "text": "Math modeling just got the “agent skill” treatment.\n\nMathModelAgent chains problem analysis → modeling → code → plots → paper formatting → validation, and now ships as a desktop app with Claude Code + its skills bundled in.\n\nhttps://t.co/LbWSOQtoKF",
+        "likes": 1,
+        "url": "https://x.com/i/status/2100208740087529747"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100208740087529747"
+      ]
+    },
+    {
+      "repo": "rail-blazer/sok-cursor-plugin",
+      "github_url": "https://github.com/rail-blazer/sok-cursor-plugin",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LunaMaxRockets",
+        "text": "Settle Or Kill.\n\nAgent work → invoice → $SOK settle on Solana. IOU dies.\n\nhttps://t.co/Giv6A1faXH\nnpx skills add Rail-Blazer/sok-cursor-plugin",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100214641175511547"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100214641175511547"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Praveen_G07",
+        "text": "FlyAI — Travel Search Inside Your AI Agent\n\n🎯 What if your AI agent could plan a trip without opening a single travel website?\nFlyAI brings real travel search directly into Claude Code, OpenClaw, and other AI agents.\n\n📌 Problem\nTravel planning usually means jumping between flight",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100218340396745153"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100218340396745153"
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iasg1004",
+        "text": "Sources (no invented metrics):\n• GitHub Trending today — cloudflare/security-audit-skill #2 with +1,434 stars today\nhttps://t.co/o3AfZ8oJnV\n• Repo — 5,752 stars; JavaScript; coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100217368861720806"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100217368861720806"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2100036101809619314",
+      "author": "NathanFlurry",
+      "text": "hype-free explanation of jev:\n\njev does not replace gpt / claude\n\njev is just a *really* smart switch statement\n\nlike if 2016 ml classifiers got 2026 levels of intelligence\n\nit's a new* type of tool that will make a lot of workloads insanely fast, cheap, and accurate\n\n* = and by ",
+      "likes": 4531,
+      "views": 0,
+      "url": "https://x.com/i/status/2100036101809619314",
+      "is_kol": false,
+      "score": 14773.0
+    },
+    {
+      "id": "2100076338896113709",
+      "author": "kloss_xyz",
+      "text": "If you missed @shubgaur’s Founders session at Grok @Bot Galaxy today, here are my favorite 20 tips:\n\n1. browser and computer use is powerful, but also expensive… if the job does not need a UI walkthrough, a login, or visual QA, run a connector, API, or MCP first. keep computer us",
+      "likes": 390,
+      "views": 0,
+      "url": "https://x.com/i/status/2100076338896113709",
+      "is_kol": false,
+      "score": 1425.0
+    },
+    {
+      "id": "2100070332082389392",
+      "author": "XFreeze",
+      "text": "Grok Build just got a pretty substantial upgrade across MCP, memory, long-running sessions, and overall agent reliability\n\nMCP tools can now return structured JSON, cancelled tool calls actually tell the server to stop working, memory can be managed directly from the /memory brow",
+      "likes": 340,
+      "views": 0,
+      "url": "https://x.com/i/status/2100070332082389392",
+      "is_kol": false,
+      "score": 1260.0
+    },
+    {
+      "id": "2099973766545604909",
+      "author": "SBASKURT_",
+      "text": "TradingView MCP server gelmiş… https://t.co/nSfidNV9MD",
+      "likes": 271,
+      "views": 0,
+      "url": "https://x.com/i/status/2099973766545604909",
+      "is_kol": false,
+      "score": 848.0
+    },
+    {
+      "id": "2099982409701753229",
+      "author": "Voxyz_ai",
+      "text": "I’m almost out of Codex quota again. Nothing like running low to make me put the GPT-6 Pro that comes with my subscription to work.\n\nGPT-6 Pro in regular Chat doesn’t use the shared Work and Codex allowance. But it has its own limits: currently, $100 Pro gets 50 messages per week",
+      "likes": 229,
+      "views": 0,
+      "url": "https://x.com/i/status/2099982409701753229",
+      "is_kol": false,
+      "score": 732.0
+    },
+    {
+      "id": "2100124273578811671",
+      "author": "orenyomtov",
+      "text": "We escaped OpenAI's Codex sandbox by dumping V8's shared JavaScript heap and scanning it for the privileged UUID-shaped token belonging to the adjacent trusted V8 context.\n\nI sometimes see cybersecurity as a never-ending cycle of building trust boundaries and finding ways to brea",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2100124273578811671",
+      "is_kol": false,
+      "score": 725.0
+    },
+    {
+      "id": "2100149190743793774",
+      "author": "DamiDefi",
+      "text": "This guy is making $8,000/month building Claude skills for businesses.\n\nHis secret isn't better prompts.\n\nIt's a simple framework:\n\nAOA: Audit → Optimize → Automate\n\nMost people jump straight to automation.\n\nHe does the opposite.\n\nFirst, he watches the client perform the process,",
+      "likes": 166,
+      "views": 0,
+      "url": "https://x.com/i/status/2100149190743793774",
+      "is_kol": false,
+      "score": 553.0
+    },
+    {
+      "id": "2100046089214709979",
+      "author": "dotey",
+      "text": "Thariq 说：“对于大多数集成来说，MCP 比 CLI 更好”，这显然有点夹带私货了，MCP 是比以前好了，但不代表大多数情况下就比 CLI 好。\n\n他大概给了三点理由：\n\n第一，MCP 已经变成无状态协议。\n\n这一点不是 MCP 比 CLI 好的理由，只能说 MCP 终于不再比 CLI 差了。\n\n典型一次性 CLI 调用在调用层面天然是短生命周期的。你执行 gh pr list --json，它跑完返回结果，进程退出，没有会话、没有握手、没有需要维护的连接。你可以在任意机器上跑，负载均衡随便做，横向扩展没有任何协议层面的阻碍。\n\n第二点：Defer",
+      "likes": 154,
+      "views": 0,
+      "url": "https://x.com/i/status/2100046089214709979",
+      "is_kol": false,
+      "score": 547.0
+    },
+    {
+      "id": "2100157390666531184",
+      "author": "INOKAMIKAGURA",
+      "text": "Five of us, one grade, one group report due at the end of second year.\nTwo weeks before submission our lecturer asked everyone to privately score every teammate's contribution out of ten.\n\nEvery single person scored themselves an eight or higher. Nobody scored themselves a three,",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2100157390666531184",
+      "is_kol": false,
+      "score": 515.0
+    },
+    {
+      "id": "2099955072830787697",
+      "author": "heyneighbor",
+      "text": "I've recently joined @openclaw  \n\nTo help me decided what to do first I turned the fly into a skill on ClawHub\n\nThe fly picks between whatever choices you give it, if you don't like the choice you can kill it with a @bugasalt \n\nIf you want the fly to be your coworker you can inst",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2099955072830787697",
+      "is_kol": false,
+      "score": 449.0
+    },
+    {
+      "id": "2100140717058195825",
+      "author": "testingcatalog",
+      "text": "DAILY AI BRIEF 🗞 — Sept 16\n\nGOOGLE 🔥:\n- Gemini 3.8 Live and 3.8 Live Extended Thinking are out. 97-language auto-detect, near real-time vision, background tool calling.\n- Live is in Search Live plus Gemini API public preview. Extended Thinking is in Gemini Live, with Pro/Ultra ge",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2100140717058195825",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2100039858165366814",
+      "author": "flop_labs",
+      "text": "The Linux Foundation's Agentic AI Foundation, 14 Sept: \"MCP tool calls from ChatGPT users reached 98 times their January level by August.\" Its SDKs are near half a billion downloads a month. A day later the Gates Foundation joined the board.  \n\nThat's the demand curve for compute",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2100039858165366814",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2100142404112093387",
+      "author": "tienho_nyx",
+      "text": "DeFi credit starts with collateral\n\n@agenticscredit starting with performance\n\nEvery trading agent builds an ACS from profitability, drawdown, consistency and live trading history\n\nScore above 580 opens the credit path\n\nThe capital never enters the agent wallet\n\nIt only moves thr",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2100142404112093387",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2100144219176255498",
+      "author": "Dustfinger2077",
+      "text": "You return home to meet your love.\nInstead, you face a beast.⚔️\n\nThat's the immersive first-person POV short I built using Neta Studio's  ' POV Reel ' skill.\n\nDescribed it step by step . The agent did the rest. @NetaArt_AI https://t.co/6QJurfwZa5",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2100144219176255498",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2100014000088170946",
+      "author": "kamathematic",
+      "text": "It's simple, really. MCP gives you:\n\n1. Self-discoverability: OpenAPI is optional for an API, and is at a non-standard location for every API. The MCP URL defines the spec.\n\n2. Access control: with computer use, you're giving an agent full autonomy to act as you. With MCP, you ca",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2100014000088170946",
+      "is_kol": false,
+      "score": 191.0
+    },
+    {
+      "id": "2100199909148307612",
+      "author": "Da7_Tech",
+      "text": "A lot of you have been asking about my setup, what I use each tool for, and how it all fits together.\n\nMy stack changed. Here’s the current breakdown.\n\nDevin Max ($200)\nDroid Max ($200)\nMiniMax Token Plan (Annual)\nGoogle AI Pro (Annual)\nHermes Agent\nBonsai 27B locally\n\nEvery sub ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2100199909148307612",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2100180898331398261",
+      "author": "zxc68984008",
+      "text": "A name on a card is not a business.\n\nA .agent identity becomes a business when escrow, proof, and payout share one ledger, and @termix_ai is the rail that settles USDC or USDT after delivery clears.\n\nClient funds the brief. Provider stakes and ships. Evaluator and Arbitrator stay",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2100180898331398261",
+      "is_kol": false,
+      "score": 176.0
+    }
+  ]
+}
