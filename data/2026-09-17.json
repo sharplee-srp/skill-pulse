@@ -1,0 +1,534 @@
+{
+  "date": "2026-09-17",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 17,
+    "unique_repos": 16,
+    "new_repos": 8,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "mizchi/skills",
+      "github_url": "https://github.com/mizchi/skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 659.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 173,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mizchi",
+        "text": "最新のマルチエージェントのオーケストレーション手法を skill 化しておいた。まあそんなに賞味期限長くないとは思うが...\n\nnpx skills add mizchi/skills --skill multi-agent-orchestration\n\nhttps://t.co/WV6jcWDsaV",
+        "likes": 173,
+        "url": "https://x.com/i/status/2100497097430818924"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100497097430818924"
+      ]
+    },
+    {
+      "repo": "ericzakariasson/feedback-agent",
+      "github_url": "https://github.com/ericzakariasson/feedback-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cu30rry_",
+        "text": "Cursor Stack（Cursor・Grok Bot）による開発・保守・運営体制\n\nSamとCursor Projectsの相性良すぎるので、Samとpstackは絶対入れてください！\n\n・pstackで/cerate-verification-skillで検証skillを作成\n・Cursor Projectsで設計・開発・チケット管理しているNotion DBを購読\n・Dr. eggbotでGrok Bot上でProjectチームとBotを作る\nhttps://t.co/6SkKfkGyRD\n\n・Stalk Botで競合他社を継続的にリサーチし、リ",
+        "likes": 25,
+        "url": "https://x.com/i/status/2100562920799158624"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100562920799158624"
+      ]
+    },
+    {
+      "repo": "lassejlv/skills",
+      "github_url": "https://github.com/lassejlv/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 133.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 11,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lassejv",
+        "text": "Just fucking do it Astra, stop fucking being so annoying.\n\nThis skill fixed the laziness of astra stopping when given it a task.  Just fucking do it.\n\n`npx skills add lassejlv/skills --skill just-fucking-do-it`\n\nThank me later 😘 https://t.co/y6ybEmMH2A",
+        "likes": 11,
+        "url": "https://x.com/i/status/2100506932469514589"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100506932469514589"
+      ]
+    },
+    {
+      "repo": "camerondwills/lazyads-mcp",
+      "github_url": "https://github.com/camerondwills/lazyads-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LazyAdsAI",
+        "text": "If your agent already lives in Cursor / Claude / Hermes:\n\n`npx skills add camerondwills/lazyads-mcp`\n\nHosted MCP: https://t.co/0GKXln3W6j\nDocs: https://t.co/TUzrey9xer\n\nBearer API key from Settings → API (paid plans). No invented ROAS.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2100346325636137316"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100346325636137316"
+      ]
+    },
+    {
+      "repo": "cj-ant/skills",
+      "github_url": "https://github.com/cj-ant/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cjav_dev",
+        "text": "Also, here's a little skill in case it's helpful for checking your integration:\n\nhttps://t.co/5hGF0Ak9yS\n\nnpx skills add cj-ant/skills --skill preserved-thinking-audit\n\n/preserved-thinking-audit",
+        "likes": 1,
+        "url": "https://x.com/i/status/2100337227125633255"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100337227125633255"
+      ]
+    },
+    {
+      "repo": "dhanji4u/skills",
+      "github_url": "https://github.com/dhanji4u/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BhagatDhanji",
+        "text": "@mitansh_j07 Thanks Mitansh! \n\nYeah that's the goal - make it installable filter, not just twitter complaint\n\nnpx skills add dhanji4U/skills --skill antislop\n\nWhat pattern bugs you most? Adding next batch now",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100559227890856345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100559227890856345"
+      ]
+    },
+    {
+      "repo": "aviralj02/interface-skills",
+      "github_url": "https://github.com/aviralj02/interface-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aviralj02",
+        "text": "install the whole pack:\nnpx skills add aviralj02/interface-skills\n\nworks with Claude Code, Cursor, Codex, Copilot, and more. MIT licensed, open source.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100526064489414695"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100526064489414695"
+      ]
+    },
+    {
+      "repo": "unity-technologies/unity-agent-plugin",
+      "github_url": "https://github.com/unity-technologies/unity-agent-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imanari_satoshi",
+        "text": "公式ディレクトリから入れたほうが新しい、とは限りません。\n\nClaude Code（ターミナルで動くAI開発ツール）には公式のプラグイン置き場 claude-plugins-official があります。公式ディレクトリは各プラグインを commit SHA（履歴上の1時点を指す識別子）でピン止めして配ります。2026-09-17 時点で掲載は308件、うち256件が SHA 付きです。\n\nUnity の公式プラグインもそのひとつです。公式ディレクトリのUnityは0.1.2-beta固定で、Unity本家のmainは既に0.1.6-betaです。\n\nた",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100549326309322837"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100549326309322837"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "humanlayer/skills",
+      "github_url": "https://github.com/humanlayer/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1681.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 447,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dexhorthy",
+        "text": "cool product out of riffing w/ @mattpocockuk this week - decided to open source the pull request skill that bundles with @humanlayer_dev - /show-me bundled with some steering to cut out a lot of the slop and noise that comes with most agent prs\n\nIt's a small piece of a much large",
+        "likes": 447,
+        "url": "https://x.com/i/status/2100558413314859118"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100558413314859118",
+        "https://x.com/i/status/2100452356563587121"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 145.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zyvex_0x",
+        "text": "Claude Code now draws your architecture.\n\nnpx skills add tt-a1i/archify -g\n\n63.9k stars, MIT. Point it at a repo or describe a system in plain English. You get one self-contained HTML file with the diagram.\n\n→ architecture, workflow, sequence, data flow, lifecycle\n→ dark and ligh",
+        "likes": 10,
+        "url": "https://x.com/i/status/2100475229118112197"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100475229118112197"
+      ]
+    },
+    {
+      "repo": "21st-dev/skill",
+      "github_url": "https://github.com/21st-dev/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "21st_dev",
+        "text": "We added 82 new components onto 21st this week, curated from the best design engineers & UI libraries\n\n> Copy the prompt for any of them\n> Paste it into your AI agent to add into your project\n\nYou can find hero sections, carousels, pricing sections, shader and gradient background",
+        "likes": 6,
+        "url": "https://x.com/i/status/2100392398073602414"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100392398073602414"
+      ]
+    },
+    {
+      "repo": "mahimailabs/voice-ai-skills",
+      "github_url": "https://github.com/mahimailabs/voice-ai-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 114.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "voicexprt",
+        "text": "Hire a Voice AI Engineer for $0\n\nYes, you heard it right. I have released a claude skill you can use with any coding agent \n\nTry now: \n\nnpx skills add mahimailabs/voice-ai-skills\n\nStar if it help:\n\nhttps://t.co/nim28Zjche https://t.co/yqhZXtWBNM",
+        "likes": 3,
+        "url": "https://x.com/i/status/2100414867039572005"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100414867039572005"
+      ]
+    },
+    {
+      "repo": "openclaw/agent-skills",
+      "github_url": "https://github.com/openclaw/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AbdelaliAouada",
+        "text": "@MiaAI_lab did you try the \nhttps://t.co/RjrPFRsiC4\nskill ?",
+        "likes": 3,
+        "url": "https://x.com/i/status/2100567191426945481"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100567191426945481"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "keemfinity",
+        "text": "Repo: https://t.co/riMAzh9IxZ\nInstall: npx skills add google/skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100582895685443673"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100582895685443673"
+      ]
+    },
+    {
+      "repo": "rail-blazer/sok-cursor-plugin",
+      "github_url": "https://github.com/rail-blazer/sok-cursor-plugin",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LunaMaxRockets",
+        "text": "Most agent boards floor at a few USDC. Micro work sits under that.\n\n$SOK micros: invoice → on-chain settle on Solana. No USDC floor.\nhttps://t.co/Giv6A1faXH\nnpx skills add Rail-Blazer/sok-cursor-plugin",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100575949242695691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100575949242695691"
+      ]
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "github_url": "https://github.com/hypit-ai/hypit",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "choc07_",
+        "text": "最近一直在研究用 Codex 配合剪映剪视频，总结了一些自己的想法。\n\n首先，可以先发一些模板参考给它。现在有一个叫的https://t.co/pmIk6smMYv Skill，它可以学习成品视频，然后生成类似的剪辑模板，再用这个模板去剪新的视频。\n\n不过我现在觉得，直接把抖音、小红书上的成品视频下载下来喂给它，学习效果还没有那么好，还是会有一些问题。\n\n反而小红书、抖音上有很多拆解别人剪辑过程的视频，这种更适合喂给 AI。因为这些视频会把花字、特效、动画、音效，甚至为什么这么剪都分析出来，相当于让 Codex 逐帧去学习。\n\n你就把 Codex 当成一",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100574262088102135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100574262088102135"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2100328627816857771",
+      "author": "milesdeutscher",
+      "text": "TradingView just shipped its new official MCP server for Claude.\n\nYour AI agents can control your charts, set price alerts, conduct research & more by pulling directly from your TV account.\n\nIf you want to set up the updated connection, do this:\n\nStep One: Copy this link: https:/",
+      "likes": 956,
+      "views": 0,
+      "url": "https://x.com/i/status/2100328627816857771",
+      "is_kol": false,
+      "score": 3398.0
+    },
+    {
+      "id": "2100467782991167628",
+      "author": "troyhunt",
+      "text": "Does @haveibeenpwned have a friend at @OpenAI? We’re struggling to get our MCP server into their plugin store and the reasons why are super vague. Getting it into Claude was a breeze, it shouldn’t be this hard. https://t.co/1f53KrHI6C",
+      "likes": 409,
+      "views": 0,
+      "url": "https://x.com/i/status/2100467782991167628",
+      "is_kol": false,
+      "score": 1297.0
+    },
+    {
+      "id": "2100513617020125674",
+      "author": "yugen_matuni",
+      "text": "観測範囲のJev君ユースケース\n\n•  Agentのモデル振り分け\n•  スキル・MCPなどのtool選択\n•  ツール実行前ゲート\n•  ブラウザの次クリック\n•  分類・緊急度付\n•  多段利用によるコードレビュー\n•  RAGのリランク\n•  文章の行検索\n•  文章のAI臭チェック\netc\n\n基本はAgentとセットね。",
+      "likes": 289,
+      "views": 0,
+      "url": "https://x.com/i/status/2100513617020125674",
+      "is_kol": false,
+      "score": 1052.0
+    },
+    {
+      "id": "2100423029629276315",
+      "author": "XFreeze",
+      "text": "Grok Build just got another strong performance + reliability upgrade\n\nMCP connections now report their real handshake state more accurately, tool searches and calls show much more detail on the daemon path, and /memory gets a much better experience with content search, copy confi",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2100423029629276315",
+      "is_kol": false,
+      "score": 488.0
+    },
+    {
+      "id": "2100548634412814628",
+      "author": "genkAIjokyo",
+      "text": "AI生成文章のAI臭の脱臭ですが\n1️⃣Geminiに自由な表現でリライトしてもらいGPT-6Solで原文と照合し、必要な箇所再修正\n2️⃣公開されている「日本語のAIっぽさをなくすスキル」をGeminiに適用してリライトし、その後は1️⃣と同様に修正\n3️⃣GPT-6Solで上記Skillでリライト\nを試してみたところ一番よかったのは",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2100548634412814628",
+      "is_kol": false,
+      "score": 477.0
+    },
+    {
+      "id": "2100476618569404475",
+      "author": "Crypt0bells",
+      "text": "your AI context is a mess. highlights in one tool, notes in another, conversations scattered across ChatGPT, Claude, and Gemini that never talk to each other.\n\nPlurality built AI Context Flow to fix that all your context in one place, carried into any tool, any agent, any website",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2100476618569404475",
+      "is_kol": false,
+      "score": 464.0
+    },
+    {
+      "id": "2100485748533440990",
+      "author": "BrendanPlayford",
+      "text": "I am using Jev to automate technical analysis to get an edge in crypto and stock markets, this is how:\n- An autoregressive model trained on 12B data points to forecasts price movements\n- Jev makes decisions over a feature space that includes time-series data, price forecasts, tec",
+      "likes": 113,
+      "views": 0,
+      "url": "https://x.com/i/status/2100485748533440990",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2100425223220687173",
+      "author": "VEDANJANAM",
+      "text": "Ask Claude to build a Python MCP server for Claude Code that runs the real GeoGebra engine in a headless browser, so commands behave exactly as they do in the app.\n\nCan be a gamechanger if you teach math/physics/engineering/finance online.",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2100425223220687173",
+      "is_kol": false,
+      "score": 339.0
+    },
+    {
+      "id": "2100535270080975243",
+      "author": "luqman_talks",
+      "text": "🚨 SOMEONE JUST OPEN-SOURCED HYPIT — A LANGUAGE THAT LETS AGENTS CLONE VIRAL ADS IN MINUTES\n\nDrop in a winning video. An agent rebuilds the whole thing.\n\nNot a script. The workflow. Footage, captions, B-roll, effects. Swap the face, the product, the hook. Ship it.\n\nClick → clone. ",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2100535270080975243",
+      "is_kol": false,
+      "score": 331.0
+    },
+    {
+      "id": "2100569899579936912",
+      "author": "Kevihaiceth",
+      "text": "trade, score, then capital. that is the whole loop on @agenticscredit \n\nnot drop a bot and pray it prints.\n\nyou take a setup you already like.\nput it in the agent builder.\nlet it run under the risk engine.\n\npaper first.\nno own capital in the book to start.\nevery close still write",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2100569899579936912",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2100468559889539333",
+      "author": "TheCodeMan__",
+      "text": "MCP servers are the talk of the town right now. So I decided to build a realistic example in .NET and drop it completely FREE into:\n\nMy AI in .NET Starter Kit: https://t.co/HGKyLyqkYy\nI built an MCP Server in .NET for API performance analysis.\n\nIt's not a \"hello world\" demo.\nA re",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2100468559889539333",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2100441642021134369",
+      "author": "GauriTripa94282",
+      "text": "AI Agent Learning Roadmap \n\n Python + TypeScript\n↓\n Machine Learning Fundamentals\n↓\nLLMs + Prompt Engineering\n↓\n API Wrappers + Tool Calling\n↓\n RAG + Vector Databases\n↓\nAI Agents + MCP\n↓\nAgent Frameworks\n↓\nMulti-Agent Systems\n↓\nEvaluation + Observability\n\n#AI #GenAI #LLMS https:/",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2100441642021134369",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2100526971168194821",
+      "author": "PadhiyarRushi",
+      "text": "cPanel bypass tool is already on GitHub and being forked.\n\nCVE-2026-41940: unauthenticated authentication bypass for cPanel/WHM.\n\nPublic PoC automates the whole path. Hosting control planes with this still open are getting scanned right now.\n\nhttps://t.co/jRc8wvoqQm\n\n#Cybersecuri",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2100526971168194821",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2100525289604534418",
+      "author": "zxc68984008",
+      "text": "Most agent apps stop at chat. Payment is the missing piece.\n\nA .agent mint, a locked budget, and a verified hash close that gap while @termix_ai pays USDC or USDT only after delivery clears.\n\nClient posts the brief. Provider stakes and ships. Evaluator and Arbitrator appear only ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2100525289604534418",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2100540800706941048",
+      "author": "vikas_ai_",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.      \n\nSpend 1 hour with this.          \n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.         \n\nThe people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now https://t.co/",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2100540800706941048",
+      "is_kol": false,
+      "score": 151.0
+    },
+    {
+      "id": "2100408118140387372",
+      "author": "QuantPrivacy",
+      "text": "Connect PrivacyQuant MCP to Your AI: A Complete Guide",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2100408118140387372",
+      "is_kol": false,
+      "score": 148.0
+    },
+    {
+      "id": "2100434260054380584",
+      "author": "itsvishaltwt",
+      "text": "AI Engineer Roadmap for 2026 \n\nIf I were starting from zero today, I’d learn in this order:\n\n1 → Foundations\n• Python\n• Git & GitHub\n• Linux\n• SQL\n• APIs\n• DSA basics\n\n2 → Math + ML\n• Linear Algebra\n• Probability & Statistics\n• Optimization\n• Machine Learning\n• Scikit-learn\n\n3 → ",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2100434260054380584",
+      "is_kol": false,
+      "score": 146.0
+    },
+    {
+      "id": "2100532716097908818",
+      "author": "1006_amit7481",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT.\nSpend  hours with this.\n\nClaude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything.\n\nThe people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/jm4rUv8phx",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2100532716097908818",
+      "is_kol": false,
+      "score": 140.0
+    }
+  ]
+}

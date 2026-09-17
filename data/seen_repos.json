@@ -7158,5 +7158,37 @@
   "bigpengsays/bigpeng-hot-gzh": {
     "first_seen": "2026-09-16",
     "tier": 3
+  },
+  "mizchi/skills": {
+    "first_seen": "2026-09-17",
+    "tier": 2
+  },
+  "ericzakariasson/feedback-agent": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "lassejlv/skills": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "camerondwills/lazyads-mcp": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "cj-ant/skills": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "dhanji4u/skills": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "aviralj02/interface-skills": {
+    "first_seen": "2026-09-17",
+    "tier": 3
+  },
+  "unity-technologies/unity-agent-plugin": {
+    "first_seen": "2026-09-17",
+    "tier": 3
   }
 }
