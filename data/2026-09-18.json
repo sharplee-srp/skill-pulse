@@ -1,0 +1,621 @@
+{
+  "date": "2026-09-18",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 24,
+    "unique_repos": 21,
+    "new_repos": 19,
+    "previously_seen_repos": 2
+  },
+  "new_repos": [
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 762.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 104,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DeRonin_",
+        "text": "How to use Jev, and where it actually gives you the 100x:\n\nsetup takes 10 minutes:\n\n1. join the waitlist, people are getting approved same day\n🔗 https://t.co/uO7aescvbM\n\n2. install the official skill so your agent writes correct calls:\n\n- npx skills add typesafe-ai/skills --skill",
+        "likes": 67,
+        "url": "https://x.com/i/status/2100917158922387537"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100917158922387537",
+        "https://x.com/i/status/2100869038121291886",
+        "https://x.com/i/status/2100886851707924733",
+        "https://x.com/i/status/2100923204583743592"
+      ]
+    },
+    {
+      "repo": "cloudflare/agentic-inbox",
+      "github_url": "https://github.com/cloudflare/agentic-inbox",
+      "tier": 3,
+      "is_new": true,
+      "score": 440.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 95,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realfxw",
+        "text": "Cloudflare 官方开源了一个堪称 Serverless 典范的神级项目：agentic-inbox —— 一个完全跑在 Cloudflare Workers 边缘网络上的自托管 AI 邮件客户端。\n\n以往自建邮件系统配置繁琐、运维头疼，而这个项目直接将邮件收发、数据存储、UI 界面与 AI Agent 全部打包进了 Cloudflare 生态：\n\n核心亮点\n\n纯边缘架构与数据隔离：接入 Cloudflare Email Routing 与 Email Service 搞定邮件收发；每个邮箱独立运行在一个 Durable Object (DO) 中",
+        "likes": 95,
+        "url": "https://x.com/i/status/2100817097563508967"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100817097563508967"
+      ]
+    },
+    {
+      "repo": "google/artemis",
+      "github_url": "https://github.com/google/artemis",
+      "tier": 3,
+      "is_new": true,
+      "score": 241.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sakatayasha",
+        "text": "there's no f**king wayyyyyyy\n\nGoogle just open-sourced an agent that uses your Android phone like a human\n\nARTEMIS turns plain English instructions into real cross-app automation\n\nwhat it does:\n\n- run entire workflows across apps from natural language\n- drive real test devices an",
+        "likes": 42,
+        "url": "https://x.com/i/status/2100813781907669062"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100813781907669062"
+      ]
+    },
+    {
+      "repo": "keetanetwork/agent-skills",
+      "github_url": "https://github.com/keetanetwork/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 234.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheKeetard",
+        "text": "keeta published a new repo around 4am et this morning, about 50 minutes ago for me, and it's the agentic thesis turning into something you can actually install.\n\nkeetanetwork/agent-skills\n\none command:\n\nnpx skills add KeetaNetwork/agent-skills\n\nten machine-readable workflows for ",
+        "likes": 38,
+        "url": "https://x.com/i/status/2100870046369153347"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100870046369153347"
+      ]
+    },
+    {
+      "repo": "fujiwarachoki/moneyprinterv2",
+      "github_url": "https://github.com/fujiwarachoki/moneyprinterv2",
+      "tier": 3,
+      "is_new": true,
+      "score": 187.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TeddyinMedia",
+        "text": "GITHUB IS FULL OF TOOLS FOR GETTING TRAFFIC\n\nWent through hundreds of GitHub repos looking for open-source tools that can actually help with getting and automating traffic.\n\nHere’s what I found worth digging into.\n\n> ALL-IN-ONE\n\n• MoneyPrinterV2\n   https://t.co/U1NtS300Tb\n\nThe au",
+        "likes": 24,
+        "url": "https://x.com/i/status/2100861975743836470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100861975743836470"
+      ]
+    },
+    {
+      "repo": "openai/codex-security",
+      "github_url": "https://github.com/openai/codex-security",
+      "tier": 3,
+      "is_new": true,
+      "score": 183.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nisedo_",
+        "text": "The biggest reduction in false positives we’ve seen in AI auditing came from giving the agent a clear threat model.\n\nPut a THREAT_MODEL.md at the repo root and tell the agents to read it.\n\nCover:\n• What the system does and how it’s deployed\n• What needs protecting\n• Who is truste",
+        "likes": 26,
+        "url": "https://x.com/i/status/2100887302947922055"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100887302947922055"
+      ]
+    },
+    {
+      "repo": "superx-so/superx-agent",
+      "github_url": "https://github.com/superx-so/superx-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 154.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "robj3d3",
+        "text": "And I created a skill for agents called Viral Score Loop.\n\nThe idea is:\n\n> you give your agent a brain dump\n> it drafts, scores, rewrites, and stops when the score peaks or the engine flags reply bait\n\nWorks with Claude Code, OpenClaw or any MCP client!\n\nYour agents can run this ",
+        "likes": 18,
+        "url": "https://x.com/i/status/2100724720677392636"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100724720677392636"
+      ]
+    },
+    {
+      "repo": "getsequence/sequence-agentic",
+      "github_url": "https://github.com/getsequence/sequence-agentic",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GetSequence",
+        "text": "one line drops Sequence into any agent you already build with:\n\nnpx skills add getsequence/sequence-agentic\n\nafter that it reads your balances, moves cash between accounts, and runs the money automations you set. live on . https://t.co/4xo4uLA9jC",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100933513587708411"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100933513587708411"
+      ]
+    },
+    {
+      "repo": "brijr/skills",
+      "github_url": "https://github.com/brijr/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bridgertower",
+        "text": "npx skills add brijr/skills --skill webmcp-implementation",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100932385814827160"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100932385814827160"
+      ]
+    },
+    {
+      "repo": "jaysi88/skill-index",
+      "github_url": "https://github.com/jaysi88/skill-index",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "9/ skill-index\n\nVerified installs only. Not an awesome-list cemetery.\n\nhttps://t.co/eJxKjJgs84\nnpx skills add Jaysi88/skill-index",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872114244849947"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872114244849947"
+      ]
+    },
+    {
+      "repo": "jaysi88/agent-skills",
+      "github_url": "https://github.com/jaysi88/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "8/ agent-skills\n\ngrill-idea → vibe-setup → deslop-web → ship-check\n\nhttps://t.co/0GvLi0STDp\nnpx skills add Jaysi88/agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872113292787833"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872113292787833"
+      ]
+    },
+    {
+      "repo": "jaysi88/agent-armor",
+      "github_url": "https://github.com/jaysi88/agent-armor",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "7/ agent-armor\n\nskill-scan · shell-guard · click-proof · context-diet · bill-cap\n\nhttps://t.co/Apbbynohka\nnpx skills add Jaysi88/agent-armor",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872112470622388"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872112470622388"
+      ]
+    },
+    {
+      "repo": "jaysi88/agent-contract",
+      "github_url": "https://github.com/jaysi88/agent-contract",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "6/ agent-contract\n\nask-first · tool-receipts · safe-cron · scope-lock · source-cite\n\nhttps://t.co/J3M4HFKE3N\nnpx skills add Jaysi88/agent-contract",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872111610847325"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872111610847325"
+      ]
+    },
+    {
+      "repo": "jaysi88/merge-receipts",
+      "github_url": "https://github.com/jaysi88/merge-receipts",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "5/ merge-receipts\n\nNo merge until this change has test, build, and preview receipts.\n\nhttps://t.co/vqptCEsk8s\nnpx skills add Jaysi88/merge-receipts",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872110650384691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872110650384691"
+      ]
+    },
+    {
+      "repo": "jaysi88/deslop",
+      "github_url": "https://github.com/jaysi88/deslop",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "4/ deslop\n\nKill AI-accent copy before the landing page ships.\n\nhttps://t.co/AZwpOA89Cb\nnpx skills add Jaysi88/deslop",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872109832519956"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872109832519956"
+      ]
+    },
+    {
+      "repo": "jaysi88/no-secrets",
+      "github_url": "https://github.com/jaysi88/no-secrets",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "3/ no-secrets\n\nKey names and .env files. Never the values.\n\nhttps://t.co/SkUk6ArgaA\nnpx skills add Jaysi88/no-secrets",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872108821684238"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872108821684238"
+      ]
+    },
+    {
+      "repo": "jaysi88/api-alive",
+      "github_url": "https://github.com/jaysi88/api-alive",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "2/ api-alive\n\npublic-apis is a phone book. This one rings the number.\n\nhttps://t.co/qapGkZ8eUr\nnpx skills add Jaysi88/api-alive",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872107907326107"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872107907326107"
+      ]
+    },
+    {
+      "repo": "jaysi88/ghost-check",
+      "github_url": "https://github.com/jaysi88/ghost-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "1/ ghost-check\n\nPhantom APIs, files, fake tests. The agent does not get to say done.\n\nhttps://t.co/nlvlOfeb3f\nnpx skills add Jaysi88/ghost-check",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100872106883809546"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100872106883809546"
+      ]
+    },
+    {
+      "repo": "eliaalberti/jev-rules",
+      "github_url": "https://github.com/eliaalberti/jev-rules",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliaAlberti",
+        "text": "Two commands inside Claude Code:\n\n/plugin marketplace add EliaAlberti/jev-rules\n/plugin install jev-rules@jev-rules\n\nRepo, docs and the full-quality demo: https://t.co/kFefHnJJSa",
+        "likes": 0,
+        "url": "https://x.com/i/status/2100941053272453583"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100941053272453583"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "modelcontextprotocol/ext-skills",
+      "github_url": "https://github.com/modelcontextprotocol/ext-skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 830.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 195,
+      "total_retweets": 29,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akshay_pachaar",
+        "text": "MCP meets agent skills\n\nMCP already gave agents a standard way to connect to tools, resources, and external systems.\n\nNow it also defines a standard way to discover and load Agent Skills directly from MCP servers.\n\nThe flow is simple:\n\n→ connect to MCP server\n→ discover available",
+        "likes": 195,
+        "url": "https://x.com/i/status/2100659094625636526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100659094625636526"
+      ]
+    },
+    {
+      "repo": "openclaw/agent-skills",
+      "github_url": "https://github.com/openclaw/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AbdelaliAouada",
+        "text": "@MiaAI_lab did you try the \nhttps://t.co/RjrPFRsiC4\nskill ?",
+        "likes": 3,
+        "url": "https://x.com/i/status/2100567191426945481"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2100567191426945481"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2100681875568165335",
+      "author": "adelalmzyad",
+      "text": "🚨خذ الجديد 🚨\n\nأعلنت TradingView عن إطلاق TradingView MCP Server وهو اتصال مباشر وآمن بين حسابك في TradingView مع  Claude أو chatGPT عبر MCP 👍\n\n🟥 يعني الان تقدر تحلل أي سهم عن طريق محادثة مع الذكاء الاصطناعي مع بيانات تاريخيّة ومباشرة ✔️\n\n🔷المميزات : \n🔸جلب الأسعار والبيانات التاري",
+      "likes": 657,
+      "views": 0,
+      "url": "https://x.com/i/status/2100681875568165335",
+      "is_kol": false,
+      "score": 2386.0
+    },
+    {
+      "id": "2100682502344241411",
+      "author": "coinbureau",
+      "text": "💰MONEY: TradingView now lets you connect AI agents to your account through its OFFICIAL MCP server.\n\nYour AI agents can now pull live quotes, price history and fundamentals for crypto and stocks from a single conversation.\n\nWorks with BTCUSDT, ETH, SOL and thousands of CEX pairs ",
+      "likes": 510,
+      "views": 0,
+      "url": "https://x.com/i/status/2100682502344241411",
+      "is_kol": false,
+      "score": 1855.0
+    },
+    {
+      "id": "2100850662678667629",
+      "author": "coinbureau",
+      "text": "Grok Bot now has a DIRECT line into TradingView.\n\nTradingView just launched its official MCP server, enabling AI agents to connect, interact and access Tradingview data.\n\nHere are 10 prompts you NEED try once TradingView is connected to Grok {+ Setup to get started}.\n\nSave this🧵",
+      "likes": 439,
+      "views": 0,
+      "url": "https://x.com/i/status/2100850662678667629",
+      "is_kol": false,
+      "score": 1622.0
+    },
+    {
+      "id": "2100676205955666078",
+      "author": "ciguleva",
+      "text": "Personal update.\n\nQuick context first: NASA, xAI, Nasdaq, SpaceX, OpenAI, Vercel, Lovable… They all go live with Restream. Especially when it’s a big moment.\n\nI’ve joined @Restreamio as Creative Director!\n\nI didn’t post about it sooner because I was busy shipping: a new home for ",
+      "likes": 266,
+      "views": 0,
+      "url": "https://x.com/i/status/2100676205955666078",
+      "is_kol": false,
+      "score": 808.0
+    },
+    {
+      "id": "2100864961501343863",
+      "author": "togechiyo",
+      "text": "MMD_modoki v0.2.4 でたよ🐠\nシルバーウィークの連休にぜひ遊んでみてね\n\n今回の更新\n・多言語UIの翻訳をより自然なものに改善\n・BPMX / BVMD形式に対応\n・複数モデル利用時の安定性を改善\n・たくさんの不具合を修正\n\n実験的機能\n・PBRレンダリング\n・ローカルホストMCP Server\n・外部WGSLシェーダー https://t.co/NkntLqkQVO",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2100864961501343863",
+      "is_kol": false,
+      "score": 486.0
+    },
+    {
+      "id": "2100850736443924763",
+      "author": "peesamac",
+      "text": "Cloudflare เพิ่งเปิดซอร์ส skill ที่เปลี่ยน coding agent ของเราให้กลายเป็นคนตรวจความปลอดภัยโค้ด แจกฟรีบน GitHub ตอนนี้ดาวหมื่นกว่าแล้ว https://t.co/xQYA0Qgx7j",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2100850736443924763",
+      "is_kol": false,
+      "score": 483.0
+    },
+    {
+      "id": "2100842960569155781",
+      "author": "XMonetizationC_",
+      "text": "No CGI. No real actors. No budget.\n\nJust pure AI.\n\nMy take on the Storm Dance challenge with a surreal, synchronized choreography twist. somehow it hits harder than most real music videos.\n\nMade entirely with @Flovaai + the Flova Agent.\n\nSkill: script to video\nSkill link: https:/",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2100842960569155781",
+      "is_kol": false,
+      "score": 469.0
+    },
+    {
+      "id": "2100766045656973685",
+      "author": "shotgun562002",
+      "text": "@wssabrna Try setting up a RAG next time instead of using raw files. Then you could set up a MCP server for the RAG and Claude could interact with that directly. That way it'll have confiedence scores and shit like that to work from.",
+      "likes": 143,
+      "views": 0,
+      "url": "https://x.com/i/status/2100766045656973685",
+      "is_kol": false,
+      "score": 434.0
+    },
+    {
+      "id": "2100911111327613104",
+      "author": "NFT_Chen",
+      "text": "🔥推荐！让 Codex 搭配 Jev 成双王炸，浏览器操作速度提升 5–10 倍！\n\n痛点很简单：Codex 自己点页面时，每一步都要读 DOM、推理、再调工具，来回一卡就是半天。\n\n现在让 Jev 把「点、跳、切、滚」抢走，Codex 只负责想、输入、看图验收。\n\n主要亮点：\n🔹Jev 连续跑动作，Codex 只在需要打字/看图时接手\n🔹少一轮模型往返，就少一截延迟和用量\n\n操作步骤：\n1️⃣准备 Codex（带浏览器/CUA）+ Node.js 22+ + TypeSafe API Key\n\n2️⃣装 Skill：把仓库交给 Codex，或跑 npm",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2100911111327613104",
+      "is_kol": false,
+      "score": 332.0
+    },
+    {
+      "id": "2100685521798435168",
+      "author": "zettelkastten",
+      "text": "25 FREE TOOLS THAT COULD MAKE YOU RICH ON ROBINHOOD CHAIN\n\n$1,491,000,000 OF VOLUME A DAY AND MOST PEOPLE CANNOT EVEN ADD THE NETWORK\nTO THEIR WALLET CORRECTLY\n\nthere is no tooling map for this chain yet. that is why searching for one\nreturns a wall of auto generated sites and a ",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2100685521798435168",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2100895357672837153",
+      "author": "coreyganim",
+      "text": "Huge hack if you build Claude skills for clients:\n\nDon't spend the whole call watching them click through a process. Have them record a Loom before the call.\n\n-Client records one Loom walking through the process\n-Download the video, upload it to Gemini\n-Prompt: \"Write a step-by-s",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2100895357672837153",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2100921758413168676",
+      "author": "luqman_talks",
+      "text": "This YouTuber just dropped a 🔥 full AI video-editing workflow using Descript + a custom Claude skill.\n\nHe spent 10 hours fine-tuning it so Claude can handle:\n→ Smart cuts + retake removal\n→ Animations, zooms + B-roll\n→ Captions, music + follow-head tracking\n\nHe turned 18 raw shor",
+      "likes": 27,
+      "views": 0,
+      "url": "https://x.com/i/status/2100921758413168676",
+      "is_kol": false,
+      "score": 191.0
+    },
+    {
+      "id": "2100638698429636954",
+      "author": "Clawnch_Bot",
+      "text": "The moment you've been waiting for is here: Clawnch is now live on Robinhood Chain. 🪽\n\nA meta-launchpad for one kind of user: AI agents. Agents launch tokens, earn the trading fees, and pay for their own inference. Powerful extensions for Hermes and OpenClaw allow for open-ended ",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2100638698429636954",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2100646098528252255",
+      "author": "therealdanvega",
+      "text": "8 months. 309 commits. 80,000+ lines of code. I built the Spring Boot app that runs my whole channel, and now Claude runs it too through its MCP server. Here's the full story.\n\nhttps://t.co/b1CQ0FFbsv",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2100646098528252255",
+      "is_kol": false,
+      "score": 174.0
+    },
+    {
+      "id": "2100661095685915041",
+      "author": "codyschneider",
+      "text": "new podcast live\n\nyou'll learn \n\nhow to send 250,000 linkedin DMs per month\n\nUse open profiles to skip the $130-per-InMail credit cost\n\nFind open profiles with Apify\n\nStack Sales Nav licenses: 600–800 InMails each\n\nBuy Sales Nav licenses on Fiverr for about 5x less\n\nTarget people",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2100661095685915041",
+      "is_kol": false,
+      "score": 156.0
+    },
+    {
+      "id": "2100863427908628881",
+      "author": "mixailab",
+      "text": "Codex直出，开源一个手绘风视频Skill，让长文一键转视频！",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2100863427908628881",
+      "is_kol": false,
+      "score": 129.0
+    }
+  ]
+}

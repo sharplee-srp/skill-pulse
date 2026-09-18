@@ -7190,5 +7190,81 @@
   "unity-technologies/unity-agent-plugin": {
     "first_seen": "2026-09-17",
     "tier": 3
+  },
+  "typesafe-ai/skills": {
+    "first_seen": "2026-09-18",
+    "tier": 1
+  },
+  "cloudflare/agentic-inbox": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "google/artemis": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "keetanetwork/agent-skills": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "fujiwarachoki/moneyprinterv2": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "openai/codex-security": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "superx-so/superx-agent": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "getsequence/sequence-agentic": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "brijr/skills": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/skill-index": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/agent-skills": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/agent-armor": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/agent-contract": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/merge-receipts": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/deslop": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/no-secrets": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/api-alive": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "jaysi88/ghost-check": {
+    "first_seen": "2026-09-18",
+    "tier": 3
+  },
+  "eliaalberti/jev-rules": {
+    "first_seen": "2026-09-18",
+    "tier": 3
   }
 }
