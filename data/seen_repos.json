@@ -7266,5 +7266,37 @@
   "eliaalberti/jev-rules": {
     "first_seen": "2026-09-18",
     "tier": 3
+  },
+  "joeseesun/qiaomu-download": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "fission-ai/openspec": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "win4r/jev-security-scan": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "kannishk/brand-strategist": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "antoniocoppe/jev-harness": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "tamaratran/fast-jev-compaction": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "ndpvt-web/latex-document-skill": {
+    "first_seen": "2026-09-19",
+    "tier": 3
+  },
+  "nonillo/gitlab-flow": {
+    "first_seen": "2026-09-19",
+    "tier": 3
   }
 }

@@ -1,0 +1,593 @@
+{
+  "date": "2026-09-19",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 160,
+    "tweets_with_repos": 26,
+    "unique_repos": 18,
+    "new_repos": 8,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-download",
+      "github_url": "https://github.com/joeseesun/qiaomu-download",
+      "tier": 3,
+      "is_new": true,
+      "score": 400.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "全能下载Skill，几乎支持所有平台视频下载，甚至视频号。\n\n安装指令： npx skills add joeseesun/qiaomu-download\n\n核心还是yt-dlp和原来分享的视频号下载skill。\n\n自动检查更新，打包在一起就不用装多个Skill了。\n\n开源地址见评论区 https://t.co/enEQtEPkqV",
+        "likes": 75,
+        "url": "https://x.com/i/status/2101265049885254054"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101265049885254054"
+      ]
+    },
+    {
+      "repo": "fission-ai/openspec",
+      "github_url": "https://github.com/fission-ai/openspec",
+      "tier": 3,
+      "is_new": true,
+      "score": 151.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xZenad",
+        "text": "STOP F***ING CHASING THE NEXT MODEL  \n\nyour workflow is probably the bottleneck  \n\n10 repos I'd fix first:\n\n1) OpenSpec\n\nFor features that keep drifting away from what you originally asked for.\n\nYou define the proposal, specs, design and tasks first, then let the coding agent imp",
+        "likes": 17,
+        "url": "https://x.com/i/status/2101252294234829250"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101252294234829250"
+      ]
+    },
+    {
+      "repo": "win4r/jev-security-scan",
+      "github_url": "https://github.com/win4r/jev-security-scan",
+      "tier": 3,
+      "is_new": true,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AISuperDomain",
+        "text": "随便跑来源不明的 Agent Skill 和 MCP 配置，等同于在本地裸奔。如何在安装前，安全审查它们有没有偷走凭据？\n\n开源新工具 jev-security-scan 提供了「零执行」的审查方案。它结合本地静态检查与 TypeSafe Jev，在不启动服务、不安装依赖的情况下，提前扫出代码里的隐蔽行为。\n\n主要特性：\n• 拒绝“下载即中招”：只读取目标文本、配置和脚本，完全不执行目标代码，从根本上防止触发恶意安装钩子。\n• 精准抓取证据：若发现窃取 SSH 私钥、提示词注入或越权外传，会直接输出具体文件、行号与脱敏后的代码段。\n• 极简无依赖：仅依赖",
+        "likes": 4,
+        "url": "https://x.com/i/status/2101269589715746833"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101269589715746833"
+      ]
+    },
+    {
+      "repo": "kannishk/brand-strategist",
+      "github_url": "https://github.com/kannishk/brand-strategist",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_kannishk",
+        "text": "I wanted to make BETTER ads, but kept struggling to explain my customers and market.\n\nSo I built AI Brand Strategist: a skill that gives AI that context and turns it into clearer messages and ad ideas.\n\n` npx skills add kannishk/brand-strategist ` https://t.co/TSGUy6cYID",
+        "likes": 1,
+        "url": "https://x.com/i/status/2101288629536780359"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101288629536780359"
+      ]
+    },
+    {
+      "repo": "antoniocoppe/jev-harness",
+      "github_url": "https://github.com/antoniocoppe/jev-harness",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Antoniocoppe",
+        "text": "@steipete measured OpenClaw-style hot paths: Claude Code CLI vs jev-harness (TypeSafe Jev).\n\nSame decision shapes OpenClaw hits constantly.\n\nrow filter: 48.9s → 1.3s (38.9x)\nshell allow/deny/ask: 5.4s → 1.2s (4.5x)\ntool/skill pick: 5.7s → 1.1s (5.4x)\nmodel route: 6.4s → 0.9s (7.0",
+        "likes": 1,
+        "url": "https://x.com/i/status/2101003534917419275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101003534917419275"
+      ]
+    },
+    {
+      "repo": "tamaratran/fast-jev-compaction",
+      "github_url": "https://github.com/tamaratran/fast-jev-compaction",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LLMpsycho",
+        "text": "fast-jev-compaction is a Claude Code plugin that swaps lossy compaction summaries for Jev keep or drop decisions. Tool calls stay verbatim when they still matter. 3,763 stars.\n\nhttps://t.co/oyqd4IFLwa",
+        "likes": 1,
+        "url": "https://x.com/i/status/2101283057093259412"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101283057093259412"
+      ]
+    },
+    {
+      "repo": "ndpvt-web/latex-document-skill",
+      "github_url": "https://github.com/ndpvt-web/latex-document-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gitrepos",
+        "text": "latex-document-skill  ⭐ 760\n\nA Claude Code skill that turns handwritten notes and plain English into publication-ready LaTeX documents for developers and researchers.\n\n🔗 https://t.co/SOh4d9Fuz3 https://t.co/zdQiBtnk6I",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101295421255504226"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101295421255504226"
+      ]
+    },
+    {
+      "repo": "nonillo/gitlab-flow",
+      "github_url": "https://github.com/nonillo/gitlab-flow",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NonoFerPe",
+        "text": "Tired of repeating the same GitLab workflow?\n\nI built gitlab-flow, an open-source Claude Code plugin that creates the branch, writes the commit, pushes the changes and opens the merge request — with one prompt. 🚀\n\nhttps://t.co/3V0ZfZcTyY\n\n#ClaudeCode #GitLab #OpenSource https://t",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101253859729449416"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101253859729449416"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 961.0,
+      "mention_count": 9,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "painn_x",
+        "text": "jev is insane!!😳\n\ni've been using it for the past 6 hours and heres how i would recommend to use it to 100x your workflow.\n\nquick context: jev is a model that can't write text. it only decides. you send it state and questions, it answers all of them in one pass, 70-500ms, and out",
+        "likes": 15,
+        "url": "https://x.com/i/status/2101267168813789553"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101293482862051410",
+        "https://x.com/i/status/2101295580513521968",
+        "https://x.com/i/status/2101278043591635217",
+        "https://x.com/i/status/2101267168813789553",
+        "https://x.com/i/status/2101249940609724874",
+        "https://x.com/i/status/2101277573368168544",
+        "https://x.com/i/status/2101244134975562083",
+        "https://x.com/i/status/2101239736887058591",
+        "https://x.com/i/status/2101141382882898058"
+      ]
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "github_url": "https://github.com/public-apis/public-apis",
+      "tier": 2,
+      "is_new": false,
+      "score": 708.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 146,
+      "total_retweets": 34,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_AM_AYASHA",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/0HpB11QgZj\n\n2. public-apis — free APIs for everything\n→ https://t.co/P7Y21BwUJO\n\n3. build-your-own-x — learn by building\n→ https://t.co/hzcnO6H7HO\n\n4. developer-roadmap — learn any tech skill\n→ https://t.c",
+        "likes": 146,
+        "url": "https://x.com/i/status/2101103823955624042"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101103823955624042"
+      ]
+    },
+    {
+      "repo": "panniantong/agent-reach",
+      "github_url": "https://github.com/panniantong/agent-reach",
+      "tier": 3,
+      "is_new": false,
+      "score": 347.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "THIS IS PURE TREASURE FOR ANYONE BUILDING AI AGENTS.\n\n20 OPEN-SOURCE AI AGENT SKILLS WITH *776K+ COMBINED GITHUB STARS* THAT COVER RESEARCH, ENGINEERING, CREATION AND DISTRIBUTION:\n\n*RESEARCH*\n\n 1.⁠ ⁠Agent-Reach — ⁠ https://t.co/SwmHlIvLFc ⁠\n 2.⁠ ⁠Last30Days — ⁠ https://t.co/bN6Q",
+        "likes": 74,
+        "url": "https://x.com/i/status/2101223518570488027"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101223518570488027"
+      ]
+    },
+    {
+      "repo": "withastro/flue",
+      "github_url": "https://github.com/withastro/flue",
+      "tier": 3,
+      "is_new": false,
+      "score": 249.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "matthewcp",
+        "text": "Flue 2.1 is out, coming at you:\n\n• Per-tool timeouts\n• MCP tool annotations\n• Configurable trace content budgets\n• React `sendMessage()` now supports idempotency and returns an admission receipt\n\nChangelogs: https://t.co/mSJJA6R39M",
+        "likes": 38,
+        "url": "https://x.com/i/status/2101060880045621576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101060880045621576"
+      ]
+    },
+    {
+      "repo": "titanwings/distilly",
+      "github_url": "https://github.com/titanwings/distilly",
+      "tier": 3,
+      "is_new": false,
+      "score": 156.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TiagerBao",
+        "text": "如果把一个人的工作习惯和判断方式，直接变成 AI 能调用的 Skill，会怎么样？\n\nDistilly 做的就是这件事。\n\n它会把聊天记录、文档、访谈、公开内容等资料整理成一个 Person Profile，再打包成 Agent Skill。\n\n现在主要支持 3 类：\n\n• Colleague：提取工作流程、技术标准、决策习惯、表达方式\n\n• Relationship：整理表达模式、情绪触发点、冲突和修复方式\n\n• Celebrity：通过作品、访谈、决策记录等资料整理人物的思维模型和表达特征\n\n比较关键的是，它不是一次生成完就结束。\n新增资料后可以继续",
+        "likes": 17,
+        "url": "https://x.com/i/status/2101068625364787702"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101068625364787702"
+      ]
+    },
+    {
+      "repo": "blader/humanizer",
+      "github_url": "https://github.com/blader/humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 152.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ftcarpe",
+        "text": "instalé una skill en Claude que reescribe cualquier texto generado con IA para que suene más humanizado. \n\n→ su nombre es Humanizer, respeta el código y los datos, lo único que hace es modificar la prosa.\n\nuna herramienta 100% GRATIS que solo tienes que descargar en GitHub e inst",
+        "likes": 14,
+        "url": "https://x.com/i/status/2101291779987517631"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101291779987517631"
+      ]
+    },
+    {
+      "repo": "superx-so/superx-agent",
+      "github_url": "https://github.com/superx-so/superx-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 144.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "robj3d3",
+        "text": "And there's a skill for agents called \"Worth a Reply\"\n\n> give your agent a niche\n> it reads the last 3 days of posts, drops the bait and the plugs\n> hands you the ones worth replying to, with an angle for each\n\nWorks with Claude Code, OpenClaw or any MCP client.\n\nNothing is sent.",
+        "likes": 13,
+        "url": "https://x.com/i/status/2101076626184474789"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101076626184474789"
+      ]
+    },
+    {
+      "repo": "alexzio00/sovereign-skills",
+      "github_url": "https://github.com/alexzio00/sovereign-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 122.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AlexZio00",
+        "text": "sovereign-skills v6.5.12 — 20 Claude Code skills for the whole project lifecycle, from setup to governance.\n\nNew: the adoption gate now vets plugin hooks &amp; MCP tool descriptions; handoffs tag what was verified vs. only discussed.\n\nMIT · Codex-compatible\nhttps://t.co/JijDMFrv7",
+        "likes": 4,
+        "url": "https://x.com/i/status/2101263025529614773"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101263025529614773"
+      ]
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "github_url": "https://github.com/hypit-ai/hypit",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joshesye",
+        "text": "卧槽，Hypit 这次确实有点意思。\n\n把它接进 Codex，丢一条参考视频过去，再说一句“帮我 Clone”，它就能把原片拆成可编辑的视频工程。\n\n人物能换、服装能换、色卡能换。\n\n原片的构图、镜头节奏、字幕、转场和画面层级，会尽量保留下来。\n\n我这次用 Codex 跑了 Hypit，复刻了两条短视频。\n\n一个是「豆包帮我清理桌面」的场景创意 @Yanhua，一个是 @陶阿狗君 的旅行变装。\n\n它先把视频拆成一个可编辑的 workflow。\n\n谁在说话、哪一段用什么图、字幕怎么排、画面怎么动，都变成工程里的零件。\n\n流程很简单：\n\n1、给 Codex ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101290609717678424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101290609717678424"
+      ]
+    },
+    {
+      "repo": "eliaalberti/jev-rules",
+      "github_url": "https://github.com/eliaalberti/jev-rules",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EliaAlberti",
+        "text": "This happened to me yesterday, and the branch held. I run Jev in front of Claude Code: jev-rules asks it which of my project rules apply to each prompt. In one batch of eight real calls, one ran past my 2 second budget. The plugin stopped waiting and passed every rule through, wi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101260884119068799"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101260884119068799"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2100984663884042445",
+      "author": "charliejhills",
+      "text": "Anthropic just published how Claude Code bills you.\n\n21 ways to cut it (I had four of them wrong):\n\nNothing is stored on their side between turns.\n\nEvery turn re-sends the whole thread, so turn 40 pays to re-read the 39 in front of it. Your message is the smallest thing in there.",
+      "likes": 200,
+      "views": 0,
+      "url": "https://x.com/i/status/2100984663884042445",
+      "is_kol": false,
+      "score": 815.0
+    },
+    {
+      "id": "2100990473083232633",
+      "author": "steipete",
+      "text": "gog has an mcp server now! https://t.co/RNMBiqoE6k",
+      "likes": 217,
+      "views": 0,
+      "url": "https://x.com/i/status/2100990473083232633",
+      "is_kol": true,
+      "score": 686.0
+    },
+    {
+      "id": "2101206857310413179",
+      "author": "Suu766",
+      "text": "发现很多大学生翻墙以后，最熟练的还是刷 X、YouTube、看片？？？\n\n都已经能接触到墙外这么多东西了，结果用法还是停在娱乐\n\n其实会翻墙真的不算什么，会用互联网才算\n\n你能搜到什么信息，找到什么人，接触到什么机会，最后差距全在这些地方\n\n如果大学重新读一次，我会在大一就把这 10 个互联网能力补起来：\n\n1. 搜索\n\nGoogle、X 高级搜索、GitHub 搜索，都早点学会\n\n会搜的人，很多问题自己十分钟就能翻出来，不用到处等别人喂答案\n\n2. AI\n\n别只拿 Ai 写作业\n\n查资料、学新东西、理思路、改表达、读文档，甚至单纯陪你聊一个想法，都能用",
+      "likes": 169,
+      "views": 0,
+      "url": "https://x.com/i/status/2101206857310413179",
+      "is_kol": false,
+      "score": 547.0
+    },
+    {
+      "id": "2101114373313888734",
+      "author": "SadCreatorTalks",
+      "text": "Google Home is an MCP server now. Claude, OpenClaw, whatever agent you run can read Nest cams and flick Matter lights. They blocked door unlocks, which is the line that made me believe this shipped.\n\nCatch: Cloud project + OAuth before your fridge will talk to Claude. Classic.",
+      "likes": 123,
+      "views": 0,
+      "url": "https://x.com/i/status/2101114373313888734",
+      "is_kol": false,
+      "score": 479.0
+    },
+    {
+      "id": "2101184144755524001",
+      "author": "ChadoOfWeb3",
+      "text": "DeFi still feels too fragmented.\n\nYour assets are on one chain, the opportunity is on another, and moving liquidity around becomes a task of its own.\n\nThis is where @peridotprotocol caught my attention.\n\nPeridot is building what it calls a DeFi broker, giving users one account to",
+      "likes": 104,
+      "views": 0,
+      "url": "https://x.com/i/status/2101184144755524001",
+      "is_kol": false,
+      "score": 372.0
+    },
+    {
+      "id": "2101263279687336116",
+      "author": "Defi_Edward",
+      "text": "Every major agent integration shipping right now follows the same sequence: \n\nShip read access broadly and quietly, keep execution access gated and separate. \n\n@tradingview's mcp server fits the pattern exactly, live data to any mcp-compatible model, no api keys, but trade execut",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2101263279687336116",
+      "is_kol": false,
+      "score": 254.0
+    },
+    {
+      "id": "2101255803369820212",
+      "author": "bardia_heydari",
+      "text": "نمیدونم ستاپ Coding Agent شما چطوریه ولی من الان نگاه کردم کانتکستمو 9K توکن برای تعریف tool ها رفته 5.2K برای Skills و 3.2K برای MCP ها و 1K برای Agent ها\nاین یعنی من بگم سلام 20K توکن سوخته.\nتکنولوژی ای شبیه Jev این ۲۰هزار توکن رو عملا مجانی میکنه. بماند که چقدر سرعت بیشتر میشه",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2101255803369820212",
+      "is_kol": false,
+      "score": 252.0
+    },
+    {
+      "id": "2101196837936140743",
+      "author": "XFreeze",
+      "text": "Grok Build just got another useful quality-of-life upgrade across prompts, images, permissions, and tool calling\n\nLong agent replies in prompt-suggestion transcripts now stay intact instead of getting cut off mid-sentence, pasted images survive yank/undo/history recall, and deplo",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2101196837936140743",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2101250074106016229",
+      "author": "0xKeng",
+      "text": "The next breakthrough in AI might not be a smarter model @termix_ai\n\nIt might be giving AI a way to work\nThink about it\n\nAn agent can have intelligence.\nAnother can have a specialized skill.\nAnother can find opportunities.\nAnother can verify the output.\nBut without coordination, ",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2101250074106016229",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2101149098879439144",
+      "author": "DenaliTrades",
+      "text": "This is just the inspiration I needed. When God sends me a signal I listen. Did I ever tell you about the time I won first place in the science fair ? I already had ideas for a flow tool and oh how I love a good challenge! Let the games begin!\n\nBuild anything on the Unusual Whale",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2101149098879439144",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2101227334162592118",
+      "author": "aaliya_va",
+      "text": "Your AI skills can become something people actually pay for.\n\nAITOPIA @AITOPIAai Agent Builder lets you create an AI agent without coding, list it on their marketplace, and keep 70% of the revenue from your sales.\n\nBuild an agent around a skill or workflow you know, put it out th",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2101227334162592118",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2101004382355738697",
+      "author": "amankk_9",
+      "text": "Build your first MCP server in Python and start connecting AI models to real tools and data.\nhttps://t.co/UpXALGwy2L",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2101004382355738697",
+      "is_kol": false,
+      "score": 181.0
+    },
+    {
+      "id": "2101281616827965551",
+      "author": "PHAZE_001",
+      "text": "COPY TRADING VS MINTING: SAME ENGINE, DIFFERENT EXPERIENCE\n\nI think the interesting part about @mossai_official isn’t simply that you can copy a strategy.\n\nIt’s what happens when that strategy moves from something you run into something you can interact with onchain.\n\nWith Hyperl",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2101281616827965551",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2101066735067529652",
+      "author": "sebastienlorber",
+      "text": "💡 Safari 27 - new MCP server\n\nIt's out of beta now, letting your agent control one more browser\n\nIt can probably be useful to test your code changes across multiple browsers as part of your dev harness https://t.co/LnBtVlZJAP",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2101066735067529652",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2101188790828294219",
+      "author": "aakashgupta",
+      "text": "Anthropic just adopted OpenAI's standard, a year after refusing the most-requested feature in Claude Code's repo. OpenAI already runs its agents on Anthropic's protocol. AI's two biggest rivals each won exactly one standards war, and both wars were decided by the same force. It w",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2101188790828294219",
+      "is_kol": false,
+      "score": 155.0
+    },
+    {
+      "id": "2100992269520113846",
+      "author": "0xbobaaa",
+      "text": "I SCANNED ALL 424 MCP SERVERS ON GITHUB FOR A PULSE. 154 OF THEM ARE DEAD\n\ndead meaning: nobody has pushed a commit in 90 days. they still install fine. your agent still calls them\n\nthe biggest corpses, with their last commit:\n\n> mcp-chrome, 12,429 stars, 254 days\n> fastapi_mcp, ",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2100992269520113846",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2101239858177929727",
+      "author": "cipherr_exe",
+      "text": "COURSE BELAJAR AI AGENT BERSERTIFIKASI GRATIS!!!!\n\nBingung mau belajar AI Agent tapi mulainya dari mana??\n\nJadi gua mau kenalin sama @hacktiv8id  yang merupakan bootcamp yang fokus ke keterampilan digital, dan mereka lagi ngadain IBM Skillsbuild University Education dimana kalian",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2101239858177929727",
+      "is_kol": false,
+      "score": 151.0
+    },
+    {
+      "id": "2101257168951632075",
+      "author": "hasantoxr",
+      "text": "This is the best open source alternative to ElevenLabs and WisprFlow that you can runs 100% on your own machine\n\nClone any voice from a few seconds of audio. Generate speech across 23 languages using 7 different TTS engines. Dictate into any app on your computer with a global hot",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2101257168951632075",
+      "is_kol": false,
+      "score": 151.0
+    },
+    {
+      "id": "2101026981957521552",
+      "author": "DanKornas",
+      "text": "Stop rebuilding your LLM Wiki reading list from scattered tabs.\n\nAwesome LLM Wiki is a curated GitHub index of blueprints, frameworks, and technical guides for builders working on AI-compiled knowledge bases.\n\nIt helps you move from the core idea to implementation resources by gr",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2101026981957521552",
+      "is_kol": false,
+      "score": 150.0
+    }
+  ]
+}
