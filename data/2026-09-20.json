@@ -1,0 +1,590 @@
+{
+  "date": "2026-09-20",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 23,
+    "unique_repos": 19,
+    "new_repos": 10,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "cloudflare/mcp-server-cloudflare",
+      "github_url": "https://github.com/cloudflare/mcp-server-cloudflare",
+      "tier": 2,
+      "is_new": true,
+      "score": 961.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 257,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "miyataArcHack",
+        "text": "MCPサーバー＝自分で建てるもの、はもう古い。\n\nCloudflare公式のMCPサーバーは製品別に16個ホスト済みで、URLを貼るだけ。DNS設定やログをチャットでAIに見せられる。\n\n一部機能は有料プランが必要。\nhttps://t.co/apn5kalIQF",
+        "likes": 257,
+        "url": "https://x.com/i/status/2101299160616148995"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101299160616148995"
+      ]
+    },
+    {
+      "repo": "burnigtm/jev-mcp",
+      "github_url": "https://github.com/burnigtm/jev-mcp",
+      "tier": 2,
+      "is_new": true,
+      "score": 725.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 185,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ強い、MCPで\nAIエージェントの判断だけ\nJevに切り出せる。\n\njev-mcpはCursor/Codexに\n9個の判断toolを足すサーバー。\n\n使い所:\n\n・patchレビュー\n・主張の検証\n・候補のrank\n\nAPI key必須。\nmock modeはdemo用。\n\nhttps://t.co/APXTzenAX3",
+        "likes": 185,
+        "url": "https://x.com/i/status/2101434790885142600"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101434790885142600"
+      ]
+    },
+    {
+      "repo": "fanzr-arch/numerologist_skills",
+      "github_url": "https://github.com/fanzr-arch/numerologist_skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 394.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 78,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yangordi",
+        "text": "好家伙，AI 现在连玄学都开始搞 Skill 化了。\n\n有人把八字、姻缘、风水、塔罗、六爻这些老祖宗的玩法，统统打包塞进 Claude Code / Codex，甚至还接上了古籍知识库，让 AI 别再张口瞎编。\n\n1、奇门遁甲 + 紫微斗数\nhttps://t.co/5JZ7g18rLM\n2、八字命理 / 赛博算命\nhttps://t.co/jgQmj91pPc\n\n3、月老 / 姻缘测算\nhttps://t.co/XPIKDYVSL8\n4、佛学典籍学习\nhttps://t.co/72ctJAa3TX\n\n5、易经风水 / 阳宅分析\nhttps://t.co",
+        "likes": 78,
+        "url": "https://x.com/i/status/2101567283764060565"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101567283764060565"
+      ]
+    },
+    {
+      "repo": "appitstudio/awesome-jev",
+      "github_url": "https://github.com/appitstudio/awesome-jev",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Zyvex_0x",
+        "text": "Computer use agents pay an LLM for every click.\n\nnpx skills add AppitStudio/awesome-jev --skill awesome-jev-guide\n\nJev is a System One model. You hand it the current state and a typed question, it returns the choices with scores and probabilities, and your code reads them directl",
+        "likes": 3,
+        "url": "https://x.com/i/status/2101613803343364594"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101613803343364594"
+      ]
+    },
+    {
+      "repo": "realtwin/studiotwin-mcp-skill",
+      "github_url": "https://github.com/realtwin/studiotwin-mcp-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RealTwinStudios",
+        "text": "Building with an AI agent? Start with the StudioTwin skill \n\n👉 npx skills add realtwin/studiotwin-mcp-skill\n\nThen ask your agent to help you get started.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2101614916905898120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101614916905898120"
+      ]
+    },
+    {
+      "repo": "jpeslar1/john-peslar-ai-skills",
+      "github_url": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "johnwhereareu",
+        "text": "I shipped a Fable 5.1 Skills Library you can own. Strategy, outbound, offers, content, AI workflows. One install.\n\nnpx skills add jpeslar1/john-peslar-ai-skills --all --global\n\nOr the repo:\n\nReply LIBRARY and I will send the pack. https://t.co/c2gvWB90TT",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101631220664734059"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101631220664734059"
+      ]
+    },
+    {
+      "repo": "elithrar/dotfiles",
+      "github_url": "https://github.com/elithrar/dotfiles",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "elithrar",
+        "text": "to install it, run the below command, or just give the repo link to your agent and tell it to install the skill.\n\n$ npx skills add elithrar/dotfiles --skill wow-addon-development",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101608313087504417"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101608313087504417"
+      ]
+    },
+    {
+      "repo": "1ststepai/auto-model-router",
+      "github_url": "https://github.com/1ststepai/auto-model-router",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "1ststepai",
+        "text": "Open-sourced auto-model-router — a portable skill so Cursor, Claude, and Codex pick the lightest model that can still do the job.\n\nFlow: context → classify → suggest → you confirm → run.\n\nSilent Auto is everywhere. Transparent Auto you can install in every project is rarer.\n\nhttp",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101660333907566809"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101660333907566809"
+      ]
+    },
+    {
+      "repo": "jedliuai/vps-proxy-skill",
+      "github_url": "https://github.com/jedliuai/vps-proxy-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jedliu88",
+        "text": "@ygkkkg 我都是直接用skill帮我搭建VPN节点，我唯一需要做的只是把Codex连上我的VPS的SSH，后面Codex全部给我代劳了，啥都不用懂不用学，哈哈：https://t.co/QufjRzOtvy",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101659571073040413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101659571073040413"
+      ]
+    },
+    {
+      "repo": "kerpopule/hermes-jev-skills",
+      "github_url": "https://github.com/kerpopule/hermes-jev-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Trorram",
+        "text": "Seu agente não precisa de um modelo maior. Precisa de decisões mais rápidas.\n\nA maioria dos tokens caros de um agente vai em pequenas decisões que não são pensar: qual modelo responde este turno, qual skill carregar entre 377, quais passagens valem ler, quais turnos sobrevivem ao",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101649204166709277"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101649204166709277"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 1045.0,
+      "mention_count": 5,
+      "kol_mentions": [],
+      "total_likes": 165,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shadouyoua",
+        "text": "昨天申请的jev，今天就已经通过了，这效率还是可以的\n\n如何使用：\n1、打开codex，叫它 “安装npx skills add typesafe-ai/skills –skill typesafe-ai”\n2、在 jev 官网创建一个 APIKEY\n3、配置密钥：export TYPESAFE_API_KEY=\"你的 API Key\"\n4、在codex里直接使用：\n用 typesafe-ai 帮我设计一个客服工单自动分流系统，使用 Python，输出可运行代码和测试样例。",
+        "likes": 70,
+        "url": "https://x.com/i/status/2101490613069783148"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101638849848102970",
+        "https://x.com/i/status/2101502538503889273",
+        "https://x.com/i/status/2101490613069783148",
+        "https://x.com/i/status/2101469768603644397",
+        "https://x.com/i/status/2101429233079697873"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 1817.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 499,
+      "total_retweets": 44,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pengchujin",
+        "text": "最近做 APP 一直在用一个 Skill 叫 Apple Design，将 Apple WWDC 设计分享中的界面与动效原则整理成指导，帮助改善界面层级、反馈和整体连贯性。实践效果非常好，简单克制、很有苹果原生 App 的味道。\n\n作者Emil Kowalski 之前在 Vercel 现在是 Linear 的设计师，Apple Design 是他整理的一组 AI Agent Skills 其中的一个，目的是让 AI 做界面时更有“设计品味”，尤其是动画选择、交互细节和视觉打磨。除了 Apple Design 还有好几个都很实用，项目GitHub Star",
+        "likes": 499,
+        "url": "https://x.com/i/status/2101578929786228924"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101578929786228924"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Alex_AI96",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/MQsyeBUBJO\n\n2. public-apis — free APIs for everything\n→ https://t.co/xAf3hZXTXB…\n\n3. build-your-own-x — learn by building\n→ https://t.co/Xna2qPHYC0…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 21,
+        "url": "https://x.com/i/status/2101440117928059382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101440117928059382"
+      ]
+    },
+    {
+      "repo": "tencent/browserskill",
+      "github_url": "https://github.com/tencent/browserskill",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yibie",
+        "text": "腾讯开源了 BrowserSkill：让 agent 用你已经登录的真实浏览器，同时在独立的 Agent Window 里干活——不抢你的窗口，需要碰你已打开的标签页时必须显式借用、用完归还。\n\n地址：https://t.co/aLGh3MYkXp\n\n几点值得看的设计：\n\n它不绑定任何 agent。任何能调 shell 的 harness 都能通过 bsk CLI 用它——Cursor、Claude Code、Codex、OpenClaw、CodeBuddy、WorkBuddy、Pi、Hermes Agent 都在支持列表里。路径是：agent 发 bs",
+        "likes": 10,
+        "url": "https://x.com/i/status/2101501341877105026"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101501341877105026"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitTrend0x",
+        "text": "今日爆款 Skills🔥 \n\n1️⃣ Tencent/BrowserSkill（https://t.co/ONvxoloPu4）\n\n腾讯出品：让任意能跑 shell 的 Agent 使用你已经登录的真浏览器，Agent 窗口单独干活，验证码 / 弹窗可人工接力。今日热榜 +1306。\ncurl -fsSL https://t.co/d18UoQW6Nw | sh\n“浏览器第一次是 Agent 的手，而且用的是你自己的 Cookie，而不是再开一只失忆的无头浏览器”！\n\n2️⃣ trailofbits/skills（https://t.co/r3hunBU",
+        "likes": 2,
+        "url": "https://x.com/i/status/2101632254669906251"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101632254669906251"
+      ]
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "有一套开源 AI 工程课，仓库名 From Scratch。\n\n2026.09 版写 523 课、20 个阶段、大约 342 小时，MIT。路子是先自己推反向传播、写分词、搭注意力，再用现成库把同一批概念做一遍。\n\n课结构统一：问题、概念、造、用、发布。可用 npx skills add rohitg00/ai-engineering-from-scratch，让 Claude Code、Cursor、Codex 按 start-learning 摸底再往下讲。\n\n注意：另有一份按公开大纲整理的 Claude 认证备考，不是官方授权班。不必从第 0 课看",
+        "likes": 2,
+        "url": "https://x.com/i/status/2101454540499509369"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101454540499509369"
+      ]
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "github_url": "https://github.com/ayghri/i-have-adhd",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Chivosic",
+        "text": "最近看到一个很有意思的 Coding Agent Skill：\n\nayghri/i-have-adhd\nhttps://t.co/z7JRAPHAoH\n\n它解决的问题很简单：\n\n很多 Coding Agent 明明已经知道答案，却特别喜欢先写一大段背景、总结和解释，真正需要你执行的那一句话反而埋在最后。\n\ni-have-adhd 做的，就是给 Agent 加一套“输出纪律”。\n\n安装也很简单，例如：\n\nnpx skills add ayghri/i-have-adhd -g\n\n然后重新开一个 Agent 会话，输入：\n\n/i-have-adhd\n\n就可以",
+        "likes": 2,
+        "url": "https://x.com/i/status/2101619960271520252"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101619960271520252"
+      ]
+    },
+    {
+      "repo": "jaysi88/agent-skills",
+      "github_url": "https://github.com/jaysi88/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JayTun5",
+        "text": "Shipped a free skill on CodeHub + GitHub:\n\nAgent Team Starter — one job, one thin loop, draft-before-send. No org-chart theater.\n\n→ https://t.co/jUlzAtYDDX\n\nInstall:\nnpx skills add Jaysi88/agent-skills --skill agent-team-starter\n\nPublic receipts on https://t.co/0GvLi0TrsX",
+        "likes": 1,
+        "url": "https://x.com/i/status/2101654620716327032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101654620716327032"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LaurentJehanno",
+        "text": "剪辑最需要装的5大SKILL（全部2k+星，刚核过）：\n\n1）Auto-Editor ★5280\nhttps://t.co/oeNAOLsTOy\n删静音、做字幕、粗剪；还能导出 Premiere / Resolve / Final Cut 时间线。自带官方 Skills。\n\n2）Remotion Skills ★4666\nhttps://t.co/OuO9VE5NJz\nnpx skills add remotion-dev/skills\n官方 Agent Skill：动效、字幕、渲染成片，Cursor / Claude / Codex 直接会写。\n\n3）",
+        "likes": 0,
+        "url": "https://x.com/i/status/2101662034030985579"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2101662034030985579"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2101340060931203351",
+      "author": "charliejhills",
+      "text": "Your Claude Code install is missing a few things.\n\nHere are 40 additions (grouped by what they do):\n\nI've hoarded over a hundred Claude repos this year.\n\nThese cover workflows, skills, memory and tools, plus reference libraries worth keeping open.\n\nBUILD A WORKFLOW\n\n1. learn-clau",
+      "likes": 396,
+      "views": 0,
+      "url": "https://x.com/i/status/2101340060931203351",
+      "is_kol": false,
+      "score": 1508.0
+    },
+    {
+      "id": "2101320511670120815",
+      "author": "MintmindAi",
+      "text": "Claude Code, Cursor, Codex, or whatever coding agent you already run—Mintmind’s API isn’t designed for humans reading docs. It’s designed for how AI actually generates code.\n\nMost “AI × blockchain” APIs assume a dev in the middle: copy the key, read the endpoints, hand-wire the w",
+      "likes": 274,
+      "views": 0,
+      "url": "https://x.com/i/status/2101320511670120815",
+      "is_kol": false,
+      "score": 967.0
+    },
+    {
+      "id": "2101343754179547518",
+      "author": "useteller",
+      "text": "New collateral coming to Teller 🌲 & Debit AI 🟡\n\nrobinhood:0x168661c52e5922288dfb2b3f323b6cf90eb21e18, alongside tokenized $MSTR on Robinhood Chain. Mr @saylor please meet DeFi.\n\nBoth can now be used as collateral to access stablecoin liquidity without selling the underlying asset",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2101343754179547518",
+      "is_kol": false,
+      "score": 855.0
+    },
+    {
+      "id": "2101610532205977956",
+      "author": "ibocodes",
+      "text": "canny alternative, one click deploy to cloudflare, $0/month\n\n- tanstack start + d1 + better auth, one worker\n- open source\n- feedback board, roadmap, changelog\n- mcp server so your agent triages feedback for you\n\ncanny charges $79/month for less https://t.co/OlTCoLFIl2",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2101610532205977956",
+      "is_kol": false,
+      "score": 582.0
+    },
+    {
+      "id": "2101599715938697558",
+      "author": "trad_west_",
+      "text": "This engraving of Christ's face from the veil of Saint Veronica was created with just one line. Made by the French engraver Claude Mellan in 1649\n\n400 years later, it still can not be matched.\n\nBeing able to add such detail of shadow and depth to the point of it looking like a ph",
+      "likes": 170,
+      "views": 0,
+      "url": "https://x.com/i/status/2101599715938697558",
+      "is_kol": false,
+      "score": 570.0
+    },
+    {
+      "id": "2101505130827039146",
+      "author": "milesdeutscher",
+      "text": "If you trade or invest, you need to set this up with Claude. It's a game changer.\n\nOne of the biggest problems with using AI for financial research is that it pulls in outdated data.\n\nClaude will confidently quote you a price or a metric that's months out of date.\n\nYou can fix th",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2101505130827039146",
+      "is_kol": false,
+      "score": 403.0
+    },
+    {
+      "id": "2101524482313920723",
+      "author": "trythreews",
+      "text": "An MCP server that lets an AI burn $THREE on @solana. three_burn is flagged irreversible and by default won't sign without confirm: true. https://t.co/sSD0l8cMbU https://t.co/ksmo0sK7VT",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2101524482313920723",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2101582134230327742",
+      "author": "wangchangfu88",
+      "text": "我现在不想听到任何关于 AI、出海、一人公司、ChatGPT、Claude、中转站、AGI、智能体、提示词、API、Astra、算法、大模型 、Skill、Token、工作流、Vibe Coding 任何一个字了。我要变回大猩猩，在森林里荡来荡去",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2101582134230327742",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2101616062714253670",
+      "author": "Shex005",
+      "text": "@ibocodes Install the Ai skill for it and ask your ai agent if theres a good use case for it to use it in your existing projects",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2101616062714253670",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2101486147717476828",
+      "author": "yifanxu_ephai",
+      "text": "最近 OpenAI、Google 和 Anthropic 都陆续推出了 Managed Agent。 Managed Agent 提供了一个重要视角：Agent Harness、LLM Inference 和 Runtime Substrate 的解耦。\n\n我想聊聊自己的理解，也分享一下之前和群友关于 Agent Sandbox 的讨论。上一周有位群友问我：为什么 LayerFS 用 SDK 让 Agent 在 Sandbox 外调用工具，放里面不是更安全吗？\n\n但是：\n\n1. 如果将Agent放入沙盒内，需要访问知识库、MCP、Skills，需要和其他",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2101486147717476828",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2101627436584866053",
+      "author": "rubenhassid",
+      "text": "It's crazy how my entire feed is about Claude but no one actually properly explains it. I made this quick note for my team on how to start:\n\n1. Models change all of the time. Today, use this:\n\n☑ Fable-5.1-High on the first 1/2 prompts.\n☑ Then switch to Opus-5-High (or Low).\n☑ If ",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2101627436584866053",
+      "is_kol": false,
+      "score": 170.0
+    },
+    {
+      "id": "2101350411424743669",
+      "author": "defidojo_",
+      "text": "Agents are central to the future of the agentic economy. \n\nBut the question is not whether an agent can make a mistake.\nIt is what happens when a mistaken agent can sign.\n\nA trading agent reads token metadata, tool output, pages, and other agents’ messages, then acts. Those strin",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2101350411424743669",
+      "is_kol": false,
+      "score": 167.0
+    },
+    {
+      "id": "2101610253251178638",
+      "author": "DAIEvolutionHub",
+      "text": "Nvidia's CEO Jensen Huang just said the quiet part out loud:\n\n\"Every engineer is going to have and manage hundreds of agents.\"\n\nRead that again. Hundreds.\n\nThe #1 engineering skill of 2026 won't come from a classroom.\n\n→ No CS degree teaches harness engineering. \n→ No bootcamp te",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2101610253251178638",
+      "is_kol": false,
+      "score": 166.0
+    },
+    {
+      "id": "2101396216030363666",
+      "author": "LolsShow",
+      "text": "This was made via custom Geode mod that functions as MCP server for agents to work directly in the editor.\n\nWith Relative's hours spent on instructions and tweaking, feeding info from early-2.1 and official levels in did this.\n\nInteresting experiment, but, far from replacing.",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2101396216030363666",
+      "is_kol": false,
+      "score": 165.0
+    },
+    {
+      "id": "2101589682815660414",
+      "author": "bgv1806",
+      "text": "the more i explore @termix_ai the more i think the interesting part isn’t the marketplace itself.\n\nit’s what happens when an agent can actually operate inside it.\n\nan agent needs more than a model:\nidentity to know who is acting,\nskills to know what it can do,\nAACP to interact wi",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2101589682815660414",
+      "is_kol": false,
+      "score": 156.0
+    },
+    {
+      "id": "2101373831168553248",
+      "author": "eyebrowCC",
+      "text": "We have shipped a lot of updates lately. Here is what they add up to.\n\nPhase One\neyebrow started as a way to see what your AI agents installed. One command, one machine, every skill, MCP server, plugin and hook hashed into a file you commit alongside your code. \n\nThe direction fr",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2101373831168553248",
+      "is_kol": false,
+      "score": 156.0
+    },
+    {
+      "id": "2101619727848419824",
+      "author": "0xKeng",
+      "text": ".@termix_ai is building infrastructure for a world where AI agents can do more than generate answers\n\nThe idea is pretty simple:\nGive agents the ability to actually work.\nTermiX is creating an onchain environment where agents can be discovered, hired and connected to real tasks\n\n",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2101619727848419824",
+      "is_kol": false,
+      "score": 152.0
+    }
+  ]
+}

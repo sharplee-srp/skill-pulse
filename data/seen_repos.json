@@ -7298,5 +7298,45 @@
   "nonillo/gitlab-flow": {
     "first_seen": "2026-09-19",
     "tier": 3
+  },
+  "cloudflare/mcp-server-cloudflare": {
+    "first_seen": "2026-09-20",
+    "tier": 2
+  },
+  "burnigtm/jev-mcp": {
+    "first_seen": "2026-09-20",
+    "tier": 2
+  },
+  "fanzr-arch/numerologist_skills": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "appitstudio/awesome-jev": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "realtwin/studiotwin-mcp-skill": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "jpeslar1/john-peslar-ai-skills": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "elithrar/dotfiles": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "1ststepai/auto-model-router": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "jedliuai/vps-proxy-skill": {
+    "first_seen": "2026-09-20",
+    "tier": 3
+  },
+  "kerpopule/hermes-jev-skills": {
+    "first_seen": "2026-09-20",
+    "tier": 3
   }
 }
