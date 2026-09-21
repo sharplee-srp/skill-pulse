@@ -7338,5 +7338,65 @@
   "kerpopule/hermes-jev-skills": {
     "first_seen": "2026-09-20",
     "tier": 3
+  },
+  "agent-substrate/env": {
+    "first_seen": "2026-09-21",
+    "tier": 2
+  },
+  "tianyucodings/jevharness": {
+    "first_seen": "2026-09-21",
+    "tier": 2
+  },
+  "natan-mohart/24-finance-skills-for-claude": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "superradcompany/microsandbox": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "newliver666/apk-reverse": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "elementalsouls/claude-bughunter": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "jezweb/claude-skills": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "browser-use/jev-ultrafast": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "graphify-labs/graphify": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "nahumoore/seo-agent-skills": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "abhi-yo/sound-library": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "feedspring/skills": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "jukkablomberg/northpoint": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "airjournals/presubmission_manuscript_check": {
+    "first_seen": "2026-09-21",
+    "tier": 3
+  },
+  "ledora037-design/macrovex-2.1-pro-by-ledora": {
+    "first_seen": "2026-09-21",
+    "tier": 3
   }
 }
