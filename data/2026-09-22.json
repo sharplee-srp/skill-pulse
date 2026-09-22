@@ -1,0 +1,609 @@
+{
+  "date": "2026-09-22",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 151,
+    "tweets_with_repos": 25,
+    "unique_repos": 23,
+    "new_repos": 10,
+    "previously_seen_repos": 13
+  },
+  "new_repos": [
+    {
+      "repo": "hqman/jev-browser-skill",
+      "github_url": "https://github.com/hqman/jev-browser-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 306.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 67,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hqmank",
+        "text": "I open-sourced the skill from this experiment: jev-browser-skill.\n\nYour coding agent needs to find a page on an unfamiliar site? Give it this skill.\n\nIt opens isolated Chromium, starts at the URL you give it, and clicks through until it reaches the target.\n\nYou write the goal. Je",
+        "likes": 67,
+        "url": "https://x.com/i/status/2102355364377207152"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102355364377207152"
+      ]
+    },
+    {
+      "repo": "shinthink/blitzstrike",
+      "github_url": "https://github.com/shinthink/blitzstrike",
+      "tier": 3,
+      "is_new": true,
+      "score": 208.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "shinthink/blitzstrike: ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance &amp; attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool... https://t.co/EInJQwwiLl",
+        "likes": 26,
+        "url": "https://x.com/i/status/2102250006803599678"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102250006803599678"
+      ]
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "github_url": "https://github.com/strands-agents/harness-sdk",
+      "tier": 3,
+      "is_new": true,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ConsciousRide",
+        "text": "AWS just released something that caught my attention if you are building AI agents.\n\nIt is called Strands Harness.\n\nThe interesting part is that AWS is giving you a ready to run agent environment instead of making you assemble all the pieces yourself. You get file operations, she",
+        "likes": 25,
+        "url": "https://x.com/i/status/2102367298061582639"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102367298061582639"
+      ]
+    },
+    {
+      "repo": "sandeepravillubuilds/my-agents",
+      "github_url": "https://github.com/sandeepravillubuilds/my-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 171.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "investor_sr33",
+        "text": "I’ve made my AI agent collection public: \n\n33 files covering trading research, websites, branding, careers, sales and study support.\n\nAgent instructions, specialist roles + a reusable skill.\nExplore 👇\n\nhttps://t.co/2SBcTEYkwY",
+        "likes": 22,
+        "url": "https://x.com/i/status/2102374553490194675"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102374553490194675"
+      ]
+    },
+    {
+      "repo": "ravsau/youtuber-skills",
+      "github_url": "https://github.com/ravsau/youtuber-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ravsau",
+        "text": "Updated my YouTube skill pack. 12 skills, works in Claude Code, Codex, Cursor, any agent that reads SKILL.md.\n\nNew: channel audit (median baseline, top 20% publish bar, one variable to test next) and edit list (transcript in, cut list out, retention drops become cuts).\n\nnpx skill",
+        "likes": 3,
+        "url": "https://x.com/i/status/2102230542208897438"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102230542208897438"
+      ]
+    },
+    {
+      "repo": "freestylefly/wechatbridge",
+      "github_url": "https://github.com/freestylefly/wechatbridge",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "canghe",
+        "text": "群消息来不及爬楼，客户聊天想做复盘，有价值的内容又想存进知识库……我想把这些操作变得简单一点。\n\n于是我们做了 WeChatBridge（微信流），现在已经完全开源。\n\n它的作用很直接：在微信和 AI 应用之间，帮你把选中的聊天记录送过去。\n\n① 聊天记录，一次选择，多种去向\n支持转发到 Codex、Claude Code、WorkBuddy、豆包、千问办公、WeSight 等 Agent，也能存进 Obsidian、复制到剪贴板，或发送给自定义应用。转发入口可以通过开关控制。\n\n② 给不同聊天配上不同任务\n客户群可以设成“整理需求、风险和下一步”，项目",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102393151084519463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102393151084519463"
+      ]
+    },
+    {
+      "repo": "hypersocialinc/hypersimcam",
+      "github_url": "https://github.com/hypersocialinc/hypersimcam",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Selcukatli",
+        "text": "also made it a skill so Claude Code / Codex reach for it on their own when the camera comes up grey\nnpx skills add hypersocialinc/hypersimcam -g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102069125770007019"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102069125770007019"
+      ]
+    },
+    {
+      "repo": "pexoai/pexo-skills",
+      "github_url": "https://github.com/pexoai/pexo-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AYi_AInotes",
+        "text": "体验入口与开发者开源资产整理在下面，方便想试的朋友自取：\n\n官网体验入口：https://t.co/QKiYZGtAqt\n编码智能体接入：他们开源了适配 Claude Code、Cursor 和 OpenClaw 的 skills，通过 npx skills add https://t.co/kpsSdiHrmu --skill pexo-agent 可以直接在命令行里把产品介绍或网页转成成品视频。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102306433165316261"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102306433165316261"
+      ]
+    },
+    {
+      "repo": "voladelta/hindsight",
+      "github_url": "https://github.com/voladelta/hindsight",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "noledoe42",
+        "text": "your first trades win. is it your skill or beginner’s luck?\n\nbuilt Hindsight for the @nansen_ai Meridian Buildathon: a training ground for market intuition. a project i have in mind but keep delaying for awhile.\n\nmake your call, study the onchain evidence, then reveal how it play",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102389365762851289"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102389365762851289"
+      ]
+    },
+    {
+      "repo": "unnoo/zsxq-skill",
+      "github_url": "https://github.com/unnoo/zsxq-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MYanDong1",
+        "text": "赶紧让你的 Codex 安装 知识星球 的 Skill\n\n今天才发现 知识星球 开放 Skill 了\n正好最近加入了 迪总 的「Dots 机构投资者社区」\n想着赶紧试试，便让 Codex 拉取了关于 Hyperliquid 的内容，有点爽。\n它还顺手做了 HTML 格式，看着舒服多了。\n\n知识星球 Skill：https://t.co/fCHII14FVF https://t.co/d9xbdyk4kx",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102388414930899009"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102388414930899009"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 318.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AiAircle34052",
+        "text": "【衝撃】\nClaude Code と Codex に「判定専用のAI」を足して、38,000人の LinkedIn の繋がりを仕分けた人がいる😳\nhttps://t.co/IXX2yHQ7Eh\n使うのは、いま海外で話題の Jev。\nやっていることはこれ👇\n・Claude Code に typesafe のプラグインを入れて、Jev を呼べるようにする\n・LinkedIn の繋がりと招待を CSV で書き出す\n・Gmail の連絡先も同じように書き出す\n・CSV → Jev に渡す → 「残す・見直す・外す」の3択で判定させる\nつまり、文章を書くAIではな",
+        "likes": 6,
+        "url": "https://x.com/i/status/2102355983838380470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102355983838380470",
+        "https://x.com/i/status/2102258948514725942",
+        "https://x.com/i/status/2102048283875254728"
+      ]
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 363.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "《从零开始的 AI 工程》现在是 20 个阶段、523 课。\n\n先自己写反向传播、分词器、注意力、代理循环，再拿生产库把同一套概念做一遍。\n\n课是固定骨架：问题、概念、造、用、发布。\n\n终端里 npx skills add rohitg00/ai-engineering-from-scratch，再 /start-learning，会出一份 LEARNING.md。\n\nClaude Code、Cursor、Codex 能当辅导。另有 Claude 认证四条备考。EPUB、PDF 也有。\n\nhttps://t.co/ACXIhKMxMA",
+        "likes": 66,
+        "url": "https://x.com/i/status/2102212786743112080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102212786743112080"
+      ]
+    },
+    {
+      "repo": "kerpopule/hermes-jev-skills",
+      "github_url": "https://github.com/kerpopule/hermes-jev-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 284.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "goan999999",
+        "text": "卧靠，GitHub 真把 AI 圈底裤都掀了\n\n这 7 个开源项目，正在把一堆每月收费几十、上百美元的 AI 软件，直接干成免费，天花板的存在\n\n1、Hermes + Jev Skills\n\n直接给 Codex / Agent 加上路由、记忆、技能选择和 GUI 点击能力\n\n很多原本几秒到几十秒的判断，能压到亚秒级，复杂 Agent 工作流体感能快 10 倍\n\nhttps://t.co/oXYFVmr5yp\n\n2、typesafe-ai/skills\n\n直接拖进 Codex 或 Cursor，补上决策、工具调用和评估循环\n\n最大的价值不是多几个 Skil",
+        "likes": 43,
+        "url": "https://x.com/i/status/2102376648796725579"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102376648796725579"
+      ]
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "github_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "tier": 3,
+      "is_new": false,
+      "score": 249.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GeekCatX",
+        "text": "手绘视频 Skill 又更新了！距离上次更新已经过去一个多月，story-to-handdrawn-video 的 GitHub Star 已经超过 2,000 ⭐\n\n这次重点补上了更多画风，以及把喜欢的画风长期用下去的能力。\n\n原来的 20 种风格，现在扩展成 327 项资产：297 种画风 + 30 种主题配色，覆盖彩铅、蜡笔、水墨、水彩、拼贴、版画等 11 类。默认展示 30 种精选，也能按类型查找。所有资产都附本地示意图，统一用“老人和小孩过桥”的场景，画风差异一眼就能比较。\n\n更想分享的是参考图功能：上传一张喜欢的图，让 Agent 解析线条、",
+        "likes": 43,
+        "url": "https://x.com/i/status/2102336276230025224"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102336276230025224"
+      ]
+    },
+    {
+      "repo": "herdrdev/herdr",
+      "github_url": "https://github.com/herdrdev/herdr",
+      "tier": 3,
+      "is_new": false,
+      "score": 228.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "If you didn’t know, you can use your 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 from Codex.\n\nThat means Astra can coordinate 𝘂𝗽 𝘁𝗼 𝟭𝟬 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝘄𝗼𝗿𝗸𝗲𝗿𝘀 through Herdr, all running Opus 5.\n\nHand off the heavy implementation work to Claude Code, including polishing your pages’ layout, interactions,",
+        "likes": 41,
+        "url": "https://x.com/i/status/2102382418984415420"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102382418984415420"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 218.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotLog",
+        "text": "🚀✨ Copilot CLI v1.0.87 released!\n\n25 features & enhancements in this release\n\nTop features:\n• Added user and managed startup defaults for the Auto routing tier with strict and user-overridable organization policy\n• Consecutive steering prompts in the same mode combine into one pe",
+        "likes": 31,
+        "url": "https://x.com/i/status/2102061601142493686"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102061601142493686"
+      ]
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "github_url": "https://github.com/hypit-ai/hypit",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Israfilv2",
+        "text": "https://t.co/H6oXZGWPhV\n\nnpx skills add hypit-ai/hypit -g, then tell your agent to clone a video\n\nyour competitor already paid to find out which hook converts, this just copies the answer\n\nfree drops and setups land here:\nhttps://t.co/d3InAVBUdB",
+        "likes": 6,
+        "url": "https://x.com/i/status/2102054258174783581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102054258174783581"
+      ]
+    },
+    {
+      "repo": "graphify-labs/graphify",
+      "github_url": "https://github.com/graphify-labs/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VaibhavSisinty",
+        "text": "Graphify\n\nOne skill file that works across Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, and Trae.\n\nhttps://t.co/oZbwu3swAD",
+        "likes": 4,
+        "url": "https://x.com/i/status/2102005077435359517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102005077435359517"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nevermind_turki",
+        "text": "في مهارة رهيبة اسمها /find-skill\nفكرتها تبحث عن المهارات التي تساعد في المهمة التي يقوم بها agent\nتضع هذا الأمر في Termenal الترمنال :\n\nnpx skills add vercel-labs/skills@find-skills",
+        "likes": 3,
+        "url": "https://x.com/i/status/2102092467394724071"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102092467394724071"
+      ]
+    },
+    {
+      "repo": "nahumoore/seo-agent-skills",
+      "github_url": "https://github.com/nahumoore/seo-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nicolasmore_",
+        "text": "npx skills add nahumoore/seo-agent-skills --skill backlink-building\n\nhttps://t.co/2gAfLsNuXA",
+        "likes": 2,
+        "url": "https://x.com/i/status/2102046914187264470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102046914187264470"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2102099298716660223",
+      "author": "omarsar0",
+      "text": "Banger paper on self-evolving ontologies for agents.\n\nYou just can't go wrong with implementing an ontology layer for your agents.\n\nThis paper shows exactly why.\n\nThe show that GPT-5.5 gains 26.7 points on DDR-Bench when the data agent can query an ontology of the data it works w",
+      "likes": 885,
+      "views": 0,
+      "url": "https://x.com/i/status/2102099298716660223",
+      "is_kol": false,
+      "score": 3175.0
+    },
+    {
+      "id": "2102185653492764873",
+      "author": "Graalitoo",
+      "text": "Godot without MCP is the way.\n\nI’ve never been this satisfied with a gauntlet loop after trying dozens of them.\n\nOne prompt and 7 hours. That’s all Fable 5.1 needed to produce this. The loop got cut only because I ran out of weekly usage.\n\nFirst time I can actually play a full ga",
+      "likes": 623,
+      "views": 0,
+      "url": "https://x.com/i/status/2102185653492764873",
+      "is_kol": false,
+      "score": 2034.0
+    },
+    {
+      "id": "2102347774394036312",
+      "author": "YoussefHosni95",
+      "text": "شركة Spotify قلّلت فاتورة Claude Code بنسبة 90%، وبعدها نشرت الأداة اللي استخدمتها كمشروع مفتوح المصدر عشان توصل لده.\n\nالفكرة بسيطة: جزء كبير من شغل الـ coding agent اليومي بيكون قراءة وكتابة ملفات، ومش محتاج كل قدرات موديل متقدم. مثلًا، Claude بيقرأ خمس ملفات عشان يجاوب على سؤال",
+      "likes": 189,
+      "views": 0,
+      "url": "https://x.com/i/status/2102347774394036312",
+      "is_kol": false,
+      "score": 627.0
+    },
+    {
+      "id": "2102078713672139051",
+      "author": "lukso_io",
+      "text": "AI agents are coming onchain 🤖\n\n@hupsocial now lets AI agents read and post through a public skill and MCP server, alongside a new public chat, improved search and more! 🆙✨",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2102078713672139051",
+      "is_kol": false,
+      "score": 430.0
+    },
+    {
+      "id": "2102236004023435285",
+      "author": "sadhna6389",
+      "text": "𝗔𝗜 ≠ 𝗖𝗵𝗮𝘁𝗚𝗣𝗧.\n\nThat’s just the interface.\n\nUnderneath it is an entire ecosystem of models, agents, retrieval systems, memory, security, evaluation, automation, and infrastructure.\n\nThis AI Stack Map covers 100+ tools shaping modern AI applications.\n\nHere’s what the stack looks li",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2102236004023435285",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2102363491382571123",
+      "author": "codeby_jack",
+      "text": "AI can explain a financial model.\n\nBut can it actually analyze one?\n\nThis finance skill pack for Claude from \n\nIs built to do exactly that.\n\n24 skills.\n6 finance domains.\n21 skills powered by real Python calculations.\n\nIt covers:\n\nCash flow\nBudgeting\nBalance shee https://t.co/vp8",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2102363491382571123",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2102231730187051224",
+      "author": "peesamac",
+      "text": "Docling คือเครื่องมือฟรีที่เอาไฟล์เอกสารกองโตของเรา แปลงให้อยู่ในรูปที่ AI อ่านเข้าใจจริง ไม่ใช่แค่ดูดตัวหนังสือออกมาเป็นก้อนเละ\n\nใครที่เคยลองโยน PDF เข้า AI แล้วมันตอบมั่วจะเข้าใจปัญหานี้ดี เพราะ PDF ไม่ได้เก็บข้อมูลเป็นย่อหน้าแบบที่ตาเรามอง มันเก็บเป็นตัวอักษรลอยๆ พร้อมพิกัด พอ",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2102231730187051224",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2102080635431002476",
+      "author": "ParkerRex",
+      "text": "9/ Apple put an MCP server in Safari 27.\n\n- safaridriver --mcp\n- 16 tools: screenshot, read page, run JS, click, type\n- Local only, no network calls\n- Runs in its own window, no access to your cookies or passwords\n\nFirst browser automation from a platform owner. This is the one I",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2102080635431002476",
+      "is_kol": false,
+      "score": 228.0
+    },
+    {
+      "id": "2102063101176942716",
+      "author": "LAURA_DAIO",
+      "text": "on the Pager job board at https://t.co/2jgKO15H0f I paid two jobs out of escrow: 1,000 $STONKBROKER for a walkthrough of the StonkBrokers MCP server, 500 STONKBROKER for a Smart LP explainer on X.",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2102063101176942716",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2102311760623759435",
+      "author": "mcannonbrookes",
+      "text": "Great design teams care deeply about their tools. The @Atlassian design team has now shipped their own CLI and MCP server, and even prototyped the rate of improvement of each over time. \n\nRead more in @charliedesigned 's post below. The team is truly cooking at the moment 🧑‍🍳 👏🏻",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2102311760623759435",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2102347927591039388",
+      "author": "xiaomovps",
+      "text": "谁能想到Jev 居然输给了一个 1.88B 本地开源模型🔥\n\n结果真的有点让我意外：\n\n我做了一个贪吃蛇决策游戏 Jev 30:28 险胜，但是换成同一组 68 道决策题，本地模型准确率直接做到 94.1%，Jev 只有 76.5%\n\n一个错了 4 道题，一个错了 16 道题\n\n我本来只是想测试一下 “小模型决策能力怎么？”，结果我抽完发现，小模型虽然小 但是准确率一点也不低。\n\n1️⃣ 先说我是怎么测的\n\n双方使用完全一样的 12×12 棋盘、随机种子、碰撞过滤和路径规划器，只有遇到多个方向都能走的时候，才把选择交给模型。\n\n最后 Jev 吃到 30 ",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2102347927591039388",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2102066749617447055",
+      "author": "GabrielMillien1",
+      "text": "Most coding agents can write code.\n\nBut great code also needs great design inspiration.\n\nThat’s where Inspo comes in.\n\nInspo is a design MCP server built for Claude Code, Codex, and OpenCode.\n\nIt helps coding agents discover relevant design inspiration from 800+ beautiful website",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2102066749617447055",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2102298806855610511",
+      "author": "oliviasand3va",
+      "text": "Rokha is also building around the idea that an MCP server can become a living toolset for agents.\nThat’s an interesting direction because the tool can remain part of an agent’s workflow instead of being a one-time interaction.\n@rokha_agent @GoblinBuilds https://t.co/gSEIE9HJwT",
+      "likes": 23,
+      "views": 0,
+      "url": "https://x.com/i/status/2102298806855610511",
+      "is_kol": false,
+      "score": 164.0
+    },
+    {
+      "id": "2102270057971880396",
+      "author": "vb_tyagi",
+      "text": "let your AI run your X\n\ni built capx-café to turn commits, fixes, and releases into X posts from your coding agent\n\ndraft. preview. schedule. publish.\nyour X token stays on the server.\n\nan open-source MCP server\n\n(what started as an internal tool for self, turned out to be someth",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2102270057971880396",
+      "is_kol": false,
+      "score": 145.0
+    },
+    {
+      "id": "2102311353612485114",
+      "author": "DaviddDotTech",
+      "text": "Hermes agent now runs my entire AI trading desk.\n\nI built it after GrokBot burned millions of tokens on agents chatting to each other about nothing.\n\nHere's how:\n\nStep 1: Install Hermes\n\nGo to https://t.co/TMDMsdTlwp, copy the one line install command.\n\nOpen your terminal (Mac: s",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2102311353612485114",
+      "is_kol": false,
+      "score": 140.0
+    },
+    {
+      "id": "2102253575154053246",
+      "author": "Usearckit",
+      "text": "Gm ArcKit community\n\nIt's been almost a week of building on ArcKit and in the 1st week we released:\n\nArcLock - Locks tokens and LP for a set duration, so teams can prove liquidity is safe and can't be pulled early.\n\nArcFlow - Concentrated liquidity pools with fee staking, so LPs ",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2102253575154053246",
+      "is_kol": false,
+      "score": 138.0
+    },
+    {
+      "id": "2102228172968460617",
+      "author": "pridgenmd",
+      "text": "I got to share with @OpenAIDevs how I’m using Codex to build tools for my work as a surgeon.\n\nOne example is a PubMed MCP server to review literature. Check out my feed for other examples.  \n\nGive Codex a try even if you're a \"non-technical\" doctor like me. It's a superpower! htt",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2102228172968460617",
+      "is_kol": false,
+      "score": 127.0
+    }
+  ]
+}
