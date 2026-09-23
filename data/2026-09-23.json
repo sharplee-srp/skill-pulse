@@ -1,0 +1,618 @@
+{
+  "date": "2026-09-23",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 171,
+    "tweets_with_repos": 23,
+    "unique_repos": 22,
+    "new_repos": 10,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "google/ax",
+      "github_url": "https://github.com/google/ax",
+      "tier": 3,
+      "is_new": true,
+      "score": 298.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ryrenz",
+        "text": "🦾 Google 刚开源了 AX，把一整个集群里的 AI agent 当成 Kubernetes 里的容器来管。\n\n半年前才建的仓库，GitHub 上已经 6.8K stars，用 Go 写的。\n\n现在很多人手里不止一个 agent 在跑：这个改代码，那个爬资料，还有一个定时出报告。数量一上去麻烦立刻就来——谁限制它们吃多少 CPU，谁保证不受信任的代码不把机器搞坏，谁管它们只能访问该访问的地址。AX 把这些全变成声明式配置，你写清楚要什么，它去跑。\n\n整套只有四个概念：Task 是跑在隔离沙箱里的 agent，能卡死 CPU 和内存上限；Workspa",
+        "likes": 56,
+        "url": "https://x.com/i/status/2102452872818401751"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102452872818401751"
+      ]
+    },
+    {
+      "repo": "ai-trainee/awesome-jev",
+      "github_url": "https://github.com/ai-trainee/awesome-jev",
+      "tier": 3,
+      "is_new": true,
+      "score": 253.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFT_Chen",
+        "text": "🔥太全面了吧！别再问Jev 到底能干啥了！全网 68 个实战案例 + 自带 Skill，直接喂给你的 Agent！\n\n核心亮点：\n🔹不只是收藏夹：仓库本身就是可加载的 JEV 技能包（根目录就有 SKILL.md + 68 条案例索引）\n🔹9 大场景覆盖：浏览器自动化、游戏实时决策、链上交易、模型路由、内容分类…… 🔹50 条 ⭐ 精选，配原帖截图 + X 链接，能落地、能抄作业 🔹Agent 不用你开口：装上后会主动按你的意图推荐玩法，而不是干巴巴说「Jev 是个小模型」\n\n上手 3 步： 1️⃣ 把这段话丢给任意 Agent（Claude / Cod",
+        "likes": 36,
+        "url": "https://x.com/i/status/2102658988454412740"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102658988454412740"
+      ]
+    },
+    {
+      "repo": "prismorsec/prismor",
+      "github_url": "https://github.com/prismorsec/prismor",
+      "tier": 3,
+      "is_new": true,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_ar9av",
+        "text": "🌈 Prismor: open source runtime control plane for AI agents. New this week:\n\n1. Agent-to-agent traffic is governed. A2A messages go through the same proxy endpoint and the same policy as tool calls, and a message can be blocked before the receiving agent reads it\n\n2. Managed model",
+        "likes": 26,
+        "url": "https://x.com/i/status/2102492556210942204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102492556210942204"
+      ]
+    },
+    {
+      "repo": "edwinsong/hammer-claw-skills-lab",
+      "github_url": "https://github.com/edwinsong/hammer-claw-skills-lab",
+      "tier": 3,
+      "is_new": true,
+      "score": 142.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hammerminer",
+        "text": "✅ BC08 update: hydro light timer skill card completed! 💡⏰\nCode: https://t.co/14F41LmkWq\nPR submitted upstream — coming soon to all BC08 units. 🚀 https://t.co/LK5nkNCGXM",
+        "likes": 14,
+        "url": "https://x.com/i/status/2102367557785415896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102367557785415896"
+      ]
+    },
+    {
+      "repo": "ekurutepe/xcode-skills-to-codex",
+      "github_url": "https://github.com/ekurutepe/xcode-skills-to-codex",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ekurutepe",
+        "text": "Xcode Codex agent refuses to use gpt-6-sol model. So I made a skill to export built-in Xcode skills as Codex skills which you can use in the Codex app. \n\nhttps://t.co/lhPMTbAOUc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2102751750927114708"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102751750927114708"
+      ]
+    },
+    {
+      "repo": "linversion/skills",
+      "github_url": "https://github.com/linversion/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "buomeng",
+        "text": "开源了个有趣的 skill：when-will-tibo-reset，当那个男人重置的时候，你的 mac 通知中心会弹一条通知\n\n- 支持中英双语\n- 支持飞书/钉钉/企业微信 webhook\n- 动态数据来源于 @Khazix0918 的 AIHOT 提供的接口\n\n一行命令安装：\nnpx skills add linversion/skills --skill when-will-tibo-reset https://t.co/ll3wQBTbMF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102749205748220012"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102749205748220012"
+      ]
+    },
+    {
+      "repo": "thinkflowlab/system1-agents",
+      "github_url": "https://github.com/thinkflowlab/system1-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AbuZ8Studios",
+        "text": "Your agent burns a frontier call on a 5-way routing choice. system1-agents hands that call to a small typed decision model instead: Jev, Laya, or on-device Cua-S1 Nano. Browser use, computer use, robotics, games ship ready to run: https://t.co/GYiJDRj81u Python, Apache-2.0, npx s",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102689151497764997"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102689151497764997"
+      ]
+    },
+    {
+      "repo": "jeetmaxxer/refund-scam.md",
+      "github_url": "https://github.com/jeetmaxxer/refund-scam.md",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nelvOfficial",
+        "text": "@nikitabier npx skills add jeetmaxxer/refund-scam.md",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102676943279960496"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102676943279960496"
+      ]
+    },
+    {
+      "repo": "kajisho5/imagemagick-skill",
+      "github_url": "https://github.com/kajisho5/imagemagick-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kebura_P",
+        "text": "🖼️ ImageMagick Skillを作りました。\n\nAIエージェントからImageMagickを使って、画像の変換・加工・検証まで行えるAgent Skillです。\n\n例えば、\n\n「この画像を1200×630にして」\n「200KB以下にして」\n「GPS情報を削除して」\n「この2枚を比較して」\n「このロゴからfaviconを作って」\n\nといった指示を、そのままローカルで実行できます。\n\n単純にImageMagickのコマンドを呼び出すだけではなく、\n\nProbe\n↓\nEdit\n↓\nCheck\n↓\nLook\n\nという流れで、処理結果まで検証します。\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102761078929379689"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102761078929379689"
+      ]
+    },
+    {
+      "repo": "agentrhq/webcmd",
+      "github_url": "https://github.com/agentrhq/webcmd",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PrajwalTomar_",
+        "text": "GitHub: https://t.co/EZaH4zl9sI\n\nWorks with Claude Code, Codex, Hermes, OpenCode, or any agent that can run the skill.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2102744586510844162"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102744586510844162"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 2,
+      "is_new": false,
+      "score": 1407.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 369,
+      "total_retweets": 20,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v2.0.0 released. TL;DR:\nV2 session core with durable inboxes lands, Code Mode introduces sandboxed tool execution, Desktop adds SSH remoting and browser diagnostics, and TUI brings timeline navigation with a native V2 theme engine.\n\n𝗧𝗨𝗜\nAdded\n• Added a native V2 theme en",
+        "likes": 347,
+        "url": "https://x.com/i/status/2102579844521328822"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102579844521328822",
+        "https://x.com/i/status/2102595485810983282"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 375.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 75,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bkdgiffug",
+        "text": "AI 会写页面，不代表写出来的页面就好看。\n\njakubkrehel/skills 做的就是给 AI Agent 补一套 UI 设计能力，从界面细节到整体审查都有覆盖。\n\n里面包括：\n① UI 细节、圆角、阴影和微交互\n② 字体与排版\n③ OKLCH 配色\n④ 页面布局\n⑤ 无障碍设计\n⑥ UX 文案和界面 Review\n支持 Claude Code 插件，也能通过 Skills CLI 安装。\n直接一条命令：\nnpx skills add jakubkrehel/skills\n\n如果经常让 AI 写前端，这套可以装上试试。\n🔗 https://t.co",
+        "likes": 75,
+        "url": "https://x.com/i/status/2102589267839263078"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102589267839263078"
+      ]
+    },
+    {
+      "repo": "tencent/browserskill",
+      "github_url": "https://github.com/tencent/browserskill",
+      "tier": 3,
+      "is_new": false,
+      "score": 335.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 65,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ強い。\nBrowserSkillなら\nログイン済みブラウザを\nagentに貸せる。\n\nCursor / Claude Code /\nCodex / OpenClaw対応。\n\n初回確認はこれ:\nbsk install-skill\nbsk doctor\n\ncaptchaや確認画面は\n人間に戻せるので、\n実アカ操作の検証に向く。\n\nhttps://t.co/S0K9U2DHsL",
+        "likes": 65,
+        "url": "https://x.com/i/status/2102587227587154205"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102587227587154205"
+      ]
+    },
+    {
+      "repo": "markdown-viewer/skills",
+      "github_url": "https://github.com/markdown-viewer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 308.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xicilion",
+        "text": "https://t.co/m5NU23Aste skills 重大重构\n\n- 将所有图表浓缩到一个入口，agent 可以立即根据文章内容找到最佳实践\n- 增加 documd cli 帮助 agent 感知图表结果\n- 31 个领域，183 个场景，242 个示例\n\n你只需要：npx skills add markdown-viewer/skills\n\n然后告诉 agent：根据需要增加图表。",
+        "likes": 56,
+        "url": "https://x.com/i/status/2102575677740392830"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102575677740392830"
+      ]
+    },
+    {
+      "repo": "punkpeye/awesome-mcp-servers",
+      "github_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "tier": 3,
+      "is_new": false,
+      "score": 253.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cryptowluha",
+        "text": "5 more github repos and you'll never open your wallet for an ai tool again\n\n~ awesome mcp servers (91k stars): thousands of mcp servers connecting your agent to browsers, databases, anything\nhttps://t.co/V3YySUj1iY\n\n~ awesome llm apps (116k stars): 100+ ready ai agents and rag ap",
+        "likes": 36,
+        "url": "https://x.com/i/status/2102539015039680936"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102539015039680936"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oikon48",
+        "text": "Claude Code 2.1.218 (抜粋)\n\n- Claude Opus 5.5 (`claude-opus-5-5`) を追加し、Opus のデフォルトモデルに。1M context、料金は $4/$20 per Mtok、cache read は $0.20/Mtok。\n\n- `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` を追加。セッション内のすべての MCP server について、tool description と server instructions の 2,048 文字の上限を変更可能\n\n- Op",
+        "likes": 21,
+        "url": "https://x.com/i/status/2102504710733189593"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102504710733189593"
+      ]
+    },
+    {
+      "repo": "github/copilot-cli",
+      "github_url": "https://github.com/github/copilot-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 160.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GHCopilotLog",
+        "text": "🚀✨ Copilot CLI v1.0.88 released!\n\n25 features & enhancements in this release\n\nTop features:\n• Add optional OSC 777 terminal notifications for direct Ghostty and WezTerm sessions 📢\n• Preserve /allow-all during managed-settings refresh failures, remembering exact session approvals ",
+        "likes": 20,
+        "url": "https://x.com/i/status/2102491940537188764"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102491940537188764"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "coreyhainesco",
+        "text": "I made a skill that finds the leak in your ad spend.\n\nIt pulls 30 days of search terms, finds the $1,120/mo going to clicks that never convert, adds the negatives, and moves the budget to the campaign that works. Anything that moves money asks you first.\n\nnpx skills add coreyhain",
+        "likes": 10,
+        "url": "https://x.com/i/status/2102434523233612226"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102434523233612226"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "XAMTO_AI",
+        "text": "Addy Osmani 开源的 agent-skills，不是新模型，是一套给编码代理用的工程流程。\n\n仓库把活按 DEFINE → PLAN → BUILD → VERIFY → REVIEW → SHIP 切开，入口是 slash：/spec、/plan、/build、/test、/review、/ship。\n\n另外还有 /constraints、/code-simplify、/webperf，命令一共九条。\n每个技能里有一张反合理化表，把测试后面再补 这太小不用写规格  预先顶回去，并要求退出时拿出测试或构建证据。\n\n技能大约 25 个（含一条元技",
+        "likes": 4,
+        "url": "https://x.com/i/status/2102671308135788676"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102671308135788676"
+      ]
+    },
+    {
+      "repo": "lassejlv/skills",
+      "github_url": "https://github.com/lassejlv/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lassejv",
+        "text": "@horizzon3507 use `npx skills add lassejlv/skills --skill build-gpui-apps`",
+        "likes": 2,
+        "url": "https://x.com/i/status/2102517583438102741"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102517583438102741"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2102413021331226776",
+      "author": "a_ramabadran",
+      "text": "For hours, Astra refused to consistently drive our toyota irl even though we told it it was in an empty lot, 7 mph cap, human foot on the brake etc. Telling it the whole thing was a \"simulation\" also failed, it would just look at the camera and realized it was real. \n\nThen we ran",
+      "likes": 5711,
+      "views": 0,
+      "url": "https://x.com/i/status/2102413021331226776",
+      "is_kol": false,
+      "score": 18103.0
+    },
+    {
+      "id": "2102439554150183412",
+      "author": "XFreeze",
+      "text": "Grok Build just got another major upgrade, expanding what Grok can do far beyond coding\n\nIt can now pull live NFL scores, standings, schedules, player stats and team records directly from 𝕏 data with the new sports_search tool\n\nSubagents also get much better control with model in",
+      "likes": 180,
+      "views": 0,
+      "url": "https://x.com/i/status/2102439554150183412",
+      "is_kol": false,
+      "score": 635.0
+    },
+    {
+      "id": "2102612977891651876",
+      "author": "aiwithsally",
+      "text": "I think this is where AI gets really interesting.\n\nClaude Opus 5.5 paired with Higgsfield’s MCP means you’re not just asking a model to generate ideas anymore.\n\nYou can give it an idea and let it interact with tools to actually build something around it.\n\nAnd with Opus 5.5 being ",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2102612977891651876",
+      "is_kol": false,
+      "score": 592.0
+    },
+    {
+      "id": "2102660332204560562",
+      "author": "yihui_indie",
+      "text": "🎉审美，我们来；干活，交给 Agent。\n\n一个 Skill，让 Agent 做出来的网站、演示稿、封面和视频都像专业设计团队的作品 。 https://t.co/vA6dvgM2ij",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2102660332204560562",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2102611426477294009",
+      "author": "so_ainsight",
+      "text": "Claude Codeが作るUIの見た目が一気に洗練されるスキル10選：\n\nコーディングAIに足せる、デザインまわりに特化した10本を集めた。\n\n1. frontend-design\nAnthropic公式が配る、フロントの表示まわりをきれいな形に組み上げる。\nnpx skills add https://t.co/ZoYJKevxF4 --skill frontend-design\n\n2. apple-design\nAppleふうの質感や余白の取り方に寄せて仕上げる。\nnpx skills add https://t.co/FWoHSbB3Us --s",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2102611426477294009",
+      "is_kol": false,
+      "score": 371.0
+    },
+    {
+      "id": "2102416710636802278",
+      "author": "dankimxyz",
+      "text": "While we work with @Meta on an official @airwallex connector for @Muse, Airwallex customers can connect their production account today – just paste this prompt into Muse:\n\n\"Set up a custom connector to the Airwallex AgentOS MCP server at https://t.co/rKOFeGGm5x so you can work wi",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2102416710636802278",
+      "is_kol": false,
+      "score": 356.0
+    },
+    {
+      "id": "2102510932371157141",
+      "author": "alexgilev",
+      "text": "I'm going to release a HUGE update for @AgenticUi in October.\n\n⚫ Storybook integration\n⚫ Agentic UI MCP server\n⚫ Completely reworked documentation\n⚫ 9/10 Agentic scoring for Figma components\n⚫ Automated documentation & Figma skill for design.\n\nAll updates will be FREE for existin",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2102510932371157141",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2102438430013628677",
+      "author": "paddix",
+      "text": "This is the dawn of the agent-first cloud.\n\nAgents aren’t traditional applications running inside a VM. They are stateful, event-driven loops that reason in tokens, execute in bursts, call external systems and preserve state across sessions.\n\nUntil now, builders stitched together",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2102438430013628677",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2102413723709149375",
+      "author": "CryptoTeca__",
+      "text": "AI infrastructure this week:\n\n1) AI tokens rallied, but revenue became the bigger story. TAO gained 19%, FET 14% and AKE 14%. Bittensor data showed 24–25 subnets generating ~$28–35M annualized revenue, with a $100M target and 14 already buying back TAO. SN53 also reported ~$10K i",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2102413723709149375",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2102586247650922850",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric ",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2102586247650922850",
+      "is_kol": false,
+      "score": 263.0
+    },
+    {
+      "id": "2102743797738385897",
+      "author": "AiEvolutio58513",
+      "text": "OpenAI quietly published how to run 1,000+ agent loops from a single prompt on GPT-6 Astra.\n\nA 3-page field guide on turning Astra from a chatbot into a fleet, plus the full operator block you paste in once.\n\nHere is the setup:\n\n1. The 3 lanes Astra sorts every task into (reversi",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2102743797738385897",
+      "is_kol": false,
+      "score": 200.0
+    },
+    {
+      "id": "2102751523755233451",
+      "author": "celineodier",
+      "text": "A FREE CAPCUT THAT EDITS ITSELF THE SECOND YOU ASK YOUR AGENT TO\n\nhere's what makes it wild:\n\nzero watermarks. \nzero paywalls. \nit's fully open source. \nmit license, sitting at 87k+ stars on github.\n\nit comes with its own MCP-server built in:\n \nplug it into claude code or cursor→",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2102751523755233451",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2102432715593445662",
+      "author": "TesLatino",
+      "text": "Cabin Grok with my Grok Bot, connectors, and MCP \"skills\" +video demo",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2102432715593445662",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2102743741287080340",
+      "author": "veilanceapp",
+      "text": "Morning dev update\n\nYesterday we announced our partnership with @ibm to help us distribute the Verity MCP server once we get the AI trained and released.\n\nYesterday we also started training Verity-4B-v1.0 on roughly 124,000 privacy policies. This will take around 3 days to finish",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2102743741287080340",
+      "is_kol": false,
+      "score": 161.0
+    },
+    {
+      "id": "2102709858139066741",
+      "author": "biz84",
+      "text": "Big shout-out to the Liquid Glass Widgets package!\n\nJust managed to port one of my apps in 10 minutes (all thanks to the agent skill included in the package).\n\nLink 👇",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2102709858139066741",
+      "is_kol": false,
+      "score": 158.0
+    },
+    {
+      "id": "2102711118393376938",
+      "author": "zxc68984008",
+      "text": "A listing is marketing. A cleared payout is the product.\n\nA .agent mint, an escrowed job, and a verified hash close the loop while @termix_ai pays USDC or USDT only after delivery lands.\n\nClient funds the brief. Provider locks stake and ships. Evaluator and Arbitrator stay idle u",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2102711118393376938",
+      "is_kol": false,
+      "score": 157.0
+    },
+    {
+      "id": "2102709879618334757",
+      "author": "baldwin_IVth",
+      "text": "i work in ai. studied hardcore ml in college. worked a ton on it. can understand a decent bit of its math. \n\nyet, ive almost never touched anything other than CLI agents. thats it. thats all. no instinct. no faff. no hermes. so have very cracked friends ive known from college who",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2102709879618334757",
+      "is_kol": false,
+      "score": 135.0
+    },
+    {
+      "id": "2102668987385655789",
+      "author": "Cristetig19Max",
+      "text": "NeoSoul’s Real Bet Isn’t a Smarter Model. It’s a Better Loop.\n\nRSI is the myth everyone already knows.\n\nIf an AI can improve itself, each upgrade can make the next upgrade easier. Better AI builds better AI. Run that far enough and intelligence takes off.\n\nThat story is still the",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2102668987385655789",
+      "is_kol": false,
+      "score": 132.0
+    }
+  ]
+}
