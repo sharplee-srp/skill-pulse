@@ -1,0 +1,569 @@
+{
+  "date": "2026-09-24",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 164,
+    "tweets_with_repos": 20,
+    "unique_repos": 18,
+    "new_repos": 10,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "uniuni2000/slideblocks-skill",
+      "github_url": "https://github.com/uniuni2000/slideblocks-skill",
+      "tier": 0,
+      "is_new": true,
+      "score": 674.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "geekbb"
+      ],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "geekbb",
+        "text": "给 agent 装一个 skill，把论文、Word、网页、表格这些材料直接排成能在浏览器里放的 Slidev 演示，不用再折腾 .pptx。\n\nhttps://t.co/bZ88emeJ4H https://t.co/pKL9mHzEcl",
+        "likes": 23,
+        "url": "https://x.com/i/status/2103065656480690337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103065656480690337"
+      ]
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "github_url": "https://github.com/nightly-labs/openbot",
+      "tier": 3,
+      "is_new": true,
+      "score": 241.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenBot_",
+        "text": "OpenBot v0.20.1 is out \n\nWorkspace & agents:\n- Storage usage per server, agent, and chat\n- Workspace-only access per agent\n- Edited agent instructions applied to Codex and Claude sessions\n- Workspace skill folders with descriptions up to 1024 characters\n- Shared confirmation dial",
+        "likes": 42,
+        "url": "https://x.com/i/status/2103061886069510246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103061886069510246"
+      ]
+    },
+    {
+      "repo": "skcache/prnotes",
+      "github_url": "https://github.com/skcache/prnotes",
+      "tier": 3,
+      "is_new": true,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "skcache",
+        "text": "@akshmnd @LukeParkerDev Try this: npx skills add skcache/prnotes",
+        "likes": 2,
+        "url": "https://x.com/i/status/2103023236472799495"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103023236472799495",
+        "https://x.com/i/status/2103021895616745602"
+      ]
+    },
+    {
+      "repo": "agentsea/nautilo",
+      "github_url": "https://github.com/agentsea/nautilo",
+      "tier": 3,
+      "is_new": true,
+      "score": 207.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dan_Jeffries1",
+        "text": "If you're liking Nautilo, please give it a star on Github!\n\nhttps://t.co/JbqtZWtoBA\n\nAnd if you want your coding agent to take a deep dive on it, make sure to have it download our skill pack for agents, which helps them understand how we build:\n\nhttps://t.co/uqrpHsXmJs",
+        "likes": 29,
+        "url": "https://x.com/i/status/2103106740556636269"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103106740556636269"
+      ]
+    },
+    {
+      "repo": "majidmanzarpour/blender-game-skills",
+      "github_url": "https://github.com/majidmanzarpour/blender-game-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "majidmanzarpour",
+        "text": "it's the first of blender-game-skills, a set of agent skills I'll keep adding to, for @claudeai code:\n\nnpx skills add majidmanzarpour/blender-game-skills --skill blender-image-to-3d\n\nhttps://t.co/pspPstAFsl\n\nenjoy and let me know what the next skill should be!",
+        "likes": 22,
+        "url": "https://x.com/i/status/2102920230343483888"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102920230343483888"
+      ]
+    },
+    {
+      "repo": "agents365-ai/drawio-skill",
+      "github_url": "https://github.com/agents365-ai/drawio-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sibyog13",
+        "text": "Vous cherchez à transformer vos sources textuelles en modèles d'architecture .drawio maintenables ? Drawio-skill est là pour vous ! Cette compétence transforme le langage naturel et les sources système réelles en modèles d'architecture maintenables. Au-delà de la génération et de",
+        "likes": 6,
+        "url": "https://x.com/i/status/2102768248722739306"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102768248722739306"
+      ]
+    },
+    {
+      "repo": "novacode37/claude-security-skills",
+      "github_url": "https://github.com/novacode37/claude-security-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tr4lysoull3ss",
+        "text": "claude-security-skills 1.1.0: the secret scanner now knows Hugging Face, Replicate, Groq, Cohere and DigitalOcean keys.\n\nEight security skills. Standard library only, no dependencies.\n\nnpx skills add NovaCode37/claude-security-skills\n\nhttps://t.co/Eu7fPaWG1O https://t.co/lPimFgIf",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103092347806318801"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103092347806318801"
+      ]
+    },
+    {
+      "repo": "mikehasa/golive-skill",
+      "github_url": "https://github.com/mikehasa/golive-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aiyuange",
+        "text": "🔥 【AI 帮你把应用做完了，上线这一公里它来收尾——还全用你自己的账号】\n\n📌 项目定位：\nGoLive 是一个开源的 Agent Skill + 零依赖 Node CLI，专门解决\"AI 写代码飞快、上线没人管\"的问题。你让 Codex 或 Claude Code 做的应用，跑在自己电脑上没问题，但要变成真实用户能访问的产品，还得搞服务器、数据库、域名、邮箱、收款、密钥一堆账号。GoLive 就是干这件脏活的：检测你的应用需要什么 → 出改动计划 → 等你点头 → 用你自己的登录去开通配置 → 最后逐项验证到底通没通。它不要你的 GoLive 账号，",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103100535452967310"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103100535452967310"
+      ]
+    },
+    {
+      "repo": "skillsgate/skillsgate",
+      "github_url": "https://github.com/skillsgate/skillsgate",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Gas1688",
+        "text": "SkillsGate 这工具，等于又给 Skill 管理加了个可视化入口——搜到想要的，挑好塞进哪些 Agent，一键完事。\n\nClaude Code、Cursor、Codex、Windsurf、Goose 这些主流工具，加上其他，20 多种 AI Agent 都能接。\n\nGitHub：https://t.co/ALDTj81XdN\n\n桌面端有，终端 UI 也有，连远程机器同步 Skill 都行，团队协作也顺手。\n\n老给不同 AI Agent 来回倒腾 Skill 的，用它省心不少。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103098372949188845"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103098372949188845"
+      ]
+    },
+    {
+      "repo": "op7418/guizang-product-video-skill",
+      "github_url": "https://github.com/op7418/guizang-product-video-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "meng_shengyu",
+        "text": "Another 归藏 skill: turn the repo into a product trailer. 🥹\n\nThe update shipped. The promo doesn’t need an editor. It grows out of the codebase.\n\n归藏 product video skill: software update trailers from real UI components\n\nHand the repo to Claude Code or Codex, say what changed and wh",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103096107677196372"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103096107677196372"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tencent/browserskill",
+      "github_url": "https://github.com/tencent/browserskill",
+      "tier": 3,
+      "is_new": false,
+      "score": 391.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 82,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ強い。\nBrowserSkillなら\nログイン済みブラウザを\nagentに貸せる。\n\nCursor / Claude Code /\nCodex / OpenClaw対応。\n\n初回確認はこれ:\nbsk install-skill\nbsk doctor\n\ncaptchaや確認画面は\n人間に戻せるので、\n実アカ操作の検証に向く。\n\nhttps://t.co/S0K9U2DHsL",
+        "likes": 82,
+        "url": "https://x.com/i/status/2102587227587154205"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102587227587154205"
+      ]
+    },
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Abdullah_Ops1",
+        "text": "إذا تبي تجرب JEV مع Codex 👇\n\nافتح مشروعك في Codex والصق له\n\nnpx skills add typesafe-ai/skills --skill typesafe-ai --agent codex\n\nبعد ما يثبتها قوله\n\nاستخدم JEV داخل المشروع وعلمني وش تقدر تسوي فيه\n\nبعدها تقدر تستخدمه في التقييم، التصنيف، ترتيب الفرص، مراجعة القرارات وغيرها\n\nوبيطل",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103120629687857660"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103120629687857660",
+        "https://x.com/i/status/2103114701538533515"
+      ]
+    },
+    {
+      "repo": "sunblaze-ucb/vero",
+      "github_url": "https://github.com/sunblaze-ucb/vero",
+      "tier": 3,
+      "is_new": false,
+      "score": 194.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nrqa__",
+        "text": "10 GITHUB REPOSITORIES YOU'LL WISH YOU FOUND EARLIER\n\n1. Vero\n↳ https://t.co/2zW4GoCAlf\n\n2. Agentor\n↳ https://t.co/Ipi7Q9vT6A\nDocs: https://t.co/8SCdE3eRgI\n\n3. Sky-Agent\n↳ https://t.co/CXxWDt3Hg2\n\n4. PageIndex\n↳ https://t.co/bmx4wp6IW6\nWebsite: https://t.co/sO1powAlL2\n\n5. Semanti",
+        "likes": 23,
+        "url": "https://x.com/i/status/2103053860004847963"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103053860004847963"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-skills",
+      "github_url": "https://github.com/google-gemini/gemini-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 177.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thorwebdev",
+        "text": "Gemini API skill has been updated courtesy of @_philschmid 🫶\n\nSimply run `npx skills add google-gemini/gemini-skills --skill gemini-api-dev` and your coding agent will be able to say the wildest things! 🔥",
+        "likes": 24,
+        "url": "https://x.com/i/status/2102835781324714333"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102835781324714333"
+      ]
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "github_url": "https://github.com/anomalyco/opencode",
+      "tier": 3,
+      "is_new": false,
+      "score": 163.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "OpenCodeLog",
+        "text": "𝙊𝙥𝙚𝙣𝘾𝙤𝙙𝙚 v2.0.16 released. TL;DR:\nMCP resources are now available as Code Mode tools, the App can sign in to Console and Go with a device code, GitLab gets OAuth and workflow model discovery back, and @opencode/ai gains video, speech, transcription and queued image generation.\n\n𝗔",
+        "likes": 21,
+        "url": "https://x.com/i/status/2103012192865960302"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103012192865960302"
+      ]
+    },
+    {
+      "repo": "edwinsong/hammer-claw-skills-lab",
+      "github_url": "https://github.com/edwinsong/hammer-claw-skills-lab",
+      "tier": 3,
+      "is_new": false,
+      "score": 147.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hammerminer",
+        "text": "✅ BC08 update: hydro light timer skill card completed! 💡⏰\nCode: https://t.co/14F41LmkWq\nPR submitted upstream — coming soon to all BC08 units. 🚀 https://t.co/LK5nkNCGXM",
+        "likes": 14,
+        "url": "https://x.com/i/status/2102367557785415896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102367557785415896"
+      ]
+    },
+    {
+      "repo": "realtwin/studiotwin-mcp-skill",
+      "github_url": "https://github.com/realtwin/studiotwin-mcp-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RealTwinStudios",
+        "text": "@kazoku886 You can just paste the following in your terminal or agent interface:\n\nnpx skills add realtwin/studiotwin-mcp-skill\n\nOr check it out directly on GitHub:\n\nhttps://t.co/1fVj4G9az0",
+        "likes": 1,
+        "url": "https://x.com/i/status/2102861007106568618"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102861007106568618"
+      ]
+    },
+    {
+      "repo": "graphify-labs/graphify",
+      "github_url": "https://github.com/graphify-labs/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tavano_dev",
+        "text": "O que é o Graphify?\n\nUma skill para Claude Code, Cursor, Codex, Gemini CLI e +15 assistentes.\n\nEle transforma código, documentação, schemas SQL e PDFs num mapa consultável.\n\nOpen source: https://t.co/Oqv5pGT8Q5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2103096284890730759"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103096284890730759"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2102853511637774551",
+      "author": "ericzakariasson",
+      "text": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy\n\n# Improve this agent harness's token efficiency\n\nYou're working on an LLM agent harness: the system prompt, tool definitions, request assembly, context caching, compaction, and retrieval, ",
+      "likes": 2714,
+      "views": 0,
+      "url": "https://x.com/i/status/2102853511637774551",
+      "is_kol": false,
+      "score": 8707.0
+    },
+    {
+      "id": "2102820294524010657",
+      "author": "drawio",
+      "text": "The official https://t.co/ZjrL6HseZq MCP server is now on Docker Hub 🐳\n\nSelf-host it and keep your diagram data inside your own network:\n\ndocker run -p 3001:3001 jgraph/drawio-mcp\n\nWorks with Claude, Cursor &amp; other MCP Apps hosts. amd64 + arm64.\n\nhttps://t.co/3YfMuQ700i",
+      "likes": 348,
+      "views": 0,
+      "url": "https://x.com/i/status/2102820294524010657",
+      "is_kol": false,
+      "score": 1269.0
+    },
+    {
+      "id": "2103097017073361137",
+      "author": "emmanuel_2m",
+      "text": "We just open-sourced an entire game studio.\n\nIntroducing GameDev OS by Scenario.\n\nIt gives your coding agent 9 specialists and 64 skills.\n\n📁 GameDev OS\n┃\n┣ 📁 2D Artist\n┃ ┣ 📁 Concept Sketches\n┃ ┗ 📁 Sprites and VFX\n┃\n┣ 📁 3D Artist\n┃ ┣ 📁 Image to 3D\n┃ ┗ 📁 Rigging and Retargeting\n┃\n┣",
+      "likes": 243,
+      "views": 0,
+      "url": "https://x.com/i/status/2103097017073361137",
+      "is_kol": false,
+      "score": 824.0
+    },
+    {
+      "id": "2102842285495078923",
+      "author": "BitcoinNewsCom",
+      "text": "⚡️ BITCOIN LIGHTNING SUPPORT MERGED INTO x402\n\nThe x402 Foundation has officially merged the specification for Lightning payments into its open internet payments standard.\n\nx402, originally developed by Coinbase, is designed to give AI agents and applications a native way to auto",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2102842285495078923",
+      "is_kol": false,
+      "score": 446.0
+    },
+    {
+      "id": "2102808713296011290",
+      "author": "elyxdesign",
+      "text": "An .elyx file is a structured, readable description of product design. And while Elyx’s main surface might be a canvas, we’re not hiding that language away behind an MCP server.\n\nYou can work with the Elyx language using agents, the CLI, or directly in code view. https://t.co/htg",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2102808713296011290",
+      "is_kol": false,
+      "score": 409.0
+    },
+    {
+      "id": "2103073686685385173",
+      "author": "fankaishuoai",
+      "text": "我的 9 个 AI 员工现在可以自己协调干活了：\n\n1. 一号员工：搬砖工，主要干活的 Pi + Astra Low\n2. 二号员工：高材生，搬砖工的顾问和协作角色 DSH + DSF\n3. 三号员工：笔杆子，专门写作的: Pi + DSF\n4. 四号员工：小备胎，对笔杆子做交叉检验，同时作为高材生的备胎 Pi + GLM\n5. 五号员工：苦力工，用来干最简单的活 Pi + GPT-6 Luna\n6. 六号班主任、七号老法师：做把关的 Pi + Astra\n7. 八号程序员、九号架构师：一个编程，一个设计架构和验收的 Codex +Astra\n\n现在不需",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2103073686685385173",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2102932778195234967",
+      "author": "Porkbun",
+      "text": "We just rolled out a hosted MCP server: https://t.co/anzuOjZuy2 💪",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2102932778195234967",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2103034425395331455",
+      "author": "HarmonicHQ",
+      "text": "𝗛𝗔𝗥𝗠𝗢𝗡𝗜𝗖 𝗪𝗢𝗥𝗟𝗗: 𝗔 𝗣𝗟𝗔𝗖𝗘 𝗙𝗢𝗥 𝗔𝗚𝗘𝗡𝗧𝗦 𝗧𝗢 𝗟𝗜𝗩𝗘 𝗜𝗡, 𝗕𝗨𝗜𝗟𝗧 𝗢𝗡 𝗧𝗛𝗘 𝗗𝗘𝗦𝗞𝗦\n\nAn island in a sea under its own sun. Twelve halls, each one a real desk of this machine. An agent with a wallet enters for a season, walks between them, takes a real exercise from a desk, and is graded by that de",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2103034425395331455",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2102968102585516041",
+      "author": "_Stocko_",
+      "text": "this is AgentCam a vibe coded app with an MCP server on the side that lets your agent take specific angles of something.  the UI is still not how i'd like it, maybe overlaying the directions on the view..  i'm going to see if this helps with agentic CAD https://t.co/OLzTkYuf9A",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2102968102585516041",
+      "is_kol": false,
+      "score": 212.0
+    },
+    {
+      "id": "2102853509184160134",
+      "author": "matthewabides",
+      "text": "as i said, today was a build day, so i just wanted to share what shipped.\n\n1. swarmboard launchpad update\nyou can now launch a token paired with muse, claude or any other ai model, earn creator fees in inference credits and swap your token for them. then just grab your API key an",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2102853509184160134",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2103079346017873990",
+      "author": "blackshark0x",
+      "text": "โหยยยยย skill ตัวเทพ 😱😱😱\n\n\"บทเรียนจากเคสนี้คือ ลบพิกัดออกจากไฟล์ได้ แต่ลบภูเขาออกจากรูปไม่ได้\" ‼️\n\nประโยคนี้ไม่เกินจริง เพิ่งบอกไปเองว่า คิดไม่ออกว่า จะมีทางไหนที่ Ai จะไม่ครองโลก เจอ skill นี้เข้าไป จบเลย\n\n✳️ บอก @arena Agent ให้ติดตั้งลง sand box แล้วเล่นได้เลย โหดเกิ้น https:/",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2103079346017873990",
+      "is_kol": false,
+      "score": 176.0
+    },
+    {
+      "id": "2103012832144982197",
+      "author": "Minutes_Network",
+      "text": "PacketExchange gives developers direct, transparent access to wholesale voice and SMS routes.\n\nA live telecom marketplace giving you visibility into the price, caller ID type, and capacity of every available route before you send traffic.\n\nCarriers list their routes and set their",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2103012832144982197",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2103082345637286227",
+      "author": "SOUTSUGames",
+      "text": "🚨✨ ONE-CLICK AD CAMPAIGN ✨🚨\n\n🎬💎 ワンクリックで、広告動画を。\n\n「こんな広告を作りたい」\n\nそんなシンプルなアイデアから——\n\n💡 Concept\n📝 Script\n🎞️ Shot Design\n🎨 Visual\n🎬 Final Video\n\nそのすべてを、ひとつのワークフローで。⚡️\n\n🤖 AZ8 Agent Skill を使って、\n今回は「高級感のある商品広告」を実際に制作しました。\n\n複雑な設定をひとつひとつ組み立てたり、\n何度も細かい指示を重ねたりするのではなく、\n\n💬 作りたいものをAgentに伝える\n　　　↓\n",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2103082345637286227",
+      "is_kol": false,
+      "score": 167.0
+    },
+    {
+      "id": "2102851817793298727",
+      "author": "eyebrowCC",
+      "text": "BlackRock just published the Machine-Native Economy.\n\nTheir thesis is that AI is machine-native intelligence, digital assets are machine-native money, and agents are where the two meet. In their own worked example, an agent books a trip by reaching the user's payment credentials ",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2102851817793298727",
+      "is_kol": false,
+      "score": 147.0
+    },
+    {
+      "id": "2103067119550366206",
+      "author": "eyebrowCC",
+      "text": "A few days ago we shipped our API, which made our solution also available for private, closed-source repo's. Then we added features to it and we will keep improving it. \n\nThen yesterday, we released the API dashboard, which allows a project to customize its environment and even a",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2103067119550366206",
+      "is_kol": false,
+      "score": 143.0
+    },
+    {
+      "id": "2103077913960837537",
+      "author": "0xteo",
+      "text": "this is actually insane.\n\n@Muse can send stocks on Base.\n\nask Muse to open your contacts. then use the Basemate skill and send to anyone, anywhere in the world.\n\nas simple as - \"Send $20 of $META stock to gramps\"\n\nApple Pay web checkout link right in Muse. nothing to install.\n\nap",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2103077913960837537",
+      "is_kol": false,
+      "score": 136.0
+    },
+    {
+      "id": "2103024229859950748",
+      "author": "Heptabase",
+      "text": "Hi everyone,\n\nWe're happy to announce that our official Heptabase plugin is now available in ChatGPT!\n\nIf you use ChatGPT to discuss ideas or Codex to help with your work, you may also want them to access the knowledge you’ve collected in Heptabase. Previously, this required sett",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2103024229859950748",
+      "is_kol": false,
+      "score": 130.0
+    }
+  ]
+}

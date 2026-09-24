@@ -7478,5 +7478,45 @@
   "agentrhq/webcmd": {
     "first_seen": "2026-09-23",
     "tier": 3
+  },
+  "uniuni2000/slideblocks-skill": {
+    "first_seen": "2026-09-24",
+    "tier": 0
+  },
+  "nightly-labs/openbot": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "skcache/prnotes": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "agentsea/nautilo": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "majidmanzarpour/blender-game-skills": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "agents365-ai/drawio-skill": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "novacode37/claude-security-skills": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "mikehasa/golive-skill": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "skillsgate/skillsgate": {
+    "first_seen": "2026-09-24",
+    "tier": 3
+  },
+  "op7418/guizang-product-video-skill": {
+    "first_seen": "2026-09-24",
+    "tier": 3
   }
 }
