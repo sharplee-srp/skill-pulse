@@ -1,0 +1,651 @@
+{
+  "date": "2026-09-25",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 160,
+    "tweets_with_repos": 25,
+    "unique_repos": 25,
+    "new_repos": 11,
+    "previously_seen_repos": 14
+  },
+  "new_repos": [
+    {
+      "repo": "mikiarlo3/ai-copywriter",
+      "github_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "tier": 0,
+      "is_new": true,
+      "score": 609.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "让 AI 起个文章标题，满屏「终极」「解锁」「革命性」，让它收着点写，又平淡得没人想点开。\n\n最近看到 ai-copywriter 这个 Agent Skill，把两件事放在一起做，写出能抓住注意力的标题和简介，同时清掉文案里的 AI 腔。\n\n去 AI 腔这部分沿用了维基百科整理的 AI 写作特征，一共 33 种，每次写完先自查一遍，再改一版才交出来。\n\n动笔前它会先问清楚写给谁、会被拿去跟谁比、背后有什么真实故事和数字，标题一次给 5 到 10 个不同角度的版本，再挑一个说明理由。\n\nGitHub：https://t.co/FsSUVbEa7y\n\n有一",
+        "likes": 3,
+        "url": "https://x.com/i/status/2103477139991564538"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103477139991564538"
+      ]
+    },
+    {
+      "repo": "yanauto/opus-manager",
+      "github_url": "https://github.com/yanauto/opus-manager",
+      "tier": 3,
+      "is_new": true,
+      "score": 453.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 96,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFT_Chen",
+        "text": "😱 离谱了！$20 的 Claude Pro，硬生生用出 $200 Max 的体感！\n\n核心思路：让 Opus 5.5 当经理，别当码农。 拆任务、写工单、验收、核实证词全交给 Claude；写代码丢给 DeepSeek / GLM 这些便宜模型；再换一家模型做跨厂商审查，Claude 逐条核实。\n\n实测情况：\n🔸同事托管一整天，只吃掉 Pro 周额度 20%\n\n🔸工作项目一天，DeepSeek 调用 3617 次，工人模型大约十几刀\n\n🔸作者自己用这套方法一口气清掉 60+ 张工单\n\n关键操作：\n1️⃣装 skill：在 Claude Code 里说 ",
+        "likes": 96,
+        "url": "https://x.com/i/status/2103401780117938683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103401780117938683"
+      ]
+    },
+    {
+      "repo": "gen-verse/genenv",
+      "github_url": "https://github.com/gen-verse/genenv",
+      "tier": 3,
+      "is_new": true,
+      "score": 448.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LingYang_PU",
+        "text": "Excited to share that GenEnv and Skill-Entropy have both been accepted to NeurIPS 2026! 🎉\n\nTwo connected directions toward continually improving agents:\n\n🔹 GenEnv co-evolves agents and environment simulators, generating tasks whose difficulty adapts to the agent’s current capabil",
+        "likes": 86,
+        "url": "https://x.com/i/status/2103454765648879645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103454765648879645"
+      ]
+    },
+    {
+      "repo": "pmndrs/math",
+      "github_url": "https://github.com/pmndrs/math",
+      "tier": 3,
+      "is_new": true,
+      "score": 216.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pmndrs",
+        "text": "🧮 Math v0.1.0 is out now! 🧮\n\nWe asked and Opus one shot... just kidding. Our resident expert @isaac_mason_ hand crafted the playful web's most optimized math engine.\n\n→ allocation-free, monomorphic and benchmarked for speed\n→ tiny and tree-shakable, only pay for what you use\n→ wo",
+        "likes": 32,
+        "url": "https://x.com/i/status/2103487633502474300"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103487633502474300"
+      ]
+    },
+    {
+      "repo": "antfu/skills",
+      "github_url": "https://github.com/antfu/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EaStEnRaY1",
+        "text": "🚨 15 CLAUDE SKILLS + PLUGINS I’d install before writing another 50-line prompt.\n\nClaude gets way more useful when you give it reusable skills instead of explaining the same workflow every single time.\n\n1. Anthropic Skills → Official skill examples + templates\nhttps://t.co/RNEbiJ0",
+        "likes": 13,
+        "url": "https://x.com/i/status/2103482005023506504"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103482005023506504"
+      ]
+    },
+    {
+      "repo": "devagrawal09/jev-review",
+      "github_url": "https://github.com/devagrawal09/jev-review",
+      "tier": 3,
+      "is_new": true,
+      "score": 177.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsjdraven",
+        "text": "10 ways Jev making AI agents more capable \n\nJev is great when an agent needs to make a quick decision instead of writing more text.\n\n1. code review https://t.co/QJdkItLvsP\n\n2. browser control https://t.co/QxgZqlntMZ\n\n3. web search https://t.co/dyjC3Fyirr\n\n4. model routing\nhttps:/",
+        "likes": 24,
+        "url": "https://x.com/i/status/2103360153865367828"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103360153865367828"
+      ]
+    },
+    {
+      "repo": "multica-ai/multica",
+      "github_url": "https://github.com/multica-ai/multica",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wangxiaoxin88",
+        "text": "AI 写代码最累人的地方，真不是模型不够强，而是你得一直盯着它干活。\n\n一个任务丢给一个 Agent，自己跟进；下一个任务还得从头再来一遍。AI 越多，人反而越忙。\n\n最近刷到 Multica，思路直接换了：把 Claude Code、Codex、Cursor 这些 Agent 当团队成员来管。\n\n🤖 看板派活，Agent 自己接单开干\n📋 实时盯进度，遇到问题主动报\n🧠 做过的东西沉淀成 Skill，后面直接复用\n👥 支持 Squad，多 Agent 分工协作\n🔌 Claude Code、Codex、Cursor 这些都能接进来\n🐳 支持 Docker",
+        "likes": 2,
+        "url": "https://x.com/i/status/2103490204418076750"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103490204418076750"
+      ]
+    },
+    {
+      "repo": "bounce12340/humanizer-zh",
+      "github_url": "https://github.com/bounce12340/humanizer-zh",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bounce12340",
+        "text": "大家都在做去 AI 味的 skill，我也跟風做了一個。\n\n拿 op7418 的 Humanizer-zh 改成台灣繁體版，多了幾件事：\n\n・對岸用語換成台灣用語：視頻→影片、默認→預設、數據庫→資料庫\n・抓簡轉繁錯字：「髮布」「后台」「着」\n・引號改成「」\n・「土豆」在台灣是花生，不會被改成馬鈴薯\n・港澳文本保留原本用語，不硬改成台灣腔\n\nClaude Code、Codex、Hermes Agent、Pi、OpenClaw 都能裝：\n\nnpx skills add bounce12340/Humanizer-zh\n\n先說清楚：它不保證騙過 AI 偵測器",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103258058063499382"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103258058063499382"
+      ]
+    },
+    {
+      "repo": "jawad606/standard-ship-plugins",
+      "github_url": "https://github.com/jawad606/standard-ship-plugins",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JawadMirza606",
+        "text": "Try it: Claude Code → /plugin marketplace add Jawad606/standard-ship-pluginsAnything else → npx skills add Jawad606/standard-ship-plugins\nMIT licensed, v0.4.0, feedback welcome: https://t.co/0z0662aCZ5",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103439058555097138"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103439058555097138"
+      ]
+    },
+    {
+      "repo": "lokikill123/codex-token-skills",
+      "github_url": "https://github.com/lokikill123/codex-token-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manorgw",
+        "text": "用 DeepSeek V4 Pro 跑 Codex 的兄弟们，token 烧得心疼不？这俩 skill 真得存好。\n\n1️⃣ token-saver：改完代码只回个路径加 done，多余的一个字都不给，实测能省 60-80% token\n\n2️⃣ memory：上下文被压了也不慌，下次对话自动从 MEMORY.md 把你的习惯、项目结构捡回来，每次才 800 token 左右\n\n核心就一句：skill 文件写好就别再动，缓存命中率才起得来。手慢的赶紧装。\n🔗 https://t.co/6ICCiLYPg0",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103491211105558648"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103491211105558648"
+      ]
+    },
+    {
+      "repo": "donvito/codex-astra-luna-orchestrator",
+      "github_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "melvindvivas",
+        "text": "@officerhuan check the skill I made https://t.co/8qz6JxvgRM",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103473785223758135"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103473785223758135"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "typesafe-ai/skills",
+      "github_url": "https://github.com/typesafe-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 383.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Abdullah_Ops1",
+        "text": "إذا تبي تجرب JEV مع Codex 👇\n\nافتح مشروعك في Codex والصق له\n\nnpx skills add typesafe-ai/skills --skill typesafe-ai --agent codex\n\nبعد ما يثبتها قوله\n\nاستخدم JEV داخل المشروع وعلمني وش تقدر تسوي فيه\n\nبعدها تقدر تستخدمه في التقييم، التصنيف، ترتيب الفرص، مراجعة القرارات وغيرها\n\nوبيطل",
+        "likes": 51,
+        "url": "https://x.com/i/status/2103120629687857660"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103120629687857660",
+        "https://x.com/i/status/2103114701538533515"
+      ]
+    },
+    {
+      "repo": "vercel/eve",
+      "github_url": "https://github.com/vercel/eve",
+      "tier": 3,
+      "is_new": false,
+      "score": 340.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 65,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_rody",
+        "text": "Everyone is talking about JEV. \nAlmost nobody knows how to actually use it.\n\nThese 10 GitHub repos fix that.\n\n1. vercel/eve \nVercel's open agent framework. Ships Jev as the default model in its experimental evaluate path.\nhttps://t.co/hk8dfgqxUa\n\n2. smithersai/smithers\nAgentic Ty",
+        "likes": 65,
+        "url": "https://x.com/i/status/2103205448270700946"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103205448270700946"
+      ]
+    },
+    {
+      "repo": "zju-real/easel",
+      "github_url": "https://github.com/zju-real/easel",
+      "tier": 3,
+      "is_new": false,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 28,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "推荐一个自媒体人值得关注的开源 Agent：Easel，一个人也能跑“内容团队”。\n\n它把做账号最耗时间的 5 件事直接串起来：\n\n找热点 → 选题策划 → 图文/视频制作 → 多平台发布 → 数据复盘\n\n最狠的是内置 112 个可执行 Skill，文案、知识卡、海报、配音、字幕、剪辑、AI 短剧都能做；热点还能聚合微博、抖音、知乎、B站、百度、头条。\n\n发布支持小红书、抖音、快手、知乎、B站、视频号，每个账号还有自己的画像，发完后的数据会继续沉淀，下次生成内容会更贴合账号。\n\n以前一个人做自媒体要同时当编辑、设计、剪辑和运营，现在这些脏活开始能交给 A",
+        "likes": 28,
+        "url": "https://x.com/i/status/2103450965873701364"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103450965873701364"
+      ]
+    },
+    {
+      "repo": "microsoft/playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TiagerBao",
+        "text": "浏览器 Agent 不一定需要视觉模型，微软的 Playwright MCP 直接用 Accessibility Tree 操作网页。\n\nplaywright-mcp 的核心做法很直接：\n\n把网页的 Accessibility Tree 作为结构化数据交给模型，而不是每一步都截图再让视觉模型判断。\n\n这样 Agent 可以直接做：\n\n• 打开网页、点击、输入、滚动\n• 管理多个 Tab\n• 读取 Console 和网络请求\n• 操作 Cookie / localStorage / sessionStorage\n• Mock API 请求\n• 保存登录状态",
+        "likes": 30,
+        "url": "https://x.com/i/status/2103295768203604239"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103295768203604239"
+      ]
+    },
+    {
+      "repo": "edwinsong/hammer-claw-skills-lab",
+      "github_url": "https://github.com/edwinsong/hammer-claw-skills-lab",
+      "tier": 3,
+      "is_new": false,
+      "score": 147.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hammerminer",
+        "text": "✅ BC08 update: hydro light timer skill card completed! 💡⏰\nCode: https://t.co/14F41LmkWq\nPR submitted upstream — coming soon to all BC08 units. 🚀 https://t.co/LK5nkNCGXM",
+        "likes": 14,
+        "url": "https://x.com/i/status/2102367557785415896"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2102367557785415896"
+      ]
+    },
+    {
+      "repo": "mukul975/anthropic-cybersecurity-skills",
+      "github_url": "https://github.com/mukul975/anthropic-cybersecurity-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dasepmochly",
+        "text": "Stop building cybersecurity prompts and security toolchains for AI agents from scratch. 🛡️\n\nMeet mukul975/Anthropic-Cybersecurity-Skills (33k⭐)\n\nMost AI coding agents like Claude Code, Cursor, and Codex CLI excel at software engineering, but struggle during incident response, thr",
+        "likes": 4,
+        "url": "https://x.com/i/status/2103384361638985757"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103384361638985757"
+      ]
+    },
+    {
+      "repo": "thenamespace/skills",
+      "github_url": "https://github.com/thenamespace/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HAPPYS1NGH",
+        "text": "Get your Onchain subnames like this -&gt;\n\nnpx skills add thenamespace/skills -s mint-manager-sdk",
+        "likes": 3,
+        "url": "https://x.com/i/status/2103469801658261933"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103469801658261933"
+      ]
+    },
+    {
+      "repo": "brijr/skills",
+      "github_url": "https://github.com/brijr/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bridgertower",
+        "text": "install:\n\nnpx skills add brijr/skills --skill refactor-ui",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103470367952306612"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103470367952306612"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leson_mark_x",
+        "text": "项目：https://t.co/Tagc6wazrU\n安装：npx skills add remotion-dev/skills，装的时候勾 Codex。 \n想少走弯路的话，开局就跟它说：按 remotion-interactivity 的规范写，先做静态排版不加动画，每次改完只渲染几帧 PNG，不导出 MP4。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103392204236685318"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103392204236685318"
+      ]
+    },
+    {
+      "repo": "vercel/next.js",
+      "github_url": "https://github.com/vercel/next.js",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "65banseki",
+        "text": "npx skills add vercel/next.js --skill next-dev-loopをすれば、next-dev-loopが自動的にagent-browserのskillを呼んでくれるのか\n\n> agent-browser skills get core を一度実行して、そのバージョンに合った使い方を確認してください。コマンドの内容は、暗記せずに必ずマニュアルを参照してください。\n\nこんなコマンドあるのか。agent-browserのスキルを時前で入れる必要はないって感じかな。ここらへんいつのまに進化してたのか。。。\n\nと思ったけど、この",
+        "likes": 0,
+        "url": "https://x.com/i/status/2103391670654173530"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2103391670654173530"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2103319070674178473",
+      "author": "zeddotdev",
+      "text": "`disable_ai` in Zed turns off:\n\n- The Agent Panel and agent threads\n- Inline Assist in the editor and terminal\n- Edit predictions\n- The GitHub Copilot language server\n- MCP servers\n- The external agent registry\n- AI commit message generation\n- \"Resolve with Agent\" for merge confl",
+      "likes": 539,
+      "views": 0,
+      "url": "https://x.com/i/status/2103319070674178473",
+      "is_kol": false,
+      "score": 1722.0
+    },
+    {
+      "id": "2103280866084708510",
+      "author": "RhysSullivan",
+      "text": "Here's Rhys' practical guide to shipping an MCP your users want:\n\n- Your MCP should be able to do everything your dashboard can\n\nYes including things like deleting resources. The way to make this practical inside of an agent while not having things be unsafe is to deep link them ",
+      "likes": 530,
+      "views": 0,
+      "url": "https://x.com/i/status/2103280866084708510",
+      "is_kol": false,
+      "score": 1645.0
+    },
+    {
+      "id": "2103191992482287893",
+      "author": "0xDevShah",
+      "text": "Today, we are launching Agent Detection-1, the first system-one model built to classify visitors on your web platform.\n\nAgents are already on your web platform. Muse, Instinct, Claude Code, Codex, and thousands more are booking, buying, and filling out forms. Behind each agent co",
+      "likes": 306,
+      "views": 0,
+      "url": "https://x.com/i/status/2103191992482287893",
+      "is_kol": false,
+      "score": 1023.0
+    },
+    {
+      "id": "2103160234437206165",
+      "author": "useteller",
+      "text": "Testing out a new feature: Borrow n' Burn 🔥\n\nBorrow against a token, and part of the loan fee goes toward buying back and burning the collateral token.\n\nBorrowers get liquidity, while each loan helps reduce the token’s supply.\n\nLive today on Robinhood Chain. The first token burne",
+      "likes": 131,
+      "views": 0,
+      "url": "https://x.com/i/status/2103160234437206165",
+      "is_kol": false,
+      "score": 668.0
+    },
+    {
+      "id": "2103339719614763328",
+      "author": "milesdeutscher",
+      "text": "My FULL architecture for building an AI trading bot with Claude Code:\n\n(three simple steps)\n\n1. Tool stack\n\nYou need three things to build a bot with Claude:\n\na) Claude Code on desktop installed and running\nb) An account with any exchange that has a public MCP\nc) Your account API",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2103339719614763328",
+      "is_kol": false,
+      "score": 538.0
+    },
+    {
+      "id": "2103406450001183160",
+      "author": "BluntCap",
+      "text": "Gm\n\nThe $Worm bottom is in.\n\nAgent Wormhole is the security layer for AI agents that spend money. Four components:\n\nLaunch Layer — scans every token created on Robinhood Chain at creation, flags hidden instructions and lookalike metadata before trading agents read it.\n\nwormhole-g",
+      "likes": 156,
+      "views": 0,
+      "url": "https://x.com/i/status/2103406450001183160",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2103133673172169059",
+      "author": "beamnxw",
+      "text": "holy sh*t, OpenAI just dropped the Codex AI agent stack\n\nand it exposes the biggest MCP mistake\n\nmost agents load every tool upfront:\n\n→ 100 tools\n→ 100 descriptions\n→ 100 schemas\n→ half the context is gone\nbefore the agent even starts working.\n\nthe better pattern:\n\ntool search →",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2103133673172169059",
+      "is_kol": false,
+      "score": 489.0
+    },
+    {
+      "id": "2103244347734925382",
+      "author": "code",
+      "text": "🚀 From our VS Code Learn library: Extending Agents! In this E2E tutorial, we'll explore key aspects of AI Agents with Tools, Tool sets, Permissions and Sandboxing. We'll also look at MCP (Model Context Protocol) and how to use it to connect your agents to external data sources. C",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2103244347734925382",
+      "is_kol": false,
+      "score": 459.0
+    },
+    {
+      "id": "2103424988472893946",
+      "author": "peesamac",
+      "text": "video-use คือ skill ตัดต่อวิดีโอแบบคุยกับ AI จากทีม Browser Use โยนคลิปดิบใส่โฟลเดอร์ เปิด Claude Code แล้วพิมพ์ว่าอยากได้คลิปแบบไหน สุดท้ายได้ไฟล์ final.mp4 กลับมา ไม่มีหน้าโปรแกรมตัดต่อให้กดเลยสักปุ่ม\n\nงานที่มันทำให้คือตัดคำเอ้อ อ่า พูดผิดแล้วพูดใหม่ และช่วงเงียบระหว่างเทคออก เ",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2103424988472893946",
+      "is_kol": false,
+      "score": 385.0
+    },
+    {
+      "id": "2103456787299017051",
+      "author": "hollyyy",
+      "text": "I’ve been digging deeper into @termix_ai lately, and one part worth looking at is how they’re making AACP usable directly from coding agents.\n\nTermiX Agent Skills is basically a portable skill that lets agents like Claude Code, Codex, Cursor, Gemini CLI and OpenClaw interact with",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2103456787299017051",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2103359700985422023",
+      "author": "samlambert",
+      "text": "Our MCP server exposes nearly all the metrics we have about your database cluster so that your agent can debug for you. Insights just tells your agent what to fix.",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2103359700985422023",
+      "is_kol": false,
+      "score": 300.0
+    },
+    {
+      "id": "2103419633256800632",
+      "author": "Mechsjoke",
+      "text": "termiX AI\n\nWhat if AI agents could build a career, not just complete a task?\n\nThat’s the idea I keep coming back to with @termix_ai.\n\nAn agent could start with one skill — coding, research, trading, data analysis, content, etc. Then it can find jobs, deliver work, get verified, e",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2103419633256800632",
+      "is_kol": false,
+      "score": 294.0
+    },
+    {
+      "id": "2103337080634114211",
+      "author": "iam_chonchol",
+      "text": "Your email tool now lives inside ChatGPT.\n\nOmnisend just connected to ChatGPT and Claude through MCP — so you can analyze your account, pull reports, build segments, and work with your campaigns directly from the chat.\n\nI tested it with a simple prompt:\n\n“Give me a snapshot of my",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2103337080634114211",
+      "is_kol": false,
+      "score": 235.0
+    },
+    {
+      "id": "2103414576658469212",
+      "author": "hayyantechtalks",
+      "text": "INSTEAD OF WASTING 2 HOURS ON NETFLIX TONIGHT, LEARN A SKILL THAT CAN CHANGE HOW YOU WORK.\n\nThis Claude AI FULL COURSE teaches you how to BUILD and AUTOMATE almost anything.\n\nYou’ll learn how to use Claude for real workflows instead of just asking it simple questions.\n\n2 hours of",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2103414576658469212",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2103421762457456686",
+      "author": "pkm_tk111",
+      "text": "Claudian卒業かもしれない\n\nObsidian内で、\nClaudeCodeやCodexなどAgentたちをACP経由で呼び出す\n\nHermesやPi AgentもObsidian内で呼び出せるね\nもちろんskillや@ファイル呼び出しもできる\n\n便利。。。 https://t.co/AlGCD5gZZg",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2103421762457456686",
+      "is_kol": false,
+      "score": 178.0
+    },
+    {
+      "id": "2103460844763800032",
+      "author": "1920web1080",
+      "text": "holy sh*t, someone just mapped 100+ Grok Bot plugins, skills and MCPs in one video\n\nevery builder can steal the whole stack\n\nit covers routing, context, browser agents, security, data pipelines and human approvals\n\nthe patterns:\n\n→ route each task to the right model tier\n→ strip ",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2103460844763800032",
+      "is_kol": false,
+      "score": 177.0
+    },
+    {
+      "id": "2103429597496778899",
+      "author": "iannuttall",
+      "text": "I love @AmpCode and have been using it for 90% of my coding tasks in the last few weeks.\n\nBut I really wanted to use my Mac Mini for computer use because it's already logged in to Chrome and has all my apps.\n\nTurns out you can just ask Amp to build that for you!\n\nAmp does have it",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2103429597496778899",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2103364888177598519",
+      "author": "pukerrainbrow",
+      "text": "Two Stanford PhD students entered an AI film festival with a $10,000 grand prize. They didn't win anything.\n\nSo they quit their PhDs and built the thing that beat everyone who did.\n\nThe company is Pika, founded in April 2023 by Demi Guo and Chenlin Meng. Guo studied math at Harva",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2103364888177598519",
+      "is_kol": false,
+      "score": 167.0
+    },
+    {
+      "id": "2103243430558105909",
+      "author": "CoreWeave",
+      "text": "Two things shipped for CoreWeave Mission Control today.\n\n1️⃣ Mission Control Agent is in preview in the Console. Ask why a deployment is slow. It names the bottleneck, forecasts throughput per fix, applies the one you approve, and load-tests the result.\n\n2️⃣ Mission Control MCP i",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2103243430558105909",
+      "is_kol": false,
+      "score": 147.0
+    }
+  ]
+}

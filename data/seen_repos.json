@@ -7518,5 +7518,49 @@
   "op7418/guizang-product-video-skill": {
     "first_seen": "2026-09-24",
     "tier": 3
+  },
+  "mikiarlo3/ai-copywriter": {
+    "first_seen": "2026-09-25",
+    "tier": 0
+  },
+  "yanauto/opus-manager": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "gen-verse/genenv": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "pmndrs/math": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "antfu/skills": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "devagrawal09/jev-review": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "multica-ai/multica": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "bounce12340/humanizer-zh": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "jawad606/standard-ship-plugins": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "lokikill123/codex-token-skills": {
+    "first_seen": "2026-09-25",
+    "tier": 3
+  },
+  "donvito/codex-astra-luna-orchestrator": {
+    "first_seen": "2026-09-25",
+    "tier": 3
   }
 }
