@@ -7562,5 +7562,49 @@
   "donvito/codex-astra-luna-orchestrator": {
     "first_seen": "2026-09-25",
     "tier": 3
+  },
+  "walkinglabs/learn-harness-engineering": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "musepadlol/musepad-mcp": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "scenario-labs/skills": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "bmad-code-org/bmad-method": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "docker/skills": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "atharvadeosthale/takeone": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "amelnagdy/delegate-skills": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "tudorturcanu/iphone-duo-skill": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "qingeneral/geektime_cli": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "maleonro/startup-product-skills": {
+    "first_seen": "2026-09-26",
+    "tier": 3
+  },
+  "sugatoray/aiskills": {
+    "first_seen": "2026-09-26",
+    "tier": 3
   }
 }
