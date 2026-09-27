@@ -7606,5 +7606,81 @@
   "sugatoray/aiskills": {
     "first_seen": "2026-09-26",
     "tier": 3
+  },
+  "agentenatalie/get-job.skill": {
+    "first_seen": "2026-09-27",
+    "tier": 2
+  },
+  "epoko77-ai/im-not-ai": {
+    "first_seen": "2026-09-27",
+    "tier": 2
+  },
+  "ollaya-dev/ollaya": {
+    "first_seen": "2026-09-27",
+    "tier": 2
+  },
+  "asymptote-labs/agent-beacon": {
+    "first_seen": "2026-09-27",
+    "tier": 2
+  },
+  "paulklayvc/skills": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "tianyucodings/nanojev": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "mystiquemide/whylode": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "mastra-ai/mastra": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "modelcontextprotocol/typescript-sdk": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "shashwatweb3/shashwat-agent-skills": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "gianfrancobazzani/c4-ccss-skill": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "mbappewu/explorable": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "pawanosman/programmatic-motion-video": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "yadav-prakhar/skills": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "adhhamdev/modern-react-guidance": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "forwardemail/skills": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "openvet-projects/vetclaw": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "iliaal/whetstone": {
+    "first_seen": "2026-09-27",
+    "tier": 3
+  },
+  "minara-ai/minara-cli": {
+    "first_seen": "2026-09-27",
+    "tier": 3
   }
 }
