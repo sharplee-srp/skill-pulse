@@ -7682,5 +7682,29 @@
   "minara-ai/minara-cli": {
     "first_seen": "2026-09-27",
     "tier": 3
+  },
+  "nvlabs/kda": {
+    "first_seen": "2026-09-28",
+    "tier": 3
+  },
+  "lapyme/facturas": {
+    "first_seen": "2026-09-28",
+    "tier": 3
+  },
+  "srvjha/reel-animated-explainer": {
+    "first_seen": "2026-09-28",
+    "tier": 3
+  },
+  "arjunkshah12345-hash/codex-slow-mode": {
+    "first_seen": "2026-09-28",
+    "tier": 3
+  },
+  "g1joshi/agent-skills": {
+    "first_seen": "2026-09-28",
+    "tier": 3
+  },
+  "kaitoinfra/twitterapi-io": {
+    "first_seen": "2026-09-28",
+    "tier": 3
   }
 }

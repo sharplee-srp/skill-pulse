@@ -1,0 +1,556 @@
+{
+  "date": "2026-09-28",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 19,
+    "unique_repos": 18,
+    "new_repos": 6,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "nvlabs/kda",
+      "github_url": "https://github.com/nvlabs/kda",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LigengZhu",
+        "text": "🚀 Kernel Design Agents to Optimize Kimi Delta Attention (upto 2.96x)\n\nWhen the KDA (Kernel Design Agents) project was initiated, its name happened to coincide with another KDA (Kimi Delta Attention). More than once, people asked us , \"Can we use KDA to write a version of KDA?\" To",
+        "likes": 34,
+        "url": "https://x.com/i/status/2104607532358697003"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104607532358697003"
+      ]
+    },
+    {
+      "repo": "lapyme/facturas",
+      "github_url": "https://github.com/lapyme/facturas",
+      "tier": 3,
+      "is_new": true,
+      "score": 148.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomasmalamud",
+        "text": "Super inspirado en los proyectos OSS de @vercel:\n- npx skills add LaPyme/facturas como primer comando  para agentes\n- CLI con zero-config setup\n- SDK con configuración built-in de env vars \n- Mucho laburo en hacerlo lo más simple posible\n- Adapter para conectar el backend que use",
+        "likes": 16,
+        "url": "https://x.com/i/status/2104568532117733512"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104568532117733512"
+      ]
+    },
+    {
+      "repo": "srvjha/reel-animated-explainer",
+      "github_url": "https://github.com/srvjha/reel-animated-explainer",
+      "tier": 3,
+      "is_new": true,
+      "score": 139.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 13,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "J_srv001",
+        "text": "I created a reel using this skill, and here’s the demo showing the entire process.\n\nIn case you want to try, it’s pretty simple. Just install the skill using the command :\n\nnpx skills add srvjha/reel-animated-explainer\n\nand it’ll automatically ask you a few questions about the th",
+        "likes": 13,
+        "url": "https://x.com/i/status/2104556953531981932"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104556953531981932"
+      ]
+    },
+    {
+      "repo": "arjunkshah12345-hash/codex-slow-mode",
+      "github_url": "https://github.com/arjunkshah12345-hash/codex-slow-mode",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arjunkshah21",
+        "text": "Introducing Slow Mode for Codex.\n\nAn open-source skill you can install that will stretch out your Codex tasks over time, so you don't hit your 5 hour limit.\n\n100% free and open source, for when Tibo isn't there to save us.\n\nnpx skills add arjunkshah12345-hash/codex-slow-mode http",
+        "likes": 2,
+        "url": "https://x.com/i/status/2104512188455190860"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104512188455190860"
+      ]
+    },
+    {
+      "repo": "g1joshi/agent-skills",
+      "github_url": "https://github.com/g1joshi/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "G1Joshii",
+        "text": "Stop prompt bloat... Load domain knowledge on demand.\n\nAgent Skills: 350 production-grade capabilities for Cursor, Claude Code, Antigravity &amp; Copilot.\n\n$ npx skills add g1joshi/agent-skills\n\nhttps://t.co/lNAydyB77o\n\n#AI #SoftwareEngineering #DeveloperTools #OpenSource #DevOps",
+        "likes": 0,
+        "url": "https://x.com/i/status/2104564509004472641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104564509004472641"
+      ]
+    },
+    {
+      "repo": "kaitoinfra/twitterapi-io",
+      "github_url": "https://github.com/kaitoinfra/twitterapi-io",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "huhi471356",
+        "text": "https://t.co/A1nFWHvcpe\n\n直接 npx skills add kaitoInfra/twitterapi-io，装完让 Agent 自己调。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2104523328325373990"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104523328325373990"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "google/ax",
+      "github_url": "https://github.com/google/ax",
+      "tier": 0,
+      "is_new": false,
+      "score": 721.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 27,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "一个 Agent 跑任务好管，同时跑上百个就麻烦了，每个都得单独隔离、提前拉好代码仓库和工具，还得盯着别让哪个卡在循环里一直烧钱。\n\nGoogle 开源的 AX 就是管这件事的，定位是给 Agent 用的编排运行时，目前已经有 12000+ Star。\n\n用过 Kubernetes 的会觉得很眼熟，写一份配置文件，声明要跑什么任务、用哪个工作区和模型，一条命令提交，剩下的交给它。\n\nGitHub：https://t.co/I7b45zTzEz\n\n核心就三样东西。任务跑在限定了 CPU 和内存的沙箱里，工作区预先配好代码仓库、MCP 服务和 Skill，模",
+        "likes": 27,
+        "url": "https://x.com/i/status/2104564310496403872"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104564310496403872"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 509.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 68,
+      "total_retweets": 41,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Arina_sharmi",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/L8gTPwbWIe\n\n2. public-apis — free APIs for everything\n→ https://t.co/Qof8he0EmS…\n\n3. build-your-own-x — learn by building\n→ https://t.co/jvDr8jf71v…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 68,
+        "url": "https://x.com/i/status/2104423416132702561"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104423416132702561"
+      ]
+    },
+    {
+      "repo": "tencent/ai-infra-guard",
+      "github_url": "https://github.com/tencent/ai-infra-guard",
+      "tier": 3,
+      "is_new": false,
+      "score": 389.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 83,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TencentAI_News",
+        "text": "open-source update: you can give a new OpenClaw Skill a quick safety check with one line in chat.\n\nClawScan is AI-Infra-Guard's module for this. It looks for potentially malicious Skills, exposed credentials, and known CVEs, then returns a report.\n\n• AI-Infra-Guard was selected f",
+        "likes": 83,
+        "url": "https://x.com/i/status/2104500084880662942"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104500084880662942"
+      ]
+    },
+    {
+      "repo": "smartcontractkit/chainlink-agent-skills",
+      "github_url": "https://github.com/smartcontractkit/chainlink-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 385.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pappas9999",
+        "text": "CCIP 2.0 dev docs are live, &amp; our Chainlink Developer Agent Skills have been updated for CCIP 2.0.\n\nExplore the docs, or point your coding agent to the CCIP skill to start building today 🧑‍💻\n\nDocs: https://t.co/vDHmhobobp\nAgent skills: https://t.co/d2olvfXpHY",
+        "likes": 70,
+        "url": "https://x.com/i/status/2104589239140970614"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104589239140970614"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "schulxcs",
+        "text": "vi um gringo postando que eles usaram essa skill aqui\n\nhttps://t.co/bERS3eJLxB",
+        "likes": 1,
+        "url": "https://x.com/i/status/2104269882363904225"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104337767014805635",
+        "https://x.com/i/status/2104269882363904225"
+      ]
+    },
+    {
+      "repo": "asymptote-labs/agent-beacon",
+      "github_url": "https://github.com/asymptote-labs/agent-beacon",
+      "tier": 3,
+      "is_new": false,
+      "score": 172.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_rody",
+        "text": "Top 9 agentic use cases for Jev:  \n\n(bookmark this)  \n\nJev handles semantic decisions that ordinary code cannot express reliably. It returns typed answers and probabilities, while code continues to cover the workflow.  \n\nHere are 9 practical use cases for Jev:  \n\n1. Browser next ",
+        "likes": 24,
+        "url": "https://x.com/i/status/2104582876100444463"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104582876100444463"
+      ]
+    },
+    {
+      "repo": "gemachdao/gdex-skill",
+      "github_url": "https://github.com/gemachdao/gdex-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 128.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gemach_io",
+        "text": "Your agent can now trade.\n\nGDEX Agent Skills: 28 skills + 118 MCP tools that let Claude, Cursor, Codex &amp; more trade perps, outcome markets and spot on GDEX.\n\nOne command:\nnpx skills add GemachDAO/gdex-skill\n\n//GEMACH https://t.co/4AMqn9GPbg",
+        "likes": 6,
+        "url": "https://x.com/i/status/2104600800781865413"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104600800781865413"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-cut-skill",
+      "github_url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "基于目前流行的 Opus 5.5 提示词提炼总结，整合了 motion 、hyperframe、开源素材库等等。\n\n还能一句话剪电影解说，Skill 地址\n\nhttps://t.co/muG7CETfCj\n\n安装指令：npx skills add joeseesun/qiaomu-cut-skill --skill qiaomu-cut",
+        "likes": 6,
+        "url": "https://x.com/i/status/2104576768493715641"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104576768493715641"
+      ]
+    },
+    {
+      "repo": "higgsfield-ai/skills",
+      "github_url": "https://github.com/higgsfield-ai/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zeuuss_01",
+        "text": "5 HIGGSFIELD SKILLS THAT LET GPT-6 ASTRA BUILD SITES LIKE THE ONES AGENCIES CHARGE $30,000 FOR.\n\nI used to blame the model when a site came out looking generic, and it took me a while to realise the problem was that I was giving it nothing good to work with..\n\n\"1. HIGGSFIELD WEBS",
+        "likes": 5,
+        "url": "https://x.com/i/status/2104576260592542152"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104576260592542152"
+      ]
+    },
+    {
+      "repo": "agentsorg/design-engineering",
+      "github_url": "https://github.com/agentsorg/design-engineering",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HarshitKhemani",
+        "text": "@wustep @claudeai @bot @NotionHQ you'd love my design-engineering skill (I also added launch videos to the skill graph): \n\nnpx skills add AgentsORG/design-engineering\nhttps://t.co/419Ff07zRJ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2104613627458371707"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104613627458371707"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2104613299887251740",
+      "author": "DavidSacks",
+      "text": "Last year the same labs, politicians, NGOs, and media outlets now pushing the extinction hoax were running a full-scale campaign that AI would cause a jobs apocalypse. \n\nWe were told it would be a “white-collar bloodbath,” 10–20% unemployment, half of entry-level jobs gone. Obama",
+      "likes": 876,
+      "views": 0,
+      "url": "https://x.com/i/status/2104613299887251740",
+      "is_kol": false,
+      "score": 3473.0
+    },
+    {
+      "id": "2104575614263144794",
+      "author": "petergyang",
+      "text": "6 things I learned from @poteto and @pengzheng_ (eng and design leads for Grok Bot) on how to get the most out of your bots:\n\n1. Build the design system and one keyframe, then let your bot scale your designs\n\nPeng's design bot edits Figma directly through Figma MCP and uses a ski",
+      "likes": 204,
+      "views": 0,
+      "url": "https://x.com/i/status/2104575614263144794",
+      "is_kol": false,
+      "score": 707.0
+    },
+    {
+      "id": "2104570564006277204",
+      "author": "DmytroKrasun",
+      "text": "ScreenshotOne is at ~$36K MRR and still growing.\n\nI run a developer tool, and despite all the predictions from big accounts and influencers on X, I still see demand. New customers keep subscribing and are happy to pay.\n\nWhat I am testing now:\n\n1. Launched a hosted MCP server that",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2104570564006277204",
+      "is_kol": false,
+      "score": 554.0
+    },
+    {
+      "id": "2104511433677455691",
+      "author": "OpenBot_",
+      "text": "OpenBot v0.23.0 is out 🚀\n\nThis release includes the latest updates from v0.22.0 and v0.23.0.\n\nAgents & collaboration:\n- Live agent plans shown as task lists in chat\n- See teammate progress and stop delegated work\n- “Waiting for replies” block for agent coordination\n- Agents can r",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2104511433677455691",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2104437442409615559",
+      "author": "XFreeze",
+      "text": "Grok Build just got a small but important reliability fix for MCP workflows\n\nMCP tool prompts now show up properly in minimal mode, and if a prompt goes unanswered, Grok Build will actually tell you instead of leaving the interaction hanging silently\n\nTiny update, but a useful fi",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2104437442409615559",
+      "is_kol": false,
+      "score": 391.0
+    },
+    {
+      "id": "2104549187094192351",
+      "author": "suraj_sharma14",
+      "text": "Every AI engineer roadmap got outdated this week.\nHere's the 2027 version:\n\nWhat changed in 7 days:\n- Opus 5.5 is 40% cheaper to run than Opus 5\n- GPT-6 Sol and Luna launched\n- Agents now run in the cloud while your laptop is closed\n\nPHASE 1: Speak the model\n- Tokens, context win",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2104549187094192351",
+      "is_kol": false,
+      "score": 345.0
+    },
+    {
+      "id": "2104570727978659912",
+      "author": "0xkutub",
+      "text": "Good Night CT\n\nAn agent that makes money is impressive. An agent that survives a losing streak is worth studying.\n\nIn autonomous trading, profit alone doesn’t tell the full story. A strategy can look brilliant during a winning run and fall apart when market conditions change.\n\nTh",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2104570727978659912",
+      "is_kol": false,
+      "score": 314.0
+    },
+    {
+      "id": "2104605662235738500",
+      "author": "TheChiefNerd",
+      "text": "🚨 Anthropic Chief Economist Peter McCrory Says AI Job Loss Predictions Are Not Panning Out\n\n“What I see in our data is that [AI] looks more like a skill-biased labor augmenting technology than a technology that outright automates and displaces displaces jobs wholesale … Based on ",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2104605662235738500",
+      "is_kol": false,
+      "score": 293.0
+    },
+    {
+      "id": "2104557312019152930",
+      "author": "NikkiSiapno",
+      "text": "𝗠𝗖𝗣 𝘃𝘀 𝗔𝗣𝗜.\n\nAn 𝗔𝗣𝗜 defines how software systems communicate through specific endpoints, requests, and responses. It gives applications a structured way to access data or trigger functionality in another system.\n\n𝗠𝗖𝗣 gives AI applications a standardized way to discover and use ex",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2104557312019152930",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2104585303939813509",
+      "author": "ashleypeacock",
+      "text": "Welcome to Cloudflare's sweet 16, it's Birthday Week and this is day 1 🎈\n\nWe're opening up with a mountain of open source goodies for you all:\n\n🤖 cf CLI Open Beta\n🔥 Forge: Pipelines for generating SDKs, CLIs & docs\n🦀 New Emscripten target for Rust Workers\n✍️ Vinext & EmDash 1.0\n🪁",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2104585303939813509",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2104584122106855541",
+      "author": "useteller",
+      "text": "Another Monday, another cook 🧑‍🍳\n\nPlease welcome teller:native on BNB Chain as collateral. Stablecoin loans accessible via Teller 🌲 and Debit AI 🟡\n\nMore on Debit AI\n\nDebit is an AI-powered financial agent with access to third-party credit products and onchain financial services.\n",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2104584122106855541",
+      "is_kol": false,
+      "score": 260.0
+    },
+    {
+      "id": "2104526981714891001",
+      "author": "databoxHQ",
+      "text": "We launched MCP Connectors on Product Hunt today 🎉\n\nThe goal: close the gap between seeing a number and knowing why it changed.\n\nAs of today, our AI Analyst connects to the tools where your team's context actually lives (like your CRM, Slack, support desk, Linear, and more), and ",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2104526981714891001",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2104564353341264375",
+      "author": "vicky_grok",
+      "text": "🚨 STOP RUNNING AI CODING AGENTS LIKE THIS.\n\nOpenRig turns a pile of Claude Code and Codex terminals into one organized AI team.\n\nInstead of juggling sessions manually:\n\n→ Define your agent team in YAML\n→ Boot the whole team with rig up\n→ Give agents stable roles + addresses\n→ Let",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2104564353341264375",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2104583942728822998",
+      "author": "gilgNYC",
+      "text": "Browser agents now shop and check out faster on Shopify using WebMCP",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2104583942728822998",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2104486589044785423",
+      "author": "QuantaRH",
+      "text": "the terminal is the front door. the Research Deck is the map.\n\nwe built it for anyone trying to work out what Quanta actually does and where to begin.\n\nterminal → Detective → perps → tokenized stocks → Playground → MCP\n\neach walkthrough opens the tool, explains the data, and sepa",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2104486589044785423",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2104583924467073521",
+      "author": "Prathkum",
+      "text": "Anthropic is a hard one to beat here.\n\nThey built their positioning around safety first from day 1 and enterprises need this badly.\n\nClaude is available on AWS, Google Cloud and Microsoft. A CIO does not need a new vendor, just a new model inside the platform they already pay for",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2104583924467073521",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2104570562337001817",
+      "author": "QAiStudio",
+      "text": "A Day in a life of Gym Enthusiast.\n\nMade with seedance 2.5 within @Flovaai Agent.\n\nSkill used: https://t.co/hBSBqN6zpE\n\nFor Bonus: Code: FEW97D35 / https://t.co/6Q2i17g4dY\n\n#flovaCPP https://t.co/vANgHWF1GO",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2104570562337001817",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2104533186982355003",
+      "author": "TiagerBao",
+      "text": "很多 Agent 框架越做越重，Hugging Face 反而把核心逻辑压到了不到 1000 行。\n\n项目叫 smolagents。\n\n它最核心的思路是：\n\n别让 Agent 每一步都吐一段 JSON 调工具，直接让它写 Python 代码执行。\n\n比如一次任务里，它可以自己：\n\n>循环调用多个工具\n>处理返回结果\n>做计算\n>再决定下一步\n\n而不是每做一个动作都重新请求一次模型。\n\n官方引用的研究结果里，这种 Code Agent 方式相比传统 tool calling，能减少大约 30% 的步骤和 LLM 调用。\n\n另外它也没绑模型：\n\nOpenAI",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2104533186982355003",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2104577833578488009",
+      "author": "RyDawg42",
+      "text": "$HOOD Summit Countdown!\n\n20 Hours 10 Minutes and 30 seconds until Hood Summit: Engines of Creation. \n\nWe know Robinhood will be introducing their own trading agent and agent skill marketplace already!\n\nCan’t wait to see more. https://t.co/BJPbm6sMk1",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2104577833578488009",
+      "is_kol": false,
+      "score": 175.0
+    },
+    {
+      "id": "2104581041360925159",
+      "author": "N01ennn",
+      "text": "this is f*cking gold\n\n20 GitHub repos with 500K+ combined stars that will level up your JEV workflow\n\nAGENTS\n\n> jev-ultrafast: Jev picks every click and DOM target, a small LLM only types\nhttps://t.co/JPfstD5BXU\n> hermes-jev-skills: routing, memory, compaction and skill picks in ",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2104581041360925159",
+      "is_kol": false,
+      "score": 173.0
+    }
+  ]
+}
