@@ -7706,5 +7706,57 @@
   "kaitoinfra/twitterapi-io": {
     "first_seen": "2026-09-28",
     "tier": 3
+  },
+  "product-on-purpose/pm-skills": {
+    "first_seen": "2026-09-29",
+    "tier": 1
+  },
+  "vectifyai/pageindex": {
+    "first_seen": "2026-09-29",
+    "tier": 2
+  },
+  "feder-cr/invisible_playwright_mcp": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "brucelanlan/tapeapi": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "joeseesun/qiaomu-obsidian-dev": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "namespacelabs/agent-skills": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "ritik-bhaiya/reddit-research-skills": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "braingridai/grabbit-mcp": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "undefined-ui/second-brain-os": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "farion1231/cc-switch": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "curbeloi/icurbe-skills": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "scarletkc/seiso": {
+    "first_seen": "2026-09-29",
+    "tier": 3
+  },
+  "takurot/potato-skills": {
+    "first_seen": "2026-09-29",
+    "tier": 3
   }
 }
