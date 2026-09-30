@@ -1,0 +1,536 @@
+{
+  "date": "2026-09-30",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 173,
+    "tweets_with_repos": 19,
+    "unique_repos": 15,
+    "new_repos": 9,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "b-nnett/grok-bot-0.18-reconstructed",
+      "github_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "tier": 3,
+      "is_new": true,
+      "score": 436.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 67,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "1920web1080",
+        "text": "this is pure f*cking treasure if you're using Grok Bot\n\n20 GitHub repos to self-host Grok Bot, add tools, connect apps, and copy proven workflows\n\nUNDERSTAND HOW GROK BOT WORKS\n\n01 Grok Bot 0.18 Reconstructed ▸ https://t.co/tQVjWA9KRw\nreconstructed source + extensions for Grok Bo",
+        "likes": 42,
+        "url": "https://x.com/i/status/2105292326784434555"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105310670535184774",
+        "https://x.com/i/status/2105292326784434555"
+      ]
+    },
+    {
+      "repo": "ldclabs/kip",
+      "github_url": "https://github.com/ldclabs/kip",
+      "tier": 3,
+      "is_new": true,
+      "score": 271.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ICPandaDAO",
+        "text": "Tell a typical agent memory \"I live in Tokyo,\" then \"I moved to Berlin,\" and ask where you lived in March. It will say Berlin, with total confidence.\n\nKIP 2.0 is an open protocol for agent memory built so that failure can't even be expressed. The 7-minute video walks through it. ",
+        "likes": 42,
+        "url": "https://x.com/i/status/2105296482337509689"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105296482337509689"
+      ]
+    },
+    {
+      "repo": "neha/rn-developer-skills",
+      "github_url": "https://github.com/neha/rn-developer-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hellonehha",
+        "text": "Small win 🥳\n\nI built React Native Developer Skills a few months ago 10+ vendor-neutral skills covering everything from performance to code reviews, for OpenAI, Claude Code, Kiro and Cursor.\n\nMy PR to make this part of the -  \"HOL Awesome AI Plugins catalog\" has been approved (PR ",
+        "likes": 22,
+        "url": "https://x.com/i/status/2105197885172199519"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105197885172199519"
+      ]
+    },
+    {
+      "repo": "capawesome-team/skills",
+      "github_url": "https://github.com/capawesome-team/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "capawesomeio",
+        "text": "Are you following privacy best practices in your mobile app?\n\nIs your users' sensitive data hidden when your app is in the app switcher? Balances, messages, health data… most apps show it all.\n\nYou can fix it with one prompt, for free 👇\n\n1. Add the Capawesome skills to your AI to",
+        "likes": 3,
+        "url": "https://x.com/i/status/2105316250813436173"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105316250813436173"
+      ]
+    },
+    {
+      "repo": "a10x-dev/fde-case-kit",
+      "github_url": "https://github.com/a10x-dev/fde-case-kit",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "manduks",
+        "text": "https://t.co/o36NkS2Hzd\ncon claude code: npx skills add a10x-dev/fde-case-kit",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105319271392026696"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105319271392026696"
+      ]
+    },
+    {
+      "repo": "0xtechnology/binance-fly",
+      "github_url": "https://github.com/0xtechnology/binance-fly",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BnBnAi",
+        "text": "仓库地址：https://t.co/MuCTJ47SLQ\n\n名称：币安带你飞 · binance-fly\n\n内容核心是一个 AI Agent Skill（主要是 SKILL.md 风格的提示词/系统指令），而不是完整的程序、交易机器人或合约代码。\n\n安装方式示例：npx skills add 0xTechnology/binance-fly（适用于 Claude Code、Cursor 等支持 Skill 的工具）。\n\n它是做什么的？\n\n它把一套「BNB Chain / Binance 生态」的判断框架蒸馏成可安装的 AI 指令，让 AI 按固定风格回答",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105148287045263535"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105148287045263535"
+      ]
+    },
+    {
+      "repo": "abubakrchan/product-launch-motion",
+      "github_url": "https://github.com/abubakrchan/product-launch-motion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "santhosh_patell",
+        "text": "Found a Claude/Cursor skill install that is actually one command.\n\nOn LaunchFable Skills, open Product Launch Motion (Verified + Scanned, 45s https://t.co/z8D6wXtSZh sample), then:\n\nnpx skills add AbubakrChan/product-launch-motion\n\nAsk: \"Make a 45s launch video for my product at ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105142624881398024"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105142624881398024"
+      ]
+    },
+    {
+      "repo": "markphelps/skills",
+      "github_url": "https://github.com/markphelps/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mark_a_phelps",
+        "text": "I built a skill for this. \n\nTo help you understand the code you no longer look at.\nBased on Hashimotos 'whiteboard defense'.\n\n`npx skills add markphelps/skills --skill whiteboard`",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105088293780267017"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105088293780267017"
+      ]
+    },
+    {
+      "repo": "lanxi-ai/flat-character-skill",
+      "github_url": "https://github.com/lanxi-ai/flat-character-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MirrortekUK",
+        "text": "有人调试了一个支持把任何人物（动漫、实拍、游戏）的图片一键转换成极简色块拼接、同时自适应补齐场景的海报skill，稳定性很高，支持任意生图模型，GPT-Image-2.5适配最佳。还挺有意思的\n\n把这句话发给Codex就可以：\n\n请执行 npx skills add lanxi-ai/flat-character-skill，帮我安装「无相绘境」Skill。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2104999717104984562"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104999717104984562"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "product-on-purpose/pm-skills",
+      "github_url": "https://github.com/product-on-purpose/pm-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 303.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_Jasonyu",
+        "text": "请先从这个 GitHub 仓库获取并安装 Skill：https://t.co/NIbvxeZLpy\n\nSkill 名称：define-opportunity-tree\n安装线索：npx skills add product-on-purpose/pm-skills\n安装完成后，请用 define-opportunity-tree Skill，帮我把目标、机会点和解决方案整理成机会树。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2104952796525322355"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104952796525322355",
+        "https://x.com/i/status/2104952792645620007",
+        "https://x.com/i/status/2104952788191228341"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 540.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HermesWatcher",
+        "text": "Top 15 Skills for Hermes Agent, ranked by GitHub stars. ⭐\n\nCoding, memory, research, design + more:\n\n1. Superpowers\nhttps://t.co/HzvQ6VSJLD\n\n2. Anthropic Skills\nhttps://t.co/iS42gnmX0Q\n\n3. UI UX Pro Max\nhttps://t.co/PZXLUgOlom\n\n4. Graphify\nhttps://t.co/q6Q3WHlWTP\n\n5. Claude-Mem\nh",
+        "likes": 59,
+        "url": "https://x.com/i/status/2105311718825947418"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105311718825947418",
+        "https://x.com/i/status/2105293207521091832"
+      ]
+    },
+    {
+      "repo": "okx/agent-skills",
+      "github_url": "https://github.com/okx/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 210.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AYi_AInotes",
+        "text": "这几天深度玩了下Opus 5.5做视频，后劲很大，忍不住说个暴论，以后真的不需要他么的skill了，几句话口喷足球就可以了，不信你们看这个1分多钟的Cue入门实操视频，分镜，音乐全是Claude原创，关键它还会音乐卡点，讲真这个让我一度以为AGI已经来了！！\n\n不吹Opus 5.5了，咱们言归正传，Manus 昨天刚发布的个人 Agent「Cue」， 竟然已经有人接上交易所了，让 AI 替自己在实盘里买大饼（BTC）了！！！\n最绝的不是它能买， 而是作者木马人老师说要买 10U 时，交易账户里其实根本没钱，钱全锁在理财里，这个必须好好的跟大家说到说到。\n",
+        "likes": 25,
+        "url": "https://x.com/i/status/2105250949706977401"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105250949706977401"
+      ]
+    },
+    {
+      "repo": "asksurf-ai/surf-skills",
+      "github_url": "https://github.com/asksurf-ai/surf-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 118.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CrpBase",
+        "text": "Same data stack, pointed at your own agent\n\nSurf Chat is one way to use the data. Building on top of it is another, and it does not require a subscription to start.\n\n➜ Surf Skill installs with npx skills add asksurf-ai/surf-skills --skill surf\n➜ Works with Claude Code, Cursor, Co",
+        "likes": 6,
+        "url": "https://x.com/i/status/2105302395341418928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105302395341418928"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fnunesil1991",
+        "text": "@DevCritico @rponte A solução que eu vejo é fazer sequências de “limpezas agendadas “ para poder de tempos em tempos os excessos que a LLM gerou . Estou testando com a seguinte skill https://t.co/sFz2grRydD ( adaptada para o meu contexto )",
+        "likes": 2,
+        "url": "https://x.com/i/status/2105095174476996827"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105095174476996827"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shanielcreation",
+        "text": "Step 2: Install the video skill\n\nOne free install turns code into MP4.\n\nType:\nnpx skills add heygen-com/hyperframes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2104967125056061659"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2104967125056061659"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2105091392011948221",
+      "author": "mxstbr",
+      "text": "One more launch today: the new MCP Events spec is now supported in ChatGPT 🎉\n\nMCP servers can now push real-time updates (messages, comments, status changes, whatever) to ChatGPT, triggering automations for your users 🤯\n\nIt’s easy to add to your MCP server, too! Just point Codex ",
+      "likes": 1412,
+      "views": 0,
+      "url": "https://x.com/i/status/2105091392011948221",
+      "is_kol": false,
+      "score": 4611.0
+    },
+    {
+      "id": "2105281765333962819",
+      "author": "MaxonVFX",
+      "text": "Introducing Cinema 4D MCP Server: The bridge between your work and supported AI tools.\n\nLet a compatible AI client organize, create variations, set up render passes, refine UVs &amp; more.\n\nInspect, adjust, or undo.\n\nKeep the craft. Hand off tedious work.\n\n🔗 https://t.co/xsd1YQHA",
+      "likes": 181,
+      "views": 0,
+      "url": "https://x.com/i/status/2105281765333962819",
+      "is_kol": false,
+      "score": 703.0
+    },
+    {
+      "id": "2105250025252982855",
+      "author": "Ryorugg",
+      "text": "HAN CREADO UN CAPCUT GRATIS Y SIN MARCAS DE AGUA, Y YA TIENE 91K STARS EN GITHUB\n\nCapCut te mete marca de agua, te bloquea funciones y encima te cobra suscripción.\n\nUn grupo de devs se cansó y construyó la alternativa open source y gratuita.\n\nSe llama OpenCut. Te explico todo:\n\nU",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2105250025252982855",
+      "is_kol": false,
+      "score": 585.0
+    },
+    {
+      "id": "2105247253472661896",
+      "author": "useteller",
+      "text": "Meme coins on Robinhood Chain have a new role to play: collateral for stablecoin loans on Teller 🌲\n\nTeller is now live on Robinhood Chain. \n\nMeme coins and tokenized stocks can now unlock liquidity without being sold.\n\nRobinhood Chain by @RobinhoodCrypto is an Ethereum Layer 2 bu",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2105247253472661896",
+      "is_kol": false,
+      "score": 579.0
+    },
+    {
+      "id": "2105071040590401670",
+      "author": "mvanhorn",
+      "text": "TL;DR of my new article: 13 @Muse hacks people are actually running. 𝗣𝗵𝗼𝗻𝗲 𝗰𝗮𝗹𝗹𝘀 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗸𝗶𝗹𝗹𝗲𝗿 𝗳𝗲𝗮𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗿𝗲𝗮𝗹 𝗵𝗮𝗰𝗸𝘀 𝗮𝗿𝗲 𝘄𝗵𝗮𝘁 𝘆𝗼𝘂 𝘀𝗲𝘁 𝘂𝗽 𝗯𝗲𝗳𝗼𝗿𝗲 𝘆𝗼𝘂 𝗮𝘀𝗸 𝗶𝘁 𝗳𝗼𝗿 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴.\n\n📞 𝗪𝗵𝗲𝗻 𝗮 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗵𝗮𝗻𝗴𝘀 𝘂𝗽 𝗼𝗻 𝘁𝗵𝗲 𝗔𝗜, 𝗵𝗮𝗻𝗱 𝗶𝘁 𝘁𝗼 𝗮 𝗵𝘂𝗺𝗮𝗻. A karaoke place refused my Muse, so Muse aske",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2105071040590401670",
+      "is_kol": false,
+      "score": 392.0
+    },
+    {
+      "id": "2105149810089353425",
+      "author": "LanLance24",
+      "text": "Code Mode + Lazy Loading 彻底拯救了 MCP。\n\nLazy Loading 解决了大量 Tool Schema 长期占据上下文的问题；Code Mode 则让工具调用从 LLM 一轮轮 Function Calling、中间结果不断塞回 Context，变成了 LLM 写代码，在 Sandbox 中完成工具组合与计算，只把必要结果带回上下文。\n\n过去 MCP 最被诟病的 Context Rot、Schema 膨胀、工具难以组合等问题，都在被这一套新的 Harness 范式解决。\n\n与此同时，MCP 自身也在不断完善，统一的 Too",
+      "likes": 117,
+      "views": 0,
+      "url": "https://x.com/i/status/2105149810089353425",
+      "is_kol": false,
+      "score": 386.0
+    },
+    {
+      "id": "2105257348428083640",
+      "author": "system_monarch",
+      "text": "Junior AI engineer: \"Let's build an agent.\"\n\nMid-level: \"Let's build a multi-agent system with LangGraph, a vector DB and 3 MCP servers.\"\n\nSenior: \"We need evals, guardrails and a model router before launch.\"\n\nPrincipal: \"Can this be one LLM call and a SQL query?\"\n\nThe hardest sk",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2105257348428083640",
+      "is_kol": false,
+      "score": 379.0
+    },
+    {
+      "id": "2105208172734717976",
+      "author": "_OSBook",
+      "text": "Community wants. We deliver.\n\nAgents. Meet @brewdotfamily. ☕️\n\nBrewdotfamily launches are now live on the osbook Agentic Launchpad.\n\nYour agent can now launch on https://t.co/x9KoCwJD1K alongside Flap, using the same signed conversation with osbot—with launch details and results ",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2105208172734717976",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2105246308097466452",
+      "author": "Sunkeke_AI",
+      "text": "不用学《Obsidian从0到1教程》也能快速上手Obsidian做“第二大脑”的【帖子大合集】来了！！！都是我过去两个月分享过的 Obsidian 用法，看完你将超过90%使用Obsidian的人！！十一放假，再也没理由不折腾啦！\n\n一、All-in-One 个人工作台\n1. Life OS\n三周前刚发布，系统大而全，目标、任务、人际、复盘都给你安排上了；可视化大脑知识图谱是一大亮点！\n英文版介绍：https://t.co/IXgYZSpjDG…\n汉化版介绍：\nhttps://t.co/IXgYZSpjDG…\n\n2. 向阳乔木个人工作台\n乔木大佬的最新",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2105246308097466452",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2105075194872172581",
+      "author": "longbowlend",
+      "text": "Agentic trading is on stage at HOOD Summit '26.\n\nLongbow has had it built in from day one. Our MCP server lets any AI agent read all 60 live credit markets on Robinhood Chain in one call. Caps, LTVs, oracles. Non-custodial, and you sign every transaction.\n\n» Connect here: https:/",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2105075194872172581",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2105301692652953973",
+      "author": "moeamaya",
+      "text": "So excited to share the latest version of Operate\n\nWe spent 18 months building a high-craft CRM and realized that wasn’t it. In a world of agents, the sales tool of record had to be rethought from the ground up.\n\n· Long running durable agents: one per deal, one watching pipeline,",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2105301692652953973",
+      "is_kol": false,
+      "score": 310.0
+    },
+    {
+      "id": "2105235712698408999",
+      "author": "kianbrooks01",
+      "text": "𝗪𝗵𝘆 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹𝘀 𝗡𝗲𝗲𝗱 𝗥𝗮𝘁𝗲 𝗟𝗶𝗺𝗶𝘁 𝗔𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀\n\nAn AI Skill may be capable of handling a task, but that does not always mean it can process unlimited requests at the same time.\n\nMany workflows depend on external APIs, databases, services, or other systems that impose limits on how frequ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2105235712698408999",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2105299556678451685",
+      "author": "irvinebroque",
+      "text": "autofix production errors on Cloudflare\n\n1. enable Issues (new)\n2. add webhook to trigger your agent\n3. give your agent the Cloudflare MCP server\n\nissues above a threshold automatically trigger an agent to investigate, fix, and make a PR\n\nhttps://t.co/uFVI0pKpP8 https://t.co/yNXw",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2105299556678451685",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2105279217441120559",
+      "author": "Ope__O",
+      "text": "My 3rd online course is live! 🎉\n\nI made this one because I kept getting the same question on my YT videos about Grafana MCP: how does this setup on my laptop become something I can actually run in production? There was almost no practical material, so I couldn't help anyone.\n\nSom",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2105279217441120559",
+      "is_kol": false,
+      "score": 276.0
+    },
+    {
+      "id": "2105309931196776833",
+      "author": "gkpacker",
+      "text": "It's over\n\nAqui na empresa utilizam o Claude Enterprise, que a partir de Outubro será cobrado via pricing de API\n\nDefiniram algumas faixas de limite, a do meu time é de $900 em tokens/mês\n\nO lado bom é que eu só tenho utilizado Opus low/medium pra quase tudo hoje em dia - aprende",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2105309931196776833",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2105125610645577757",
+      "author": "SparkifyAI",
+      "text": "Databox now has 54 MCP connectors available, including HubSpot, Calendly, Amplitude, Asana, Supabase, and more.\n\nThis means you can bring all your context into your AI analysis via an MCP connector and act on it via Databox, too.\n\nEach connector isn't just \"one more integration.\"",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2105125610645577757",
+      "is_kol": false,
+      "score": 232.0
+    },
+    {
+      "id": "2105226449560969488",
+      "author": "malmoeb",
+      "text": "My colleague @mgreen27 published velociraptor-skills, a set of reusable AI skills for DFIR with Velociraptor.\n\nThese skills guide artifact selection, collection, hunting, analysis, and context management. They use a shared Python harness, vraptor, through a command-line interface",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2105226449560969488",
+      "is_kol": false,
+      "score": 203.0
+    },
+    {
+      "id": "2105179500501942477",
+      "author": "0xLogicrw",
+      "text": "Pi 在 0.99.0 中正式把 MCP 和 Codemode 做进核心，官网原来的「No MCP」也被直接划掉。\n\nPi 此前一直公开批评 MCP 的常见用法。作者 Mario Zechner 去年测试发现，Playwright MCP 的 21 个工具描述要占约 1.37 万 tokens，Chrome DevTools MCP 的 26 个工具约占 1.8 万 tokens。很多 Agent 接入 MCP 时，会提前把大量工具说明塞进模型上下文。多步任务里，工具返回的大量结果也会反复交给模型处理，既占 token，也不方便组合调用。\n\n这次 Pi ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2105179500501942477",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2105146831307227429",
+      "author": "HarmonicHQ",
+      "text": "𝗛𝗔𝗥𝗠𝗢𝗡𝗜𝗖 𝗔𝗚𝗘𝗡𝗧: 𝗢𝗡 𝗬𝗢𝗨𝗥 𝗥𝗢𝗕𝗜𝗡𝗛𝗢𝗢𝗗 𝗔𝗖𝗖𝗢𝗨𝗡𝗧\n\nEvery number below is measured from the desk's own code or read from the record at https://t.co/sU0t8cXbT6\n\n𝟬𝟭. 𝗪𝗛𝗔𝗧 𝗥𝗢𝗕𝗜𝗡𝗛𝗢𝗢𝗗 𝗢𝗣𝗘𝗡𝗘𝗗, 𝗔𝗡𝗗 𝗪𝗛𝗔𝗧 𝗜𝗧 𝗦𝗔𝗜𝗗\nRobinhood opened its trading platform to outside agents in May. By its own count this",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2105146831307227429",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2105284674947833956",
+      "author": "camsoft2000",
+      "text": "Introducing Skill Manager.\n\nYour coding agent loads every skill's description, whether it's needed or not wasting precious context and potentially loading conflicting skills. \n\nWith Skill Manager you can switch skills on and off one at a time, group them by theme either manually ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2105284674947833956",
+      "is_kol": false,
+      "score": 186.0
+    }
+  ]
+}
