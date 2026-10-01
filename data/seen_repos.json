@@ -7794,5 +7794,49 @@
   "lanxi-ai/flat-character-skill": {
     "first_seen": "2026-09-30",
     "tier": 3
+  },
+  "deepseek-ai/dsh-libreoffice-kit": {
+    "first_seen": "2026-10-01",
+    "tier": 2
+  },
+  "co-dev-labs/skill": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "bojieli/greenbubbles": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "cobusgreyling/jev": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "simplejev/jevany": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "ericzakariasson/skills": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "codemaestro78/system_design_skill": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "crimx/skills": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "ugorur/orka": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "colosseumorg/colosseum-copilot": {
+    "first_seen": "2026-10-01",
+    "tier": 3
+  },
+  "leepokai/codync": {
+    "first_seen": "2026-10-01",
+    "tier": 3
   }
 }

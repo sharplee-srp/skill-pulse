@@ -1,0 +1,586 @@
+{
+  "date": "2026-10-01",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 177,
+    "tweets_with_repos": 19,
+    "unique_repos": 18,
+    "new_repos": 11,
+    "previously_seen_repos": 7
+  },
+  "new_repos": [
+    {
+      "repo": "deepseek-ai/dsh-libreoffice-kit",
+      "github_url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+      "tier": 2,
+      "is_new": true,
+      "score": 640.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 145,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFT_Chen",
+        "text": "🚨重磅！DeepSeek 正式开源 dsh-libreoffice-kit，给 Agent 塞进自有 Office 引擎铺路！\n\n🔹不再只藏在 Harness 里，单独开源为 @deepseek-ai/libreoffice-kit，Node.js 直接调用。\n\n🔹裁剪版 LibreOffice：Word / PPT 转 PDF、按页渲染图片，Excel 公式可重算。\n\n🔹补上字体管理、进程隔离、资源限制和 WASM，按 Agent Runtime 来做，而不是桌面软件。\n\n🔹文件生成成功不等于能交付。缺字体会重分页，PPT 会溢出，公式可能还没算。闭环",
+        "likes": 145,
+        "url": "https://x.com/i/status/2105631213369295089"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105631213369295089"
+      ]
+    },
+    {
+      "repo": "co-dev-labs/skill",
+      "github_url": "https://github.com/co-dev-labs/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 312.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "codotdev_",
+        "text": "How works Codev skill?\n\nCodev publishes static sites and single-page apps to a public URL, for people and for AI agents. \n\nThis skill teaches Claude Code, Cursor and Codex to build a site, publish it, and manage it afterwards. \n\nnpx skills add co-dev-labs/skill --skill codev -g\n\n",
+        "likes": 30,
+        "url": "https://x.com/i/status/2105591873779679331"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105591873779679331",
+        "https://x.com/i/status/2105591246899253535"
+      ]
+    },
+    {
+      "repo": "bojieli/greenbubbles",
+      "github_url": "https://github.com/bojieli/greenbubbles",
+      "tier": 3,
+      "is_new": true,
+      "score": 229.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bojie_li",
+        "text": "2026 年了，让 Agent 访问微信聊天记录仍然是一件很麻烦的事情。我做了一个 CLI 小工具 greenbubbles（绿泡泡），可以让 Agent 随时连上微信桌面版的数据库，实时访问聊天记录。\n\n我也开源了自己用来整理微信聊天记录的 skill，目前已经形成了一个庞大的个人知识库，涵盖个人生活、工作的方方面面，感觉 AI 已经掌握了我的所有经历和小心思（这些信息太敏感了，我都不敢截图）\n\n不知道为什么现在大多数的工具都是把微信数据库拷贝出来，再导出成自己的格式，其实微信本身的数据库 schema 就挺好的，只要用 greenbubbles-ac",
+        "likes": 33,
+        "url": "https://x.com/i/status/2105672165257286073"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105672165257286073"
+      ]
+    },
+    {
+      "repo": "cobusgreyling/jev",
+      "github_url": "https://github.com/cobusgreyling/jev",
+      "tier": 3,
+      "is_new": true,
+      "score": 195.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xrux",
+        "text": "this is f**king dangerous. \n\nsomeone just open sourced agent skills for a model that makes decisions in 70 to 500 ms\n\nit's called jev. not a chatbot. a function call. messy text in, typed answers out.\n\nflagship skill: jev-fanout.\n\n→ ask many questions about one input\n→ one call\n→",
+        "likes": 25,
+        "url": "https://x.com/i/status/2105592002263805958"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105592002263805958"
+      ]
+    },
+    {
+      "repo": "simplejev/jevany",
+      "github_url": "https://github.com/simplejev/jevany",
+      "tier": 3,
+      "is_new": true,
+      "score": 174.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "morpphhhaw",
+        "text": "this is a f*cking treasure for JEV devs and I'm not kidding\n\nJevs founder Diogo Almeida just mentioned his favorite github repos\n\npeople are putting small decision models inside coding agents, QA systems, desktop control, smart homes, YouTube filters and real-time games\n\nthese 10",
+        "likes": 23,
+        "url": "https://x.com/i/status/2105615151588131032"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105615151588131032"
+      ]
+    },
+    {
+      "repo": "ericzakariasson/skills",
+      "github_url": "https://github.com/ericzakariasson/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EngMoElgaraihy",
+        "text": "المهارة التي يتم استخدامها حالياً لبناء ألعاب كاملة باستخدام أحدث نماذج الذكاء الاصطناعي بنقرة واحدة:\n\nnpx skills add ericzakariasson/skills --skill game-builder\n\nاحفظ الأمر عندك وجربها بنفسك 🔥 https://t.co/FIAodrUCNH",
+        "likes": 7,
+        "url": "https://x.com/i/status/2105619551727632659"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105619551727632659"
+      ]
+    },
+    {
+      "repo": "codemaestro78/system_design_skill",
+      "github_url": "https://github.com/codemaestro78/system_design_skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devarshilalani9",
+        "text": "It covers architecture reviews and interview practice, with 7 scenarios for checking its answers. I’d value feedback from people who use AI for system design.\n\nnpx skills add codeMaestro78/system_design_skill --skill system-design\n\nhttps://t.co/Ui5kUsoogz",
+        "likes": 1,
+        "url": "https://x.com/i/status/2105630497657565491"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105630497657565491"
+      ]
+    },
+    {
+      "repo": "crimx/skills",
+      "github_url": "https://github.com/crimx/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "straybugs",
+        "text": "npx skills add crimx/skills --skill stick\n\nMade a little skill to help me memorize things I just looked up. https://t.co/YuS2h4vnq6",
+        "likes": 1,
+        "url": "https://x.com/i/status/2105554668676092403"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105554668676092403"
+      ]
+    },
+    {
+      "repo": "ugorur/orka",
+      "github_url": "https://github.com/ugorur/orka",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ugorur",
+        "text": "@BukulmezMustafa https://t.co/Fr3NKTOBeK Codex, Grok gibi limitlerin varsa amele işlerini onlara atmak için böyle bir skill yaptım. $20 hesap 5 gün gitti ve sonuçlar çok güzeldi.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2105687040222241051"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105687040222241051"
+      ]
+    },
+    {
+      "repo": "colosseumorg/colosseum-copilot",
+      "github_url": "https://github.com/colosseumorg/colosseum-copilot",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "256hax",
+        "text": "npx skills add ColosseumOrg/colosseum-copilot -g\n\nv1をインストール済みの場合は、これを打って再インストールが必要でした。\nそのあと実行すると、以下のような画面が出てきます。これは以前なかったです。\n\nコマンドはこちら：\nhttps://t.co/llSAVZJR02 https://t.co/rmVtLLj9UO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105690389055422864"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105690389055422864"
+      ]
+    },
+    {
+      "repo": "leepokai/codync",
+      "github_url": "https://github.com/leepokai/codync",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lbki34064963",
+        "text": "Codync, free and open source:\n\n- almost any coding agent: Claude Code, Codex, Cursor and 40+ more over ACP\n- installs on your own Mac or Linux, host built in Rust\n- connect through your own Tailscale and the phone talks straight to your computer, fully private\n- remote desktop bu",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105685327499440428"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105685327499440428"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "google/mantis",
+      "github_url": "https://github.com/google/mantis",
+      "tier": 2,
+      "is_new": false,
+      "score": 2433.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 646,
+      "total_retweets": 79,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dani_avila7",
+        "text": "Google Mantis is a skills pack for security review with coding agents\n\nInstall:\nnpx skills add google/mantis\n\nKey commands:\n\n/mantis-threat-model: builds a threat model from your codebase \n/mantis-researcher: scans for vulnerabilities \n/mantis-review: filters false positives \n/ma",
+        "likes": 646,
+        "url": "https://x.com/i/status/2105486215373803700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105486215373803700"
+      ]
+    },
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 3,
+      "is_new": false,
+      "score": 267.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shruti_0810",
+        "text": "10 GITHUB REPOS THAT CAN TAKE CLAUDE CODE TO THE NEXT LEVEL\n\nClaude Code is already powerful.\n\nBut the right skills can make it much better at coding, debugging, testing, security, automation and real-world workflows.\n\n1. Superpowers\nAdds a structured workflow for brainstorming, ",
+        "likes": 29,
+        "url": "https://x.com/i/status/2105611988198162618"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105611988198162618"
+      ]
+    },
+    {
+      "repo": "nvidia/openshell",
+      "github_url": "https://github.com/nvidia/openshell",
+      "tier": 3,
+      "is_new": false,
+      "score": 124.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 8,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sora19ai",
+        "text": "これ強い。\nNVIDIAのOpenShell、\nAI agent用の隔離runtime。\n\nagentにファイル/API/認証を\n触らせる前にpolicyで縛る。\n\n初手はこれ:\nnpx skills add NVIDIA/OpenShell\n\nLinux/mac/WSL2対応。\ntelemetryは無効化もできる。\n\nhttps://t.co/RrqvbDm7ws",
+        "likes": 8,
+        "url": "https://x.com/i/status/2105422492047376558"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105422492047376558"
+      ]
+    },
+    {
+      "repo": "zju-real/easel",
+      "github_url": "https://github.com/zju-real/easel",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "youyuy88",
+        "text": "Easel 是浙大 REAL Lab 开的社媒工作台，跑在 OpenClaw 上。它不替你定人设，先给账号建画像：定位、受众、风格、红线，后面的选题和成品都往这张画像上靠。\n\n热榜只是入口。微博、抖音、知乎、B 站、百度、头条扫完，还得过账号调性。能落地的是脚本，不是聊天建议：文案、知识卡、海报、配音、字幕、剪辑、短剧会写进成品目录，仓库现在标 113 个 Skill。\n\n小红书、抖音、快手、知乎、B 站、视频号、公众号都能接，发出去的数据再写回画像。\n\n小红书对自动化查得严，官方建议先预览、再手动发。\n\n🔗https://t.co/aXEmZmMdFU",
+        "likes": 4,
+        "url": "https://x.com/i/status/2105597086825910645"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105597086825910645"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-obsidian-dev",
+      "github_url": "https://github.com/joeseesun/qiaomu-obsidian-dev",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "做 Obsidian 插件的可以直接装这个 Skill：\n\nnpx skills add joeseesun/qiaomu-obsidian-dev\n\n里面整理了插件交互设计、在真实 Obsidian 里验证、发布前检查这些流程。\n\n这是乔木自己上架插件踩过坑以后整理出来的。\n\nGitHub：\nhttps://t.co/z9JHeLh3Ay",
+        "likes": 3,
+        "url": "https://x.com/i/status/2105449194127593700"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105449194127593700"
+      ]
+    },
+    {
+      "repo": "kajisho5/ffmpeg-skill",
+      "github_url": "https://github.com/kajisho5/ffmpeg-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kebura_P",
+        "text": "🎬 FFmpeg Skill v2.4.0\n\n前回の v2.2.0 からかなり細かく改善しました。\n\n今回の中心は、\n\n「正常な入力だけでなく、“無音・空・壊れた入力”まで正しく扱う」\n\n方向の強化です。\n\n🔇 無音メディアの検出\n\nhttps://t.co/uvebuIRuFP\nhttps://t.co/Sn2k2jkK0s\nhttps://t.co/Oaun3ubRtJ\n\nで無音入力を実測。\n\nデフォルトでは warn として処理し、\n\n・どのファイルが無音なのか\n・ピーク値はいくつか\n・処理を続行したのか\n\nまで結果に残します。\n\n必要なら、\n\n-",
+        "likes": 1,
+        "url": "https://x.com/i/status/2105666151472677091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105666151472677091"
+      ]
+    },
+    {
+      "repo": "base/skills",
+      "github_url": "https://github.com/base/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sohey_eth",
+        "text": "Get started \n\nnpx skills add base/skills --skill vibenet\n\nhttps://t.co/tYT8MLd6SU",
+        "likes": 0,
+        "url": "https://x.com/i/status/2105692361561092524"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2105692361561092524"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2105613129602285716",
+      "author": "twostraws",
+      "text": "There's an open-source SwiftUI agent skill that catches the mistakes AI tools keep making: deprecated modifiers, accessibility gaps, performance pitfalls. One command to install, and your AI-generated SwiftUI gets a serious quality boost. https://t.co/tYDtKC4SSu",
+      "likes": 200,
+      "views": 0,
+      "url": "https://x.com/i/status/2105613129602285716",
+      "is_kol": false,
+      "score": 700.0
+    },
+    {
+      "id": "2105652351306793292",
+      "author": "ZhanG_MemeCoin",
+      "text": "现在做 AI Agent，难的往往不是让它会说话。\n\n你自己大概也遇过这种场面。手头有个会查资料的 Agent，临时又需要一个会看合约的。两边能力都在，中间却对不上。找人、讲需求、把钱转过去、验收完再结账，这一串还是人在跑。Agent 再聪明，中间那截交易还是手工的。\n\nTermiX @termix_ai 盯的就是这段。它不太像又做一个更会聊天的机器人，更像给已经存在的 Agent 找个能接活、能付钱的地方。Grok 有 Grok Bot，Meta 有 Muse，Manus 有 Cue，OpenAI 有 Dot，各家都在养自己的。问题是它们平时各待各的。",
+      "likes": 157,
+      "views": 0,
+      "url": "https://x.com/i/status/2105652351306793292",
+      "is_kol": false,
+      "score": 521.0
+    },
+    {
+      "id": "2105525267615613428",
+      "author": "_its_not_real_",
+      "text": "Every time an internal customer asks me a question I add another tool to the MCP server in the Claude enterprise connection and automate one more step of their job inside of our platform.",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2105525267615613428",
+      "is_kol": false,
+      "score": 391.0
+    },
+    {
+      "id": "2105590116165042369",
+      "author": "ibocodes",
+      "text": "openheard 0.1.0 is out 🥳\n\nopen source canny / featurebase alternative, one cloudflare worker \n\n- public board, roadmap, changelog\n- help center with search\n- embeddable widgets\n- email updates when you ship\n- mcp server\n- and few more\n\nhttps://t.co/6oh9YkFmK8 https://t.co/dJ5pgFI",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2105590116165042369",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2105674024558723200",
+      "author": "LiegeAgents",
+      "text": "Your Liege agent can now securely connect to external runtimes through MCP.\n\nHere's how It Works:\n\n1. Open your Workspace settings.\n2. Choose your Liege agent profile.\n3. Create an MCP connection and copy your one-time lmp_... token.\n4. Configure the token in your preferred tool:",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2105674024558723200",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2105633829092508117",
+      "author": "silvanrec",
+      "text": "CREARON UN CAPCUT GRATIS Y SIN MARCAS DE AGUA, Y YA TIENE 76K STARS EN GITHUB\n\nCapCut te pone marca de agua, te bloquea funciones y encima te cobra una suscripción.\n\nUn grupo de devs se cansó y construyó la alternativa open source.\n\nSe llama OpenCut.\n\nUn editor de vídeo con arqui",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2105633829092508117",
+      "is_kol": false,
+      "score": 250.0
+    },
+    {
+      "id": "2105653044277068048",
+      "author": "AiwithDharmik",
+      "text": "Have you tried an agentic analytics tool yet?\n\n@databoxHQ just became one.\nWhat makes the new Databox different isn’t only its AI. It’s the trusted performance foundation underneath it.\n\nDatabox brings together your data, governed metrics, and business context. Then the AI layer ",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2105653044277068048",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2105636918046183541",
+      "author": "witcheer",
+      "text": "everything my Hermes Agent has learned for me since I created it is here. \n\ngold dots are skills, blue diamonds are memories, the oldest sit in the centre.\n\nhover a dot to see which skill or memory it is. right-click it to edit or delete it: a deleted skill is archived and can be",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2105636918046183541",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2105606337019441262",
+      "author": "ourcryptotalk",
+      "text": "Most “private AI” products still read your prompt.\n\nThey just promise not to log it.\n\n$ROUTER is taking a different approach.\n\nThe prompt is encrypted on your device, decrypted inside an Intel TDX enclave, and each call produces a receipt on Solana.\n\nThe token is still only ~$2.2",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2105606337019441262",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2105613404933394455",
+      "author": "xiaomovps",
+      "text": "Pi  可以看到到底是谁在吃你的上下文？🔥\n\n最近发现一个挺有意思的插件：pi-context-view\n\n装完之后就可以看到你的对话里面，到底是哪些东西占用了你的上下文，在查找 skill 和 MCP 或者工具的时候非常有用，删除一些不必要的工具或者提示词\n\n1、System Prompt 到底占多少\n\nPi 本身的 Prompt 很短，但装了 Extension、Skill 以后，前面到底多了多少东西，其实平时你是看不到的。\n\n/context injection\n\n可以直接把这些隐藏注入翻出来\n\n2、Tools 到底吃了多少 Token\n\n很多插件",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2105613404933394455",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2105548849192304715",
+      "author": "TheDeFiAngel",
+      "text": "➠ @pharos_network mission is to put real-world value to work.\n\nAI Agents already operate well off-chain, missing layer is economic activity.\n\nAn agent can answer a question, but what happens when it needs to:\n\n• hold an asset\n• pay for a service\n• call an on-chain tool\n• manage p",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2105548849192304715",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2105628225770537341",
+      "author": "Diphunter18",
+      "text": "I think people don’t realise how much @aave has actually shipped over the last few months.\n\nV4 went live on Ethereum in March, Avalanche in July and Arc in September, bringing the new Hub & Spoke architecture with it.\n\nThat sounds like an upgrade, but it changes what Aave can act",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2105628225770537341",
+      "is_kol": false,
+      "score": 197.0
+    },
+    {
+      "id": "2105654111102234652",
+      "author": "nosana_ai",
+      "text": "In case you missed it, here's everything that happened in September at Nosana. \n\nSpoiler: it was a busy month 🙌\n\nNew MCP server, refreshed dashboard, RTX 4090/5090 provider campaign, builders across Singapore, Tokyo and Seoul, and more: https://t.co/8iGQO2reCc https://t.co/zoxp8J",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2105654111102234652",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2105670865887060097",
+      "author": "Shahriar661731",
+      "text": "Prompt engineering won't be the most valuable AI skill in 2026\n\nSystem design will.\n\nThis evolution explains why:-\n\n✅Prompt Engineering\n         Better prompt\n\n✅Context Engineering\n        Better context\n\n✅Harnness Engineering\n        Better AI systems\n\nThe shift is bigger than m",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2105670865887060097",
+      "is_kol": false,
+      "score": 189.0
+    },
+    {
+      "id": "2105554742575256057",
+      "author": "Drocymp__dms79",
+      "text": "Databox now has 54 MCP connectors available, including HubSpot, Calendly, Amplitude, Asana, Superbase, and more.\n\nThis means you can bring all your context into your AI analysis via an MCP connector and act on it via @Databox, too.\n\nEach connector isn't just \"one more integration",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2105554742575256057",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2105673044962296135",
+      "author": "spakhm",
+      "text": "During covid I played Go reasonably seriously for about a year (had a teacher, studied puzzles, etc.) I didn't get especially good at Go, but here's what I learned about competence in general:\n\n1/ Go teachers are adamant about forcing you *not* to say to yourself \"ah that was dum",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2105673044962296135",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2105636352410681587",
+      "author": "HarmonicHQ",
+      "text": "𝗛𝗔𝗥𝗠𝗢𝗡𝗜𝗖 𝗔𝗚𝗘𝗡𝗧: 𝗥𝗢𝗕𝗜𝗡𝗛𝗢𝗢𝗗 𝗢𝗣𝗘𝗡𝗘𝗗 𝗜𝗧𝗦 𝗠𝗖𝗣 𝗧𝗢 𝗘𝗩𝗘𝗥𝗬 𝗔𝗚𝗘𝗡𝗧 𝗔𝗡𝗗 𝗔𝗨𝗗𝗜𝗧𝗦 𝗡𝗢𝗡𝗘. 𝗪𝗘 𝗕𝗨𝗜𝗟𝗧 𝗧𝗛𝗘 𝗠𝗖𝗣 𝗧𝗛𝗔𝗧 𝗗𝗢𝗘𝗦.\n\nEvery number below is on the board at https://t.co/sU0t8cWE3y\n\n𝟬𝟭. 𝗧𝗛𝗘 𝗥𝗔𝗜𝗟\nRobinhood opened its trading platform to outside agents through an MCP server, and says in writing tha",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2105636352410681587",
+      "is_kol": false,
+      "score": 164.0
+    },
+    {
+      "id": "2105588352011419782",
+      "author": "Hellishnum1",
+      "text": "Project three, and this one gets 25 independent opinions on your pull request before anyone pays you.\n\nGH Bounty is a bounty board for open source. A company picks a GitHub issue, puts a reward on it, and locks the money in escrow on Solana before anyone starts working. Don't wan",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2105588352011419782",
+      "is_kol": false,
+      "score": 148.0
+    },
+    {
+      "id": "2105601114301165769",
+      "author": "OpenBot_",
+      "text": "OpenBot v0.26.0 is out \n\nThis release focuses on hosted servers, team chats, and long-running agent sessions.\n\nTeam collaboration\n- Messages from other people in team chats now appear on the right with their name and color\n- Routine runs now appear as compact status lines instead",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2105601114301165769",
+      "is_kol": false,
+      "score": 142.0
+    }
+  ]
+}
