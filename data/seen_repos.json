@@ -7838,5 +7838,61 @@
   "leepokai/codync": {
     "first_seen": "2026-10-01",
     "tier": 3
+  },
+  "remotion/agent-skills": {
+    "first_seen": "2026-10-02",
+    "tier": 2
+  },
+  "niko1221/strata": {
+    "first_seen": "2026-10-02",
+    "tier": 2
+  },
+  "alpic-ai/skybridge": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "withqwerty/football-docs": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "jkudish/jev-browser": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "mohitmishra786/low-level-dev-skills": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "uxkero/kero-stack": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "mort1d/motion-graphics-skills": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "mystenlabs/walrus-skills": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "ahmtsahin/arrowproof": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "dave8172/upsweep": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "thatguysam/skills": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "hypeprinter007-stack/anchor-x402-safe-pay": {
+    "first_seen": "2026-10-02",
+    "tier": 3
+  },
+  "23blocks-os/lolabot": {
+    "first_seen": "2026-10-02",
+    "tier": 3
   }
 }
