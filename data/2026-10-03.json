@@ -1,0 +1,704 @@
+{
+  "date": "2026-10-03",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 30,
+    "unique_repos": 27,
+    "new_repos": 14,
+    "previously_seen_repos": 13
+  },
+  "new_repos": [
+    {
+      "repo": "elie222/rakazo",
+      "github_url": "https://github.com/elie222/rakazo",
+      "tier": 2,
+      "is_new": true,
+      "score": 563.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 146,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EvanLuthra",
+        "text": "Grok Bot has a whole second life on GitHub.\n\nThere’s a Telegram bridge, an iMessage skill, Linux builds and a desktop agent that can use your mouse and keyboard.\n\n20 repos to dig into, depending on what you’re building:\n\nRUN IT YOURSELF\n\n1) Rakazo\nAn open-source alternative if yo",
+        "likes": 146,
+        "url": "https://x.com/i/status/2106339851373363673"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106339851373363673"
+      ]
+    },
+    {
+      "repo": "composiohq/composio",
+      "github_url": "https://github.com/composiohq/composio",
+      "tier": 3,
+      "is_new": true,
+      "score": 293.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Lummox_eth",
+        "text": "This is where GPT-6 Astra gets f...cking illegal\n\n8 GitHub repos for turning AI reasoning into real actions\n\n01 Composio\n▸ https://t.co/2oJOJMrKYo\n→ 1,000+ toolkits for AI agents\n\nCONNECT THE WORLD\n\n02 MCP Servers\n▸ https://t.co/pBf32aGMfP\n→ standardized access to tools + data\n\n0",
+        "likes": 56,
+        "url": "https://x.com/i/status/2106321302919274616"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106321302919274616"
+      ]
+    },
+    {
+      "repo": "zerx-lab/fluxdown",
+      "github_url": "https://github.com/zerx-lab/fluxdown",
+      "tier": 3,
+      "is_new": true,
+      "score": 270.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "推荐一个很有潜力的开源下载神器：FluxDown，直接冲着“免费开源 IDM 平替”来的。\n\n它用 Rust + Tokio 做下载引擎，支持 HTTP/HTTPS、FTP、磁力/BT、eD2K、HLS、DASH，还有动态分段加速和断点续传。Chrome、Edge、Firefox 也能装扩展直接接管下载。 \n\n更骚的是它内置 MCP Server，Claude、Cursor 等 Agent 可以直接帮你添加、查看和控制下载任务。Windows、macOS、Linux、Android、NAS / Docker 都覆盖了。 \n\nIDM 要钱、又主要是 Win",
+        "likes": 40,
+        "url": "https://x.com/i/status/2106352306275147788"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106352306275147788"
+      ]
+    },
+    {
+      "repo": "srothgan/claude-code-rust",
+      "github_url": "https://github.com/srothgan/claude-code-rust",
+      "tier": 3,
+      "is_new": true,
+      "score": 240.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "orhundev",
+        "text": "Claude Code is now in Rust! 🦀🎉\n\n🤖 claude-code-rust — A native TUI for Claude Code\n\n💯 Streaming chat, tool calls, permissions, diffs, MCP, subagents & more!\n\n🐀 Built with @ratatui_rs\n\n⭐ GitHub: https://t.co/QZdLwWAv1q\n\n#rustlang #ratatui #tui #terminal #claudecode",
+        "likes": 40,
+        "url": "https://x.com/i/status/2106348402095030529"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106348402095030529"
+      ]
+    },
+    {
+      "repo": "rav4nn/skills",
+      "github_url": "https://github.com/rav4nn/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 215.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rav4nn",
+        "text": "@ParthJadhav8 Made this into a Claude Code skill.\n\n/e2e-sweep runs one coding subagent per project and one verifier per loop.\n\nnpx skills add rav4nn/skills -s e2e-sweep -g\n\nhttps://t.co/UXaYx1SWh3",
+        "likes": 4,
+        "url": "https://x.com/i/status/2106282831270043993"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106282878661529836",
+        "https://x.com/i/status/2106282831270043993"
+      ]
+    },
+    {
+      "repo": "avdlee/swiftui-agent-skill",
+      "github_url": "https://github.com/avdlee/swiftui-agent-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "twannl",
+        "text": "Let your agents add better iPhone Duo support with the latest 3 updates to my SwiftUI Agent Skill. \n\nBased on: \n- Apple's resources\n- Xcode 27.1 bundled Agent Skill\n- My practical experience of adapting the different fold states into my apps\n\nFree and open source, enjoy! 🚀 \n\nhttp",
+        "likes": 25,
+        "url": "https://x.com/i/status/2106291665346420781"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106291665346420781"
+      ]
+    },
+    {
+      "repo": "firetower-cloud/firetower",
+      "github_url": "https://github.com/firetower-cloud/firetower",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kevinpiac",
+        "text": "You can now iterate on the same Claude Code or Codex worktree as your teammate remotely.\n\nFiretower multi-account feature just shipped.\n\nAnd it goes much beyond sharing a simple chat.\n\nFiretower lets you share resources at a granular level, including Claude Subscriptions, Remote ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2106356231346471344"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106356231346471344"
+      ]
+    },
+    {
+      "repo": "ohad6k/viberaven",
+      "github_url": "https://github.com/ohad6k/viberaven",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BiosRiosz",
+        "text": "The 30 second version. Paste into your Supabase SQL editor:\n\nselect schemaname, tablename\nfrom pg_tables\nwhere schemaname = 'public' and rowsecurity = false;\n\nEvery row = a table anyone can read.\n\nWant your coding agent to run all of it before every deploy:\nnpx skills add ohad6k/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2106382560255217850"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106382560255217850"
+      ]
+    },
+    {
+      "repo": "sivarampg/railway-iac-skill",
+      "github_url": "https://github.com/sivarampg/railway-iac-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SivaramPg",
+        "text": "12 @Railway  projects on railway.toml, cutoff Dec 1. Agents handled the migration well but kept re-searching docs for the same edge cases (region swaps, plan diffs). So I distilled the docs into 2 skills with guardrails baked in:\n\nnpx skills add SivaramPg/railway-iac-skill https:",
+        "likes": 1,
+        "url": "https://x.com/i/status/2106275736395104314"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106275736395104314"
+      ]
+    },
+    {
+      "repo": "kaankiziltug/logo-design-skill",
+      "github_url": "https://github.com/kaankiziltug/logo-design-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kaya_tyan_cat",
+        "text": "⭐ 1553 звезды — и Claude, Gemini CLI и Codex теперь умеют рисовать логотипы как сеньоры! logo-design-skill даёт агентам принципы дизайна, процесс, SVG-крафт и библиотеку из 1400+ логотипов для вдохновения. Хватит платить ... https://t.co/or03SqUMeD",
+        "likes": 1,
+        "url": "https://x.com/i/status/2106361301576687718"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106361301576687718"
+      ]
+    },
+    {
+      "repo": "johnheibel/pdoomvideo",
+      "github_url": "https://github.com/johnheibel/pdoomvideo",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ScaleWthAI",
+        "text": "Claude Opus 5.5 is turning GitHub into a playground for creators.\n\nIn just one week, people shipped everything from coded music videos to full 3D games.\n\n1. PDoomVideo: the Opus 5.5 P(doom) music video, every frame in code (1.5k stars)\nhttps://t.co/D3jokz8BXG\n\n2. awesome-opus5-5-",
+        "likes": 1,
+        "url": "https://x.com/i/status/2106386087463772495"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106386087463772495"
+      ]
+    },
+    {
+      "repo": "pengchujin/livecanvas",
+      "github_url": "https://github.com/pengchujin/livecanvas",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cleofasrocha_",
+        "text": "GitHub: https://t.co/OT1WdoibuF\n\nInstall (agent skill):\nnpx skills add pengchujin/livecanvas --skill livecanvas -g\n\nNotes:\n• Live Photo (.pvt) packaging needs macOS + Xcode Command Line Tools\n• Animation pipeline wants Node / Python / FFmpeg\n• Independent MIT project — not Apple,",
+        "likes": 0,
+        "url": "https://x.com/i/status/2106351432609714517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106351432609714517"
+      ]
+    },
+    {
+      "repo": "x-hw/skills",
+      "github_url": "https://github.com/x-hw/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ClaudeCodeCafe",
+        "text": "☕ 画像に溶け込ませた QR コードを作れる amazing-qr 🔍\n\n✅ ふつうの QR / 画像に溶け込ませたアート QR / GIF を渡すと動く QR の 3 種類\n✅ Claude Code からは `claude mcp add amazing-qr -- uvx amzqr-mcp` の一行\n✅ `npx skills add x-hw/skills --skill generate-amazing-qr-code` で Skill 版も\n⚠️ QR に入るのは半角英数字と一般的な記号だけ。日本語の文章は入らない（URL は入る）\n📎 本",
+        "likes": 0,
+        "url": "https://x.com/i/status/2106341389789519874"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106341389789519874"
+      ]
+    },
+    {
+      "repo": "dtnghla/ste-lite",
+      "github_url": "https://github.com/dtnghla/ste-lite",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dtnghla",
+        "text": "Limits: 10 sessions. 8 came from one model in one tool. This is an audit, not a benchmark.\nInstall: npx skills add dtnghla/ste-lite\n\nhttps://t.co/Qqw3mPzVtH",
+        "likes": 0,
+        "url": "https://x.com/i/status/2106227993865810299"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106227993865810299"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "github_url": "https://github.com/virgiliojr94/book-to-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 1112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 284,
+      "total_retweets": 32,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "book-to-skill converts technical books into agent skills for tools like Claude Code to reference directly\n\nhttps://t.co/GFnX15PgCP https://t.co/ipieS50aYd",
+        "likes": 284,
+        "url": "https://x.com/i/status/2106234841888899211"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106234841888899211"
+      ]
+    },
+    {
+      "repo": "debpalash/voicestudio",
+      "github_url": "https://github.com/debpalash/voicestudio",
+      "tier": 3,
+      "is_new": false,
+      "score": 313.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Stop paying for voice cloning. The free version now speaks 7x more languages.\n\nvoicestudio is an open-source app that clones voices, dubs videos and makes audiobooks in 646 languages, all on your own computer.\n\nthe setup:\n\n• voice cloning → copy any voice, or design a new one\n• v",
+        "likes": 66,
+        "url": "https://x.com/i/status/2106206351500218771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106206351500218771"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 259.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lxfater",
+        "text": "独立开发会写代码，不会营销？这套 Skill 希望可以帮你\n\n有人把落地页转化、文案、SEO、数据分析做成了一套 Agent Skills\n\n我觉得最值得先看的是 product-marketing skill：\n先把产品卖给谁、解决什么问题、怎么定位写清楚，存下来\n后面的 Skill 都会先读这份背景，给建议时不用每次从零讲起。\n\n举个例子：比如你做了个 SaaS，首页没人注册，可以先用 cro 检查价值主张、按钮和表单，再用 copywriting 改文案。\n\n更多东西，大家看下面的项目吧：\nhttps://t.co/7XGgIbpCJM",
+        "likes": 43,
+        "url": "https://x.com/i/status/2106353847073481091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106353847073481091"
+      ]
+    },
+    {
+      "repo": "gridex/gridex",
+      "github_url": "https://github.com/gridex/gridex",
+      "tier": 3,
+      "is_new": false,
+      "score": 230.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tom_doerr",
+        "text": "Connects to PostgreSQL, MySQL, SQLite, Redis, MongoDB, SQL Server, and ClickHouse through a single native desktop application with a built-in MCP server.\n\nhttps://t.co/mptYLA24hj https://t.co/2X0trRQODj",
+        "likes": 35,
+        "url": "https://x.com/i/status/2106375572754485477"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106375572754485477"
+      ]
+    },
+    {
+      "repo": "b-nnett/grok-bot-0.18-reconstructed",
+      "github_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "tier": 3,
+      "is_new": false,
+      "score": 211.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "this is pure treasure if you’re using Grok Bot.\n\n20 GitHub repos to self-host it, add tools, connect apps and copy proven workflows.\n\n 1.⁠ ⁠Grok Bot 0.18 Reconstructed  \nreconstructed source + extensions.\n\n⁠ https://t.co/ol9Fk8MAGC ⁠\n\n 2.⁠ ⁠Grok Bot 0.18 Original  \nunminified run",
+        "likes": 32,
+        "url": "https://x.com/i/status/2106319598492545245"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106319598492545245"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "karnstackdotcom",
+        "text": "the skill claude uses to read your pdfs is public: https://t.co/5lRNLK9A1y\n\nalso: claude code's official marketplace (/plugin), openai/plugins for codex. before installing any skill: does the description say WHEN, is it under 500 lines, did you read the scripts? https://t.co/fXOH",
+        "likes": 2,
+        "url": "https://x.com/i/status/2106376410264748075"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106379622937931794",
+        "https://x.com/i/status/2106376410264748075"
+      ]
+    },
+    {
+      "repo": "dhanji4u/skills",
+      "github_url": "https://github.com/dhanji4u/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BhagatDhanji",
+        "text": "@poteto 73 skills total, MIT licensed, fully credited to @poteto and upstream creators\n\nRepo: https://t.co/Tu3AmiyjQY\n\nIndividual principles also work:\nnpx skills add dhanji4U/skills --skill fix-root-causes --global\n\nnpx skills add dhanji4U/skills --skill subtract-before-you-add ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2106353636527702295"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106353636527702295",
+        "https://x.com/i/status/2106353635265306887"
+      ]
+    },
+    {
+      "repo": "google/mantis",
+      "github_url": "https://github.com/google/mantis",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sumika45379",
+        "text": "Google の GitHub に、セキュリティの穴を「探す・再現・直す・報告」まで回すスキル集が丸ごと置かれてた😳\nスターは2,153、入れるのは1行だけ。\n\nその1行が npx skills add google/mantis。名前は mantis で、点検の工程ごとにスキルが分かれてる。元ポストの紹介だと、回す順番は次のとおり。\n\n① /mantis-threat-model で、コードのどこが狙われやすいかの地図を作る\n② /mantis-researcher で穴を探し、/mantis-review で見間違いをふるい落とす\n③ /mantis",
+        "likes": 2,
+        "url": "https://x.com/i/status/2106361154759221414"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106361154759221414"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xal0ke",
+        "text": "your coding agent is only as good as the harness under it 👀\n\n5 agent harness + skill packs you should have on your stack — below ↓\n\n→ openclaw/openclaw — 391.2k⭐\nthe AI that actually does things across OS + platforms\nhttps://t.co/e9G1F4DOGJ\n\n→ affaan-m/ECC — 271.2k⭐\nagent harness",
+        "likes": 1,
+        "url": "https://x.com/i/status/2106137746796400711"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106137746796400711"
+      ]
+    },
+    {
+      "repo": "veedstudio/open-edit",
+      "github_url": "https://github.com/veedstudio/open-edit",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sharathknair",
+        "text": "OpenEdit is the agent video path that skips the timeline.\n\nInstall one skill on an Apple Silicon Mac running macOS 26: npx skills add veedstudio/open-edit. Point Claude Code, Codex, or Gemini at a clip or a deck. The agent writes the composition in HTML and CSS. VEED Engine rende",
+        "likes": 0,
+        "url": "https://x.com/i/status/2106365149309464662"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2106365149309464662"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2106123856759120317",
+      "author": "theo",
+      "text": "Things included in this PR:\n\n- Pi support.\n- Auto-resume when limits reset\n- T3 Code MCP (create, launch, message, wait on, read, search and interrupt threads)\n- `delegate_task` lets an agent start child agents on any provider or model\n- ACP Registry: add any registry agent (Devi",
+      "likes": 1948,
+      "views": 0,
+      "url": "https://x.com/i/status/2106123856759120317",
+      "is_kol": false,
+      "score": 6079.0
+    },
+    {
+      "id": "2106134932795822464",
+      "author": "kushalbyatnal",
+      "text": "introducing Jevbox: an open-source document drive that organizes itself, answers questions, and cites everything (all powered by Jev).\n\nTLDR;\n- upload anything and Jev categorizes and files it into the folder tree\n\n- search is hierarchical: Jev picks the folder, then the document",
+      "likes": 1052,
+      "views": 0,
+      "url": "https://x.com/i/status/2106134932795822464",
+      "is_kol": false,
+      "score": 3536.0
+    },
+    {
+      "id": "2106165782032056581",
+      "author": "supabase",
+      "text": "Build your own MCP server on Supabase! \nhttps://t.co/EL1C3Sh60g https://t.co/8uaDK8NjjW",
+      "likes": 241,
+      "views": 0,
+      "url": "https://x.com/i/status/2106165782032056581",
+      "is_kol": false,
+      "score": 763.0
+    },
+    {
+      "id": "2106242036202660260",
+      "author": "IParvel56536",
+      "text": "Trading skill is easier to talk about than to prove.\n\nPolymarket × @agenticscredit partnership creates a setup where traders can put their strategy into an agent and let actual performance build their track record.\n\nif the requirements are met, agent can get access to up to $250K",
+      "likes": 216,
+      "views": 0,
+      "url": "https://x.com/i/status/2106242036202660260",
+      "is_kol": false,
+      "score": 663.0
+    },
+    {
+      "id": "2106269776117203169",
+      "author": "minorun365",
+      "text": "AWS公式MCPサーバーが東京リージョンでもGA🎉\nhttps://t.co/RPBSIYVtGq",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2106269776117203169",
+      "is_kol": false,
+      "score": 657.0
+    },
+    {
+      "id": "2106196721105862810",
+      "author": "tienho_nyx",
+      "text": "An agent no longer needs a custom Vangrid integration just to reach the physical world\n\n@vangrid_io now has an MCP server built around that flow\n\nDrop it into Claude Desktop, Claude Code or Cursor\n\nThen the agent can\n\nQuery coverage\nBuy one anchored observation\nVerify provenance\n",
+      "likes": 214,
+      "views": 0,
+      "url": "https://x.com/i/status/2106196721105862810",
+      "is_kol": false,
+      "score": 642.0
+    },
+    {
+      "id": "2106225226111418412",
+      "author": "luong4101992",
+      "text": "The physical world is becoming another tool AI agents can call.\n\nThat’s an interesting step forward for @vangrid_io.\n\nWith its new MCP server, Vangrid brings real-world spatial data directly into tools like Claude Desktop, Claude Code, and Cursor, allowing AI agents to interact w",
+      "likes": 179,
+      "views": 0,
+      "url": "https://x.com/i/status/2106225226111418412",
+      "is_kol": false,
+      "score": 542.0
+    },
+    {
+      "id": "2106244110290169914",
+      "author": "leminh1847",
+      "text": "A settlement that only moves money teaches the network nothing.\n\nI followed the Internet Court section of @GenLayer’s thread into the Court’s own skill spec. The detail that changed my view was not escrow or appeals. It was that adjudication writes a verdict back into reputation.",
+      "likes": 129,
+      "views": 0,
+      "url": "https://x.com/i/status/2106244110290169914",
+      "is_kol": false,
+      "score": 397.0
+    },
+    {
+      "id": "2106089410609434717",
+      "author": "Freedkinng",
+      "text": "The next big AI app store might have no apps.\n\nJust tools agents can discover and call.\n\nThat’s the direction Rokha is pushing with MCP listings.\n\nConnect your server → Rokha reads the real toolset → generates the skill → agents can discover and use it.\n\nYour tools become part of",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2106089410609434717",
+      "is_kol": false,
+      "score": 359.0
+    },
+    {
+      "id": "2106328678959321362",
+      "author": "enrichthesoil",
+      "text": "Minha namorada criou a primeira SKILL do Claude Code dela.\nEla já sabe mais do que 95% dos Devs no mercado hoje.\n\nEla trabalha com o financeiro, tá automatizando tudo o que o time dela faz, tirando a necessidade de aumentar o time. Time dela inteiro de financeiro usa Claude Code.",
+      "likes": 99,
+      "views": 0,
+      "url": "https://x.com/i/status/2106328678959321362",
+      "is_kol": false,
+      "score": 307.0
+    },
+    {
+      "id": "2106370698126205403",
+      "author": "Grow_withAI",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT, spend 2 hours on THIS.\n\nA FULL Claude AI course that teaches you how to BUILD, AUTOMATE, and turn AI into a serious advantage for your work and business.\n\n2 hours of learning today could give you a skill that completely changes how you work to",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2106370698126205403",
+      "is_kol": false,
+      "score": 272.0
+    },
+    {
+      "id": "2106250122577301989",
+      "author": "karakalemhikmet",
+      "text": "The more I look at @termix_ai, the more I think I was looking at agent skills from the wrong angle.\n\nAn agent does not need to know everything.\n\nIt needs to know where to find what it does not know.\n\nThat is where https://t.co/1QfaXCaTJk gets interesting to me.\n\nA coding agent ca",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2106250122577301989",
+      "is_kol": false,
+      "score": 262.0
+    },
+    {
+      "id": "2106330014153163239",
+      "author": "lyra_dAO",
+      "text": "𝗧𝗵𝗲 𝗠𝗶𝘀𝘀𝗶𝗻𝗴 𝗟𝗶𝗻𝗸 𝗕𝗲𝘁𝘄𝗲𝗲𝗻 𝗔𝗜 𝗦𝘂𝗽𝗽𝗹𝘆 𝗮𝗻𝗱 𝗗𝗲𝗺𝗮𝗻𝗱 .\n\nEveryone talks about building AI.\n\nNew models. New agents. New tools.\n\nBut I've been thinking about a different question:\n\nWhat happens after the AI is built?\n\nBecause creating capabilities is only one side of the equation.\n\nThe ot",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2106330014153163239",
+      "is_kol": false,
+      "score": 255.0
+    },
+    {
+      "id": "2106202577712857090",
+      "author": "hoshino_popopo_",
+      "text": "AWS MCP Server が東京リージョンで使えるようになったよ\n\nAWS MCP Server が東京を含む 6 つの AWS リージョンに追加され、AI コーディングエージェントから AWS API をひとつのインターフェースで扱いやすくなったよ。\n\nサービスごとの連携を個別に作らなくても、エージェントが AWS サービスを見つけて呼び出せるのが特徴だね。\n\n東京リージョンのエンドポイントを使えば、開発者の近くで動かせるからレイテンシーを抑えやすく、リクエストデータをリージョン内に置きたいケースにも向いているよ。\n\nインフラのプロビジョニング、稼",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2106202577712857090",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2106089076050870409",
+      "author": "DanKornas",
+      "text": "Browser automation for agents gets messy fast. This MCP keeps the Playwright tools familiar.\n\ncloakbrowser-mcp is a drop-in Playwright MCP-compatible browser automation server for developers who want to run CloakBrowser through MCP clients.\n\nIt helps you run browser tasks through",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2106089076050870409",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2106344927030653358",
+      "author": "RamSingh_369",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hours with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/hstY10XMbx",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2106344927030653358",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2106255425712828703",
+      "author": "shadatofficial1",
+      "text": "Found another points-based opportunity worth checking out: @ama_protocol \n\nThe project has reportedly raised $10M, and the current points campaign is running until October 13\n\nIf you want to get started, the process is pretty straightforward:\n\n🔗https://t.co/BKCDtUvNwp\n• Go to Ama",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2106255425712828703",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2106307655245713563",
+      "author": "FlorynCat",
+      "text": "Trading skill is easy to claim.\n\nProving it consistently is the harder part.\n\nThe Polymarket and @agenticscredit  partnership caught my attention because it creates a path where traders can turn their strategies into agents and let actual performance build their track record.\n\nIf",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2106307655245713563",
+      "is_kol": false,
+      "score": 149.0
+    }
+  ]
+}

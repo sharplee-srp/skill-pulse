@@ -7894,5 +7894,61 @@
   "23blocks-os/lolabot": {
     "first_seen": "2026-10-02",
     "tier": 3
+  },
+  "elie222/rakazo": {
+    "first_seen": "2026-10-03",
+    "tier": 2
+  },
+  "composiohq/composio": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "zerx-lab/fluxdown": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "srothgan/claude-code-rust": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "rav4nn/skills": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "avdlee/swiftui-agent-skill": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "firetower-cloud/firetower": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "ohad6k/viberaven": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "sivarampg/railway-iac-skill": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "kaankiziltug/logo-design-skill": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "johnheibel/pdoomvideo": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "pengchujin/livecanvas": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "x-hw/skills": {
+    "first_seen": "2026-10-03",
+    "tier": 3
+  },
+  "dtnghla/ste-lite": {
+    "first_seen": "2026-10-03",
+    "tier": 3
   }
 }
