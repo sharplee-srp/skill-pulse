@@ -7950,5 +7950,53 @@
   "dtnghla/ste-lite": {
     "first_seen": "2026-10-03",
     "tier": 3
+  },
+  "0xpili/simplified-technical-english": {
+    "first_seen": "2026-10-04",
+    "tier": 2
+  },
+  "joeseesun/qiaomu-codex-imagegen": {
+    "first_seen": "2026-10-04",
+    "tier": 2
+  },
+  "donnemartin/system-design-primer": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "liegeagents/liegeagentsapp": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "skyhook-io/radar": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "livekit/agents": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "tokennotincluded/msg": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "diegomarino/tui-design": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "ersinkoc/evidence-audit": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "arekejoker/douyin-download-skill": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "oil-oil/oil-ui": {
+    "first_seen": "2026-10-04",
+    "tier": 3
+  },
+  "sanjaikuttyy/poof": {
+    "first_seen": "2026-10-04",
+    "tier": 3
   }
 }
