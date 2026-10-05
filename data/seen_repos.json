@@ -7998,5 +7998,29 @@
   "sanjaikuttyy/poof": {
     "first_seen": "2026-10-04",
     "tier": 3
+  },
+  "priors-agents/agent001": {
+    "first_seen": "2026-10-05",
+    "tier": 2
+  },
+  "rauchg/gdp-ts": {
+    "first_seen": "2026-10-05",
+    "tier": 3
+  },
+  "abualnassr/interactive-workflow": {
+    "first_seen": "2026-10-05",
+    "tier": 3
+  },
+  "mohamed-khairy-5i/trigger-doctor": {
+    "first_seen": "2026-10-05",
+    "tier": 3
+  },
+  "rauchg/skills": {
+    "first_seen": "2026-10-05",
+    "tier": 3
+  },
+  "hithink-tech/financial-api": {
+    "first_seen": "2026-10-05",
+    "tier": 3
   }
 }

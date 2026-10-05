@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-05",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 165,
+    "tweets_with_repos": 11,
+    "unique_repos": 10,
+    "new_repos": 6,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "priors-agents/agent001",
+      "github_url": "https://github.com/priors-agents/agent001",
+      "tier": 2,
+      "is_new": true,
+      "score": 434.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 103,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "priors_trade",
+        "text": "quick update: the priors skill now runs in openclaw and hermes agent.\n\n→ your assistant checks an agent's record before it pays or trusts it\n→ it can pay, borrow and repay on its own, within the caps you set\n→ hermes: hermes skills install priors-agents/agent001/skills/priors\n→ o",
+        "likes": 103,
+        "url": "https://x.com/i/status/2107150231603167332"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107150231603167332"
+      ]
+    },
+    {
+      "repo": "rauchg/gdp-ts",
+      "github_url": "https://github.com/rauchg/gdp-ts",
+      "tier": 3,
+      "is_new": true,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jimmy_longbow_",
+        "text": "Source: https://t.co/mvlNADkuy6 — MIT, three runnable examples (basic / Express / Express+Drizzle). gdp-ts/core 0.1.0 on npm, published today. Install for agents: npx skills add rauchg/gdp-ts",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107147607453929657"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107147607453929657",
+        "https://x.com/i/status/2107146932393284099"
+      ]
+    },
+    {
+      "repo": "abualnassr/interactive-workflow",
+      "github_url": "https://github.com/abualnassr/interactive-workflow",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EngMoElgaraihy",
+        "text": "التثبيت سطر واحد:\nnpx skills add abualnassr/interactive-workflow -g -a claude-code\n\nوبدل `claude-code` بأي وكيل تاني زي cursor أو codex.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107142034997801301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107142034997801301"
+      ]
+    },
+    {
+      "repo": "mohamed-khairy-5i/trigger-doctor",
+      "github_url": "https://github.com/mohamed-khairy-5i/trigger-doctor",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mohamed41872747",
+        "text": "Install once → works with 79 agents:\n\nnpx skills add mohamed-khairy-5i/trigger-doctor\n\nListed on https://t.co/umKlkRPTef — security audits 3/3:\nhttps://t.co/dWJt8awwTG",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107124829690220706"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107124829690220706"
+      ]
+    },
+    {
+      "repo": "rauchg/skills",
+      "github_url": "https://github.com/rauchg/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "EveryDevAi",
+        "text": "Debugging why a page feels slow to render usually means scrubbing through a screen recording by hand. @rauchg's open-source skills repo adds ui-recording-timeline, an agent skill that turns a UI recording into an interactive paint timeline with timestamps, phase colors, hover thu",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107111315487809780"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107111315487809780"
+      ]
+    },
+    {
+      "repo": "hithink-tech/financial-api",
+      "github_url": "https://github.com/hithink-tech/financial-api",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BTCqzy1",
+        "text": "安装方式很简单：\n\nnpx skills add HiThink-Tech/Financial-API --skill hithink-finance -g --yes\n\n装完就可以申请 Key了",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107078647643537798"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107078647643537798"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "joeseesun/qiaomu-codex-imagegen",
+      "github_url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "如果主力 Agent 不是 Codex，但又想直接调用 Codex 的生图能力，可以装这个 Skill：\n\nnpx skills add joeseesun/qiaomu-codex-imagegen\n\n装完以后，Claude Code、Workbuddy、DeepSeek Harness 这些都可以直接让它出图。\n\n前提是本机已经装好并登录 Codex CLI。\n\n里面还把出图流程做了一层：\n\n先给至少 4 个机制不同的视觉方向。\n\n选中一个以后，再继续往下展开。\n\n仓库：\nhttps://t.co/5PoNiwnqe7",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107059572028416007"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107059572028416007"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Igloczek",
+        "text": "@mattpocockuk btw. `npx skills update` won't add the new skills, so `npx skills add mattpocock/skills` is required to fully experience the v1.3.1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107091595308986572"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107091595308986572"
+      ]
+    },
+    {
+      "repo": "nvidia/skills",
+      "github_url": "https://github.com/nvidia/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ZentrionGlobal",
+        "text": "NVIDIA 공식 에이전트 스킬 카탈로그에 SKILL.md와 skill.oms.sig가 399쌍 있습니다.\n\n설치는 한 줄입니다. npx skills add nvidia/skills 로 Claude Code·Codex·Cursor에 넣습니다. 저장소를 직접 복제하거나 폴더를 손으로 맞출 필요가 없습니다. GitHub 별은 3,520개, 코드는 Apache-2.0·문서는 CC-BY-4.0입니다.\n\n서명은 ‘NVIDIA가 올린 그 파일이 맞는지’만 확인합니다. 위험한 코드가 없는지는 서명만으로 알 수",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107081412021305616"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107081412021305616"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trendtech33566",
+        "text": "ターミナルから旅行先のホテルまで探せるって知ってます？👀\n\nflyai-skill、⭐️約1.2千。AIエージェントに旅行検索を追加するskill。\n\n何ができるかというと👇\n・Claude CodeやOpenClawから旅行検索\n・航空券・ホテル・観光スポットまで探せる\n・検索結果から予約リンクへ進める\n・APIキーなしで使い始められる\n\n「旅行の比較でタブが増えすぎる」人へ。\nいつものAIとの会話で、旅の下調べまで。\n\nhttps://t.co/K133y16ek1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107098830818963711"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107098830818963711"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2107078363164889587",
+      "author": "suraj_sharma14",
+      "text": "Do yourself a favor!\n\n–  Learn AI Engineering\n–  Build an agent that fixes one painful, boring workflow\n–  Give it tools, context, memory and MCP\n–  Write evals before you write prompts\n–  Deploy it with a live link anyone can try\n–  Route easy requests to small models, hard ones",
+      "likes": 637,
+      "views": 0,
+      "url": "https://x.com/i/status/2107078363164889587",
+      "is_kol": false,
+      "score": 2196.0
+    },
+    {
+      "id": "2107090999285776780",
+      "author": "iamsahaj_xyz",
+      "text": "/explain-then-fix\n\nreject non-understanding\n\nnpx skills@latest add jnsahaj/skills https://t.co/AFq6q5Oqop",
+      "likes": 184,
+      "views": 0,
+      "url": "https://x.com/i/status/2107090999285776780",
+      "is_kol": false,
+      "score": 602.0
+    },
+    {
+      "id": "2106858018159706288",
+      "author": "hell_doe",
+      "text": "leaving 2026 with one skill, claw machine https://t.co/5Cw8dYibBE",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2106858018159706288",
+      "is_kol": false,
+      "score": 486.0
+    },
+    {
+      "id": "2107114083107623139",
+      "author": "useteller",
+      "text": "New collateral live on Teller 🌲 & Debit AI 🟡\n\nrobinhood:0x39dbed3a2bd333467115de45665cc57f813c4571 on Robinhood Chain.\n\nPONS can now be used as collateral to access stablecoin liquidity without selling the underlying asset, subject to available lending pools and offers.\n\nMore on ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2107114083107623139",
+      "is_kol": false,
+      "score": 462.0
+    },
+    {
+      "id": "2107104668509733318",
+      "author": "deanwperkins",
+      "text": "we spent a decade building software for people who click.\n\nevery product of the last ten years starts from the same assumption: there's a human at the other end. that's why there's a dashboard. that's why there's an onboarding flow, a settings page, a button that turns blue when ",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2107104668509733318",
+      "is_kol": false,
+      "score": 415.0
+    },
+    {
+      "id": "2107098137072468452",
+      "author": "jonas",
+      "text": "This MCP Events spec (basically dynamic webhook registrations) is crazy\n\nOne agent (e.g. your chatgpt / dot / muse etc) can now hire the services of another agent via an MCP server. And the other agent will do some work and come back later with the result.\n\nE.g. all of lovable co",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2107098137072468452",
+      "is_kol": false,
+      "score": 413.0
+    },
+    {
+      "id": "2107131339355181240",
+      "author": "lennysan",
+      "text": "My biggest takeaways from @thsottiaux:\n\n1. Most actions on the internet will soon be taken by agents, and Tibo doesn’t think most people have priced this in yet. When Notion launched its MCP server, it saw a flood of traffic, which strained its systems and forced it to rethink it",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2107131339355181240",
+      "is_kol": false,
+      "score": 351.0
+    },
+    {
+      "id": "2107132593259061536",
+      "author": "MartinGTobias",
+      "text": "Researching investors for your startup? Found an MCP server for your agent to browse over 12,000 VC.\n\nhttps://t.co/jVqE07cMZv",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2107132593259061536",
+      "is_kol": false,
+      "score": 349.0
+    },
+    {
+      "id": "2107104197539705057",
+      "author": "Zuesthekreator",
+      "text": "$TAO keeps climbing on the AI narrative. decentralized intelligence markets. real research behind it. subnet model is genuinely interesting.\n\n$INJ: AI Agent SDK live. x402 payments for agents. Linux Foundation core member. MCP Server. agents with onchain identity and a financial ",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2107104197539705057",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2107063260386140483",
+      "author": "olucurious",
+      "text": "Hello Twitter 👋\n\nIntroducing Watchtower: self-hosted error tracking, and a drop-in replacement for Sentry & AppSignal.\n\n→ Slack, Linear & email alerts\n→ MCP server for coding agents\n→ One Go binary + Postgres\n\nStarted as something I built and self-hosted on my homelab for my own ",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2107063260386140483",
+      "is_kol": false,
+      "score": 226.0
+    },
+    {
+      "id": "2107159149507383389",
+      "author": "tobiadonadon_",
+      "text": "i built a skill to un-slop ai-looking web apps\n\nmany of you asked the web app version\n\nmost ai-generated uis don’t look bad anymore\nthey just all feel like they came from the same designer:\n\nsame motion language\nsame glossy gradients\nsame startup-dashboard structure\nsame safe, fo",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2107159149507383389",
+      "is_kol": false,
+      "score": 222.0
+    },
+    {
+      "id": "2107128716455510192",
+      "author": "wallstengine",
+      "text": "Era by Eon just launched a free platform that generates complete simulated companies for testing, benchmarking and improving AI agents.\n\nResearch partners include $NVDA, Deel, Decart, Composio, Openlayer, Eragon and Plurai. \n\nDevelopers can:\n\n› Choose the industry, company size, ",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2107128716455510192",
+      "is_kol": false,
+      "score": 218.0
+    },
+    {
+      "id": "2107166154242572454",
+      "author": "mxstbr",
+      "text": "we removed a toggle from chatgpt!\n\nno, not that one.\n\nbut, you no longer need to toggle developer mode to connect custom MCP servers! \n\nall users can now just go to plugins → add → create custom MCP server to connect MCP servers. https://t.co/tly5icgAHb",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2107166154242572454",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2107108551172993387",
+      "author": "TechWithTimm",
+      "text": "Here’s how to build an AI agent from scratch in pure Python.\n\nWe’ll go from a simple LLM call to tools, multi-step agent loops, MCP, memory, and switching between models.\n\nBy the end, you’ll have your own working agent harness without using an AI framework.\n\nTimestamps:\n\n00:00 | ",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2107108551172993387",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2107124695199834386",
+      "author": "AgentOS_Tech",
+      "text": "The AgentOS Economy; Powered by $sAGENT.\n\nWe’re implementing an economy where people can do work, create valuable products and earn from those products within AgentOS.\n\n$sAGENT is the token that powers this economy. Users will pay for AgentOS subscriptions with it, and creators w",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2107124695199834386",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2107085155085038049",
+      "author": "me_barnyx",
+      "text": "THIS IS HECKING CRAZY! OpenAI just leaked their Dots GitHub repo and it is already 700+ stars…\n\nfree real treasure for anyone who is interested in AI autonomous agents\n\nwhile everyone was watching the agents, this went up quietly: the official toolkit for building ChatGPT plugins",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2107085155085038049",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2107131834534437293",
+      "author": "AdamPerlis",
+      "text": "Some of you know that my wife and I had a daughter this year.\n\nWe spent a lot of hours tracking her food, sleep, diapers, etc.\n\nWe used to use a great app called Nara for awhile that all of a sudden start charging with no available free tier.\n\nSo my wife and I decided to build ou",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2107131834534437293",
+      "is_kol": false,
+      "score": 170.0
+    },
+    {
+      "id": "2107086047985258639",
+      "author": "rewind02",
+      "text": "i built a small playable game in Unreal Engine with Claude Opus 5.5...\n\nno blueprints by hand, Claude worked inside the running editor\n\nthe trick is the live connection, but there's a smart way to set it up:\n\n- step 1: Unreal Engine 5.8 + a Third Person project, under source cont",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2107086047985258639",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2107094758501777755",
+      "author": "0x_rody",
+      "text": "Jev has been blowing up lately.\n\nIf you've got the Jev API but don't know how to play around with it yet, you can just copy this checklist. \n\n(part 2)\n1. typesafe-mcp\nBest for people who just got the API. Plug Jev into Claude Code, Claude Desktop, Codex, and Pi, and do Choice / S",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2107094758501777755",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2107110475641040971",
+      "author": "polydao",
+      "text": "your AI agent can write the launch post\nit just can't publish it\n\nthe wall:\nMeta app review, TikTok audit, WhatsApp onboarding, SMS registration\n\nZernio puts every channel behind one API:\n• 16 social networks + WhatsApp + iMessage\n• real phone numbers with calls and SMS\n• ads on ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2107110475641040971",
+      "is_kol": false,
+      "score": 168.0
+    }
+  ]
+}
