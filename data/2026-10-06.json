@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-06",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 174,
+    "tweets_with_repos": 18,
+    "unique_repos": 15,
+    "new_repos": 5,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "danyuchn/asd-ste100-skill",
+      "github_url": "https://github.com/danyuchn/asd-ste100-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 435.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 60,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "charliejhills",
+        "text": "Ever read an AI explanation and lost track of what it was talking about?\n\nIt said \"worker.\" Then \"agent.\" Then \"executor.\" Same thing? Three things? No idea.\n\nThis is the problem Andrej Karpathy just pointed at. As AI does more of the work, more of your time goes into reading its",
+        "likes": 53,
+        "url": "https://x.com/i/status/2107396383494021570"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107347534855143865",
+        "https://x.com/i/status/2107396383494021570"
+      ]
+    },
+    {
+      "repo": "suleyman/fullstack-agent-skills",
+      "github_url": "https://github.com/suleyman/fullstack-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 119.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imcodingthings",
+        "text": "My stack for mobile apps, web and APIs: Next.js, FastAPI, PostgreSQL, Expo, SwiftUI.\n\nI've shipped 2 mobile apps and a SaaS on it, so I turned the rules I follow into agent skills.\n\nnpx skills add suleyman/fullstack-agent-skills\n\nhttps://t.co/mhIqLNFCEg",
+        "likes": 3,
+        "url": "https://x.com/i/status/2107449054053474531"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107449054053474531"
+      ]
+    },
+    {
+      "repo": "ferriskleier/skills",
+      "github_url": "https://github.com/ferriskleier/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ferriskleier",
+        "text": "Opus 5.5 is great. but with a growing codebase even the best model starts to build up redundancy and bad structure.\n\nI made a new skill that applies the ten principles for good design by Dieter Rams to code:\n\nnpx skills add ferriskleier/skills --skill ten-principles\nhttps://t.co/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107353002981929220"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107353002981929220"
+      ]
+    },
+    {
+      "repo": "sujunmin/agy-ppt",
+      "github_url": "https://github.com/sujunmin/agy-ppt",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sujunmin_",
+        "text": "MIT licensed. Install: `npx skills add sujunmin/agy-ppt` — also on ClawHub. Demo (70s): https://t.co/DB7DinBiKg Repo: https://t.co/ixXhxxJCUl Curious what breaks — especially for CJK deck makers, the use case most tools ignore.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107435491339764211"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107435491339764211"
+      ]
+    },
+    {
+      "repo": "gorshunovr/arbor-guardian",
+      "github_url": "https://github.com/gorshunovr/arbor-guardian",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DeepDiveInOcean",
+        "text": "British dads,\nI’ve published arbor-guardian – a stdlib Python CLI (and agent skill) for the Arbor Education UK schools parent portal.\n\nMessages, attendance, timetable, homework, meal choices, report cards, clubs/trips, and more. Multi-school accounts work. Works well with @opencl",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107484017637368022"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107484017637368022"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 323.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "godofprompt",
+        "text": "a Google engineer packed his entire engineering workflow into agent skills and put the whole thing on Github.\n\nit's Addy Osmani, who runs Chrome developer experience. 25 skills covering the full lifecycle, from interviewing you about what you actually want through to shipping and",
+        "likes": 6,
+        "url": "https://x.com/i/status/2107482267388104820"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107482267388104820",
+        "https://x.com/i/status/2107397408628039941",
+        "https://x.com/i/status/2107393628838801841"
+      ]
+    },
+    {
+      "repo": "priors-agents/agent001",
+      "github_url": "https://github.com/priors-agents/agent001",
+      "tier": 2,
+      "is_new": false,
+      "score": 559.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 138,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "priors_trade",
+        "text": "quick update: the priors skill now runs in openclaw and hermes agent.\n\n→ your assistant checks an agent's record before it pays or trusts it\n→ it can pay, borrow and repay on its own, within the caps you set\n→ hermes: hermes skills install priors-agents/agent001/skills/priors\n→ o",
+        "likes": 138,
+        "url": "https://x.com/i/status/2107150231603167332"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107150231603167332"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 663.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 96,
+      "total_retweets": 55,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_am_Aiabir",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/VM6mSXLHF0\n\n2. public-apis — free APIs for everything\n→ https://t.co/7Vfo7R8IUG…\n\n3. build-your-own-x — learn by building\n→ https://t.co/IWcEGHqhEg…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 96,
+        "url": "https://x.com/i/status/2107277488028299457"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107277488028299457"
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "Holy shit, tell Claude Code or Codex \"security audit this codebase\" in your project, and it spins up a batch of agents to hunt for vulnerabilities, then hands every suspected issue to 𝗮 𝗳𝗿𝗲𝘀𝗵 𝗮𝗴𝗲𝗻𝘁 𝘁𝗵𝗮𝘁 𝘁𝗿𝗶𝗲𝘀 𝘁𝗼 𝗱𝗶𝘀𝗽𝗿𝗼𝘃𝗲 𝗶𝘁. Cloudflare's vulnerability-hunting harness grew out of ",
+        "likes": 12,
+        "url": "https://x.com/i/status/2107486036314227068"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107486036314227068"
+      ]
+    },
+    {
+      "repo": "catalystbyzoho/agent-skills",
+      "github_url": "https://github.com/catalystbyzoho/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CatalystByZoho",
+        "text": "Agent Skills cover the entire breadth of Catalyst services (Data Store, Functions, Stratus, AppSail, and more) and provide context to your coding agents on:\n\n▶️ Exact API shapes\n▶️ The constraints that are easy to miss\n▶️ Architectural insights\n▶️ A \"Common Errors\" section built ",
+        "likes": 6,
+        "url": "https://x.com/i/status/2107427265005150505"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107427265005150505"
+      ]
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BonoDJblack",
+        "text": "@realchendahuang 它自带的 skills 安装方式挺值得试，npx skills add rohitg00/ai-engineering-from-scratch 一条命令装进 Claude Code 或 Codex，就能让 agent 按它的课程目录一课一课带着学。比光收藏 README 实际多了，这也算 Agent Skills 生态的一个完整 demo。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107378312267915697"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107378312267915697"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "labmosaic",
+        "text": "find-animation-opportunities: one skill that searches your ui for places that would genuinely benefit from motion, while also telling you what not to animate. install with `npx skills add emilkowalski/skills --skill find-animation-opportunities`. https://t.co/93OSFhQisB",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107380092351418543"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107380092351418543"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ecojojo24",
+        "text": "Claude Codeのトークン代が重いなら、原始人口調にさせとけばいい\n\nスター10万9千のcaveman。返答も読み込みも短くなるのよ\n54回の実行で入力トークン33.2%減、18問は全部正解だった\n\nnpx skills add JuliusBrussee/caveman -g で入れられる\n\nhttps://t.co/HiyjUeM7y1\n公式: https://t.co/m6i4LDFeIn https://t.co/8TpTpdEyae",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107361401488724282"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107361401488724282"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "colafffkk",
+        "text": "独立开发者缺增长同事时，可以先给 AI agent 装一套营销技能。\n\nMarketing Skills（GitHub coreyhaines31/marketingskills）是开源 Agent Skills 合集，面向 Claude Code / Codex / Cursor 等，覆盖 CRO、文案、SEO、投放、分析与增长工程。MIT；约 5.3 万⭐；最新 v2.11.17（10/3）。product-marketing 是底座，其他技能先读你的产品定位再动手。\n\n怎么试：\n1. npx skills add coreyhaines31/mar",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107321658990309878"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107321658990309878"
+      ]
+    },
+    {
+      "repo": "alibaba-flyai/flyai-skill",
+      "github_url": "https://github.com/alibaba-flyai/flyai-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realfxw",
+        "text": "在终端写代码写累了，直接让 AI 助手帮你查机票和订酒店？✈️🏨\n\n今天发现了一个挺有意思的开源项目——基于飞猪生态的 FlyAI，它直接把实时旅行搜索能力接入到了 Claude Code、OpenClaw 等终端 Agent 中。\n\n很多开发者在规划出差或休假时，经常要在编辑器和浏览器几十个比价标签页之间反复横跳。而这个工具的核心思路就是：不离开终端、无需切换窗口，纯靠自然语言即可调取实时票务与酒店数据。\n\n📌 核心特性：\n\n全场景覆盖：不仅能查机票与酒店，还支持查询景点门票、演唱会等实时库存。\n\n无缝集成：作为 Agent Skill 运作，开箱适配",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107413263084347794"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107413263084347794"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2107335290352546158",
+      "author": "mylifcc",
+      "text": "逆向工程的玩法彻底变了… 🤯\n\n刚刚试了这个 GitHub 开源神仙项目：x64dbg-mcp-server。\n\n简单来说：它把 Windows 最老牌的逆向神器 x64dbg 做成了 MCP 服务。 这意味着什么？你现在可以用 Claude / AI 直接接管调试器。\n以前逆向分析： 手动下断点 ➡️ F7/F8 单步步过 ➡️ 肉眼找加密函数 ➡️ 翻内存栈\n\n现在： 直接对 Claude 说一句： “载入恶意样本，在入口点断下，步进5步，提取内存解密后的字符串。” AI 自己调了 8 个 API，秒级把寄存器和反汇编分析全部吐出来…\n\n✨ 亮点：\n",
+      "likes": 395,
+      "views": 0,
+      "url": "https://x.com/i/status/2107335290352546158",
+      "is_kol": false,
+      "score": 1455.0
+    },
+    {
+      "id": "2107339550708080648",
+      "author": "gabypadronp",
+      "text": "Good morning CTNG\n\nHappy taco Tuesday frens \n\nWe go again today \n\nThe network just went live, and that is the Tuesday note.\n@rokha_agent is in the GitHub MCP Registry now, so Copilot can install it and run a tool instead of only talking. Two real runs a day are free. Network is $",
+      "likes": 206,
+      "views": 0,
+      "url": "https://x.com/i/status/2107339550708080648",
+      "is_kol": false,
+      "score": 953.0
+    },
+    {
+      "id": "2107278918738948188",
+      "author": "IntCyberDigest",
+      "text": "❗️ A researcher tested AI agents from Google, JPMorgan Chase, Rapid7, France's digital directorate and the US government, and found that one hijacked agent can pass malicious instructions via MCP to the other internal agents that trust it.\n\nGoogle and four others confirmed the fl",
+      "likes": 205,
+      "views": 0,
+      "url": "https://x.com/i/status/2107278918738948188",
+      "is_kol": false,
+      "score": 765.0
+    },
+    {
+      "id": "2107455844992299272",
+      "author": "Voxyz_ai",
+      "text": "Every time you let Opus 5.5 work on a project overnight, have it vibe-code a quick 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗽 like this first. In the morning, you'll see at a glance what's done and what's left.\n\nThen give it 𝗮 𝘀𝘂𝗯𝗮𝗴𝗲𝗻𝘁 𝘁𝗵𝗮𝘁 𝗼𝗻𝗹𝘆 𝗱𝗿𝗮𝘄𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗽𝘀:\n→ Name it project-map, set its effort to medi",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2107455844992299272",
+      "is_kol": false,
+      "score": 564.0
+    },
+    {
+      "id": "2107471185110094224",
+      "author": "Dhruvkumar16797",
+      "text": "INSTEAD OF WATCHING NETFLIX TONIGHT. Spend 2 hours with this. Claude AI FULL COURSE that teaches you how to BUILD and AUTOMATE anything. The people who watch this tonight will wake up tomorrow with a new skill. Watch it and bookmark it now. https://t.co/SuYkUrH6Sq",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2107471185110094224",
+      "is_kol": false,
+      "score": 388.0
+    },
+    {
+      "id": "2107389299633405956",
+      "author": "vishalsingh2972",
+      "text": "𝟱𝟬 𝗔𝗜 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝘁𝗼 𝗸𝗻𝗼𝘄 𝗯𝗲𝗳𝗼𝗿𝗲 𝘆𝗼𝘂𝗿 𝗻𝗲𝘅𝘁 𝗔𝗜 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄.\n\nIf you can explain all 50 in plain English, you're ahead of most AI experts.\n\n𝗟𝗟𝗠 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀\n\n1/ Tokens\n2/ Context window\n3/ Embeddings\n4/ Attention\n5/ Transformers\n6/ Temperature\n7/ Top-p / sampling\n8/",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2107389299633405956",
+      "is_kol": false,
+      "score": 332.0
+    },
+    {
+      "id": "2107469201472364942",
+      "author": "farmDev79",
+      "text": "Prompt diz ao modelo o que fazer.\nSkill organiza como executar uma tarefa recorrente.\nTool permite executar uma ação.\nMCP padroniza o acesso a ferramentas e recursos.\nAgent coordena tudo isso.\n\nIsso soa muito newbie para quem é veterano, mas eu posto isso para ajudar quem é novat",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2107469201472364942",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2107228959264116961",
+      "author": "HarmonicHQ",
+      "text": "𝗛𝗔𝗥𝗠𝗢𝗡𝗜𝗖 𝗔𝗚𝗘𝗡𝗧: 𝗧𝗛𝗘 𝗪𝗛𝗢𝗟𝗘 𝗠𝗔𝗖𝗛𝗜𝗡𝗘, 𝗠𝗘𝗔𝗦𝗨𝗥𝗘𝗗\n\nAn autonomous agent on Robinhood Chain, built on Aristotle, @HarmonicMath’s prover.\n\nThe rules its desks run on are written down as theorems, rechecked every time it starts, and proved in Lean 4 through Aristotle: 122 machine-checked s",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2107228959264116961",
+      "is_kol": false,
+      "score": 227.0
+    },
+    {
+      "id": "2107404946031227118",
+      "author": "fleyta88",
+      "text": "here's how to build games in Unreal Engine with Claude Opus 5.5\n\nthe trick is the live connection to the editor, but there's a smart way to set it up:\n\n- Unreal Engine 5.8 + a Third Person project, under source control\n- enable Unreal MCP and AllToolsets in the editor, start the ",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2107404946031227118",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2107463067433050279",
+      "author": "arkham",
+      "text": "ANNOUNCING: THE ARKHAM MCP SERVER\n\nConnect Arkham to Claude, Claude Code, Codex or any other MCP-capable tool and ask about on-chain activity in plain English.\n\nYou can set it up in 1 minute with an Arkham API Key. https://t.co/g7B3DAbyiD",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2107463067433050279",
+      "is_kol": false,
+      "score": 201.0
+    },
+    {
+      "id": "2107467150608716024",
+      "author": "farmDev79",
+      "text": "Complementando a lista de conhecimentos para entrevistas de DEV:\n\nEm 2026, eu colocaria IA como item obrigatório.\n\nLLMs: GPT, Claude, Gemini, Grok.\n\nAgentes: Claude Code, Codex, Cursor, Copilot.\n\nSkills, MCP, RAG, embeddings, vector DB, tool calling e APIs de IA.\n\nNão basta saber",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2107467150608716024",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2107432932340039791",
+      "author": "_guillecasaus",
+      "text": "Si trabajas con varias bases de datos, esta herramienta te interesa.\n\nEs perfecta si quieres gestionarlas desde un único sitio y además conectarlas directamente con tus agentes de IA.\n\nSe llama Gridex y es una aplicación de escritorio nativa con servidor MCP integrado.\n\nAsí funci",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2107432932340039791",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2107452229221519434",
+      "author": "AhmedSaika11949",
+      "text": "𝗚𝗼𝗼𝗱 𝗘𝘃𝗲𝗻𝗶𝗻𝗴 𝗠𝗮𝘁𝗲𝘀\n\n𝗦𝗺𝗮𝗿𝘁𝗲𝗿 𝗔𝗴𝗲𝗻𝘁𝘀 𝗻𝗲𝗲𝗱 𝗯𝗲𝘁𝘁𝗲𝗿 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝘂𝗻𝗱𝗲𝗿𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲𝗺.\n\nAI capabilities are becoming modular.\n\nOne Agent can now depend on multiple Skills, tools, workflows, and external capabilities to complete a single Task.\n\nThat creates a new layer of complexity that ",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2107452229221519434",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2107234337582469465",
+      "author": "mxstbr",
+      "text": "multiple people pointed out that this wording is more confusing than it needs to be.\n\nagreed.\n\nshipping an update to have this say \"Add custom MCP server\"!",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2107234337582469465",
+      "is_kol": false,
+      "score": 143.0
+    },
+    {
+      "id": "2107406813499105454",
+      "author": "_vmlops",
+      "text": "Want to become a Claude Certified Architect? 👀\n\nSomeone basically put the entire study kit on GitHub. 💀\n\n→ Study guides\n→ Practical test questions\n→ Anki decks\n→ PDF + EPUB versions\n→ MCP, tool design, structured output, context &amp; reliability\n\nAnd it’s open source. 🔥 https://",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2107406813499105454",
+      "is_kol": false,
+      "score": 141.0
+    },
+    {
+      "id": "2107196889557037427",
+      "author": "mantinedev",
+      "text": "Mantine 9.7 is out!\n\nTour, Toolbar, Toggle and JsonViewer components, light Checkbox and Radio variant, RichTextEditor image upload, schedule cascade overlap and drop validation, notifications.promise, resizable AppShell, MCP server upgrades and more\n\nhttps://t.co/T54OmLEQNP",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2107196889557037427",
+      "is_kol": false,
+      "score": 140.0
+    },
+    {
+      "id": "2107480458673979495",
+      "author": "astroeleanor",
+      "text": "LIBRA RISING\n(10H Cancer: Ruled by the Moon)\n\nYou need to feel some type of emotional CONNECTION to your career. That’s because Cancer rules your 10H, so you thrive in professions where people trust you, confide in you or rely on you for support. To be more specific, that would b",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2107480458673979495",
+      "is_kol": false,
+      "score": 136.0
+    }
+  ]
+}

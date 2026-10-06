@@ -8022,5 +8022,25 @@
   "hithink-tech/financial-api": {
     "first_seen": "2026-10-05",
     "tier": 3
+  },
+  "danyuchn/asd-ste100-skill": {
+    "first_seen": "2026-10-06",
+    "tier": 3
+  },
+  "suleyman/fullstack-agent-skills": {
+    "first_seen": "2026-10-06",
+    "tier": 3
+  },
+  "ferriskleier/skills": {
+    "first_seen": "2026-10-06",
+    "tier": 3
+  },
+  "sujunmin/agy-ppt": {
+    "first_seen": "2026-10-06",
+    "tier": 3
+  },
+  "gorshunovr/arbor-guardian": {
+    "first_seen": "2026-10-06",
+    "tier": 3
   }
 }
