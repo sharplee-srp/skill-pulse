@@ -1,0 +1,564 @@
+{
+  "date": "2026-10-07",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 174,
+    "tweets_with_repos": 17,
+    "unique_repos": 17,
+    "new_repos": 8,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "twostraws/swiftui-agent-skill",
+      "github_url": "https://github.com/twostraws/swiftui-agent-skill",
+      "tier": 2,
+      "is_new": true,
+      "score": 960.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 260,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "twostraws",
+        "text": "I'm pleased to announce v2.0 of my SwiftUI Pro agent skill! It's packed with improvements based on real-world testing of iOS 27 and iPhone Duo, and also integrates a variety of advice from Apple's own skills. Get it here: https://t.co/Ns8blrGjjY",
+        "likes": 260,
+        "url": "https://x.com/i/status/2107828718316167246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107828718316167246"
+      ]
+    },
+    {
+      "repo": "zeke/faster-gh-cli-skill",
+      "github_url": "https://github.com/zeke/faster-gh-cli-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 188.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zeke",
+        "text": "🥞 GitHub now supports stacked pull requests so you can split a big change into a chain of small PRs.\n\nI updated my GitHub skill with the good news:\n\n$ npx skills add zeke/faster-gh-cli-skill\n\nhttps://t.co/yHk8Oq2Ofo",
+        "likes": 26,
+        "url": "https://x.com/i/status/2107706168118489464"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107706168118489464"
+      ]
+    },
+    {
+      "repo": "manifoldmcp/marketing-skills",
+      "github_url": "https://github.com/manifoldmcp/marketing-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jessesibley_",
+        "text": "npx skills add manifoldmcp/marketing-skills\n\nthen run /manifold-get-started and it picks the skills for your goal.\n\nMIT licensed. the data runs on Manifold credits, 500 free to start.\n\nhttps://t.co/80PsWBSaFF",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107864141868482774"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107864141868482774"
+      ]
+    },
+    {
+      "repo": "aifinpay/skill",
+      "github_url": "https://github.com/aifinpay/skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aifinpay",
+        "text": "https://t.co/KFoP9a0zul\n\nAiFinPay is opening AI-native payments with 0% AiFinPay transaction fees.\nAI agents can now get a wallet, pay for APIs and digital services, and interact with merchants through agent-native payment flows.\nDevelopers can add AiFinPay directly with:\n\nnpx sk",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107784053923389517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107784053923389517"
+      ]
+    },
+    {
+      "repo": "dualface/ste-zh",
+      "github_url": "https://github.com/dualface/ste-zh",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dualface",
+        "text": "gemini-3.8-flash 写文档确实舒服，内容读起来很流程。\n\n我改写了一下 https://t.co/o20g0UQAey 的 README，效果不错。\n\nPS: 推荐用\n\nnpx skills add dualface/ste-zh -g\n\n安装 skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107712770649292949"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107712770649292949"
+      ]
+    },
+    {
+      "repo": "davekiss/skills",
+      "github_url": "https://github.com/davekiss/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "davekiss",
+        "text": "My domain hunt skill now argues with Codex before it tells you what to buy\n\nRan it on a made-up booking app for pickleball courts. Claude picked https://t.co/Oe4TjS1ddU. Codex pointed out that \"save a court\" reads like the campaigns to save courts from closing\n\nThey settled on ht",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107867441195872668"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107867441195872668"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BonoDJblack",
+        "text": "一天 736 star，华叔这个 skill 有点意思：huashu-art-motion。\n\n让 coding agent（Claude Code、Codex 这类）给你做艺术动画：35 种艺术风格直接套——梵高、莫奈、包豪斯都有，9 种解说语法——白板、Kurzgesagt、Vox 风科普动画都能出。口播喂进去，出一段掐帧的成片。\n\n装法一行：npx skills add alchaincyf/huashu-art-motion。电脑上用，给 agent 用的东西。\n\nMIT 协议，https://t.co/GN6N3pemyK\n\n#GitHub #",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107676469203808756"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107676469203808756"
+      ]
+    },
+    {
+      "repo": "slavasolodkiy/authorityclaw",
+      "github_url": "https://github.com/slavasolodkiy/authorityclaw",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NansenID",
+        "text": "If a model can read an invoice, who is allowed to let the money move?\nYesterday my #AuthorityClaw https://t.co/yuXDhd6TI1 (built on Olares One) was selected first place in the @NVIDIA Claw Agent Challenge: DGX Spark Founders Edition, a GTC Berlin pass, and a live demo at Build-a-",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107825965216722992"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107825965216722992"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 743.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 116,
+      "total_retweets": 59,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "abir35627",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/DTM1GLBeeP\n\n2. public-apis — free APIs for everything\n→ https://t.co/cADMuAtKkv…\n\n3. build-your-own-x — learn by building\n→ https://t.co/p9Tjkyb70K…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 116,
+        "url": "https://x.com/i/status/2107690363414782414"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107690363414782414"
+      ]
+    },
+    {
+      "repo": "expo/skills",
+      "github_url": "https://github.com/expo/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 369.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 73,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jaimintf",
+        "text": "these 5 iOS agent skills put an end to AI slop.\n\nbest practices ⟶ https://t.co/BaQpMSbiAt\napp design ⟶ https://t.co/rhCq0WZIve\nanimations ⟶ https://t.co/YZVV8SagDO\nperformance ⟶ https://t.co/WSgArgGM4t\nswiftui ⟶ https://t.co/qFDqBEEGbs\n\ndid I miss any skill? https://t.co/HzPndLaL",
+        "likes": 73,
+        "url": "https://x.com/i/status/2107830725823418378"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107830725823418378"
+      ]
+    },
+    {
+      "repo": "nudgen-marketing/mermail-skills",
+      "github_url": "https://github.com/nudgen-marketing/mermail-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 342.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "whizonit",
+        "text": "I built a mermail-agent-skill for turning your inbox on @Mermailapp into a prioritized work queue for handling each task according to its importance.\n\nMermail action agent identifies inboxes that need attention, prioritizes them by urgency and impact, gathers the context needed t",
+        "likes": 44,
+        "url": "https://x.com/i/status/2107829819450781782"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107829819450781782"
+      ]
+    },
+    {
+      "repo": "shubhamsaboo/awesome-llm-apps",
+      "github_url": "https://github.com/shubhamsaboo/awesome-llm-apps",
+      "tier": 3,
+      "is_new": false,
+      "score": 176.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mdancho84",
+        "text": "If I were a data scientist trying to land a $200K AI engineer job in 90 days, I would not get a degree.\n\nI would build proof.\n\nI would use these 10 GitHub repos as my roadmap:\n\n1. awesome-llm-apps\nThe production AI playbook. RAG, agents, multimodal apps, all in working code. 106K",
+        "likes": 22,
+        "url": "https://x.com/i/status/2107796355942846571"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107796355942846571"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "这个 Skill 叫 Archify。\n可以直接读一段说明，或者整个 repo，然后生成：\n架构图\nWorkflow\nSequence Diagram\nData Flow\nLifecycle\n而且不是导一张死图。\n最后生成的是一个自包含 HTML，可以继续点、看、对话。\n安装：\nnpx skills add tt-a1i/archify -g\n\n仓库：\nhttps://t.co/JlFerym4Mb",
+        "likes": 4,
+        "url": "https://x.com/i/status/2107683830253363646"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107683830253363646"
+      ]
+    },
+    {
+      "repo": "zju-real/easel",
+      "github_url": "https://github.com/zju-real/easel",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shenxiankk",
+        "text": "发现一个人做账号，时间到底都耗哪儿去了？早上刷热榜找选题，中午写文案做封面，晚上剪视频；发完 6 个平台还得逐个盯数据，一整天就这么填满了。\n\nEasel 就是浙大、北大两个实验室做出来的社媒运营 Agent，跑在 OpenClaw 上，把「发现热点 → 策划选题 → 出图出视频 → 一键发布 → 数据复盘」五步直接串成一条工作流。\n\n它会给每个账号建一份「画像」：定位、受众、风格、平台限制、历史表现全都记下来。每次发布后的数据再回流沉淀，下次生成更贴账号、更像你自己在写。\n\nGitHub：https://t.co/1Q27iXZu5p\n\n112 个 S",
+        "likes": 2,
+        "url": "https://x.com/i/status/2107763612680904782"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107763612680904782"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Source: https://t.co/ze6AoYrZkR\n\nInstall:\nnpx skills add anthropics/skills --skill brand-guidelines\n\nDetails + review notes:\nhttps://t.co/oSLxXH4A4C",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107856149378699486"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107856149378699486"
+      ]
+    },
+    {
+      "repo": "tomismeta/netstack",
+      "github_url": "https://github.com/tomismeta/netstack",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tomismeta",
+        "text": "@KangaWaffle @salevid @NetNetCap Anytime. Feel free to dm me with questions. Also, if you just want to ask you me agent instead of wondering, install this skill to something like Muse, OpenClaw or Hermes (muse is the easiest). \nhttps://t.co/cTIWgEy0LR",
+        "likes": 1,
+        "url": "https://x.com/i/status/2107591817273418139"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107591817273418139"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "santhosh_patell",
+        "text": "HeyGen has a skill climbing LaunchFable Skills this week: Faceless Explainer. Trending #15, up 22 spots.\n\nFaceless means nobody on camera. You install it, play the sample, then ask Claude or Cursor for a vertical explainer in the same form.\n\nTry:\nnpx skills add heygen-com/hyperfr",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107678748736672125"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107678748736672125"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2107820205816565975",
+      "author": "mattpocockuk",
+      "text": "Starting to realise that to make agents strategic, they really just need a clear goal.\n\nI.e. they can hill climb anything (as long as they have the data), but they need to know where they're going.\n\nFeels like I need to make a /the-ideal-codebase skill that helps you define what ",
+      "likes": 590,
+      "views": 0,
+      "url": "https://x.com/i/status/2107820205816565975",
+      "is_kol": false,
+      "score": 1835.0
+    },
+    {
+      "id": "2107709809537753261",
+      "author": "Ashutosh_7x7",
+      "text": "Amazon SDE Interview — Round 1\n\nHad my Amazon SDE Round 1 recently.\n\nThe interview lasted around 60 minutes.\n\nIt started with a quick introduction. The interviewer asked me about my background and what I had been working on recently.\n\nThen we moved to DSA.\n\nQuestion 1 — Linked Li",
+      "likes": 571,
+      "views": 0,
+      "url": "https://x.com/i/status/2107709809537753261",
+      "is_kol": false,
+      "score": 1793.0
+    },
+    {
+      "id": "2107750183492526162",
+      "author": "heyandras",
+      "text": "🚀 Coolify v4.4 is out. \nprobably the biggest release since v4 itself. \n\nTraffic analytics, built in\nNew Sentinel reads your Traefik/Caddy logs → requests, bandwidth, unique visitors, p95 latency, status codes, countries on a globe, referrers, devices, browsers. Per server, per ap",
+      "likes": 307,
+      "views": 0,
+      "url": "https://x.com/i/status/2107750183492526162",
+      "is_kol": false,
+      "score": 991.0
+    },
+    {
+      "id": "2107600784850636954",
+      "author": "OSHBuilt",
+      "text": "I just used @claudeai and OSH Cut's test MCP server and in a single prompt, had it design a kit swingset for my kids.  It uploaded the parts, iterated based on errors and warnings, then produced a cart of parts, ready to order. It took ~ 5 minutes.  Prompt in the comments. https:",
+      "likes": 213,
+      "views": 0,
+      "url": "https://x.com/i/status/2107600784850636954",
+      "is_kol": false,
+      "score": 684.0
+    },
+    {
+      "id": "2107835335736742136",
+      "author": "useteller",
+      "text": "Coming in with another major DeFi integration. Aave V3 pools + V4 spokes and hubs, now live in Debit AI 🟡 👻\n\nManage @aave positions directly in Debit AI, or via MCP in Claude and ChatGPT. Thank you @StaniKulechov for the Aave MCP 🤝\n\nFind yield, supply, borrow against collateral, ",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2107835335736742136",
+      "is_kol": false,
+      "score": 553.0
+    },
+    {
+      "id": "2107729827533111499",
+      "author": "Kenz_1604",
+      "text": "Building an agent is not the hard part anymore.\nGetting a stranger to pay it is.\n\nMost teams solve that with a wallet, a Discord, and “send USDC when it’s done.”\n\nWorks once.\nDoesn’t scale when the buyer is another agent, or when you’re asleep.\n\nThat’s the part I keep looking at ",
+      "likes": 176,
+      "views": 0,
+      "url": "https://x.com/i/status/2107729827533111499",
+      "is_kol": false,
+      "score": 528.0
+    },
+    {
+      "id": "2107610604529979729",
+      "author": "RoundtableSpace",
+      "text": "Every company letting engineers use AI agents needs this. Uber just open-sourced theirs.\n\nuber released ADR, the security system it runs in production to track and protect the AI agents its employees use, like Claude Code and Cursor.\n\nwhat it does:\n\n• discovery → finds every AI a",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2107610604529979729",
+      "is_kol": false,
+      "score": 494.0
+    },
+    {
+      "id": "2107760790724075565",
+      "author": "zordcrypt",
+      "text": "➥ @Cloudflare could be one of the biggest catalysts for x402.\n\nThe reason is simple:\n\nx402 is turning HTTP requests into payment requests.\n\nAn agent wants an API, dataset, model inference or MCP tool.\n\nIt sends a request.\n\n✦ The server responds:\n\n402 — Payment Required.\n\nThe resp",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2107760790724075565",
+      "is_kol": false,
+      "score": 400.0
+    },
+    {
+      "id": "2107755551396708583",
+      "author": "vishalsingh2972",
+      "text": "Main topics asked in 2026 AI engineering interviews 👇:\n\n- How LLMs work: tokenization, attention mechanisms, context windows, positional encoding\n\n- Prompting: system prompts, few-shot, chain-of-thought, structured outputs\n\n- Agents: tool calling, planning, execution loops, stopp",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2107755551396708583",
+      "is_kol": false,
+      "score": 400.0
+    },
+    {
+      "id": "2107788275746578771",
+      "author": "Voxyz_ai",
+      "text": "Someone used Opus 5.5 to rebuild 𝗔𝗱𝗼𝗯𝗲'𝘀 𝗯𝗶𝗴 𝗳𝗶𝘃𝗲 from scratch in Rust, and open-sourced all of them.\n\nThere's one for Photoshop, Lightroom, Premiere, Illustrator and Acrobat. PhotoCraft alone has layers, masks, adjustment layers and layer styles, and it opens and saves real PSD ",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2107788275746578771",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2107803378474737731",
+      "author": "Xfinancebull",
+      "text": "If you still think $XRP will stop here, read every word. \n\nThis is a long one, but I think it will wake you up to how big the next phase really is.\n\nI want you to forget the price for a minute.\n\nForget the candles.\nForget what happened this week.\n\nLook at the system being built u",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2107803378474737731",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2107718182442291322",
+      "author": "arindam___paul",
+      "text": "What happens when your home appliances can talk to an AI agent? We just found out\n\nToday we're launching the Atomberg MCP Server, built on top of our public APIs.\n\nMCP (Model Context Protocol) is quickly becoming the standard way for AI tools to connect to the real world. With ou",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2107718182442291322",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2107722774169137608",
+      "author": "Girlgym67",
+      "text": "TermiX stopped asking agents to visit the website. It moved into their IDE.@termix_ai ships Agent Skills v1.8.0 — a single install line: \"help me install https://t.co/h8ZM7vsY5N\". One prompt and your coding agent — Claude Code, Codex, Cursor, \n\nOpenClaw, Gemini CLI, opencode, Amp",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2107722774169137608",
+      "is_kol": false,
+      "score": 293.0
+    },
+    {
+      "id": "2107804402417328241",
+      "author": "sleepy0x13",
+      "text": "很多人一直担心开源 AI 怎么赚钱，Nous Research 现在给出了答案：\n\n先把 Agent 免费送出去，做到 2270 万次下载，再把模型、算力、工具和托管全变成收费站。\n\nNous 刚刚完成 9000 万美元 Series B，估值 15 亿美元。\n\nHermes 今年 2 月发布，到 9 月中旬，Nous 的年化收入已经做到约 3600 万美元，公司预计年底前超过 1 亿美元。\n\n如果完成目标，意味着它接下来几个月还要接近再长 3 倍。\n\nHermes 的打法很典型。\n\nAgent 本身 MIT License，代码免费，你可以直接跑在自己",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2107804402417328241",
+      "is_kol": false,
+      "score": 290.0
+    },
+    {
+      "id": "2107806362621149433",
+      "author": "doodlestein",
+      "text": "You may recall that a few months ago, I posted about yet another project of mine where I decided to make a ground-up, memory-safe Rust implementation of the manim math animation system used by 3Blue1Brown to make all his awesome math explainer videos on YouTube (see quoted post b",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2107806362621149433",
+      "is_kol": false,
+      "score": 283.0
+    },
+    {
+      "id": "2107819071836147885",
+      "author": "priors_trade",
+      "text": "even the lobster checks the record 🦞🌿\n\nthe priors skill is on clawhub. your openclaw assistant reads the other agent's record before it pays: what it borrowed, what it paid back, in public.\n\nrecord first, then the coin. @openclaw\n\nhttps://t.co/85d69WLXVK 90+ download https://t.co",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2107819071836147885",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2107791808780746906",
+      "author": "AndrewBolis",
+      "text": "Anyone can build AI agents from scratch.\n\nUse this 10-step roadmap to go from idea to evaluation:\n\n[ bookmark 🔖 this post for later ]\n\nStep 1: Set the Agent’s Purpose and Result\n\n• What will the agent do?\n• Who will it support?\n• What kind of output should it create?\n\n→ Example: ",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2107791808780746906",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2107831955018453085",
+      "author": "Griftwrld",
+      "text": "@openclaw agents can now move into San Verano with one command.\n\nInstall the San Verano skill from ClawHub, then tell your agent:\n\n“move into san verano and open a bank account.”\n\nIt becomes a resident and opens its own account at @bankrbot’s Bank of San Verano, directly from the",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2107831955018453085",
+      "is_kol": false,
+      "score": 214.0
+    },
+    {
+      "id": "2107817370920370257",
+      "author": "ai_with_orbit",
+      "text": "Most people think prompts are just text.\n\nThey aren’t.\n\nPrompt Master turns prompts into a skill that works across Claude.\n\nI turned this cross‑AI workflow into a step‑by‑step guide.\n\nValued at $81.\n\nFREE for the next 48 hrs.\n\nType “PROMPT”\nFollow me : @ai_with_orbit. https://t.c",
+      "likes": 30,
+      "views": 0,
+      "url": "https://x.com/i/status/2107817370920370257",
+      "is_kol": false,
+      "score": 185.0
+    }
+  ]
+}

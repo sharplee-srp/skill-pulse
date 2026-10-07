@@ -8042,5 +8042,37 @@
   "gorshunovr/arbor-guardian": {
     "first_seen": "2026-10-06",
     "tier": 3
+  },
+  "twostraws/swiftui-agent-skill": {
+    "first_seen": "2026-10-07",
+    "tier": 2
+  },
+  "zeke/faster-gh-cli-skill": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "manifoldmcp/marketing-skills": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "aifinpay/skill": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "dualface/ste-zh": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "davekiss/skills": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "alchaincyf/huashu-art-motion": {
+    "first_seen": "2026-10-07",
+    "tier": 3
+  },
+  "slavasolodkiy/authorityclaw": {
+    "first_seen": "2026-10-07",
+    "tier": 3
   }
 }
