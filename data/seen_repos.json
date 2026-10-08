@@ -8074,5 +8074,33 @@
   "slavasolodkiy/authorityclaw": {
     "first_seen": "2026-10-07",
     "tier": 3
+  },
+  "xuanwo/agenvo": {
+    "first_seen": "2026-10-08",
+    "tier": 2
+  },
+  "vectorize-io/hindsight": {
+    "first_seen": "2026-10-08",
+    "tier": 3
+  },
+  "shibu0x/parrot": {
+    "first_seen": "2026-10-08",
+    "tier": 3
+  },
+  "limin112/min-skill": {
+    "first_seen": "2026-10-08",
+    "tier": 3
+  },
+  "fulcradynamics/agent-skills": {
+    "first_seen": "2026-10-08",
+    "tier": 3
+  },
+  "magpie-community/plugins": {
+    "first_seen": "2026-10-08",
+    "tier": 3
+  },
+  "guilyx/grip": {
+    "first_seen": "2026-10-08",
+    "tier": 3
   }
 }
