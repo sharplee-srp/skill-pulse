@@ -8102,5 +8102,61 @@
   "guilyx/grip": {
     "first_seen": "2026-10-08",
     "tier": 3
+  },
+  "anthropics/claude-agent-sdk-python": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "akurganow/model-router": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "phuryn/work-humanizer": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "simongfarmer/skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "checkout-page/ecommerce-skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "giuseppeg/skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "aryanutkarsh/seecode": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "freedomintelligence/openclaw-medical-skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "broom609/video-production-prompts": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "franzenzenhofer/big-arrow-on-the-screen": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "sitefire-ai/slop-skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "joymadhu49/marlin": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "juneyaooo/gpt-image2-ppt-skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
+  },
+  "tuya/tuya-openclaw-skills": {
+    "first_seen": "2026-10-09",
+    "tier": 3
   }
 }
