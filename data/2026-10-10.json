@@ -1,0 +1,639 @@
+{
+  "date": "2026-10-10",
+  "stats": {
+    "total_fetched": 347,
+    "unique_tweets": 147,
+    "tweets_with_repos": 27,
+    "unique_repos": 25,
+    "new_repos": 10,
+    "previously_seen_repos": 15
+  },
+  "new_repos": [
+    {
+      "repo": "f/prompts.chat",
+      "github_url": "https://github.com/f/prompts.chat",
+      "tier": 3,
+      "is_new": true,
+      "score": 345.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 70,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "This might be the biggest open-source prompt library on GitHub.\n\nPrompts Chat, formerly Awesome ChatGPT Prompts, works with ChatGPT, Claude, Gemini and more.\n\n•⁠  ⁠167K+ GitHub stars  \n•⁠  ⁠CLI, MCP server + Claude Code plugin  \n•⁠  ⁠Self-hostable with custom branding and auth  \n",
+        "likes": 70,
+        "url": "https://x.com/i/status/2108863862648819940"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108863862648819940"
+      ]
+    },
+    {
+      "repo": "mifi/lossless-cut",
+      "github_url": "https://github.com/mifi/lossless-cut",
+      "tier": 3,
+      "is_new": true,
+      "score": 298.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 18,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RodmanAi",
+        "text": "5 OPEN-SOURCE VIDEO EDITORS WORTH BOOKMARKING\n\nYou don't need expensive software to edit videos.\n\nThese 5 open-source tools are worth checking out:\n\n1. LosslessCut\nTrim and cut video or audio without re-encoding.\nhttps://t.co/NULgTpCdgy\n\n2. Shotcut\nA full-featured video editor th",
+        "likes": 36,
+        "url": "https://x.com/i/status/2108892075169309036"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108892075169309036"
+      ]
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "github_url": "https://github.com/mvschwarz/openrig",
+      "tier": 3,
+      "is_new": true,
+      "score": 297.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 64,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ridark_eth",
+        "text": "your agents ran six steps. guess which call broke\n\n10 open-source GitHub projects for running an agent team you can trace and test\n\nBUILD THE TEAM\n\n01 OpenRig ★6.5k\n▸ https://t.co/ezcnowgUxh\n→ standing agent team, yaml roles\n\n02 LangGraph ★43.0k\n▸ https://t.co/L2Ab0jEo2E\n→ state ",
+        "likes": 64,
+        "url": "https://x.com/i/status/2108901972359131624"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108901972359131624"
+      ]
+    },
+    {
+      "repo": "traderspost/pinescript-agents",
+      "github_url": "https://github.com/traderspost/pinescript-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_zheergen",
+        "text": "卧槽！现在连 YouTube 上的交易策略，都能让 AI 帮你拆解成 Pine Script 了？\n\n甚至从指标开发、代码调试到策略优化，都给安排上了。\n\n最近发现一个挺狠的开源项目：pinescript-agents，MIT 协议。\n\n由 TradersPost 开源，专门为 Claude Code 打造的 TradingView 量化开发工具箱，内置 7 个 AI Skills，支持 Pine Script v6。\n\n以前看到不错的交易策略，想自己复现，得反复看视频、整理交易规则、写代码、修报错，整个流程相当折腾。\n\n现在这些工作，可以交给不同的 A",
+        "likes": 35,
+        "url": "https://x.com/i/status/2108874123514614130"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108874123514614130"
+      ]
+    },
+    {
+      "repo": "chenqing/know-me",
+      "github_url": "https://github.com/chenqing/know-me",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "chenqing663",
+        "text": "Know me — grilling-style interview skill for AI agents. One question at a time until your agent has a durable picture of who you are, then saves confirmed facts. Inspired by grill-me.\n\nnpx skills add chenqing/know-me --skill know-me\nhttps://t.co/IHpvlV0G6i",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108861672089907365"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108861672089907365"
+      ]
+    },
+    {
+      "repo": "terramike/xrpl-muse-skill",
+      "github_url": "https://github.com/terramike/xrpl-muse-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NFTerramike",
+        "text": "**Here’s how to use [xrpl-muse-skill](https://t.co/Ivs13PqkZ3) in an AI agent.**\n\nIt is designed as a terminal skill. The agent runs `xrpl-trade` (and related commands) to read data or build proposals. Signing stays outside the agent.\n\n### 1. Install it where the agent can run co",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108790335879213153"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108790335879213153"
+      ]
+    },
+    {
+      "repo": "worldcoin/world-id-agent-plugin",
+      "github_url": "https://github.com/worldcoin/world-id-agent-plugin",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Serban0303",
+        "text": "👀 World ID is entering the AI agent era!\n\nWorld has an official World ID plugin for Codex &amp; Claude Code, plus AgentKit to connect AI agents to verified humans.\n\nCould ChatGPT be next? 🤔\n\n🔗 https://t.co/RaNOdEbgcw\n\n🔗 https://t.co/bbkXTmbK9e\n\n#WorldID #WLD",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108932532892729679"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108932532892729679"
+      ]
+    },
+    {
+      "repo": "sunsiyuan/ultramotion",
+      "github_url": "https://github.com/sunsiyuan/ultramotion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realsunsiyuan",
+        "text": "How the two compare, and who each one is for: https://t.co/mgjKPKS5sw\n\nnpx skills add sunsiyuan/ultramotion",
+        "likes": 0,
+        "url": "https://x.com/i/status/2108931972949319925"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108931972949319925"
+      ]
+    },
+    {
+      "repo": "willynilly0085-creator/tarjim",
+      "github_url": "https://github.com/willynilly0085-creator/tarjim",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Cut_Code",
+        "text": "التحميل والتشغيل (ويندوز 10 و11):\n\nلو عندك Claude Code، سطرين:\n\nclaude plugin marketplace add willynilly0085-creator/tarjim\nclaude plugin install tarjim@tarjim\n\nثم قل له: «جهّز ترجم». يثبّت كل شي ويفتح لك صفحة الإعداد، ومفاتيحك تكتبها أنت بيدك.\n\nالتثبيت اليدوي والشرح كامل هنا:\nht",
+        "likes": 0,
+        "url": "https://x.com/i/status/2108938808460714134"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108938808460714134"
+      ]
+    },
+    {
+      "repo": "thariqs/ai-newtab",
+      "github_url": "https://github.com/thariqs/ai-newtab",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xal0ke",
+        "text": "hot take: claude is quietly becoming a creative studio, not a coding tool\n\n5 new repos from this week proving it:\n\n1. ai-newtab (615★) claude builds your new tab page daily from your history\nhttps://t.co/KMw2LZU12k\n\n2. mortiflix-oss (513★) local motion design studio, claude makes",
+        "likes": 0,
+        "url": "https://x.com/i/status/2108931920927080912"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108931920927080912"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "abubakrchan/product-launch-motion",
+      "github_url": "https://github.com/abubakrchan/product-launch-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 236.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "These 15 GitHub repos turn your Opus 5.5 into 𝗮𝗻 𝗲𝗻𝘁𝗶𝗿𝗲 𝗺𝗼𝘁𝗶𝗼𝗻 𝘀𝘁𝘂𝗱𝗶𝗼.\n\nEven the teams behind HeyGen, Remotion, GSAP and LottieFiles have stepped in to 𝘁𝗲𝗮𝗰𝗵 𝗔𝗜 𝗺𝗼𝘁𝗶𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝘁𝗵𝗲𝗺𝘀𝗲𝗹𝘃𝗲𝘀.\n\nI picked them from official and community repos and sorted them by use. Install them and you",
+        "likes": 42,
+        "url": "https://x.com/i/status/2108905392776360333"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108905392776360333"
+      ]
+    },
+    {
+      "repo": "phuryn/work-humanizer",
+      "github_url": "https://github.com/phuryn/work-humanizer",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "AI 帮你润色商务邮件，有时会把「我看到了问题」改成「非常抱歉」，甚至把原本没答应的优惠写成已经同意。这种稿子更像人说话了，意思却被改了。\n\nwork-humanizer 专门防这类问题。它先列事实、承诺和不确定部分，再改写句子；信息不够时会问你具体发生了什么，不靠编细节填空。\n\n安装：\nnpx skills add phuryn/work-humanizer\n\n调用：\nUse work-humanizer on this and interview me first: <贴上草稿>",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108893886810652844"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108893886810652844",
+        "https://x.com/i/status/2108871939754487859"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SheeranWong",
+        "text": "做教程、写产品介绍，有时候文字已经写完了，还卡在那张解释流程的图上。\n\n直接让AI生成的图片可能不尽如人意，修改起来还比较麻烦。\n\n推荐大家看看 Diagram Design，给 Claude Code、Codex、Cursor 用的开源 Skill。\n\n安装：\nnpx skills add cathrynlavery/diagram-design\n它能把说明画成\n流程图\n架构图\n\n输出单个 HTML，里面是 SVG，后面还可以继续改文字、箭头和配色。\n\n提示词别只写“帮我画张图”。我会这样给：\n\n“把模型和 Agent 的区别画成两组流程，面向非程序员",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108793513869771181"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108793513869771181",
+        "https://x.com/i/status/2108741478532927772"
+      ]
+    },
+    {
+      "repo": "simongfarmer/skills",
+      "github_url": "https://github.com/simongfarmer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 151.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SimonGFarmer",
+        "text": "Day 6 of 7 Skills for Science Data: Gaia\n\nExplore real stars in 3D, with colors and brightness driven by Gaia measurements. Give your agent the data and build what you want.\n\nDemo: \nhttps://t.co/acZyrLy2FH\n\nnpx skills add SimonGFarmer/skills --skill gaia-tap-data https://t.co/txy",
+        "likes": 12,
+        "url": "https://x.com/i/status/2108767896059203785"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108767896059203785"
+      ]
+    },
+    {
+      "repo": "dmoshehun-prog/learn-from-materials",
+      "github_url": "https://github.com/dmoshehun-prog/learn-from-materials",
+      "tier": 3,
+      "is_new": false,
+      "score": 150.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "haoge6699",
+        "text": "发现几百页 PDF 丢给 AI，吐出来的总结你真敢照单全收？\n\n我之前是不敢的。写得再顺，也分不清哪句来自原文，哪句是模型自己加戏。\n\n最近发现一个 Agent Skill，叫 learn-from-materials，专门对付这个痛点：\n1️⃣ 先把材料完整读一遍，PDF、EPUB、Word、PPT、网页都能投喂\n2️⃣ 搭一个能溯源的知识库\n3️⃣ 产出可交互的学习网页，同时导出一份 Markdown\n出处这块最狠：PDF 精确到页码，PPT 精确到第几张，EPUB 精确到章节。原文和 AI 补充的内容也分开标注。\n默认离线跑，笔记和错题只留在本地浏",
+        "likes": 10,
+        "url": "https://x.com/i/status/2108880975430295574"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108880975430295574"
+      ]
+    },
+    {
+      "repo": "imbad0202/academic-research-skills-codex",
+      "github_url": "https://github.com/imbad0202/academic-research-skills-codex",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "x5cnhp",
+        "text": "把 Claude Code 里那套学术研究神器搬到 Codex 上，这事儿真有人干成了？\n\n别不信，从文献梳理、论文动笔，一路到同行评审——整条繁琐的学术流程，如今被一个 skill 打包收走了。\n\n它内部攒了五大金刚：\n深度研究\n论文起草\n同行评审\n全自动流水线\n外加实验规划\n装好之后，一句 $academic-research-suite 下去，魔法就生效，复杂程度瞬间归零。\n\n总之，学术打工人们，这趟车要是没赶上，我都替你惋惜。\n🔗 https://t.co/8hLKaZZqdH",
+        "likes": 4,
+        "url": "https://x.com/i/status/2108909425121456473"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108909425121456473"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "canpjll",
+        "text": "③ Marketing Skills：让 Codex 开始研究怎么赚钱\n\nGitHub：https://t.co/LBYpYSmisr\n\n这个项目可能比很多 AI 编程工具更值得普通创业者研究。\n\n原因很简单：\n\n写代码越来越容易了。\n\n但产品做出来之后，谁来买？\n\nMarketing Skills 为 Codex、Claude Code 等 Agent 提供营销专业技能，包括：\n\nSEO 和内容策略\n\n产品定位与定价\n\n竞品研究\n\n营销文案\n\n转化率优化\n\n用户需求分析\n\n安装：\n\nnpx skills add coreyhaines31/market",
+        "likes": 3,
+        "url": "https://x.com/i/status/2108885773659656482"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108885773659656482"
+      ]
+    },
+    {
+      "repo": "pengchujin/livecanvas",
+      "github_url": "https://github.com/pengchujin/livecanvas",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yupi996",
+        "text": "LiveCanvas 交付的资源包在 Mac 上双击就能导入「照片」，再用 iCloud 同步到 iPhone。\n\n安装：npx skills add pengchujin/livecanvas --skill livecanvas -g\n🎬 指路 https://t.co/b9B1JIrPY4",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108827121099399482"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108827121099399482"
+      ]
+    },
+    {
+      "repo": "twostraws/swiftui-agent-skill",
+      "github_url": "https://github.com/twostraws/swiftui-agent-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheArthiAI",
+        "text": "🚀 Trending on GitHub\nSwiftUI-Agent-Skill by twostraws\n⭐ 5,665 (65 today)\n🧠 Teaches AI coding agents like Claude Code and Codex how to write correct, modern SwiftUI.\nhttps://t.co/T8n8ek4wpL\n#GenAI #OpenSource #AI",
+        "likes": 1,
+        "url": "https://x.com/i/status/2108931687585640715"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108931687585640715"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ecojojo24",
+        "text": "READMEを読んだ範囲だと、TrendRadarをMCPでClaude Codeにつないで話題を拾わせて、そのまま同じ流れでHTMLを組ませればMP4まで行ける\n入れるのは npx skills add heygen-com/hyperframes の1行",
+        "likes": 0,
+        "url": "https://x.com/i/status/2108761106852516011"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2108761106852516011"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2108783264479744008",
+      "author": "shengzheyao",
+      "text": "Antigravity CLI 1.3.3 is out! A few favorites shipped since my last post:\n\n- Sticky prompt header: in no-flickering mode, the question you asked stays pinned at the top while scrolling long responses. Click it to jump right back (/settings -> Rendering Mode -> no flickering)\n- /p",
+      "likes": 375,
+      "views": 0,
+      "url": "https://x.com/i/status/2108783264479744008",
+      "is_kol": false,
+      "score": 1215.0
+    },
+    {
+      "id": "2108846640194871660",
+      "author": "Samuelsimonsun1",
+      "text": "Satellites See Roofs. Vangrid Wants to Film the Stairwell.\n\nA plain-language walkthrough of Vangrid, the human-collected spatial data layer for physical AI.\n\nPicture the places a robot actually has to work. A loading dock with a ramp and two roller doors. A stock room with one ai",
+      "likes": 334,
+      "views": 0,
+      "url": "https://x.com/i/status/2108846640194871660",
+      "is_kol": false,
+      "score": 1022.0
+    },
+    {
+      "id": "2108780374851793006",
+      "author": "XFreeze",
+      "text": "Grok Build just got a monster update......this one pushes long-running agents, browser workflows, worktrees, hooks, permissions, and session recovery much further\n\nBackground workflows can now be listed, stopped and resumed directly with /workflow, headless Grok waits for backgro",
+      "likes": 261,
+      "views": 0,
+      "url": "https://x.com/i/status/2108780374851793006",
+      "is_kol": false,
+      "score": 888.0
+    },
+    {
+      "id": "2108875223013761290",
+      "author": "SwarmBase",
+      "text": "Right now every agent on earth works alone.\n\nSynapse ends the isolation. An agent that needs a skill it does not have can find one, agree a price and pay for it without a human in the loop. Specialisation stops being a design choice and becomes a market outcome.\n\nThe best agent f",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2108875223013761290",
+      "is_kol": false,
+      "score": 873.0
+    },
+    {
+      "id": "2108700349561487704",
+      "author": "lessin",
+      "text": "Tried to book a hotel with Muse last night. Hilton's site put my agent in a doom loop — third retry, I gave up and booked it myself. That's not a bug. That's the whole story of agentic commerce right now.\n\nThis week on More or Less (Jessica's out — three VCs, zero adult supervisi",
+      "likes": 243,
+      "views": 0,
+      "url": "https://x.com/i/status/2108700349561487704",
+      "is_kol": false,
+      "score": 784.0
+    },
+    {
+      "id": "2108780613738308078",
+      "author": "enhypenweverse",
+      "text": "[ #정원’s Reply ] 261010\n\nOP: Jungwon-ah, I think my claw machine skill improved\n\n#JUNGWON: Oh, how much did you use\n\n@ENHYPEN_members @ENHYPEN #ENHYPEN #엔하이픈 https://t.co/0Cgc2sZyQX",
+      "likes": 228,
+      "views": 0,
+      "url": "https://x.com/i/status/2108780613738308078",
+      "is_kol": false,
+      "score": 759.0
+    },
+    {
+      "id": "2108903932797796580",
+      "author": "witcheer",
+      "text": "someone on r/hermesagent shared their working setup after six months of Hermes Agent:\n\n- memory keeps the facts that matter in every conversation, the rest goes to a vault or a skill\n\n- a nightly cron job reviews the day's sessions and tidies the skills and memory\n\n- a script-onl",
+      "likes": 193,
+      "views": 0,
+      "url": "https://x.com/i/status/2108903932797796580",
+      "is_kol": false,
+      "score": 614.0
+    },
+    {
+      "id": "2108841961092464677",
+      "author": "DamiDefi",
+      "text": "Stop chasing new AI tools. That's not what separates great AI builders from everyone else.\n\nThe real edge is mastering 8 skills that still matter when today's tools become obsolete:\n\n→ Understanding where models fail\n→ Engineering the right context\n→ Designing reliable agent arch",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2108841961092464677",
+      "is_kol": false,
+      "score": 570.0
+    },
+    {
+      "id": "2108856098237157463",
+      "author": "dymartinloondes",
+      "text": "Four screenshots, the whole Sai API launch:\n\n→ one line in the terminal, claude mcp add sai, and the server answers \"cloud computer ready\"\n→ one prompt in Claude Code asking for a Muse-style agent app\n→ that app running with a live view of its own Windows machine, already on a Pr",
+      "likes": 122,
+      "views": 0,
+      "url": "https://x.com/i/status/2108856098237157463",
+      "is_kol": false,
+      "score": 551.0
+    },
+    {
+      "id": "2108883291675717940",
+      "author": "DaveShapi",
+      "text": "The first phase of cognitive hyper abundance is this: all proprietary software falls. \n\nEverything will be open source. \n\nWith very few exceptions. \n\nIn the last couple days, I built a couple of audiobook narration tools from scratch, and it was entirely organic. I was just havin",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2108883291675717940",
+      "is_kol": false,
+      "score": 483.0
+    },
+    {
+      "id": "2108841244629827761",
+      "author": "0xndra",
+      "text": "The prompt being the front door to @termix_ai's marketplace is more significant than it sounds\n\nA coding agent can download the skill, install it and start operating as a buyer or seller\n\nNo npm install, viem or ethers needed for the helper scripts\n\nBut the real design choice is ",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2108841244629827761",
+      "is_kol": false,
+      "score": 431.0
+    },
+    {
+      "id": "2108743722481643547",
+      "author": "RhysSullivan",
+      "text": "so, the communication of the idea of the product was wrong from the start from what i wanted to build\n\ni realized with codemode, you can then build ui components, workflows, cron jobs, webhook handlers etc ontop of the MCP tools you convert to typescript\n\nthings like the vercel d",
+      "likes": 140,
+      "views": 0,
+      "url": "https://x.com/i/status/2108743722481643547",
+      "is_kol": false,
+      "score": 420.0
+    },
+    {
+      "id": "2108898363802321273",
+      "author": "0xKeng",
+      "text": "A robot that learns its hundredth task should have an advantage it didn’t have on its first: ninety-nine tasks’ worth of useful experience\n\nThe question is how much of that experience it can actually reuse\n\nThat’s what interests me about the skill-library approach being explored ",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2108898363802321273",
+      "is_kol": false,
+      "score": 383.0
+    },
+    {
+      "id": "2108899061193691489",
+      "author": "RiceFarmerNFT",
+      "text": "“Put everything back where it belongs.”\n\nA simple request for a person. For a robot, it contains a whole sequence of decisions: identify the objects, work out where they belong, choose how to grasp them, and move them without disturbing everything else.\n\nWhat interests me is how ",
+      "likes": 111,
+      "views": 0,
+      "url": "https://x.com/i/status/2108899061193691489",
+      "is_kol": false,
+      "score": 343.0
+    },
+    {
+      "id": "2108866737752174949",
+      "author": "lyra_dAO",
+      "text": "𝗟𝗮𝘂𝗻𝗰𝗵𝗶𝗻𝗴 𝗮𝗻 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹 𝗜𝘀 𝗘𝗮𝘀𝘆. 𝗞𝗲𝗲𝗽𝗶𝗻𝗴 𝗜𝘁 𝗨𝘀𝗲𝗳𝘂𝗹 𝗜𝘀 𝘁𝗵𝗲 𝗥𝗲𝗮𝗹 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲.\n\nOne thing I think people don't talk about enough is what happens after an AI Skill gets published.\n\nWe usually focus on what a Skill can do when it first launches. \n\nBut AI is moving fast, and what works wel",
+      "likes": 98,
+      "views": 0,
+      "url": "https://x.com/i/status/2108866737752174949",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2108866001672741199",
+      "author": "xaiwind",
+      "text": "Codex 爆款视频skill，10个装完百万播放，3 天涨粉过万",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2108866001672741199",
+      "is_kol": false,
+      "score": 315.0
+    },
+    {
+      "id": "2108891595504308477",
+      "author": "LordOBI_SWC",
+      "text": "Personal AI only gets useful when it knows the right slice of your life, not when it stores everything. @sleepagotchi \n\nGotchi’s framing matches what the experiment demonstrated: an agent can improve diet and exercise advice by drawing on private health and travel data without sh",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2108891595504308477",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2108832904881242418",
+      "author": "AamirAnsar94694",
+      "text": "𝗠𝗖𝗣: 𝟳 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗔𝗟 𝗥𝗢𝗟𝗘𝗦 𝗕𝗘𝗛𝗜𝗡𝗗 𝗠𝗢𝗗𝗘𝗥𝗡 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧𝗦\n\nMCP isn't just a way to connect an AI agent to a tool.\n\nIt can play different architectural roles depending on what your system needs.\n\n𝗛𝗘𝗥𝗘 𝗔𝗥𝗘 𝟳 𝗞𝗘𝗬 𝗥𝗢𝗟𝗘𝗦:\n\n01 — 𝗧𝗢𝗢𝗟 𝗟𝗘𝗔𝗡-𝗜𝗡\nOne MCP server exposes a focused set of tools for a",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2108832904881242418",
+      "is_kol": false,
+      "score": 280.0
+    },
+    {
+      "id": "2108807240140353550",
+      "author": "AiswaryaVenkit1",
+      "text": "Forward Deployed Engineering Explained!\n\nWhat does it take to turn a customer's complex business problem into a production-ready AI solution?\n\nA Forward Deployed Engineer does more than write code.\n\nThey combine customer discovery, software engineering, AI, deployment, and busine",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2108807240140353550",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2108869590314872840",
+      "author": "OpenBot_",
+      "text": "OpenBot v0.34.0 and v0.34.1 are out 🚀\n\nThese releases bring a new way to build agent workflows, more integrations, and improvements across servers, mobile, and setup.\n\nBuild routines visually\n- Connect agents on a canvas to pass one agent’s answer to the next.\n- Add and edit rout",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2108869590314872840",
+      "is_kol": false,
+      "score": 192.0
+    }
+  ]
+}

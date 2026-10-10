@@ -8158,5 +8158,45 @@
   "tuya/tuya-openclaw-skills": {
     "first_seen": "2026-10-09",
     "tier": 3
+  },
+  "f/prompts.chat": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "mifi/lossless-cut": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "mvschwarz/openrig": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "traderspost/pinescript-agents": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "chenqing/know-me": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "terramike/xrpl-muse-skill": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "worldcoin/world-id-agent-plugin": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "sunsiyuan/ultramotion": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "willynilly0085-creator/tarjim": {
+    "first_seen": "2026-10-10",
+    "tier": 3
+  },
+  "thariqs/ai-newtab": {
+    "first_seen": "2026-10-10",
+    "tier": 3
   }
 }
