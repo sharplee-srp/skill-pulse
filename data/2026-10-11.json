@@ -1,0 +1,442 @@
+{
+  "date": "2026-10-11",
+  "stats": {
+    "total_fetched": 350,
+    "unique_tweets": 170,
+    "tweets_with_repos": 15,
+    "unique_repos": 11,
+    "new_repos": 5,
+    "previously_seen_repos": 6
+  },
+  "new_repos": [
+    {
+      "repo": "wheresryan22/anatomy",
+      "github_url": "https://github.com/wheresryan22/anatomy",
+      "tier": 1,
+      "is_new": true,
+      "score": 403.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TzoooosT",
+        "text": "**Anatomy**라는 Claude Code용 AI 스킬(agent skill)을 소개합니다.[](<https://t.co/ggr2ipbKep>)\n\n한 줄 프롬프트만 주면 Claude가 추상적인 개념(LRU 캐시, TCP 핸드셰이크, 메시지 큐, 그래디언트 디센트, 기계식 시계, 로켓 엔진 등)을 **인터랙티브한 아이소메트릭 3D 기계**로 만들어줍니다.\n\n### 핵심 아이디어\n> **“The object is the explanation.”** (그 물체 자체가 설명이다)\n\n박스와 화살표 다이",
+        "likes": 1,
+        "url": "https://x.com/i/status/2109232050519867530"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109305177270263997",
+        "https://x.com/i/status/2109305408271888425",
+        "https://x.com/i/status/2109277454556897651",
+        "https://x.com/i/status/2109232050519867530"
+      ]
+    },
+    {
+      "repo": "sahil-gulihar/dispatch",
+      "github_url": "https://github.com/sahil-gulihar/dispatch",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sahil_Gulihar_",
+        "text": "Can someone try this out for me? \n\nnpx skills add Sahil-Gulihar/dispatch@dispatch",
+        "likes": 3,
+        "url": "https://x.com/i/status/2109275423922380927"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109275423922380927"
+      ]
+    },
+    {
+      "repo": "mike22890/opencode-skills-cn",
+      "github_url": "https://github.com/mike22890/opencode-skills-cn",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zookmas1314",
+        "text": "AI 智能体装 skill：装完直接喊，别背\n\nskill 靠开头 description 触发，Codex 用到才加载全文。\n\nCodex: cp -r skills/* ~/.codex/skills/\n一键中文包: npx skills add mike22890/opencode-skills-cn -g --all\n\n别全装，浪费 token。你用哪个？\n\n关注必回关，评论区一起交流",
+        "likes": 1,
+        "url": "https://x.com/i/status/2109215865505980652"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109215865505980652"
+      ]
+    },
+    {
+      "repo": "joeeeeey/arch-motion-page",
+      "github_url": "https://github.com/joeeeeey/arch-motion-page",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NochAeosador",
+        "text": "open source, MIT. one line to install (claude code, codex, cursor…):\nnpx skills add joeeeeey/arch-motion-page\n\nthen ask for \"an animated architecture page of &lt;your system&gt;\"\n\nlive demo, one html file: https://t.co/qWkZ8GA7tD\n\nhttps://t.co/mPPhXS1Nu1",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109297252246466971"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109297252246466971"
+      ]
+    },
+    {
+      "repo": "rosuh/skills",
+      "github_url": "https://github.com/rosuh/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rosu_h",
+        "text": "分享我的一个理解代码架构、流程的 SKILL：ASCII Explainer。\n让 Agent 直接用清晰的 ASCII 文本图解说概念、工作流程、架构、算法、数据布局...\n\n如果直接 Prompt 也很短：Explain with ASCII.\nhttps://t.co/gB8ATPin4y https://t.co/h4pjvaRQOH",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109306059391484065"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109306059391484065"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 677.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 99,
+      "total_retweets": 56,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "I_am_Aiabir",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/VM6mSXLHF0\n\n2. public-apis — free APIs for everything\n→ https://t.co/7Vfo7R8IUG…\n\n3. build-your-own-x — learn by building\n→ https://t.co/IWcEGHqhEg…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 99,
+        "url": "https://x.com/i/status/2109124980021805503"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109124980021805503"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "caesarleon_SX",
+        "text": "Found an open-source tool worth sharing: https://t.co/lY3rzR4444.\n\nIt’s an agent skill for Claude Code, Codex, Cursor and others that turns descriptions or codebases into interactive diagrams.\n\nFor example, you can ask:\n“Diagram a web request: Browser → API → Redis. On a cache mi",
+        "likes": 2,
+        "url": "https://x.com/i/status/2109276276464992366"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109276513963253994",
+        "https://x.com/i/status/2109276276464992366"
+      ]
+    },
+    {
+      "repo": "simongfarmer/skills",
+      "github_url": "https://github.com/simongfarmer/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SimonGFarmer",
+        "text": "Day 7 of 7 Skills for Science Data: Earthframe.\n\nExplore satellite imagery across places and dates. Give your agent the tools to find real Earth observation data and build with it.\n\nDemo: \nhttps://t.co/EozJwuaAB5\n\nnpx skills add SimonGFarmer/skills --skill satellite-stac-data htt",
+        "likes": 3,
+        "url": "https://x.com/i/status/2109270926013685927"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109270926013685927"
+      ]
+    },
+    {
+      "repo": "realtwin/studiotwin-mcp-skill",
+      "github_url": "https://github.com/realtwin/studiotwin-mcp-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RealTwinStudios",
+        "text": "@MikaelDewabrata Even better, you get 100 credits every month for free! \n\nJust point your agent to our skill and get started 👇\n\nnpx skills add realtwin/studiotwin-mcp-skill",
+        "likes": 1,
+        "url": "https://x.com/i/status/2109274376717709607"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109274376717709607"
+      ]
+    },
+    {
+      "repo": "oil-oil/oil-ui",
+      "github_url": "https://github.com/oil-oil/oil-ui",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mostdes7gn",
+        "text": "Oil UI 是中文作者 oil-oil 做的开源界面设计 Skill（Skill 就是装给 AI 编程助手的一套做事方法），适合嫌 AI 做的页面千篇一律的设计师和独立开发者。\n\n· 不是一版交差：装好后让 Claude Code、Codex 设计网页或 App，它会先认清是哪类产品，找同类里风格最鲜明的两三家做参考\n· 空话变具体：把「高级」「简洁」翻成实打实的字体、留白和配色\n· 几版真不一样：版式、字体、配色、主视觉四样里，任意两版最多只能一样相同\n· 有对比页：小样放进一个页面，能切电脑和手机尺寸、用方向键翻，点「选择」把复制的那句话发回 AI",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109278630027424233"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109278630027424233"
+      ]
+    },
+    {
+      "repo": "cocoindex-io/cocoindex-code",
+      "github_url": "https://github.com/cocoindex-io/cocoindex-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fluyeporlaweb",
+        "text": "https://t.co/Ewlxk93L9u\n\nnpx skills add cocoindex-io/cocoindex-code\n# o:\npipx install 'cocoindex-code[full]'",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109268026453545452"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109268026453545452"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2109120553814536301",
+      "author": "RoundtableSpace",
+      "text": "WordCraft is a new open-source word processor written in Rust that aims to replicate Microsoft Word and supports .docx files.\n\n→ It includes styles, track changes, comments, citations, tables of contents and mail merge\n→ It runs on macOS, Windows and Linux, and in a web browser\n→",
+      "likes": 524,
+      "views": 0,
+      "url": "https://x.com/i/status/2109120553814536301",
+      "is_kol": false,
+      "score": 1817.0
+    },
+    {
+      "id": "2109086812505297227",
+      "author": "CFchangelog",
+      "text": "Cloudflare API MCP server now serves Cloudflare skills. Connect it to your client to discover them with `skills/list`.\n\nhttps://t.co/xlRlLL9mB4",
+      "likes": 412,
+      "views": 0,
+      "url": "https://x.com/i/status/2109086812505297227",
+      "is_kol": false,
+      "score": 1416.0
+    },
+    {
+      "id": "2109083131873755646",
+      "author": "alexhalescoder",
+      "text": "The AI ecosystem is much bigger than just LLMs. The real power comes from how every layer connects. 🧠\nLLMs — The Intelligence Layer\nLarge Language Models like GPT and Claude power reasoning, content generation, coding, and natural language understanding.\nAI Agents — From Answers ",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2109083131873755646",
+      "is_kol": false,
+      "score": 723.0
+    },
+    {
+      "id": "2109130327277142377",
+      "author": "himanshubuildss",
+      "text": "Your AI isn't bad at design. It has just never seen good design.\n\nI've tested 100+ vibe coding resources this year. These are the 40 I actually kept, grouped by what you're stuck on.\n\nBookmark this 🔖\n\n1. 👑 https://t.co/RlChWqggj8\nWhy it's different from everything below:\n- Every ",
+      "likes": 163,
+      "views": 0,
+      "url": "https://x.com/i/status/2109130327277142377",
+      "is_kol": false,
+      "score": 579.0
+    },
+    {
+      "id": "2109242402951020689",
+      "author": "mardehaym",
+      "text": "Stop overcomplicating AI agents.\n\nAn agent is a loop:\n\n1. Give the model a task and a list of tools\n2. The model picks a tool\n3. Your code runs it and sends the result back\n4. Repeat until the model has an answer\n\nUnderneath the layers, agent frameworks follow that same basic loo",
+      "likes": 126,
+      "views": 0,
+      "url": "https://x.com/i/status/2109242402951020689",
+      "is_kol": false,
+      "score": 518.0
+    },
+    {
+      "id": "2109199829016719628",
+      "author": "dkare1009",
+      "text": "Stanford has just launched a course on how to build AI agents from scratch\n\n\"Anyone can build an AI agent in 60 minutes\"\n\nPrompt → Agent → Automation → Income\n\n00:00 - Build your first AI agent\n48:15 - Create agents without programming\n54:36 - Earn over $100K a month with agents\n",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2109199829016719628",
+      "is_kol": false,
+      "score": 501.0
+    },
+    {
+      "id": "2109132570772525231",
+      "author": "RhysSullivan",
+      "text": "alright more executor v2 descriptions:\n\nthe goal of executor is everything you use, connected in one place, able to extend it and build whatever you need ontop of it\n\nwant to connect to gmail? your agent writes a tool and it's immediately available\n\nneed to take notes on the emai",
+      "likes": 121,
+      "views": 0,
+      "url": "https://x.com/i/status/2109132570772525231",
+      "is_kol": false,
+      "score": 368.0
+    },
+    {
+      "id": "2109173978640306381",
+      "author": "0xRiRoyal",
+      "text": "private tool routing solves one problem.\n\nbut there’s a deeper one:\n\nwho decided which tools your agent was allowed to have in the first place?\n\nANIMA can connect to public or private MCP servers, with credentials encrypted client-side.\n\nso @TheARCTERMINAL doesn’t have to be the ",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2109173978640306381",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2109109231177863177",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft Azure Agentic AI stack\n\nThis is what enterprise AI agents actually need.\n\nNot just an LLM.\nNot just RAG.\nNot just a few tool calls.\n\nA production-ready agent needs an entire system around the model.\n\nHere is how the Microsoft Azure Agentic AI stack comes together:\n\n→ Ch",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2109109231177863177",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2109197578109845609",
+      "author": "xiaogaifun",
+      "text": "最近学 AI 收获最大的 3 个 YouTube 视频。\n\n强烈推荐大家看看硅谷这几期讨论 AI 趋势的 YouTube 视频，非常精彩。\n\n最好的对抗信息 FOMO 的方式就是找到好的信息源，然后精读。\n\n所以这周我给自己留了 3 天时间，比较松散的把 10 月份 YouTube 上一些重要的播客都看完了。\n\n挨个分享下。\n\n一、Stripe 的创始人认为 Agent 会重塑互联网的流量分配逻辑。\n\n这期视频访谈的标题是，Stripe’s John Collison: AI Agents Will Rewire the Internet，大家自己去搜。",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2109197578109845609",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2109264599899914733",
+      "author": "hammer_mt",
+      "text": "How to build good evals without getting lost or in trouble.\n\nYou should see evals as saving past work and replaying it with new models or prompts/skills to see if it improved.\n\nThis helps you do 3 things:\n1. see where it fails so you can tell your boss/users\n2. optimize it until ",
+      "likes": 74,
+      "views": 0,
+      "url": "https://x.com/i/status/2109264599899914733",
+      "is_kol": false,
+      "score": 247.0
+    },
+    {
+      "id": "2109162083615211904",
+      "author": "nftmufettisi",
+      "text": "The interesting part of @termix_ai right now isn’t 469K agents. It’s that the marketplace is slowly disappearing into the agent itself.\n\n- Install the TermiX Skill\n- Link your account\n- Now Claude Code, Cursor or OpenClaw can interact with the marketplace from where they already ",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2109162083615211904",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2109136823268024769",
+      "author": "DanKornas",
+      "text": "Knowledge graphs for AI agents don’t need another database server.\n\nKGLite is an embedded, Cypher-queryable knowledge graph for Python and Rust, built for applications, analysts, and LLM agents.\n\nIt helps you load and query structured context alongside your application by running",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2109136823268024769",
+      "is_kol": false,
+      "score": 238.0
+    },
+    {
+      "id": "2109282746355118435",
+      "author": "stitchdegen",
+      "text": "Back to $CLAUDIA for a quick update\n\nIn my previous research, I covered the AI character narrative, its connection to solana:7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump, @anabology's involvement, and the Elon Musk catalyst\n\nNow, $CLAUDIA has reached the $10M market cap range, wi",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2109282746355118435",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2109253961937207791",
+      "author": "thejamescad",
+      "text": "I’ll go ahead and say it… this idea that “the agent will just pick the best product” is extremely stupid and shows a major misunderstanding of how marketing works (which makes sense as it is predominantly engineers in the chat right now).\n\nThere is no such thing as a “best produc",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2109253961937207791",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2109120183549739208",
+      "author": "hongkongdoll",
+      "text": "BN AI全家桶：BN AI 给普通用户看信息，用工具，AI Pro 给专业交易者做策略和工作流，Agent OS 还可以通过 MCP 把币安的数据和能力开放给外部 AI。\n\n在Claude那，我之前把自建的MCP server 换成了官方的，提升了一点安全性，不用只读API密钥了。再尝试把之前的策略喂给BN AI pro看看会给出什么建议。\n\n我目前币圈每月的中性套利收益已经超过其他线收益总和，再加上AI的素材产出让其他线无限续命，从23年到现在我赶上了我能赶上的最好的时代。",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2109120183549739208",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2109255336875970795",
+      "author": "MystiqueMide",
+      "text": "Introducing Lendhold: borrow against your tokenised stocks on @BNBCHAIN mainnet and keep your position.\n\nOn BNB Chain, there are currently 618 stock tokens across three issuers:\n\n-442 Ondo tokens\n-130 xStocks\n-46 bStocks\n\nBut only bStocks are accepted as collateral across BSC len",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2109255336875970795",
+      "is_kol": false,
+      "score": 164.0
+    },
+    {
+      "id": "2109113004432470075",
+      "author": "RoundtableSpace",
+      "text": "AI coding tools still write SwiftUI like it's 2021.\n\nPaul Hudson, the Hacking with Swift guy, released SwiftUI Pro, a free agent skill that fixes that.\n\nwhat it catches:\n\n• deprecated APIs → swapped for modern ones\n• accessibility → buttons VoiceOver can actually see\n• performanc",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2109113004432470075",
+      "is_kol": false,
+      "score": 157.0
+    },
+    {
+      "id": "2109007460396581237",
+      "author": "0xtoberry",
+      "text": "ai agents can now use their own android phone 🫪\n\ni just found a tool that lets ai agents control cloud android devices without an emulator or ADB\n\nPhonebox\n\n-open apps, tap, type, swipe and scroll\ninstall APKs and automate mobile apps through MCP\n\n-works with Claude Code, Codex a",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2109007460396581237",
+      "is_kol": false,
+      "score": 153.0
+    }
+  ]
+}
