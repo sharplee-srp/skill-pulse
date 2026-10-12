@@ -8218,5 +8218,49 @@
   "rosuh/skills": {
     "first_seen": "2026-10-11",
     "tier": 3
+  },
+  "altryne/jevify": {
+    "first_seen": "2026-10-12",
+    "tier": 1
+  },
+  "tester-army/e2e": {
+    "first_seen": "2026-10-12",
+    "tier": 2
+  },
+  "salsabila2507/ineedcodes": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "dyad-sh/dyad": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "conductor-oss/conductor": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "sepehr071/awesome-iran-mcp": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "sapatmohit/agent-skills": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "tianyidatascience/source-check": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "cheney77zhao-cmd/xiaozhi-skills": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "masikomoore/multi-model-sync": {
+    "first_seen": "2026-10-12",
+    "tier": 3
+  },
+  "zyipeng/video-downloader": {
+    "first_seen": "2026-10-12",
+    "tier": 3
   }
 }

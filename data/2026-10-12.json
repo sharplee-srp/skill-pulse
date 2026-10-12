@@ -1,0 +1,611 @@
+{
+  "date": "2026-10-12",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 156,
+    "tweets_with_repos": 25,
+    "unique_repos": 22,
+    "new_repos": 11,
+    "previously_seen_repos": 11
+  },
+  "new_repos": [
+    {
+      "repo": "altryne/jevify",
+      "github_url": "https://github.com/altryne/jevify",
+      "tier": 1,
+      "is_new": true,
+      "score": 615.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 85,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thegreatest_sv",
+        "text": "holy sh*t, someone gave Claude a decision brain and it changed everything \n\nevery solo builder can steal this setup\n\nJev is a model that can't write a word. it only decides.\n\nClaude does the thinking, Jev does the choosing, and it plugs straight into Claude Code\n\nthe decisions to",
+        "likes": 76,
+        "url": "https://x.com/i/status/2109616321973391680"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109616321973391680",
+        "https://x.com/i/status/2109713209011626263",
+        "https://x.com/i/status/2109704194223444201"
+      ]
+    },
+    {
+      "repo": "tester-army/e2e",
+      "github_url": "https://github.com/tester-army/e2e",
+      "tier": 2,
+      "is_new": true,
+      "score": 489.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 113,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "o_kwasniewski",
+        "text": "Introducing /create-verification-skill\n\nAllow your agent to verify its own work and bring you evidence with e2e as the verification layer. Based on @poteto skills\n\n~/ npx skills add tester-army/e2e --skill create-verification-skill https://t.co/r9bevauXQb",
+        "likes": 113,
+        "url": "https://x.com/i/status/2109694443410399543"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109694443410399543"
+      ]
+    },
+    {
+      "repo": "salsabila2507/ineedcodes",
+      "github_url": "https://github.com/salsabila2507/ineedcodes",
+      "tier": 3,
+      "is_new": true,
+      "score": 229.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "calbuldelis69",
+        "text": "A NEW CHAPTER FOR iNEED\n\nWe're moving from https://t.co/T8qtANOqHg to https://t.co/YuIEALKH7C.\n\nBefore we make that move, I want to tell you how everything started, because none of this was planned to become something this big.\n\nIt started with me hunting for free AI APIs.\n\nI was",
+        "likes": 43,
+        "url": "https://x.com/i/status/2109705355798384767"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109705355798384767"
+      ]
+    },
+    {
+      "repo": "dyad-sh/dyad",
+      "github_url": "https://github.com/dyad-sh/dyad",
+      "tier": 3,
+      "is_new": true,
+      "score": 229.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "undefinedKi",
+        "text": "Agencies sell AI agents as a service. Meanwhile the code is sitting on GitHub for free\n\nRanked from good to the best one:\n\n1. Describe a website or app and an agent builds it right on your machine. 21.6k stars\nhttps://t.co/1IGkcdMM2J\n\n2. Secure cloud sandboxes where your agent ca",
+        "likes": 38,
+        "url": "https://x.com/i/status/2109690268182368581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109690268182368581"
+      ]
+    },
+    {
+      "repo": "conductor-oss/conductor",
+      "github_url": "https://github.com/conductor-oss/conductor",
+      "tier": 3,
+      "is_new": true,
+      "score": 168.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Marlenuii",
+        "text": "AI execution is getting f...cking ridiculous\n\n12 GitHub repos for building a GPT 6 Astra system that routes tasks, coordinates agents, executes tools, and verifies results before shipping\n\n01 Orkes Conductor\n▸https://t.co/H7oA1rJO4D\n→ orchestrate complex workflows across distribu",
+        "likes": 21,
+        "url": "https://x.com/i/status/2109691951150936316"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109691951150936316"
+      ]
+    },
+    {
+      "repo": "sepehr071/awesome-iran-mcp",
+      "github_url": "https://github.com/sepehr071/awesome-iran-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 154.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 18,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "looper_in_time",
+        "text": "⚡ قیمت‌ها به تومان 💰 | طراحی Read-only و امن 🔒 | آپدیت خودکار کاتالوگ‌ها 🔄\n📦 نصب در Claude Code:\n/plugin marketplace add sepehr071/awesome-iran-mcp\nیا برای ابزارهای دیگه:\nnpx skills add sepehr071/awesome-iran-mcp\n\n🔗 لینک ریپو: https://t.co/xsBvhZVZRm",
+        "likes": 18,
+        "url": "https://x.com/i/status/2109563349033771115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109563349033771115"
+      ]
+    },
+    {
+      "repo": "sapatmohit/agent-skills",
+      "github_url": "https://github.com/sapatmohit/agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mohitsapat18",
+        "text": "@claudeai @ClaudeDevs @Remotion @ElevenLabs Repo (free, MIT, read-only) 👇\nhttps://t.co/GTUCJML5a2\n\nnpx skills add sapatmohit/agent-skills\n\nWorks with Claude Code, Codex, Cursor + any agent that reads SKILL.md.\nMascot by @ChatGPT, motion graphics by @Remotion and voice by @ElevenL",
+        "likes": 2,
+        "url": "https://x.com/i/status/2109564766436114789"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109564766436114789"
+      ]
+    },
+    {
+      "repo": "tianyidatascience/source-check",
+      "github_url": "https://github.com/tianyidatascience/source-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "is_tianyi",
+        "text": "npx skills add TianyiDataScience/source-check\n\nThe three answers, every check table and how it was run:\nhttps://t.co/ASN1X4wYxX",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109677413403599344"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109677413403599344"
+      ]
+    },
+    {
+      "repo": "cheney77zhao-cmd/xiaozhi-skills",
+      "github_url": "https://github.com/cheney77zhao-cmd/xiaozhi-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Minggeai",
+        "text": "不写代码也能用小智学长：\n\n1. 装一个支持技能的 AI 工具，比如 Claude Code\n2. 粘贴一行命令：npx skills add cheney77zhao-cmd/xiaozhi-skills\n3. 对 AI 输入 /xz，说出你想解决的事\n\n不知道从哪开始，就说“帮我理清定位”。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109609616804139120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109609616804139120"
+      ]
+    },
+    {
+      "repo": "masikomoore/multi-model-sync",
+      "github_url": "https://github.com/masikomoore/multi-model-sync",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fan_Sa_Xi",
+        "text": "LEO的今日开源推荐 - 2026-10-12\n\n这两天刷到好几条一样的抱怨：Claude 订阅三天两头风控，Cursor 越用越贵，Codex 额度卡在周期里不重置，想换个模型又怕整套配置推倒重来。客户端其实只需要接一次，上游换谁，放在中间那层改就行。下面五个仓，从改配置的小工具到能分账的自建网关，按你愿意折腾的程度挑。\n\n① Multi-model-sync\n我自己维护的 Codex Skill。它把第三方中转站的模型列表同步进 Codex 的自定义模型目录，顺手写好 provider 和 model_catalog_json，不用再手改 confi",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109693989066870934"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109693989066870934"
+      ]
+    },
+    {
+      "repo": "zyipeng/video-downloader",
+      "github_url": "https://github.com/zyipeng/video-downloader",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DU40909",
+        "text": "我用作者的skill，蹬完了codex三个周额度做出来的片子，在抖音获得了0个播放\n\n有点标题党了，不好意思。额度消耗太快可能是我用了Astra的原因，我觉得其他的模型好像都差点意思。\n\n言归正传，这条片子我觉得选题没有问题，因为做的是尊界刹车踏板断裂的话题，最近几天都是热点，我感觉可能是我的抖音号有问题，0个播放实在太离谱，发在视频号上也有个2000播放\n\n第一次用智能体做视频，总结如下：\n1、最大的问题应该是文案本身没写好。作者Skill走的是事实核查、深度调研的路线，我把选题告诉codex出来第一稿之后我都傻眼了，写的跟个说明书一样。这个事情本身是",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109691244721188959"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109691244721188959"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 244.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "Claude Code tip: install huashu-art-motion and Opus 5.5 can draw animations in 𝟯𝟱 𝗮𝗿𝘁 𝘀𝘁𝘆𝗹𝗲𝘀 with code. Van Gogh's starry sky swirls. Dalí's clocks drip. And its delivery script rejects any film where almost nothing moves.\n\nYou can just ask for an animation in the style of Van Go",
+        "likes": 43,
+        "url": "https://x.com/i/status/2109690569563746755"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109690569563746755"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": false,
+      "score": 238.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xMovez",
+        "text": "Closed-source sky has fallen...\n\nthese 10 GitHub REA repos  let your AI agent reverse engineer any apps, game or tool on any device\n\nsend to your Claude: \n\n• REA (130K stars ) - one MCP for RE: binaries, Electron, .NET, Android, websites.\n\n⮡  https://t.co/X6at3ZQaKd\n\n• Ghidra (84",
+        "likes": 36,
+        "url": "https://x.com/i/status/2109671714896437520"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109671714896437520"
+      ]
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "github_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 219.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shenxiankk",
+        "text": "20 个阶段、523 节课——《从零开始的 AI 工程》现在就是这个规模。\n\n它的玩法是让你先徒手把反向传播、分词器、注意力、代理循环撸一遍，之后换成生产库，把同一批概念再走一次。\n\n课程结构基本不动：抛出问题、讲清概念、动手造、实际用、发布出去。\n\n想要开跑，终端执行 npx skills add rohitg00/ai-engineering-from-scratch，接着 /start-learning，一份 LEARNING.md 就出来了。\n\n辅导这块，Claude Code、Cursor、Codex 都可以顶上。Claude 认证还配了四条备",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109619844211704103"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109682003213992128",
+        "https://x.com/i/status/2109619844211704103"
+      ]
+    },
+    {
+      "repo": "opencut-app/opencut",
+      "github_url": "https://github.com/opencut-app/opencut",
+      "tier": 3,
+      "is_new": false,
+      "score": 172.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yarilo7brigada",
+        "text": "F*CKING GitHub is full of free stuff almost nobody uses\n\n10 repos blowing up this month, from the simplest to the most technical:\n\nstuff anyone can use\n\nOpenCut: a free open-source CapCut alternative, edit videos with no subscriptions and no watermarks (93.6K)\nhttps://t.co/TzOl4U",
+        "likes": 24,
+        "url": "https://x.com/i/status/2109685377581891683"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109685377581891683"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wenbozhu0328",
+        "text": "@so_ainsight 3位ありがとうございます📷 Claude Code なら npx skills add heygen-com/hyperframes を入れて「このサイトから30秒の紹介動画を作って」と頼むだけで始められます",
+        "likes": 2,
+        "url": "https://x.com/i/status/2109703777427345721"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109703777427345721"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yupi996",
+        "text": "只装这个 Skill 的话：\nnpx skills add emilkowalski/skills --skill animation-performance\n\n🧩 仓库指路 https://t.co/bLgn5koUHZ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2109565486149071167"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109565486149071167"
+      ]
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "github_url": "https://github.com/hugohe3/ppt-master",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Fluyeporlaweb",
+        "text": "https://t.co/zEHtHNwFHl\nEjemplos:\nhttps://t.co/Z9VcFos7da\n\nnpx skills add hugohe3/ppt-master\n# luego, en la carpeta instalada:\npip install -r requirements.txt",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109677726260969811"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109677726260969811"
+      ]
+    },
+    {
+      "repo": "aryanutkarsh/seecode",
+      "github_url": "https://github.com/aryanutkarsh/seecode",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yupi996",
+        "text": "SeeCode 一行命令就能安装：npx skills add Aryanutkarsh/seecode -g\n🧩 仓库指路 https://t.co/sn501kjePP",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109604241430204849"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109604241430204849"
+      ]
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "github_url": "https://github.com/wheresryan22/anatomy",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "santhosh_patell",
+        "text": "Stop drawing boxes for how a cache works.\n\nAnatomy: Claude Code skill. One line naming the idea, Claude builds an interactive isometric machine. MIT. 4.5K stars since Oct 8.\n\nTry: npx skills add wheresryan22/anatomy\nhttps://t.co/bqsnafFQOr\n\nDocs as machines, or still boxes?",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109594646229778653"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109594646229778653"
+      ]
+    },
+    {
+      "repo": "slavasolodkiy/authorityclaw",
+      "github_url": "https://github.com/slavasolodkiy/authorityclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NansenID",
+        "text": "If a model can read an invoice, who is allowed to let the money move?\nYesterday my #AuthorityClaw https://t.co/yuXDhd6TI1 (built on Olares One) was selected first place in the @NVIDIA Claw Agent Challenge: DGX Spark Founders Edition, a GTC Berlin pass, and a live demo at Build-a-",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107825965216722992"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107825965216722992"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2109671433521815772",
+      "author": "Jakubantalik",
+      "text": "Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.\n\nThese UI examples are built with https://t.co/eSmFziLSx9 UI Agent. https://t.co/O9plXI6Vev",
+      "likes": 928,
+      "views": 0,
+      "url": "https://x.com/i/status/2109671433521815772",
+      "is_kol": false,
+      "score": 2914.0
+    },
+    {
+      "id": "2109661035036635291",
+      "author": "rewind02",
+      "text": "claude opus 5.5 can now build, rig and animate full 3d scenes inside blender...\n\nthe trick is letting opus orchestrate instead of model, but there’s a smart way to set it up:\n\n- step 1: install blender 5.2.2 and the official blender mcp server\n- step 2: open claude, pick opus 5.5",
+      "likes": 462,
+      "views": 0,
+      "url": "https://x.com/i/status/2109661035036635291",
+      "is_kol": false,
+      "score": 1546.0
+    },
+    {
+      "id": "2109486454284190177",
+      "author": "feindura",
+      "text": "I'm working on a new universal profile AI skill so your AI bot can create universal profiles on all 70 EVM chains. Right now, it's manual. Soon, with a subscription to the relayer, it saves you all the hassle of getting the gas tokens.\n\nIt sadly doesn't work fully with DOT and Me",
+      "likes": 134,
+      "views": 0,
+      "url": "https://x.com/i/status/2109486454284190177",
+      "is_kol": false,
+      "score": 627.0
+    },
+    {
+      "id": "2109677289168334890",
+      "author": "mark_k",
+      "text": "OpenCode 2.0 is here, with a massive overhaul of the open-source AI coding agent!\n\nThe biggest architectural change is a single background service shared by the terminal, desktop and web interfaces. But there's much more:\n\n• Code Mode: Agents can write JavaScript to combine MCP t",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2109677289168334890",
+      "is_kol": false,
+      "score": 491.0
+    },
+    {
+      "id": "2109682521466446062",
+      "author": "tobiadonadon_",
+      "text": "i built an improved 2.0 version of my skill that un-slops AI-looking apps\n\nversion 1 went viral, so i decided to make something a lot more powerful\n\ni spent over a week building it after getting the feedback from V1\n\nhere’s all the new features:\n\n→ designs natively for both iPhon",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2109682521466446062",
+      "is_kol": false,
+      "score": 411.0
+    },
+    {
+      "id": "2109630917199516030",
+      "author": "heysaik",
+      "text": "Today, I'm sharing Milepost!\n\nIt's a driving journal on iOS that lets you record your drives, cars, music, photos, and more. You can share them with friends, get monthly recaps, and even let agents recommend routes with our MCP server.\n\nDownload it here → https://t.co/962qmTjgBy ",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2109630917199516030",
+      "is_kol": false,
+      "score": 322.0
+    },
+    {
+      "id": "2109622352611078443",
+      "author": "shannholmberg",
+      "text": "here is the full list of distribution channels to either build or acquire:\n\n1. founder & team audiences\n\npeople who sees your team on X, LinkedIn, TikTok or other medias can become customers, partners and referrals\n\nbuild through useful posts and conversations, or hire people wit",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2109622352611078443",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2109642218084466877",
+      "author": "AIOZNetwork",
+      "text": "Connect. Prompt. Manage. The AIOZ Storage MCP Server is LIVE.\n\nGive MCP-compatible agents access to 22 AIOZ Storage tools:\n\n→ Work with S3 buckets, objects, and upload links\n\n→ Create vector buckets and indexes, manage and query vectors\n\n→ Control permissions with S3 and Vector A",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2109642218084466877",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2109658887208993232",
+      "author": "fildotai",
+      "text": "i built an mcp server that gives your ai live flight and hotel prices\n\nit pulls ~100 flights in under 3 seconds\n\n> free\n> open source\n> runs on your computer\n> no api keys\n\nhttps://t.co/FoD0kAIQWU",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2109658887208993232",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2109703791721296090",
+      "author": "open2077",
+      "text": "Full custom map, built on an Open77 Cyberpunk 2077 multiplayer server with NCWE, our free map editor.\n\nThe RP potential is insane. Reminds us of @FiveM custom MLOs, and with our AI MCP agent you can build an interior like this in under an hour. https://t.co/UjK08R6pol",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2109703791721296090",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2109638296351432858",
+      "author": "wadefoster",
+      "text": "Zapier MCP is growing 4x faster than Zapier did at a similar scale.\n\nPeople want to build from anywhere and everywhere.\n\nFor most of @Zapier's 15 years, you opened the Zap editor, picked a trigger, and wired up each step yourself.\n\nBut now people start wherever they use AI: Claud",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2109638296351432858",
+      "is_kol": false,
+      "score": 154.0
+    },
+    {
+      "id": "2109679165221876011",
+      "author": "tsukiema_",
+      "text": "holy sh*t, this repo packs writing, design, code, and launch workflows into one Grok Bot skill catalog.\n\n22 entries across 6 domains. 19 local SKILL.md files, plus 3 upstream skills to install from their original authors.\n\nThere's a lot to steal here:\n\n→ writing/ has coach, outli",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2109679165221876011",
+      "is_kol": false,
+      "score": 137.0
+    },
+    {
+      "id": "2109672777338732631",
+      "author": "N01ennn",
+      "text": "60 creators hired. 15 kept. 6,000 f*cking videos a month.\n\nErnesto Lopez just opened the whole content system behind his $1.7M/yr app studio, and the last step runs on a grok bot agent:\n\n> the machine: 60+ ugc creators bulk-hired on sideshift ($299/mo). no calls, no portfolios. 5",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2109672777338732631",
+      "is_kol": false,
+      "score": 131.0
+    },
+    {
+      "id": "2109683554149871803",
+      "author": "0xMfox",
+      "text": "I made $2,000 THIS WEEK turning Claude Code into a Binance trading bot 4 times. Traders pay me $500 for a line Binance prints for free in its own docs.\n\nEvery trader I know wants an AI bot on their Binance account.\n\nNone of them will open a terminal to get one.\n\nThe brave ones pa",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2109683554149871803",
+      "is_kol": false,
+      "score": 128.0
+    },
+    {
+      "id": "2109670406257025311",
+      "author": "rohanpaul_ai",
+      "text": "New Nvidia paper shows scoring base models on every step of an agent run works worse than scoring them only on the edit that first makes the tests pass.\n\nPost-training is expensive, so picking the right base model matters. Yet agent benchmarks score base models near zero, and sim",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2109670406257025311",
+      "is_kol": true,
+      "score": 127.0
+    }
+  ]
+}
