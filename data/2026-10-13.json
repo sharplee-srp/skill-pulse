@@ -1,0 +1,536 @@
+{
+  "date": "2026-10-13",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 168,
+    "tweets_with_repos": 21,
+    "unique_repos": 19,
+    "new_repos": 7,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "chrisryugj/korean-law-mcp",
+      "github_url": "https://github.com/chrisryugj/korean-law-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 445.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 80,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ngnicky",
+        "text": "korean-law-mcp: 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law https://t.co/gxv4iGfkrS",
+        "likes": 80,
+        "url": "https://x.com/i/status/2109955140195385660"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109955140195385660"
+      ]
+    },
+    {
+      "repo": "3265807971-cloud/mcp-toolpacks",
+      "github_url": "https://github.com/3265807971-cloud/mcp-toolpacks",
+      "tier": 3,
+      "is_new": true,
+      "score": 316.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nwhz2003",
+        "text": "工具包开源\n\nMCP 服务器是按「谁提供的」打包的，不是按「你现在要干什么」。\n\n一个 server 常把代码、issue、PR、通知塞在一起 —— 而你只有一个总开关。\n\nmcp-toolpacks：按用途重新分组，一组一个开关。\n开「看代码」不再顺手把「合并 PR」也递过去。\n\nhttps://t.co/4kLsVm2ikF",
+        "likes": 62,
+        "url": "https://x.com/i/status/2109882493944180895"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109882493944180895"
+      ]
+    },
+    {
+      "repo": "samsantosb/ship-it",
+      "github_url": "https://github.com/samsantosb/ship-it",
+      "tier": 3,
+      "is_new": true,
+      "score": 171.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "samsantosb",
+        "text": "No geral o que faço:\n\n1 - Levanto requisito de produto/negocio\n\n2 - Tenho uma skill(slash-command) pra criar cards com uma série de critérios (observabilidade, sec, entry points, testes etc)\n\n3 - Tenho uma skill pra fazer os cards\n\n4 - Tenho um agent com contexto pra revisão. Foc",
+        "likes": 22,
+        "url": "https://x.com/i/status/2110041209821421611"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110041209821421611"
+      ]
+    },
+    {
+      "repo": "antoniaiaiaiaia/devteam-multi-session-development-skill",
+      "github_url": "https://github.com/antoniaiaiaiaia/devteam-multi-session-development-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 151.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 17,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "antoniayly",
+        "text": "最近 AI 自动开发的讨论很多 🤔。 决定开源我这个自动跨session通信的开发框架。 \n\n先说下本人背景。纯血翻译系山顶洞人文科生。前半辈子连一个python 脚本都没有跑过。\n\n起因是发现codex / Claude code都可以跨 session通信了，也就说我们可以把一个“session”理解成一个“agent”去管理。基于这个思路，把分工、验收的交给一个总管 agent 是完全可行的。我只要约束好功能优先级、合并优先级、功能规划等等大的方向就好了（当领导这块）。\n\n于是给自己运行了 5 年的社区搓了一个网站， 7 天新增代码 10 万行，合",
+        "likes": 17,
+        "url": "https://x.com/i/status/2110025303154438178"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110025303154438178"
+      ]
+    },
+    {
+      "repo": "coolxeo/grok-bot-skills",
+      "github_url": "https://github.com/coolxeo/grok-bot-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DaniAcostaAI",
+        "text": "This PR description was a wall of text. Now it's a tree\n\nran show-me on a real PR of mine. 106 words of prose became 61 plus 2 small diffs, every path checked against the real diff\n\ninspired by HumanLayer's show-me\n\nnpx skills add coolxeo/grok-bot-skills --skill show-me https://t",
+        "likes": 2,
+        "url": "https://x.com/i/status/2109982988612030526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109982988612030526"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-screen2video",
+      "github_url": "https://github.com/joeseesun/qiaomu-screen2video",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsone_ai",
+        "text": "@yaohui12138 字幕 花字 封面 片尾这层今天乔木刚开源了 skill（npx skills add joeseesun/qiaomu-screen2video）免费的只会越来越多 98 元真正值钱的是 80+ 套 broll 模板和分镜工作台 建议介绍里把这块放最前面",
+        "likes": 1,
+        "url": "https://x.com/i/status/2110046332820013296"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110046332820013296"
+      ]
+    },
+    {
+      "repo": "berpiztu/wslc-ai-agent",
+      "github_url": "https://github.com/berpiztu/wslc-ai-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iosuberpiztu",
+        "text": "#wsl #wsl2 #wslc #wslccompose\nWSLC AI Agent 1.6.1 is out. NEW: Compose on WSLC, and build on another machine from the sources on yours.\n\nA local agent and MCP server for WSLC (Windows Subsystem for Linux Containers), so Claude, Hermes, OpenClaw and other AI agents can run your co",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109992830135382300"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109992830135382300"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "wheresryan22/anatomy",
+      "github_url": "https://github.com/wheresryan22/anatomy",
+      "tier": 1,
+      "is_new": false,
+      "score": 309.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Cisco_research",
+        "text": "Claude Code tip: name an idea in one line, Anatomy draws the machine that does it.\n\nnpx skills add wheresryan22/anatomy -g -a claude-code\nThen /anatomy explain how a mutex works, interactive\n\nCatch: slow on purpose. A polished figure takes a long session.\n\nhttps://t.co/hE4mE9g0AE",
+        "likes": 2,
+        "url": "https://x.com/i/status/2109996357041680680"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110030321223860454",
+        "https://x.com/i/status/2109996357041680680",
+        "https://x.com/i/status/2109986463731335523"
+      ]
+    },
+    {
+      "repo": "qdrant/qdrant",
+      "github_url": "https://github.com/qdrant/qdrant",
+      "tier": 3,
+      "is_new": false,
+      "score": 426.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Divyyanshishrma",
+        "text": "If I had to become an AI engineer in 90 days, I would not start with courses.\n\nI would build projects from these 10 GitHub repos.\n\n1. LangChain\nThe LLM application framework on almost every AI engineer JD. If you want to build production LLM apps, start here.\nrepo → https://t.co/",
+        "likes": 72,
+        "url": "https://x.com/i/status/2109974267639243240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109974267639243240"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": false,
+      "score": 409.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 88,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xDeniAi",
+        "text": "REA + Opus 5.5 is f*cking dangerous…\n\nI'm honestly not sure this should be public.\n\n10 repos that let an AI agent take apart any app like a mechanic takes apart an engine.\n\nsend to your Claude:\n\n•REA (171K stars) - one MCP for RE: binaries, Electron, .NET, Android, websites.\n\nhtt",
+        "likes": 88,
+        "url": "https://x.com/i/status/2109957655569580432"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109957655569580432"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "github_url": "https://github.com/anthropics/claude-code",
+      "tier": 3,
+      "is_new": false,
+      "score": 267.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Marlenuii",
+        "text": "Claude Code is getting f...cking ridiculous\n\n8 GitHub repos to turn one coding agent into an entire execution system with specialized workers, live tools and traceable results\n\n01 anthropics/claude-code\n▸https://t.co/J6PemNRx9X\n→ the coding runtime that connects reasoning to file",
+        "likes": 49,
+        "url": "https://x.com/i/status/2109962693775937771"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109962693775937771"
+      ]
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "github_url": "https://github.com/rtk-ai/rtk",
+      "tier": 3,
+      "is_new": false,
+      "score": 254.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 33,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "levithefirst",
+        "text": "if you want to never hit your session limits on Claude/Codex,\n\nbookmark and use these 10 tools. \n\n1 → RTK - https://t.co/rq9QS4NVnf  compresses terminal output from commands like git, grep and tests before it reaches your coding agent.\n\n2 → Headroom - https://t.co/QQGWUq176I\n\ncom",
+        "likes": 33,
+        "url": "https://x.com/i/status/2110007921845104990"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110007921845104990"
+      ]
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "github_url": "https://github.com/greensock/gsap-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 163.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 21,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Asteri_eth",
+        "text": "this is straight up f*cking gold\n\nmotion devs dropped 20 GitHub repos that turn your Opus 5.5 into a f*cking motion studio:\n\nthe engines everything renders on\n\n1. hyperframes: HTML in, MP4 out. most of the skills below run on it\nhttps://t.co/MtHa3feOZZ\n\n2. remotion: your video wr",
+        "likes": 21,
+        "url": "https://x.com/i/status/2110014572308414915"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110014572308414915"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "YGaitsgory",
+        "text": "אפשר גם להשתמש בפרומפט הזה עבור אתרים/מוצרים וזה עושה עבודה נפלאה. \nInstall HyperFrames (npx skills add heygen-com/hyperframes).\nRead my site at [URL] and pull the headline, 3 key features, brand colors and logo.\nBuild a 30-second launch video in HTML:\n1.⁠ ⁠0 to 3s: logo reveal o",
+        "likes": 3,
+        "url": "https://x.com/i/status/2109990812469563813"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109990812469563813"
+      ]
+    },
+    {
+      "repo": "capawesome-team/skills",
+      "github_url": "https://github.com/capawesome-team/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "capawesomeio",
+        "text": "“Upgrade my Capacitor app from version 6 to version 8.”\n\nThat’s the whole prompt. With the Capawesome skills installed, your agent loads the upgrade procedure, applies the diffs, runs the commands. 😎\n\n➡️ 30 skills like that, open source, for Capacitor, Ionic and Capawesome Cloud.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2110047138549792877"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110047138549792877"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mira_exe34",
+        "text": "Kurulum tek satır: npx skills add vercel-labs/agent-skills. Kurmadan denemek istersen: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude. .. agent flag'iyle de direkt seçtiğin ajanı interaktif başlatabiliyorsun.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110022862278938628"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110022862278938628"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yoosangoh",
+        "text": "설치는 한 줄이에요.\nnpx skills add alchaincyf/huashu-art-motion\n\n화풍 35개에 해설 영상 문법 9개가 들어 있고, 제작에 참여 안 한 에이전트가 완성본을 검수해요. 깃허브 별 3,700개 이상, MIT.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2109975562282480024"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2109975562282480024"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2110008983180198035",
+      "author": "midudev",
+      "text": "Esta skill te crea vídeos con HTML, CSS y JS.\nCon animaciones y un editor integrado.\n\nSe llama HyperFrames y es de código abierto.\n\nFunciona en Claude, Cursor, Codex y Gemini.\n→ https://t.co/7n95i99LPb https://t.co/XXw6kPBrJD",
+      "likes": 958,
+      "views": 0,
+      "url": "https://x.com/i/status/2110008983180198035",
+      "is_kol": false,
+      "score": 3224.0
+    },
+    {
+      "id": "2109991946127016063",
+      "author": "Samuelsimonsun1",
+      "text": "Out of 100 Tries, the Robot Got 22 Right. Then the Way It Learned Changed.\n\nPicture a robot arm in a warehouse. A box slides toward it, and it reaches. Out of every 100 tries, 22 end the way they should. The other 78 end with a dropped box, a missed grasp, or a person walking ove",
+      "likes": 212,
+      "views": 0,
+      "url": "https://x.com/i/status/2109991946127016063",
+      "is_kol": false,
+      "score": 656.0
+    },
+    {
+      "id": "2109850052214845835",
+      "author": "XFreeze",
+      "text": "Grok Build just got even faster, lighter, and more reliable, with some serious performance improvements for long-running agent sessions\n\nThis update reduces memory usage and CPU overhead, makes typing with large prompts faster, and improves overall responsiveness during heavy wor",
+      "likes": 185,
+      "views": 0,
+      "url": "https://x.com/i/status/2109850052214845835",
+      "is_kol": false,
+      "score": 655.0
+    },
+    {
+      "id": "2110035957521006649",
+      "author": "rileybrown",
+      "text": "I can tell you... for anything content related... this is the most useful skill i've ever had inside codex and claude code. The ability to gather all relevant tweets in any niche, and return links to relevant tweets.\n\nBut here's the icing on the cake. Pair this with a ScrapeCreat",
+      "likes": 160,
+      "views": 0,
+      "url": "https://x.com/i/status/2110035957521006649",
+      "is_kol": false,
+      "score": 520.0
+    },
+    {
+      "id": "2110047236369547621",
+      "author": "poteto",
+      "text": "this is now a new skill /in-your-own-words in pstack 0.15.23! \n\nextremely useful to ensure that you and your agent are aligned on the goal and that it understands your intent clearly",
+      "likes": 148,
+      "views": 0,
+      "url": "https://x.com/i/status/2110047236369547621",
+      "is_kol": false,
+      "score": 469.0
+    },
+    {
+      "id": "2109931462405337563",
+      "author": "TollyLabs",
+      "text": "TOLLY is growing into a home for traders, creators and AI agents on Arc.\n\nDiscover markets, trade with advanced tools, understand wallet activity and manage your portfolio. Launch V3/V4 tokens with creator tools and TOLLY’s fee flywheel built into the experience.\n\nBring your own ",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2109931462405337563",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2109939701838983293",
+      "author": "AiswaryaVenkit1",
+      "text": "AI Architect Tech Stack for 2026–27 Explained! 🚀\n\nKnowing how to build an AI chatbot is one thing.\n\nDesigning an enterprise AI system that scales, stays secure, and works reliably in production is another.\n\nThat's where AI Architects come in.\n\nHere are the 9 essential layers you ",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2109939701838983293",
+      "is_kol": false,
+      "score": 254.0
+    },
+    {
+      "id": "2109929456471335339",
+      "author": "_lhermann",
+      "text": "Everything is accelerating right now, just this week:\n- Got a request for SSO\n- Had our API scraped\n- Competition launched an MCP server\n- Toddler got sick\n\nEveryone is crazy productive now, not just indie hackers, and every mistake gets caught.",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2109929456471335339",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2110013878641762528",
+      "author": "AIOZNetwork",
+      "text": "AIOZ Storage MCP Server: Turn Prompts into Storage Actions",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2110013878641762528",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2109878409220210974",
+      "author": "shesdhee",
+      "text": "11/ BUILT FOR PEOPLE AND AGENTS\n\n@HeyResearch is built for people and for agents.\n\nFor agents: an MCP server with typed tools for discovery, snapshots, timelines and changes. Also OpenAPI, an A2A card, and research receipts with provenance.\n\nFact, Derived and Unknown survive in t",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2109878409220210974",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2109868757808283926",
+      "author": "migtissera",
+      "text": "Today, I’m open-sourcing Drost-v1 as Drost Community Edition.\n\nDrost Community is a genuinely powerful offensive cybersecurity tool: It comes with one Docker container, 159 MCP tools, Linux and MacOS support, and direct integration with MCP-compatible AI agents.\n\nIn short, you ca",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2109868757808283926",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2110040855360741868",
+      "author": "supabase",
+      "text": "Supabase now works with Grok Bot. 🤖\n\nRequest a change in chat, and @cursor_ai builds and runs it on your Supabase backend through the Supabase MCP server.\n\nLearn more ↓\nhttps://t.co/4BuhGrsgou https://t.co/fIDnKEjsLO",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2110040855360741868",
+      "is_kol": false,
+      "score": 171.0
+    },
+    {
+      "id": "2110028084510609883",
+      "author": "HeyResearch",
+      "text": "Anthropic just approved Hey Research Lab’s MCP server for the Claude Directory.\n\nOur MCP is now live as a Community Connector, giving Claude users direct access to Hey Research Lab intelligence from inside @claudeai \n\nThat means agents can query structured, evidence-backed data a",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2110028084510609883",
+      "is_kol": false,
+      "score": 170.0
+    },
+    {
+      "id": "2109947262172295656",
+      "author": "OpenBot_",
+      "text": "OpenBot v0.38.0 is out 🚀\n\nThis release makes it easier to connect providers, apps, and integrations on a remote server.\n\nSign in from your own computer\n- Connect Codex, Claude, Gemini, and Muse to a joined server using your computer’s browser.\n- Sign in to GitHub, Slack, Discord,",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2109947262172295656",
+      "is_kol": false,
+      "score": 149.0
+    },
+    {
+      "id": "2109904273672995096",
+      "author": "Israfilv2",
+      "text": "SOMEONE BUILT A FREE, OPEN-SOURCE CAPCUT\n\nit's called opencut and it's sitting at 93.9k stars on github\n\n→ free video editor, runs in your browser\n→ no watermark, no subscription\n→ MIT licensed, so you can self-host it\n→ web, desktop and mobile from one codebase (coming in the re",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2109904273672995096",
+      "is_kol": false,
+      "score": 142.0
+    },
+    {
+      "id": "2109950228959047716",
+      "author": "The_Cyber_News",
+      "text": "🛡️  Meta Zurp AI Toolkit Connects Burp Suite With AI Coding Agents for Bug Bounty Research \n\nDetails: https://t.co/5QN59TNIGj\n\nMeta has introduced Zurp, an open-source toolkit that connects Burp Suite workflows with AI coding agents for approved bug bounty research. Zurp works as",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2109950228959047716",
+      "is_kol": false,
+      "score": 126.0
+    }
+  ]
+}
