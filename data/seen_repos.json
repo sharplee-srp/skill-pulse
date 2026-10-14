@@ -8290,5 +8290,53 @@
   "berpiztu/wslc-ai-agent": {
     "first_seen": "2026-10-13",
     "tier": 3
+  },
+  "chekusu/yobiru": {
+    "first_seen": "2026-10-14",
+    "tier": 0
+  },
+  "zhongerxin/iphone-use": {
+    "first_seen": "2026-10-14",
+    "tier": 2
+  },
+  "penglonghuang/chinese-novelist-skill": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "triggerdotdev/trigger.dev": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "google-antigravity/antigravity-sdk-python": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "scopuly/scopuly-skills": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "qvotvm/copperplate": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "juliobsz/skills": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "illyism/seo-skills": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "journione-ai/journione-planning-skills": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "maoyadongsh/siq-agent-security": {
+    "first_seen": "2026-10-14",
+    "tier": 3
+  },
+  "arekejoker/qwen21-nsfw-pose-skill": {
+    "first_seen": "2026-10-14",
+    "tier": 3
   }
 }

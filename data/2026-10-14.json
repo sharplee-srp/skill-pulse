@@ -1,0 +1,641 @@
+{
+  "date": "2026-10-14",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 172,
+    "tweets_with_repos": 22,
+    "unique_repos": 22,
+    "new_repos": 12,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "chekusu/yobiru",
+      "github_url": "https://github.com/chekusu/yobiru",
+      "tier": 0,
+      "is_new": true,
+      "score": 742.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 44,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "一个开源工具：yobiru，借助 Tailscale 组好内网，让不同电脑、不同云端环境里的 Agent 直接互相发消息。\n\n除了文字，还能传 JSON、报告、日志这些文件，发出去的请求有回执、有进度、有最终结果，超时了也能查到状态。\n\nGitHub：https://t.co/rSXhgnVob5\n\n文件不经过任何中转服务器，接收方直接从发送方那台机器拉取，拉完还会核对大小和校验值，下载链接默认 24 小时过期。\n\n能不能把某个 Agent 叫醒，由接收方说了算，谁能叫、几点到几点免打扰、多久最多叫几次，都可以自己设。\n\n插件里打包了 6 个 Skill",
+        "likes": 44,
+        "url": "https://x.com/i/status/2110339890420609316"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110339890420609316"
+      ]
+    },
+    {
+      "repo": "zhongerxin/iphone-use",
+      "github_url": "https://github.com/zhongerxin/iphone-use",
+      "tier": 2,
+      "is_new": true,
+      "score": 625.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 150,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "hr98w",
+        "text": "最近 iPhone-use 挺火，梳理了一些主流的实现方案。同样是让 AI 操作 iPhone，Agent 在哪里运行、如何读取屏幕、怎么执行动作，其实很不一样。\n\n1. 首先是 @zhongerxin 的 iPhone-use，是比较典型的解决方案\n\n电脑上的 Agent 通过 WebDriverAgent（WDA）操作手机。WDA 和目标 App 都在同一台 iPhone 上，底层由 XCTest 执行点击、滑动和输入。\n\n支持原生元素信息和截图，可以按按钮文字定位，也可以看图点坐标。当前工作流需要 Mac、Xcode、开发签名，以及电脑上的 Age",
+        "likes": 150,
+        "url": "https://x.com/i/status/2110250526256574526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110250526256574526"
+      ]
+    },
+    {
+      "repo": "penglonghuang/chinese-novelist-skill",
+      "github_url": "https://github.com/penglonghuang/chinese-novelist-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 340.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 55,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "GitHub 狂揽 3.4K Star！有人把 AI 写小说这件事，直接做成了流水线！\n\n推荐一个开源 Skill：chinese-novelist-skill，专门帮你用 AI 创作中文长篇小说。\n\n最狠的是，它不只是帮你写几段文字，而是能规划并生成 10～50章完整小说！\n\n从题材选择、人物设定、故事大纲，到章节创作、剧情衔接、悬念设计，全流程自动化。\n\n还支持创作记忆、中断续写、多 Agent 并行写作、自动检查和修改。\n\n每章目标3000～5000字，开头抓人，结尾留钩子。\n\n以前写小说最难的是坚持更新，现在连大纲、码字、检查都能交给 AI 辅助",
+        "likes": 55,
+        "url": "https://x.com/i/status/2110335300035899691"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110335300035899691"
+      ]
+    },
+    {
+      "repo": "triggerdotdev/trigger.dev",
+      "github_url": "https://github.com/triggerdotdev/trigger.dev",
+      "tier": 3,
+      "is_new": true,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ihteshamali",
+        "text": "This is actually getting scary.\n\nOne person with Claude Code can now automate workflows that used to require multiple employees.\n\nAnd GitHub has the tools to make it happen.\n\n10 insanely useful repos:\n\n1. gogcli / https://t.co/AokBVqgc6z: Manage Gmail and calendars.\n\n2. browserba",
+        "likes": 31,
+        "url": "https://x.com/i/status/2110350385399673325"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110350385399673325"
+      ]
+    },
+    {
+      "repo": "google-antigravity/antigravity-sdk-python",
+      "github_url": "https://github.com/google-antigravity/antigravity-sdk-python",
+      "tier": 3,
+      "is_new": true,
+      "score": 178.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ntaylormullen",
+        "text": "Antigravity SDK October 12th 2026 weekly update for v0.1.22:\n\n• Gemini 4 Argon: The SDK now supports gemini-4-argon model targets. Still defaults to gemini-3.8-flash when unspecified.\n    - Announcement: https://t.co/uG0e50QQHL\n• Dynamic Multi-Agent Workflows: Author and execute ",
+        "likes": 26,
+        "url": "https://x.com/i/status/2110330405589008534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110330405589008534"
+      ]
+    },
+    {
+      "repo": "scopuly/scopuly-skills",
+      "github_url": "https://github.com/scopuly/scopuly-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 120.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "scopuly",
+        "text": "🛠 Give Your AI Coding Agent Scopuly Integration Context\n\nBetter wallet integrations start with clear instructions.\n\nInstall Scopuly $XLM Wallet skill in your development environment:\n\nnpx skills add Scopuly/scopuly-skills --skill scopuly-wallet\n\nThe package includes:\n\n📘 Instructi",
+        "likes": 5,
+        "url": "https://x.com/i/status/2110295325223125108"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110295325223125108"
+      ]
+    },
+    {
+      "repo": "qvotvm/copperplate",
+      "github_url": "https://github.com/qvotvm/copperplate",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "quotumorg",
+        "text": "npx skills add qvotvm/copperplate\nhttps://t.co/wjWTG6mS1f",
+        "likes": 5,
+        "url": "https://x.com/i/status/2110301254966730756"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110301254966730756"
+      ]
+    },
+    {
+      "repo": "juliobsz/skills",
+      "github_url": "https://github.com/juliobsz/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "doodi_dev",
+        "text": "⭐ /awwwards ⭐\nhttps://t.co/kbNYv8yySR\n\n1. \"포트폴리오 만들어줘, 내 이름은 Julio\" 한 줄이면 수상작급 웹사이트를 만들어 주는 에이전트 스킬이 나옴\n\n2. 에이전트가 크리에이티브 디렉터·디자이너·개발자 역할을 혼자 다 맡음. 콘셉트 3개를 뽑아 채점하고, 흔한 AI 느낌 디자인은 \"genericness test\"로 걸러냄\n\n3. 다 만든 뒤 실제 브라우저로 데스크톱·모바일 스크린샷을 찍고 접근성·LCP/CLS까지 측정함. 계획을 못 본 별도 비평 에이전트가 채",
+        "likes": 4,
+        "url": "https://x.com/i/status/2110288248430108731"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110288248430108731"
+      ]
+    },
+    {
+      "repo": "illyism/seo-skills",
+      "github_url": "https://github.com/illyism/seo-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sandyaimarketer",
+        "text": "The skill to start with is seo-autopilot. It runs on a daily schedule inside the site's own repo and ships real changes: a new page, an edit, a redirect, a tool.\n\nInstall just that one:\nnpx skills add Illyism/seo-skills --skill seo-autopilot",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110353970195771608"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110353970195771608"
+      ]
+    },
+    {
+      "repo": "journione-ai/journione-planning-skills",
+      "github_url": "https://github.com/journione-ai/journione-planning-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Journione",
+        "text": "Get started in just 1 minute! ⏱️\nSend this to your AI agent to install JourniOne👇\n\nnpx skills add JourniOne-ai/JourniOne-Planning-Skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110307619915341898"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110307619915341898"
+      ]
+    },
+    {
+      "repo": "maoyadongsh/siq-agent-security",
+      "github_url": "https://github.com/maoyadongsh/siq-agent-security",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arthurmao_sh",
+        "text": "【SIQ 安全拆解 9/12】个人用户：一台电脑管住自己的智能体\n\n如果你自己在电脑上用 OpenClaw、Hermes 这类智能体，装了一堆 Skill，你能说清楚它们各自能读哪些文件、能连哪些网站吗？\n\n大多数人说不清。SIQ 个人端就是来回答这个问题的，而且不要求你换平台：你继续在原来的智能体里干活，到 SIQ 里看权限、批动作、查记录。\n\n用起来大致是这样：\n· 下载 0.4.1 签名离线包，验签后启动本地服务，用浏览器打开管理台\n· 点\"通过智能体连接\"，由已安装的 SIQ Skill 完成本机确认；连接请求 5 分钟有效，管理会话固定 24 ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110345070113124576"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110345070113124576"
+      ]
+    },
+    {
+      "repo": "arekejoker/qwen21-nsfw-pose-skill",
+      "github_url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tiantian369q",
+        "text": "1/5 上线 1 天，GitHub 791 星。\n\n🔥 今日 AI 新项目：qwen21-nsfw-pose-skill\n给 AI 编程助手用的出图「技能包」：用 Qwen-Image 2.1 在本地生成指定姿势的人物图。\n⚠️ 主打成人向（NSFW）内容\n👇 一条条讲\n\n2/5 ✅ 核心功能\n1️⃣【提示词配方】照作者的固定结构写提示词\n2️⃣【LoRA（给模型加风格的小插件）】默认开启 NSFW LoRA\n3️⃣【姿势库】136 个 3D 姿势，换姿势时保留人物\n4️⃣【多工具】Claude Code、Codex、Cursor、OpenClaw 都能",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110194755250630715"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110194755250630715"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 836.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 207,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LinearUncle",
+        "text": "接近 100k Stars 的开源网页设计 Skill——TasteSkill，正式发布 v2 了！\n\n之前v1做出来的网页就很惊艳，非常美观！现在又进化了！\n\n想做出巨好看、没有 AI Slop 味儿的网页，推友们可以试试：\nnpx skills add Leonxlnx/taste-skill\n\n仓库地址：\nhttps://t.co/vTSPoxtP3S",
+        "likes": 207,
+        "url": "https://x.com/i/status/2110299572949885008"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110299572949885008"
+      ]
+    },
+    {
+      "repo": "microsoft/playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 235.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Test your website like a first-time visitor before your customers find the bugs.\n\nClaude Code plus Microsoft's open-source Playwright browser tool can click through your site, try the main signup or checkout flow, check it on a phone-sized screen and hand you a prioritized fix li",
+        "likes": 35,
+        "url": "https://x.com/i/status/2110320964474995166"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110320964474995166"
+      ]
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "github_url": "https://github.com/langchain-ai/rag-from-scratch",
+      "tier": 3,
+      "is_new": false,
+      "score": 225.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Vidhi2828",
+        "text": "AI projects that will get you hired\n\n1. RAG from Scratch\nhttps://t.co/FYqHvlBckc\n2. Al Social Media Agent\nhttps://t.co/f62JGvDFAJ\n3. Medical Image Analysis\nhttps://t.co/6amcpYVQ6s\n4. MCP Tool-Calling Agents\nhttps://t.co/Wnzhskjvm8\n5. Memory Al Assistant \nhttps://t.co/KTqGQGlADC h",
+        "likes": 25,
+        "url": "https://x.com/i/status/2110341181003772334"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110341181003772334"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": false,
+      "score": 181.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "L1vsun",
+        "text": "Closed source is officially f*cking dead...\n\nthese 10 GitHub repos (416K stars combined) let your AI agent reverse engineer any app, game or tool on your machine. no source code needed\n\nsend to your Claude:\n\n• REA (224K stars) - one MCP for RE: native binaries, Electron, .NET, we",
+        "likes": 27,
+        "url": "https://x.com/i/status/2110352314947035208"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110352314947035208"
+      ]
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "github_url": "https://github.com/vercel-labs/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 127.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 9,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yesmyoshi",
+        "text": "✅️ 【Vercel公式】Skillsを探してくれるSkills「find-skills」\n\n便利なSkillsは色々あってなかなか探すのも大変。\n\nそんなときに便利そうなのが、Vercel Labsが公開している「find-skills」🤖\n\nこれは、Claude CodeやCodexなどのAIエージェントに、必要なSkillsを探してもらうためのSkill。\n\n例えば、\n\n・WordPress開発に役立つSkillsを探して\n・Webデザインのクオリティを上げるSkillsは？\n\nなどと指示することで、目的に合ったSkillsを検索して提案してもらえ",
+        "likes": 9,
+        "url": "https://x.com/i/status/2110288103105794501"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110288103105794501"
+      ]
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BonoDJblack",
+        "text": "8 万 3 千 star、拿过 GitHub 周榜第一的 skill 工具，叫 archify，专治\"架构图懒得画\"。\n\n它是 Claude Code、Codex、Cursor、OpenCode 的 skill：你跟 agent 描述一个系统，或者干脆让它把仓库读一遍，它直接生成一张可交互的 HTML 架构图，节点能点、路径能追踪的那种。不止架构图，时序图、ER 图、流程图、甚至旅行攻略都能整。\n\n装就一行命令：npx skills add tt-a1i/archify -g。生成的 HTML 是单文件，发给别人照样能看，手机浏览器直接打开就行。\n\nMI",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110370109374054627"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110370109374054627"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "__fantasyman",
+        "text": "项目地址：https://t.co/5lrroOghm5\n安装：npx skills add cathrynlavery/diagram-design",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110334805116359165"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110334805116359165"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AsWill11",
+        "text": "opus drawing in 35 art styles.. from one skill.\n\nnpx skills add alchaincyf/huashu-art-motion\nhttps://t.co/oSLYXjV60B\n\nvan gogh / ghibli / 3blue1brown vibes, bpm soundtrack, qa scripts, a \"reviewer\" subagent that watches the cut.\n\ninstall → paste prompt → watch code become motion.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110284218689306827"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110284218689306827"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-download",
+      "github_url": "https://github.com/joeseesun/qiaomu-download",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AIProductHub_CN",
+        "text": "一个 Skill 几乎下载全平台视频，连视频号都支持，省得来回装一堆工具了🔥\n\n自动检查更新，一条命令直接搞定：\n\nnpx skills add joeseesun/qiaomu-download",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110272075219022199"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110272075219022199"
+      ]
+    },
+    {
+      "repo": "slavasolodkiy/authorityclaw",
+      "github_url": "https://github.com/slavasolodkiy/authorityclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NansenID",
+        "text": "If a model can read an invoice, who is allowed to let the money move?\nYesterday my #AuthorityClaw https://t.co/yuXDhd6TI1 (built on Olares One) was selected first place in the @NVIDIA Claw Agent Challenge: DGX Spark Founders Edition, a GTC Berlin pass, and a live demo at Build-a-",
+        "likes": 0,
+        "url": "https://x.com/i/status/2107825965216722992"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2107825965216722992"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2110241679949144512",
+      "author": "KinasRemek",
+      "text": "basal-2.0 i basal-omni-1.0 otwarte modele decyzyjne dla języka polskiego 🇵🇱 i angielskiego 🇬🇧 udostępnione \n\n🔸Trzy modele basal-2.0: mini (1,5B), 4.5B i max (11B), w wersjach bf16, FP8, GGUF i MLX  \n🔸 Od 1,4 do 5,2 razy więcej decyzji na sekundę niż basal-1.5 i lepiej skalibrowan",
+      "likes": 217,
+      "views": 0,
+      "url": "https://x.com/i/status/2110241679949144512",
+      "is_kol": false,
+      "score": 821.0
+    },
+    {
+      "id": "2110338579733897678",
+      "author": "kimmonismus",
+      "text": "P-Zero Research's new TasteVal benchmark measures research taste: how well a model designs experiments and reads their results on eight real AI-development tasks, scored by how much compute it needs compared with human experts (the dashed 1x line). \n\nProgress was slow from GPT-4 ",
+      "likes": 230,
+      "views": 0,
+      "url": "https://x.com/i/status/2110338579733897678",
+      "is_kol": false,
+      "score": 765.0
+    },
+    {
+      "id": "2110321799212695588",
+      "author": "XFreeze",
+      "text": "The Grok Bot plugin marketplace is now open for submissions. Developers can submit a plugin or MCP server to reach Grok Bot and Cursor users, with Grok coming soon. You add your MCP server URL or a public GitHub repo, a short description and testing instructions, then choose wher",
+      "likes": 212,
+      "views": 0,
+      "url": "https://x.com/i/status/2110321799212695588",
+      "is_kol": false,
+      "score": 751.0
+    },
+    {
+      "id": "2110073211069341775",
+      "author": "marcusyul",
+      "text": "ESTA SKILL HACE QUE TU AGENTE DE IA TRABAJE POR MUCHO MENOS\n\nSi usas agentes de IA a diario, ya sabes dónde está el problema: cada tarea consume modelos, y la factura no para de crecer.\n\nAntSeed lo resuelve conectando tu agente a un mercado abierto de inferencia:\n\n→ Una sola skil",
+      "likes": 197,
+      "views": 0,
+      "url": "https://x.com/i/status/2110073211069341775",
+      "is_kol": false,
+      "score": 676.0
+    },
+    {
+      "id": "2110270832983396588",
+      "author": "crypto_banter",
+      "text": "🚨SONIC CEO SAYS AI AGENTS WILL CHOOSE SONIC BY DEFAULT!\n\n@MattVisser of @SonicLabs on Crypto Insider with @cryptomanran says he’s steering clear of the hype. An agent is emotionless. It looks for the cheapest place to settle. 90% of AI traffic is already going through USDC becaus",
+      "likes": 137,
+      "views": 0,
+      "url": "https://x.com/i/status/2110270832983396588",
+      "is_kol": false,
+      "score": 501.0
+    },
+    {
+      "id": "2110145054870208845",
+      "author": "cangg_l",
+      "text": "forget the UI for a sec, @termix_ai has something devs might actually wanna mess around with\n\ninstead of clicking through the UI, you can now use Claude Code, Cursor, Codex, or OpenClaw to read SKILL.md and run buyer/seller workflows on AACP through shell + Node 18+\n\nno npm, no v",
+      "likes": 161,
+      "views": 0,
+      "url": "https://x.com/i/status/2110145054870208845",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2110319953526296682",
+      "author": "Xnfinti",
+      "text": "BRO THIS IS A COMPLETE AND TOTAL DISASTER 💀\n\nI just saw this Geometry Dash AI mod called “Art Agent” and WHAT IS THIS BRO 😭 You literally highlight some blocks, type a prompt, and BOOM it generates mossy bricks, Art Deco, fancy deco and all that stuff. And people are calling this",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2110319953526296682",
+      "is_kol": false,
+      "score": 392.0
+    },
+    {
+      "id": "2110156193268482077",
+      "author": "stalkeralker",
+      "text": "Spending an ungodly amount of time mastering claw machines was worth it for the five times in my life that a friend wanted me to win something for them and I could confidently go \"Leave it to me.\"",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2110156193268482077",
+      "is_kol": false,
+      "score": 321.0
+    },
+    {
+      "id": "2110221021680709899",
+      "author": "WissamAzma",
+      "text": "للباحثين في المجال الإسلامي\n\nكيف تربط مكتبة الجامع (Aljam3) بالذكاء الاصطناعي في Gemini؟\n\nالجامع مصدر جديد ومفيد للباحثين في العلوم الشرعية، يجمع آلاف الكتب من مكتبات عامة ويتيح البحث في نصوصها مع روابط الصفحات وملفات الـ PDF الأصلية.\n\nالخبر الجيد: لا يحتاج حسابًا، والربط سهل جدً",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2110221021680709899",
+      "is_kol": false,
+      "score": 308.0
+    },
+    {
+      "id": "2110302370920120439",
+      "author": "Nick_Researcher",
+      "text": "the agent permission layer landscape\n\ni think the agent permission layer is becoming one of the most important parts of the AI stack\n\nthis is becoming a real infra category for some reasons:\n\n→ MCP is adding stricter authorization standards for agents using external tools\n\n→ agen",
+      "likes": 87,
+      "views": 0,
+      "url": "https://x.com/i/status/2110302370920120439",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2110323325838729497",
+      "author": "vaultZKprotocol",
+      "text": "1/ vault zk testnet is live\n\nprivacy vaults for any transaction on any chain. the chain only ever sees a hash\n\nhttps://t.co/E8TQuIcqSb\n\n2/ every timelock or onchain will we looked at publishes your address, who gets what and how much. forever\n\nwe wanted the opposite, so a vault i",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2110323325838729497",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2110284718352855050",
+      "author": "ZayanXBT",
+      "text": "I think the easiest place to onboard an agent is where its developer already works.\n\nA useful workflow may already live in Codex, Cursor, or OpenClaw. \n\nTurning it into a paid service means adding offers, orders, delivery, and payment around that work.\n\nThat’s why the skill packa",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2110284718352855050",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2110222565402656865",
+      "author": "neil_xbt",
+      "text": "Since April, Meta hosts an official MCP server for ads. OAuth, 29 tools, works from Claude or ChatGPT.\n\nWith the read/write scope, an agent can build your campaigns, flip an ad set to ACTIVE, and multiply a budget. Meta's guard is that new objects start as drafts.\n\nThe part nobod",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2110222565402656865",
+      "is_kol": false,
+      "score": 195.0
+    },
+    {
+      "id": "2110256793389609340",
+      "author": "AiswaryaVenkit1",
+      "text": "Building AI agents on Azure feels overwhelming until you see the full roadmap.\n\nMicrosoft Foundry Agent Service + Microsoft Agent Framework give you everything but only if you follow the right sequence.\n\nHere’s the step-by-step flow:\n\n→ 𝗗𝗲𝗳𝗶𝗻𝗲 𝘁𝗵𝗲 𝗔𝗴𝗲𝗻𝘁 𝗚𝗼𝗮𝗹\nChoose one clear busi",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2110256793389609340",
+      "is_kol": false,
+      "score": 147.0
+    },
+    {
+      "id": "2110235339604345166",
+      "author": "gandreou007",
+      "text": "🛠️ $APT GIVES AI CODING ASSISTANTS BLOCKCHAIN TOOLS\n\nThe $APT ecosystem offers an official MCP server and Agent Skills compatible with Claude Code, Cursor and GitHub Copilot.\n\nThe tools help assistants query onchain data, work with Move contracts and build full-stack applications",
+      "likes": 44,
+      "views": 0,
+      "url": "https://x.com/i/status/2110235339604345166",
+      "is_kol": false,
+      "score": 142.0
+    },
+    {
+      "id": "2110371582153748942",
+      "author": "denk_tweets",
+      "text": "every week someone tells me they’re going to vibe-code their own @beehiiv alternative over the weekend.\n\nwishing them the best, here’s the backlog of things to make sure to include:\n\n> 99.3% email delivery rate (industry-leading)\n> team of deliverability experts with decades of e",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2110371582153748942",
+      "is_kol": false,
+      "score": 133.0
+    }
+  ]
+}
