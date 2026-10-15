@@ -8338,5 +8338,37 @@
   "arekejoker/qwen21-nsfw-pose-skill": {
     "first_seen": "2026-10-14",
     "tier": 3
+  },
+  "storytold/lightcraft": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "storytold/photocraft": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "oraios/serena": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "desmartin01/inference-indexer-skill": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "kalarislabs/research-agent-skills": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "rorkai/app-store-connect-cli-skills": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "retieedra-profound/skills-marketing-library": {
+    "first_seen": "2026-10-15",
+    "tier": 3
+  },
+  "julian0zzx/opc-bootstrap-validator": {
+    "first_seen": "2026-10-15",
+    "tier": 3
   }
 }
