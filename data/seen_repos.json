@@ -8370,5 +8370,77 @@
   "julian0zzx/opc-bootstrap-validator": {
     "first_seen": "2026-10-15",
     "tier": 3
+  },
+  "harnessrouter/harnessrouter": {
+    "first_seen": "2026-10-16",
+    "tier": 2
+  },
+  "oxylabs/web-api-mcp": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "shader-effects-inc/shaders": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "wacytime1/wallet-radar": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "champ3oy/eddie": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "lightpanda-io/browser": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "bherbruck/solidcraft": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "getchordlabs/chord": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "nace-ai/drex-agent-skills": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "gingiris-1031/solopreneur-coach-skill": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "realhasanshoaib/squint": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "tourmind-com/tourmind-booking-skills": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "flutter/agent-plugins": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "seokwoooo/lucian-uxui": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "theonly1me/shadowclone": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "dzakybd/pid-parser": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "showheyohtaki/motion-prompt": {
+    "first_seen": "2026-10-16",
+    "tier": 3
+  },
+  "theangrypit/theangryskills": {
+    "first_seen": "2026-10-16",
+    "tier": 3
   }
 }

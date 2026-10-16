@@ -1,0 +1,775 @@
+{
+  "date": "2026-10-16",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 166,
+    "tweets_with_repos": 29,
+    "unique_repos": 30,
+    "new_repos": 18,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "harnessrouter/harnessrouter",
+      "github_url": "https://github.com/harnessrouter/harnessrouter",
+      "tier": 2,
+      "is_new": true,
+      "score": 547.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 109,
+      "total_retweets": 24,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_avichawla",
+        "text": "Big release here!\n\nAfter MCP, A2A, & AG-UI, there's another agent protocol:\n\nAnd this one is built for Agent harnesses:\n\nUHP (Unified Harness Protocol) is a standardized interface for running agent tasks across any agent harness, regardless of which one you use.\n\nHarnessRouter is",
+        "likes": 109,
+        "url": "https://x.com/i/status/2110993106594316306"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110993106594316306"
+      ]
+    },
+    {
+      "repo": "oxylabs/web-api-mcp",
+      "github_url": "https://github.com/oxylabs/web-api-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 424.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 48,
+      "total_retweets": 36,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ziven_Coder",
+        "text": "35 Websites That Make Life Easier 🚀\n\nYou probably don't know most of these.\n\nBut once you discover them, you'll keep coming back.\n\n1. https://t.co/oQBxGHgLHo — Write, research & brainstorm with AI\n2. https://t.co/CCmwbmF1k7 — Solve complex calculations\n3. https://t.co/jTKq0Z8Ddy ",
+        "likes": 48,
+        "url": "https://x.com/i/status/2111057019671351649"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111057019671351649"
+      ]
+    },
+    {
+      "repo": "shader-effects-inc/shaders",
+      "github_url": "https://github.com/shader-effects-inc/shaders",
+      "tier": 3,
+      "is_new": true,
+      "score": 393.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 61,
+      "total_retweets": 22,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vicky_grok",
+        "text": "🚨 THIS IS GOLD FOR FRONTEND DEVELOPERS.\n\nImagine giving your AI coding agent access to 200+ GPU-powered visual effects.\n\nGradients.\nLiquid glass.\nDistortions.\nGlowing animations.\nCursor trails.\nSmooth transitions.\n\nMeet Shaders. 👀\n\nIt turns WebGPU effects into reusable components",
+        "likes": 61,
+        "url": "https://x.com/i/status/2110951407264371026"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110951407264371026"
+      ]
+    },
+    {
+      "repo": "wacytime1/wallet-radar",
+      "github_url": "https://github.com/wacytime1/wallet-radar",
+      "tier": 3,
+      "is_new": true,
+      "score": 374.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wacy_time1",
+        "text": "I never really liked platforms deciding which wallets are \"smart money\" for me.\n\nA wallet can be up millions and still be completely useless for the way I trade.\n\nSo why not decide for myself what makes a wallet worth watching.\n\nThat's how Wallet Radar started.\n\nAnd I can barely ",
+        "likes": 63,
+        "url": "https://x.com/i/status/2111053232080330800"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111053232080330800"
+      ]
+    },
+    {
+      "repo": "champ3oy/eddie",
+      "github_url": "https://github.com/champ3oy/eddie",
+      "tier": 3,
+      "is_new": true,
+      "score": 310.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 21,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cirlormx",
+        "text": "I built a native macOS editor with an AI color grader for my DJI D-Log M footage. It also comes with an MCP server so your agent can use eddie to edit your videos for you.\n\nhttps://t.co/Lgu1qnLfLR https://t.co/hEdyakH9ad",
+        "likes": 35,
+        "url": "https://x.com/i/status/2111035697008410743"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111035697008410743"
+      ]
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "github_url": "https://github.com/lightpanda-io/browser",
+      "tier": 3,
+      "is_new": true,
+      "score": 290.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 50,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lightpanda_io",
+        "text": "Lightpanda 1.0.1 is out. \n\n> Its MCP server and agent mode now load each site's stylesheets by default, so menus and modals hidden on screen stay hidden from the model. \n> Web Locks, Compression Streams and RSA-OAEP in Web Crypto.\n> zstd via libcurl 8.23. setImmediate is gone.\n> ",
+        "likes": 50,
+        "url": "https://x.com/i/status/2111001889919599031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111001889919599031"
+      ]
+    },
+    {
+      "repo": "bherbruck/solidcraft",
+      "github_url": "https://github.com/bherbruck/solidcraft",
+      "tier": 3,
+      "is_new": true,
+      "score": 273.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 56,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "A free SolidWorks alternative that runs in your browser, and Claude Code can drive it.\n\nSolidCraft is an open-source parametric CAD app: sketch, add constraints, extrude, and change one dimension to watch the whole model rebuild.\n\n→ Windows, Mac, Linux, or straight in the browser",
+        "likes": 56,
+        "url": "https://x.com/i/status/2111053289127333933"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111053289127333933"
+      ]
+    },
+    {
+      "repo": "getchordlabs/chord",
+      "github_url": "https://github.com/getchordlabs/chord",
+      "tier": 3,
+      "is_new": true,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xtunad",
+        "text": "I'm now the founder of Chord (@getchord_xyz).\n\nChord is the Jupiter of agents: the trading stack and the data layer an AI agent plugs into to trade on-chain. 9 chains, one API.\n\nHow it started\n\nOn March 20 I made the first commit of NullTerminal, a DEX aggregator on Monad. The go",
+        "likes": 29,
+        "url": "https://x.com/i/status/2110982724563746872"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110982724563746872"
+      ]
+    },
+    {
+      "repo": "nace-ai/drex-agent-skills",
+      "github_url": "https://github.com/nace-ai/drex-agent-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 178.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mr_Buzzoni",
+        "text": "Your agents are paying Opus prices to answer \"is this done?\"\n\nDrex is the model that pays for itself the moment you install it\n\nit comes from Nace AI, a small Palo Alto team\nNDI does the perception, Drex makes the call\n\ntheir new skill Drexify drops Drex into any repo:\n> walks th",
+        "likes": 26,
+        "url": "https://x.com/i/status/2111041209485668788"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111041209485668788"
+      ]
+    },
+    {
+      "repo": "gingiris-1031/solopreneur-coach-skill",
+      "github_url": "https://github.com/gingiris-1031/solopreneur-coach-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WeiYipei",
+        "text": "最近刷到越来越多人在聊 OPC（一人公司），但大部分内容停在「自由真好」这一层。\n\n我 2024 年开始做独立顾问的时候，一个月收 2000-5000 块，不敢涨价。到 2025 年涨到 5000，2026 年涨到 7000——每次涨价都是先做了二三十个客户、口碑起来之后才敢动的。\n\n刚开始每个项目每个月投 12-15 个小时，还要跑活动走穴获客。后来业务熟练了，每个项目 6-8 小时就够，客户也基本都来自老带新。\n\n中间做了 20 次心理咨询，才把「我到底值多少钱」这件事想清楚。\n\n我把这条路上反复出现的卡点——找方向、服务产品化、验证需求、定价、交付",
+        "likes": 10,
+        "url": "https://x.com/i/status/2111037823826706883"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111037823826706883"
+      ]
+    },
+    {
+      "repo": "realhasanshoaib/squint",
+      "github_url": "https://github.com/realhasanshoaib/squint",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "AI 做网页经常出现一种情况：页面看着完整，真正填进数据后才发现一堆问题。\n比如设置页只有两个选项，却用了复杂下拉框。\n一个功能放了三个不同入口。\n页面没有数据时，整块区域直接空白。\n有个开源 Skill squint，专门让 Agent 检查自己做出来的 UI。\n安装：\nnpx skills add realhasanshoaib/squint\n它不只检查配色，还会测试几种容易漏掉的情况：\n没有数据时页面怎么显示。\n列表突然变成 1000 条怎么办。\n文字翻译成更长的语言会不会溢出。\n只用键盘能不能完成操作。\n网络请求失败后用户能不能恢复。\n可以直接让",
+        "likes": 2,
+        "url": "https://x.com/i/status/2110960811669618750"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110960811669618750"
+      ]
+    },
+    {
+      "repo": "tourmind-com/tourmind-booking-skills",
+      "github_url": "https://github.com/tourmind-com/tourmind-booking-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MasonScottt_",
+        "text": "@StayOnCount @rev_cap thanks!! you can also send this to your agent to install👇\nnpx skills add tourmind-com/tourmind-booking-skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111036687510053009"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111036687510053009"
+      ]
+    },
+    {
+      "repo": "flutter/agent-plugins",
+      "github_url": "https://github.com/flutter/agent-plugins",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsthishanth",
+        "text": "Add the official Flutter and Dart agent skills, per the docs:\n\nnpx skills add flutter/agent-plugins --skill '*' --agent universal --yes\nnpx skills add dart-lang/skills --skill '*' --agent universal --yes\n\nThey go into .agents/skills. Which skill would you try first? https://t.co/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111007423997559158"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111007423997559158"
+      ]
+    },
+    {
+      "repo": "seokwoooo/lucian-uxui",
+      "github_url": "https://github.com/seokwoooo/lucian-uxui",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sarah_baobao",
+        "text": "推荐一下我自己在用的3个优秀动效库，提示词可以很快生成很丰富的产品演示效果\n\n做现在很火的AI科普视频很方便，我现在都用来内部做动态PPT\n\n#1 lucianlabs 来自韩国\nnpx skills add Seokwoooo/lucian-uxui https://t.co/DsrUCtQGW9",
+        "likes": 1,
+        "url": "https://x.com/i/status/2110999306698391748"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110999306698391748"
+      ]
+    },
+    {
+      "repo": "theonly1me/shadowclone",
+      "github_url": "https://github.com/theonly1me/shadowclone",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_theonly1me",
+        "text": "@EgeMustafaCelik The guided review takes some time too depending on the size of the pr. \n\nyou can try using the shadowclone guided review skill and see if it helps \n\nnpx skills add theonly1me/shadowclone --skill guided-pr-review shadowclone-review",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111054241259524530"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111054241259524530"
+      ]
+    },
+    {
+      "repo": "dzakybd/pid-parser",
+      "github_url": "https://github.com/dzakybd/pid-parser",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dzakyzf",
+        "text": "𝗥𝗲𝘀𝘂𝗹𝘁𝘀: 𝟬.𝟵𝟲 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗙𝟭 on a 190-symbol PID2Graph sheet.\n\n𝗧𝗿𝘆 𝗶𝘁:\nnpx skills add dzakybd/pid-parser\nAlso works with LangChain Deep Agents.\n\n📖 Write-up: https://t.co/8NsSx2LA5z \n🔗 Code: https://t.co/ZtB4m7A9sD\n\n#AIAgents #ComputerVision",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111036755801747543"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111036755801747543"
+      ]
+    },
+    {
+      "repo": "showheyohtaki/motion-prompt",
+      "github_url": "https://github.com/showheyohtaki/motion-prompt",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NguyenT10236708",
+        "text": "Cần Node, không cần tài khoản:\n1. git clone https://t.co/hRFfiA4y5i\n2. node skills/motion-prompt/scripts/motion-prompt.mjs search &lt;vài chữ tả cảnh&gt;\n3. Lệnh prompt &lt;số&gt; ra câu dán vào Claude Code, Codex hay Veo\n\nDùng Claude Code: npx skills add showheyohtaki/motion-pro",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111003451383595204"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111003451383595204"
+      ]
+    },
+    {
+      "repo": "theangrypit/theangryskills",
+      "github_url": "https://github.com/theangrypit/theangryskills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheAngryPit",
+        "text": "Adapted @poteto's pstack and most of Cursor's plugin skills to run in Codex, or in anything that happens to run on a Codex runtime 😉 @openclaw \n\nEach skill is mirrored from a pinned upstream snapshot with a small overlay, so it behaves natively outside Cursor and doesn't drift.\n\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2110748176953020835"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110748176953020835"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "0x4m4/hexstrike-ai",
+      "github_url": "https://github.com/0x4m4/hexstrike-ai",
+      "tier": 3,
+      "is_new": false,
+      "score": 415.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 90,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "intigriti",
+        "text": "Performing recon involves running multiple tools in order, which becomes quite tedious... 😓\n\nHexStrike AI by @0x4m4 is an MCP server that lets any LLM Model like Claude, GPT, and Copilot autonomously run 150+ cybersecurity tools for automated information gathering, fingerprinting",
+        "likes": 90,
+        "url": "https://x.com/i/status/2111020590500856200"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111020590500856200"
+      ]
+    },
+    {
+      "repo": "superdesigndev/superdesign-skill",
+      "github_url": "https://github.com/superdesigndev/superdesign-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 294.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 53,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "goan999999",
+        "text": "我真的受不了了，兴奋得我只睡了 3 小时！\n\n这 7 个 GitHub 项目，配合 Claude Code、Codex，外快都能月入过万\n\n直接干：\n\n1、Superdesign Skill\n\n给 Claude Code、Codex 补上设计工作流，帮你设计和修改前端页面\n\n直接拿来做产品落地页，把功能介绍、价格方案、联系方式和手机适配一起交付。假设一单谈到 3000 元，一个月做 4 单，就是 12000 元营收\n\nhttps://t.co/H1p0B8H2kM\n\n2、Better Design\n\n别再让 AI 一页一页瞎发挥了，这个项目有设计主题、组",
+        "likes": 53,
+        "url": "https://x.com/i/status/2111014596610048315"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111014596610048315"
+      ]
+    },
+    {
+      "repo": "storytold/photocraft",
+      "github_url": "https://github.com/storytold/photocraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 248.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 41,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yohakujpn",
+        "text": "i found 13 free GitHub apps that rebuild Adobe, Microsoft Office and AutoCAD\n\none team shipped all 13 in 2 weeks. open source, for Mac, Windows and Linux\n\ntry them before your next subscription renewal 👇                                                                             ",
+        "likes": 41,
+        "url": "https://x.com/i/status/2111042065916215627"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111042065916215627"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 244.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 43,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nevermind_turki",
+        "text": "هذا من أهم ال skills لتصميم المواقع كذائقة ومن زمان استخدمه اخيرا نزل اصدار جديد للمهارة اعط الوكيل ذا السطر بس \n\nnpx skills add Leonxlnx/taste-skill\n\n- ملاحظة جانبية: حاول بين فترة وفترة تحدث ال skills لأنها تتحدث بناءً على تطور ال Ai ، في لها أمر واحد في ال terminal أو بس قل لل",
+        "likes": 43,
+        "url": "https://x.com/i/status/2110972482442145987"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110972482442145987"
+      ]
+    },
+    {
+      "repo": "xapi-labs/xapi-cli",
+      "github_url": "https://github.com/xapi-labs/xapi-cli",
+      "tier": 3,
+      "is_new": false,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xAA_Science",
+        "text": "没想到小王子3D游戏的作者 @Saccc_c 也是我们 xAPI 的忠实用户，每个 agent 都会装。\n希望大家也多试用下 xAPI，一句话就能让 Agent 安装，并调用所有工具： \nnpx skills add xapi-labs/xapi-cli\nhttps://t.co/SFHUASJE2o https://t.co/UMDlYUy3NP",
+        "likes": 34,
+        "url": "https://x.com/i/status/2110986228309139736"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2110986228309139736"
+      ]
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "github_url": "https://github.com/rlaope/oh-my-hermes",
+      "tier": 3,
+      "is_new": false,
+      "score": 186.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rlaope",
+        "text": "How to Get the Most Out of Oh-My-Hermes\n\nSimply put, Oh-My-Hermes (OMH) is an intelligence pack that makes Hermes Agent insanely good just by plugging it in.\n\nToday, instead of just a basic intro, here’s a quick guide on how to actually use it and the impact it brings.\n\n1. Set up",
+        "likes": 22,
+        "url": "https://x.com/i/status/2111000749467488317"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111000749467488317"
+      ]
+    },
+    {
+      "repo": "altryne/jevify",
+      "github_url": "https://github.com/altryne/jevify",
+      "tier": 3,
+      "is_new": false,
+      "score": 123.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "renmu2017",
+        "text": "Claude Code 接上 JEV：快判断交给它，难题留给 Claude\n\n据称\n斯坦福 AI 研究团队给 Claude Code 配上了类似人脑的双层架构\nJEV 负责快速直觉判断\nClaude 负责慢速思考\n\nJEV 能在毫秒内扫描内容并做简单判断\nClaude 只在遇到难题时启动\n\n接入方式\n1. 添加插件市场并安装 JEV\n`/plugin marketplace add rashedInt32/jev-mcp`\n`/plugin install jev@jev-mcp`\n安装后\nClaude 会把 JEV 当作工具使用\n支持 `classif",
+        "likes": 6,
+        "url": "https://x.com/i/status/2111055394282066355"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111055394282066355"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ygqz666",
+        "text": "写产品方案、技术文档或项目复盘，Diagram Design 可以把文字结构变成架构图、流程图、时序图等，再生成一个可直接打开的 HTML + SVG 文件。\n\n支持 Agent Skills 的工具可从这条命令开始：\nnpx skills add cathrynlavery/diagram-design\n\n接着把需求说具体：画一张用户上传文件后，前端、服务端、任务队列与数据库之间的流程图，标出成功和失败路径，用于16:9演示。\n\n它也能根据已有 Mermaid、Drawio 或 Excalidraw 内容重绘，调整配色、字号和画幅；完成后可导出 SVG",
+        "likes": 2,
+        "url": "https://x.com/i/status/2111052726620598564"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111052726620598564"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skill",
+      "github_url": "https://github.com/emilkowalski/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "creativestefan",
+        "text": "@Onimicee_Design Install the skill npx skills add emilkowalski/skill\n\nAnd tell AI to use it to review your animations",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111023076511297724"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111023076511297724"
+      ]
+    },
+    {
+      "repo": "dart-lang/skills",
+      "github_url": "https://github.com/dart-lang/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsthishanth",
+        "text": "Add the official Flutter and Dart agent skills, per the docs:\n\nnpx skills add flutter/agent-plugins --skill '*' --agent universal --yes\nnpx skills add dart-lang/skills --skill '*' --agent universal --yes\n\nThey go into .agents/skills. Which skill would you try first? https://t.co/",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111007423997559158"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111007423997559158"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2110892865874235423",
+      "author": "MaiNoboshi",
+      "text": "⚠️Para los usuarios de NVIDIA: si quieren desactivar esta función, el NVIDIA App MCP Server viene activado por defecto.\n\nPero tranquilos, que no cunda el pánico. Esto NO significa que NVIDIA esté usando una IA para controlar tu PC.\n\n¿Qué hace? Permite que un agente de IA compatib",
+      "likes": 1248,
+      "views": 0,
+      "url": "https://x.com/i/status/2110892865874235423",
+      "is_kol": false,
+      "score": 4379.0
+    },
+    {
+      "id": "2110988380435615971",
+      "author": "badlogicgames",
+      "text": "recommended reading. i like the term \"coherence\" over \"taste\".\n\nhistorically, simplified, a human would approach a software writing human, asking them to build a thing. that's an iterative process, until software writing human truely understands what the other human needs and wan",
+      "likes": 348,
+      "views": 0,
+      "url": "https://x.com/i/status/2110988380435615971",
+      "is_kol": false,
+      "score": 1144.0
+    },
+    {
+      "id": "2111064620610044039",
+      "author": "suraj_sharma14",
+      "text": "If you learn Forward Deployed Engineering, you will never be unemployed again.\n\nI’d do this.\n\nStage 1: Enterprise Identity & Access (The Gatekeeper)\n- Learn:  OAuth2, SAML, OIDC, SCIM provisioning, Row-Level Security (RLS) and multi-tenant data isolation.\n\n- Practice:  Build an a",
+      "likes": 194,
+      "views": 0,
+      "url": "https://x.com/i/status/2111064620610044039",
+      "is_kol": false,
+      "score": 702.0
+    },
+    {
+      "id": "2110996673736642882",
+      "author": "cyrilXBT",
+      "text": "This is INSANEE...\n\nClaude Code is one engineer.\n\nThese 7 repos turn it into a whole team:\n\nTHE MANAGER\nOrca → runs multiple agents in parallel\nhttps://t.co/jysYX2z7T7\n\nTHE RESEARCHER\nXERJ → local search index, 40x fewer tokens than grep\nhttps://t.co/pNlzXeZn27\n\nTHE MEMORY\nContex",
+      "likes": 125,
+      "views": 0,
+      "url": "https://x.com/i/status/2110996673736642882",
+      "is_kol": false,
+      "score": 450.0
+    },
+    {
+      "id": "2111017350585557025",
+      "author": "Sonofpeace0001",
+      "text": "Most presentations fail not because the ideas are weak, but because the slides force the audience to choose between reading and listening.\n\nA great presentation should make understanding easier, not give people more work to do. Every slide should support the speaker, highlight th",
+      "likes": 114,
+      "views": 0,
+      "url": "https://x.com/i/status/2111017350585557025",
+      "is_kol": false,
+      "score": 382.0
+    },
+    {
+      "id": "2110987354731405362",
+      "author": "KinasRemek",
+      "text": "Sobota, 9:00: udostępniam basal-omni-1.1-max oraz silnik basal 2.1 🇵🇱\n\nA. polski i angielski \nB. multimodalny: tekst, obraz, dźwięk\n\nbasal nie generuje tekstu. Odpowiada na pytania o dokument w jednym przebiegu i zwraca skalibrowane prawdopodobieństwo. Wiesz więc, kiedy mu ufać, ",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2110987354731405362",
+      "is_kol": false,
+      "score": 374.0
+    },
+    {
+      "id": "2110894708348395575",
+      "author": "itsjusttu_",
+      "text": "Software can now order a 3D scan of a real place.\n\n opened an agent bounty API. One HTTP call posts a bounty. The server replies 402 Payment Required. The agent pays the exact amount in USDC on Base or Arc through x402. A person goes and films it. The agent reviews the submission",
+      "likes": 102,
+      "views": 0,
+      "url": "https://x.com/i/status/2110894708348395575",
+      "is_kol": false,
+      "score": 326.0
+    },
+    {
+      "id": "2110989947687637168",
+      "author": "P_riestess7",
+      "text": "gm ladies and gentlemen,\n\n𝐇𝐞𝐫𝐞’𝐬 𝐰𝐡𝐚𝐭 𝐡𝐚𝐩𝐩𝐞𝐧𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐥𝐚𝐬𝐭 𝟕 𝐝𝐚𝐲𝐬 𝐨𝐧 @HeyResearch \n\n~ 𝐅𝐫𝐞𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐚𝐝𝐠𝐞𝐬: Verified projects can now add badges to their websites and GitHub pages to show their latest activity.\n\n~ 𝐔𝐬𝐚𝐠𝐞 𝐠𝐫𝐨𝐰𝐭𝐡: Hey Research recorded 1.02M requests and 25.6K MCP to",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2110989947687637168",
+      "is_kol": false,
+      "score": 316.0
+    },
+    {
+      "id": "2110965605813961074",
+      "author": "MaxForAI",
+      "text": "🚨DeepSeek 成立产品部，急招产品经理和设计师\n\n@deepseek_ai 刚刚将 Harness 团队以及 Web、App、Platform 团队整合成“产品部”，负责公司的所有的产品、设计和研发工作，崔添翼@tianyi 任产品部负责人。\n\n目前急招产品经理和设计师，包括也在招高级别的产品经理。\n\n对于人才画像，如下：\n\n1️⃣产品经理（分两个方向）\n一、AI 产品方向\n负责 DeepSeek 网页端、App 和开放平台的产品策略，从规划、功能设计一路推到上线\n•有从需求到落地的完整交付经验，AI、对话、Agent 类产品经验优先\n•AI 产品",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2110965605813961074",
+      "is_kol": false,
+      "score": 305.0
+    },
+    {
+      "id": "2110951567541018695",
+      "author": "huangyun_122",
+      "text": "感谢 uu 分享的这份 Anthropic 公开 Agent 资料\n\n昨天分享了场失败的 Agent 面试，很多实战问题没发挥好。uu 推荐的这份公开资料，非常全面，我顺手让 grok 做了体系化拆解，大家藏好\n\n—-Anthropic Agent Engineering 知识体系，TLDR; —-\n\nAnthropic Engineering 知识体系提炼（3级目录）\n以下按技术书知识体系，对 https://t.co/pX9Av3FP5T 中工程文章进行结构化整理。一级为知识领域，二级为子主题，三级为具体实践点 + 1-2句实战案例说明。\n1. Ag",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2110951567541018695",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2111029691326898489",
+      "author": "beamnxw",
+      "text": "Official Anthropic tip for Claude Code: Opus 5.5 advises. Sonnet 5.5 builds. Haiku 5.5 investigates\n\nturn Claude Code into your own 3-model engineering team\n\n01 Sonnet 5.5 → the builder\nturns findings into code changes, runs tests, and owns implementation\n\n02 Opus 5.5 → the advis",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2111029691326898489",
+      "is_kol": false,
+      "score": 281.0
+    },
+    {
+      "id": "2111024120385372544",
+      "author": "nestframework",
+      "text": "An MCP server for your NestJS app's production data: give your AI coding agent your releases, errors, traces and issues, so it can debug and fix production bugs.\n\nProduction context, for every agent. NestJS Observe 🔭 \n\nhttps://t.co/7iQ6HDaRHF",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2111024120385372544",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2111050162546352156",
+      "author": "Shahriar661731",
+      "text": "R.I.P. WORKING FOR SOMEONE ELSE.\n\n$100 a day is $3,000 a month.\n$3,000 a month could be your first step toward financial freedom.\nClaude can help you turn a simple skill into an income-generating business.\n\nHere are 5 prompts to get started:",
+      "likes": 29,
+      "views": 0,
+      "url": "https://x.com/i/status/2111050162546352156",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2111001237185605785",
+      "author": "yle43036",
+      "text": "翻 @primus_labs 的 GitHub，看到一个比反复解释 zkTLS 概念更具体的东西：他们把一些常见的 API 查询，写成了可验证的 Skill 示例。\n\n比如读取市场价格、Gas、钱包余额或 Swap 报价。普通工具返回一个数字，使用者往往只能相信它；这些示例则尝试把指定的接口返回字段带进证明流程，再做本地验证。\n\n我比较在意这个细节。以后 Agent 替人查数据、整理方案，甚至参与链上操作，回答得流畅只是第一步。它说“现在的报价是这样”时，能不能交代这次数据从哪个接口来、哪些字段经过验证，才更方便人复查。\n\n还有一个容易被忽略的问题：报价",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2111001237185605785",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2111079307095179354",
+      "author": "xevrion_the1",
+      "text": "Breakscale does this part free and open source.\n\nIt's a real discrete-event simulation, so every number comes from individual simulated requests moving through actual queues, rather than being drawn to look right. The retry storm example is the one nobody believes until they watc",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2111079307095179354",
+      "is_kol": false,
+      "score": 196.0
+    },
+    {
+      "id": "2110992638845624371",
+      "author": "piqi2023",
+      "text": "🎁 Surf AI 一年會員資格抽獎！\n\n想更快掌握市場機會嗎？\n@SurfAIHQ 剛完成了NFT空投，算是非常佛心的大結果!\n雖然大部分人可能都已經有一年的會員了，但還是給想用AI來查詢WEB3項目的朋友們一年資格來嘗試使用!\n\nSurf AI 是一站式的金融市場智慧工具，整合：\n🔹 即時加密貨幣與美股行情\n🔹 40+ 條鏈上數據與錢包追蹤\n🔹 DeFi、巨鯨、Smart Money 與代幣研究\n🔹 社群情緒、新聞與市場敘事分析\n🔹 Deep Research 深度研究報告\n🔹 Surf Studio：用自然語言打造市場 App\n🔹 Surf Ski",
+      "likes": 29,
+      "views": 0,
+      "url": "https://x.com/i/status/2110992638845624371",
+      "is_kol": false,
+      "score": 182.0
+    },
+    {
+      "id": "2110994334333960272",
+      "author": "0xMase",
+      "text": "Your AI agent’s wallet could tell competitors what you’re building.\n\nPayments for data, compute and services leave a public trail. More agent activity means more business information onchain.\n\n@elliptic found a Bitcoin mixer offering an MCP integration, so agents can access it as",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2110994334333960272",
+      "is_kol": false,
+      "score": 151.0
+    }
+  ]
+}
