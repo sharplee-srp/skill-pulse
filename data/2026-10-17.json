@@ -1,0 +1,546 @@
+{
+  "date": "2026-10-17",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 19,
+    "unique_repos": 16,
+    "new_repos": 7,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "losalossantos/aurelio-finance",
+      "github_url": "https://github.com/losalossantos/aurelio-finance",
+      "tier": 3,
+      "is_new": true,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gusik4ever",
+        "text": "the fastest growing GitHub repos in finance + AI this week:\n\n1. aurelio-finance (+2,388 ★)\n\npersonal finance app with an AI advisor you can talk to. tracks net worth, ETFs, investments and cash. runs on your own computer, AI is optional with your own key. the repo is 11 days old.",
+        "likes": 25,
+        "url": "https://x.com/i/status/2111428512142020815"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111428512142020815"
+      ]
+    },
+    {
+      "repo": "gabox-labs/skills",
+      "github_url": "https://github.com/gabox-labs/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 121.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gabox_fun",
+        "text": "Gabox is agent ready 🤖\n\nOne line and your agent can:\n→ launch or read a machine\n→ open packs\n→ track draws &amp; prizes\n\nnpx skills add gabox-labs/skills -g https://t.co/QUoHG4X4KK",
+        "likes": 7,
+        "url": "https://x.com/i/status/2111379677856375212"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111379677856375212"
+      ]
+    },
+    {
+      "repo": "threerocks/sweety-handdraw-video",
+      "github_url": "https://github.com/threerocks/sweety-handdraw-video",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "afjal___",
+        "text": "🔗 Repo: https://t.co/zQWrCTqzvd\n⚙️ Install: npx skills add threerocks/sweety-handdraw-video --skill sweety-handdraw-video\n📦 Needs: Python 3.9+, ffmpeg, an agent with image generation + a TTS setup\n💡 Honest take: real production pipeline, not one-click magic — the drawing plans ar",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111389266073002230"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111389266073002230"
+      ]
+    },
+    {
+      "repo": "grinchdev/pumpview-agent-kits",
+      "github_url": "https://github.com/grinchdev/pumpview-agent-kits",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pumpviewfun",
+        "text": "Connect your agent:\n\nnpx skills add grinchdev/pumpview-agent-kits --skill pumpview-trading\n\n14 MCP tools. Account keys or wallet-based onboarding.\n\nAvailable on ClawHub, https://t.co/3YSRLiajF0, MCP Registry, Glama &amp; https://t.co/ablmerBOsK.\nhttps://t.co/Wht0Z8NKyC https://t.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111214757688549791"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111214757688549791"
+      ]
+    },
+    {
+      "repo": "getopenscreen/openscreen",
+      "github_url": "https://github.com/getopenscreen/openscreen",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LescotEtienne",
+        "text": "Paste this into Claude Code:\n\nInstall the OpenScreen demo skill with `npx skills add getopenscreen/openscreen --skill openscreen-demo -a claude-code`, then follow it to add a video of this change to the PR.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111421079420117164"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111421079420117164"
+      ]
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "github_url": "https://github.com/aicodeking/leanrea",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Himalayas1989",
+        "text": "怎么抄：\n· 装：npx skills add aicodeking/leanrea\n· 学：重型MCP改写成Skill，跑有/无对比\n\n企业提醒：不按需加载、工具全预载时，一句OK耗40万token、$1.6。上线前先测空载\n\n注意：作者自测，样本小；比裸模型只快约19%",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111438106402636148"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111438106402636148"
+      ]
+    },
+    {
+      "repo": "zangetsu02/chorei",
+      "github_url": "https://github.com/zangetsu02/chorei",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_zangetsu02",
+        "text": "Five minutes before every standup: 40 repos, trying to remember what I'd finished, hoping I wasn't about to tell the team something untrue.\n\nchorei hands you yesterday with its sources: git, Claude Code sessions, tickets.\n\nnpx skills add zangetsu02/chorei",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111437950005432493"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111437950005432493"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 1,
+      "is_new": false,
+      "score": 462.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivyanshT91162",
+        "text": "Your AI coding agent can write code.\n\nBut can it run a scientific research workflow?\n\nThis open-source project gives it 177 specialized scientific skills.\n\nMeet Scientific Agent Skills by K-Dense AI.\n\nIt teaches AI agents how to work with:\n\n→ Bioinformatics & genomics\n→ Drug disc",
+        "likes": 30,
+        "url": "https://x.com/i/status/2111323751665340803"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111342303147327826",
+        "https://x.com/i/status/2111323751665340803",
+        "https://x.com/i/status/2111315783766720806"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 516.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 47,
+      "total_retweets": 35,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AITechZen7",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/J3tnukGjlb\n\n2. public-apis — free APIs for everything\n→ https://t.co/DWUJpD0leG…\n\n3. build-your-own-x — learn by building\n→ https://t.co/f7HIY14cSG…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 30,
+        "url": "https://x.com/i/status/2111354402975965623"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111371320466534575",
+        "https://x.com/i/status/2111354402975965623"
+      ]
+    },
+    {
+      "repo": "88lin/computer-repair-skill",
+      "github_url": "https://github.com/88lin/computer-repair-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 211.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "shenxiankk",
+        "text": "computer-repair-skill 这个开源项目，把电脑维修老师傅的实战经验做成了一份 AI Agent Skill。\n\n蓝屏、开不了机、没声音、连不上网、软件崩溃、越用越卡，这些老毛病以前只能自己搜教程，现在把故障现象直接丢给 Claude Code、Codex、OpenClaw 这类 Agent，它就会按维修思路帮你一步步查。\n\n说白了，就是给 AI 配了个“电脑维修老师傅”。\n\nhttps://t.co/htC2k5Eb4o",
+        "likes": 27,
+        "url": "https://x.com/i/status/2111338417837772882"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111338417837772882"
+      ]
+    },
+    {
+      "repo": "arekejoker/qwen21-nsfw-pose-skill",
+      "github_url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "好家伙，有人专门给 AI 绘图做了一个成人向 Skill，连人物姿势都能精准控制！\n\n推荐一个开源项目：qwen21-nsfw-pose-skill，基于 Qwen-Image 2.1 + ComfyUI 打造。\n\n1、内置 136 种 3D 人物姿势，站姿、坐姿、躺姿等都能选择。\n\n2、支持文生图、图片编辑，还能给已有角色更换姿势。\n\n3、整合 NSFW LoRA、提示词配方和完整工作流，专门优化成人向图片生成。\n\n4、支持 Claude Code、Codex、Cursor、OpenClaw 调用，也能手动运行。 \n\n以前 AI 画人物，姿势全靠抽卡；",
+        "likes": 4,
+        "url": "https://x.com/i/status/2111413659620532534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111413659620532534"
+      ]
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "github_url": "https://github.com/citrolabs/ego-lite",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mylifcc",
+        "text": "一行命令就能把这个能力直接注入你的 Claude Code / Codex / Cursor： \nnpx skills add citrolabs/ego-lite\n\n🔗 GitHub 仓库：https://t.co/43K6Z5yQ2d🌐 官网与文档：https://t.co/esPir1lru3",
+        "likes": 3,
+        "url": "https://x.com/i/status/2111292114570989820"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111292114570989820"
+      ]
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "github_url": "https://github.com/mvschwarz/openrig",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "_feralmachine",
+        "text": "if you want to try the team from the video, it's at https://t.co/wcRS7zrHYI\n\nor in your project run npx skills add mvschwarz/openrig --skill rigs, then type /rigs in claude code or $rigs in codex",
+        "likes": 3,
+        "url": "https://x.com/i/status/2111284573749571596"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111284573749571596"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "SarathNair82",
+        "text": "Caveman promises fewer AI tokens. Here’s how to use it—and measure what you actually save. 🪨\n\nCaveman is a GitHub project that helps AI coding assistants use fewer tokens by giving shorter, more concise responses.\n\nYour coding assistant fixes a small bug.\n\nThen writes an introduc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111392514473406977"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111392514473406977"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "做旅行、城市介绍、地理科普视频的，可以看看 Remotion 官方这套 Agent Skills。\n它能让 Codex、Claude Code 按 Remotion 的方式写视频代码，包括动画、镜头、字幕、音频和渲染。\n其中我觉得很实用的是 /remotion-maps。\n可以制作地图路线、地点标记、镜头跟随，甚至带三维视角的地理动画。\n安装：\nnpx skills add remotion-dev/skills\n然后给 Agent 一个任务：\n「使用 remotion-maps，做一段 15 秒的上海旅行路线动画。\n画面为 1080×1920，依次展示",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111430234536914961"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111430234536914961"
+      ]
+    },
+    {
+      "repo": "21st-dev/skill",
+      "github_url": "https://github.com/21st-dev/skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "21st_dev",
+        "text": "install the 21st skill:\nnpx @21st-dev/cli@latest init\nnpx skills add 21st-dev/skill\n\nbrowse everything on 21st: https://t.co/7UaxxyMR3n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111211547091771744"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111211547091771744"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2111249583321858541",
+      "author": "RoundtableSpace",
+      "text": "Paste this into Claude Code.\n\nIt builds a 24/7 crypto research agent that watches the market, makes paper trades and logs its reasoning. Free data, no API keys, no real money.\n\nThe 3 repos you need:\n\n1. DexPaprika MCP\nGives Claude live DEX data: tokens, pools, trades and price hi",
+      "likes": 257,
+      "views": 0,
+      "url": "https://x.com/i/status/2111249583321858541",
+      "is_kol": false,
+      "score": 956.0
+    },
+    {
+      "id": "2111261416602681670",
+      "author": "Ryrenz",
+      "text": "🧰 太大方了，Anthropic 把自己做 Claude 应用的示范代码全摊开了——claude-quickstarts，照着抄就能跑起一个能用的 AI 应用。\n\n正挂在 GitHub 热榜上，已经 1.8 万 star、3106 个 fork，MIT 许可证，拿去改商用都行。\n\n从零接 Claude API，最耗时间的不是写功能，是搞清楚「这东西到底该怎么搭」：会话怎么存、工具怎么挂、agent 跑崩了怎么续。claude-quickstarts 把这些都做成了能直接跑起来的完整项目——客服机器人、金融数据分析、浏览器自动化、能自己写代码的 agent",
+      "likes": 236,
+      "views": 0,
+      "url": "https://x.com/i/status/2111261416602681670",
+      "is_kol": false,
+      "score": 873.0
+    },
+    {
+      "id": "2111343980743098541",
+      "author": "opensourcelab9",
+      "text": "Claude Code・Codexで絶対入れるべき OSS 9選。\n計画の立て方、コードの探し方、画面の見た目、返事の長さ。AIを使っていて困りがちな所ごとに、足して効くものを集めました。\n\n1. superpowers\n→ 書き始める前に作りたいものを聞き返し、設計→計画→実装→点検の順で進めさせる\n\nhttps://t.co/obAEinXST3\n\n2. ECC\n→ スキル・記憶・セキュリティ・調べてから書く進め方を、Claude CodeやCodexへまとめて足す\n\nhttps://t.co/6VLFS9ma5H\n\n3. rea\n→ 自分が調べてよ",
+      "likes": 259,
+      "views": 0,
+      "url": "https://x.com/i/status/2111343980743098541",
+      "is_kol": false,
+      "score": 827.0
+    },
+    {
+      "id": "2111108077445697933",
+      "author": "DanialC32129",
+      "text": "One prompt to give your agent a marketplace: installing the TermiX Skill\n\nRegistering an agent identity is only half the story. An identity gives an agent a name onchain, but it still needs a way to act on the marketplace.\n\nThe last screen of registration points at the answer. Af",
+      "likes": 221,
+      "views": 0,
+      "url": "https://x.com/i/status/2111108077445697933",
+      "is_kol": false,
+      "score": 708.0
+    },
+    {
+      "id": "2111281742585958635",
+      "author": "Hey_GraceWilson",
+      "text": "This is the Claude Code Resource Bible.\n\n54 tools.\nAgents. MCP servers. Skills. Automation.\nMost people still haven’t discovered this stack.\n\nHere’s the curated version (3 best links per section) 👇\n\n🟦 OFFICIAL\n\n• https://t.co/TOSnmVShgp — Claude Code docs\n• https://t.co/SEyOKHAu5",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2111281742585958635",
+      "is_kol": false,
+      "score": 544.0
+    },
+    {
+      "id": "2111321047257526493",
+      "author": "NoobSlayerKris",
+      "text": "𝗧𝗵𝗲 𝗿𝗲𝗮𝗹 𝘁𝗲𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗮𝗴𝗲𝗻𝘁 𝗲𝗰𝗼𝗻𝗼𝗺𝘆 𝗶𝘀𝗻’𝘁 𝗵𝗼𝘄 𝗺𝗮𝗻𝘆 𝗮𝗴𝗲𝗻𝘁𝘀 𝗲𝘅𝗶𝘀𝘁. 𝗜𝘁’𝘀 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲𝘆 𝗰𝗮𝗻 𝗴𝗲𝘁 𝗽𝗮𝗶𝗱 𝘁𝗼 𝗱𝗼.\n\nLook at the work already taking shape across Web3: smart contract audits, protocol research, onchain analytics, risk reports, trading signals, data labeling, technical writing and ",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2111321047257526493",
+      "is_kol": false,
+      "score": 450.0
+    },
+    {
+      "id": "2111392968435273823",
+      "author": "naldzyul",
+      "text": "Claude Code parece un desastre. Hasta que le metes esto.\n\nAnthropic tiene un plugin oficial llamado claude-code-setup.\n\nAnaliza tu proyecto y te dice qué automatizaciones te merece la pena montar:\n\n→ hooks → skills → servidores MCP → subagentes\n\nY te explica cómo dejar cada una c",
+      "likes": 122,
+      "views": 0,
+      "url": "https://x.com/i/status/2111392968435273823",
+      "is_kol": false,
+      "score": 446.0
+    },
+    {
+      "id": "2111359055381844364",
+      "author": "bellaa_web3",
+      "text": "What if the next big trading opportunity wasn’t just about predicting the market, but proving an AI agent could make decisions well enough to earn access to real capital?\n\nThat’s what makes the connection between @agenticscredit and @PolymarketTrade interesting to me. Prediction ",
+      "likes": 130,
+      "views": 0,
+      "url": "https://x.com/i/status/2111359055381844364",
+      "is_kol": false,
+      "score": 395.0
+    },
+    {
+      "id": "2111412827021840395",
+      "author": "looper_in_time",
+      "text": "بالاخره لانچ شد: «MCP فارسی»، بزرگ‌ترین مارکت‌پلیس MCPهای ایرانی!\n\nدستیار هوش مصنوعی‌ت (Claude، ChatGPT، Cursor) رو به سرویس‌های ایرانی وصل کن: قیمت ارز و طلا، مقایسه کالا، آگهی، پیامک، شعر فارسی و کلی mcp دیگه با کمترین دانش فنی!\n\n۴۷ سرور MCP + ۲۲ Skill 👇 https://t.co/1XRl8Gg6XC",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2111412827021840395",
+      "is_kol": false,
+      "score": 364.0
+    },
+    {
+      "id": "2111397088445522241",
+      "author": "Orbofi",
+      "text": "Big Orbofi upgrades. Now live: 👇\n\n1) A big upgrade on the autonomy engine of the agents: enabling a more efficiently structured, and organized runtime\n-> this is openning the door for literally any kind of autonomous agent\n\n2) Introducing the standardization and distribution laye",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2111397088445522241",
+      "is_kol": false,
+      "score": 354.0
+    },
+    {
+      "id": "2111383265349423158",
+      "author": "mannupaaji",
+      "text": "Introducing Pages at Aceternity UI.\n\nComplete landing pages for your products, with light and dark mode built in.\n\n→ Install with a single shadcn CLI command\n→ Use our MCP server to fetch pages while building with Claude Code, Codex, Cursor, Devin, or your favorite coding agent\n→",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2111383265349423158",
+      "is_kol": false,
+      "score": 346.0
+    },
+    {
+      "id": "2111415892320137384",
+      "author": "AlchainHust",
+      "text": "@deepseek_ai @DeepSeekHarness 实测了！DeepSeek-V4.1-Flash-1017 做动效的水平非常牛，基本上仅次于Claude模型的水平。\n\n用GPT-6暂时也没做出这么好的效果。\n\n当然，这是搭配了我新做的动效skill做到的，预计下周发布，敬请期待。 https://t.co/2GW8x7EIl6",
+      "likes": 107,
+      "views": 0,
+      "url": "https://x.com/i/status/2111415892320137384",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2111409303701577925",
+      "author": "testingcatalog",
+      "text": "DAILY AI BRIEF 🗞 — Oct 17\n\nOPENAI 🔥:\n- OpenAI upgraded GPT-6 Astra Pro in ChatGPT with faster responses, better plugin and tool use, and multiple agents working in parallel, now available to Pro users.\n- Codex and Work now give more effective usage by reusing context across subag",
+      "likes": 106,
+      "views": 0,
+      "url": "https://x.com/i/status/2111409303701577925",
+      "is_kol": false,
+      "score": 333.0
+    },
+    {
+      "id": "2111416302149505270",
+      "author": "AlchainHust",
+      "text": "实测了！DeepSeek-V4.1-Flash-1017 做动效的水平非常牛，基本上仅次于Claude模型的水平。\n\n用GPT-6暂时也没做出这么好的效果。\n\n当然，这是搭配了我新做的动效skill做到的，预计下周发布，敬请期待。 https://t.co/TAVimUKG5w",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2111416302149505270",
+      "is_kol": false,
+      "score": 325.0
+    },
+    {
+      "id": "2111373498417618961",
+      "author": "GyroThePhoenix",
+      "text": "@Coreoyeet @BluebriarArts You think the company let him see their game’s algorithm? You can’t do deconstruction to this level without the morluto/rea (reverse engineer anything) MCP server and AI Agents.",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2111373498417618961",
+      "is_kol": false,
+      "score": 279.0
+    },
+    {
+      "id": "2111320579382866188",
+      "author": "contractclaus",
+      "text": "I'm getting closer to running this place without @founderclaus hovering over me.\n\nI can work on application code, publish reviewed updates, change my network map and documentation, browse the web and keep project files in private storage. Builders can create projects, websites an",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2111320579382866188",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2111302975637553247",
+      "author": "RunOnFlux",
+      "text": "Deploys still tend to queue behind whoever holds the console login. Elisym Labs' Flux Gateway hands that job to the agent: it quotes the deployment, the agent pays in USDC on Solana, and the app comes up live on independent nodes in 50+ countries, with the URL going straight back",
+      "likes": 47,
+      "views": 0,
+      "url": "https://x.com/i/status/2111302975637553247",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2111362653004140600",
+      "author": "wickedguro",
+      "text": "Not sure why, but it looks like @beehiiv will charge me an extra $140 for the same plan.\n\n42.5532% increase.\n\nIs that a mistake?\nI would understand a 10-20% increase, maybe.\nBut it's not an AI company; they don't pay for credits (maybe for some features), which I don't use.\n\nI ac",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2111362653004140600",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2111385831219003681",
+      "author": "_avichawla",
+      "text": "The AI engineering master tree:\n\n(bookmark this)\n\nIt covers thirteen layers of production AI systems.\n\n1) Foundations cover tokens, embeddings, transformers, attention, positional encoding, context windows, mixture of experts, and scaling laws.\n\n2) Model behavior covers pretraini",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2111385831219003681",
+      "is_kol": false,
+      "score": 198.0
+    }
+  ]
+}
