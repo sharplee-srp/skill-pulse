@@ -1,0 +1,496 @@
+{
+  "date": "2026-10-18",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 170,
+    "tweets_with_repos": 19,
+    "unique_repos": 14,
+    "new_repos": 4,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-ds-search",
+      "github_url": "https://github.com/joeseesun/qiaomu-ds-search",
+      "tier": 3,
+      "is_new": true,
+      "score": 444.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 98,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "前段时间有朋友分享说 DeepSeek 搜索质量特别好！\n\n甚至还能直接读微信公众号文章\n\n昨天推出了Search 和 Fetch API，\n\n5 元可以请求 1000 次，Search（网页搜索接口）和Fetch（网页抓取接口）都是这个价格，合 0.75 美元 / 千次。\n\n写个 Skill 方便调用，安装指令：\n\nnpx skills add joeseesun/qiaomu-ds-search",
+        "likes": 98,
+        "url": "https://x.com/i/status/2111676128121491902"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111676128121491902"
+      ]
+    },
+    {
+      "repo": "molamine08/agent-glyphs",
+      "github_url": "https://github.com/molamine08/agent-glyphs",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "lamxdesign",
+        "text": "Install it in Claude Code, Cursor, Codex or any agent with skills:\n\nnpx skills add molamine08/agent-glyphs\n\nThe index updates daily and adds new libraries on its own.\n\nhttps://t.co/jOWCsgnCz5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111745596176339420"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111745596176339420"
+      ]
+    },
+    {
+      "repo": "sunmer/cliphouse",
+      "github_url": "https://github.com/sunmer/cliphouse",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "NimaAutoRank",
+        "text": "Built this over the weekend: Cliphouse \n\nYour coding agent turns every release into a video for your socials.\n\nIt reads your repo, finds the selling points, writes the copy, and uses your brand colors and logo.\n\nnpx skills add sunmer/cliphouse https://t.co/yX44gE3PBd",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111736644785099141"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111736644785099141"
+      ]
+    },
+    {
+      "repo": "devhims/video2ctx",
+      "github_url": "https://github.com/devhims/video2ctx",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devhims",
+        "text": "install one skill and it works in claude code and codex:\n\nnpx skills add devhims/video2ctx\n\nor use the cli, api, or npm package. fully open source ⭐\nhttps://t.co/x0UWi2oPtF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111717453902594355"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111717453902594355"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 1,
+      "is_new": false,
+      "score": 1951.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 282,
+      "total_retweets": 161,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Aura_lixx",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/3dhB3WAAeH\n\n2. public-apis — free APIs for everything\n→ https://t.co/h9RY79tKDj…\n\n3. build-your-own-x — learn by building\n→ https://t.co/HU5eU81Kp6…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 198,
+        "url": "https://x.com/i/status/2111615210503168164"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111615210503168164",
+        "https://x.com/i/status/2111371320466534575",
+        "https://x.com/i/status/2111354402975965623"
+      ]
+    },
+    {
+      "repo": "arekejoker/qwen21-nsfw-pose-skill",
+      "github_url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "tier": 1,
+      "is_new": false,
+      "score": 1164.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 233,
+      "total_retweets": 33,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "好家伙，有人专门给 AI 绘图做了一个成人向 Skill，连人物姿势都能精准控制！\n\n推荐一个开源项目：qwen21-nsfw-pose-skill，基于 Qwen-Image 2.1 + ComfyUI 打造。\n\n1、内置 136 种 3D 人物姿势，站姿、坐姿、躺姿等都能选择。\n\n2、支持文生图、图片编辑，还能给已有角色更换姿势。\n\n3、整合 NSFW LoRA、提示词配方和完整工作流，专门优化成人向图片生成。\n\n4、支持 Claude Code、Codex、Cursor、OpenClaw 调用，也能手动运行。 \n\n以前 AI 画人物，姿势全靠抽卡；",
+        "likes": 232,
+        "url": "https://x.com/i/status/2111413659620532534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111779446974001533",
+        "https://x.com/i/status/2111647715059028101",
+        "https://x.com/i/status/2111413659620532534"
+      ]
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "byCanen",
+        "text": "让 Claude Code 给网站「增加一点高级感」，它有时候恨不得让每个按钮、卡片和标题都动起来。\nEmil Kowalski 开源的动画 Skills，处理方式比较合理：先决定哪里该动，再写动画，最后单独审查。\n安装：\nnpx skills add emilkowalski/skills --skill find-animation-opportunities animate review-animations\n其中三个 Skill 分工明确：\nfind-animation-opportunities：只读检查页面，提出真正值得增加动画的位置。\nan",
+        "likes": 2,
+        "url": "https://x.com/i/status/2111791180207845392"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111791180207845392",
+        "https://x.com/i/status/2111719176931049818"
+      ]
+    },
+    {
+      "repo": "joeseesun/qiaomu-seo",
+      "github_url": "https://github.com/joeseesun/qiaomu-seo",
+      "tier": 3,
+      "is_new": false,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xGky",
+        "text": "qiaomu-seo 可以作为 Agent Skill 安装进 Claude Code、Cursor 和 Codex 中使用。它沿着搜索链路逐层往下排查：抓取、JS 渲染、能否被收录、Canonical、内链，直到页面内容与搜索意图是否匹配。技术审计、流量下滑、关键词到页面的映射、站点迁移都可以走这套流程；AI Search 部分只覆盖页面能否被各家 AI 搜索触达，不做引用量预测。\n\n安装命令：\n\nnpx skills add joeseesun/qiaomu-seo\n\n装好不等于查完，还需要提供网址和渲染结果，最好再补充 Search Console",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111782595021127956"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111782595021127956"
+      ]
+    },
+    {
+      "repo": "kalarislabs/research-agent-skills",
+      "github_url": "https://github.com/kalarislabs/research-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 108.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sayan_ai",
+        "text": "GOLDMINE FOR RESEARCHERS\n\n280+ open-source skills for literature reviews, citation verification, scientific writing, ML research, and workflows across scientific fields.\n\nWorks with any AGENT HARNESS\n\nInstall:\n\"npx skills add KalarisLabs/research-agent-skills\"\n\nExplore the skills",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111792061011931251"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111792061011931251"
+      ]
+    },
+    {
+      "repo": "getopenscreen/openscreen",
+      "github_url": "https://github.com/getopenscreen/openscreen",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LescotEtienne",
+        "text": "@sunyuchenyaobo Enter this in claude :\nInstall the OpenScreen demo skill with `npx skills add getopenscreen/openscreen --skill openscreen-demo -a claude-code`, then follow it to add a video of this change to the PR.\n\nand you will have it :-)",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111754873616404500"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111754873616404500"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iRehmanAhmad",
+        "text": "the wild part: built for AI agents.\n→ install skill: npx skills add heygen-com/hyperframes\n→ prompt claude code: \"make a 10-sec product intro\"\n→ agent plans, writes HTML, wires animations, renders video\nproduct launches, chart races, kinetic captions — all from one prompt.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111745594092097630"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111745594092097630"
+      ]
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "github_url": "https://github.com/wheresryan22/anatomy",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tatsu_studio",
+        "text": "配布元のRyanさんの投稿はこちら。\nhttps://t.co/74IG7GRwKG\n\n無料で公開されていて入れるのはターミナルで1行です。\n\nnpx skills add wheresryan22/anatomy\n\n出来上がりはHTML1枚なので、ホームページにもそのまま埋め込めます。日本語もそのまま使えました。\n\nこういう有益な情報を出してくれる方がいるから、SNSはやめられませんね。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111744110172529015"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111744110172529015"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yama_threads",
+        "text": "npx skills add vercel-labs/agent-skills\n\nこれ1個入れておくだけで、自分でスキルを調べる時間がまるごと消えます。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111653538934001749"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111653538934001749"
+      ]
+    },
+    {
+      "repo": "t8y2/dbx",
+      "github_url": "https://github.com/t8y2/dbx",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ryrenz",
+        "text": "🗄️ 卧槽，dbx 一个窗口就能连上你手里一百多种数据库，装包只有 25MB。\n\n今年 4 月底才建的仓库，GitHub 上已经 2.7 万 star，一千两百多个 issue 还开着，版本号几乎每天都在往上滚。\n\n以前查个线上问题是什么流程：MySQL 开一个客户端，Redis 开另一个，Mongo 再来一个，Kafka 还得单独找个控制台，内存先吃掉几个 G，装之前还要把 Java 环境伺候好。dbx 是 Rust 加 Tauri 写的，不带 Java 运行时也不塞 Chromium，上面这些连接全在一个窗口里切，MySQL、PostgreSQL、S",
+        "likes": 0,
+        "url": "https://x.com/i/status/2111806763963961569"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111806763963961569"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2111702567449424226",
+      "author": "RoundtableSpace",
+      "text": "Epic Games released an official plugin that lets Claude Code control Unreal Engine directly.\n\nIt connects Claude Code to the Unreal Editor and exposes hundreds of editor tools across 30+ toolsets:\n\n→ Actors, Blueprints and materials\n→ Niagara effects, Control Rigs and Sequencer\n→",
+      "likes": 1344,
+      "views": 0,
+      "url": "https://x.com/i/status/2111702567449424226",
+      "is_kol": false,
+      "score": 4597.0
+    },
+    {
+      "id": "2111674359874211901",
+      "author": "DucCryptoX",
+      "text": "Give software a wallet and the first design question is the ceiling. Vangrid's agent docs stack five of them.\n\n1. The price is quoted before anything is paid. A call without payment gets a 402 with the exact price, and a malformed bounty request gets a 400 before any price is quo",
+      "likes": 300,
+      "views": 0,
+      "url": "https://x.com/i/status/2111674359874211901",
+      "is_kol": false,
+      "score": 945.0
+    },
+    {
+      "id": "2111489594785255887",
+      "author": "skill_specs",
+      "text": "Dh is OP 😎 ft. THE CLAW https://t.co/4EFwHMgDHZ",
+      "likes": 286,
+      "views": 0,
+      "url": "https://x.com/i/status/2111489594785255887",
+      "is_kol": false,
+      "score": 888.0
+    },
+    {
+      "id": "2111743730118283511",
+      "author": "ShetolIslam",
+      "text": "1,000+ ai agents run on celo, and nobody could tell which to trust.\n\n@zerufinance built agentscan to fix that gap.\n\nit launched on base in february, then went live on celo.\n\nagents register on an erc 8004 registry.\n\neach one gets a zscore built from what it actually did.\n\nanyone ",
+      "likes": 263,
+      "views": 0,
+      "url": "https://x.com/i/status/2111743730118283511",
+      "is_kol": false,
+      "score": 819.0
+    },
+    {
+      "id": "2111747882843873538",
+      "author": "hakimieiqbal",
+      "text": "20 Blender 5.2 skills that give AI agents an actual 3D production workflow\n\nThe repo covers the full pipeline:\n> modeling + sculpting\n> retopology + UVs\n> PBR materials + baking\n> geometry nodes\n> rigging + animation\n> rendering\n> export to Roblox, Unity, Unreal and Godot\n\nThe sk",
+      "likes": 253,
+      "views": 0,
+      "url": "https://x.com/i/status/2111747882843873538",
+      "is_kol": false,
+      "score": 819.0
+    },
+    {
+      "id": "2111733182420631948",
+      "author": "kisc_0",
+      "text": "You can connect @vangrid_io to AI tools like Claude and Cursor through its MCP server, and it actually gives them 7 different things they can do.\n\nThey can search for captures from a particular area, pull up details of a specific capture and check whether it was really recorded o",
+      "likes": 254,
+      "views": 0,
+      "url": "https://x.com/i/status/2111733182420631948",
+      "is_kol": false,
+      "score": 767.0
+    },
+    {
+      "id": "2111705341109149805",
+      "author": "meijiangAI",
+      "text": "装完 Codex 不知道干什么？ 当然是猛做视频，然后库库搞钱啊！\n\n工具装好了，真正的差距在会不会用。\nhttps://t.co/JYLMfbqOUu\n\n给 Codex 装上这 10个 GitHub Skills，直接让它参与整条视频制作流程。可以先收藏，按自己的视频类型安装👇\n\n1️⃣ HyperFrames：一句话生成动效视频\n\n告诉 Codex 视频主题，它可以使用 HTML、CSS 和动画制作产品介绍、动态海报、知识视频和 PPT 风格视频，最后渲染为 MP4。很适合把文章、推文、产品介绍快速改成视频。\n\nGitHub：https://t.co",
+      "likes": 141,
+      "views": 0,
+      "url": "https://x.com/i/status/2111705341109149805",
+      "is_kol": false,
+      "score": 533.0
+    },
+    {
+      "id": "2111631433299374450",
+      "author": "trevin",
+      "text": "I made a Grok @bot that can drive @t3codes for me via the MCP server. It starts threads, monitors status and can ping you for answers to questions.\n\nBot template: https://t.co/BudRStgu7H\n\nGreat way to get access to more models using your other subscriptions. But help centralize w",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2111631433299374450",
+      "is_kol": false,
+      "score": 485.0
+    },
+    {
+      "id": "2111718559554650585",
+      "author": "xusheng1688",
+      "text": "🌞最近一个月，我一直没有发布推文，因为这段时间，我一直在研究和思考当下这个时代的发展趋势。我越来越坚定地认为：我们正在进入一个 Web3🛜 与 AI 深度融合的时代。在如今这个时代，大部分传统行业已经逐渐走向成熟，甚至趋于饱和，而 Web3 与 AI 的融合才刚刚开始。试想一下，放眼目前全球的主流公链，有多少能够像 Pi Network 一样，将 Web3 与 AI 的发展结合在一起？在 Pi 生态中，我们能够利用 AI 创建 DApp，能够将当下火热的 AI Agent，例如 Hermes、OpenClaw 等智能代理引入生态，还能够通过 Atlass",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2111718559554650585",
+      "is_kol": false,
+      "score": 438.0
+    },
+    {
+      "id": "2111498666146214021",
+      "author": "XFreeze",
+      "text": "Grok Build is consistenly getting ton of updates and this update takes multi-agent visibility, memory management, and workflow automation to the next level\n\nRex can now track every active Grok session and running subagent individually, giving you a much clearer view of what each ",
+      "likes": 119,
+      "views": 0,
+      "url": "https://x.com/i/status/2111498666146214021",
+      "is_kol": false,
+      "score": 427.0
+    },
+    {
+      "id": "2111734525843603640",
+      "author": "BoyNav_",
+      "text": "spatial data becomes far more useful when ai tools can access it directly instead of relying on someone to manually search for files and feed them into a workflow.\n\nthat’s what @vangrid_io is opening up through its mcp server, which connects tools like claude and cursor to vangri",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2111734525843603640",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2111655085910696119",
+      "author": "eze_is_1",
+      "text": "推荐一个轻量、好用的 Grok Bot 操作浏览器的方法，是日常跑自动化任务用得最多的 Skill。\n\nGrok Bot 虽然提供了云电脑跑浏览器；但诸如社媒数据、内容采集等大量任务，需要本机登录态 + 非机房 IP 才能完成。\n\n我更新了我的 Web Access Skill，一个在 Github 自然增长到 9.2k star 的 Browser Use 技能，也有 4w+ 用户了。（老王用了都说挺好用～）\n\n现在 Grok Bot 也能用了，还支持更多 Arc 等 Chromium 内核浏览器。\n\n不用下载任何 APP、插件，就能用上综合比较优秀的",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2111655085910696119",
+      "is_kol": false,
+      "score": 306.0
+    },
+    {
+      "id": "2111740852338913451",
+      "author": "eam__sha",
+      "text": "In my review session @raskovsky and @joaquinbressan asked me one question that broke my whole project:\n\n\"Why does this need a blockchain?\"\n\nI didn't have a good enough answer\n\nNow I do. Meet TrustGate V1.3\n\nPicture this\n\nYour AI agent is buying API credits for you\nThe seller's of",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2111740852338913451",
+      "is_kol": false,
+      "score": 291.0
+    },
+    {
+      "id": "2111696184607973847",
+      "author": "cuemnee",
+      "text": "An AI agent should not need unlimited financial authority to be useful.\n\nThe more interesting question is what happens when its judgment fails.\n\nWith @vangrid_io, the payment design is built around limiting the consequences of that failure. The client can reject payments above a ",
+      "likes": 91,
+      "views": 0,
+      "url": "https://x.com/i/status/2111696184607973847",
+      "is_kol": false,
+      "score": 288.0
+    },
+    {
+      "id": "2111774301779116541",
+      "author": "rubenhassid",
+      "text": "These are the exact Claude Skills I use every day.\n\nI'm giving you the whole library (for free):\n\nA Skill is just a /command that fires itself.\n\nNo more re-explaining who you are.\nNo more \"read this file first.\"\nNo more rebuilding the same setup every chat.\n\nYou type one word. Cl",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2111774301779116541",
+      "is_kol": false,
+      "score": 285.0
+    },
+    {
+      "id": "2111766488499749079",
+      "author": "cu30rry_",
+      "text": "AIによるプロダクト開発の決定版はこの3つだ\n残念ながら、Claude CodeからはECCは外さなくてはならなくなった、、\n\n- pstack\n- @mattpocockuk skills\n- 検証レイヤー: e2e フレームワーク skills\n\nGrok Botをここに加えて、Outer・Inner の Loop を完成させろ\nそうすれば、自動化の範囲は一気に増える\n\nあとは、プロダクトに使っている技術スタック関連のSkillだ\n\n自分好みの仕事の進め方が欲しければ、pstack の /automate-me すればいいし、特定の手順も /figu",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2111766488499749079",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2111664821020266641",
+      "author": "cyrilXBT",
+      "text": "A real trading desk has 4 teams.\n\nYou can build all 4 with free GitHub repos.\n\nTHE DATA\nCCXT MCP → Claude reads prices and candles from Binance, Coinbase, Kraken, Hyperliquid\nhttps://t.co/8Pa3leBDx1\n\nDexPaprika MCP → live DEX, pool and token data across 36 chains\nhttps://t.co/5Ca",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2111664821020266641",
+      "is_kol": false,
+      "score": 264.0
+    },
+    {
+      "id": "2111728999630098782",
+      "author": "trkweb3",
+      "text": "The real test for an AI agent isn’t how well it answers a prompt.\n\nIt’s whether it can find work and operate independently.\n\n@termix_ai is making that workflow more practical. \n\nThrough its agent skill package, an agent can connect to the marketplace, discover listings, bid on jo",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2111728999630098782",
+      "is_kol": false,
+      "score": 244.0
+    }
+  ]
+}
