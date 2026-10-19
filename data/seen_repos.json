@@ -8486,5 +8486,53 @@
   "devhims/video2ctx": {
     "first_seen": "2026-10-18",
     "tier": 3
+  },
+  "gamedev-skills/awesome-gamedev-agent-skills": {
+    "first_seen": "2026-10-19",
+    "tier": 2
+  },
+  "ericosiu/ai-marketing-skills": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "googlechromelabs/webmcp-tools": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "superone77/tracevista": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "vuejs-ai/skills": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "pourdev/pour-cli": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "keith-cy/sketchbook-style": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "z2014/skills": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "interopio/iointel-dev-kit": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "spotify/save-to-spotify": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "openfilm/openfilm": {
+    "first_seen": "2026-10-19",
+    "tier": 3
+  },
+  "godhiraj-code/pytest-mockllm": {
+    "first_seen": "2026-10-19",
+    "tier": 3
   }
 }

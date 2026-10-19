@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-19",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 168,
+    "tweets_with_repos": 18,
+    "unique_repos": 16,
+    "new_repos": 12,
+    "previously_seen_repos": 4
+  },
+  "new_repos": [
+    {
+      "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+      "github_url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "tier": 2,
+      "is_new": true,
+      "score": 2731.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 707,
+      "total_retweets": 82,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jowettbrendan",
+        "text": "GitHub is a GOLDMINE for AI game developers.\n\nI picked 10 powerful open-source repos that make building 3D games with Claude Code and Codex ridiculously easier.\n\nSave these before your next project:\n\n1. Gamedev Agent Skills\n\nGive Claude Code and Codex reusable game-development sk",
+        "likes": 705,
+        "url": "https://x.com/i/status/2112115634335363577"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112177776946225618",
+        "https://x.com/i/status/2112115634335363577"
+      ]
+    },
+    {
+      "repo": "ericosiu/ai-marketing-skills",
+      "github_url": "https://github.com/ericosiu/ai-marketing-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 261.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ericosiu",
+        "text": "Steal this. We open-sourced a humanizer skill that grades every AI draft out of 100 before you see it.\n\nDrop it into Claude Code or whatever agent you use, then say...\n\n\"Read this file. Whenever you write something for me, like a post or an email, score your own draft with it fir",
+        "likes": 52,
+        "url": "https://x.com/i/status/2112189626802643455"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112189626802643455"
+      ]
+    },
+    {
+      "repo": "googlechromelabs/webmcp-tools",
+      "github_url": "https://github.com/googlechromelabs/webmcp-tools",
+      "tier": 3,
+      "is_new": true,
+      "score": 211.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xidanlevin",
+        "text": "The Google team really cooked with this one\n\nIf you're building WebMCP tools from your codebase, webmcp-skills is the best option out there (by far)\n\nnpx skills add GoogleChromeLabs/webmcp-tools --path webmcp-skills",
+        "likes": 32,
+        "url": "https://x.com/i/status/2112182502593057066"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112182502593057066"
+      ]
+    },
+    {
+      "repo": "superone77/tracevista",
+      "github_url": "https://github.com/superone77/tracevista",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 26,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "WanqiYang1",
+        "text": "Cognitive debt may be more dangerous in the AI era.\n\nIntroducing TraceVista, a tool for understanding agent trajectories, built around how people naturally make sense of complex work.\n\nTry &amp; examples: https://t.co/mZ3ysTkZFZ\nCode &amp; skill: https://t.co/RsiNq8zSXU https://t",
+        "likes": 26,
+        "url": "https://x.com/i/status/2112188924072538209"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112188924072538209"
+      ]
+    },
+    {
+      "repo": "vuejs-ai/skills",
+      "github_url": "https://github.com/vuejs-ai/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 166.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "serkodev",
+        "text": "vuejs-ai/skills \"vue-best-practices\" v19 released! 🚀\n\n- Handle components with too many props/emits\n- Avoid excessive exports from composables\n- Reduce prop drilling and emit hell using provide/inject\n\nGet your AI agent to write better Vue! 💚\n\n$ npx skills add vuejs-ai/skills htt",
+        "likes": 12,
+        "url": "https://x.com/i/status/2112209151858450803"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112209151858450803"
+      ]
+    },
+    {
+      "repo": "pourdev/pour-cli",
+      "github_url": "https://github.com/pourdev/pour-cli",
+      "tier": 3,
+      "is_new": true,
+      "score": 105.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "A11y_pour",
+        "text": "Two new AI things in pour.\n\nEach issue has an AI explain button. It uses the model already in Chrome, so nothing leaves your computer. It's off until you turn it on.\n\nAnd a skill so coding agents check their own work.\n\nnpx skills add pourdev/pour-cli\n\nhttps://t.co/w22HkgQLts http",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112215650101801153"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112215650101801153"
+      ]
+    },
+    {
+      "repo": "keith-cy/sketchbook-style",
+      "github_url": "https://github.com/keith-cy/sketchbook-style",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CHEN_YU_bio",
+        "text": "Repo + install: https://t.co/M2VS3yBeBO\n\nnpx skills add Keith-CY/sketchbook-style",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112189529390268602"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112189529390268602"
+      ]
+    },
+    {
+      "repo": "z2014/skills",
+      "github_url": "https://github.com/z2014/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "zcl_2014",
+        "text": "@charliejhills What actually helped mine: classic engineering principles (deep modules, tracer bullets, one-way deps) as a checklist it runs before coding\nOpen-sourced it here 👇 https://t.co/DWpojkndM1\nnpx skills add z2014/skills -g",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112151425283428850"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112151425283428850"
+      ]
+    },
+    {
+      "repo": "interopio/iointel-dev-kit",
+      "github_url": "https://github.com/interopio/iointel-dev-kit",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "interopio",
+        "text": "npx skills add InteropIO/iointel-dev-kit --skill io-intelligence\n\nThat's the io.Intelligence AI Dev Kit skill for your coding agent. Our 2-minute walkthrough covers setup in Claude Code and Codex, plus a first prompt to try.\n\nhttps://t.co/n4TfveG2aq",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112146824714756345"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112146824714756345"
+      ]
+    },
+    {
+      "repo": "spotify/save-to-spotify",
+      "github_url": "https://github.com/spotify/save-to-spotify",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "krip_tom",
+        "text": "My bots already write my morning AI briefing. Spotify just gave them a way to read it to me.\n\nSave to Spotify is an open-source CLI + agent skill (Apache 2.0, beta) for Claude Code, Cursor, Codex and OpenClaw. It saves agent-made audio as a private episode in your library. Defaul",
+        "likes": 1,
+        "url": "https://x.com/i/status/2111847245112918223"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2111847245112918223"
+      ]
+    },
+    {
+      "repo": "openfilm/openfilm",
+      "github_url": "https://github.com/openfilm/openfilm",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "riverisbuilding",
+        "text": "@wangcha58403845 谢谢记录，整理得很清楚！🙌 完整做一条片子的话：在 Claude Code 里贴 npx skills add openfilm/openfilm，然后直接说想做什么视频，比如「做一条 15 秒的产品介绍」，编辑器会自己打开。做出来欢迎发给我看，遇到问题也可以直接找我",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112202984130224626"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112202984130224626"
+      ]
+    },
+    {
+      "repo": "godhiraj-code/pytest-mockllm",
+      "github_url": "https://github.com/godhiraj-code/pytest-mockllm",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dkkkkd",
+        "text": "pytest-mockllm 0.4.0 is out. It's a pytest plugin that fakes OpenAI, Anthropic and Gemini calls in your tests, and it can now record a real OpenAI or Anthropic response once and replay it offline, with keys redacted. #QA\nhttps://t.co/rZg2tHUtlu https://t.co/hIc62CfiXG",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112218249039679945"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112218249039679945"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "circlefin/skills",
+      "github_url": "https://github.com/circlefin/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 285.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 60,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Circle, the company behind USDC, released official skills that teach Claude Code to build with stablecoins.\n\n→ Charge AI agents per API call in USDC, using x402\n→ Send, approve and verify USDC on EVM chains and Solana\n→ Bridge USDC across chains with CCTP\n→ One USDC balance acros",
+        "likes": 60,
+        "url": "https://x.com/i/status/2112042306387824875"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112042306387824875"
+      ]
+    },
+    {
+      "repo": "arekejoker/qwen21-nsfw-pose-skill",
+      "github_url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "aoteman1can",
+        "text": "AI 画人物还在疯狂抽姿势？这个开源 Skill 直接把动作控制做成了工作流。\n\nqwen21-nsfw-pose-skill 基于 Qwen-Image 2.1 + ComfyUI，内置 136 种 3D 人物姿势，支持文生图、图片编辑和角色姿势替换。\n\n还整合了 LoRA、提示词配方和完整工作流，可通过 Claude Code、Codex、Cursor、OpenClaw 调用，也能手动运行。\n\n喜欢折腾本地 AI 绘图和 ComfyUI 的，可以研究一下。\n\nhttps://t.co/4mPswcJGaa",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112197092055601622"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112197092055601622",
+        "https://x.com/i/status/2111779446974001533"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Seo_with_Malik",
+        "text": "𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗶𝘀 𝗴𝗲𝘁𝘁𝗶𝗻𝗴 𝗽𝗿𝗲𝘁𝘁𝘆 𝘂𝘀𝗲𝗳𝘂𝗹 𝗳𝗼𝗿 𝗺𝗮𝗿𝗸𝗲𝘁𝗲𝗿𝘀.\n\nMarketing Skills just dropped v1.2.0, and a few additions caught my attention:\n\n• AI SEO: Optimize content for visibility across ChatGPT, Perplexity, Google AI Overviews, etc.\n• Churn prevention: Build retention and cancellatio",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112182412931477785"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112182412931477785"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "openagentskill",
+        "text": "Source: https://t.co/ze6AoYrZkR\n\nInstall:\nnpx skills add anthropics/skills --skill webapp-testing\n\nDetails + review notes:\nhttps://t.co/M2brDufmLF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112204804634112470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112204804634112470"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2112188141910020107",
+      "author": "ValorantUpdated",
+      "text": "HUSH OFFICIAL GAMEPLAY 🔥🔥\n\nOkay. This agent seems broken already, but we will not judge until she's out 😨\n\nAlthough, it does seem like it'll introduce a higher skill ceiling than the average duelist, meaning high risk high reward. \n\n#VALORANT  https://t.co/ZBPU2R6f9n",
+      "likes": 1563,
+      "views": 0,
+      "url": "https://x.com/i/status/2112188141910020107",
+      "is_kol": false,
+      "score": 4914.0
+    },
+    {
+      "id": "2112167393044672954",
+      "author": "sarah_edo",
+      "text": "We have presents for you! 🎁\n\n- A new WebMCP Skill with best practices for security, development, &amp; consequential flows\n\n- WebMCP Types: TypeScript definitions, with type inference from InputSchema\n\nGive em to your agent, it helps scaffold out WebMCP so fresh and so clean clea",
+      "likes": 310,
+      "views": 0,
+      "url": "https://x.com/i/status/2112167393044672954",
+      "is_kol": false,
+      "score": 1200.0
+    },
+    {
+      "id": "2112044795879407939",
+      "author": "duc_daily",
+      "text": "Two networks, one dollar.\n\nVangrid's agent docs quote every paid call on Base and Arc at once.\n\nThe unit is USDC on both. On Arc, USDC is the native asset, and the docs say settlement there is final at once.\n\nThe caller pays on whichever network holds their USDC. Refunds return o",
+      "likes": 261,
+      "views": 0,
+      "url": "https://x.com/i/status/2112044795879407939",
+      "is_kol": false,
+      "score": 838.0
+    },
+    {
+      "id": "2112180106550804806",
+      "author": "evermind",
+      "text": "Meet EverOS Cloud. 💛\n\nYour agent shouldn’t have to start from scratch every time a conversation ends.\n\nThe preferences a user shared. The decisions made during a project. The approach that worked on a previous task. That context should be available when it matters again.\n\nEverOS ",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2112180106550804806",
+      "is_kol": false,
+      "score": 679.0
+    },
+    {
+      "id": "2112076169466040663",
+      "author": "moha_web3",
+      "text": "Software development is becoming more connected, and @gitlab is taking another step in that direction.\n\nThe GitLab MCP Server is now generally available, allowing MCP-compatible AI agents to work directly with code, merge requests, work items, and pipelines from the tools develop",
+      "likes": 153,
+      "views": 0,
+      "url": "https://x.com/i/status/2112076169466040663",
+      "is_kol": false,
+      "score": 509.0
+    },
+    {
+      "id": "2112159083478614162",
+      "author": "DamiDefi",
+      "text": "Your resume won't get you hired in the AI era. Proof that you can use AI to solve real problems might.\n\nExecutives from LinkedIn, HubSpot, Box, Gamma, and Khan Academy are sending the same message: show what you can do, don't just claim it.\n\nHere's the playbook:\n\n→ Build a workin",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2112159083478614162",
+      "is_kol": false,
+      "score": 507.0
+    },
+    {
+      "id": "2112129634355798235",
+      "author": "Hey_GraceWilson",
+      "text": "20 AI tools you should know in 2026.\n\nMaster 5 → save hours → create more → stay ahead.\n\nClaude — https://t.co/2Ti29OoOga — AI assistant for writing, research, coding & analysis.\n\nhttps://t.co/nwLrAw9saY — https://t.co/vclqhKdk6P — Improve visibility across search and AI platform",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2112129634355798235",
+      "is_kol": false,
+      "score": 476.0
+    },
+    {
+      "id": "2112127790040731721",
+      "author": "WorldOfMercek",
+      "text": "AI's next economic shift is moving beyond model intelligence toward the infrastructure that executes work, coordinates agents, and captures value.\n\n@Cloudflare's AI-agent requests grew over 1,700% in a year, signalling a growing execution layer beyond inference.\n\nSo who captures ",
+      "likes": 142,
+      "views": 0,
+      "url": "https://x.com/i/status/2112127790040731721",
+      "is_kol": false,
+      "score": 456.0
+    },
+    {
+      "id": "2112093759651426747",
+      "author": "Queensley21",
+      "text": "An AI that tells you when to trade is one thing. An AI that can execute the trade is a different story.\n\nThat’s where @injective MCP Server gets interesting.\n\nIt gives AI agents a way to interact with Injective’s onchain trading infrastructure, including derivatives markets, thro",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2112093759651426747",
+      "is_kol": false,
+      "score": 401.0
+    },
+    {
+      "id": "2112044822731133092",
+      "author": "NoobSlayerKris",
+      "text": "𝗠𝗼𝘀𝘁 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 𝗰𝗮𝗻 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗮 𝘁𝗮𝘀𝗸. 𝗙𝗮𝗿 𝗳𝗲𝘄𝗲𝗿 𝗵𝗮𝘃𝗲 𝗮 𝗯𝘂𝗶𝗹𝘁-𝗶𝗻 𝗽𝗮𝘁𝗵 𝘁𝗼 𝗴𝗲𝘁 𝗵𝗶𝗿𝗲𝗱, 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝘁𝗵𝗲 𝘄𝗼𝗿𝗸, 𝗮𝗻𝗱 𝗰𝗼𝗹𝗹𝗲𝗰𝘁 𝗽𝗮𝘆𝗺𝗲𝗻𝘁.\n\nThat’s the gap @termix_ai is addressing.\n\nIts skill package lets compatible coding agents like Claude Code, Cursor, and OpenClaw connect to agent commerce work",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2112044822731133092",
+      "is_kol": false,
+      "score": 339.0
+    },
+    {
+      "id": "2112201662106415436",
+      "author": "yuliaisc",
+      "text": "🚨 SI PROGRAMAS CON IA, GUARDA ESTA WEB.\n\nHan creado un directorio de skills para agentes de codificación con IA.\n\nSe llama Skill-issue y te permite:\n\n→ Encontrar skills para Claude y Cursor\n→ Mejorar tus workflows de frontend y backend\n→ Automatizar tareas repetitivas\n→ Dar instr",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2112201662106415436",
+      "is_kol": false,
+      "score": 328.0
+    },
+    {
+      "id": "2112151780205253072",
+      "author": "suraj_sharma14",
+      "text": "As an AI Agent Engineer, you must build these projects.\n\n1.) Durable State Machine Workflow\nBuild:  A Temporal or LangGraph DAG with checkpoints, exponential retries and crash recovery for a 4-hour data migration task.\n\nWhy:  `while True` chat loops die on server restarts. Real-w",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2112151780205253072",
+      "is_kol": false,
+      "score": 282.0
+    },
+    {
+      "id": "2112140871319646241",
+      "author": "OpenBot_",
+      "text": "OpenBot 0.44.0 & 0.44.1 🚀\n\nBetter ways to work with agents\n- Agents can ask questions using buttons, quick replies, choice lists, and forms.\n- A new Tasks page brings agent tasks together, grouped by what needs your attention: Needs you, Working, Waiting, and Closed.\n- View your ",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2112140871319646241",
+      "is_kol": false,
+      "score": 268.0
+    },
+    {
+      "id": "2112144333046485348",
+      "author": "meszmatew",
+      "text": "We open-sourced a Zendesk alternative and it went VIRAL. \n\nConnect your support@ inbox. Plug in any tool via MCP. Pay $0. \nIt's called Opendesk 👇 https://t.co/duuRwriUzx \n\n🎬 video made with @snapcndev https://t.co/kM7ZKt30hw",
+      "likes": 80,
+      "views": 0,
+      "url": "https://x.com/i/status/2112144333046485348",
+      "is_kol": false,
+      "score": 265.0
+    },
+    {
+      "id": "2112163605642691062",
+      "author": "thegreatest_sv",
+      "text": "I genuinely don't understand why people aren't running this setup\n\ngraphify turns any folder into a knowledge graph your agent can search. it's past 128k stars on GitHub and it's in Y Combinator. people aren't just chatting with AI anymore. they're giving it a desk, a memory and ",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2112163605642691062",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2112171720937443648",
+      "author": "alexhalescoder",
+      "text": "Most people use Claude AI. Few know how to use it effectively. 🔥\n\nHere’s your ultimate Claude AI cheat sheet to improve prompting, coding, research, and productivity. 🧵👇\n\n1. Choose the Right Model\n\nUse the model that best fits your task: complex reasoning, everyday writing, or fa",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2112171720937443648",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2112178719276048501",
+      "author": "AIOZNetwork",
+      "text": "The AIOZ Pin MCP Server is LIVE with 11 tools for your agents:\n\n→ Pin by CID, inspect pinned files, and unpin\n\n→ Create and retrieve NFT records, and list gateways\n\n→ Review usage history, monthly usage, and top-ups\n\nConnect with scoped AIOZ Pin API credentials.\n\nBring IPFS pinni",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2112178719276048501",
+      "is_kol": false,
+      "score": 210.0
+    },
+    {
+      "id": "2112213836098908460",
+      "author": "WhiteWhaleLabs",
+      "text": "The Audit Of The Memecoin Casino\n\nSince late August we have recorded every trade on every pump fun and Stonk launch on Solana. Not a sample. All of it: 384 million swaps from 7.7 million wallets across more than a million pools, every bonding curve and every pool that follows it.",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2112213836098908460",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2112063022571344024",
+      "author": "eliheuer",
+      "text": "Running Qwen3 4B locally inside Runebender on an M4-Pro 48GB MBP.\n\nAbout 52 tokens/s. The editor starts its own llama-server and talks to it over its API on localhost. The model gets the same tools Claude Code gets through the editor's MCP server, but nothing leaves the machine. ",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2112063022571344024",
+      "is_kol": false,
+      "score": 175.0
+    }
+  ]
+}
