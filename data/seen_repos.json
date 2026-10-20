@@ -8534,5 +8534,49 @@
   "godhiraj-code/pytest-mockllm": {
     "first_seen": "2026-10-19",
     "tier": 3
+  },
+  "robbietilton/compositor": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "withmarbleapp/os-taxonomy": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "susanacharya/design-lounge": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "osint-experts-society/consensus-osint": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "invariantlabs-ai/invariant": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "marycache/imozuru": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "0xvikram/backboard-skills": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "google-research/harness2": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "codiume/skills": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "alchaincyf/huashu-motion": {
+    "first_seen": "2026-10-20",
+    "tier": 3
+  },
+  "venthewise/frame-motion": {
+    "first_seen": "2026-10-20",
+    "tier": 3
   }
 }

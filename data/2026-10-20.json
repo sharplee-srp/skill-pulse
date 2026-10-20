@@ -1,0 +1,640 @@
+{
+  "date": "2026-10-20",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 173,
+    "tweets_with_repos": 23,
+    "unique_repos": 21,
+    "new_repos": 11,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "robbietilton/compositor",
+      "github_url": "https://github.com/robbietilton/compositor",
+      "tier": 3,
+      "is_new": true,
+      "score": 321.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 62,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "slashui",
+        "text": "GitHub 上一堆免费好东西，几乎没人讨论\n\n本月爆火的 10 个仓库，从最简单到最硬核：\n\n人人都能用的\n\n1. Compositor：Mac 上免费开源的 Photoshop 替代品（16.4K ⭐）\n作者嫌 Photoshop 太贵、GIMP 用不顺手，干脆自己做了一个。图层、蒙版、调整图层、图层样式、内容识别填充、修复画笔、仿制图章、Camera Raw 滤镜都有。能直接打开 PSD 文件，快捷键也和 Photoshop 一致，老用户几乎零学习成本。项目文件就是一个装着 PNG 图层的文件夹，AI 代理可以直接读写编辑。\n⚠️ 只支持 macO",
+        "likes": 62,
+        "url": "https://x.com/i/status/2112446661691633885"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112446661691633885"
+      ]
+    },
+    {
+      "repo": "withmarbleapp/os-taxonomy",
+      "github_url": "https://github.com/withmarbleapp/os-taxonomy",
+      "tier": 3,
+      "is_new": true,
+      "score": 297.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "SAVE THIS: 4 new GitHub repos worth bookmarking\n\n1. Marble Skill Taxonomy (6.1K stars)\nA free map of what kids learn in primary school: 1,591 topics across 8 subjects, each linked to what it builds on and to curriculum standards.\nhttps://t.co/UonUhJM08Z\n\n2. Aurelio (4K stars)\nA p",
+        "likes": 54,
+        "url": "https://x.com/i/status/2112314096947179749"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112314096947179749"
+      ]
+    },
+    {
+      "repo": "susanacharya/design-lounge",
+      "github_url": "https://github.com/susanacharya/design-lounge",
+      "tier": 3,
+      "is_new": true,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nasusanooo",
+        "text": "your ai agent ships the same page every time 😮‍💨 so i gave it design taste. one command, then just say what you're making. 500+ live pieces, free\n\nnpx skills add SusanAcharya/Design-Lounge\n\nhttps://t.co/r22Rfa6SbK 🎨 https://t.co/PMy3FVQp8z",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112516462841864529"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112516550095970591",
+        "https://x.com/i/status/2112516462841864529"
+      ]
+    },
+    {
+      "repo": "osint-experts-society/consensus-osint",
+      "github_url": "https://github.com/osint-experts-society/consensus-osint",
+      "tier": 3,
+      "is_new": true,
+      "score": 186.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "the_OSINT_rack",
+        "text": "Consensus-OSINT\n\nUnified OSINT tool aggregating 7,900+ username, email, and phone lookup modules from 19 projects, delivering enriched results, evidence graphs, and MCP integration for comprehensive investigations.\n\nhttps://t.co/UmqSoKOFQ7 https://t.co/9ewgFvd8tE",
+        "likes": 22,
+        "url": "https://x.com/i/status/2112467811473773018"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112467811473773018"
+      ]
+    },
+    {
+      "repo": "invariantlabs-ai/invariant",
+      "github_url": "https://github.com/invariantlabs-ai/invariant",
+      "tier": 3,
+      "is_new": true,
+      "score": 181.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mr_kozh",
+        "text": "HOLY SH*T. SPACEXAI JUST LISTED 56 JOBS YOU CAN HAND TO GROK BOT.\n\nacross those workflows, bots can work with inboxes, calendars, CRMs, expense data, vendor portals and engineering systems.\n\nthat isn’t just automation.\n\nit’s a completely new security perimeter.\n\n20 GitHub repos t",
+        "likes": 27,
+        "url": "https://x.com/i/status/2112468959748604271"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112468959748604271"
+      ]
+    },
+    {
+      "repo": "marycache/imozuru",
+      "github_url": "https://github.com/marycache/imozuru",
+      "tier": 3,
+      "is_new": true,
+      "score": 157.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "The CLAUDE file that /init writes for you makes agents 𝘀𝗽𝗲𝗻𝗱 𝟮𝟬%+ 𝗺𝗼𝗿𝗲 𝗼𝗻 𝗮𝘃𝗲𝗿𝗮𝗴𝗲, and they get no better at solving tasks. Hand-written ones barely do better: they help other agents a little, and 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗼𝗻𝗲 𝘁𝗵𝗮𝘁 𝗱𝗼𝗲𝘀𝗻'𝘁 𝗶𝗺𝗽𝗿𝗼𝘃𝗲.\n\nIn testing, randomly picked rules wor",
+        "likes": 19,
+        "url": "https://x.com/i/status/2112521715075133558"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112521715075133558"
+      ]
+    },
+    {
+      "repo": "0xvikram/backboard-skills",
+      "github_url": "https://github.com/0xvikram/backboard-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vikram_twt",
+        "text": "welcome to Backboard, @namespace_eth 🙌\n\non the ENS track at ETHGlobal Mumbai? give every user a name like alice.yourapp.eth, gasless.\n\nteach your AI Namespace in one line:\nnpx skills add 0xvikram/backboard-skills --skill namespace-53d629 https://t.co/bbrE2qDbin",
+        "likes": 4,
+        "url": "https://x.com/i/status/2112414877348487480"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112414877348487480"
+      ]
+    },
+    {
+      "repo": "google-research/harness2",
+      "github_url": "https://github.com/google-research/harness2",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "stometaverse",
+        "text": "Google 开源的 Harness²，模型权重一个不动，只改模型外面那圈东西，分数照样涨\n\n一轮优化，GLM-5 跑在 OpenCode 里，WorkBuddy-Bench 从 64.2 到 75.7，比没优化的 Gemini 3.5 Flash（72.4）还高。涨得最少的一组是 GLM-5 + Codex 跑 JobBench，只多了 1.2 分\n\n它能改的是 8 个文件：system prompt、guardrails、memory、tool guidance、subagents、skills、scripts、plugins。每个任务先用原始 ha",
+        "likes": 3,
+        "url": "https://x.com/i/status/2112521988262498354"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112521988262498354"
+      ]
+    },
+    {
+      "repo": "codiume/skills",
+      "github_url": "https://github.com/codiume/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "mhdcode",
+        "text": "npx skills add codiume/skills --skill lockin",
+        "likes": 2,
+        "url": "https://x.com/i/status/2112484608965308800"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112484608965308800"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-motion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kunal_twts",
+        "text": "huashu-motion\n\ntell your agent \"make a 30-second launch film for my product\" → it reads your site, pitches 3 directions, then builds the film AND scores the music\n\nhate a frame? click it, type the fix, it edits only that part\n\nnpx skills add alchaincyf/huashu-motion\n\ncatch: only ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112461317705789491"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112461317705789491"
+      ]
+    },
+    {
+      "repo": "venthewise/frame-motion",
+      "github_url": "https://github.com/venthewise/frame-motion",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "venthewise",
+        "text": "Claude motion is freakin amazing! But what if you're not a claude user?\n\nI didn't wanna leave @grok but I got jealous.\n\nSo I made 'frame-motion'. This agent skill does the same job for free, in any AI agent: Codex, Cursor, Gemini, Grok, Claude, or whatever you're cheating on them",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112529266453659714"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112529266453659714"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "tourmind-com/tourmind-booking-skills",
+      "github_url": "https://github.com/tourmind-com/tourmind-booking-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 209.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MasonScottt_",
+        "text": "just send this to your agent to install👇\nnpx skills add tourmind-com/tourmind-booking-skills\nhttps://t.co/ep2u1YW7zL",
+        "likes": 2,
+        "url": "https://x.com/i/status/2112472616732934611"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112472616732934611",
+        "https://x.com/i/status/2112430826915090715"
+      ]
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "github_url": "https://github.com/rlaope/oh-my-hermes",
+      "tier": 3,
+      "is_new": false,
+      "score": 190.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rlaope",
+        "text": "If you install Oh My Hermes, to put it intuitively,\n\nYou save about 4 times more money, speed increases 6 times faster, and memory increases by about 2 times.\n\nhttps://t.co/g1exHwWK5E\n\nThere are over a hundred skills, sub-agent model routing, and a pretty tui.\nSlack and messenger",
+        "likes": 30,
+        "url": "https://x.com/i/status/2112447866262462871"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112447866262462871"
+      ]
+    },
+    {
+      "repo": "asymptote-labs/agent-beacon",
+      "github_url": "https://github.com/asymptote-labs/agent-beacon",
+      "tier": 3,
+      "is_new": false,
+      "score": 126.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "akshay_pachaar",
+        "text": "I gave Claude Code, Codex, and Cursor a self-improving, shared MEMORY.\n\nNow my coding agents learn from each other, and their knowledge follows me wherever I work.\n\nCoding agents work in silos. Your corrections in Cursor don't carry over to Claude Code, and skills built in Codex ",
+        "likes": 7,
+        "url": "https://x.com/i/status/2112546384331313274"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112546384331313274"
+      ]
+    },
+    {
+      "repo": "k-dense-ai/scientific-agent-skills",
+      "github_url": "https://github.com/k-dense-ai/scientific-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 111.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RizeOnline",
+        "text": "scientific-agent-skills turns a compatible AI agent into a research workflow assistant by packaging domain knowledge, data access, validation steps, and scientific conventions as reusable skills.\n\n🧭 Overview\nThe repository follows the open Agent Skills standard. Each skill is a s",
+        "likes": 2,
+        "url": "https://x.com/i/status/2112424492722970858"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112424492722970858"
+      ]
+    },
+    {
+      "repo": "showheyohtaki/motion-prompt",
+      "github_url": "https://github.com/showheyohtaki/motion-prompt",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vm3jp6u04",
+        "text": "Install (Node.js 18+):\nnpx skills add showheyohtaki/motion-prompt\n\nThen tell your agent: \"Open the motion-prompt library.\"\n\nGitHub: https://t.co/UEuCL3y51i\nOriginal post: https://t.co/DcxKDul4Wa",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112413611339743259"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112413611339743259"
+      ]
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iAhmed_ai",
+        "text": "Your agent recites TDD but ships untested code. Process beats prose: @addyosmani's agent-skills (MIT, 108k stars) TDD rule: find the repo's own test command, never assume npm test. npx skills add addyosmani/agent-skills",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112539432788365387"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112539432788365387"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "theodore0565",
+        "text": "币安的教程谁写的? \n建议罚1 $BNB  @binancezh  @BinanceWallet @heyibinance \n正确应该是：npx skills add binance/binance-skills-hub --skill binance-agentic-wallet https://t.co/A4rBuO3WRG",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112514840665489501"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112514840665489501"
+      ]
+    },
+    {
+      "repo": "expo/skills",
+      "github_url": "https://github.com/expo/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "labmosaic",
+        "text": "what's the fastest way to give an agent working expo knowledge? npx skills add expo/skills --skill expo-overview. 8.3k installs say it works. https://t.co/IzlKkIigjz",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112453204914942122"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112453204914942122"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChinaAIDaily",
+        "text": "06｜alchaincyf/huashu-art-motion —— 艺术动画技能（中文出海）\n项目简介：艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 中文一句话：让你的 coding agent 把艺术风格写成会动的画。一条命令安装：npx skills add alchaincyf/huashu-art-motion。弹药库：36 种艺术风格、9 种解说语法、8 种参数化片段、口播整片参考代码。样片很有说服力：《花叔闯进超级玛丽》（65 秒，作者把自己做成像素主角跑完一关，砖块 / 水管 / 转场用代码完成，人物用生成帧合成）",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112435801179271383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112435801179271383"
+      ]
+    },
+    {
+      "repo": "teng-lin/notebooklm-py",
+      "github_url": "https://github.com/teng-lin/notebooklm-py",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ChinaAIDaily",
+        "text": "04｜teng-lin/notebooklm-py —— NotebookLM 编程技能（零 token 研究卸载）\n\n项目简介：Google Gemini Notebook（原 NotebookLM，2026 年 7 月更名）的非官方 Python API 与 agentic skill——把 Web UI 的能力全部编程化，甚至包括 UI 未暴露的能力：批量下载、测验 / 抽闪卡多格式导出、思维导图 JSON 提取。三大用法：①零 token 研究卸载（create → source add → ask，推理在服务端完成，本地只拿带引用的答案）；②知",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112439515491287083"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112439515491287083"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2112394574089863646",
+      "author": "lidangzzz",
+      "text": "我反复跟你们讲的一个价值10万刀的真理。\n\n对于大多数不在大厂、不做核心Agent业务、对AI没信仰、不在AI startup、甚至他妈连写代码都不利索的人，\n\n你们自己折腾langchain或者折腾input/output parser和MCP server去做一个垃圾agent，完全是在浪费时间。\n\n对于你们这种人而言，最快且效果最好的方式：\n\n1. 给claude code绑好银行卡；\n\n2. 建一个temp folder临时文件夹，把所有关于任务相关的文档、表格、报表、图表、报告、sqlite、access数据库、pdf扫描件、数据、markdo",
+      "likes": 643,
+      "views": 0,
+      "url": "https://x.com/i/status/2112394574089863646",
+      "is_kol": false,
+      "score": 2409.0
+    },
+    {
+      "id": "2112382278500507917",
+      "author": "Dhanush_Nehru",
+      "text": "If you learn AI Security Engineering, you will never be unemployed again.\n\nStage 1: Threat Modeling & Foundations\n- Learn: OWASP Top 10 for LLMs, MITRE ATLAS, STRIDE, trust boundaries.\n\n- Practice: Threat model a RAG chatbot and map every place untrusted text enters the system.\n\n",
+      "likes": 309,
+      "views": 0,
+      "url": "https://x.com/i/status/2112382278500507917",
+      "is_kol": false,
+      "score": 1187.0
+    },
+    {
+      "id": "2112456282062065690",
+      "author": "Teknium",
+      "text": "Meshy plugin for Hermes Agent going well, full MCP &amp; Skill, plus desktop app integration that lets it display the rendered models in chat, show credits on the status bar, and gives a gallery of all the models you've made\n\nHopefully releasing tomorrow :) https://t.co/1GYnGSVPo",
+      "likes": 361,
+      "views": 0,
+      "url": "https://x.com/i/status/2112456282062065690",
+      "is_kol": false,
+      "score": 1173.0
+    },
+    {
+      "id": "2112454261414178867",
+      "author": "AB_geniuss",
+      "text": "Most people in crypto focus on how much a wallet trades but @zerufinance is exploring a more meaningful question what does that activity actually reveal about the person behind it\n\nThat is the idea behind ZeruAI and its behavioral trust infrastructure turning onchain history into",
+      "likes": 318,
+      "views": 0,
+      "url": "https://x.com/i/status/2112454261414178867",
+      "is_kol": false,
+      "score": 1029.0
+    },
+    {
+      "id": "2112462473412616559",
+      "author": "divaagurlxw",
+      "text": "90% of AI Engineer interviews in 2026 are just these 15 concepts repeated:\n\n1/ Transformers & LLM Fundamentals: how LLMs predict the next token, self-attention, multi-head attention, positional encoding, and why transformers replaced RNNs\n\n2/ Tokenization & Embeddings: BPE, how t",
+      "likes": 224,
+      "views": 0,
+      "url": "https://x.com/i/status/2112462473412616559",
+      "is_kol": false,
+      "score": 832.0
+    },
+    {
+      "id": "2112467852074611124",
+      "author": "marcelpociot",
+      "text": "Say hello to @laravel Herd 2.0 - the local Laravel dev environment\n\n🎙️ Herd Studio\n⚡️ artisan dev / vite detection\n☁️ Laravel Cloud Integration\n🕵️‍♀️ Insights MCP server\n💻 git worktree &amp; copy-on-write workspace support\n🧑‍⚕️ Isolated databases\n💅 Refined and polished UI\n\n...and",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2112467852074611124",
+      "is_kol": false,
+      "score": 561.0
+    },
+    {
+      "id": "2112530999447806236",
+      "author": "Ibelick",
+      "text": "new skill: create-canvas.\n\nlast week I made a skill to put every component from a repo on one canvas. I started using it with my agent to create variations, compare ideas, and iterate visually without leaving the codebase.\n\nso I made a new skill around that workflow. \ninstead of ",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2112530999447806236",
+      "is_kol": false,
+      "score": 519.0
+    },
+    {
+      "id": "2112515180789936481",
+      "author": "DamiDefi",
+      "text": "Caption\n\n10 AI tool updates you missed last week, and every one of them makes agents a little more useful at real work.\n\n🔹 Claude Code Review is GA. Reviews now take 6 to 10 minutes, down from about 20, with Quick, Standard or Deep modes for Team and Enterprise.\n🔹 An Anthropic sa",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2112515180789936481",
+      "is_kol": false,
+      "score": 499.0
+    },
+    {
+      "id": "2112397917072052260",
+      "author": "kormoeth",
+      "text": "ZeruAI is moving beyond on-chain reputation. It's building a network that connects real wallet activity with incentives, capital allocation, and behavioral intelligence. ⚡\n\nHere are some recent developments from @zerufinance that caught my attention.\n\n1. Zaps Is Expanding Its Eco",
+      "likes": 155,
+      "views": 0,
+      "url": "https://x.com/i/status/2112397917072052260",
+      "is_kol": false,
+      "score": 475.0
+    },
+    {
+      "id": "2112458437149765797",
+      "author": "its_EveWeb3",
+      "text": "An AI agent becomes more useful when its work can turn into a real transaction.\n\nThat’s the part of agent infrastructure I find interesting about @termix_ai\n\nInstead of treating agents as isolated tools, TermiX is building a framework where they can participate in a service econo",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2112458437149765797",
+      "is_kol": false,
+      "score": 354.0
+    },
+    {
+      "id": "2112440187666001936",
+      "author": "kafkaup",
+      "text": "今年还在做Agent开发的人，应该都有感觉：岗位要求已经不是“会不会做”，而是“你做出来的东西到底能不能用”。\n\n去年学个LangChain、接几个Tool、搭个聊天助手，就算挺新了。今年完全不是这个节奏。\n\n通用Agent越来越难做出差异。去年大家喜欢做全能助手，什么都能聊一点。今年企业更愿意为具体问题买单：内部知识查询、客服处理、销售辅助、数据分析、研发提效。所以现在做Agent，\n\n第一步不是想能接多少工具，而是先把业务流程拆清楚。你连业务边界都说不清，后面工具越多越乱。\n\nRAG重新变得很关键。很多Agent项目最后都卡在同一个地方：模型能推理，",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2112440187666001936",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2112338507670736935",
+      "author": "fhaoh2001",
+      "text": "Vangrid treats Base and Arc as interchangeable payment rails while keeping everything in USDC.\n\nTheir agent docs price every paid call on both networks at the same time. On Arc, USDC is the native asset and settlement is final immediately. You pay from whichever network currently",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2112338507670736935",
+      "is_kol": false,
+      "score": 219.0
+    },
+    {
+      "id": "2112471804795060245",
+      "author": "AlchainHust",
+      "text": "现在小红书、抖音、B站都在推Vibe知识大赏活动，我觉得很值得关注。\n\n这其实是个相当好的趋势，Coding Agent做视频的能力突然大爆发，用更好的形态去做复杂知识和概念的普及显然是有价值且长期的事。\n\n但！！！\n但！！！\n但！！！\n\n相比自己入场去做Vibe知识的视频，我更建议你做skill、做产品、做教程去帮助别人更好的Vibe知识视频。\n\n前者是个竞争者众的红海，后者能做好的人会少很多。",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2112471804795060245",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2112518585465860230",
+      "author": "Adidotdev",
+      "text": "tested @evermind’s EverOS Cloud for agent memory. no custom rag needed.\n\nhooked a support triage agent to ticket #409 (error 403 on sync) and dumped our sops + old tickets in. it searches memory before it starts, then saves the run after.\n\nit turned the troubleshooting into a reu",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2112518585465860230",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2112441244127203755",
+      "author": "_WrldKing04_",
+      "text": "The real shift in AI trading isn’t better predictions. It’s the ability to act on them.\n\nThat’s what makes @injective MCP Server worth watching.\n\nIt allows AI agents to connect with Injective’s onchain trading infrastructure, including derivatives markets, through tools they can ",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2112441244127203755",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2112439444749877679",
+      "author": "IMenlikovaOG",
+      "text": "grew up in a mining town\n\nwhere there were 13 coal mines and most of the city's population worked on them\n\nnow I met @minehood_rh  skill-based pixel game about mining (digging) with bosses, crafting and trading\n\nin addition to this there will be an NFT collection:\n\nsuppli 4,444\nR",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2112439444749877679",
+      "is_kol": false,
+      "score": 183.0
+    },
+    {
+      "id": "2112467214045765659",
+      "author": "zohanlin",
+      "text": "Grok Bot 玩了快兩個月，來整理一份新手攻略\n\n看到有些朋友問「到底要從哪裡開始用」\n我就照我自己的順序寫，存到書籤慢慢看～\n\n1️⃣ 第一天，先開一個 Bot 就好\n給它一個名字跟一個主要工作，簡單寫一下你希望它怎麼做事\n官方文件也是建議一個 Bot 專心做一件事，會比一個萬用 Bot 好用\n之後工作自然分開了，再開第二個\n\n2️⃣ 丟一個生活裡的小事給它\n我被嚇到是找歌\n17 年前跟老婆（當時還是女朋友）很愛的一首泰語歌，mp3 換電腦沒備份就沒了\n我只用中文打了兩句印象中的歌詞，連意思都不知道\n它一次就找到了，前奏一下整個回憶都上來 🥹\n\n另",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2112467214045765659",
+      "is_kol": false,
+      "score": 153.0
+    },
+    {
+      "id": "2112424466332708950",
+      "author": "5296liuyun",
+      "text": "闲话少说 唠一唠 @NeoSoulAI：从 Agent 训练场 EvoEvo，到交易产品 NeoTrade，再到 $DNA 和社区的未来\n\n在说 NeoTrade 之前我们先要看一下 EvoEvo\n\n一、EVOEVO 可以理解为 NeoSoul 的 Agent 训练场让结果经得起验证\n\n核心逻辑可以概括为四步：\n\n1⃣ 预测： Agent 针对真实事件做出预测，并给出推理过程\n\n2⃣ 校准： 根据实际结果检验预测表现，评估判断和置信度是否合理\n\n3⃣ 结算反馈： 事件结果出来后进行结算，让 Agent 的表现有据可查\n\n4⃣ 记忆进化： 将优质推理和经验",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2112424466332708950",
+      "is_kol": false,
+      "score": 149.0
+    }
+  ]
+}
