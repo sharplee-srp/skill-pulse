@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-21",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 179,
+    "tweets_with_repos": 16,
+    "unique_repos": 13,
+    "new_repos": 4,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "riverscn/incus-gha-runners",
+      "github_url": "https://github.com/riverscn/incus-gha-runners",
+      "tier": 1,
+      "is_new": true,
+      "score": 328.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "riverleaf88",
+        "text": "开源了 incus-gha-runners：在一台 Linux 主机上跑多个 GitHub Actions self-hosted runner，每个 runner 独占一个 Incus 容器，有自己的 Docker 和网络，并行任务互不干扰。几个 bash 脚本搞定，附 agent skill，国内网络可用。\n\nnpx skills add riverscn/incus-gha-runners\nhttps://t.co/cV6ZEG2v4i",
+        "likes": 4,
+        "url": "https://x.com/i/status/2112892671115313383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112895735209304086",
+        "https://x.com/i/status/2112892679088693626",
+        "https://x.com/i/status/2112892671115313383"
+      ]
+    },
+    {
+      "repo": "jakeschincariol/arena-skill",
+      "github_url": "https://github.com/jakeschincariol/arena-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 169.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "marfinxx",
+        "text": "Anthropic just showed what running 100 agents simultaneously inside Claude Code actually looks like\n\na tri-model elimination tournament splits 100 sandboxes across Haiku 5.5, Sonnet 5.5, and Opus 5.5\n\nrun the tournament with /arena\n\nclaude /arena --fuzzer haiku-5.5 --builders son",
+        "likes": 23,
+        "url": "https://x.com/i/status/2112891671834673156"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112891671834673156"
+      ]
+    },
+    {
+      "repo": "l0st0/skills",
+      "github_url": "https://github.com/l0st0/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rb_l0st0",
+        "text": "v1 of the skills I run after implementation:\n\n/check-side-effects: catches security holes and breaking changes\n\n/try-every-surface: runs the app and tests it in the UI, API and DB\n\n/prune-tests: cuts tests that catch nothing\n\nnpx skills add l0st0/skills -g\nhttps://t.co/Cta46sWZkv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112910625068470307"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112910625068470307"
+      ]
+    },
+    {
+      "repo": "iblai/vibe",
+      "github_url": "https://github.com/iblai/vibe",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "miguelamigot",
+        "text": "every skill, searchable:\nhttps://t.co/Xw9wlJyq4S\n\ninstall: npx skills add iblai/vibe --all. installed skills are a copy, so the same command refreshes them later.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112874105812779045"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112874105812779045"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 2,
+      "is_new": false,
+      "score": 707.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 104,
+      "total_retweets": 59,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Arina_sharmi",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/L8gTPwbWIe\n\n2. public-apis — free APIs for everything\n→ https://t.co/Qof8he0EmS…\n\n3. build-your-own-x — learn by building\n→ https://t.co/jvDr8jf71v…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 104,
+        "url": "https://x.com/i/status/2112729940282286120"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112729940282286120"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AKAKAY04",
+        "text": "如果你平时用 Codex、Claude Code、OpenClaw、OpenCode 等支持安装技能和运行命令的工具，可以直接把下面这段发给它：\n\n帮我安装币安 Agentic Wallet 技能：\n\nnpx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet\n\n安装完成后，检查所需的钱包 CLI，并帮我发起登录。\n暂时不要执行任何交易。\n\n安装完，再告诉它：\n\n登录我的币安 Agentic Wallet。\n\n之后就可以让这些聪明的ai来控制你币",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112905292325466248"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112905292325466248",
+        "https://x.com/i/status/2112909826745676105"
+      ]
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "github_url": "https://github.com/greensock/gsap-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 16,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ronixtec",
+        "text": "🚨ESTO ES INCREÍBLE \n\nSe trata de proyectos de código abierto de desarrolladores independientes .\n\nconstruido para Opus 5.5\n\n1. claude-motion: gusto, revisa sus propios frames, sonido escrito en código. el autor lo construyó para Opus 5.5  \nhttps://t.co/hiTBJ7XPcJ…\n\n2. claude-moti",
+        "likes": 16,
+        "url": "https://x.com/i/status/2112903247723733208"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112903247723733208"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "发现一个很猛的开源 Skill！以后画流程图、架构图，真不用再折腾 Figma 了！\n\n推荐一个 GitHub 项目：Diagram Design，直接让 Claude Code、Codex、Cursor 帮你生成专业级图表。\n\n1、内置 45 种图表类型，流程图、架构图、时序图、甘特图、思维结构图等都能画。\n\n2、支持读取网站配色和字体，自动匹配品牌风格。\n\n3、支持导入 Mermaid、https://t.co/ahWbFdGKFv 等图表，重新设计排版。\n\n4、生成独立 HTML + SVG 文件，浏览器直接打开，还能导出图片。\n\n最爽的是，不用自",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112896743390273752"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112896743390273752"
+      ]
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "github_url": "https://github.com/aicodeking/leanrea",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neuronxwhite",
+        "text": "🪶 装了 207 个工具的 REA，被一个 8KB 的文件追上了？\n\n上周爆火的 REA 能让 AI 逆向 App（没源码也能看懂它怎么做的）。现在有人开源了 leanrea：只是一份给 Agent 的说明书（Skill），不装 MCP，告诉它每类文件该跑哪个现成命令。\n\n1️⃣ 体积：REA 是 25MB 的包 + 207 个工具，leanrea 只有一个 8KB 的 SKILL.md\n2️⃣ 只回一句\"OK\"：REA 要 40 万 token（$1.60），leanrea 3.45 万（$0.09）\n3️⃣ 4 个逆向任务实测：耗时少 38%，成本低",
+        "likes": 1,
+        "url": "https://x.com/i/status/2112908038667640984"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112908038667640984"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manorgw",
+        "text": "AI 能把页面写出来，可不等于写出来就好看。jakubkrehel/skills 干的正是给 AI Agent 补上 UI 设计这一课，从界面细节到整体审查都覆盖到了。具体包括：① UI 细节、圆角、阴影和微交互；② 字体与排版；③ OKLCH 配色；④ 页面布局；⑤ 无障碍设计；⑥ UX 文案和界面 Review。它支持 Claude Code 插件，也能通过 Skills CLI 安装，一条命令就行：npx skills add jakubkrehel/skills。平时常让 AI 写前端的，这套不妨装上试试。🔗 https://t.co/cA7QB",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112897441033003016"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112897441033003016"
+      ]
+    },
+    {
+      "repo": "getopenscreen/openscreen",
+      "github_url": "https://github.com/getopenscreen/openscreen",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LescotEtienne",
+        "text": "@pbakaus OpenScreen is free and open source: https://t.co/lV53xwjASP\n\nIn Claude Code: npx skills add getopenscreen/openscreen",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112883780843413670"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112883780843413670"
+      ]
+    },
+    {
+      "repo": "susanacharya/design-lounge",
+      "github_url": "https://github.com/susanacharya/design-lounge",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nasusanooo",
+        "text": "free, one command: npx skills add SusanAcharya/Design-Lounge → https://t.co/r22Rfa6SbK 🎨",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112878204025508166"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112878204025508166"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rnkdsh",
+        "text": "@theo Did you use any skill for this? \n\nThis skill looks useful, but I haven't tried it yet: https://t.co/WP4Oh8uSFS",
+        "likes": 0,
+        "url": "https://x.com/i/status/2112894933640282264"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2112894933640282264"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2112833218382647353",
+      "author": "Farukgbolahan2",
+      "text": "Who is the better archer: Green Arrow or Hawkeye? \n\nThis debate has been going on for years.\n\nGreen Arrow (Oliver Queen): After being stranded on a remote island, Oliver survived by mastering archery, hunting, tracking, and hand-to-hand combat. He later trained with some of DC's ",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2112833218382647353",
+      "is_kol": false,
+      "score": 1050.0
+    },
+    {
+      "id": "2112891653212012830",
+      "author": "gloamtrade",
+      "text": "Gloam is live on the mainnet.\n\nPublic chains got one thing badly wrong. They made every payment a public record, just from your address.\n\nNobody would accept that from a bank. We accepted it on-chain because there was no alternative. Now there is.\n\nStarting today, on Robinhood Ch",
+      "likes": 162,
+      "views": 0,
+      "url": "https://x.com/i/status/2112891653212012830",
+      "is_kol": false,
+      "score": 821.0
+    },
+    {
+      "id": "2112751982633205983",
+      "author": "RoundtableSpace",
+      "text": "Chat your way through Blender.\n\nA new open-source add-on, mcp-for-blender-pro, puts an AI studio inside Blender:\n\n→ Works with OpenAI, Claude, Gemini, OpenRouter and local Ollama\n→ 21 scene tools: create and edit objects, materials, viewport screenshots, export\n→ Pulls assets fro",
+      "likes": 180,
+      "views": 0,
+      "url": "https://x.com/i/status/2112751982633205983",
+      "is_kol": false,
+      "score": 585.0
+    },
+    {
+      "id": "2112861463211868359",
+      "author": "rubenhassid",
+      "text": "This Claude prompt is a $349/hr lawyer. But don't copy-paste this prompt blindly. Do this first:\n\n1. Go to Claude → Customize → Plugin.\n2. Search \"commercial.\" (Anthropic’s own plugin)\n3. Click Add, then Continue. It will install 12 Skills.\n4. Install it & it follows you into Cla",
+      "likes": 144,
+      "views": 0,
+      "url": "https://x.com/i/status/2112861463211868359",
+      "is_kol": false,
+      "score": 527.0
+    },
+    {
+      "id": "2112821429121204275",
+      "author": "shao__meng",
+      "text": "MIT 公开课 6.S950 Agency with AI\n\nLecture 5: The Harness 讲义更新了：\nhttps://t.co/wCM8dmw7im\n\n从一个 300 行的教学 Agent 讲透可观测性、可控性和 \"需要多少 Harness\"，Harness 具体的最佳实践更新很快，但背后有几条几十年前的系统原则一直适用。理解 Harness 怎么工作，才能更好地和 Agent 协作。\n\nAgent = LLM + Harness：用一个最小 Agent 拆解\n课程自己做了一个教学 Agent，叫 Baby Anigans：针对一个文",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2112821429121204275",
+      "is_kol": true,
+      "score": 304.0
+    },
+    {
+      "id": "2112829197810827695",
+      "author": "tashamulti",
+      "text": "I went through the @FinchTechAI Skills Marketplace looking for Skills I could actually imagine someone using, not just ones that sound interesting on paper.\n\nTwo caught my attention for completely different reasons:\n\n→ Remotion Editing Styles-new\n→ Tennis Swing Analysis\n\nAnd hone",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2112829197810827695",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2112863547185123777",
+      "author": "TollyLabs",
+      "text": "AI agents are already putting our MCP server to work, with over 850 downloads in just one week!\n\nOur latest MCP update takes things further. Previously connecting agents to Tolly's own x402 services, we're now opening access to the entire Arc x402 ecosystem through a single integ",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2112863547185123777",
+      "is_kol": false,
+      "score": 283.0
+    },
+    {
+      "id": "2112774944689967111",
+      "author": "wickedguro",
+      "text": "Interesting feud. I am always all in on going with one product; as I see it in Postiz, there is always something to fix, etc.\n\nFrom Marc's side:\nHe knows how to build really good products; somehow, he invested a lot in TrustMRR and DataFast, and they are the leading products.\n\nTr",
+      "likes": 85,
+      "views": 0,
+      "url": "https://x.com/i/status/2112774944689967111",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2112814682579022311",
+      "author": "arcenpayhq",
+      "text": "Introducing https://t.co/ySS8zGG2co \n\nThe protocol for on-chain subscriptions!\n\nMost Web3 products still sell access like it’s 2016.\n\nA wallet in a @discord. A spreadsheet. A DM when something breaks. No invoice. No receipt. No audit trail. The product went on-chain. The billing ",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2112814682579022311",
+      "is_kol": false,
+      "score": 260.0
+    },
+    {
+      "id": "2112872778332250534",
+      "author": "RoundtableSpace",
+      "text": "Don’t start your next Opus 5.5 video from scratch.\n\n8 GitHub repos with finished examples, reusable prompts and source code:\n\n1. awesome-opus5-5-videos (~7.1K stars)  \nA collection of standout videos with the prompt behind each one.  \n`https://t.co/brk4vJu4xO`\n\n2. lemo-opuscar (~",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2112872778332250534",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2112857679546736649",
+      "author": "RoundtableSpace",
+      "text": "173K+ GitHub stars for a free prompt library you can plug into your workflow.\n\nhttps://t.co/AypTSb4k02 works with ChatGPT, Claude, Gemini and more. Use it through a CLI, MCP server or Claude Code plugin, export prompts as CSV, or self-host it with your own branding and login.\n\nTh",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2112857679546736649",
+      "is_kol": false,
+      "score": 246.0
+    },
+    {
+      "id": "2112868668975829428",
+      "author": "AaronScottAI",
+      "text": "𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧𝗦? 𝗧𝗛𝗘𝗦𝗘 𝟮𝟬 𝗧𝗢𝗢𝗟𝗦 𝗪𝗜𝗟𝗟 𝗦𝗔𝗩𝗘 𝗬𝗢𝗨 𝗪𝗘𝗘𝗞𝗦\n\nFrom the model to the data to the deploy. Save this one.\n\n1. https://t.co/ejGgiNPpIa — AI-first code editor\n\n2. https://t.co/t2CxKsirlT… — Oxylabs MCP server: plug live web search & scraping into any AI agent\n\n3. https://t.c",
+      "likes": 34,
+      "views": 0,
+      "url": "https://x.com/i/status/2112868668975829428",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2112900648437989668",
+      "author": "rileybrown",
+      "text": "The way I use agents (Oct 21)\n\nCurrently My AI usage is split between codex and Claude Code, but I use them both differently than I did a month ago.\n\nThe way i use codex is mostly through my dot. Every morning I call my dot and put my AirPods in and I walk have a conversation for",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2112900648437989668",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2112785968566501610",
+      "author": "anf1m45669",
+      "text": "In previous posts, I shared the thought that over time, infrastructure may stop being just a background layer and become a product in its own right\n\nPyth Pro MCP Server 1.1 is a good reason to return to this topic. It’s now easier for an AI agent to understand which feeds are ava",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2112785968566501610",
+      "is_kol": false,
+      "score": 192.0
+    },
+    {
+      "id": "2112909955946742111",
+      "author": "DataChaz",
+      "text": "every SaaS founder after finding out one Claude skill just did $289K in sales in 30 days: https://t.co/U5Z83FgcL1",
+      "likes": 26,
+      "views": 0,
+      "url": "https://x.com/i/status/2112909955946742111",
+      "is_kol": false,
+      "score": 173.0
+    },
+    {
+      "id": "2112765548694298769",
+      "author": "shubh19",
+      "text": "90-day roadmap to become a production GenAI engineer:\n\n• Day 1: Python that actually ships\n→ Focus: typing, async, httpx, Pydantic, and pytest.\n→ Build: A CLI tool calling a public API with caching and automated tests.\n\n• Day 15: Mastering LLM APIs\n→ Focus: tokens, streaming, str",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2112765548694298769",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2112839060238500088",
+      "author": "0xbobaaa",
+      "text": "10 GITHUB REPOS THAT TURN CLAUDE CODE INTO A WHOLE TEAM. 200K+ STARS BETWEEN THEM\n\nsave this, you'll want it the next time you open a terminal\n\nAGENTS\n1. ragflow · 92.5K stars\none of the most-starred open-source RAG engines. feed it your docs, your agent answers from them\nhttps:/",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2112839060238500088",
+      "is_kol": false,
+      "score": 165.0
+    },
+    {
+      "id": "2112793507026919726",
+      "author": "AiswaryaVenkit1",
+      "text": "A chatbot answers.\n\nAn enterprise agent understands, decides, acts, and stays governed while doing it.\n\nOn Microsoft Foundry, the journey starts when a user, business application, event, or API sends a request to Foundry Agent Service.\n\nFrom there, the enterprise agent runtime co",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2112793507026919726",
+      "is_kol": false,
+      "score": 161.0
+    },
+    {
+      "id": "2112786453118025847",
+      "author": "techNmak",
+      "text": "Someone built Git for AI agent memory.\n\nModernRelay has open-sourced OmniGraph, a graph database that gives AI agents something most shared-memory systems lack: branches, commits, diffs, and three-way merges.\n\nThe idea is simple. If multiple agents are working on the same knowled",
+      "likes": 40,
+      "views": 0,
+      "url": "https://x.com/i/status/2112786453118025847",
+      "is_kol": false,
+      "score": 160.0
+    }
+  ]
+}

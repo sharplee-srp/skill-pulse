@@ -8578,5 +8578,21 @@
   "venthewise/frame-motion": {
     "first_seen": "2026-10-20",
     "tier": 3
+  },
+  "riverscn/incus-gha-runners": {
+    "first_seen": "2026-10-21",
+    "tier": 1
+  },
+  "jakeschincariol/arena-skill": {
+    "first_seen": "2026-10-21",
+    "tier": 3
+  },
+  "l0st0/skills": {
+    "first_seen": "2026-10-21",
+    "tier": 3
+  },
+  "iblai/vibe": {
+    "first_seen": "2026-10-21",
+    "tier": 3
   }
 }
