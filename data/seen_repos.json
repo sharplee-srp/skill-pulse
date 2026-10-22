@@ -8594,5 +8594,45 @@
   "iblai/vibe": {
     "first_seen": "2026-10-21",
     "tier": 3
+  },
+  "0xmassi/google-rust-style-skill": {
+    "first_seen": "2026-10-22",
+    "tier": 1
+  },
+  "glips/figma-context-mcp": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "gangfun/gang-launchpad": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "superdesigndev/treg": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "lizard-build/skill": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "danbuildss/musecourt": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "ubidotfun/skills": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "social-media-skills/skills": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "educlopez/diorama": {
+    "first_seen": "2026-10-22",
+    "tier": 3
+  },
+  "lexus2016/consilium": {
+    "first_seen": "2026-10-22",
+    "tier": 3
   }
 }
