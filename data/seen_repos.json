@@ -8634,5 +8634,41 @@
   "lexus2016/consilium": {
     "first_seen": "2026-10-22",
     "tier": 3
+  },
+  "1llu50ry/mcp-gamehacking": {
+    "first_seen": "2026-10-23",
+    "tier": 2
+  },
+  "nicobailon/pi-subagents": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "zeropointrepo/awesome-grok-bot": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "cetusprotocol/cetus-skills": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "oldcircle/geo-sleuth": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "eze-is/web-access": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "ajhous44/unipost-agent": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "noushiflex/am-i-cooked": {
+    "first_seen": "2026-10-23",
+    "tier": 3
+  },
+  "openai/php2shell-checker": {
+    "first_seen": "2026-10-23",
+    "tier": 3
   }
 }

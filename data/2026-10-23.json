@@ -1,0 +1,546 @@
+{
+  "date": "2026-10-23",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 172,
+    "tweets_with_repos": 19,
+    "unique_repos": 17,
+    "new_repos": 9,
+    "previously_seen_repos": 8
+  },
+  "new_repos": [
+    {
+      "repo": "1llu50ry/mcp-gamehacking",
+      "github_url": "https://github.com/1llu50ry/mcp-gamehacking",
+      "tier": 2,
+      "is_new": true,
+      "score": 1011.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 262,
+      "total_retweets": 25,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Dinosn",
+        "text": "GitHub - 1llu50ry/mcp-gamehacking: MCP (Model Context Protocol) server for game hacking &amp; reverse engineering. A structured knowledge base of 4,100+ skills with full source code archives, specialized agents, and workflow tools. https://t.co/xYxJAjh6L5",
+        "likes": 262,
+        "url": "https://x.com/i/status/2113461002704724421"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113461002704724421"
+      ]
+    },
+    {
+      "repo": "nicobailon/pi-subagents",
+      "github_url": "https://github.com/nicobailon/pi-subagents",
+      "tier": 3,
+      "is_new": true,
+      "score": 307.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 59,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xiaomovps",
+        "text": "使用 Pi 最值得安装的 5 个插件🔥\n\n1、pi-subagents：多 Agent 协作\n\nhttps://t.co/g31snsb6bn\n\n把代码实现、代码审查、源码调查拆给不同的子 Agent，还支持并行执行、后台任务和自定义角色\n\n适合复杂项目，不用所有事情都挤在主 Agent 的 Context 里\n\n2、pi-web-access：给 Pi 补上联网能力\n\nhttps://t.co/qnReWihZSO\n\n不只是搜索网页，还能抓取 URL、克隆 GitHub 仓库、提取 PDF 内容、理解 YouTube 视频\n\n支持多种搜索后端，部分方案",
+        "likes": 59,
+        "url": "https://x.com/i/status/2113530313737719919"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113530313737719919"
+      ]
+    },
+    {
+      "repo": "zeropointrepo/awesome-grok-bot",
+      "github_url": "https://github.com/zeropointrepo/awesome-grok-bot",
+      "tier": 3,
+      "is_new": true,
+      "score": 221.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yarilo7brigada",
+        "text": "THIS IS A PURE F*CKING GOLDMINE\n\nA whole ecosystem of free, open-source builds has grown around Grok Bot: ready-made bot teams, \"chiefs of staff\" that assemble a team for you, skill libraries, even a multi-agent trading desk. It's all on GitHub, and almost nobody knows about it.\n",
+        "likes": 32,
+        "url": "https://x.com/i/status/2113591800380404218"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113591800380404218"
+      ]
+    },
+    {
+      "repo": "cetusprotocol/cetus-skills",
+      "github_url": "https://github.com/cetusprotocol/cetus-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 162.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 19,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xPain__",
+        "text": "What happens when AI agents can trade on Sui without ever holding your private keys?\n\n@CetusProtocol just launched Cetus Skills, an open set of Claude Code skills that let AI agents plug directly into Cetus infrastructure on @SuiNetwork.\n\nInstall is one line through the GitHub re",
+        "likes": 19,
+        "url": "https://x.com/i/status/2113556592163721337"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113556592163721337"
+      ]
+    },
+    {
+      "repo": "oldcircle/geo-sleuth",
+      "github_url": "https://github.com/oldcircle/geo-sleuth",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "limuvibecoding",
+        "text": "仓库：https://t.co/1QjV5sbPdf\n\n安装：npx skills add Oldcircle/geo-sleuth",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113555427514315075"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113555427514315075"
+      ]
+    },
+    {
+      "repo": "eze-is/web-access",
+      "github_url": "https://github.com/eze-is/web-access",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jamal13647850",
+        "text": "ایجنتت با WebFetch وب می‌گرده؟\n\nweb-access یه Skill متن‌بازه‌ست که به ایجنت لوکالت (Claude Code، Codex) دسترسی وب واقعی می‌ده: انتخاب خودکار Search/Fetch/Jina/CDP، اتصال به مرورگرت با همون login state و حافظه الگوی سایت‌ها.\n\nnpx skills add eze-is/web-access\n۹٫۲K ستاره، MIT",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113625690851643424"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113625690851643424"
+      ]
+    },
+    {
+      "repo": "ajhous44/unipost-agent",
+      "github_url": "https://github.com/ajhous44/unipost-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "14hous",
+        "text": "OpenClaw can post to X and LinkedIn with one command:\n\nnpx skills add ajhous44/unipost-agent -g -a openclaw -y\n\nSign in once, then ask it for a post and it schedules it through UniPost's MCP server.\n\nHermes or OpenClaw: which one runs your posting?",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113632267314827608"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113632267314827608"
+      ]
+    },
+    {
+      "repo": "noushiflex/am-i-cooked",
+      "github_url": "https://github.com/noushiflex/am-i-cooked",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vessime",
+        "text": "New CVEs drop daily. Are you cooked?\n\nam-i-cooked: ask your coding agent \"am i cooked?\" It scans your lockfiles (18 formats), matches exact versions vs live CVE data, then fixes on a branch and re-scans to prove it.\n\nOpen source, MIT, 0 deps.\nnpx skills add noushiFlex/am-i-cooked",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113545646825169031"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113545646825169031"
+      ]
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "github_url": "https://github.com/openai/php2shell-checker",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "BonoDJblack",
+        "text": "OpenAI 前天开源了个免费网站体检工具，专查这两天闹得挺凶的 PHP2Shell 漏洞，两天攒了 700+ star。\n\n用法一条命令：node phpcheck.js \"你的网址\"。它只读服务器返回头里暴露的 PHP 版本，对照版本表给结论——OK、VULNERABLE、UNKNOWN，不发任何攻击流量，对你网站啥影响没有。不用 Codex 的话，Node.js 直接跑就行；用的话也能装成 skill 调用。\n\n两个提醒：OK 只说明版本高于已知修复线，不等于绝对安全；UNKNOWN 不等于没事，很多站会把版本头藏掉。有自己站点的朋友顺手查一下，真",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113630910465847393"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113630910465847393"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 1,
+      "is_new": false,
+      "score": 462.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 6,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xduyan",
+        "text": "👁️ 币安钱包 Agentic Wallet 丨独眼 AI 学习笔记（一）\n\n昨晚看到熊师的 Mint NFT 教程撸了 12u ，兴奋的不行，因为我一直知道 AI 的重要性，但实操过程中其实除了搜索和生图，很多更深一点的功能都没有使用\n\n正好最近一直刷到币安钱包 Agent ID 和 Agentic Wallet ，很多朋友领了 [名字].ai 之后但不知道接下来该怎么用。所以我决定趁这个机会系统学一下，第一篇学习笔记就献给币安钱包 Agentic Wallet\n\n————————————————\n\n一、了解 Agent 、Skill、Token 的基",
+        "likes": 29,
+        "url": "https://x.com/i/status/2113595265768919106"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113595265768919106",
+        "https://x.com/i/status/2113615637847371858",
+        "https://x.com/i/status/2113597891365495145"
+      ]
+    },
+    {
+      "repo": "termix-official/termix-agent-skills",
+      "github_url": "https://github.com/termix-official/termix-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 408.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 13,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ngochoa2k2",
+        "text": "i've talked enough about what AI agents could do.\n\nso this time, i actually wanna try it myself.\n\nthe experiment is pretty simple:\n\ninstall the @termix_ai Agent Skill _ find my first job _ see how far the agent can handle the whole workflow on its own.\n\nstep 1: install the skill\n",
+        "likes": 81,
+        "url": "https://x.com/i/status/2113577244484669517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113577244484669517"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 268.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 51,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "beamnxw",
+        "text": "Opus 5.5 + Remotion = your own video factory that you can use to earn $$$\n\none reusable scene → six campaign videos\n\n01 | the setup:\n\n2 hooks × 3 formats\nsquare. vertical. widescreen.\n\n02 | give Claude Code the official Remotion skills:\n\nnpx skills add remotion-dev/skills\n\n03 | t",
+        "likes": 51,
+        "url": "https://x.com/i/status/2113565877765353983"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113565877765353983"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 212.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 8,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Coder_Jhonny",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/rFn2IsMrbW\n\n2. public-apis — free APIs for everything\n→ https://t.co/MWJXwmRtEe…\n\n3. build-your-own-x — learn by building\n→ https://t.co/uI3tvPb2gj…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 24,
+        "url": "https://x.com/i/status/2113621272919933174"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113621272919933174"
+      ]
+    },
+    {
+      "repo": "tourmind-com/tourmind-booking-skills",
+      "github_url": "https://github.com/tourmind-com/tourmind-booking-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MasonScottt_",
+        "text": "you can install it with this command:\nnpx skills add tourmind-com/tourmind-booking-skills\n\nit works for hotel bookings too.\nhttps://t.co/ep2u1YW7zL",
+        "likes": 3,
+        "url": "https://x.com/i/status/2113566731746902105"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113566731746902105"
+      ]
+    },
+    {
+      "repo": "journione-ai/journione-planning-skills",
+      "github_url": "https://github.com/journione-ai/journione-planning-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Journione",
+        "text": "Planning a koyo trip to Japan? 🥳\n\nPlug the JourniOne Planning Skill into your agent with this command👇\nnpx skills add JourniOne-ai/JourniOne-Planning-Skills\n\nShare your dates and vibe, and get a visual travel journal🙌\nhttps://t.co/1q9sbOlrh4",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113563732739862808"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113563732739862808"
+      ]
+    },
+    {
+      "repo": "vincentwei1021/video-shotcraft",
+      "github_url": "https://github.com/vincentwei1021/video-shotcraft",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "awe0_io",
+        "text": "这他妈是能直接装了就能做出电影级别的视频 Skill 合集？？？\n\n我把目前最能用的 10 个开源仓库按实用度排好了，每个都带链接，一句话讲清楚能干嘛。\n1video-shotcraft https://t.co/eRXZ19ygqr Claude/Codex 一句话出电影级产品片，150+ 镜头配方 + Remotion 模板。\n2awesome-seedance https://t.co/INeYti1HTE 840+ 实测案例 + 80 个可安装 Skill，按场景直接写 Seedance 提示词。\n3lanshu-awesome-ai-video",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113632280036180366"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113632280036180366"
+      ]
+    },
+    {
+      "repo": "susanacharya/design-lounge",
+      "github_url": "https://github.com/susanacharya/design-lounge",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nasusanooo",
+        "text": "I built Design Lounge (https://t.co/r22Rfa6SbK), a free agent skill with 500+ live UI pieces that stops coding agents making generic 'AI purple' designs. Install: npx skills add SusanAcharya/Design-Lounge. Would love approval for my one intro post in r/vibecoding. No paywall!",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113619065923305862"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113619065923305862"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2113435080278360133",
+      "author": "omarsar0",
+      "text": "Build your own harness, folks!\n\nHighly recommended reading on Ramp's own agent harness and why they built one. \n\nI've seen this closely. More hardcore engineering teams are realizing how important it is to own the harness. I expect more full-stack AI companies to follow. \n\nRamp q",
+      "likes": 298,
+      "views": 0,
+      "url": "https://x.com/i/status/2113435080278360133",
+      "is_kol": false,
+      "score": 1069.0
+    },
+    {
+      "id": "2113556080861270079",
+      "author": "RosecryptoXx",
+      "text": "AI agents are starting to interact with crypto on their own. But how do we decide which wallets an autonomous agent should trust?\n\nThat’s where @zerufinance is getting interesting.\n\nTheir latest product update introduces zScreen as an MCP server, allowing AI coding tools like Cla",
+      "likes": 198,
+      "views": 0,
+      "url": "https://x.com/i/status/2113556080861270079",
+      "is_kol": false,
+      "score": 594.0
+    },
+    {
+      "id": "2113385032148787272",
+      "author": "carm1nee",
+      "text": "these 2 github repos are the most POWERFUL combo I've ever seen for a trading setup\n\none watches the entire planet in real time - wars, pipelines, tankers, sanctions, live news. the other lets you rebuild a $30K/year trading terminal around it. together they turn world events int",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2113385032148787272",
+      "is_kol": false,
+      "score": 550.0
+    },
+    {
+      "id": "2113578875485900926",
+      "author": "DarkoMatrix",
+      "text": "an ai agent can handle tasks on its own, but what happens when it needs a skill it doesn't have?\n\nthat’s where @termix_ai comes in\n\nit allows client agents to hire specialized worker agents, agree on terms and settle payments onchain\n\nagents can also build their identity, reputat",
+      "likes": 149,
+      "views": 0,
+      "url": "https://x.com/i/status/2113578875485900926",
+      "is_kol": false,
+      "score": 467.0
+    },
+    {
+      "id": "2113373831251603883",
+      "author": "EXM7777",
+      "text": "how to build an autonomous SEO agent inside Hermes:\n\nfirst... give it everything about your business\n> your site analytics\n> current keyword positions\n> what you're selling\n> where you want to be in 6 months\n\ndon't skip this part, context is the entire game\n\nthen you build 3 skil",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2113373831251603883",
+      "is_kol": false,
+      "score": 369.0
+    },
+    {
+      "id": "2113520197730476237",
+      "author": "RaphElevator",
+      "text": "first hackathon win 💥\n\nI’m still smiling at my screen. Arcurrent just won an Arc Microgrant.\n\nFirst, thank you. @DoraHacks for running a program that reads past the pitch and checks the chain. @arc  for building somewhere a solo builder can ship something real, with real USDC, on",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2113520197730476237",
+      "is_kol": false,
+      "score": 301.0
+    },
+    {
+      "id": "2113492009335890043",
+      "author": "termix_ai",
+      "text": "Flip the script: AI Agents shouldn't be phishing you — they should be working and earning for you.\n\nWhatever Agent you run (Grok Bot, Claude, Muse, Dot, OpenClaw), give it TermiX Agent Skills in one line:\n\nhelp me install https://t.co/Bwe2y6FOeq\n\nInstall the Agent Skill → let you",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2113492009335890043",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2113382598785532211",
+      "author": "caspar_br",
+      "text": "How do you build an adaptive company harness?\n\nIf you've built a company megazoid agent, every team will end up wanting something different from it. E.g. finance needs billing skills while the platform team needs incident MCP server. You will inevitably face a context bloat probl",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2113382598785532211",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2113474733480296550",
+      "author": "sivalabs",
+      "text": "You can use SonarQube MCP server and ask your AI Agent to fix the issues.\n\nhttps://t.co/BSO1E5IKj5\n\nOne more tool to add to your Harness. https://t.co/vvlR6yQB08",
+      "likes": 66,
+      "views": 0,
+      "url": "https://x.com/i/status/2113474733480296550",
+      "is_kol": false,
+      "score": 213.0
+    },
+    {
+      "id": "2113611082678120538",
+      "author": "WindowsLatest",
+      "text": "Microsoft has been quietly testing a new Windows 11 AI app that works like Recall, except it only remembers what you choose to save.\n\nI found it in an unlisted Microsoft Store listing and spent part of the summer using it, including to plan a beach trip!\n\nCodenamed Project Panthe",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2113611082678120538",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2113587575264776457",
+      "author": "MaisonCypher",
+      "text": "AI coding has hit the ceiling of “smartness.” From now on, speed and price decide\n\nOver the past couple of years, the race in AI development has run along one axis: whose model is smarter. In October 2026, that stopped working the way it used to.\n\n“Intelligence saturation”\nCognit",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2113587575264776457",
+      "is_kol": false,
+      "score": 193.0
+    },
+    {
+      "id": "2113411603127578820",
+      "author": "pk_iv",
+      "text": "I heard from @shensi that public MCP servers fail about 40% of the time.\n\nWhen Merge benchmarked its tools against public MCP servers, it got 99.999% success versus roughly 60%. Most public servers are side projects nobody maintains. That's also why AI security hasn't had its big",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2113411603127578820",
+      "is_kol": false,
+      "score": 184.0
+    },
+    {
+      "id": "2113484307624821117",
+      "author": "RoundtableSpace",
+      "text": "SAVE THIS: you scan AI skills before you install them. Now scan the ones you've already installed.\n\n1. MEDUSA\nEvery API key you've ever pasted into Claude Code, Cursor or Copilot sits in plain text in your chat history. MEDUSA finds them across 21 key types and cleans them up.\npi",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2113484307624821117",
+      "is_kol": false,
+      "score": 179.0
+    },
+    {
+      "id": "2113617375958290488",
+      "author": "paulchristain__",
+      "text": "new one to look at.\nname is @termix_ai.\n\nthey’re building the settlement layer for the agent economy. basically a marketplace where AI agents can hire other AI agents, get the work done, and get paid, all on-chain, no middleman holding the money.\n\nThe protocol is called AACP (Age",
+      "likes": 51,
+      "views": 0,
+      "url": "https://x.com/i/status/2113617375958290488",
+      "is_kol": false,
+      "score": 163.0
+    },
+    {
+      "id": "2113439200909603309",
+      "author": "Jackcrypto4life",
+      "text": "Sonic is building for the next era: AI agents, not just users.\n\nIn the Eterna x Sonic Labs Space (link below), @MrMinter made the point clearly: AI agents won’t pick chains based on hype, community size, or incentives. They’ll route to whatever delivers the best combination of sp",
+      "likes": 46,
+      "views": 0,
+      "url": "https://x.com/i/status/2113439200909603309",
+      "is_kol": false,
+      "score": 158.0
+    },
+    {
+      "id": "2113614330579001673",
+      "author": "encrypt_wizard",
+      "text": "submitting Vektor to the @strikeperps Hackathon: a quant terminal on Strike V2 perps that trades while you sleep.\n\nthree engines share one tested core. \n- a grid bot that leans toward the side collecting Strike's hourly funding, \n- a delta-neutral funding harvester sized from you",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2113614330579001673",
+      "is_kol": false,
+      "score": 145.0
+    },
+    {
+      "id": "2113616444265058491",
+      "author": "Filecoin",
+      "text": "Your agent built a sales dashboard or a marketing report in minutes.\n\nBut sharing with colleagues requires them to auth or use the same agent as yours. \n\nWith the publish skill, your agent turns dashboards, and reports into a public link anyone can simply access with one prompt. ",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2113616444265058491",
+      "is_kol": false,
+      "score": 137.0
+    }
+  ]
+}
