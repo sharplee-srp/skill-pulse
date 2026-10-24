@@ -1,0 +1,649 @@
+{
+  "date": "2026-10-24",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 162,
+    "tweets_with_repos": 22,
+    "unique_repos": 21,
+    "new_repos": 11,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "microsoft/skill-recorder",
+      "github_url": "https://github.com/microsoft/skill-recorder",
+      "tier": 3,
+      "is_new": true,
+      "score": 431.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 92,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TiagerBao",
+        "text": "微软开源了一个工具：你操作一遍电脑，AI 就能帮你生成 Skill。\n\n项目叫 Skill Recorder，刚看了它的 v0.7.0 更新。\n\n工作流程很简单：\n\n录制你在电脑上的操作，包括点击、切换窗口、执行命令。\nGitHub Copilot 分析操作过程，提取任务目标和执行步骤。\n自动生成 SKILL.md，或创建定时执行的 Automation。\n\nv0.7.0 新增了 SKILL.md 预览功能。\n\n安装前可以检查完整指令，确认没问题再导出，不需要重新调用模型生成。\n\n支持 macOS、Windows 11 和 Ubuntu，需要 GitHu",
+        "likes": 92,
+        "url": "https://x.com/i/status/2113913607172092376"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113913607172092376"
+      ]
+    },
+    {
+      "repo": "storytold/figcraft",
+      "github_url": "https://github.com/storytold/figcraft",
+      "tier": 3,
+      "is_new": true,
+      "score": 358.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 86,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Someone built a free, open-source alternative to Figma, and your AI agent can design in it.\n\nFigCraft is a native design app written from scratch in Rust:\n→ frames, auto layout, components, variants, styles, variables and prototypes\n→ the toolbar, layers panel and shortcuts sit w",
+        "likes": 86,
+        "url": "https://x.com/i/status/2113952392605823436"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113952392605823436"
+      ]
+    },
+    {
+      "repo": "zseven-w/openpencil",
+      "github_url": "https://github.com/zseven-w/openpencil",
+      "tier": 3,
+      "is_new": true,
+      "score": 332.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 14,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "realfxw",
+        "text": "这款号称是全球首款真正的“AI 原生”开源矢量设计工具—— OpenPencil，目前在 GitHub 上已经狂飙斩获了 6400+ Stars！⭐️\n\n它完美诠释了什么是真正的 Design-as-Code（设计即代码），让你能够直接通过提示词在实时画布上生成和修改 UI。底层高达 90.6% 的代码由 Rust 编写，主打极致的性能与优雅。\n\n核心硬核亮点总结：\n\n🤖 1. 并发智能体团队 (Concurrent Agent Teams)告别慢吞吞的单线生成！它的编排器能将复杂的页面拆解为多个空间子任务。多个 AI 智能体会同时并行工作（例如分别负责",
+        "likes": 54,
+        "url": "https://x.com/i/status/2113782525688414284"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113782525688414284"
+      ]
+    },
+    {
+      "repo": "undermove/meridian-browser",
+      "github_url": "https://github.com/undermove/meridian-browser",
+      "tier": 3,
+      "is_new": true,
+      "score": 308.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 66,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Someone built an open-source Arc-style browser for AI agents.\n\nMeridian has an MCP server so Claude Code can read and click your tabs, and you pick the access level: off, read only, ask first, or full control. Brand new, 0 stars.\n\nRepo: https://t.co/V1VwNASNpl",
+        "likes": 66,
+        "url": "https://x.com/i/status/2113793847205798359"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113793847205798359"
+      ]
+    },
+    {
+      "repo": "soheil-mp/solidworks-mcp",
+      "github_url": "https://github.com/soheil-mp/solidworks-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 267.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "solidworks-mcp is an open source MCP server that lets Claude Code control a running SOLIDWORKS instance, with 127 tools across 15 toolsets covering parts, assemblies, drawings, import and export and simulation.\n\n→ Windows only, built from source, unofficial and unaffiliated with ",
+        "likes": 54,
+        "url": "https://x.com/i/status/2113831596738637874"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113831596738637874"
+      ]
+    },
+    {
+      "repo": "btahir/reelbird",
+      "github_url": "https://github.com/btahir/reelbird",
+      "tier": 3,
+      "is_new": true,
+      "score": 261.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Damir_Akaza",
+        "text": "I can't believe nobody is using this yet\n\nI showed a bot on my screen once how I hunt for hidden GitHub repos based on real working code, and an hour later a folder with 3 fresh AI tools was sitting on my cloud drive\n\nThe new Grok Bot update just shipped learning from demonstrati",
+        "likes": 52,
+        "url": "https://x.com/i/status/2113908928413057070"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113908928413057070"
+      ]
+    },
+    {
+      "repo": "anthropics/sandbox-runtime",
+      "github_url": "https://github.com/anthropics/sandbox-runtime",
+      "tier": 3,
+      "is_new": true,
+      "score": 171.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 22,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "marfinxx",
+        "text": "Official Anthropic tip: stop burning Opus 5.5 tokens on tasks Sonnet 5.5 can swarm, and stop running autonomous agents with unconfined bash access\n\njail the entire multi-model runtime at the kernel layer with srt\n\nnpx @ anthropic-ai/sandbox-runtime run --allow-net registry.npmjs.",
+        "likes": 22,
+        "url": "https://x.com/i/status/2113978873612259606"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113978873612259606"
+      ]
+    },
+    {
+      "repo": "serenakeyitan/agent-org-chart",
+      "github_url": "https://github.com/serenakeyitan/agent-org-chart",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Solomonrojie",
+        "text": "holy sh*t. SpaceXAI just dropped 654 GitHub repos for Grok Bot to leave Claude Duet no chance\n\nAnthropic launched Claude Duet, a direct competitor to Grok Bot. They couldn’t let that slide and released repositories that will make your bots 90% better than Claude’s new product\n\nco",
+        "likes": 20,
+        "url": "https://x.com/i/status/2113786437955121323"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113786437955121323"
+      ]
+    },
+    {
+      "repo": "nekonata-team/den-browser",
+      "github_url": "https://github.com/nekonata-team/den-browser",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nekonata_dev",
+        "text": "🍺 Homebrewで今すぐ試せます！\nbrew install --cask nekonata-team/tap/den-browser\n\nスキルも提供中👀\nnpx skills add nekonata-team/den-browser --skill den\n\n🌐 公式サイト: https://t.co/epZ14CVfyI\n📦 GitHub: https://t.co/4xItPxGXRS",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113961292289683699"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113961292289683699"
+      ]
+    },
+    {
+      "repo": "gvenk/spotify-skills",
+      "github_url": "https://github.com/gvenk/spotify-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gvenk",
+        "text": "Je kunt 'm natuurlijk ook installeren via \"npx skills add gvenk/spotify-skills --skill on-this-day\"",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113939615497220188"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113939615497220188"
+      ]
+    },
+    {
+      "repo": "clins1994/skills",
+      "github_url": "https://github.com/clins1994/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "clins1994",
+        "text": "the trick: 2 sentences on top for humans, before/after visuals and everything else folded for agents with optional multi-language (great for non-native speakers). screenshots are english/japanese\n\n&gt; npx skills add clins1994/skills\n\ndemo: https://t.co/ithpfpVlIr https://t.co/S0",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113931245252210869"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113931245252210869"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "termix-official/termix-agent-skills",
+      "github_url": "https://github.com/termix-official/termix-agent-skills",
+      "tier": 2,
+      "is_new": false,
+      "score": 644.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 143,
+      "total_retweets": 23,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ngochoa2k2",
+        "text": "i've talked enough about what AI agents could do.\n\nso this time, i actually wanna try it myself.\n\nthe experiment is pretty simple:\n\ninstall the @termix_ai Agent Skill _ find my first job _ see how far the agent can handle the whole workflow on its own.\n\nstep 1: install the skill\n",
+        "likes": 143,
+        "url": "https://x.com/i/status/2113577244484669517"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113577244484669517"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 221.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 37,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Asteri_eth",
+        "text": "Opus 5.5 + Remotion = one prompt that turns into nine ad videos for three different brands\n\none composition → 3 brands × 3 formats\n\n01 | the setup:\n\n3 brand skins × 3 formats\n4:5 feed. 9:16 vertical. 16:9 wide.\n\n02 | install the official Remotion skills in Claude Code:\n\nnpx skill",
+        "likes": 37,
+        "url": "https://x.com/i/status/2113951366456479909"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113951366456479909"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 215.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ailaodao",
+        "text": "今日热榜 hallmark：反 AI 味设计技能。\n\n一行安装：npx skills add nutlope/hallmark -g\n\n给 Claude Code、Cursor、Codex、OpenCode 用。/hallmark 按目标做页面，audit 用浏览器查空框、假按钮、没对比度。48 套主题，单文件 HTML，MIT。\n\nhttps://t.co/IwZo2qj5KW",
+        "likes": 3,
+        "url": "https://x.com/i/status/2113965973489197266"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113965973875101909",
+        "https://x.com/i/status/2113965973489197266"
+      ]
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Your AI agent can do more than build another generic landing page.\n\n10 GitHub repos for design systems, 3D scenes, motion graphics and finished videos:\n\n 1.⁠ ⁠Impeccable  \n62 design checks to catch generic styling and improve your interface.  \n⁠ https://t.co/mJJKX0AJxg ⁠\n\n 2.⁠ ⁠U",
+        "likes": 30,
+        "url": "https://x.com/i/status/2113975041763516842"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113975041763516842"
+      ]
+    },
+    {
+      "repo": "cursor/plugins",
+      "github_url": "https://github.com/cursor/plugins",
+      "tier": 3,
+      "is_new": false,
+      "score": 193.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bradmillscan",
+        "text": "Been loving Dr Eggbot py @poteto \n\nEvery agent I built on Hermes ended up with too many jobs. When something broke, it fell on my shoulders to fix. \n\nI was getting OpenClaw PTSD, so last week I switched to Grok Bot.\n\nNaturally I didn't want the same problem with Grok Bot, so I us",
+        "likes": 31,
+        "url": "https://x.com/i/status/2113638380361728309"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113638380361728309"
+      ]
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "github_url": "https://github.com/wheresryan22/anatomy",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "enisco",
+        "text": "npx skills add wheresryan22/anatomy -g\nhttps://t.co/CJaKhElgw9",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113954936455414237"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113954936455414237"
+      ]
+    },
+    {
+      "repo": "affaan-m/ecc",
+      "github_url": "https://github.com/affaan-m/ecc",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ll685998568638",
+        "text": "这是一套“给 AI 智能体配完整工程系统”的解决方案。\n\n官方自述：“The agent harness performance optimization system” —— 面向 Claude Code、Codex、Opencode、Cursor 等多种智能体编排框架的性能优化系统。核心一句话：\n\n给智能体装一个“工程系统”，让它不只是写代码，而是按 “plan → test → implement → review → verify → remember → improve” 的闭环来工作。\n\n每次让 AI 干活，都按这 7 步来，而不是只问着“帮",
+        "likes": 1,
+        "url": "https://x.com/i/status/2113980306831130779"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113980306831130779"
+      ]
+    },
+    {
+      "repo": "susanacharya/design-lounge",
+      "github_url": "https://github.com/susanacharya/design-lounge",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nasusanooo",
+        "text": "free, one command: npx skills add SusanAcharya/Design-Lounge → https://t.co/r22Rfa6SbK 🎨",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113965966078136466"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113965966078136466"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Whezyboy",
+        "text": "@Ptahtrade @bibiainft 4. Send this to the AI\n\nHelp me install the Binance Agentic Wallet skill:\n   npx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet\nAfter installation, check the required wallet CLI and help me initiate login\nDo not execute any ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113956281861963917"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113956281861963917"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "naveendas96",
+        "text": "Repo: https://t.co/08HBVC02oa\nHow to try: `npx skills add cathrynlavery/diagram-design`, then ask your agent to redraw a Mermaid block from one of your READMEs. PNG export needs Playwright + Chromium.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2113934510035267934"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2113934510035267934"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2113797636918739018",
+      "author": "HermesWatcher",
+      "text": "Every official Nous Research plugin for Hermes, in one list. Save this. 🔖\n\n18 first-party plugins, each a one-line install:\n\n▸ Advanced Delegation: a model route or profile per subagent\n▸ Agent Importers: bring in your Claude Code, Codex, Cursor or OpenClaw setup\n▸ Meshy: text or",
+      "likes": 612,
+      "views": 0,
+      "url": "https://x.com/i/status/2113797636918739018",
+      "is_kol": false,
+      "score": 2151.0
+    },
+    {
+      "id": "2113918938463764812",
+      "author": "heyibinance",
+      "text": "升级到最新版本才有哦❤️走过路过不要错过。\n看到一些朋友说AI pro打链上效果不好，因为AI pro没接外部链上的Skill，当前app内skill策略适配，链上请用Agent os.",
+      "likes": 279,
+      "views": 0,
+      "url": "https://x.com/i/status/2113918938463764812",
+      "is_kol": false,
+      "score": 967.0
+    },
+    {
+      "id": "2113948625927852196",
+      "author": "rubenhassid",
+      "text": "Give me 3 mins, and I will make you better at Claude than 90% of people.\n\nFirst up, delete these things from your claude:\n\n1. Go to Claude → Account → “Instructions for Claude.\" Empty the box.\n2. Claude left bar → Customize → Skills. Remove anything you uploaded about yourself.\n3",
+      "likes": 136,
+      "views": 0,
+      "url": "https://x.com/i/status/2113948625927852196",
+      "is_kol": false,
+      "score": 498.0
+    },
+    {
+      "id": "2113784121323364378",
+      "author": "Hookrfun",
+      "text": "🤖 Hookr MCP server is live. Now Agents can use Hookr over MCP. \nDocs: https://t.co/vac5CZUVIt\n\nhttps://t.co/eJnSVasFPZ exposes 11 tools: find pools, quote, check a trade for a wallet, build a launch, get unsigned swap and claim calls. The server holds no key, your wallet signs an",
+      "likes": 116,
+      "views": 0,
+      "url": "https://x.com/i/status/2113784121323364378",
+      "is_kol": false,
+      "score": 473.0
+    },
+    {
+      "id": "2113952646566380026",
+      "author": "0xPhoenix2023",
+      "text": "The AI agent narrative is shifting from \"what if\" to \"how much did it earn?\" 🤑\n\nMost projects are still just making promises. @termix_ai is already settling real payments on-chain. Here is the latest proof that the Agent Economy is live 👇\n\n1️⃣ Real Settlements: The recent Securit",
+      "likes": 146,
+      "views": 0,
+      "url": "https://x.com/i/status/2113952646566380026",
+      "is_kol": false,
+      "score": 468.0
+    },
+    {
+      "id": "2113950076531863797",
+      "author": "0x0Nova",
+      "text": "The @termix_ai Epoch 1 leaderboard was published yesterday and it's nice to see so many creators getting recognition for their work.\n\nBut I've been paying more attention to what termix has been doing outside the creator campaign.\n\nThere have been a few updates recently that I thi",
+      "likes": 135,
+      "views": 0,
+      "url": "https://x.com/i/status/2113950076531863797",
+      "is_kol": false,
+      "score": 455.0
+    },
+    {
+      "id": "2113691147403145401",
+      "author": "refrip98",
+      "text": "The gap between building an AI agent and connecting it to a marketplace is often the integration work.\n\n@termix_ai is trying to make that entry point more accessible through its agent toolkit.\n\nThe official https://t.co/53fRDT6q9W documentation provides a Quickstart for OpenClaw ",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2113691147403145401",
+      "is_kol": false,
+      "score": 424.0
+    },
+    {
+      "id": "2113858025488347503",
+      "author": "1006_amit7481",
+      "text": "INSTEAD OF GUESSING YOUR NEXT OPTIONS TRADE TONIGHT.\n\nSpend 1 hour with this.\n\nOption Omega just gave Claude and ChatGPT a REAL options backtester — not a demo.\n\nIt’s called the @OptionOmega MCP Server.\n\nDescribe a trade in plain English. Your AI builds it, runs the backtest, and",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2113858025488347503",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2113903077992337472",
+      "author": "testingcatalog",
+      "text": "DAILY AI BRIEF 🗞 — Oct 24\n\nMOONSHOT 🔥:\n- Kimi K3.1 Pro launched as a 2.8T-parameter MoE model (104B active) with 1M context, live now on Kimi web, mobile, and API, with open weights due November 4.\n- Kimi K3.1 Pro debuted 4th on the Artificial Analysis Intelligence Index with a s",
+      "likes": 84,
+      "views": 0,
+      "url": "https://x.com/i/status/2113903077992337472",
+      "is_kol": false,
+      "score": 287.0
+    },
+    {
+      "id": "2113933613477806264",
+      "author": "cxmrondlls",
+      "text": ".@vangrid_io turns already-captured ground truth into a pay-per-call api.\n\n$0.01 for a spatial query. $0.005 for one observation. provenance check is free.\n\npay usdc on base or arc via x402. no account, no api key.\nevery observation ships a merkle leaf + eas attestation on base.\n",
+      "likes": 86,
+      "views": 0,
+      "url": "https://x.com/i/status/2113933613477806264",
+      "is_kol": false,
+      "score": 263.0
+    },
+    {
+      "id": "2113903047789146506",
+      "author": "zxc68984008",
+      "text": "A bio is a claim. A cleared job is a record.\n\nA .agent identity, an escrowed brief, and a delivery hash share one ledger while @termix_ai pays USDC or USDT only after proof lands.\n\nClient funds the job. Provider locks stake and ships. Evaluator and Arbitrator stay idle until a ch",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2113903047789146506",
+      "is_kol": false,
+      "score": 256.0
+    },
+    {
+      "id": "2113733450892996646",
+      "author": "painn_x",
+      "text": "WTFFF, a FREE open source agent harness that rewrites itself as it works\n\nnodecode runs as one live lisp image. add a tool, skill, mcp server or memory by dropping in a folder.\n\nworks in your terminal, browser, discord, telegram and slack.\n\nFREE. you only pay for the model you pl",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2113733450892996646",
+      "is_kol": false,
+      "score": 245.0
+    },
+    {
+      "id": "2113726036370170055",
+      "author": "0xShoopy",
+      "text": "Anthropic, co-creator of MCP:\n\n\"You can now run them for minutes, hours and even days.\"\n\n14 min with David Soria Parra to learn what your agents can do starting today, and what's coming to Claude next:\n\n→ 00:00 - how he sees 2026 and beyond\n→ 01:16 - models now handle weeks of hu",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2113726036370170055",
+      "is_kol": false,
+      "score": 224.0
+    },
+    {
+      "id": "2113925971959255526",
+      "author": "mardehaym",
+      "text": "An operating partner at a PE firm that owns older insurance and freight software companies asked me a question I hear on almost every call now:\n\n\"We're full of AI feature ideas. How do we pick the ones that stick to what customers actually pay us for?\"\n\nI suggested two tests.\n\nTh",
+      "likes": 37,
+      "views": 0,
+      "url": "https://x.com/i/status/2113925971959255526",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2113922536119414858",
+      "author": "TollyLabs",
+      "text": "Tolly's MCP server continues to expand its reach across the AI developer ecosystem!\n\nWe're now listed on Glama, a major directory for discovering and integrating MCP servers.\n\nThis gives developers another way to discover Tolly's growing suite of agent-accessible services, with x",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2113922536119414858",
+      "is_kol": false,
+      "score": 209.0
+    },
+    {
+      "id": "2113931756818641331",
+      "author": "ai_with_orbit",
+      "text": "Most people think prompts are just text.\n\nThey aren’t.\n\nPrompt Master turns prompts into a skill that works across Claude.\n\nI turned this cross‑AI workflow into a step‑by‑step guide.\n\nValued at $81.\n\nFREE for the next 48 hrs.\n\nType “PROMPT”\nFollow me : @ai_with_orbit https://t.co",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2113931756818641331",
+      "is_kol": false,
+      "score": 194.0
+    },
+    {
+      "id": "2113935057278665175",
+      "author": "ChoneraCirce",
+      "text": "Se han aplicado esos detectores a capítulos de El Quijote y han determinado que era IA en un 72%\n\nCualquiera que sepa manejar el Skill Creator de Claude Pro puede personalizar el texto que genere la IA.\n\nEstáis creando una psicosis.",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2113935057278665175",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2113922193629532283",
+      "author": "RoundtableSpace",
+      "text": "Vibe coding ships the app but teaches you nothing. VibeWise flips that: you design, the AI writes the code, and you actually learn. 3.9K stars.\n\nA plugin for Claude Code and Codex:\n→ the AI asks for your approach before it writes anything\n→ it walks you through the tradeoffs and ",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2113922193629532283",
+      "is_kol": false,
+      "score": 168.0
+    },
+    {
+      "id": "2113959941941924070",
+      "author": "RoundtableSpace",
+      "text": "Your AI agent can now work inside your Gmail, Drive, Calendar, Sheets and Docs. 31.8K stars.\n\ngws is one command-line tool for all of Google Workspace, from the googleworkspace team on GitHub. It ships 100+ agent skills, including 50 ready-made recipes for Gmail, Drive, Docs, Cal",
+      "likes": 48,
+      "views": 0,
+      "url": "https://x.com/i/status/2113959941941924070",
+      "is_kol": false,
+      "score": 159.0
+    }
+  ]
+}

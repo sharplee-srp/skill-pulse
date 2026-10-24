@@ -8670,5 +8670,49 @@
   "openai/php2shell-checker": {
     "first_seen": "2026-10-23",
     "tier": 3
+  },
+  "microsoft/skill-recorder": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "storytold/figcraft": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "zseven-w/openpencil": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "undermove/meridian-browser": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "soheil-mp/solidworks-mcp": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "btahir/reelbird": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "anthropics/sandbox-runtime": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "serenakeyitan/agent-org-chart": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "nekonata-team/den-browser": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "gvenk/spotify-skills": {
+    "first_seen": "2026-10-24",
+    "tier": 3
+  },
+  "clins1994/skills": {
+    "first_seen": "2026-10-24",
+    "tier": 3
   }
 }
