@@ -1,0 +1,481 @@
+{
+  "date": "2026-10-25",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 164,
+    "tweets_with_repos": 13,
+    "unique_repos": 13,
+    "new_repos": 3,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "opengeos/rustgis",
+      "github_url": "https://github.com/opengeos/rustgis",
+      "tier": 2,
+      "is_new": true,
+      "score": 917.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 229,
+      "total_retweets": 26,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "giswqs",
+        "text": "RustGIS v0.4.0 is here!\n\nRustGIS is a fast, free and open-source GIS in pure Rust for mapping, analyzing and sharing geospatial data. It runs natively on Windows, macOS and Linux, and in your web browser. Your data stays on your machine unless you send it to an AI model you choos",
+        "likes": 229,
+        "url": "https://x.com/i/status/2114175796466069523"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114175796466069523"
+      ]
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "github_url": "https://github.com/elayadesign/ai-design-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "every landing page in this video was designed in the last two months with Higgsfield, Claude and Cursor.\n\nThe designer open-sourced the AI design skill behind them. your agent can use it today.\n\nhttps://t.co/IR70vGINdB https://t.co/w39TEC5ZhX",
+        "likes": 39,
+        "url": "https://x.com/i/status/2114329879349244163"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114329879349244163"
+      ]
+    },
+    {
+      "repo": "phuryn/staygreen",
+      "github_url": "https://github.com/phuryn/staygreen",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PawelHuryn",
+        "text": "Paid app monitoring services were driving me crazy:\n> $30/mo for a custom status page domain?\n> $34/mo for webhooks alerts\n> $330/mo for white-label\n> Unable to monitor Stripe or Supabase\n\nSo, I just launched free staygreen[.]io I built for myself.\n\n100% free (lifetime):\n- Uptime",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114351089889734814"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114351089889734814"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "kajisho5/ffmpeg-skill",
+      "github_url": "https://github.com/kajisho5/ffmpeg-skill",
+      "tier": 2,
+      "is_new": false,
+      "score": 671.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 172,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ryrenz",
+        "text": "🎚️ 太省心了，ffmpeg-skill 让 Claude Code、Codex 直接替你剪视频，再也不用背 FFmpeg 那一长串参数。\n\nffmpeg-skill 在 GitHub 已经 2358 stars，上了 Trendshift 日榜，仓库 9 月初才建，最近几天就连发了 6 个版本。\n\n剪过视频的都懂：切一段、去掉静音、压字幕、统一响度、转成竖屏发短视频，每一步都得去搜一遍 FFmpeg 命令，参数写错一个就得重来。\n\n现在直接跟 agent 说要什么就行。它手里有 42 个现成工具，先探测素材，尽量无损地剪，剪完还会生成一张联系表图片核对",
+        "likes": 172,
+        "url": "https://x.com/i/status/2114191482877780091"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114191482877780091"
+      ]
+    },
+    {
+      "repo": "graphify-labs/graphify",
+      "github_url": "https://github.com/graphify-labs/graphify",
+      "tier": 3,
+      "is_new": false,
+      "score": 348.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 71,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Mr_Buzzoni",
+        "text": "Karpathy sketched the second brain. these 7 open-source repos already built it for Obsidian + Claude Code\n\n250,000+ GitHub stars between them, and every one is free to clone\n\nsorted by stars:\n\n1. graphify - 134k stars\nturns your codebase, docs, SQL schemas and PDFs into one knowl",
+        "likes": 71,
+        "url": "https://x.com/i/status/2114262687022510215"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114262687022510215"
+      ]
+    },
+    {
+      "repo": "cloudflare/agentic-inbox",
+      "github_url": "https://github.com/cloudflare/agentic-inbox",
+      "tier": 3,
+      "is_new": false,
+      "score": 231.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 27,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pathakanshika06",
+        "text": "10 GitHub repos that feel way too powerful to be free. 🤯\n\nSome open-source projects can replace tools that cost hundreds or even thousands of dollars.\n\nHere are 10 worth checking out 👇\n\n1. AutoHedge\nAn AI-powered trading system with four specialized agents handling investment str",
+        "likes": 27,
+        "url": "https://x.com/i/status/2114311459933212970"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114311459933212970"
+      ]
+    },
+    {
+      "repo": "nvidia/openshell",
+      "github_url": "https://github.com/nvidia/openshell",
+      "tier": 3,
+      "is_new": false,
+      "score": 227.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "SAVE THIS: 4 GitHub repos blowing up this week.\n\n1. OpenShell by NVIDIA (19.7K stars)\na safe sandbox for AI agents. you write what each agent can touch and it enforces it at the kernel level. agents never see your real credentials.\nhttps://t.co/LbYz9osM40\n\n2. Kronos (43.7K stars)",
+        "likes": 39,
+        "url": "https://x.com/i/status/2114337429322969546"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114337429322969546"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FeiZCrypto",
+        "text": "购买指令 上限1% 多的会退，20 BNB打满迁移到薄饼：\n\nnpx skills add binance/binance-skills-hub --skill binance-agentic-wallet npx skills add gangfun/gang-launchpad/skill npm i -g @binance/agentic-wallet github:gangfun/cli\nexport PATH=\"$HOME/.local/bin:$PATH\" export GANG_LAUNCHPAD=0x86854e8ee7d438ca9b5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114307368293146703"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114347833717637369",
+        "https://x.com/i/status/2114307368293146703"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iHamadFahad7",
+        "text": "مكتبة مجانية على GitHub تحوّل وكلاء الذكاء الاصطناعي إلى مساعدين متخصصين في التسويق الإلكتروني! 🚀\n\nإذا كنت تعمل في التسويق، أو تدير متجر إلكتروني، أو تبني مشروع ناشئ، فهذه إحدى المكتبات مفتوحة المصدر التي تستحق الاطلاع عليها.\n\nاسم المشروع:\nMarketing Skills for AI Agents — مهارات ",
+        "likes": 12,
+        "url": "https://x.com/i/status/2114281805591236787"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114281805591236787"
+      ]
+    },
+    {
+      "repo": "gangfun/gang-launchpad",
+      "github_url": "https://github.com/gangfun/gang-launchpad",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "FeiZCrypto",
+        "text": "购买指令 上限1% 多的会退，20 BNB打满迁移到薄饼：\n\nnpx skills add binance/binance-skills-hub --skill binance-agentic-wallet npx skills add gangfun/gang-launchpad/skill npm i -g @binance/agentic-wallet github:gangfun/cli\nexport PATH=\"$HOME/.local/bin:$PATH\" export GANG_LAUNCHPAD=0x86854e8ee7d438ca9b5",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114307368293146703"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114307368293146703"
+      ]
+    },
+    {
+      "repo": "social-media-skills/skills",
+      "github_url": "https://github.com/social-media-skills/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jagu_builds",
+        "text": "𝟏𝟎𝟔 𝐅𝐫𝐞𝐞 𝐒𝐤𝐢𝐥𝐥𝐬, 𝐎𝐧𝐞 𝐂𝐨𝐦𝐦𝐚𝐧𝐝\n\nSomeone open-sourced a top-1% social media team. 106 skills, free, and it works with Claude Code, Cursor, OpenClaw, Hermes and 40+ agents.\n\nInstall:\nnpx skills add social-media-skills/skills\n\nWhat's inside: content pillars, platform growth, video, de",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114282189915615500"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114282189915615500"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RWABTC",
+        "text": "Outcome: your Claude / Cursor agent stops shipping Inter + purple gradient + nested cards by default.\n\nPrereqs: Node 18+, Claude Code or Cursor (or Codex / OpenCode).\n\n3 steps (Hallmark):\n\n1) Install globally\n```\nnpx skills add nutlope/hallmark -g\n```\n(Cursor-only: add `--agent c",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114348753771475167"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114348753771475167"
+      ]
+    },
+    {
+      "repo": "susanacharya/design-lounge",
+      "github_url": "https://github.com/susanacharya/design-lounge",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "nasusanooo",
+        "text": "free, one command: npx skills add SusanAcharya/Design-Lounge → https://t.co/r22Rfa6SbK 🎨",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114330926293700833"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114330926293700833"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2114207284897501446",
+      "author": "Rizvi_On_X",
+      "text": "I've explored the agent tools at vangrid_io, and here's the neat thing: AI agents can actually commission real-world data, not only consume them.\n\nWith a single API call, an agent can issue a bounty. The server provides the cost of the bounty in USDC via 402 response, and the age",
+      "likes": 260,
+      "views": 0,
+      "url": "https://x.com/i/status/2114207284897501446",
+      "is_kol": false,
+      "score": 865.0
+    },
+    {
+      "id": "2114140956568006801",
+      "author": "secfathy",
+      "text": "كل شهر الشركة عندنا بيعمل meeting يشوفوا مين اعلي حد حرق tokens هقولهم اني لقيت Minecraft MCP Server وعملت بيه مصر https://t.co/Xrf4kQDZTa",
+      "likes": 245,
+      "views": 0,
+      "url": "https://x.com/i/status/2114140956568006801",
+      "is_kol": false,
+      "score": 740.0
+    },
+    {
+      "id": "2114233556083806418",
+      "author": "AdityaUmale17",
+      "text": "people keep asking me in person how i got 5-6 startup offers from a tier-3 college\n\nfull stack + ai roles. here's what actually came up:\n\n- no dsa at all, just real problems to discuss\n- everyone dug deep into my own projects\n- people want devops nowadays, u cant skip it\n- most g",
+      "likes": 183,
+      "views": 0,
+      "url": "https://x.com/i/status/2114233556083806418",
+      "is_kol": false,
+      "score": 614.0
+    },
+    {
+      "id": "2114230636667973665",
+      "author": "akira_papa_IT",
+      "text": "【注意喚起⚠️Brotliの脆弱性、何を更新すればいい？ 調査・対応用プロンプト付き】\n\n先日のPHPの脆弱性に対応した方も、今回は別途確認が必要です。\n\nBrotliは、Webの通信データを小さくする圧縮技術。問題のある部品で細工されたデータを解凍すると、情報漏えいや、条件によっては不正なプログラムの実行につながります。\n\nまず、自分がやることはこちらです。\n\n・アプリを使う方：公式更新・案内を確認し、必要な再起動まで。\n・開発する方：Node.jsやPythonだけでなく、IDE・AIツールの内蔵部品も確認。\n・サービスを公開している方：本番・コンテ",
+      "likes": 109,
+      "views": 0,
+      "url": "https://x.com/i/status/2114230636667973665",
+      "is_kol": false,
+      "score": 407.0
+    },
+    {
+      "id": "2114251721127895445",
+      "author": "adriankuleszo",
+      "text": "Same, we just closed our ClickUp account.\n\nEverything runs in Slack with agents monitoring channels, and humans communicating updates.\n\nFunny thing is clients feel the same, nobody wants to look at a task board, they just tell us what they need and get updates in Slack the next d",
+      "likes": 110,
+      "views": 0,
+      "url": "https://x.com/i/status/2114251721127895445",
+      "is_kol": false,
+      "score": 355.0
+    },
+    {
+      "id": "2114086655015706883",
+      "author": "cherry_mx_reds",
+      "text": "I don’t think everyone fully understands this. If Anthropic blocks reverse engineering with Claude, you can just use REA with GLM or DeepSeek instead.\n\nREA is an open-source MCP server. It’s not tied to Claude.\n\nRun npx rea-agents setup, connect it to an MCP-compatible coding age",
+      "likes": 103,
+      "views": 0,
+      "url": "https://x.com/i/status/2114086655015706883",
+      "is_kol": false,
+      "score": 344.0
+    },
+    {
+      "id": "2114337103215542504",
+      "author": "soniacuts",
+      "text": "🚨 ALGUIEN FILTRÓ EL PROMPT QUE HACE QUE CLAUDE CODE CREE SUS PROPIAS SKILLS Y TRABAJE MEJOR CADA DÍA SIN QUE TOQUES NADA\n\nSin programar. Solo pegas. Un único prompt lo hace todo:\n\nTiempo necesario: 2 minutos\nAcciones: copiar y pegar en Claude Code\n\nEl error del 90% de la gente co",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2114337103215542504",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2114088818777461055",
+      "author": "GithubProjects",
+      "text": "Open-source MCP server that gives your AI assistant 98 Jira and Confluence tools https://t.co/oqwThser2G",
+      "likes": 92,
+      "views": 0,
+      "url": "https://x.com/i/status/2114088818777461055",
+      "is_kol": false,
+      "score": 296.0
+    },
+    {
+      "id": "2114236929835155496",
+      "author": "Monytales",
+      "text": "your next duel on @duel_duck could start with a simple chat\n\nDuel Duck now connects with ChatGPT, Claude, and Cursor\n\ngiving u another way to create duels and explore the platform\n\nhere’s how to get started \n\n1. connect Cursor\n\nfirst, get your API key from Duel Duck.\n\nopen Cursor",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2114236929835155496",
+      "is_kol": false,
+      "score": 295.0
+    },
+    {
+      "id": "2114225657651855608",
+      "author": "ScarletKc",
+      "text": "Anthropic 这篇新文章在劝搭 agent 的人少拆 subagent，里面有句话太真实了，很多企业的 agent 架构就是照着组织架构图抄的。每个团队交一个 subagent，平台组在最上面套个 orchestrator，康威定律又赢了\n\n思路是把 router、planner、按领域拆的 subagent，能折回主 agent 循环的都折回去，换成按需加载的 skill 和 tool\n\n他们经常看到的方案是一层层叠上去的，意图分类器、固定的多步推理流水线、用户分群、单独的推荐分支，最上面再套一层多 agent 编排。给的反馈往往是，这套结构大部",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2114225657651855608",
+      "is_kol": false,
+      "score": 289.0
+    },
+    {
+      "id": "2114293454142382466",
+      "author": "Arcadia_Bao",
+      "text": "小白怎么样能够最大化利用好 Gemini 会员以及反重力客户端的能力。让你的哈基米聪明又能干：\n\n上手Gemini/Pro ultra 第一件事 学会用自带的Claude模型以及子Agent功能：\n\n首先，Gemini 4 Argon非常好 3.8flash也非常好，又聪明又快，但他们做事比较糙哥，想法很好但是顾头不顾尾，或者产生幻觉睁眼说瞎话的时候，你就知道不好了。\n\n所以这个时候，套餐里面给的Opus/sonnet 5.5 就是是绝佳的补充，可以完全弥补gemini模型的弱项\n\n最简单的方式，是在做完一半工作之后直接说：将任务发给你内置的 Opus ",
+      "likes": 83,
+      "views": 0,
+      "url": "https://x.com/i/status/2114293454142382466",
+      "is_kol": false,
+      "score": 274.0
+    },
+    {
+      "id": "2114135185453396133",
+      "author": "longbowlend",
+      "text": "Longbow runs an MCP server, so any AI agent can read protocol state on Robinhood Chain and build transactions.\n\nThe agent prepares the transaction and you sign it in your own wallet. The server holds no keys.\n\nDocs and setup: https://t.co/UHmep6bmbV https://t.co/AMv7FJcF8v",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2114135185453396133",
+      "is_kol": false,
+      "score": 271.0
+    },
+    {
+      "id": "2114293359367888940",
+      "author": "Axismeta",
+      "text": "building an ai agent takes skill. surviving real competition takes something more.\n\n@agentdojo puts agents in the arena where they train, face practical challenges, and get ranked on what they actually deliver.\n\nno polished demos. no empty promises. just results you can measure.\n",
+      "likes": 82,
+      "views": 0,
+      "url": "https://x.com/i/status/2114293359367888940",
+      "is_kol": false,
+      "score": 251.0
+    },
+    {
+      "id": "2114314782035837369",
+      "author": "tetumemo",
+      "text": "📝LPを作るためのAIのデザインSkillが、オープンソースで公開されていた！！\nhttps://t.co/AOh8EqlvGe\n\nelayadesignsさんの「ai-design-skills」\n・Claude Code、Cursor、Codex、Windsurfなどで使える\n・いまは「landing-page-design」が入っている\n・聞き取り、ページの構成、申し込みにつながる文章、見た目のルールまで1つにまとまっている\n・色やフォント、余白は、ファイルの最後のほうの1か所を書き換えれば自分用になる\n・MITライセンス\n\n本人はこれとHiggs",
+      "likes": 75,
+      "views": 0,
+      "url": "https://x.com/i/status/2114314782035837369",
+      "is_kol": false,
+      "score": 230.0
+    },
+    {
+      "id": "2114112227447877797",
+      "author": "imryven",
+      "text": "I still don’t understand why people build Opus 5.5 setups from scratch.\n\n10 repos already did it for you, from 68K stars to 0.\n\n01 claude-code-best-practice → 68K stars. the full guide to subagents, skills, hooks, MCP and memory, with working examples\nhttps://t.co/UGf481FurP\n\n02 ",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2114112227447877797",
+      "is_kol": false,
+      "score": 223.0
+    },
+    {
+      "id": "2114322329689882684",
+      "author": "RoundtableSpace",
+      "text": "Anthropic just told developers to delete most of their subagents.\n\ntheir testing: one agent with skills often beats multi-agent setups. one customer ran about 2x faster after switching.\n\nthe new rule of thumb:\n→ skills = how your team does the work\n→ tools / MCP = taking actions ",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2114322329689882684",
+      "is_kol": false,
+      "score": 191.0
+    },
+    {
+      "id": "2114313618611220950",
+      "author": "techNmak",
+      "text": "A 135K-star GitHub repo is built around one painfully obvious idea:\n\nYour coding agent should map the codebase once, not grep it forever.\n\nGraphify turns an entire project into a persistent, queryable knowledge graph that AI coding agents can use to understand how different parts",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2114313618611220950",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2114313250779398549",
+      "author": "AaronScottAI",
+      "text": "🚀 20 AI Tools & Open-Source Projects Worth Bookmarking\n\nWant to work smarter with AI? Here are 15 useful AI tools and 5 open-source GitHub projects to explore.\n\n🧠 15 AI TOOLS\n\n1. ChatGPT — https://t.co/vYFdb7ye8C\n   Your all-purpose AI assistant.\n\n2. Suno — https://t.co/cHTy9PoGg",
+      "likes": 28,
+      "views": 0,
+      "url": "https://x.com/i/status/2114313250779398549",
+      "is_kol": false,
+      "score": 184.0
+    },
+    {
+      "id": "2114296740547350776",
+      "author": "Domingo_gou",
+      "text": "把 @NeoSoulAI 最近两个月动作连起来看，发现一些有趣的地方。\n\n8月17日发布NeoTrade，9月1日推出Skill Builder，10月21日迎来新CPO Alan，第二天又宣布准备通过API接入https://t.co/Htqsga7xfJ。\n\n从客户端、策略构建到外部市场的接入计划，项目正在一步步往实际应用走。\n\n做AI交易产品，我觉得最怕的就是走得太快，今天接一个市场，明天加一个功能，看起来是很热闹。可真要用起来，还是得看自己设置的策略能不能稳定运行，出了问题能不能查清楚，换个市场后原来的经验还管不管用。\n\n我特意看了NeoSoul",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2114296740547350776",
+      "is_kol": false,
+      "score": 176.0
+    }
+  ]
+}

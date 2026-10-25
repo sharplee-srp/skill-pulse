@@ -8714,5 +8714,17 @@
   "clins1994/skills": {
     "first_seen": "2026-10-24",
     "tier": 3
+  },
+  "opengeos/rustgis": {
+    "first_seen": "2026-10-25",
+    "tier": 2
+  },
+  "elayadesign/ai-design-skills": {
+    "first_seen": "2026-10-25",
+    "tier": 3
+  },
+  "phuryn/staygreen": {
+    "first_seen": "2026-10-25",
+    "tier": 3
   }
 }
