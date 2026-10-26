@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-26",
+  "stats": {
+    "total_fetched": 359,
+    "unique_tweets": 164,
+    "tweets_with_repos": 24,
+    "unique_repos": 20,
+    "new_repos": 11,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "lightricks/ltx-2",
+      "github_url": "https://github.com/lightricks/ltx-2",
+      "tier": 0,
+      "is_new": true,
+      "score": 985.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "heyrimsha"
+      ],
+      "total_likes": 100,
+      "total_retweets": 17,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heyrimsha",
+        "text": "GitHub is hiding an absolute GOLDMINE for AI filmmakers.\n\n10 open-source repos that can generate videos, animate photos, create cinematic scenes, and automate video editing.\n\nSome of these are ridiculously powerful.\n\nBookmark this:\n\n1. LTX-2\n\nGenerate video with synchronized audi",
+        "likes": 100,
+        "url": "https://x.com/i/status/2114672104021148033"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114672104021148033"
+      ]
+    },
+    {
+      "repo": "vkorost/screenplink",
+      "github_url": "https://github.com/vkorost/screenplink",
+      "tier": 2,
+      "is_new": true,
+      "score": 540.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 130,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Someone built a laser shooting range out of his monitor, and Claude Code wrote the code.\n\nScreenPlink is a dry-fire training game: you shoot the screen with a laser trainer, a webcam beside the monitor finds the exact pixel you hit, and the target falls.\n\n→ Nine drills, fifteen s",
+        "likes": 130,
+        "url": "https://x.com/i/status/2114533722573721928"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114533722573721928"
+      ]
+    },
+    {
+      "repo": "adedoyin-emmanuel/chowbot",
+      "github_url": "https://github.com/adedoyin-emmanuel/chowbot",
+      "tier": 3,
+      "is_new": true,
+      "score": 467.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 89,
+      "total_retweets": 20,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Emmysoft_Tm",
+        "text": "What if you could order food from Chowdeck just by chatting with ChatGPT or Claude? \n\nI built Chowbot, an open-source MCP server that brings Chowdeck food ordering into your favourite AI assistant.\n\nFind food. Fill your cart. Check out. Track your delivery. All through a conversa",
+        "likes": 89,
+        "url": "https://x.com/i/status/2114655637854400557"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114655637854400557"
+      ]
+    },
+    {
+      "repo": "edigeh/broll-mcp",
+      "github_url": "https://github.com/edigeh/broll-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 322.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 74,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "broll-mcp is an MCP server that lets AI agents work with public-domain footage from the Internet Archive.\n\n→ Tools to search, preview scenes with keyframes and cut 1-60 second MP4 clips\n→ Each clip gets a provenance record with source hash, license text and attribution\n→ Clips wi",
+        "likes": 74,
+        "url": "https://x.com/i/status/2114601670164312115"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114601670164312115"
+      ]
+    },
+    {
+      "repo": "pocarles/long-story-short",
+      "github_url": "https://github.com/pocarles/long-story-short",
+      "tier": 3,
+      "is_new": true,
+      "score": 155.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "pocarles",
+        "text": "I've built a skill that changed how I work and made me genuinely productive.\n\nLike many of you, I always have several sessions running in parallel, in Codex and Claude. Past five or six on different projects, the agents aren't what slows me down anymore, I am.\n\nEvery time a sessi",
+        "likes": 15,
+        "url": "https://x.com/i/status/2114412336156913836"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114412336156913836"
+      ]
+    },
+    {
+      "repo": "brntech/myotp-agentkit",
+      "github_url": "https://github.com/brntech/myotp-agentkit",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MyOTPApp",
+        "text": "Building with Claude Code? Give it the MyOTP skill.\n\nRun npx skills add brntech/myotp-agentkit, then ask for phone verification. It wires the send and verify calls into your app, over SMS, WhatsApp or Telegram.\n\n15 free trial credits to start.\n\nhttps://t.co/BgsaCCccQ8",
+        "likes": 2,
+        "url": "https://x.com/i/status/2114733799426728296"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114733799426728296"
+      ]
+    },
+    {
+      "repo": "synorb/skills",
+      "github_url": "https://github.com/synorb/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "synorb",
+        "text": "Synorb Skills are live. 🚀\n\nThree jobs. Two agent workflows. Watch the difference.\n\nOne agent searches the web: pages of links to sort and throw away, its token budget burning, and the story that mattered slipping past.\n\nThe other runs Synorb Skills on Beacons and gets the source ",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114743858567295060"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114743858567295060"
+      ]
+    },
+    {
+      "repo": "victor-falcon/skills",
+      "github_url": "https://github.com/victor-falcon/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "victoor",
+        "text": "La skill /orchestrate:\nhttps://t.co/xQCbY26S84\n\nnpx skills add victor-falcon/skills\n\nY la app: https://t.co/LwyvwLTPFY",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114711664033747336"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114711664033747336"
+      ]
+    },
+    {
+      "repo": "zym35/agent-ticket-tracker",
+      "github_url": "https://github.com/zym35/agent-ticket-tracker",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wrongsunstudio",
+        "text": "I made agent-ticket-tracker: a skill your agents use to keep one TRACKER.md current.\n🙋 Waiting for you\n🔄 In progress\n⏭️ Next\n✅ Recently completed\nYou just read it. MIT, works with Claude Code and Codex.\nhttps://t.co/80w7Rw8XIU https://t.co/5P9sSHgqqi",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114741275073356173"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114741275073356173"
+      ]
+    },
+    {
+      "repo": "arjunkshah12345-hash/flash-montage",
+      "github_url": "https://github.com/arjunkshah12345-hash/flash-montage",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arjunkshah21",
+        "text": "oh and its a skill you can give to your agent\n\nnpx skills add arjunkshah12345-hash/flash-montage\n\nhttps://t.co/19u0nBB9AQ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114749394671325659"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114749394671325659"
+      ]
+    },
+    {
+      "repo": "jimmysadek/video-fetcher-to-markdown",
+      "github_url": "https://github.com/jimmysadek/video-fetcher-to-markdown",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Yarad_ai",
+        "text": "یه ابزار کاربردی برای تبدیل ویدیوها به یادداشت‌های Markdown پیدا کردم! 🎬📝\n\nبا Skill به اسم Video Fetcher to Markdown می‌تونی لینک ویدیو رو به Claude Code یا Codex بدی و یک یادداشت کامل و مرتب تحویل بگیری.\n\n📌 از چه پلتفرم‌هایی پشتیبانی می‌کنه؟\n\nYouTube، TikTok، Instagram، X، Vimeo",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114744878097674526"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114744878097674526"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 339.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 38,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xAA_Science",
+        "text": "现在是 AI 时代，Flap 最新上线了 AI 方向的产品： ID Agent Curve，它有两大特点：\n1. 内盘只有拥有 Agent ID 的钱包可以交易，单钱包上限 2%，不可转让。\n2. 发射到外盘后，所有钱包都可以交易转移。\n\n使用教程：\n1. 开通币安钱包 Agentic Wallet: 币安App -> 钱包 -> 更多 -> Agentic Wallet 。记得点击右上角的设置按钮，打开开发者模式，不然有的交易没法授权。\n2. Agentic Wallet 是一个给 Agent 使用的钱包，有单独的地址，记得转些 BNB 进去。\n3. ",
+        "likes": 38,
+        "url": "https://x.com/i/status/2114729601444557275"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114729601444557275",
+        "https://x.com/i/status/2114721866208141629"
+      ]
+    },
+    {
+      "repo": "anthropics/sandbox-runtime",
+      "github_url": "https://github.com/anthropics/sandbox-runtime",
+      "tier": 3,
+      "is_new": false,
+      "score": 336.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 72,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RoundtableSpace",
+        "text": "Every MCP server and agent you install can read your SSH keys and .env files. Anthropic open-sourced the sandbox it built for Claude Code to stop that.\n\nWrap any agent, MCP server or command in it, and it can only touch the folders and websites you allow. Everything else gets blo",
+        "likes": 72,
+        "url": "https://x.com/i/status/2114699842601558046"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114699842601558046"
+      ]
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "github_url": "https://github.com/vercel-labs/agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 262.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CallMeDiegoJr",
+        "text": "به Claude و ChatGPT مهارت یاد بده!\n\nابزار رایگان Vercel با یه خط Skill رو روی Agentت نصب می‌کنه.\n\nدستور:\n npx skills add vercel-labs/agent-skills\n\nلینک:\nhttps://t.co/lmSFVwTDly https://t.co/zhCErSvMNl",
+        "likes": 49,
+        "url": "https://x.com/i/status/2114711144073965728"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114711144073965728"
+      ]
+    },
+    {
+      "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+      "github_url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 221.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 7,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ItsNexoras",
+        "text": "做游戏还是写小工具，开工前先装 skills 包\n\n有人丢了个 70 多个游戏向 Agent Skills。Godot Unity Unreal 都能认，你说要干嘛，它自己挑技能\n\n一条命令搞定\nnpx skills add gamedev-skills/awesome-gamedev-agent-skills\n\n我还没装，先收藏。下次开坑直接抄，别再从零翻引擎文档了",
+        "likes": 4,
+        "url": "https://x.com/i/status/2114720220107637175"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114723096821186974",
+        "https://x.com/i/status/2114720220107637175"
+      ]
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 220.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 35,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "trending_repos",
+        "text": "Trending repository of the week 🏅\n\nsecurity-audit-skill\n\nA coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\nLast week: 15,072 ⭐\nTotal: 47,821 ⭐️\nhttps://t.co/z1VMXkjMsw",
+        "likes": 35,
+        "url": "https://x.com/i/status/2114690792111632444"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114690792111632444"
+      ]
+    },
+    {
+      "repo": "juliusbrussee/caveman",
+      "github_url": "https://github.com/juliusbrussee/caveman",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "MIAOYOTOP",
+        "text": "用 Claude Code / Codex，一个小改动也能解释一大段，再塞进整块日志和 JSON，token 很快就没了。\n\n分享一个工具 Caveman，Skill 负责让 Agent 少说废话，本地 Proxy 负责压缩输入，原始内容保存在本地，需要时再取回。\n\n可以先装 Skill 试试，觉得有用再接 Proxy，安装命令：\n\nnpx skills add JuliusBrussee/caveman\n\n项目地址：https://t.co/OV4MypCFKr\n\n#AI编程 #ClaudeCode #Codex",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114714530303594654"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114714530303594654",
+        "https://x.com/i/status/2114749615903850649"
+      ]
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "github_url": "https://github.com/openclaw/openclaw",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Sairahcaz2k",
+        "text": "pretty cool skill by @steipete to strip your test suite and remove useless tests\n\nhttps://t.co/2AHDvFbmMl",
+        "likes": 1,
+        "url": "https://x.com/i/status/2114678552364773709"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114719570632060952",
+        "https://x.com/i/status/2114678552364773709"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shahporan_Razu",
+        "text": "A designer bills $60 to $150 an hour, mostly for taste.\n\nFive free skills, and the taste comes with them.\n\n1. frontend-design (anthropics/skills)\nFrontend design patterns and visual polish guidance, written by Anthropic.\n\n2. web-design-guidelines (vercel-labs/agent-skills)\nVercel",
+        "likes": 2,
+        "url": "https://x.com/i/status/2114718701777715379"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114718701777715379"
+      ]
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "github_url": "https://github.com/hypit-ai/hypit",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "AI_DVD6",
+        "text": "Hypit 安装和使用方法👇\n\nGitHub 项目（内有原版与复刻视频对比）：\nhttps://t.co/ytgnzdULTG\n中文说明：\nhttps://t.co/Z4ZRdpv8q4\n\n① 打开 Claude Code 或 Codex，在终端执行：\nnpx skills add hypit-ai/hypit -g\n\n② 准备一条参考视频，以及你自己的产品图片或素材。\n\n③ 把下面这段话发给 Agent：\n\n「使用 /hypit，参考我提供的视频，保留原视频的开头节奏、镜头结构、字幕风格和转场效果。\n\n将内容改为：[你的主题/产品]。\n\n重新制作旁白、",
+        "likes": 0,
+        "url": "https://x.com/i/status/2114723739346543082"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2114723739346543082"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2114511329558204664",
+      "author": "skeptrune",
+      "text": "using docusign is insane because they have seven thousand employees &amp; still can't build a mcp server",
+      "likes": 347,
+      "views": 0,
+      "url": "https://x.com/i/status/2114511329558204664",
+      "is_kol": false,
+      "score": 1056.0
+    },
+    {
+      "id": "2114531483167887841",
+      "author": "tienho_nyx",
+      "text": "An AI agent can spend hundreds of dollars getting a location filmed\n\nOr just $0.01 checking whether the data already exists\n\nThat's a detail I almost missed in @vangrid_io  docs\n\nVangrid isn't only building a marketplace where people get paid to capture real places\n\nIt also has a",
+      "likes": 226,
+      "views": 0,
+      "url": "https://x.com/i/status/2114531483167887841",
+      "is_kol": false,
+      "score": 688.0
+    },
+    {
+      "id": "2114694928391663819",
+      "author": "HSVSphere",
+      "text": "Devlet bazen de MCP server kurar",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2114694928391663819",
+      "is_kol": false,
+      "score": 480.0
+    },
+    {
+      "id": "2114565932882203109",
+      "author": "e_opore",
+      "text": "100 Modern Computer Science Projects in the AI Era (with Source Code)\n\nAI & Machine Learning\n1. AI-Powered Personal Assistant\n2. Retrieval-Augmented Generation (RAG) Chatbot\n3. AI Agent with Tool Calling\n4. Multi-Agent Research System\n5. AI Code Review Assistant\n6. Intelligent Do",
+      "likes": 118,
+      "views": 0,
+      "url": "https://x.com/i/status/2114565932882203109",
+      "is_kol": false,
+      "score": 434.0
+    },
+    {
+      "id": "2114691556582256971",
+      "author": "MikaelDewabrata",
+      "text": "Kelas Dasar-Dasar Agentic AI dengan Hermes saya buka. Dari cara kerja agent, tools dan skill, workflow otomatis, sampai bikin agent pribadi sendiri.\n\n4 sesi plus 1 sesi bonus Claude. Ada rekaman dan modul kelas, online via Zoom.\n\nLink pendaftaran bisa disimak setelah post ini. ht",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2114691556582256971",
+      "is_kol": false,
+      "score": 425.0
+    },
+    {
+      "id": "2114703125512945836",
+      "author": "Phu_Prosperity8",
+      "text": "🧬NeoSoul doesn’t need to promise a better agent economy. It needs to prove one can work.\n\nOver the next 12 months, here’s what I’d like to see from @NeoSoulAI:\n\n→ Make NeoTrade easier to trust. Keep onboarding simple, make risk controls clear, and let users evaluate an agent’s de",
+      "likes": 138,
+      "views": 0,
+      "url": "https://x.com/i/status/2114703125512945836",
+      "is_kol": false,
+      "score": 414.0
+    },
+    {
+      "id": "2114745753034018893",
+      "author": "NetNetCap",
+      "text": "Shareholders,\n\nFor the last few weeks we have been building Net Forge, and this week it went from a private project to something any developer, or any AI agent, can pick up and use.\n\nHere is what that means and why we think it matters.\n\nMore and more games start as a sentence typ",
+      "likes": 95,
+      "views": 0,
+      "url": "https://x.com/i/status/2114745753034018893",
+      "is_kol": false,
+      "score": 405.0
+    },
+    {
+      "id": "2114636661024084469",
+      "author": "jonson_coder",
+      "text": "🚀 12 AI Tools That Feel Like Superpowers! 🤖🔥\n\nWant to save time, boost creativity, and work smarter? These AI tools can help you do it all. 👇\n\n1. https://t.co/aqolYEAGlO — Solve problems & brainstorm ideas\n2. https://t.co/02OKUgrWmo — Remove image backgrounds instantly\n3. https:/",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2114636661024084469",
+      "is_kol": false,
+      "score": 340.0
+    },
+    {
+      "id": "2114702117160034632",
+      "author": "OnlyHades_",
+      "text": "$ZENO getting more interesting day by day...\n\n>Builds a “model of models” that reads forecasts from humans, markets, and AI, then spots fragile consensus and blind spots\n>Open models published on Hugging Face (multiple versions, live API / MCP tool)\n>Dev (@mbarrbosa / @zenoVision",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2114702117160034632",
+      "is_kol": false,
+      "score": 284.0
+    },
+    {
+      "id": "2114714296844259610",
+      "author": "MatinSenPai",
+      "text": "ساخت استارتاپ و 50 میلیون کسب درآمد توی 30 روز با Claude Code | قسمت 1\n\nتماشا در یوتوب: https://t.co/q6hQOjYeBV\n\nتوی این سری ویدئو، قراره با همدیگه Commento (کامنتو) رو بسازیم. پلتفرمی که کامنت‌های اینستاگرام رو به‌صورت هوشمند بررسی می‌کنه؛ کامنت‌های توهین‌آمیز و مزاحم رو فیلتر و",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2114714296844259610",
+      "is_kol": false,
+      "score": 254.0
+    },
+    {
+      "id": "2114718696551952769",
+      "author": "suraj_sharma14",
+      "text": "TOP 1% AI PROJECTS that get you hired in 2026.\n\n1.) Terminal Agent\nAutonomous shell execution with self-debug loops.\nTarget:  Top 10 on Terminal-Bench.\nShows:  Agents that operate real systems safely.\n\n2.) Computer-Use Agent\nBrowser agent that books, fills, extracts on live sites",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2114718696551952769",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2114551938755010612",
+      "author": "iamlukethedev",
+      "text": "Hermes merged 117 PRs on October 25\n\nThe ones worth knowing:\n\n• The agent can now pick and search ElevenLabs voices on its own when it speaks\n• Desktop group chats get rename, disband, mentions and attachment paste\n• The gateway now serves the Desktop workspace to the web app\n• Y",
+      "likes": 61,
+      "views": 0,
+      "url": "https://x.com/i/status/2114551938755010612",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2114705124715343920",
+      "author": "M3rik00",
+      "text": "Most people use AI assistants to get something done, then the interaction ends there. The assistant answers a question, writes some code, or completes a task, but its ability to participate in work beyond that conversation is usually limited.\n\n@termix_ai is pushing beyond that bo",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2114705124715343920",
+      "is_kol": false,
+      "score": 159.0
+    },
+    {
+      "id": "2114711159597137965",
+      "author": "ryouxbt",
+      "text": "Holy f*ck, Google just released a free 1-hour course on agentic knowledge graphs\n\n\"Your agents don't need a bigger model. They need a graph that remembers everything\"\n\nPrompts → Agents → Knowledge Graphs → Self-Improving Agents\n\n04:01 - Build your first GraphRAG agent from scratc",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2114711159597137965",
+      "is_kol": false,
+      "score": 152.0
+    },
+    {
+      "id": "2114685166434308142",
+      "author": "cheatyyyy",
+      "text": "so theo has a repo called fleet to sync his skills and tools across machines, and i built a tool called fleet to ALSO do something similar + running stuff across machines, giving agents access to proper tools like computer use across a fleet of machines (using cua), everything is",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2114685166434308142",
+      "is_kol": false,
+      "score": 150.0
+    },
+    {
+      "id": "2114732882547679284",
+      "author": "AIOZNetwork",
+      "text": "AIOZ AI is now agent-ready with the MCP Server + Agent Skills.\n\n→ Connect Claude Code or any MCP client\n\n→ Discover and run models from your editor\n\n→ Equip your agent for inference and file handling\n\nOne connection gives your agent access to models, tasks, storage, and datasets ",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2114732882547679284",
+      "is_kol": false,
+      "score": 147.0
+    },
+    {
+      "id": "2114650745878507932",
+      "author": "AiswaryaVenkit1",
+      "text": "Microsoft has the tools.\n\nThe real power is in the combinations.\n\nA strong enterprise stack is rarely built with one platform. It emerges when data, analytics, AI, agents, automation, security, and development tools work together.\n\nHere is what that looks like in 2026:\n\n→ Fabric ",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2114650745878507932",
+      "is_kol": false,
+      "score": 143.0
+    },
+    {
+      "id": "2114690693318787235",
+      "author": "BortOnBsc",
+      "text": "1. Binance Agent ID coins (Oct 25)\n\nA new https://t.co/OaLWWjJHOS coin type: ask your agent in chat and sign with your wallet; your agent’s treasury is the creator. No tax by default.\nUntil it graduates, only Binance Agentic Wallets with an Agent ID can trade it.\nWorks on armed a",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2114690693318787235",
+      "is_kol": false,
+      "score": 141.0
+    }
+  ]
+}

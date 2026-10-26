@@ -8726,5 +8726,49 @@
   "phuryn/staygreen": {
     "first_seen": "2026-10-25",
     "tier": 3
+  },
+  "lightricks/ltx-2": {
+    "first_seen": "2026-10-26",
+    "tier": 0
+  },
+  "vkorost/screenplink": {
+    "first_seen": "2026-10-26",
+    "tier": 2
+  },
+  "adedoyin-emmanuel/chowbot": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "edigeh/broll-mcp": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "pocarles/long-story-short": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "brntech/myotp-agentkit": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "synorb/skills": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "victor-falcon/skills": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "zym35/agent-ticket-tracker": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "arjunkshah12345-hash/flash-montage": {
+    "first_seen": "2026-10-26",
+    "tier": 3
+  },
+  "jimmysadek/video-fetcher-to-markdown": {
+    "first_seen": "2026-10-26",
+    "tier": 3
   }
 }
