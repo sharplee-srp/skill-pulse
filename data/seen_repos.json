@@ -8770,5 +8770,105 @@
   "jimmysadek/video-fetcher-to-markdown": {
     "first_seen": "2026-10-26",
     "tier": 3
+  },
+  "matthewzammit/skills": {
+    "first_seen": "2026-10-27",
+    "tier": 1
+  },
+  "vangrid-labs/bounty-mcp": {
+    "first_seen": "2026-10-27",
+    "tier": 2
+  },
+  "unclebob/ub-mode": {
+    "first_seen": "2026-10-27",
+    "tier": 2
+  },
+  "pomerado/pomerado": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "upstash/context7": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "agno-agi/agno": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "homeassistant-ai/ha-mcp": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "wesbos/3d-model-anything": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "0xquqi/ezbot-project-research-skill": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "ahujasid/mcp-for-blender": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "anthropics/single-agent-loop-kit": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "opentoolsorg/video-to-skill": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "0xarchiveio/0xarchive-quant": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "mrdoob/three.js": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "walidoot/shippage": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "andyhuo520/digital-human-koubo": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "pycodebr/heditor": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "auth0/agent-skills": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "jcsancho/envsave": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "albisourous/prefixer": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "sergebulaev/youtube-skills": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "xiangyu-cas/xiaohongshu-ops-skill": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "enesozturk/dimensional-drawing": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "eternityspring/shuohao-skills": {
+    "first_seen": "2026-10-27",
+    "tier": 3
+  },
+  "vale-dinap/gearsecond": {
+    "first_seen": "2026-10-27",
+    "tier": 3
   }
 }
