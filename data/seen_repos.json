@@ -8870,5 +8870,33 @@
   "vale-dinap/gearsecond": {
     "first_seen": "2026-10-27",
     "tier": 3
+  },
+  "0x1903/safemcp": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "gardan4/quillwork": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "xai-org/grok-build": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "0xmulight/agent-id-hunter": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "melvynx/video-agent-skills": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "onlymoein/master-cache-skill": {
+    "first_seen": "2026-10-28",
+    "tier": 3
+  },
+  "kelvinkn17/skills": {
+    "first_seen": "2026-10-28",
+    "tier": 3
   }
 }
