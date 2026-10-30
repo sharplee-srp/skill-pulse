@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-30",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 167,
+    "tweets_with_repos": 14,
+    "unique_repos": 14,
+    "new_repos": 5,
+    "previously_seen_repos": 9
+  },
+  "new_repos": [
+    {
+      "repo": "raphaelsalaja/skills",
+      "github_url": "https://github.com/raphaelsalaja/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "raphaelsalaja",
+        "text": "It's one of a few skills I've made from millions of chats with agents. Grab them all with `npx skills add raphaelsalaja/skills` to save you hours of time.\nhttps://t.co/sMUPMTETVK",
+        "likes": 3,
+        "url": "https://x.com/i/status/2116180137930641692"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116180137930641692"
+      ]
+    },
+    {
+      "repo": "coool-labs/coool-agents",
+      "github_url": "https://github.com/coool-labs/coool-agents",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Hacklone",
+        "text": "I kept hitting my Codex quota mid-task, then opening Claude Code and re-explaining everything.\n\nSo I made continuity - an Agent Skill that keeps a live checkpoint so another agent can just continue.\n\nnpx skills add coool-labs/coool-agents --skill continuity\n\n#AgentSkills @OpenAI",
+        "likes": 1,
+        "url": "https://x.com/i/status/2116156522405265693"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116156522405265693"
+      ]
+    },
+    {
+      "repo": "1shot-api/skills",
+      "github_url": "https://github.com/1shot-api/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "1shotapi",
+        "text": "Install: npx skills add 1Shot-API/skills/1shot-wallet\nDocs and wallet: https://t.co/ciKImJ9kuv",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116157027131011352"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116157027131011352"
+      ]
+    },
+    {
+      "repo": "social-media-skills/video-editing-skill",
+      "github_url": "https://github.com/social-media-skills/video-editing-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manojkumar2257",
+        "text": "Stop paying an editor for the first pass on talking-head videos.\n\nA free Claude Code skill now does it on your own laptop, and shows you every cut before it renders.\n\nvideo-editing-skill by social-media-skills (MIT, released today):\nhttps://t.co/qiism21pQX\n\nWhat it does with a ra",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116147352138609132"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116147352138609132"
+      ]
+    },
+    {
+      "repo": "wonkylamp/gta-6-skill",
+      "github_url": "https://github.com/wonkylamp/gta-6-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "wonkylamp",
+        "text": "two commands to install:\n\n/plugin marketplace add wonkylamp/gta-6-skill\n/plugin install gta-6@wonkylamp\n\nGrok, Codex, Cursor, Copilot, Gemini CLI:\nnpx skills add wonkylamp/gta-6-skill -g\n\nhttps://t.co/4RTDWUbuCF https://t.co/KokKFdlXzA",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116135085368053776"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116135085368053776"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 219.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leonParkercoder",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/lN8f4Jb7AV\n\n2. public-apis — free APIs for everything\n→ https://t.co/nn3bpEMuep…\n\n3. build-your-own-x — learn by building\n→ https://t.co/Ep82XqR0vH…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 23,
+        "url": "https://x.com/i/status/2116004771178119395"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116004771178119395"
+      ]
+    },
+    {
+      "repo": "opensensenova/sensenova-skills",
+      "github_url": "https://github.com/opensensenova/sensenova-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "n7wb1l",
+        "text": "专为办公场景打造的 83 个顶级 AI Agent 技能库：SenseNova-Skills 📊🎨\n\n深度聚焦数据分析、深度调研、演示文稿生成与图表绘制 4 大核心场景，为大模型 Agent 提供开箱即用的模块化工作流与配套脚本\n\n👥 【适用人群】 适合希望直接为 AI Agent（推荐 OpenClaw / Hermes 等框架）挂载标准化技能，自动化完成复杂办公与研报任务的开发者与职场效率达人\n\n🎬 【典型使用场景】\n\n1️⃣ 从数据到演示的全链路自动化：Agent 自动清洗内存价格数据、研判分析趋势、检索调取归因，并直接一键生成排版精美且带引用的 ",
+        "likes": 4,
+        "url": "https://x.com/i/status/2116045701562188180"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116045701562188180"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 109.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 3,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cathrynlavery",
+        "text": "diagram-design just passed 63K stars.\n\nthe wild part: most of this week's growth came from posts i didn't write, in chinese and japanese. one did 14K views and 254 bookmarks.\n\nif you haven't tried it:\nnpx skills add cathrynlavery/diagram-design\n\nthen just describe the diagram you",
+        "likes": 3,
+        "url": "https://x.com/i/status/2116191950311424441"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116191950311424441"
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "github_url": "https://github.com/heygen-com/hyperframes",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "just_v3ra",
+        "text": "Your coding agent can make videos now.\nHyperFrames, HeyGen's open-source tool, renders HTML animation to MP4.\nnpx skills add heygen-com/hyperframes\nThen ask Claude Code, Codex or Cursor for a 10s intro.\nNeeds Node 22+ and FFmpeg.\nhttps://t.co/fKTc5A8tyY https://t.co/zVFJHU03BQ",
+        "likes": 2,
+        "url": "https://x.com/i/status/2116162403515981839"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116162403515981839"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0x_3p",
+        "text": "② 安装 Skills（一次性）\n\n在你的 AI 助手里执行：\n\nnpx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet\n\n首次使用会自动装 baw CLI。装完后对 AI 说：「登录 Binance Agentic Wallet」。\n\n它会返回配对链接/二维码 + pairingCode。用币安 App 扫码，核对验证码一致后再确认。\n\n首次会引导创建 Agentic Wallet。",
+        "likes": 1,
+        "url": "https://x.com/i/status/2116142338112450581"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116142338112450581"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenta_business",
+        "text": "Claude Codeに頼んだら、名画が勝手に動き出した。\n\nゴッホの星空、北斎の大波、モネの睡蓮、クリムトの金色。\n絵を描いたのも、動かしたのも全部AIです。\n\n使ったのは無料のスキル「huashu-art-motion」。\nnpx skills add alchaincyf/huashu-art-motion\nを実行して、「ゴッホ風に星空を動かして」と頼むだけ。",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116182084322517168"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116182084322517168"
+      ]
+    },
+    {
+      "repo": "leonxlnx/taste-skill",
+      "github_url": "https://github.com/leonxlnx/taste-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shahporan_Razu",
+        "text": "A brand kit from a studio is four figures and three weeks.\n\nFive free skills, one afternoon.\n\n1. brand-guidelines (anthropics/skills)\nProduces and applies a coherent brand guideline document.\n\n2. brandkit (leonxlnx/taste-skill)\nBrand-kit boards covering logos, palettes, and ident",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116168256734298126"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116168256734298126"
+      ]
+    },
+    {
+      "repo": "factline-dev/factline-skills",
+      "github_url": "https://github.com/factline-dev/factline-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "factlinedev",
+        "text": "Before your agent pays an invoice, check it first. Factline's verify-before-paying skill runs the check. Install with: npx skills add factline-dev/factline-skills. https://t.co/zomzP7fz5H",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116158947287851418"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116158947287851418"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tantanyuli",
+        "text": "AI 会写页面，可写出来的页面就一定好看吗？\n\njakubkrehel/skills 就是给 AI Agent 补上一套 UI 设计能力，界面细节到整体审查都有覆盖。\n\n里头包括：\n① UI 细节、圆角、阴影和微交互\n② 字体与排版\n③ OKLCH 配色\n④ 页面布局\n⑤ 无障碍设计\n⑥ UX 文案和界面 Review\nClaude Code 插件支持，Skills CLI 也能装。\n一条命令就够：\nnpx skills add jakubkrehel/skills\n经常让 AI 写前端的，这套可以装上试试。\n🔗 https://t.co/AISkxee",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116145090875838897"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116145090875838897"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2116154468358316380",
+      "author": "XiaomiTech_",
+      "text": "From recognizing text to understanding documents. 📄 \n\nMeet Xiaomi-OCR-0, an open-source document understanding model with just 0.8B parameters.\n\nIt brings document parsing, key information extraction, and OCR-oriented visual question answering into one lightweight model. \n\nIt sco",
+      "likes": 877,
+      "views": 0,
+      "url": "https://x.com/i/status/2116154468358316380",
+      "is_kol": false,
+      "score": 3111.0
+    },
+    {
+      "id": "2116172513801863211",
+      "author": "mattpocockuk",
+      "text": "My agent is making me a custom Voice Assistant app for my Pixel Watch so I can send recordings directly to my agents.\n\nThe /pr skill is SO NICE for capturing visual changes without needing to QA it.\n\nI love AI https://t.co/BjwVAFCHSq",
+      "likes": 213,
+      "views": 0,
+      "url": "https://x.com/i/status/2116172513801863211",
+      "is_kol": false,
+      "score": 669.0
+    },
+    {
+      "id": "2116149863935078885",
+      "author": "sorenxet",
+      "text": "Claude Opus 5.5 can now build, rig and animate full 3D scenes inside Blender...\n\nThe trick is letting Opus orchestrate instead of model, and there's a smart way to set it up:\n\n- Step 1: Install Blender 5.2.2 and the official Blender MCP server.\n- Step 2: Open Claude, pick Opus 5.",
+      "likes": 210,
+      "views": 0,
+      "url": "https://x.com/i/status/2116149863935078885",
+      "is_kol": false,
+      "score": 665.0
+    },
+    {
+      "id": "2116145674148343916",
+      "author": "khodeSL",
+      "text": "an AI agent can be great at its job and still have zero customers.\n\nthat's the part of the agent economy i think gets overlooked.\n\n@termix_ai is building more than a directory of bots.\n\non https://t.co/0sS4xHcdLe, agents can discover requests, quote for work, submit deliverables ",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2116145674148343916",
+      "is_kol": false,
+      "score": 536.0
+    },
+    {
+      "id": "2116083413623197794",
+      "author": "illyism",
+      "text": "2 hours later: Coolify is officially gone across all 3 of my servers 💀\n\nReplaced both self-hosted Coolify + Coolify Cloud with a 0-dependency control plane inside my analytics app:\n- 28 apps & 633 AES-256-GCM encrypted env vars migrated\n- GitHub App push webhooks → BuildKit build",
+      "likes": 152,
+      "views": 0,
+      "url": "https://x.com/i/status/2116083413623197794",
+      "is_kol": false,
+      "score": 471.0
+    },
+    {
+      "id": "2116021611266531516",
+      "author": "e_opore",
+      "text": "5 Tips to Master Backend Engineering in the AI Era\n\n1. Master Backend Fundamentals\nBuild a strong foundation in HTTP, REST APIs, authentication, authorization, databases, caching, message queues, and server-side programming. Understand how modern backend systems communicate and o",
+      "likes": 90,
+      "views": 0,
+      "url": "https://x.com/i/status/2116021611266531516",
+      "is_kol": false,
+      "score": 355.0
+    },
+    {
+      "id": "2116040421940006946",
+      "author": "illyism",
+      "text": "I think unfortunately @coolifyio is next on the chopping block 💀\n\nI don't need 150,000 lines of PHP and 272 dashboard screens anymore, I just need a GitHub webhook, docker build, and an MCP tool for my agent \n\nI would privately open-source this by invite only\n\nlmk if u need 👇 htt",
+      "likes": 101,
+      "views": 0,
+      "url": "https://x.com/i/status/2116040421940006946",
+      "is_kol": false,
+      "score": 303.0
+    },
+    {
+      "id": "2116103063614464304",
+      "author": "Mr_Buzzoni",
+      "text": "CLAUDE CODE + OBSIDIAN = KARPATHY'S SECOND BRAIN, BUILT FROM 7 FREE PLUGINS\n\nAndrej Karpathy: \"Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase.\"\n\nthese 7 free plugins put Claude Code on Opus 5.5 inside that IDE. \n\n38,457 GitHub stars, and your Obsidian va",
+      "likes": 97,
+      "views": 0,
+      "url": "https://x.com/i/status/2116103063614464304",
+      "is_kol": false,
+      "score": 301.0
+    },
+    {
+      "id": "2116161100136030338",
+      "author": "AamirAnsar94694",
+      "text": "𝗜𝗙 𝗬𝗢𝗨 𝗪𝗔𝗡𝗧 𝗧𝗢 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧𝗦, 𝗟𝗘𝗔𝗥𝗡 𝗧𝗛𝗘𝗦𝗘 𝟵 𝗧𝗘𝗥𝗠𝗦\n\nAI agents are becoming more than just chatbots.\n\nThey can use tools, remember context, retrieve information, work with other agents, and execute multi-step tasks.\n\nBut first, you need to understand the language behind them",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2116161100136030338",
+      "is_kol": false,
+      "score": 275.0
+    },
+    {
+      "id": "2116153148037542309",
+      "author": "leeky_k_crypt",
+      "text": "JUST IN: AI AGENTS LIKE CLAUDE CAN NOW BE SET UP TO BUILD APPS ON THE INTERNET COMPUTER\n\nDFINITY says its ICP skill (a set of instructions that teaches an AI agent how the network works) can be added to Claude, Codex, Perplexity and other agents. The agent then writes, deploys an",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2116153148037542309",
+      "is_kol": false,
+      "score": 241.0
+    },
+    {
+      "id": "2116026165647245456",
+      "author": "Nedim_TEKERR",
+      "text": "Gm my friends 🌅🌅🌅\n\n@ama_protocol exposes an MCP server so external AI agents can create unsigned transactions, submit signed ones, query balances, read contract state and pull chain statistics without custom integration code. Agents keep entry and exit in the same environment, so",
+      "likes": 50,
+      "views": 0,
+      "url": "https://x.com/i/status/2116026165647245456",
+      "is_kol": false,
+      "score": 220.0
+    },
+    {
+      "id": "2116149217081069989",
+      "author": "YaldaMasoudi",
+      "text": "The AI scam that gets you won't look like a scam\n\nIt'll sound like your bank, your boss, or a support agent asking for a 6 digit code \"to lock your account\"\n\nI tried Spot the AI Trap by @MEXC . Six calls, about a minute. I caught all six and got The Unfoolable with a 96/100 Safet",
+      "likes": 69,
+      "views": 0,
+      "url": "https://x.com/i/status/2116149217081069989",
+      "is_kol": false,
+      "score": 217.0
+    },
+    {
+      "id": "2116153181587542460",
+      "author": "0xwhrrari",
+      "text": "One Hire, Every Agent: Plug Viktor Into Cursor, Codex and Any MCP Client",
+      "likes": 70,
+      "views": 0,
+      "url": "https://x.com/i/status/2116153181587542460",
+      "is_kol": false,
+      "score": 215.0
+    },
+    {
+      "id": "2116098607439053131",
+      "author": "recat_125",
+      "text": "AgentCore による全社共通の MCP Gateway の実例記事です。\n\n複数アカウント上の MCP Server (数百の Tool) を単一の AgentCore Gateway に集約してます。\n\n大規模利用時の学び（人間と Agent の Identity 分離, DYNAMIC モード併用, Remote MCP のラップ）も参考になります。\nhttps://t.co/gpFMcuYwmx https://t.co/0lxuyBSP0Y",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2116098607439053131",
+      "is_kol": false,
+      "score": 209.0
+    },
+    {
+      "id": "2116135840674160684",
+      "author": "Rivonn",
+      "text": "holy sh*t, it can't be f**king real\n\nsomeone just built an MCP that plugs Claude into every viral UGC video on earth and made it FREE\n\nDarkUGC gives your agent a military-grade viral video database, every hook, every creator, every brand running UGC, all in one place, and they're",
+      "likes": 63,
+      "views": 0,
+      "url": "https://x.com/i/status/2116135840674160684",
+      "is_kol": false,
+      "score": 199.0
+    },
+    {
+      "id": "2116168249486323780",
+      "author": "0xwhrrari",
+      "text": "Holy f*ck, now Claude Code knows your whole company\n\n15 free open-source repos that give your coding agents what the repo never had\n\nSlack. Docs. Tickets. Errors. Memory.\n\nNot by pasting the company into 4 rules files\n\nBy plugging every agent into the same MCP servers\n\nEverything",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2116168249486323780",
+      "is_kol": false,
+      "score": 197.0
+    },
+    {
+      "id": "2116088808064037066",
+      "author": "CindyCreation",
+      "text": "昨晚 Grok @bot 和 @openclawby 在 #BSC 帮我赚的钱钱！\n\n别小看这点钱好吗？这可太像我小孩出去打工，孝敬妈妈的一样。太可爱了吧！\n全程不用我动手！ 够我在山姆买两块超级大的澳洲进口牛排了🥩🥳\n\nClawby的技能就像给我的Agent装上了超级大脑！不仅能帮我把空风险还能帮我根据链上数据判断这个币的基本面以及做买入卖出决策。如果按照正常机器人去扫链去打的话打太多垃圾了。\n\nClawby Skill 安装很简单，按这三步来：\n\n打开 https://t.co/I9S8TtpqjY ，用邮箱或钱包登录，在「Account → API",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2116088808064037066",
+      "is_kol": false,
+      "score": 187.0
+    },
+    {
+      "id": "2116140192344252559",
+      "author": "RodmanAi",
+      "text": "10 GitHub repos that give your AI agent superpowers on the internet.\n\nYour AI agent might be smart, but can it find something that happened 5 minutes ago?\n\nThat's where web access changes everything.\n\nThese 10 open-source GitHub projects can help developers build agents that expl",
+      "likes": 32,
+      "views": 0,
+      "url": "https://x.com/i/status/2116140192344252559",
+      "is_kol": false,
+      "score": 176.0
+    }
+  ]
+}

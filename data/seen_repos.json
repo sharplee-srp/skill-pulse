@@ -8958,5 +8958,25 @@
   "preslife/reference-pbr-skill": {
     "first_seen": "2026-10-29",
     "tier": 3
+  },
+  "raphaelsalaja/skills": {
+    "first_seen": "2026-10-30",
+    "tier": 3
+  },
+  "coool-labs/coool-agents": {
+    "first_seen": "2026-10-30",
+    "tier": 3
+  },
+  "1shot-api/skills": {
+    "first_seen": "2026-10-30",
+    "tier": 3
+  },
+  "social-media-skills/video-editing-skill": {
+    "first_seen": "2026-10-30",
+    "tier": 3
+  },
+  "wonkylamp/gta-6-skill": {
+    "first_seen": "2026-10-30",
+    "tier": 3
   }
 }
