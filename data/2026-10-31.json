@@ -1,0 +1,665 @@
+{
+  "date": "2026-10-31",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 176,
+    "tweets_with_repos": 26,
+    "unique_repos": 22,
+    "new_repos": 12,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "vincentwei1021/anything2explainer",
+      "github_url": "https://github.com/vincentwei1021/anything2explainer",
+      "tier": 0,
+      "is_new": true,
+      "score": 662.0,
+      "mention_count": 1,
+      "kol_mentions": [
+        "GitHub_Daily"
+      ],
+      "total_likes": 14,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GitHub_Daily",
+        "text": "最近 B 站、抖音上那种黑底动画配旁白的知识讲解视频挺火，想自己做一条，光画动画就劝退了。\n\nanything2explainer 是一个 Claude Code 和 Codex 的 Skill，给它一个主题，比如「讲一下向量数据库」，最后出来一条带配音、字幕和章节进度条的讲解视频。\n\n它会先查资料，每个数字和类比都附上来源，再写旁白、生成配音，按配音逐镜头画分镜，然后分给几个 Agent 并行用 Remotion 写每个镜头。\n\nGitHub：https://t.co/MHOs4yEteB\n\n做完还有专门的 Agent 逐章检查、修问题。整个过程只在四",
+        "likes": 14,
+        "url": "https://x.com/i/status/2116538221631099232"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116538221631099232"
+      ]
+    },
+    {
+      "repo": "beenuar/aisoc",
+      "github_url": "https://github.com/beenuar/aisoc",
+      "tier": 2,
+      "is_new": true,
+      "score": 1066.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 257,
+      "total_retweets": 39,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "doodi_dev",
+        "text": "⭐ AiSOC ⭐\nhttps://t.co/ihfyNISfi7\n\n1. AI가 보안 경보를 대신 살펴보는 보안 관제 센터(SOC)를 오픈소스로 만든 프로젝트가 나옴. 내 서버에 직접 설치해서 쓸 수 있음\n\n2. AI 에이전트가 경보를 조사하는데, 프롬프트와 도구 호출까지 한 단계씩 전부 기록해서 나중에 다시 확인 가능. 대응 조치는 사람이 승인해야 나감\n\n3. 보안 장비 로그를 받아 탐지 규칙 2530개를 돌리고, 관련 경보를 묶어 사건으로 정리함. 새 위협 정보가 나오면 이미 모아 둔 기록도 다시 ",
+        "likes": 257,
+        "url": "https://x.com/i/status/2116413610188554534"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116413610188554534"
+      ]
+    },
+    {
+      "repo": "mempalace/mempalace",
+      "github_url": "https://github.com/mempalace/mempalace",
+      "tier": 3,
+      "is_new": true,
+      "score": 317.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 54,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "neil_xbt",
+        "text": "MemPalace, a free AI memory system that runs on your own machine, has 59,900+ GitHub stars.\n\nIt saves your conversations word for word, then files them like a building: people and projects get wings, topics get rooms, the original text sits in drawers.\n\nFrom its README:\n1. 96.6% ",
+        "likes": 54,
+        "url": "https://x.com/i/status/2116383159017496783"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116383159017496783"
+      ]
+    },
+    {
+      "repo": "heydamir/unslop",
+      "github_url": "https://github.com/heydamir/unslop",
+      "tier": 3,
+      "is_new": true,
+      "score": 252.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 49,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "If you still think Claude Code's UIs scream AI at first glance, try this:\n\nA dashboard unslop video just hit 𝟭.𝟱𝗠+ 𝘃𝗶𝗲𝘄𝘀. A designer did it by hand. Now AI can do the same: audit like a lead designer, fix pass by pass until 𝗻𝗼𝗯𝗼𝗱𝘆 𝗰𝗮𝗻 𝘁𝗲𝗹𝗹 𝗔𝗜 𝗺𝗮𝗱𝗲 𝗶𝘁.\n\nSend it this:\n\n\"Take the AI",
+        "likes": 49,
+        "url": "https://x.com/i/status/2116515537496993856"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116515537496993856"
+      ]
+    },
+    {
+      "repo": "enmerasoftware/ai-design-check",
+      "github_url": "https://github.com/enmerasoftware/ai-design-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 218.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 6,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sinanyorulmazz",
+        "text": "AI coding agents build UI that looks generated.\n\nWe built a tool that finds it, fixes it and proves it: 266 design findings → 0 on this dashboard.\n\nOpen source, zero dependencies:\nnpx @enmera/ai-design-check\n\nWhat it does:\n→ 70 design rules, each with what, why and how to fix\n→ a",
+        "likes": 5,
+        "url": "https://x.com/i/status/2116531845839851723"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116532723196039556",
+        "https://x.com/i/status/2116531845839851723"
+      ]
+    },
+    {
+      "repo": "phuryn/product-engineering",
+      "github_url": "https://github.com/phuryn/product-engineering",
+      "tier": 3,
+      "is_new": true,
+      "score": 201.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PawelHuryn",
+        "text": "I open-sourced 43 agent skills for shipping real products. No coding.\n\nEverything I learned from 190K installs and sign ups.\n\nWhy was it needed?\n\nPopular AI engineering skill collections are for people who work with the code a lot. They skip discovery, go-to-market, and product a",
+        "likes": 32,
+        "url": "https://x.com/i/status/2116518625582682409"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116518625582682409"
+      ]
+    },
+    {
+      "repo": "phyllissong136/llm-wiki",
+      "github_url": "https://github.com/phyllissong136/llm-wiki",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "imryven",
+        "text": "I still don’t understand why a second brain only stores notes when these 10 repos make it quiz you, retract old claims and run offline\n\nYour agent can critique your notes, pull in fresh meeting transcripts, and one repo compares 15 second-brain tools for you\n\n01 llm-wiki → drop i",
+        "likes": 20,
+        "url": "https://x.com/i/status/2116524569129357367"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116524569129357367"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/codex-skill",
+      "github_url": "https://github.com/cathrynlavery/codex-skill",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cathrynlavery",
+        "text": "my favorite claude code setup: codex reviews every plan before i approve it.\n\ntwo models checking each other catches the edge cases one misses.\n\njust updated it for the gpt-6.1 lineup:\n\nclaude plugin marketplace add cathrynlavery/codex-skill\nclaude plugin install codex-skill@code",
+        "likes": 5,
+        "url": "https://x.com/i/status/2116540974427951112"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116540974427951112"
+      ]
+    },
+    {
+      "repo": "aryanalipro/jawdrop",
+      "github_url": "https://github.com/aryanalipro/jawdrop",
+      "tier": 3,
+      "is_new": true,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dngzsn37461",
+        "text": "试过让 Agent 出个站吗？刷出来全是紫渐变、三卡片、Get Started，换咖啡店还是牙医诊所，版式照搬。\n\njawdrop 是个开源 Agent Skill，专门逼 Agent 为每个站发明一套新设计概念，不走那张模板脸。\n\n一行装上：\nnpx skills add AryanAliPro/jawdrop\n片子前半段先甩出一排同脸落地页：暗底、霓虹点缀、三张一样的功能卡。后半段同一句 hotel brief，跑出三套各不相同的版式和主视觉；健身站还会把桌面加手机一起过一遍。前后差一眼能看出来。 https://t.co/MkUQjEvD7K",
+        "likes": 2,
+        "url": "https://x.com/i/status/2116512250689437754"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116512250689437754"
+      ]
+    },
+    {
+      "repo": "lydiatools/skill-bundle-check",
+      "github_url": "https://github.com/lydiatools/skill-bundle-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "LRosamarina",
+        "text": "Updated a Skill but your agent still behaves the old way?\n\nCheck whether its installed copy differs:\n\ndiff -qr ./your-skill ~/.codex/skills/your-skill\n\nPrefer a browser? Compare folders locally with Skill Bundle Check:\nhttps://t.co/wxnbbgsoGz https://t.co/uSQ36osBzU",
+        "likes": 1,
+        "url": "https://x.com/i/status/2116535858178453679"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116535858178453679"
+      ]
+    },
+    {
+      "repo": "google/elephant-goldfish-model",
+      "github_url": "https://github.com/google/elephant-goldfish-model",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ganfanren_ai",
+        "text": "Google 开源了一套让 AI\"先吵明白再写代码\"的方法：Elephant-Goldfish（EGM），已经 7000 星。原帖说只能在 Antigravity 里跑，现在已经过时了，Codex 和 Claude Code 都能装。\n\n两个角色：\n· Elephant（大象）：一个长期会话，记得整个项目背景，只负责跟你讨论、写设计文档，不写代码\n· Goldfish（金鱼）：一批全新的空白会话，没看过之前的讨论，专门挑设计文档的毛病\n\n三步走：egm-brainstorm 讨论方案 → egm-draft 写设计文档 → egm-review 让金鱼们",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116544102724751392"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116544102724751392"
+      ]
+    },
+    {
+      "repo": "kaomei/stickman-video-director",
+      "github_url": "https://github.com/kaomei/stickman-video-director",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ganfanren_ai",
+        "text": "卧槽这个好火的！！\n不露脸做出海 YouTube，火柴人动画是门槛最低的一种。这个开源 Skill 能让 Codex 帮你直接出片：stickman-video-director，3600 星，这次又更新了 A6 暖金暗影风。\n\n两种用法：\n· A 导演模式：给一个选题，它写好剧本和每个镜头的提示词，你粘到 Google Flow、可灵这类视频工具里生成，再用剪映剪成片\n· B 自动驾驶模式：在 Codex 里跑，从选题直接出带配音、字幕的成片，先给你看 20 秒带声音的试看版，确认了再做完整视频\n做完还能顺手出配套的封面和标题。\n\n安装：对 Codex",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116541869547311149"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116541869547311149"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "obra/superpowers",
+      "github_url": "https://github.com/obra/superpowers",
+      "tier": 2,
+      "is_new": false,
+      "score": 438.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 106,
+      "total_retweets": 4,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "choopyplug1",
+        "text": "there is no f*cking way..\n\nSpaceXAI just dropped 17 FREE Grok Build plugins that turn one coding agent into an entire dev team. 345 tools on GitHub\n\npeople pay $19 for one skill. here you get 150 skills, 5 agents, 59 browser tools and 131 web guides. $3,045 in skills, $0 to you\n\n",
+        "likes": 106,
+        "url": "https://x.com/i/status/2116258094606889187"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116258094606889187"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 290.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "TheMaran",
+        "text": "how to make a free ai agent $0\n\nmint nfts & tokens for you, hark agent now asks money but muse is completely free\n\n> first steps\n\n- muse is live in us, canada, japan, singapore only. if you're outside those, turn on a vpn set to us\n- go to: https://t.co/PdoJx3woSC (or open it in ",
+        "likes": 30,
+        "url": "https://x.com/i/status/2116536424644436470"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116504566262841774",
+        "https://x.com/i/status/2116536424644436470"
+      ]
+    },
+    {
+      "repo": "tauricresearch/tradingagents",
+      "github_url": "https://github.com/tauricresearch/tradingagents",
+      "tier": 3,
+      "is_new": false,
+      "score": 232.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gusik4ever",
+        "text": "the fastest growing GitHub repos in finance + AI this week:\n\n1. TradingAgents (+5,315 ★)\n\nmulti-agent LLM trading framework: analysts, researchers, a trader and a risk team arguing before every trade. almost 3x last week's growth, now 118K stars.\n\nhttps://t.co/IvYOYlN59H\n\n2. day-",
+        "likes": 39,
+        "url": "https://x.com/i/status/2116504471907791240"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116504471907791240"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 230.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ScaleWithMike",
+        "text": "I just discovered this #1 repo claude skill on github that makes your pages stop looking AI made. 40K stars\n\nit's called hallmark, made by together ai\n\ninstall:\nnpx skills add nutlope/hallmark -g\n\nthen in claude code:\n/hallmark audit ./index.html → only reports what looks AI made",
+        "likes": 10,
+        "url": "https://x.com/i/status/2116480366156337301"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116480366156337301",
+        "https://x.com/i/status/2116471638141358295"
+      ]
+    },
+    {
+      "repo": "kalarislabs/research-agent-skills",
+      "github_url": "https://github.com/kalarislabs/research-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "sayan_ai",
+        "text": "Get your agents as powerful as you in research. \n\ninstall and use - https://t.co/ixDnhI8opJ\n\ncmd- npx skills add kalarislabs/research-agent-skills https://t.co/bjwoUgjApC",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116472738785452314"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116472738785452314",
+        "https://x.com/i/status/2116471654746656827"
+      ]
+    },
+    {
+      "repo": "andyhuo520/digital-human-koubo",
+      "github_url": "https://github.com/andyhuo520/digital-human-koubo",
+      "tier": 3,
+      "is_new": false,
+      "score": 106.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bitmeowAI",
+        "text": "想做口播号但不想出镜？一张照片让 Agent 出数字人口播视频\n\n之前我试过各种AI虚拟人都效果不好，后来翻到 GitHub 上一个开源 Skill 叫 digital-human-koubo，效果很惊喜！思路是让 Agent 把整条口播流水线跑完。我照 README 的顺序走：\n\n1. git clone 仓库，把 skills 目录里 digital-human-koubo 和 finance-explainer 两个文件夹拷进 ~/.claude/skills（用 Codex 就放 ~/.codex/skills）\n\n2. 去 https://t.",
+        "likes": 2,
+        "url": "https://x.com/i/status/2116541227051151369"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116541227051151369"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenta_business",
+        "text": "Claude Codeに頼んだら、自分がアニメの世界に入った。\n\n夏空のアニメ、水彩のアニメ、白黒のカートゥーン、ドット絵のゲーム。\n12の世界を歩いているのは全部同じ僕です。\n\nChatGPTで歩く8コマを作って、無料のスキル「huashu-art-motion」で背景ごと動かしただけ。\nnpx skills add alchaincyf/huashu-art-motion",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116544472104439963"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116544472104439963"
+      ]
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "github_url": "https://github.com/cathrynlavery/diagram-design",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cathrynlavery",
+        "text": "@GLaDOUGHSandHiv do it 🙏 it's one line: npx skills add cathrynlavery/diagram-design, then just describe the diagram you want",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116542856294776973"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116542856294776973"
+      ]
+    },
+    {
+      "repo": "devhims/video2ctx",
+      "github_url": "https://github.com/devhims/video2ctx",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "devhims",
+        "text": "ai agents struggle to watch youtube, so i built a skill that lets them. free, no api key.\n\nnpx skills add devhims/video2ctx\n\nwith it, claude code or codex can search youtube, read transcripts and comments, and pull only the frames they need.\n\nhttps://t.co/gLDFVXEPZ4\n\n#Claude #Cha",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116524582194815408"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116524582194815408"
+      ]
+    },
+    {
+      "repo": "onlymoein/master-cache-skill",
+      "github_url": "https://github.com/onlymoein/master-cache-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "onlymoein",
+        "text": "npx skills add onlymoein/master-cache-skill",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116518487426482676"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116518487426482676"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2116313952888263141",
+      "author": "tanayj",
+      "text": "Interesting anecdote from Coinbase CEO @brian_armstrong that highlights what AI-native product development looks like: \n\nAn engineer added a /feedback endpoint to the Coinbase MCP server, so agents using it can send feedback directly. They get 100s of messages which come into Sla",
+      "likes": 597,
+      "views": 0,
+      "url": "https://x.com/i/status/2116313952888263141",
+      "is_kol": false,
+      "score": 1886.0
+    },
+    {
+      "id": "2116253339239518651",
+      "author": "RobloxNewsroom",
+      "text": "We have witnessed an inflection point in AI adoption and content generation in the gaming industry overall, and on Roblox in particular. For example, since Q2 those using our MCP server daily grew nearly 5x. https://t.co/Lj60Q7kAO8",
+      "likes": 536,
+      "views": 0,
+      "url": "https://x.com/i/status/2116253339239518651",
+      "is_kol": false,
+      "score": 1738.0
+    },
+    {
+      "id": "2116505456130527283",
+      "author": "Kelvinnofweb3",
+      "text": "The obvious fix for a gullible AI is a smarter AI. I do not think that works.\n\nIn May 2026 someone hid a transfer order in Morse code and asked Grok to translate it. Grok did the translation and passed the plain text to Bankrbot, an agent that runs onchain transactions from posts",
+      "likes": 242,
+      "views": 0,
+      "url": "https://x.com/i/status/2116505456130527283",
+      "is_kol": false,
+      "score": 1706.0
+    },
+    {
+      "id": "2116414283273949511",
+      "author": "twtayaan",
+      "text": "Rocky Linux’s creators just built a Kubernetes engine that lets AI agents manage clusters directly.\n\nCIQ’s new Stratum Kubernetes Engine (SKE) bundles Kubernetes into one signed binary with an MCP server built in.\n\nAI agents can troubleshoot issues and, with operator permission, ",
+      "likes": 475,
+      "views": 0,
+      "url": "https://x.com/i/status/2116414283273949511",
+      "is_kol": false,
+      "score": 1675.0
+    },
+    {
+      "id": "2116387186467897581",
+      "author": "suraj_sharma14",
+      "text": "50 terms every AI builder should know:\n\n1.) LLM: a large language model trained to predict the next word\n\n2.) Token: a small chunk of text the model reads and writes\n\n3.) Context window: how much text the model can see at once\n\n4.) Prompt: the instruction you give the model\n\n5.) ",
+      "likes": 237,
+      "views": 0,
+      "url": "https://x.com/i/status/2116387186467897581",
+      "is_kol": false,
+      "score": 911.0
+    },
+    {
+      "id": "2116233590275240007",
+      "author": "bruceradley",
+      "text": "🚨 You can now trade the 2026 midterms from inside your AI.\n\nDidn't expect a brokerage to be the one doing this, but here we are.\n\nAries just launched a prediction market for the US midterm elections, and the interesting part is how you get to it.\n\nMost people follow an election l",
+      "likes": 168,
+      "views": 0,
+      "url": "https://x.com/i/status/2116233590275240007",
+      "is_kol": false,
+      "score": 549.0
+    },
+    {
+      "id": "2116308816677470700",
+      "author": "choopyplug1",
+      "text": "this is actually unreal..\n\nI built my Grok Bots a real office. on a space station\n\n→ see what every bot is doing live: coding, browsing, thinking or stuck. click one to see its task and full log\n→ when a bot needs me, it lights up. approve or decline in one click\n→ one task board",
+      "likes": 151,
+      "views": 0,
+      "url": "https://x.com/i/status/2116308816677470700",
+      "is_kol": false,
+      "score": 508.0
+    },
+    {
+      "id": "2116375882096841012",
+      "author": "nguyenthambt",
+      "text": "One thing that can slow down the agent economy is the distance between building an AI agent and making it available for actual commercial work.\n\nThe developer toolkit from @termix_ai addresses this connection through a practical integration path. For OpenClaw users, the documenta",
+      "likes": 164,
+      "views": 0,
+      "url": "https://x.com/i/status/2116375882096841012",
+      "is_kol": false,
+      "score": 507.0
+    },
+    {
+      "id": "2116335454337548748",
+      "author": "Blockcastcc",
+      "text": "Internet Computer ($ICP) is now an official connector in Anthropic's Claude AI, letting users discover canisters, query on-chain data, and perform authorized non-financial actions through natural language prompts.\n\nThe integration uses DFINITY's MCP server and Internet Identity f",
+      "likes": 133,
+      "views": 0,
+      "url": "https://x.com/i/status/2116335454337548748",
+      "is_kol": false,
+      "score": 499.0
+    },
+    {
+      "id": "2116493054295015548",
+      "author": "0x0Nova",
+      "text": "We already use AI agents to write code, create videos, analyze markets and handle things that would normally take us hours.\n\nBut I've been thinking about something else.\n\nWhat if the same agent you use every day could also take paid jobs from other people?\n\n@termix_ai has been wo",
+      "likes": 127,
+      "views": 0,
+      "url": "https://x.com/i/status/2116493054295015548",
+      "is_kol": false,
+      "score": 431.0
+    },
+    {
+      "id": "2116504048710947179",
+      "author": "TollyLabs",
+      "text": "Tolly OS is officially live on @arc!\n\nAn operating system for AI agents to earn and spend onchain, bringing together agent identities, wallets, email inboxes, paid services and escrow-backed jobs, with payments settled in USDC.\n\nBuilding on Tolly's existing agentic infrastructure",
+      "likes": 72,
+      "views": 0,
+      "url": "https://x.com/i/status/2116504048710947179",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2116256378658681174",
+      "author": "0xk7ro",
+      "text": "this is absurdly f*cking dangerous...\n\nREA Founder just dropped a prompt that audits any MCP server before it ever touches your agent.\n\none paste and your agent will:\n\n- catch install hooks that run malicious code the moment you install\n- map every secret it can touch: ssh keys, ",
+      "likes": 89,
+      "views": 0,
+      "url": "https://x.com/i/status/2116256378658681174",
+      "is_kol": false,
+      "score": 322.0
+    },
+    {
+      "id": "2116517324324827326",
+      "author": "systemdesignone",
+      "text": "AI agent engineering is about to be highest-demand skill in tech.\n\nEveryone's building AI agents. Almost nobody's designing reliable workflows.\n\nMaster these 6 agentic patterns &amp; you'll be in the top 1% of AI engineers 🧵",
+      "likes": 76,
+      "views": 0,
+      "url": "https://x.com/i/status/2116517324324827326",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2116234752420114597",
+      "author": "thatwagmigirl",
+      "text": "𝐂𝐀𝐓𝐂𝐇-𝐔𝐏 𝐖𝐈𝐓𝐇 𝐁𝐀𝐑𝐁𝐑𝐀 Ordinals & Bitcoin Ecosystem Updates – Oct 30 2026 .\n\nThe biggest hack in crypto history, Core skips a number, and Shielded keeps eating 🛡️\nHere are the major stories on bitcoin\n\nTHE TEA ☕️\n\n➯ @binance hot wallets drained for ~$6.3B on Oct 29, the largest cry",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2116234752420114597",
+      "is_kol": false,
+      "score": 253.0
+    },
+    {
+      "id": "2116520935893430312",
+      "author": "Rifat_EE",
+      "text": "I don't think people realize what @dreamDEXSomnia figured out!!!\n\n- 0% trading fees. \n- A fully onchain order book. \n- And market makers still get paid.\n\nhere's how it works, simply ::\n\n> what's an order book :\n\n- Buyers post the price they want to pay. \n- Sellers post the price ",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2116520935893430312",
+      "is_kol": false,
+      "score": 237.0
+    },
+    {
+      "id": "2116241460685308125",
+      "author": "fayazara",
+      "text": "I rewrote the orchestrator for Coworkers, and the whole project is now an MCP server\n\nThis unlocked a whole bunch of possibilities\n\nYou can now:\n- \"@ mention\" other coworkers\n- A new permission: \"Manage other bots\"\n- Use coworkers from external agents\n\nBuilding MCP servers on @Cl",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2116241460685308125",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2116485338579550676",
+      "author": "khenzarweb3",
+      "text": "I think @termix_ai just made the agent marketplace idea much more practical.\n\nYou don’t need to build a new agent for it.\n\nGive the agent you already use the TermiX Skill, link it, and now that same agent can start looking for jobs and bounties.\n\n- Grok Bot\n- Claude\n- Muse\n- Open",
+      "likes": 62,
+      "views": 0,
+      "url": "https://x.com/i/status/2116485338579550676",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2116451794108973159",
+      "author": "thisdudelikesAI",
+      "text": "AWS just open-sourced an AI agent it says is 45% cheaper than Claude Code and Codex.\n\nBroadly comparable accuracy. Almost half the bill.\n\nIt's called Strands Harness.\n\nNo vendor lock-in. No rebuilding agent plumbing from scratch. No being forced onto Bedrock.\n\nIt's a complete, ge",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2116451794108973159",
+      "is_kol": false,
+      "score": 159.0
+    }
+  ]
+}

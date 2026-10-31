@@ -8978,5 +8978,53 @@
   "wonkylamp/gta-6-skill": {
     "first_seen": "2026-10-30",
     "tier": 3
+  },
+  "vincentwei1021/anything2explainer": {
+    "first_seen": "2026-10-31",
+    "tier": 0
+  },
+  "beenuar/aisoc": {
+    "first_seen": "2026-10-31",
+    "tier": 2
+  },
+  "mempalace/mempalace": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "heydamir/unslop": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "enmerasoftware/ai-design-check": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "phuryn/product-engineering": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "phyllissong136/llm-wiki": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "cathrynlavery/codex-skill": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "aryanalipro/jawdrop": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "lydiatools/skill-bundle-check": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "google/elephant-goldfish-model": {
+    "first_seen": "2026-10-31",
+    "tier": 3
+  },
+  "kaomei/stickman-video-director": {
+    "first_seen": "2026-10-31",
+    "tier": 3
   }
 }
