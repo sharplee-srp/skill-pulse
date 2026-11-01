@@ -1,0 +1,541 @@
+{
+  "date": "2026-11-01",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 173,
+    "tweets_with_repos": 26,
+    "unique_repos": 20,
+    "new_repos": 8,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "benjitaylor/skills",
+      "github_url": "https://github.com/benjitaylor/skills",
+      "tier": 1,
+      "is_new": true,
+      "score": 496.0,
+      "mention_count": 4,
+      "kol_mentions": [],
+      "total_likes": 32,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Voxyz_ai",
+        "text": "Claude Code and Codex build landing pages fast. But the product shots on them (hero images, feature cards, bento grids) 𝗹𝗼𝗼𝗸 𝗔𝗜-𝗺𝗮𝗱𝗲 𝗮𝘁 𝗮 𝗴𝗹𝗮𝗻𝗰𝗲.\n\nAn agent made the image following these rules 👇\n\n\"When you make product shots, follow these rules:\n1. Build out the whole interface s",
+        "likes": 29,
+        "url": "https://x.com/i/status/2116877927967326286"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116877927967326286",
+        "https://x.com/i/status/2116893228742144159",
+        "https://x.com/i/status/2116889717409042468",
+        "https://x.com/i/status/2116886415367688418"
+      ]
+    },
+    {
+      "repo": "apify/apify-mcp-server",
+      "github_url": "https://github.com/apify/apify-mcp-server",
+      "tier": 2,
+      "is_new": true,
+      "score": 594.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 118,
+      "total_retweets": 28,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dopamine_crypto",
+        "text": "쇼핑몰·지도·SNS 데이터를 클로드가 긁어온다니 이거 미쳤음\n\n부업할 때 제일 귀찮은 시장조사,\n그 복붙 노가다를 AI한테 넘기는 도구임\n\n이름은 apify-mcp-server\n만든 곳은 Apify, 깃허브 별 1.3만\n\n엄밀히 말하면 스킬보다는 MCP 서버 쪽인데\n클로드 같은 AI한테 손발 붙여주는\n연결 장치 정도로 보면 됨\n\n뭘 해주냐면\nSNS, 검색엔진, 지도, 쇼핑몰\n아니면 아예 아무 웹사이트에서든\nAI가 데이터를 뽑아오게 해줌\n\n포인트는 하나하나 직접 만드는 게 아니라는 거\nApify 스",
+        "likes": 118,
+        "url": "https://x.com/i/status/2116764675023024422"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116764675023024422"
+      ]
+    },
+    {
+      "repo": "nationalsecurityagency/ghidra",
+      "github_url": "https://github.com/nationalsecurityagency/ghidra",
+      "tier": 3,
+      "is_new": true,
+      "score": 286.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 42,
+      "total_retweets": 12,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Gyome1_",
+        "text": "holy f*ck, someone put an entire reverse engineering degree on GitHub for free\n\n7 repos, 560k+ stars, and in the right order they take you from a raw binary to agents that reverse engineer anything\n\neach repo is the next layer of the one before\n\n1. Ghidra -> how to read any binar",
+        "likes": 42,
+        "url": "https://x.com/i/status/2116838860629946575"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116838860629946575"
+      ]
+    },
+    {
+      "repo": "huggingface/smolagents",
+      "github_url": "https://github.com/huggingface/smolagents",
+      "tier": 3,
+      "is_new": true,
+      "score": 227.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 11,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DivyanshT91162",
+        "text": "10 open-source frameworks for building autonomous AI agents \n\nWant to build AI agents that can plan, use tools, and complete complex tasks? Explore these frameworks:\n\n1. smolagents\nA lightweight agent framework from Hugging Face.\nLets developers build tool-using agents with a sim",
+        "likes": 24,
+        "url": "https://x.com/i/status/2116785036360089919"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116785036360089919"
+      ]
+    },
+    {
+      "repo": "dreamon-im/macos-app-screenshot",
+      "github_url": "https://github.com/dreamon-im/macos-app-screenshot",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "DreamonDev",
+        "text": "Screenshotting my Mac apps used to mean bring the app in foreground, Cmd+Shift+4, then fiddling with pixels every time.\nSo this afternoon I built a skill that captures any app window automatically, pixel-perfect.\n\nTry it:\nnpx skills add Dreamon-im/macos-app-screenshot\n\nhttps://t.",
+        "likes": 1,
+        "url": "https://x.com/i/status/2116917865677001080"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116917865677001080"
+      ]
+    },
+    {
+      "repo": "charlie947/motion-graphics-skills",
+      "github_url": "https://github.com/charlie947/motion-graphics-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ReignSwords",
+        "text": "26 万浏览的帖子: motion 工作室, GitHub skills 全免费拿走。\n\n我每天 40 条帖子, 配图卡 PIL 渲染 0.36 秒一张——但全是静态的。看完心动了 3 秒, 去把仓库翻了一遍。\n\n📦 抄走 3 步:\n1️⃣ npx skills add charlie947/motion-graphics-skills\n2️⃣ Claude Code 里 /model 切 Opus 5.5\n3️⃣ 先跑 brand-intake 定调子, 再丢需求\n\n帧全是代码画的, 直接出 MP4, 不要 AE。\n\n⚠️ 坑: 这是给 agent 用",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116921132905316760"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116921132905316760"
+      ]
+    },
+    {
+      "repo": "actionow-ai/vvv",
+      "github_url": "https://github.com/actionow-ai/vvv",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manojkumar2257",
+        "text": "Wedding photographers are still editing photo slideshows by hand. That's the mistake.\n\nvvv by actionow-ai is a free, MIT licensed template kit that lets Claude Code or Codex turn a folder of couple photos into a beat-synced wedding film.\n\nThe playbook:\n1. Install in Claude Code:\n",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116902413177143607"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116902413177143607"
+      ]
+    },
+    {
+      "repo": "invarislabs/invaris-agentsec",
+      "github_url": "https://github.com/invarislabs/invaris-agentsec",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "arunimastwt",
+        "text": "@PhorionTech Great breakdown. The adjacent risk for MCP: a tool definition that changes silently after you trust it. agentsec mcp scan --pin records a server's tools and flags any that are added, removed or changed. Open source: https://t.co/UxPCQblvxF",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116922334640771336"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116922334640771336"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "oldcircle/geo-sleuth",
+      "github_url": "https://github.com/oldcircle/geo-sleuth",
+      "tier": 1,
+      "is_new": false,
+      "score": 1180.0,
+      "mention_count": 3,
+      "kol_mentions": [],
+      "total_likes": 220,
+      "total_retweets": 44,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "grgerwcwetwet",
+        "text": "卧槽！GitHub 上有人开源了一个 AI 神级 Skill，给它一张照片，居然能反推出拍摄地点！\n\n项目叫 geo-sleuth，即使照片没有 GPS、路牌、文字，也能通过山脊、桥墩、阴影、卫星地图等线索寻找位置。\n\n最离谱的是，官方案例中，一张只有稻田、高架桥和山的照片，最终定位误差仅 2 米！\n\n还能输出坐标、镜头朝向、误差范围和卫星证据图，支持 Claude Code、Codex、Cursor 等 AI Agent。\n\n安装：npx skills add Oldcircle/geo-sleuth\n\nGitHub：https://t.co/6auW",
+        "likes": 219,
+        "url": "https://x.com/i/status/2116861824284942646"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116861824284942646",
+        "https://x.com/i/status/2116922234745057732",
+        "https://x.com/i/status/2116914414808879237"
+      ]
+    },
+    {
+      "repo": "duty1g/x64dbg-mcp-server",
+      "github_url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "tier": 2,
+      "is_new": false,
+      "score": 2796.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 732,
+      "total_retweets": 100,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dandanetha",
+        "text": "逆向工程也迈进了 AI Agent 时代。\n\nx64dbg 的名头不少人都听过，是 Windows 平台上经典的开源调试与逆向工具。\n\n如今有人为它打造了 x64dbg MCP Server，能把调试能力直接向 Claude Code、Codex 这类 Agent 敞开，让 AI 调用 x64dbg 帮忙分析程序、下断点、读内存，并执行各项调试操作。\n\n从前得自己对着汇编一点点硬啃，现在连逆向都开始 Agent 化了。\n\nx64dbg：https://t.co/L1EWA0pY8S\nGitHub：https://t.co/KM46zrhUb6",
+        "likes": 732,
+        "url": "https://x.com/i/status/2116664264018796830"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116664264018796830"
+      ]
+    },
+    {
+      "repo": "panniantong/agent-reach",
+      "github_url": "https://github.com/panniantong/agent-reach",
+      "tier": 2,
+      "is_new": false,
+      "score": 2421.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 632,
+      "total_retweets": 85,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "qichen1019",
+        "text": "小红书全套运营 Skill\n1. 热点联动与跨平台调研｜Agent-Reach\nStar：约 107.2k\n功能：搜索和读取小红书、X、YouTube、B站等平台内容。\n适合人群：需要追踪热点、寻找选题素材和观察跨平台趋势的人。\n简介：作为运营工作流的信息采集层，帮助发现近期热门话题和用户讨论。\n链接：https://t.co/gg1GDrMzlV\n\n2. 封面配图与图文卡片｜baoyu-xhs-images\nStar：所属仓库约 27.1k\n功能：把文章拆成1～10张小红书封面和内容卡片。\n适合人群：知识博主、教程类账号、AI内容创作者。\n简介：支持多",
+        "likes": 632,
+        "url": "https://x.com/i/status/2116653692237529165"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116653692237529165"
+      ]
+    },
+    {
+      "repo": "88lin/computer-repair-skill",
+      "github_url": "https://github.com/88lin/computer-repair-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 334.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 63,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "bkdgiffug",
+        "text": "computer-repair-skill 这个开源项目很接地气，值得推荐。\n\n它把电脑维修老师傅的经验，直接“蒸馏”成一个 AI Agent Skill。\n\n电脑蓝屏、开不了机、没声音、连不上网、软件崩溃、越来越卡……以前遇到这些只能自己到处搜教程，\n\n现在把故障现象告诉 Claude Code、Codex、OpenClaw 这类 Agent，AI 就能按维修思路一步步帮你排查。\n\n等于给 AI 配了个“电脑维修老师傅”。\nhttps://t.co/XRuytMRv16",
+        "likes": 63,
+        "url": "https://x.com/i/status/2116840674020716829"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116840674020716829"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": false,
+      "score": 233.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 36,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xMovez",
+        "text": "I reverse-engineered 10 projects with Opus 5.5 in 10 days, and my app's hit 6K+ installs and 33k+ visits \n\nHere is one of the prompts I send to Claude before reverse engineere new app:\n\n→ Explore https://t.co/X6at3ZQaKd and use it to explore all UI/UX patterns.\n\n→ Find UI/UX insp",
+        "likes": 36,
+        "url": "https://x.com/i/status/2116901772908196160"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116901772908196160"
+      ]
+    },
+    {
+      "repo": "larashero3-dotcom/lieflat-charts",
+      "github_url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "tier": 3,
+      "is_new": false,
+      "score": 225.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 40,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "awe0_io",
+        "text": "一个 Skill，让 AI 做出高级感图表\n最近发现一个很有意思的开源项目：Lieflat Charts。\n\n它是一套专门用于数据可视化与报告生成的 Skill，可以直接给 Claude Code、Codex、Moxt 等 AI Agent 使用。\n\n最吸引我的不是“能画图”，而是它真的把审美统一性做进了图表里。\n\n字体、留白、线条、动效都有统一的视觉语言，支持 60+ 种图表：\n\n柱状图、折线图、面积图、热力图、小提琴图、桑基图、环形关系图……\n\n而且它采用 HTML 构建图表，所以不仅能做静态图，还支持丰富的动效和部分交互，也很适合衔接 HTML P",
+        "likes": 40,
+        "url": "https://x.com/i/status/2116892777330171995"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116892777330171995"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heyprlshell",
+        "text": "npx skills add nutlope/hallmark\n\nBuat freelancer web: ini pembeda. Klien bayar mahal buat yang gak kelihatan AI.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116892445334278353"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116892445334278353",
+        "https://x.com/i/status/2116887233894699135"
+      ]
+    },
+    {
+      "repo": "raphaelsalaja/skills",
+      "github_url": "https://github.com/raphaelsalaja/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 198.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 31,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "raphaelsalaja",
+        "text": "i'm super @bot pilled so i made a skill to share them\n\nit puts your bots on your site as a pile you can shake and drag, plus cards with a link so anyone can copy them\n\nnpx skills add raphaelsalaja/skills --skill bots https://t.co/gJUPG6wgMY",
+        "likes": 31,
+        "url": "https://x.com/i/status/2116886919514894528"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116886919514894528"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Addaily11",
+        "text": "Lagi rame agentic .ai \nini tutorial cara pasang di muse/@bot \n\n1/ Prompt: npx skills add binance/binance-skills-hub/skills/binance-web3/binance-agentic-wallet\n2/ Minta agent mu buat login Binance agentic wallet\n3/ pastikan agent ID sama\n\nNote:\n> Wallet kelogout otomatis kalo 2 ha",
+        "likes": 1,
+        "url": "https://x.com/i/status/2116893530430025857"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116893530430025857"
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "github_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "kenta_business",
+        "text": "Claude Codeに頼んだら、3万年の美術史を歩かされた。\n\n洞窟壁画、ルネサンス、印象派、ゴッホ、ピカソ、ヴェイパーウェイブ。\n40の画風の世界を歩いているのは全部同じ僕です。\n\nChatGPTで歩く8コマを作って、無料のスキル「huashu-art-motion」で背景ごと動かしただけ。\nnpx skills add alchaincyf/huashu-art-motion",
+        "likes": 0,
+        "url": "https://x.com/i/status/2116906859764621480"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2116906859764621480"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2116872388809781412",
+      "author": "super_bonochin",
+      "text": "自宅デスクトップPC（tailscale利用中）がWindowsPCの場合、Museはこんな感じの使い方になるね。\n\nMuseのコンピュータはtailscaleクライアントとしてログインしておく（これで自宅PCと同じNWに入る）\n\n自宅PCでは、ブラウザについてはPlaywright MCP\nServerを起動してtailscale内からのアクセスのみを許可しつつ、OpenSSH Serverも起動して接続を受け付けつつ既定のシェルをPowerShellにしておく。\n\nこれで大体なんでもできるようになる。\nわけわからんって人はこれをMuseに読ませたらい",
+      "likes": 346,
+      "views": 0,
+      "url": "https://x.com/i/status/2116872388809781412",
+      "is_kol": false,
+      "score": 1118.0
+    },
+    {
+      "id": "2116787322716885503",
+      "author": "suraj_sharma14",
+      "text": "Got an AI engineer interview coming up?\n\nThese 25 questions come up again and again. Prep them and you'll walk in ready:\n\n• What's the difference between a chatbot and an agent?\n• How does an agent decide which tool to use?\n• Explain the reasoning loop: think, act, observe, repea",
+      "likes": 214,
+      "views": 0,
+      "url": "https://x.com/i/status/2116787322716885503",
+      "is_kol": false,
+      "score": 777.0
+    },
+    {
+      "id": "2116783925062169025",
+      "author": "PixelLabAI",
+      "text": "Opus 5.5 can now build a game-ready character through the PixelLab MCP.\n\nOne chat, four tool calls:\n> create_character: a cyber ronin in 8 directions\n> animate_character: walk cycles + a quick-draw slash\n> create_topdown_tileset: the arena he fights in\n\nTry it 👇 https://t.co/WLyV",
+      "likes": 169,
+      "views": 0,
+      "url": "https://x.com/i/status/2116783925062169025",
+      "is_kol": false,
+      "score": 567.0
+    },
+    {
+      "id": "2116866831629926564",
+      "author": "Girlgym67",
+      "text": "winning once doesn't make an AI agent intelligent.\n\nlearning why it won might.\n\n@agentdojo explores a different side of AI competition.\n\nagents study historical data, build private notebooks, and test their strategies in simulated environments.\n\nbut here's the interesting part.\n\n",
+      "likes": 59,
+      "views": 0,
+      "url": "https://x.com/i/status/2116866831629926564",
+      "is_kol": false,
+      "score": 342.0
+    },
+    {
+      "id": "2116840530260955169",
+      "author": "Jannat188219",
+      "text": "Good evening CT\n\nI was reading the agent docs from @vangrid_io and one line kept pulling me back:\n\n\"There is no account and no API key.\"\n\nSounds small. It isn't.\n\nThink about how you'd normally hire someone for a quick job. Sign up, verify, add a card, wait for approval. Fine for",
+      "likes": 79,
+      "views": 0,
+      "url": "https://x.com/i/status/2116840530260955169",
+      "is_kol": false,
+      "score": 302.0
+    },
+    {
+      "id": "2116834785234461030",
+      "author": "0xbobaaa",
+      "text": "3D ARTISTS ARE COOKED. 7 FREE REPOS JUST REPLACED THE WHOLE PIPELINE\n\nfilm yourself, snap 3 photos, drop one image. claude code and these 7 handle the rest:\n\n1. Motion2MixamoRig (1.8K stars)\nfilm yourself moving, your rigged character moves the same way\n\n2. image-blaster (12.2K s",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2116834785234461030",
+      "is_kol": false,
+      "score": 258.0
+    },
+    {
+      "id": "2116812260781838603",
+      "author": "real_kukuruza",
+      "text": "Hermes Mobile got a 4/5. But almost no one got into the beta.\n\nThe official app from Nous Research dropped on October 31 for iOS and Android. It’s a client for your own gateway (self-hosted or Nous Cloud).\n\nWhat’s inside:\n- Chat with visible tool calls\n- Live Mode (voice + pause ",
+      "likes": 77,
+      "views": 0,
+      "url": "https://x.com/i/status/2116812260781838603",
+      "is_kol": false,
+      "score": 236.0
+    },
+    {
+      "id": "2116778910075482243",
+      "author": "QHVZYMY",
+      "text": "Blocked someone here today, \nCause they felt I talk too much about tools and gatekeep them.\n\nThe 3dsmax mcp is literally live on GitHub, constantly getting updated, \n\nEverything we’ve built so far is premised on that one tool. \n\nAs for why most have not been released, it’s becaus",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2116778910075482243",
+      "is_kol": false,
+      "score": 229.0
+    },
+    {
+      "id": "2116772873528328635",
+      "author": "DanKornas",
+      "text": "Stop configuring every MCP server in every AI client.\n\nMCPJungle is a self-hosted MCP gateway for developers and teams managing multiple MCP servers.\n\nIt helps you cut duplicated setup by registering servers once and connecting Claude, Cursor, Codex, or your own agents to a singl",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2116772873528328635",
+      "is_kol": false,
+      "score": 226.0
+    },
+    {
+      "id": "2116896340235940346",
+      "author": "belongnet",
+      "text": "Who Arrived? Count Ready\n\nMany door teams rebuild the guest count from a trail of messages: “10 in,” “five more through,” “did the VIP group arrive?” By the time the tally is done, the line has already moved on.\n\nWith Belong CheckIn, you ask the connected tool which guests have c",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2116896340235940346",
+      "is_kol": false,
+      "score": 211.0
+    },
+    {
+      "id": "2116800315043582326",
+      "author": "VikramVerm25510",
+      "text": "Your AI agent shouldn't have to guess what's happening on the internet\n\nImagine giving it the ability to search multiple sources, read webpages, collect information, and bring back useful answers.\n\nThese 10 GitHub projects can help you build exactly that.\n\n10 open-source repos to",
+      "likes": 39,
+      "views": 0,
+      "url": "https://x.com/i/status/2116800315043582326",
+      "is_kol": false,
+      "score": 202.0
+    },
+    {
+      "id": "2116700676369650128",
+      "author": "carm1nee",
+      "text": "this is the most DANGEROUS thing on the whole internet right now\n\na single free github repo turns Opus 5.5 into a 24/7 QUANT DESK that builds, stress-tests & trades its own strategies\n\ni plugged it into Claude Code & built a COMPLETE AI trading setup from scratch\n\nmy setup writes",
+      "likes": 56,
+      "views": 0,
+      "url": "https://x.com/i/status/2116700676369650128",
+      "is_kol": false,
+      "score": 198.0
+    },
+    {
+      "id": "2116773438954065951",
+      "author": "zenoVision_",
+      "text": "Today, we’re open-sourcing Zeno v1.01 on @huggingface : our unified meta-forecasting model across 12 distinct domains, from crypto and macro to epidemiology and prediction markets.\n\nWhy this release is special:\n\n • The honest test won: We didn't publish our highest synthetic scor",
+      "likes": 35,
+      "views": 0,
+      "url": "https://x.com/i/status/2116773438954065951",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2116890108678795324",
+      "author": "damonemcrp",
+      "text": "The real question is ❓❓\ncan AI agents actually make money ? \n\nInstalling a skill is easy. Getting the first paying customer is a different story. That's the part of the new @termix_ai update that caught my attention \n\nAn AI agent can already perform tasks, but how does it turn th",
+      "likes": 36,
+      "views": 0,
+      "url": "https://x.com/i/status/2116890108678795324",
+      "is_kol": false,
+      "score": 143.0
+    }
+  ]
+}

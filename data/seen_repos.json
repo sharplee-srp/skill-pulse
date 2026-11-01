@@ -9026,5 +9026,37 @@
   "kaomei/stickman-video-director": {
     "first_seen": "2026-10-31",
     "tier": 3
+  },
+  "benjitaylor/skills": {
+    "first_seen": "2026-11-01",
+    "tier": 1
+  },
+  "apify/apify-mcp-server": {
+    "first_seen": "2026-11-01",
+    "tier": 2
+  },
+  "nationalsecurityagency/ghidra": {
+    "first_seen": "2026-11-01",
+    "tier": 3
+  },
+  "huggingface/smolagents": {
+    "first_seen": "2026-11-01",
+    "tier": 3
+  },
+  "dreamon-im/macos-app-screenshot": {
+    "first_seen": "2026-11-01",
+    "tier": 3
+  },
+  "charlie947/motion-graphics-skills": {
+    "first_seen": "2026-11-01",
+    "tier": 3
+  },
+  "actionow-ai/vvv": {
+    "first_seen": "2026-11-01",
+    "tier": 3
+  },
+  "invarislabs/invaris-agentsec": {
+    "first_seen": "2026-11-01",
+    "tier": 3
   }
 }
