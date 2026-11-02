@@ -9058,5 +9058,53 @@
   "invarislabs/invaris-agentsec": {
     "first_seen": "2026-11-01",
     "tier": 3
+  },
+  "caru-ini/stack-diagram": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "radareorg/radare2": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "earendil-works/pi": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "agentsmd/agents.md": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "hubeiqiao/og-video-preview": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "stablyai/orca": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "greensock/gsap": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "openclaw/wacli": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "dave8172/firstwatch": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "lengjingxu/pstack-for-codex": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "51aitech/cta-design": {
+    "first_seen": "2026-11-02",
+    "tier": 3
+  },
+  "webisitystudio/application-penetration-testing-skill": {
+    "first_seen": "2026-11-02",
+    "tier": 3
   }
 }
