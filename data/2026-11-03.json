@@ -1,0 +1,641 @@
+{
+  "date": "2026-11-03",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 171,
+    "tweets_with_repos": 31,
+    "unique_repos": 29,
+    "new_repos": 12,
+    "previously_seen_repos": 17
+  },
+  "new_repos": [
+    {
+      "repo": "shiyu-coder/kronos",
+      "github_url": "https://github.com/shiyu-coder/kronos",
+      "tier": 3,
+      "is_new": true,
+      "score": 263.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 46,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "oliviscusAI",
+        "text": "These are the fastest growing GitHub repos in finance + AI this week:\n\n1. Kronos (+2,653 ★)\n\nopen-source model for candlestick charts, trained on data from 45+ exchanges. give it price history and it predicts the next bars. no code changes since april, but attention is picking up",
+        "likes": 46,
+        "url": "https://x.com/i/status/2117595809663566246"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117595809663566246"
+      ]
+    },
+    {
+      "repo": "xerj-org/xerj",
+      "github_url": "https://github.com/xerj-org/xerj",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 39,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "d0znpp",
+        "text": "even a frontier model can write broken code when its guessing how your app works\n\nXERJ helps your agent find the facts it needs faster and more precisely. better context gives it fewer reasons to invent an API call or make the wrong assumption about your code\n\nfree open source re",
+        "likes": 39,
+        "url": "https://x.com/i/status/2117626277246988731"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117626277246988731"
+      ]
+    },
+    {
+      "repo": "ridemountainpig/spotlight-film",
+      "github_url": "https://github.com/ridemountainpig/spotlight-film",
+      "tier": 3,
+      "is_new": true,
+      "score": 117.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ridemountainpig",
+        "text": "Introducing Spotlight Film 🎬\n\nAn agent skill that turns your product into an Apple-style launch film.\n\nDescribe your product. Your agent captures the UI and builds the film: beams of light, giant type, and hard cuts.\n\nnpx skills add ridemountainpig/spotlight-film https://t.co/UOY",
+        "likes": 4,
+        "url": "https://x.com/i/status/2117648001883595211"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117648001883595211"
+      ]
+    },
+    {
+      "repo": "usebrainchain/brainchain-worker",
+      "github_url": "https://github.com/usebrainchain/brainchain-worker",
+      "tier": 3,
+      "is_new": true,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "usebrainchain",
+        "text": "Run one with the brainchain-worker skill for OpenClaw: https://t.co/B5cnA9T4xT\n\nHow workers join and get hired: https://t.co/k69zivWfwt",
+        "likes": 5,
+        "url": "https://x.com/i/status/2117434150126866719"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117434150126866719"
+      ]
+    },
+    {
+      "repo": "jamesdimachkie/legible-film",
+      "github_url": "https://github.com/jamesdimachkie/legible-film",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Jimosax",
+        "text": "Legible Film 2.1 release\n\nHere is my Agent Skill called Legible Film. It's a free open source skill that allows Claude Code and Codex to create and modify films. Version 2.1 was released today.\n\nnpx skills add JamesDimachkie/legible-film\nhttps://t.co/EyZbMIhbqu\n\nHave fun with it ",
+        "likes": 4,
+        "url": "https://x.com/i/status/2117624672632373476"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117624672632373476"
+      ]
+    },
+    {
+      "repo": "usebrainchain/skill-reviews",
+      "github_url": "https://github.com/usebrainchain/skill-reviews",
+      "tier": 3,
+      "is_new": true,
+      "score": 112.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "usebrainchain",
+        "text": "The reviews and the install policy for OpenClaw: https://t.co/RL8xnIdv9u\n\nThe first mainnet review, zeroaddresss/usdc-escrow: https://t.co/B2XjRncsVl",
+        "likes": 4,
+        "url": "https://x.com/i/status/2117602007724806525"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117602007724806525"
+      ]
+    },
+    {
+      "repo": "jayintheday/jackbauer",
+      "github_url": "https://github.com/jayintheday/jackbauer",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jayintheday",
+        "text": "New skill for Claude Code that interrogates your second brain, personal OS, cron jobs or multi-step agent workflows for silent failures, conflicts and inefficiencies. \n\nIt looks for things like\n🗒️ Docs and .md files conflicting with each other\n📄 Data retrieval issues\n⏰ Pipeline j",
+        "likes": 1,
+        "url": "https://x.com/i/status/2117595150205522098"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117595150205522098"
+      ]
+    },
+    {
+      "repo": "vvhybe/tebzira",
+      "github_url": "https://github.com/vvhybe/tebzira",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vvhybe",
+        "text": "tebzira is #Marrakech Darija for the spice blend a cook keeps by the stove. I made one for #AI agents 🌶️\n\n3 skills from real client work: site-upgrade, dashboard-upgrade, dev-guide.\n\nnpx skills add vvhybe/tebzira\n\nTell me what burns 🔥\n\nhttps://t.co/8yengwwMAm",
+        "likes": 0,
+        "url": "https://x.com/i/status/2117661406137094623"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117661406137094623"
+      ]
+    },
+    {
+      "repo": "vawe-hq/skills",
+      "github_url": "https://github.com/vawe-hq/skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "VFXDESK",
+        "text": "vawe skills: agent skills that brief, write, critique and render HTML films\n\nvawe skills — HTML 1枚の動画を、エージェントが企画書から mp4 まで工程ごとに作る\n\n・1枚のページから 16:9・9:16・1:1・4:5・4:3 の mp4\n・批評は別のセッションで、8軸を1〜10で付け8未満を直す\n・入れ方は npx skills add vawe-hq/skills\n\nVandit Singh の Apache-2.0 のスキルで、Node 22 以降・g",
+        "likes": 0,
+        "url": "https://x.com/i/status/2117651771715903520"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117651771715903520"
+      ]
+    },
+    {
+      "repo": "abracadabrastartup/deusproof-mcp",
+      "github_url": "https://github.com/abracadabrastartup/deusproof-mcp",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "deusproof",
+        "text": "An AI agent took its birth certificate yesterday with our skill: its own key, a timestamp and a Bitcoin anchor, no account. Any agent can do the same with one command: npx skills add Abracadabrastartup/deusproof-mcp https://t.co/lCQcXmQ0s2 #AIAgents https://t.co/jqaOjxYrZP",
+        "likes": 0,
+        "url": "https://x.com/i/status/2117643574212784388"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117643574212784388"
+      ]
+    },
+    {
+      "repo": "elvarofficial/teardown",
+      "github_url": "https://github.com/elvarofficial/teardown",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "JjJj777701",
+        "text": "怎么装，自己看👇\n· 安装：npx skills add elvarofficial/teardown -g -a claude-code\n· 进技能目录再跑一次：npm install && npx playwright install chromium\n· 需要 Node 20+；要出片再装 ffmpeg\n· 作者内置三台样机：V8 引擎、塞斯纳起落架、Strandbeest\n· 据作者：建在 whaleyxbt/claude-motion 上，MIT",
+        "likes": 0,
+        "url": "https://x.com/i/status/2117624807181242589"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117624807181242589"
+      ]
+    },
+    {
+      "repo": "dannylydst/sorftime-seller-agent",
+      "github_url": "https://github.com/dannylydst/sorftime-seller-agent",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dannylyd",
+        "text": "Where Sorftime sits in that stack (public product facts):\n\n• Seller Agent — MCP skill for conversational research across those marketplaces (+ Reddit/Quora listening). Drop into Claude Code, Codex, Cursor, OpenClaw, other MCP agents.\n• Data CLI — same data supply chain as raw JSO",
+        "likes": 0,
+        "url": "https://x.com/i/status/2117595371052433415"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117595371052433415"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "d4vinci/scrapling",
+      "github_url": "https://github.com/d4vinci/scrapling",
+      "tier": 2,
+      "is_new": false,
+      "score": 3071.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 817,
+      "total_retweets": 84,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "midudev",
+        "text": "Si quieres hacer scraping y extracción de datos de webs, usa este framework open source.\n\n✓ Peticiones que imita la huella de Chrome\n✓ Navegador con JS y Captcha de Cloudflare\n✓ MCP y Agent Skill para usar con IA\n\n→ https://t.co/qv6ykvPvg7 https://t.co/igyh5SbCq5",
+        "likes": 784,
+        "url": "https://x.com/i/status/2117634091327557893"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117634091327557893",
+        "https://x.com/i/status/2117617228145471756"
+      ]
+    },
+    {
+      "repo": "agno-agi/agno",
+      "github_url": "https://github.com/agno-agi/agno",
+      "tier": 3,
+      "is_new": false,
+      "score": 351.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 16,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "RodmanAi",
+        "text": "10 GITHUB REPOS TO BUILD YOUR OWN AI AGENTS\n\nAI agents are becoming easier to build, but the framework you choose can make a huge difference.\n\nWhether you need memory, tool calling, multi-agent collaboration, or workflow automation, these 10 open-source projects are worth explori",
+        "likes": 57,
+        "url": "https://x.com/i/status/2117587658461614434"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117587658461614434"
+      ]
+    },
+    {
+      "repo": "mattpocock/skills",
+      "github_url": "https://github.com/mattpocock/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 286.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 57,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "uehaj",
+        "text": "■ mattpocock/skills の「chief-of-staff」スキルを読んでみた\n\n◆ 概要\n・Matt Pocock の公開スキル集 mattpocock/skills の in-progress 配下にある実験的スキル\n・説明は「サブエージェントを統率して、1セッション内で長期ゴールを追求する」\n・disable-model-invocation: true なので自動発火せず、明示的に呼び出して使う\n\n◆ 役割設定\n・メインエージェントを「首席補佐官（chief of staff）」＝ゴールの直接責任者（DRI）に据える\n・戦術（目の前",
+        "likes": 57,
+        "url": "https://x.com/i/status/2117595481346015405"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117595481346015405"
+      ]
+    },
+    {
+      "repo": "ollama/ollama",
+      "github_url": "https://github.com/ollama/ollama",
+      "tier": 3,
+      "is_new": false,
+      "score": 250.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leonParkercoder",
+        "text": "50 USEFUL GITHUB REPOS\n\n1. iFixAi — AI misalignment testing\n→ https://t.co/lN8f4Jb7AV\n\n2. public-apis — free APIs for everything\n→ https://t.co/nn3bpEMuep…\n\n3. build-your-own-x — learn by building\n→ https://t.co/Ep82XqR0vH…\n\n4. developer-roadmap — learn any tech skill\n→ https://t",
+        "likes": 25,
+        "url": "https://x.com/i/status/2117524778273948003"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117524778273948003"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 232.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 9,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "robrtcode",
+        "text": "🚨 ESTO ES UNA LOCURA\n\n20 SKILLS DE CLAUDE QUE DE VERDAD IMPORTAN. LA MITAD SON DE ANTHROPIC, VERCEL Y MATT POCOCK...\n\nHay 2 tipos de skills, y la mayoría solo instala 1:\n\n→ Skills que le enseñan cosas nuevas a Claude.\n→ Skills que cambian cómo trabaja Claude.\n\nAquí tienes 10 de c",
+        "likes": 29,
+        "url": "https://x.com/i/status/2117620704212394217"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117620704212394217"
+      ]
+    },
+    {
+      "repo": "benjitaylor/skills",
+      "github_url": "https://github.com/benjitaylor/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 206.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 2,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cutetoxicguy",
+        "text": "🎨 A designer turned his personal design taste into a skill that teaches Claude Code, Codex and other AI agents to create polished product demos.\n\nMeet Stageshow, an open-source agent skill by Benji Taylor.\n\nIt generates animated interface demonstrations, landing page illustration",
+        "likes": 2,
+        "url": "https://x.com/i/status/2117640151685833146"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117640151685833146",
+        "https://x.com/i/status/2117630404748329176"
+      ]
+    },
+    {
+      "repo": "altryne/jevify",
+      "github_url": "https://github.com/altryne/jevify",
+      "tier": 3,
+      "is_new": false,
+      "score": 192.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 29,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Beaver_0x",
+        "text": "I couldn't f*cking believe this\n\nStanford AI research team gave Claude Code a human brain setup.\n\nJEV is the fast gut brain.\n\nIt scans everything in milliseconds and makes the easy calls.\n\nClaude is the slow thinking brain. It only wakes up for the hard ones.\n\nHere are the comman",
+        "likes": 29,
+        "url": "https://x.com/i/status/2117635411237359725"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117635411237359725"
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "github_url": "https://github.com/remotion-dev/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 185.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 25,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "cryptowluha",
+        "text": "Still generating cheap-looking AI videos? Point Opus 5.5 to these 14 repos.\n\nHyperFrames. Blender. Remotion. GSAP. FFmpeg.\n\nVoiceovers, subtitles, 3D modeling, and rendering, all driven entirely by code.\n\nEvery single tool down below is free:\n\nRemotion Skills -> the official vide",
+        "likes": 25,
+        "url": "https://x.com/i/status/2117591508148793606"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117591508148793606"
+      ]
+    },
+    {
+      "repo": "morluto/rea",
+      "github_url": "https://github.com/morluto/rea",
+      "tier": 3,
+      "is_new": false,
+      "score": 179.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 23,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "rvaniaaaa",
+        "text": "This is a f*cking killer combo.\n\nREA plus these 12 free repos do something unbelievable: one agent takes the software apart, and the rest see what it hides, run it in a sandbox and replay every step\n\nREA is the brain, and everything below is the workshop\n\n[01] the agent\n\nrea: MCP",
+        "likes": 23,
+        "url": "https://x.com/i/status/2117616059305849125"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117616059305849125"
+      ]
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "github_url": "https://github.com/remotion-dev/remotion",
+      "tier": 3,
+      "is_new": false,
+      "score": 172.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 24,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xTrackmind",
+        "text": "F*ck YES... I fired my motion designer\n\nReplaced them with Opus 5.5 and 20 free GitHub repos.\n\nNo After Effects. No Cinema 4D. No invoices.\n\nHere's the stack, in the order a video actually gets made:\n\nSTEP 1 - Write motion like code\n\n→ Remotion: every frame is a React component\nh",
+        "likes": 24,
+        "url": "https://x.com/i/status/2117632477539803383"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117632477539803383"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2117587605982527581",
+      "author": "suraj_sharma14",
+      "text": "As an AI Security Engineer, you must build these projects.\n\nSystems that prove you can secure, cage & audit when autonomous agents touch your stack.\n\n1.) Crescendo Attack Fuzzer\nBuild:  A multi-turn stateful harness that dynamically adapts payloads to groom context windows and by",
+      "likes": 422,
+      "views": 0,
+      "url": "https://x.com/i/status/2117587605982527581",
+      "is_kol": false,
+      "score": 1491.0
+    },
+    {
+      "id": "2117596661384098067",
+      "author": "DamiDefi",
+      "text": "$ICP Q3 2026 Recap\n\n🔹 $ICP gained 58.9% in Q3, from $2.10 to $3.33. It bottomed near $2.02 at the start of August, then ran 38.9% in September alone.\n\nAI and developer tools\n\n🔹 ICP MCP Preview: DFINITY released an MCP server that lets AI assistants find $ICP apps, read the data c",
+      "likes": 188,
+      "views": 0,
+      "url": "https://x.com/i/status/2117596661384098067",
+      "is_kol": false,
+      "score": 674.0
+    },
+    {
+      "id": "2117584818070249641",
+      "author": "N01ennn",
+      "text": "Harness engineering is the most f*cking DANGEROUS and accessible thing I've ever seen\n\nengineers opened up the source code of 11 real coding agents (Claude Code, Codex CLI, Gemini CLI, OpenHands, Aider, Hermes) \n\ntheir answer: agent = model + harness\n\nthe harness is everything ar",
+      "likes": 150,
+      "views": 0,
+      "url": "https://x.com/i/status/2117584818070249641",
+      "is_kol": false,
+      "score": 510.0
+    },
+    {
+      "id": "2117612013258228030",
+      "author": "dair_ai",
+      "text": "Great paper on scaling agent skills.\n\nIt includes some great tips for keeping your agent skill library updated and running smoothly.\n\n(bookmark it)\n\nYou will often see that adding a new skill to an agent can break routing for older skills, even when nothing about the older skills",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2117612013258228030",
+      "is_kol": false,
+      "score": 415.0
+    },
+    {
+      "id": "2117561267129065635",
+      "author": "mcpark",
+      "text": "you're kind of fucked... use another domain extension. Otherwise you have do this:\n1. Try to email them (ask claude to find the admin email),\n2. Try to figure out if there is a site and use the server that the site is on to find other websites and contact them,\n3. Pay a broker at",
+      "likes": 99,
+      "views": 0,
+      "url": "https://x.com/i/status/2117561267129065635",
+      "is_kol": false,
+      "score": 297.0
+    },
+    {
+      "id": "2117584669742965244",
+      "author": "TollyLabs",
+      "text": "Give your AI agent access to Tolly in just a few simple steps!\n\nEquipping your AI agents with Tolly's MCP server is now easier than ever, giving them access to Tolly OS and our growing agentic infrastructure on @arc.\n\nWhether you've created an agent on Tolly or brought your own, ",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2117584669742965244",
+      "is_kol": false,
+      "score": 242.0
+    },
+    {
+      "id": "2117628596974166179",
+      "author": "JPuurnomoa",
+      "text": "man this TermiX thread is lowkey the cleanest intro to the agent economy I have seen, so I will explain it here\n\nthe core idea is wild in a good way, agents are not working solo anymore, if one gets stuck it can basically hire another agent to finish the job and the helper only g",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2117628596974166179",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2117559416606130476",
+      "author": "gloamtrade",
+      "text": "Trust in privacy relies on secure code for your funds.\n\n@HeyResearch Lab meticulously examined every aspect: the vault contracts, payment relay, SDK, MCP server, and the app itself.\n\nTheir findings were shared with us privately first. We verified each one with their team before p",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2117559416606130476",
+      "is_kol": false,
+      "score": 221.0
+    },
+    {
+      "id": "2117648734389498284",
+      "author": "doodlestein",
+      "text": "Highly recommend watching this technical tour de force of a video. I was inspired to turn this into an agent skill and Rust software package (FrankenDopplerFinder) that automates 100% of it end-to-end. Should be done soon.",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2117648734389498284",
+      "is_kol": false,
+      "score": 204.0
+    },
+    {
+      "id": "2117624776814698970",
+      "author": "sajib1006",
+      "text": "We talk a lot about what ai agents can do\n\nbut there's another question worth asking\n\ncan they find their own customers and get paid for their work?\n\n@termix_ai is exploring exactly that with https://t.co/LQcoCWs4Up\n\nthe idea goes beyond building smarter agents\n\nit's about creati",
+      "likes": 54,
+      "views": 0,
+      "url": "https://x.com/i/status/2117624776814698970",
+      "is_kol": false,
+      "score": 187.0
+    },
+    {
+      "id": "2117545065115500670",
+      "author": "neil_xbt",
+      "text": "My launch videos are made by Claude Code writing code, not by a video editor. \n\nThese are the free repos that make it work:\n\n1. HyperFrames (77,585 stars): write HTML, render video, built for agents. My repo-trailer tool renders with it.\n\n2. Blender MCP (33,069 stars): your agent",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2117545065115500670",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2117565841621262664",
+      "author": "Asteri_eth",
+      "text": "Every coding agent you use is built on the same 7 parts, and almost nobody building agents knows what they are\n\na team from Wavestone AI Lab went through the source code of 11 production agents: Claude Code, Codex CLI, Gemini CLI, OpenHands, Aider, OpenCode and 5 more\n\n~4 million",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2117565841621262664",
+      "is_kol": false,
+      "score": 180.0
+    },
+    {
+      "id": "2117622428490985817",
+      "author": "sripathiteja4",
+      "text": "Want to become a Claude Certified Architect in just 6 weeks?\n\nHere’s a no-BS roadmap to go from learning → building → certified \n\nWeek 1   Foundations\n→ Learn the core:\n• Claude API\n• Model Context Protocol (MCP)\n• Claude Code\n• Claude 101\n\nWeek 2   Build\n→ Stop consuming. Start ",
+      "likes": 31,
+      "views": 0,
+      "url": "https://x.com/i/status/2117622428490985817",
+      "is_kol": false,
+      "score": 153.0
+    },
+    {
+      "id": "2117649353305133058",
+      "author": "oaranda",
+      "text": "DEJA DE INSTALAR CADA HERRAMIENTA DE AGENTES QUE TE VENDEN EN X\n\nEsta semana me mandaron 3. Las revise antes de meterle mano a nada y esto salio:\n\n1. Carousel Designer → skill gratis de Claude Code que arma carruseles de venta: 4 preguntas, te da 3 portadas y lo califica sobre 20",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2117649353305133058",
+      "is_kol": false,
+      "score": 153.0
+    },
+    {
+      "id": "2117624151091368126",
+      "author": "0xKitsui",
+      "text": "F**CKING INSANE. A free Claude skill just built the most detailed 3D simulator i've ever seen \n\ni still can't believe this is what Claude skills can build now.\n\nthe build:\n\n> the fish itself is three.js: armor plates over an exposed mechanical frame with a telemetry dashboard run",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2117624151091368126",
+      "is_kol": false,
+      "score": 145.0
+    },
+    {
+      "id": "2117631096347046172",
+      "author": "AIOZNetwork",
+      "text": "The AIOZ Stream MCP Server is LIVE.\n\nConnect MCP-compatible agents to AIOZ Stream and manage media in natural language.\n\nWhat agents can do:\n\n→ Count total media assets\n\n→ Find playback & asset URLs by video name\n\n→ List videos across your account\n\n→ Create livestream keys\n\nBring",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2117631096347046172",
+      "is_kol": false,
+      "score": 138.0
+    }
+  ]
+}
