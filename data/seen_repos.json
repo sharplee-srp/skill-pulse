@@ -9154,5 +9154,37 @@
   "dannylydst/sorftime-seller-agent": {
     "first_seen": "2026-11-03",
     "tier": 3
+  },
+  "joeseesun/qiaomu-macos-dev": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "postmanlabs/postman-app-support": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "pjsny/stop-telemetry-leaks": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "ajhamdi/llmseg-code": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "1weiho/cinematic-shot": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "what1f/ls-skills": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "storytold/craft-anything": {
+    "first_seen": "2026-11-04",
+    "tier": 3
+  },
+  "joshmedeski/claude-follow.nvim": {
+    "first_seen": "2026-11-04",
+    "tier": 3
   }
 }

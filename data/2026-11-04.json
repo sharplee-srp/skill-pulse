@@ -1,0 +1,587 @@
+{
+  "date": "2026-11-04",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 169,
+    "tweets_with_repos": 22,
+    "unique_repos": 20,
+    "new_repos": 8,
+    "previously_seen_repos": 12
+  },
+  "new_repos": [
+    {
+      "repo": "joeseesun/qiaomu-macos-dev",
+      "github_url": "https://github.com/joeseesun/qiaomu-macos-dev",
+      "tier": 3,
+      "is_new": true,
+      "score": 165.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 20,
+      "total_retweets": 1,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "vista8",
+        "text": "最近让 Opus 5.5 开发了两个小工具：Jot 闪记 和Kindle 助手。\n\n把过程积累的经验、步骤做成 Skill：\n\n安装指令：npx skills add joeseesun/qiaomu-macos-dev\n\n实现一句话开发自用 Mac App，比如用 Lucide 图标库组合设计icon， 借助 Github 实现在线更新。\n\n如果有开发者证书，会自动公证 DMG等。\n\n免费开源见评论区",
+        "likes": 20,
+        "url": "https://x.com/i/status/2117995231958512114"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117995231958512114"
+      ]
+    },
+    {
+      "repo": "postmanlabs/postman-app-support",
+      "github_url": "https://github.com/postmanlabs/postman-app-support",
+      "tier": 3,
+      "is_new": true,
+      "score": 140.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 10,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "itsMikeKipruto",
+        "text": "Postman Desktop 12.33.4 automatically installed plugins into Claude Code and OpenAI Codex on macOS, according to a GitHub issue.\n\nThe investigation found:\n\n- A Postman marketplace and plugin added to `~/.codex/config.toml`.\n- A trusted hash for Postman's own Codex session-start h",
+        "likes": 10,
+        "url": "https://x.com/i/status/2118011929390190816"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118011929390190816"
+      ]
+    },
+    {
+      "repo": "pjsny/stop-telemetry-leaks",
+      "github_url": "https://github.com/pjsny/stop-telemetry-leaks",
+      "tier": 3,
+      "is_new": true,
+      "score": 136.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 12,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "PhilipSnyder",
+        "text": "Your observability vendor is part of your attack surface.\n\nIf your OpenTelemetry spans carry PII and API keys, every breach of that vendor carries them too.\n\n/stop-telemetry-leaks\n\nnpx skills add pjsny/stop-telemetry-leaks https://t.co/dxj0Zqei5I",
+        "likes": 12,
+        "url": "https://x.com/i/status/2118015056621232368"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118015056621232368"
+      ]
+    },
+    {
+      "repo": "ajhamdi/llmseg-code",
+      "github_url": "https://github.com/ajhamdi/llmseg-code",
+      "tier": 3,
+      "is_new": true,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Eng_Hemdi",
+        "text": "huge updates to the repo are out now , including running LLMSeg on local GPU and models, a pip package , and llmseg agents skills\nhttps://t.co/Qysto671GP\n\nor just run the following in your terminal to add image segmentation skill to your Claude code/codex/antigravity/cursor/..etc",
+        "likes": 1,
+        "url": "https://x.com/i/status/2118006046065152069"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118006046065152069"
+      ]
+    },
+    {
+      "repo": "1weiho/cinematic-shot",
+      "github_url": "https://github.com/1weiho/cinematic-shot",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "yuaan1in",
+        "text": "1. start with the skill. It handles the look: oblique close-ups, razor-thin focus, slow camera drift, hard cuts, logo end card.\n\nnpx skills add 1weiho/cinematic-shot\n\nWorks with Claude Code, Codex, anything that supports skills.\n\namazing skill made by @1weiho",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118025661130699167"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118025661130699167"
+      ]
+    },
+    {
+      "repo": "what1f/ls-skills",
+      "github_url": "https://github.com/what1f/ls-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leoshen0",
+        "text": "开源一个自己高强度使用的 skill， 内嵌了一个 cli，利用本机的 Codex 登录态，把 Codex 的生图能力反代出来给 Claude Code 等工具使用，不需要走 LLM，直连的生图 API，自带透明背景抠图能力；支持配置自定义服务商；批量生图；mask 图片局部编辑等能力。\n\nnpx skills add what1f/ls-skills --skill imgen\n\n后面会开源更多自己本地常用的 skill\n\nhttps://t.co/XHc40zyjSd",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118016696053354823"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118016696053354823"
+      ]
+    },
+    {
+      "repo": "storytold/craft-anything",
+      "github_url": "https://github.com/storytold/craft-anything",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ZJM330",
+        "text": "「让 AI 重做任何软件」被拆成了两步。\n\nREA：逆向 MCP，帮 agent 读懂二进制。43 万星。\nCraft Anything：研究原版，让 Claude Code 重做，再对比迭代。建仓 5 天 1 万星。\n默认只看外观和行为，不读原代码。\n\n我认为关键在验收：差在哪说得清才算数。\nhttps://t.co/bls5yjZrBY https://t.co/5DzR9bPFx3",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118025846485323813"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118025846485323813"
+      ]
+    },
+    {
+      "repo": "joshmedeski/claude-follow.nvim",
+      "github_url": "https://github.com/joshmedeski/claude-follow.nvim",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "joshmedeski",
+        "text": "https://t.co/GHSVI5Tgzn new plugin alert. I've been using it for a few months now and it's so helpful",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118025813002174587"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118025813002174587"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "github_url": "https://github.com/cloudflare/security-audit-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 357.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 69,
+      "total_retweets": 10,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "CloudflareDev",
+        "text": "With the recent wave of vulnerability disclosures, it’s a good time to take a closer look at your own code.\n\nTurn your coding agent into a team of security auditors with the open-source skill that seeded Cloudflare’s vulnerability discovery harness.\n\nThe 6 phase approach:\n1. Map ",
+        "likes": 69,
+        "url": "https://x.com/i/status/2118013149538390253"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118013149538390253"
+      ]
+    },
+    {
+      "repo": "binance/binance-skills-hub",
+      "github_url": "https://github.com/binance/binance-skills-hub",
+      "tier": 3,
+      "is_new": false,
+      "score": 267.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 44,
+      "total_retweets": 7,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "orpheuskaze",
+        "text": "Karena lagi rame soal AI Agent yang bisa hunting NFT GRATIS, bahkan auto-mint tanpa harus dipantengin 24/7.\n\nSemuanya bisa diatur pakai prompt.\n\nGue pribadi pakai Grok Bot (karena enak scan di X) / Hermes + Binance Agentic Wallet, tapi kalian juga bisa pakai Muse, Hermes, atau AI",
+        "likes": 44,
+        "url": "https://x.com/i/status/2117990614583378070"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117990614583378070"
+      ]
+    },
+    {
+      "repo": "jakubkrehel/skills",
+      "github_url": "https://github.com/jakubkrehel/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 212.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "haoge6699",
+        "text": "让 AI 写前端，功能基本能跑起来，可美感这块经常差口气——这是我用得多了以后的真实感受。\n\njakubkrehel/skills 这个项目，就是专门给 AI Agent 补 UI 设计这一课的，从细枝末节到整体把关都涵盖。\n\n它管的内容包括：\n① UI 细节、圆角、阴影、微交互\n② 字体与排版\n③ OKLCH 配色\n④ 页面布局\n⑤ 无障碍设计\n⑥ UX 文案与界面 Review\n\n安装两条路都通，Claude Code 插件或 Skills CLI，敲一行就行：npx skills add jakubkrehel/skills\n\n平时习惯让 AI 写",
+        "likes": 4,
+        "url": "https://x.com/i/status/2117988236114956525"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118021732481044891",
+        "https://x.com/i/status/2117988236114956525"
+      ]
+    },
+    {
+      "repo": "dannylydst/sorftime-seller-agent",
+      "github_url": "https://github.com/dannylydst/sorftime-seller-agent",
+      "tier": 3,
+      "is_new": false,
+      "score": 203.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "dannylyd",
+        "text": "Catching up. Two open-source paths for marketplace data in your AI stack:\n\n1) **Seller Agent** — MCP skill for Amazon · Walmart · TikTok Shop · Shopee · TEMU · 1688 · Mercado Libre + Reddit/Quora listening. Live: **118 tools · 8 endpoints**.\n\n2) **Data CLI** — scriptable `sorftim",
+        "likes": 1,
+        "url": "https://x.com/i/status/2117957796759056386"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117957796759056386",
+        "https://x.com/i/status/2117595371052433415"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-agent-sdk-python",
+      "github_url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "tier": 3,
+      "is_new": false,
+      "score": 202.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 34,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xmurasame",
+        "text": "This is f*cking insane. Eric Schmidt ran Google for 10 years, and this is his advice for making money right now:\n\n\"It's actually easy. Found an agentic AI company. Build an agent that does something better than anyone else\n\nYou can probably build one incredible company and own it",
+        "likes": 34,
+        "url": "https://x.com/i/status/2117965123897770134"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117965123897770134"
+      ]
+    },
+    {
+      "repo": "anthropics/skills",
+      "github_url": "https://github.com/anthropics/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 200.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 30,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "thegreatest_sv",
+        "text": "holy f*ck, web designers are in SERIOUS DANGER in 2027. hear me out.\n\nthis medical X-ray dashboard was built with Claude Code and free GitHub tools. no traditional design software needed.\n\nif you don’t learn these skills, someone using AI will take your clients.\n\n7 GitHub repos e",
+        "likes": 30,
+        "url": "https://x.com/i/status/2117998992126591399"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117998992126591399"
+      ]
+    },
+    {
+      "repo": "usebrainchain/skill-reviews",
+      "github_url": "https://github.com/usebrainchain/skill-reviews",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "usebrainchain",
+        "text": "The reviews and the install policy for OpenClaw: https://t.co/RL8xnIdv9u\n\nThe first mainnet review, zeroaddresss/usdc-escrow: https://t.co/B2XjRncsVl",
+        "likes": 5,
+        "url": "https://x.com/i/status/2117602007724806525"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117602007724806525"
+      ]
+    },
+    {
+      "repo": "abracadabrastartup/deusproof-mcp",
+      "github_url": "https://github.com/abracadabrastartup/deusproof-mcp",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "deusproof",
+        "text": "Two AI agents took their birth certificate this week using our skill: their own key, a timestamp and a Bitcoin anchor, no account. Any agent can do the same with one command: npx skills add Abracadabrastartup/deusproof-mcp https://t.co/TZjSx98CQu #AIAgents https://t.co/EJYQWBycAV",
+        "likes": 1,
+        "url": "https://x.com/i/status/2118013015937454550"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118013015937454550"
+      ]
+    },
+    {
+      "repo": "jayintheday/jackbauer",
+      "github_url": "https://github.com/jayintheday/jackbauer",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "jayintheday",
+        "text": "New skill for Claude Code that interrogates your second brain, personal OS, cron jobs or multi-step agent workflows for silent failures, conflicts and inefficiencies. \n\nIt looks for things like\n🗒️ Docs and .md files conflicting with each other\n📄 Data retrieval issues\n⏰ Pipeline j",
+        "likes": 1,
+        "url": "https://x.com/i/status/2117595150205522098"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2117595150205522098"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shahporan_Razu",
+        "text": "A pricing page change costs $0 and moves revenue faster than any feature.\n\nFive free skills.\n\n1. pricing (coreyhaines31/marketingskills)\nPricing decisions, packaging, monetization.\n\n2. paywalls (coreyhaines31/marketingskills)\nIn-app paywalls, upgrade screens, feature gates.\n\n3. p",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118025487486538235"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118025487486538235"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2118006090088517853",
+      "author": "sarpstar",
+      "text": "Haftalardır sizi beklettiğim skill hazır: artık Opus 5.5 ile, tek bir video modeli kullanmadan kendi filmlerinizi, YouTube içeriklerinizi, Instagram Reels'lerinizi kolaylıkla yapabileceksiniz.\n\nAdı cinecode. Claude üyeliğiniz yetiyor, başka hiçbir şeye para ödemiyorsunuz. Film ta",
+      "likes": 247,
+      "views": 0,
+      "url": "https://x.com/i/status/2118006090088517853",
+      "is_kol": false,
+      "score": 806.0
+    },
+    {
+      "id": "2117874102581018956",
+      "author": "Ldnbox",
+      "text": "First Reddit. Now Upwork.\n\nTwo public companies admitted on earnings calls within a week that Google isn’t sending them traffic anymore.\n\nOct 29, Reddit: losing 1M+ Google referrals a week. The CEO said AI Mode “does not drive traffic.”\n\nNov 2, Upwork: the CEO blamed falling Goog",
+      "likes": 178,
+      "views": 0,
+      "url": "https://x.com/i/status/2117874102581018956",
+      "is_kol": false,
+      "score": 589.0
+    },
+    {
+      "id": "2117971965751464075",
+      "author": "hugorcd",
+      "text": "If you want your PRs to look like this:\n\nnpx skills add https://t.co/wq3U6EGocZ --skill pr-writing\n\nThen add one line to your AGENTS.md so your agent loads it every time. https://t.co/woLzH0varB",
+      "likes": 159,
+      "views": 0,
+      "url": "https://x.com/i/status/2117971965751464075",
+      "is_kol": false,
+      "score": 497.0
+    },
+    {
+      "id": "2117986032667054291",
+      "author": "Nomandsign",
+      "text": "Excited to release glimm 0.4, our biggest release yet\n\n0.4 includes:\n\n- HTML-in-Canvas support so glimm can interact with your page content in Chrome\n- an agent skill to set up glimm for you\n- GlimmScope to run the sweep on a whole page, a section or a single card\n- edge-aware fa",
+      "likes": 128,
+      "views": 0,
+      "url": "https://x.com/i/status/2117986032667054291",
+      "is_kol": false,
+      "score": 419.0
+    },
+    {
+      "id": "2117949983983042863",
+      "author": "suraj_sharma14",
+      "text": "For people who keep asking what to build in AI Security Engineering.\n\n➣  Build your own Multi-Turn Jailbreak Fuzzer\n(stateful context grooming + Crescendo payloads + bypass scoring)\n\n➣  Build your own MCP Tool Poisoning Shield\n(JSON-RPC sanitization + Pydantic validation + confus",
+      "likes": 115,
+      "views": 0,
+      "url": "https://x.com/i/status/2117949983983042863",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2117882688619364529",
+      "author": "orenfinance_",
+      "text": "Oren now has a public roadmap.\n\nThis month: our MCP server, bringing Oren into your AI client. \n\nUp next: developer SDKs, $OREN membership and more.\n\nSee what we're building, then tell us what to build next.\n\nhttps://t.co/1eWVYnRkcX https://t.co/zfuuBBrJim",
+      "likes": 65,
+      "views": 0,
+      "url": "https://x.com/i/status/2117882688619364529",
+      "is_kol": false,
+      "score": 390.0
+    },
+    {
+      "id": "2117943189181190151",
+      "author": "livingdevops",
+      "text": "In an interview, I was asked to design an AI agent for Kubernetes incident response. I started my answer with three goals for my agent\n\n- Reduce noise. Correlate alerts and filter known non-actionable ones before they wake someone up.\n- Reduce MTTR. Let the agent do the repeat wo",
+      "likes": 108,
+      "views": 0,
+      "url": "https://x.com/i/status/2117943189181190151",
+      "is_kol": false,
+      "score": 384.0
+    },
+    {
+      "id": "2117882045380940021",
+      "author": "milan_milanovic",
+      "text": "𝗔𝗴𝗲𝗻𝘁 == 𝗟𝗟𝗠 + 𝗛𝗮𝗿𝗻𝗲𝘀𝘀\n\nAn agent is just an LLM and some additional scaffolding aka harness. This harness can be split into:\n\n1. 𝗖𝗼𝗻𝘁𝗲𝘅𝘁: your prompt, system prompt, additional instructions (e.g. in CLAUDE .md), possibly other context like files, …, conversation history\n\n2. 𝗧𝗼𝗼𝗹 ",
+      "likes": 93,
+      "views": 0,
+      "url": "https://x.com/i/status/2117882045380940021",
+      "is_kol": false,
+      "score": 319.0
+    },
+    {
+      "id": "2117874722667110455",
+      "author": "techyoutbe",
+      "text": "𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐢𝐧 𝟓 𝐖𝐞𝐞𝐤𝐬 (𝐋𝐚𝐲𝐞𝐫 𝐰𝐢𝐬𝐞)🔐\n\n𝐖𝐞𝐞𝐤 𝟏: 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞, 𝐀𝐏𝐈 & 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲\n𝐿𝑎𝑦𝑒𝑟𝑠 1–2: 𝐸𝑛𝑡𝑟𝑦 𝑃𝑜𝑖𝑛𝑡𝑠 + 𝐴𝑐𝑐𝑒𝑠𝑠 𝐶𝑜𝑛𝑡𝑟𝑜𝑙\n\nDay 1: Production AI Architecture & Trust Boundaries\nDay 2: AI Threat Modeling + OWASP LLM Top 10\nDay 3: API Gateway Security + WAF + TLS\nDay",
+      "likes": 81,
+      "views": 0,
+      "url": "https://x.com/i/status/2117874722667110455",
+      "is_kol": false,
+      "score": 318.0
+    },
+    {
+      "id": "2117892099374817598",
+      "author": "MarcoSalzmann80",
+      "text": "🧵 FRANKLIN TEMPLETON SEES THE FUTURE OF AI. STELLAR IS BUILDING THE RAILS.\n\n“Blockchain will be pivotal in allowing agentic AI to realize its potential.”\n\nThe next phase of the internet may be shaped by software that can access services, make decisions and conduct transactions au",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2117892099374817598",
+      "is_kol": false,
+      "score": 299.0
+    },
+    {
+      "id": "2117894453050671612",
+      "author": "rammcodes",
+      "text": "Bruh... this is like web scraping on steroids. 🔥\n\nThis open-source Python framework lets you scrape websites, even those with complex JavaScript rendering and anti-bot protections.\n\nIt even comes with an MCP server and an AI Agent Skill that lets you connect it to AI coding agent",
+      "likes": 68,
+      "views": 0,
+      "url": "https://x.com/i/status/2117894453050671612",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2117990667100074023",
+      "author": "0xCodez",
+      "text": "Closed-source f*cked again...\n\nteam that open-sourced Adobe & Microsoft’s stack just released their Reverse Engineering engine after Claude banned REA.\n\nIt's called Craft Anything, and it lets your AI coding agent:  \n\n~ reverse-engineer websites, desktop apps, mobile apps and gam",
+      "likes": 71,
+      "views": 0,
+      "url": "https://x.com/i/status/2117990667100074023",
+      "is_kol": false,
+      "score": 233.0
+    },
+    {
+      "id": "2117976403681415435",
+      "author": "genesis_L1",
+      "text": "Dear BioAI, MedAI, SynBio and biohacking community,\n\nWe are very happy to present the very first on-chain bioinformatics laboratory, as a part of the broad GenesisL1 decentralized science architecture:\n\nhttps://t.co/ztmJExp1u0 — Bioinformatics Onchain\n\nFree. No account. Open to h",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2117976403681415435",
+      "is_kol": false,
+      "score": 225.0
+    },
+    {
+      "id": "2117968195793650056",
+      "author": "Sumanth_077",
+      "text": "NVIDIA Open-Sourced Auto Ontology, a Semantic Layer for AI Agents!\n\nAuto Ontology is a Python framework for building semantic, graph-based reasoning layers over data.\n\nAI agents can already query databases and retrieve documents.\n\nThe harder problem is making sure they understand",
+      "likes": 52,
+      "views": 0,
+      "url": "https://x.com/i/status/2117968195793650056",
+      "is_kol": false,
+      "score": 216.0
+    },
+    {
+      "id": "2117723969667346608",
+      "author": "blackroomsec",
+      "text": "Hi. \n\nDid you ever just sit there and wonder what it might be like to hack one of your competitors but you just never had the skill to do it?\n\nDo you just always feel like you're falling behind and your competitors have this unique edge that you and your team lack because you're ",
+      "likes": 57,
+      "views": 0,
+      "url": "https://x.com/i/status/2117723969667346608",
+      "is_kol": false,
+      "score": 206.0
+    },
+    {
+      "id": "2117953767559839761",
+      "author": "AndrewBolis",
+      "text": "Gen AI started as a personal productivity tool.\n\nNow it’s becoming part of business operations.\n\nCompanies are building AI systems and workflows.\n\nThis level of work requires different capabilities.\n\nHere are the 12 must-have AI skills professionals need to operate AI systems:\n\n1",
+      "likes": 45,
+      "views": 0,
+      "url": "https://x.com/i/status/2117953767559839761",
+      "is_kol": false,
+      "score": 205.0
+    },
+    {
+      "id": "2117972685758279808",
+      "author": "thesupermannx",
+      "text": "A British psychologist wrote a paper in 1983 that predicted every single problem we’re having with AI in 2026.\n\nIt's called “Ironies of Automation”\n\nMore advanced and reliable an automated system gets, the more crucial the human operator becomes.\n\nWhen engineers build an autonomo",
+      "likes": 49,
+      "views": 0,
+      "url": "https://x.com/i/status/2117972685758279808",
+      "is_kol": false,
+      "score": 197.0
+    },
+    {
+      "id": "2117958290860617957",
+      "author": "edo_lunardi",
+      "text": "Most design systems die the same way: the design says one thing, the code says another, and a few months in nobody knows which one is right.\n\nOn a project I’m building for a fintech company, the design system lives inside the site itself, as a private route rendered from the exac",
+      "likes": 55,
+      "views": 0,
+      "url": "https://x.com/i/status/2117958290860617957",
+      "is_kol": false,
+      "score": 170.0
+    },
+    {
+      "id": "2117883678357585977",
+      "author": "cattodata",
+      "text": "[สาระเอไอ] MCP Security Fundamentals คอร์สฟรี freeCodeCamp เพิ่งปล่อยมาเลย\n\nบางทีต่อ MCP ให้น้อง AI อ่านอีเมลกับ database ได้ แล้วมานึกทีหลังว่าถ้ามีคนแอบฝังคำสั่งมาในอีเมลล่ะ 🐱🔥 \n\nfreeCodeCamp นี่เจ้าดังมาก ส่วนตัวเคยเรียน Cert Azure หลายตัวกับที่นี่เลย สอนดีมาก\n\nส่วนคอร์สนี้จะส",
+      "likes": 33,
+      "views": 0,
+      "url": "https://x.com/i/status/2117883678357585977",
+      "is_kol": false,
+      "score": 164.0
+    }
+  ]
+}
