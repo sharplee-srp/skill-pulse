@@ -9186,5 +9186,53 @@
   "joshmedeski/claude-follow.nvim": {
     "first_seen": "2026-11-04",
     "tier": 3
+  },
+  "lucasjramos/spritekiln": {
+    "first_seen": "2026-11-05",
+    "tier": 2
+  },
+  "phuryn/mini-harness": {
+    "first_seen": "2026-11-05",
+    "tier": 2
+  },
+  "alibaba/qz-browser-agent": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "uber/adr": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "microsoft/llmlingua": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "mibayy/token-savior": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "majorminorlabs/hermes-voice": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "xai-org/plugin-marketplace": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "conardli/garden-skills": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "deeksharungta/animatomy": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "mouaddotmd/stash": {
+    "first_seen": "2026-11-05",
+    "tier": 3
+  },
+  "stone16/harness-engineering-skills": {
+    "first_seen": "2026-11-05",
+    "tier": 3
   }
 }
