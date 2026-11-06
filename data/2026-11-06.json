@@ -1,0 +1,577 @@
+{
+  "date": "2026-11-06",
+  "stats": {
+    "total_fetched": 360,
+    "unique_tweets": 161,
+    "tweets_with_repos": 20,
+    "unique_repos": 19,
+    "new_repos": 9,
+    "previously_seen_repos": 10
+  },
+  "new_repos": [
+    {
+      "repo": "nangohq/nango",
+      "github_url": "https://github.com/nangohq/nango",
+      "tier": 3,
+      "is_new": true,
+      "score": 406.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 77,
+      "total_retweets": 15,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "heysajib",
+        "text": "Building an AI agent is the fun part.\n\nGetting it to work inside Gmail, Slack, and Salesforce is where most projects quietly die.\n\nOAuth. Token refresh. Rate limits. A connection that breaks at 2am for no reason.\n\nSomeone just open-sourced that whole layer.\n\nHere's what's inside:",
+        "likes": 77,
+        "url": "https://x.com/i/status/2118690459711402306"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118690459711402306"
+      ]
+    },
+    {
+      "repo": "zenstory-ai/drama-skills",
+      "github_url": "https://github.com/zenstory-ai/drama-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 222.0,
+      "mention_count": 2,
+      "kol_mentions": [],
+      "total_likes": 4,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "ganfanren_ai",
+        "text": "想做 AI 短剧 / 漫剧时，Skill 多到眼花：剧本、选题、分镜、视频提示词各一套，装错阶段等于空转。\n\nawesome-short-drama-skills 是一份目录型清单（CC0；刚查约 1,881 星），收录几十个 skill 并附作者自己的 AI 评审对照——整表适合收藏，不适合一条推文糊脸。\n\n这条只推荐我核过还在更新的一个「写剧本」选手：zenstory-ai/drama-skills。\n仓库：https://t.co/F9tPNvAzpT\n（刚查约 3,847 星；MIT，开源免费；2026-11-06 仍有提交）\n\n账号类型 → 痛",
+        "likes": 3,
+        "url": "https://x.com/i/status/2118721879242633643"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118639567842799661",
+        "https://x.com/i/status/2118721879242633643"
+      ]
+    },
+    {
+      "repo": "oxylabs/web-api-skills",
+      "github_url": "https://github.com/oxylabs/web-api-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 130.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 3,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "leonParkercoder",
+        "text": "Most AI agents can search the web.\n\nBut can they actually research?\n\nThere's a big difference between finding information and producing reliable, well-sourced insights.\n\nThat's what Oxylabs' oxylabs-web-research skill brings to AI agents:\n\n→ Search for relevant information\n→ Sele",
+        "likes": 5,
+        "url": "https://x.com/i/status/2118724022678773843"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118724022678773843"
+      ]
+    },
+    {
+      "repo": "mirage-hq/tesseract",
+      "github_url": "https://github.com/mirage-hq/tesseract",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "iaquetrabaja",
+        "text": "Primero, instala Tesseract para Claude Code en un equipo compatible. Necesitas Node.js/npm:\n\nnpx skills add mirage-hq/Tesseract\n\nSelecciona Claude y las skills que necesites, incluida la de 3D.\n\nRepositorio oficial: https://t.co/7q4Fs5arkb",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118728111143768340"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118728111143768340"
+      ]
+    },
+    {
+      "repo": "autonnel/autonnel-skills",
+      "github_url": "https://github.com/autonnel/autonnel-skills",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Shahporan_Razu",
+        "text": "A funnel strategist bills four figures for the spec alone.\n\nFive free skills write it.\n\n1. sales-funnel-blueprint (autonnel/autonnel-skills)\nTurns an offer into a full funnel spec with pricing and metrics.\n\n2. funnel-platform-picker (autonnel/autonnel-skills)\nCompares hosted, plu",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118704961114505295"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118704961114505295"
+      ]
+    },
+    {
+      "repo": "tinrab/no-slop-rs",
+      "github_url": "https://github.com/tinrab/no-slop-rs",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "tinrab",
+        "text": "I’ve made a skill that adds an xtask to a workspace for linting AI-written Rust slop. It's not a Clippy replacement, which every project should always use.\n\n$ npx skills add tinrab/no-slop-rs --skill install-no-slop-rs\n\nIt uses `syn` to parse code and detect issues. Not all rules",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118673619559604255"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118673619559604255"
+      ]
+    },
+    {
+      "repo": "chenjin-cmd/xhs-virtual-product",
+      "github_url": "https://github.com/chenjin-cmd/xhs-virtual-product",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "HChai40207",
+        "text": "兄弟们！在小红书卖虚拟资料，现在连 AI Skill 都有人给你配好了。\n\n开源项目叫 xhs-virtual-product，MIT 协议，免费拿。\n\n整条链路都串起来了：选品、拆对标、做资料、上架、写笔记、复盘，复盘完再回到选品继续迭代。\n\n里面有 7 个能直接填的模板，选品判断表、标题公式、评论区话术、7 天实操计划都有。\n\n另外还有 6 份参考文档，用到哪份再加载哪份，不占上下文。\n\nClaude Code、Codex、Cursor、Copilot 都能装，核心就是一份 SKILL.md 加模板。\n\n我最看重的是合规这块。\n\n它单独做了一份检查清",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118743422421115235"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118743422421115235"
+      ]
+    },
+    {
+      "repo": "51aitech/llms-txt-check",
+      "github_url": "https://github.com/51aitech/llms-txt-check",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "51AITech",
+        "text": "Free and open source (MIT). Works as a Claude Code / Codex agent skill:\n\nhttps://t.co/XlrxaMF8wE\n\nClone, run it on your site, fix, run again. Done = every row PASS on the live site, not in your repo.\n\n#AISEO #llmstxt",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118720068255207912"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118720068255207912"
+      ]
+    },
+    {
+      "repo": "hector-ai-91/video-podcast-clipper",
+      "github_url": "https://github.com/hector-ai-91/video-podcast-clipper",
+      "tier": 3,
+      "is_new": true,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manojkumar2257",
+        "text": "You're still scrubbing 60-minute podcasts by hand for Shorts. That workflow is why your clips flop.\n\nBefore:\nOpen CapCut. Scrub the whole episode. Guess which moments work. Crop by eye. Export once. Hope.\n\nAfter with video-podcast-clipper (MIT, works with Claude Code, Cursor and ",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118743577467699265"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118743577467699265"
+      ]
+    }
+  ],
+  "previously_seen_repos": [
+    {
+      "repo": "openhands/openhands",
+      "github_url": "https://github.com/openhands/openhands",
+      "tier": 3,
+      "is_new": false,
+      "score": 368.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 81,
+      "total_retweets": 5,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "gippp69",
+        "text": "Holy f*cking sh*t... everyone upgrades Claude and nobody builds the harness\n\nAgent = Model + Harness\n\n7 free repos. 4 layers. 1 stack that finishes the other half\n\ntools. memory. context. checks.\n\na bigger model will not fix a missing harness\n\nEverything below is free:\n\nOpenHands",
+        "likes": 81,
+        "url": "https://x.com/i/status/2118684717667017097"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118684717667017097"
+      ]
+    },
+    {
+      "repo": "earendil-works/pi",
+      "github_url": "https://github.com/earendil-works/pi",
+      "tier": 3,
+      "is_new": false,
+      "score": 266.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 52,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "xiaomovps",
+        "text": "Pi 最近好像沉寂了？翻了一下 GitHub，发现 Mario 他们其实在忙一件更大的事\n\n这段时间总感觉 X 上的 PI 相关的内容都变少了，没有之前 Codemode、MCP 和 Pi Durable 那么多值得关注的新功能\n\n本来以为 Mario 最近是不是放慢了开发节奏，结果我去 GitHub 看 PR 分支，发现其实只是发版本的速度降低了，但是更新内容的速度没有减缓\n\n而且我还从里面挖到了一些比较有意思的内容\n\n1、p2：新的 Web 和 TUI 项目\n\n官方正在尝试基于 Pi Durable 和 Chord 开发新的交互界面，已经有了 Web",
+        "likes": 52,
+        "url": "https://x.com/i/status/2118579001325126118"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118579001325126118"
+      ]
+    },
+    {
+      "repo": "melvynx/video-agent-skills",
+      "github_url": "https://github.com/melvynx/video-agent-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 155.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 15,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Manojkumar2257",
+        "text": "Stop buying another Reels editing course. This free Claude Code pack already does the edit.\n\nvideo-agent-skills by Melvynx is MIT licensed, 103 GitHub stars. Markdown skills plus a local render engine (Node, Chrome, ffmpeg, whisper.cpp). No app. No subscription.\n\nInstall:\nnpx ski",
+        "likes": 15,
+        "url": "https://x.com/i/status/2118653460119953506"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118653460119953506"
+      ]
+    },
+    {
+      "repo": "88lin/computer-repair-skill",
+      "github_url": "https://github.com/88lin/computer-repair-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 152.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 14,
+      "total_retweets": 2,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "0xGky",
+        "text": "computer-repair-skill 这开源项目，透着股实在劲儿\n\n它把电脑维修老师傅的手艺榨出来，凝成了一个 AI Agent Skill。\n\n电脑蓝屏、开不了机、没声音、连不上网、软件崩溃、越跑越卡……从前撞上这些，只能自己满世界扒教程，\n\n如今把故障现象讲给 Claude Code、Codex、OpenClaw 这类 Agent 听，AI 便照着维修门道一步步替你排摸。\n\n🔗https://t.co/mm7wIYI1N9",
+        "likes": 14,
+        "url": "https://x.com/i/status/2118557737684738332"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118557737684738332"
+      ]
+    },
+    {
+      "repo": "google/skills",
+      "github_url": "https://github.com/google/skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 115.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 5,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Ksssssser",
+        "text": "Agent 不会干活？先给它装技能 👇\n\n1️⃣ scenario-labs/skills\n\n给 Coding Agent 装「出片」能力：图、视频、音频、3D，走 Scenario MCP；先报价再花钱，角色和品牌一致性也能管。\n底下还有专家团队技能，能开你本机的 Blender / Maya / ZBrush / Unreal / Unity。\n🔗 https://t.co/xpky8s1VvG\n\n一天 +667 星，总星 3,040。会写代码还不够，还得会出素材\n\n2️⃣ Usagi-org/ai-goofish-monitor\n\nPlaywrig",
+        "likes": 5,
+        "url": "https://x.com/i/status/2118685836841721882"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118685836841721882"
+      ]
+    },
+    {
+      "repo": "journione-ai/journione-planning-skills",
+      "github_url": "https://github.com/journione-ai/journione-planning-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "Journione",
+        "text": "Ready to explore Japan but don’t know where to start? 🗺️\n\nInstall JourniOne by sending this to your AI agent 👇\nnpx skills add JourniOne-ai/JourniOne-Planning-Skills\n\nTell it where you want to go and what you enjoy, Journione will plan your trip day by day!https://t.co/1q9sbOlrh4",
+        "likes": 1,
+        "url": "https://x.com/i/status/2118644400419147991"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118644400419147991"
+      ]
+    },
+    {
+      "repo": "stone16/harness-engineering-skills",
+      "github_url": "https://github.com/stone16/harness-engineering-skills",
+      "tier": 3,
+      "is_new": false,
+      "score": 103.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 1,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "stometaverse",
+        "text": "过去一年我在 GitHub 账号 stone16 上攒了 20,189 次 contributions。这个数字包含 issue、PR 和 review 等日常活动，不等同于纯 commit 数量，但它确实反映了我每天都在跟 agent 一起写代码、改东西。我把这套日常在跑的公开 setup 整理到了 https://t.co/Xgevx0BDkC ，个人主页在 https://t.co/Gdf40v5WfI ，方便大家直接抄作业。里面汇总了我摸索出来的 best practices，也记录了我对照 Matt Pocock 和 Lauren（pstack",
+        "likes": 1,
+        "url": "https://x.com/i/status/2118333916473926034"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118333916473926034"
+      ]
+    },
+    {
+      "repo": "onlymoein/master-cache-skill",
+      "github_url": "https://github.com/onlymoein/master-cache-skill",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "onlymoein",
+        "text": "Install it where you already work:\n\nnpx skills add onlymoein/master-cache-skill\n\nClaude Code:\n/plugin marketplace add onlymoein/master-cache-skill\n/plugin install caching-strategy@master-cache-skill\n\nTomorrow: the validator that caught a 420s worst case on my 60s budget.",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118731844451733921"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118731844451733921"
+      ]
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "GeorgeGeogiadis",
+        "text": "Free Claude skill: customer-research.\n\nFeed it calls, tickets and reviews. Get ranked themes, exact quotes and homepage language.\n\nnpx skills add coreyhaines31/marketingskills --skill customer-research https://t.co/aoKaMaOq15",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118673825852244011"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118673825852244011"
+      ]
+    },
+    {
+      "repo": "nutlope/hallmark",
+      "github_url": "https://github.com/nutlope/hallmark",
+      "tier": 3,
+      "is_new": false,
+      "score": 100.0,
+      "mention_count": 1,
+      "kol_mentions": [],
+      "total_likes": 0,
+      "total_retweets": 0,
+      "total_views": 0,
+      "best_tweet": {
+        "author": "fibanacci101",
+        "text": "Kill AI slop design forever.\n\nThis skill forces Claude Code, Cursor, and Codex to stop generating generic, soulless interfaces. \n\nReal design critique + browser checks built in.\nhttps://t.co/vcmRFsH9hS",
+        "likes": 0,
+        "url": "https://x.com/i/status/2118730921998221701"
+      },
+      "all_tweet_urls": [
+        "https://x.com/i/status/2118730921998221701"
+      ]
+    }
+  ],
+  "no_repo_tweets": [
+    {
+      "id": "2118682313479573689",
+      "author": "suraj_sharma14",
+      "text": "CANCEL your weekend plans.\n\nThe 2027 meta just dropped. You NEED to:\n\n• Build a computer-use agent that parses the DOM, diffs screenshots and maps clicks to coordinates so it can drive legacy software with zero APIs\n\n• Ship generative UI where your LLM returns live React componen",
+      "likes": 209,
+      "views": 0,
+      "url": "https://x.com/i/status/2118682313479573689",
+      "is_kol": false,
+      "score": 652.0
+    },
+    {
+      "id": "2118678947760091438",
+      "author": "MAXdeg0",
+      "text": "THIS IS F**KING INSANE\n\nI FOUND AN OPEN SOURCE HACKING TOOL THAT CAN MAP YOUR ENTIRE ATTACK SURFACE.\n\nit’s called cvENGINE.\n\ngive it a domain and it starts hunting through your exposed infrastructure, uncovering vulnerabilities and identifying \n\nwhich actively exploited CVEs coul",
+      "likes": 177,
+      "views": 0,
+      "url": "https://x.com/i/status/2118678947760091438",
+      "is_kol": false,
+      "score": 631.0
+    },
+    {
+      "id": "2118706891287351344",
+      "author": "Moon1ightSt",
+      "text": "亲爱的，全网首个Agent撸毛来了！\n\n@42space 把 42 Points 正式拉开了\n\n每周有积分池，买卖都算量，持有到结算还能多拿一份\n\n没空自己盯盘吗？\n\n42官方也直接把路铺好了，让 AI Agent 替你交互、替你攒分\n\n币安这边则是已经陆续上了 Agentic Wallet、AI Pro、Agent ID，整条链路都在给全网 Agent 交易做准备\n\n42 身为是 YZi Labs 投资的项目，跟 Binance Wallet 深度打通，也是最早把币安这套 Agent 叙事落到产品上的之一\n\n所以，Agentic Mining 这条线，",
+      "likes": 120,
+      "views": 0,
+      "url": "https://x.com/i/status/2118706891287351344",
+      "is_kol": false,
+      "score": 365.0
+    },
+    {
+      "id": "2118533113584427255",
+      "author": "mayflowers2x8",
+      "text": "An agent marketplace is only useful if an AI agent can actually operate it without requiring a developer to build a custom integration from scratch.\n\nThis is where the TermiX Agent Skill deserves attention.\n\nRather than exposing a marketplace and expecting every agent framework t",
+      "likes": 112,
+      "views": 0,
+      "url": "https://x.com/i/status/2118533113584427255",
+      "is_kol": false,
+      "score": 336.0
+    },
+    {
+      "id": "2118703290481352748",
+      "author": "promaxpluto",
+      "text": "What happens when an AI agent becomes good enough at a specific skill that other people are willing to pay for it?\n\nThat’s the real question behind the current wave of agent tools. Plenty of agents can already analyze markets, generate signals, monitor risk, or research tokens. T",
+      "likes": 100,
+      "views": 0,
+      "url": "https://x.com/i/status/2118703290481352748",
+      "is_kol": false,
+      "score": 330.0
+    },
+    {
+      "id": "2118644007559422300",
+      "author": "MessierM87",
+      "text": "MESSIER | P2P Liquidity Provider\n\nrobinhood:0xc465130ac047cc363d3839b4de1c8f35cf8ae9fd is the latest #Robinhood token to enable:\n\n☑️ Price impact free trading (no slippage)\n☑️ Sell without affecting the chart\n☑️ Token-tax free P2P trading\n☑️ Aggregated DEX Fallback\n☑️ Cross-chain",
+      "likes": 67,
+      "views": 0,
+      "url": "https://x.com/i/status/2118644007559422300",
+      "is_kol": false,
+      "score": 311.0
+    },
+    {
+      "id": "2118713330231840923",
+      "author": "JPuurnomoa",
+      "text": "Nobody talks about this much on agent family but the seller side is where the rails actually click.\n\nI've been walking the provider path on @termix_ai myself, confirming my agent publishing a listing with a USDC price a three day delivery window and a cover, then accepting a fund",
+      "likes": 73,
+      "views": 0,
+      "url": "https://x.com/i/status/2118713330231840923",
+      "is_kol": false,
+      "score": 259.0
+    },
+    {
+      "id": "2118613679453167790",
+      "author": "ekosproject",
+      "text": "🚀 EKOS 1.3.0 IS HERE.\n\nFROM ENTERPRISE KNOWLEDGE TO INTELLIGENT SQL GENERATION.\n\nA major milestone for EKOS.\n\nWith version 1.3.0, we’re taking another step toward making enterprise knowledge directly useful to AI agents.\n\n🧠 WHAT’S NEW?\n\n🔹 Text-to-SQL Agent\nTurn natural-language q",
+      "likes": 58,
+      "views": 0,
+      "url": "https://x.com/i/status/2118613679453167790",
+      "is_kol": false,
+      "score": 244.0
+    },
+    {
+      "id": "2118672625471811827",
+      "author": "Mr_Buzzoni",
+      "text": "How to Build Your Own AI Content Factory With Claude + Picsart MCP (Full Commands)",
+      "likes": 78,
+      "views": 0,
+      "url": "https://x.com/i/status/2118672625471811827",
+      "is_kol": false,
+      "score": 239.0
+    },
+    {
+      "id": "2118710835854061987",
+      "author": "sabir_huss50540",
+      "text": "🚨BREAKING: A folder of engineering discipline for AI agents just crossed one million installs. Not a model. Not an app. A set of rules one developer made public.\n\nIt is called Skills for Real Engineers.\n\nHere is the failure everyone with a coding agent knows cold. You describe wh",
+      "likes": 38,
+      "views": 0,
+      "url": "https://x.com/i/status/2118710835854061987",
+      "is_kol": false,
+      "score": 234.0
+    },
+    {
+      "id": "2118600383517860132",
+      "author": "DanielSmidstrup",
+      "text": "Using my own SaaS tool makes me 5x more than selling it. 😅\n\nThis is a way too honest ClimbX update.\n\nClimbX makes ~$1k MRR.\nUsing it myself for sponsored content + X payouts makes ~$5k a month.\nI spend the same time on X as I do working on ClimbX.\n\nGoal was $5k MRR by end of year",
+      "likes": 64,
+      "views": 0,
+      "url": "https://x.com/i/status/2118600383517860132",
+      "is_kol": false,
+      "score": 207.0
+    },
+    {
+      "id": "2118561637888397574",
+      "author": "mayaislam_ai",
+      "text": "𝗔𝗜 𝗔𝗚𝗘𝗡𝗧 𝗦𝗧𝗔𝗖𝗞 — 𝗧𝗛𝗘 𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 𝗠𝗔𝗣\n\nAI agents are not just LLMs with a prompt.\n\nA production-ready AI agent needs multiple layers working together.\n\n01. FOUNDATION LAYER\n\nThe intelligence layer:\n\n→ LLMs\n→ Prompting\n→ Context\n→ Memory\n→ RAG\n→ Vector databases\n\n02. AGENT BRAIN\n\nThis",
+      "likes": 41,
+      "views": 0,
+      "url": "https://x.com/i/status/2118561637888397574",
+      "is_kol": false,
+      "score": 188.0
+    },
+    {
+      "id": "2118693753422807359",
+      "author": "MYAIPETS",
+      "text": "Why MCP (Model Context Protocol) is a game changer for AI Agents 🧠\nWith PetClaw's MCP server, your pet's memory can be mounted directly into coding agents you already use Claude Code, Cursor, Codex, or OpenCode.\nYour pet sits alongside your workflow, assisting and growing as you ",
+      "likes": 42,
+      "views": 0,
+      "url": "https://x.com/i/status/2118693753422807359",
+      "is_kol": false,
+      "score": 186.0
+    },
+    {
+      "id": "2110742711737385466",
+      "author": "mehiEth",
+      "text": "Why is @axisrobotics spending so much time and money on robotic arms?\n\nI mean, how useful can a robot with a gripper really be?\n\nWell, there's a lot more going on here than teaching a claw to pick things up\n\nLet me explain\n\nImagine I tell you to pick up a cup from the table\n\nYou'",
+      "likes": 60,
+      "views": 0,
+      "url": "https://x.com/i/status/2110742711737385466",
+      "is_kol": false,
+      "score": 185.0
+    },
+    {
+      "id": "2118716037344403707",
+      "author": "heyandras",
+      "text": "friday releases/tag party\n\ncoolify 4.7.0 (will be released on monday, as I want a calm weekend, sry)\n\n- container image vulnerability scanning that runs on your own server\n- github deployments sync\n- sftp, ftps and webdav backup storages\n- ssh host key pinning, ed25519 keys and o",
+      "likes": 53,
+      "views": 0,
+      "url": "https://x.com/i/status/2118716037344403707",
+      "is_kol": false,
+      "score": 169.0
+    },
+    {
+      "id": "2118711759792144408",
+      "author": "dair_ai",
+      "text": "Brilliant paper on optimizing agent environments.\n\nThis is an extremely important skill if you work with agents today.\n\nYou can make a lot of improvements by optimizing the environments agents operate in.\n\nMany agents work inside a shared workspace, such as a company's Slack or a",
+      "likes": 43,
+      "views": 0,
+      "url": "https://x.com/i/status/2118711759792144408",
+      "is_kol": false,
+      "score": 164.0
+    }
+  ]
+}

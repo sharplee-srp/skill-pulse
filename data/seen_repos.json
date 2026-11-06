@@ -9234,5 +9234,41 @@
   "stone16/harness-engineering-skills": {
     "first_seen": "2026-11-05",
     "tier": 3
+  },
+  "nangohq/nango": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "zenstory-ai/drama-skills": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "oxylabs/web-api-skills": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "mirage-hq/tesseract": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "autonnel/autonnel-skills": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "tinrab/no-slop-rs": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "chenjin-cmd/xhs-virtual-product": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "51aitech/llms-txt-check": {
+    "first_seen": "2026-11-06",
+    "tier": 3
+  },
+  "hector-ai-91/video-podcast-clipper": {
+    "first_seen": "2026-11-06",
+    "tier": 3
   }
 }
